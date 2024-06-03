@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 03 Jun 2024 19:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 21:10:53 GMT</lastBuildDate>
     <item>
-      <title>Spotify 一年內第二次漲價，7 月價格上漲最多 3 美元</title>
+      <title>PlayStation VR2 的 PC 轉接器將於今年 8 月上市，但缺少一些功能</title>
+      <link>https://arstechnica.com/?p=2028680</link>
+      <description><![CDATA[你可以在上面玩Steam遊戲，但許多現代技巧都被禁用。]]></description>
+      <guid>https://arstechnica.com/?p=2028680</guid>
+      <pubDate>Mon, 03 Jun 2024 20:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國再次登陸月球，向載人使命又邁進了一步</title>
+      <link>https://arstechnica.com/?p=2028564</link>
+      <description><![CDATA[本十年餘下時間裡最主要的太空故事情節是美中競賽。]]></description>
+      <guid>https://arstechnica.com/?p=2028564</guid>
+      <pubDate>Mon, 03 Jun 2024 19:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>黛西雷德利 (Daisy Ridley) 接受了數月的訓練，以飾演第一位游泳英吉利海峽的女性</title>
+      <link>https://arstechnica.com/?p=2027358</link>
+      <description><![CDATA[Siobhan-Marie O’Connor：“這個角色有很多不同的游泳元素。”]]></description>
+      <guid>https://arstechnica.com/?p=2027358</guid>
+      <pubDate>Mon, 03 Jun 2024 19:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 不小心將內部搜尋文件發佈到 GitHub</title>
+      <link>https://arstechnica.com/?p=2028484</link>
+      <description><![CDATA[Commit snafu 對機密 API 文件授予了不可撤銷的 Apache 2.0 授權。]]></description>
+      <guid>https://arstechnica.com/?p=2028484</guid>
+      <pubDate>Mon, 03 Jun 2024 18:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 漲價高達 3 美元，因為沮喪的訂閱者懇求它“只做音樂”</title>
       <link>https://arstechnica.com/?p=2028575</link>
       <description><![CDATA[Spotify 上次漲價是在 2023 年 7 月。]]></description>
       <guid>https://arstechnica.com/?p=2028575</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[預測全球天氣的新模型可以在一台桌上型電腦上運行。]]></description>
       <guid>https://arstechnica.com/?p=2027736</guid>
       <pubDate>Mon, 03 Jun 2024 11:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 新一代 Ryzen 9000 桌上型晶片和 Zen 5 架構將於 7 月上市</title>
-      <link>https://arstechnica.com/?p=2028305</link>
-      <description><![CDATA[但 AMD 表示，AM4 將在 2025 年之前繼續用於廉價 PC。]]></description>
-      <guid>https://arstechnica.com/?p=2028305</guid>
-      <pubDate>Mon, 03 Jun 2024 03:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 兩年內第二次炸毀了筆記型電腦 CPU 編號系統</title>
-      <link>https://arstechnica.com/?p=2027786</link>
-      <description><![CDATA[AMD 改變了筆記型電腦 CPU 的「解碼器環」編號系統的方向。]]></description>
-      <guid>https://arstechnica.com/?p=2027786</guid>
-      <pubDate>Mon, 03 Jun 2024 03:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 推出 Ryzen AI 300 晶片，配備 Zen 5、更好的 GPU 和大幅改進的 NPU</title>
-      <link>https://arstechnica.com/?p=2028308</link>
-      <description><![CDATA[高階 Ryzen 筆記型電腦晶片首次結合了大小 Zen 核心。]]></description>
-      <guid>https://arstechnica.com/?p=2028308</guid>
-      <pubDate>Mon, 03 Jun 2024 03:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>尿還是不尿？這是膀胱和大腦的問題</title>
-      <link>https://arstechnica.com/?p=2028330</link>
-      <description><![CDATA[基本的小便衝動非常複雜，並且隨著年齡的增長可能會出現問題。]]></description>
-      <guid>https://arstechnica.com/?p=2028330</guid>
-      <pubDate>Sun, 02 Jun 2024 11:27:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
