@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Jun 2024 18:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 19:09:58 GMT</lastBuildDate>
+    <item>
+      <title>Arm執行長的目標是在5年內征服一半的Windows世界</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_50_percent_windows/</link>
+      <description><![CDATA[晶片分析師表示，這可能是一廂情願的想法 Computex  據執行長 Rene Haas 表示，Arm 預計在五年內獲得 Windows PC 50% 的市場份額...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_50_percent_windows/</guid>
+      <pubDate>Mon, 03 Jun 2024 19:00:44 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 的召回功能在 Copilot+ 電腦上預設為開啟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/windows_11_recall_on_default/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>紐約證券交易所技術錯誤導致股市暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</link>
-      <description><![CDATA[交易所表示，問題涉及旨在防止波動的限制區間 突發新聞 紐約證券交易所的故障已導致幾隻備受矚目的股票在之前迅速貶值被鎖定交易。]]></description>
+      <description><![CDATA[交易所表示，問題涉及旨在防止波動的限制區間 已更新 紐約證券交易所的一個故障已導致幾隻備受矚目的股票在被交易前迅速貶值。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</guid>
       <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[光達、雷達和攝影機的融合可能會被孩子手工藝箱裡的東西所愚弄 來自著名大學的研究團隊，包括紐約州立大學布法羅分校、愛荷華州立大學、北卡羅來納大學夏洛特分校和普渡大學– 透過欺騙其多感測器融合系統，能夠將在中國網路巨頭百度的開源阿波羅駕駛平台上運行的自動駕駛汽車（AV）變成致命武器。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/baidu_robotaxi_attack/</guid>
       <pubDate>Mon, 03 Jun 2024 05:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Stable Diffusion 3》將於 6 月 12 日首演</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/stable_diffusion_3_release_schedule/</link>
-      <description><![CDATA[CTO 喜歡他所看到的，但渴望更多的內存和計算 Computex 文本到圖像模型Stable Diffusion 的第三個版本將於6 月發佈公共預覽版12.… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/stable_diffusion_3_release_schedule/</guid>
-      <pubDate>Mon, 03 Jun 2024 04:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
