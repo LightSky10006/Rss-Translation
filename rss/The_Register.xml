@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Jun 2024 16:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 17:34:47 GMT</lastBuildDate>
+    <item>
+      <title>能源愛好者對小型模組化反應器進行了巨大的現實檢驗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/small_modular_reactor_criticism/</link>
+      <description><![CDATA[IEEFA 專家表示，對於投資者而言，成本太高、速度慢且風險大，他們正在將注意力從可再生能源上轉移開 微型核反應器承諾未來將充滿本地、清潔、安全的零碳能源，但兩位研究人員表示，當面對現實時，這些承諾很快就會消失。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/small_modular_reactor_criticism/</guid>
+      <pubDate>Mon, 03 Jun 2024 17:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>Arm 執行長在紐約 IPO 中斬獲 7000 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_chief_ipo_bonus/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Arm，schmarm：執行長Lisa Su 表示，採用Block FP16 的新型50TOPS NPU 確實讓AI 歌唱 Computex 兩週後，微軟推出了完全基於Arm的AI PC - AMD 宣布推出兩款搭載高通處理器的PC CPU 系列，其在處理AI 方面的表現與任何競爭對手一樣好，甚至更好，此外還有據稱是有史以來最快的消費級處理器的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/amd_ryzen_300_ai/</guid>
       <pubDate>Mon, 03 Jun 2024 03:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Broadcom 的 VMware 贏得了 Microsoft 的授權可攜性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/vmware_broadcom_licence_portability_microsoft/</link>
-      <description><![CDATA[如果客戶能夠在支援入口網站遷移後找到他們的金鑰就好了 Broadcom 的 VMware 已贏得 Microsoft 對其授權可移植性計畫的支援。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/vmware_broadcom_licence_portability_microsoft/</guid>
-      <pubDate>Mon, 03 Jun 2024 03:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
