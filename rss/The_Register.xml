@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Jun 2024 19:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 20:11:24 GMT</lastBuildDate>
+    <item>
+      <title>騙子威脅要洩露「從背景調查公司竊取」的 3B 個人記錄</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/usdod_data_dump/</link>
+      <description><![CDATA[事實證明選擇退出確實有效嗎？ ，這些記錄可能很快就會洩漏到網路上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/usdod_data_dump/</guid>
+      <pubDate>Mon, 03 Jun 2024 19:36:14 GMT</pubDate>
+    </item>
     <item>
       <title>Arm執行長的目標是在5年內征服一半的Windows世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_50_percent_windows/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Arm 執行長在紐約 IPO 中斬獲 7000 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_chief_ipo_bonus/</link>
-      <description><![CDATA[英國晶片設計公司著眼於主導人工智慧市場 Arm 執行長雷內·哈斯(Rene Haas) 去年賺了7,010 萬美元，成為該公司在紐約IPO 的主要受益者。]]></description>
+      <description><![CDATA[英國晶片設計公司著眼於主導人工智慧市場 Arm 執行長雷內·哈斯(Rene Haas) 去年賺了7,010 萬美元，成為這家CPU 設計公司在紐約IPO 的主要受益者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_chief_ipo_bonus/</guid>
       <pubDate>Mon, 03 Jun 2024 16:34:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐洲官員向他們提出了一個無法拒絕的提議 根據《歐洲晶片法案》，意法半導體將獲得歐盟20 億歐元（21.7 億美元）的資金，用於在義大利建造一家高功率半導體製造工廠用於電動車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/stmicro_chip_fab/</guid>
       <pubDate>Mon, 03 Jun 2024 06:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員用紙板上塗有錫箔和油漆來撞毀百度自動駕駛汽車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/baidu_robotaxi_attack/</link>
-      <description><![CDATA[光達、雷達和攝影機的融合可能會被孩子手工藝箱裡的東西所愚弄 來自著名大學的研究團隊，包括紐約州立大學布法羅分校、愛荷華州立大學、北卡羅來納大學夏洛特分校和普渡大學– 透過欺騙其多感測器融合系統，能夠將在中國網路巨頭百度的開源阿波羅駕駛平台上運行的自動駕駛汽車（AV）變成致命武器。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/baidu_robotaxi_attack/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:48:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
