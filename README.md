@@ -21,3 +21,5 @@
  - source008 [https://rsshub.app/reuters/business](https://rsshub.app/reuters/business) -> [Reuters_Business](rss/Reuters_Business.xml)
  - source009 [https://rsshub.app/reuters/breakingviews](https://rsshub.app/reuters/breakingviews) -> [Reuters_Breakingviews](rss/Reuters_Breakingviews.xml)
  - source010 [https://rsshub.app/reuters/technology](https://rsshub.app/reuters/technology) -> [Reuters_Technology](rss/Reuters_Technology.xml)
+ - source011 [https://www.theregister.com/headlines.atom](https://www.theregister.com/headlines.atom) -> [The_Register](rss/The_Register.xml)
+ - source012 [https://www.wired.com/feed/rss](https://www.wired.com/feed/rss) -> [Wired](rss/Wired.xml)
