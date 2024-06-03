@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Jun 2024 17:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 18:38:51 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 的召回功能在 Copilot+ 電腦上預設為開啟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/windows_11_recall_on_default/</link>
+      <description><![CDATA[停用AI 快照程式需要普通使用者進入「設定」 在Windows 設定過程中預設啟用微軟備受爭議的「召回」功能，使用者必須深入研究Windows 設定才能將其關閉。 .. ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/windows_11_recall_on_default/</guid>
+      <pubDate>Mon, 03 Jun 2024 18:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>能源愛好者對小型模組化反應器進行了巨大的現實檢驗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/small_modular_reactor_criticism/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[CTO 喜歡他所看到的，但渴望更多的內存和計算 Computex 文本到圖像模型Stable Diffusion 的第三個版本將於6 月發佈公共預覽版12.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/stable_diffusion_3_release_schedule/</guid>
       <pubDate>Mon, 03 Jun 2024 04:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們是 AI PC CPU 中的 Ryzen 力量：AMD</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/amd_ryzen_300_ai/</link>
-      <description><![CDATA[Arm，schmarm：執行長Lisa Su 表示，採用Block FP16 的新型50TOPS NPU 確實讓AI 歌唱 Computex 兩週後，微軟推出了完全基於Arm的AI PC - AMD 宣布推出兩款搭載高通處理器的PC CPU 系列，其在處理AI 方面的表現與任何競爭對手一樣好，甚至更好，此外還有據稱是有史以來最快的消費級處理器的晶片。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/amd_ryzen_300_ai/</guid>
-      <pubDate>Mon, 03 Jun 2024 03:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
