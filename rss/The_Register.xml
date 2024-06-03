@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Jun 2024 15:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 15:34:16 GMT</lastBuildDate>
+    <item>
+      <title>微軟將斥資 3.2B 美元在綠色能源豐富的瑞典擴展雲端和人工智慧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/microsoft_spends_32b_on_expanding/</link>
+      <description><![CDATA[未來 2 年建築和 20K GPU 等方面的預算將大幅增加 就在報告 2023 年二氧化碳排放量增加幾週後，微軟表示將在瑞典投資 32 億美元未來兩年，擴大在該國的雲端和人工智慧業務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/microsoft_spends_32b_on_expanding/</guid>
+      <pubDate>Mon, 03 Jun 2024 15:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>紐約證券交易所技術錯誤導致股市暴跌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</link>
+      <description><![CDATA[交易所表示，問題涉及旨在防止波動的限制區間 突發新聞 紐約證券交易所的故障已導致幾隻備受矚目的股票在之前迅速貶值被鎖定交易。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</guid>
+      <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
+    </item>
     <item>
       <title>奧運將近，俄羅斯因假訊息獲得金牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</link>
@@ -69,7 +83,7 @@
       <pubDate>Mon, 03 Jun 2024 09:41:52 GMT</pubDate>
     </item>
     <item>
-      <title>Broadcom 的 VMware 策略看起來越來越不穩定，而且相關性越來越低</title>
+      <title>Broadcom 的 VMware 策略看起來越來越不穩定，而且相關性越來越小</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</link>
       <description><![CDATA[是的，又是該死的人工智慧 觀點 對許多人來說，Broadcom 的 VMware 意味著巨大的痛苦。該虛擬化平台的新主人已經開始對大戶漲價，對小戶強行驅逐。分界線不明確。似乎由鑿痕觸發的共享存儲庫Computershare 的24,000 個席位遷移表明事情可能不會按計劃進行。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[House of Zen 希望透過每年發布一次的節奏來趕上AI 競爭對手 Computex AMD 的旗艦AI 加速器將在其MI325X 稍後推出時獲得高頻寬提升今年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/</guid>
       <pubDate>Mon, 03 Jun 2024 03:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科的緊急呼叫者可能會將急救人員傳送到錯誤的位置</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/cisco_emergency_responder_misdirects/</link>
-      <description><![CDATA[911 是個笑話 思科警告說，其緊急應變程式產品在某些情況下可能會將緊急服務發送到錯誤的位置。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/cisco_emergency_responder_misdirects/</guid>
-      <pubDate>Mon, 03 Jun 2024 02:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國嫦娥六號探測器在月球背面著陸</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/asia_tech_news_roundup/</link>
-      <description><![CDATA[PLUS：新加坡推出人工智慧安全工具；薩蒂亞·納德拉 (Satya Nadella) 被印度政府罰款；中國阻止有影響力的人炫耀金光閃閃 亞洲簡介 中國的嫦娥六號探測器已於週日降落在月球背面。 p&gt;&lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/asia_tech_news_roundup/</guid>
-      <pubDate>Mon, 03 Jun 2024 00:44:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
