@@ -4,25 +4,32 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 22:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 23:12:30 GMT</lastBuildDate>
     <item>
-      <title>不幸的是 AT&T、Verizon 用戶遭遇美國停電</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/att_verizon_outage/</link>
-      <description><![CDATA[如果您想知道為什麼連接目前似乎很糟糕 發展中 至少一些 AT&amp;T 用戶目前正在經歷中斷，而且似乎主要發生在東海岸儘管據說是美國的全國性的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/att_verizon_outage/</guid>
+      <title>Digital Realty 技術長探討人工智慧對權力的永不滿足的渴望</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/datacenter_power_ai/</link>
+      <description><![CDATA[夏普告訴 El Reg，如果電網跟不上，DC 可能會被迫自行供應主要電源採訪眾所周知，用於訓練而運行生成式人工智慧模型的GPU 是耗電的小野獸。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/datacenter_power_ai/</guid>
+      <pubDate>Tue, 04 Jun 2024 22:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>不幸的是，美國電話電報公司 (AT&T) 用戶在美國停電數小時中難以撥打電話</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/att_call_outage/</link>
+      <description><![CDATA[如果您想知道為什麼現在連接似乎很糟糕 美國的許多 AT&amp;T 用戶今天已經有幾個小時無法打電話給其他運營商的用戶了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/att_call_outage/</guid>
       <pubDate>Tue, 04 Jun 2024 21:30:07 GMT</pubDate>
     </item>
     <item>
       <title>司令部高級首長因在美國海軍戰艦上秘密設置Wi-Fi而被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/us_navy_ship_chief_demoted/</link>
-      <description><![CDATA[在海軍，不可以，你不能擁有未經授權的 WLAN。在海軍，不，這不是一個好計劃 美國海軍通過降職下令建立該網絡的高級士兵領導人，打擊了戰艦上安裝的非法 Wi-Fi 網路。 p&gt;]]></description>
+      <description><![CDATA[在海軍，不可以，你不能擁有未經授權的 WLAN。在海軍方面，不，這不是一個好計劃 美國海軍通過降職下令建立該網絡的高級士兵領導人，打擊了戰艦上安裝的非法 Wi-Fi 網路。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/us_navy_ship_chief_demoted/</guid>
       <pubDate>Tue, 04 Jun 2024 20:04:06 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 執行長駁斥了大型科技公司對 NVLink 網路技術的攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</link>
-      <description><![CDATA[表示UALink 和Ultra 乙太網路在未來幾年不會構成威脅，因為他透露了Blackwell 和免費NIM 的繼任者 Computex  Nvidia 執行長黃仁勳( Jensen Huang) 對大型科技公司的嘗試不屑一顧。]]></description>
+      <description><![CDATA[表示UALink 和Ultra 乙太網路在幾年內不會構成威脅，因為他透露了Blackwell 的繼任者和免費NIM Computex  Nvidia 執行長黃仁勳(Jensen Huang) 對大型科技公司的嘗試不屑一顧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</guid>
       <pubDate>Tue, 04 Jun 2024 19:41:07 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>“建立人工智慧同事將成為我們一生中最大的科技機會”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/genai_coworkers_thomson_reuters/</link>
-      <description><![CDATA[湯森路透機器人老闆是這麼說的 跨國資訊集團湯森路透的人工智慧機器人 CoCounsel 的產品主管 Jake Heller 對任何銷售人工智慧軟體的人有一個建議：不要出售軟體.... ]]></description>
+      <description><![CDATA[湯森路透機器人老闆是這麼說的 跨國資訊集團湯森路透的人工智慧機器人 CoCounsel 的產品負責人 Jake Heller 對任何銷售人工智慧軟體的人有一個建議：不要出售軟體... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/genai_coworkers_thomson_reuters/</guid>
       <pubDate>Tue, 04 Jun 2024 15:01:11 GMT</pubDate>
     </item>
     <item>
       <title>RansomHub 聲稱，克里斯蒂被盜的資料被賣給了最高出價者，而不是被洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</link>
-      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭受攻擊的網路犯罪分子也自以為是拍賣師，據稱他們將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
+      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭到攻擊的網路犯罪分子也自以為是拍賣師，因為他們據稱將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</guid>
       <pubDate>Tue, 04 Jun 2024 14:32:51 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>因中國威脅，台積電考慮將晶片工廠遷出台灣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</link>
-      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於其帶來的困難而決定反對這一舉動。]]></description>
+      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於它帶來的困難而決定反對這一舉動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</guid>
       <pubDate>Tue, 04 Jun 2024 13:30:13 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
-      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙瓦倫西亞市將其墓地變成繁華的再生能源中心。]]></description>
+      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</guid>
       <pubDate>Tue, 04 Jun 2024 12:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Edge 鞏固其桌面瀏覽器第二名的地位 微軟將於本月推出Copilot+ AI 電腦，旨在提高不受歡迎的Windows 11 作業系統的採用率。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/windows_11_market_share/</guid>
       <pubDate>Tue, 04 Jun 2024 11:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 ChatGPT 早上休息，數百萬人被迫使用大腦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/openai_chatgpt_outage/</link>
-      <description><![CDATA[機器人與雲端中的其他東西一樣容易崩潰 已更新 OpenAI 的 ChatGPT 遭遇了“嚴重中斷”，導致客戶無法與超級實驗室的對話聊天機器人。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/openai_chatgpt_outage/</guid>
-      <pubDate>Tue, 04 Jun 2024 10:31:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
