@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 03:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 04:35:45 GMT</lastBuildDate>
+    <item>
+      <title>華碩創造了一種新物質：Ceraluminum，它融合了鋁和陶瓷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/asus_ceraluminum_amd_copilot_laptops/</link>
+      <description><![CDATA[不是unobtanium 或vapwareum，因為它很快就會出現在16 英寸Zenbook lappie 上 Computex  華碩為世界帶來了一種新物質，並且有一個朗朗上口的新名稱：陶瓷鋁.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/asus_ceraluminum_amd_copilot_laptops/</guid>
+      <pubDate>Tue, 04 Jun 2024 04:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾詳細介紹了 Lunar Lake PC 晶片如何提供 120 TOPS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_details_lunar_lake_tops/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
-      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析 Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
+      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析  Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</guid>
       <pubDate>Tue, 04 Jun 2024 02:25:07 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>奧運將近，俄羅斯因假訊息獲得金牌</title>
+      <title>奧運臨近，俄羅斯因假訊息獲得金牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</link>
-      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國的這種情緒正在加劇。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國國家的這種情緒正在加劇。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</guid>
       <pubDate>Mon, 03 Jun 2024 14:45:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「不幸的是，電源通常不會發生故障......直到它發生」 波音公司的Starliner 再次未能發射，這次是由於地面電腦機箱中的電源故障...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/boeing_starliner_launch_scrubbed/</guid>
       <pubDate>Mon, 03 Jun 2024 12:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Check Point 警告客戶修補主動使用的 VPN 漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/infosec_in_brief/</link>
-      <description><![CDATA[此外，免費鋼琴是最新的網路詐騙誘餌，Cooler Master 被破解，還有一些嚴重漏洞 資訊安全簡介 網路安全軟體供應商Check Point 警告客戶進行更新他們的軟體立即鑑於正在積極利用的零日漏洞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/infosec_in_brief/</guid>
-      <pubDate>Mon, 03 Jun 2024 12:02:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
