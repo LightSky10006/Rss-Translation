@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 04 Jun 2024 09:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 10:12:11 GMT</lastBuildDate>
+    <item>
+      <title>聯邦調查局史上最大的誘捕行動內幕</title>
+      <link>https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/</link>
+      <description><![CDATA[當一個名叫微軟的毒梟試圖為犯罪者奪取加密電話公司的控制權時，他正中了該公司真正所有者的下懷。]]></description>
+      <guid>https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/</guid>
+      <pubDate>Tue, 04 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯人喜歡 YouTube。這對克里姆林宮來說是一個問題</title>
       <link>https://www.wired.com/story/youtube-russia-propaganda-censorship-2024/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>Dyson Supersonic Nural 吹風機評測：快速乾燥和新型智慧配件</title>
       <link>https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/</link>
-      <description><![CDATA[這不僅僅是空話。戴森的新型烘乾機除了昂貴之外，還具有令人印象深刻的智慧功能和配件。]]></description>
+      <description><![CDATA[這不僅僅是空話。戴森的新型烘乾機除了價格昂貴之外，還具有令人印象深刻的智慧功能和配件。]]></description>
       <guid>https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/</guid>
       <pubDate>Sun, 02 Jun 2024 14:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[當 YouTube 的 Content ID 系統出現問題時，就會出現非常非常錯誤的情況。]]></description>
       <guid>https://www.wired.com/story/youtube-content-id-samsung-washing-machine-chime-demonetize/</guid>
       <pubDate>Sat, 01 Jun 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HMD Vibe 評測：性能還行，其他都還行</title>
-      <link>https://www.wired.com/review/hmd-vibe/</link>
-      <description><![CDATA[這款售價 150 美元的 Android 手機表現良好，但並未完全通過氣氛測試。]]></description>
-      <guid>https://www.wired.com/review/hmd-vibe/</guid>
-      <pubDate>Sat, 01 Jun 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
