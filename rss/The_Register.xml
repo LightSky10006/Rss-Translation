@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 07:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 08:14:04 GMT</lastBuildDate>
+    <item>
+      <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 言辭激烈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</link>
+      <description><![CDATA[透露首款18A 晶片將於下週運行，因為他在價格上削弱了H100，並忽略了X Elite 指標 Computex 英特爾執行長Pat Gelsinger在Computex 會議上發表了主題演講在台灣，向競爭對手高通和英偉達進行回擊，並展示一款他認為將讓他的主張勝於雄辯的產品。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</guid>
+      <pubDate>Tue, 04 Jun 2024 07:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 推出由 Hailo 驅動的 AI 套件，讓 Model 5 更智能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/raspberry_pi_ai_kit/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
-      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析  Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
+      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析 Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</guid>
       <pubDate>Tue, 04 Jun 2024 02:25:07 GMT</pubDate>
     </item>
@@ -125,9 +132,9 @@
       <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>奧運臨近，俄羅斯因假訊息獲得金牌</title>
+      <title>奧運將近，俄羅斯因假訊息獲得金牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</link>
-      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國國家的這種情緒正在加劇。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國的這種情緒正在加劇。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</guid>
       <pubDate>Mon, 03 Jun 2024 14:45:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[變得更好，但還需要更多工作 美國國家標準與技術研究所檢查了年齡估計軟體並得出結論，它已經有所改進，但仍需要改進。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/us_standards_agency_publishes_a/</guid>
       <pubDate>Mon, 03 Jun 2024 14:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟可能會開出一張巨額支票來避免雲端反壟斷投訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/cispe_microsoft_negotiations/</link>
-      <description><![CDATA[歐洲雲端遊說團體堅稱「尚未達成任何協議」 據報道，微軟正準備與雲端遊說團體CISPE 簽署一項價值數百萬歐元的協議，以消除歐盟反壟斷投訴。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/cispe_microsoft_negotiations/</guid>
-      <pubDate>Mon, 03 Jun 2024 13:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
