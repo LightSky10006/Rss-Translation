@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 08:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 08:37:03 GMT</lastBuildDate>
+    <item>
+      <title>將死？事實證明，人工智慧的推兵能力部分令人遺憾，部分充滿希望</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/chess_puzzle_benchmark_llm/</link>
+      <description><![CDATA[GPT-4o 遠遠優於其他模型，但仍有 13% 的時間進行非法操作 大型語言模型 (LLM) 的新基準表明，即使是最新的模型也不是最好的西洋棋手。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/chess_puzzle_benchmark_llm/</guid>
+      <pubDate>Tue, 04 Jun 2024 08:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 言辭激烈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
-      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二在台北國際電腦展上推出至強 6 處理器，英特爾更接近重新奪回相對於競爭對手 AMD 和 Ampere 的核心數量領先優勢。]]></description>
+      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二，英特爾在台北國際電腦展上推出至強 6 處理器，距離奪回核心數量領先競爭對手 AMD 和 Ampere 更近了一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</guid>
       <pubDate>Tue, 04 Jun 2024 03:01:11 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>奧運將近，俄羅斯因假訊息獲得金牌</title>
+      <title>奧運臨近，俄羅斯因假訊息獲得金牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</link>
-      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國的這種情緒正在加劇。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國國家的這種情緒正在加劇。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</guid>
       <pubDate>Mon, 03 Jun 2024 14:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國標準機構報告年齡驗證軟體有多好</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/us_standards_agency_publishes_a/</link>
-      <description><![CDATA[變得更好，但還需要更多工作 美國國家標準與技術研究所檢查了年齡估計軟體並得出結論，它已經有所改進，但仍需要改進。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/us_standards_agency_publishes_a/</guid>
-      <pubDate>Mon, 03 Jun 2024 14:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
