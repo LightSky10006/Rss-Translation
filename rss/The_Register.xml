@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 14:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 14:35:46 GMT</lastBuildDate>
+    <item>
+      <title>RansomHub 聲稱，克里斯蒂被盜的資料被賣給了最高出價者，而不是被洩露</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</link>
+      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭到攻擊的網路犯罪分子也自以為是拍賣師，因為他們據稱將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</guid>
+      <pubDate>Tue, 04 Jun 2024 14:32:51 GMT</pubDate>
+    </item>
     <item>
       <title>微軟被指控使用教育軟體追蹤兒童</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/noyb_microsoft_complaint/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
-      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？ 此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
+      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</guid>
       <pubDate>Tue, 04 Jun 2024 12:30:11 GMT</pubDate>
     </item>
@@ -69,9 +76,9 @@
       <pubDate>Tue, 04 Jun 2024 08:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 言辭激烈</title>
+      <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 怒不可遏</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</link>
-      <description><![CDATA[透露首款18A 晶片將於下週運行，因為他在價格上削弱了H100，並忽略了X Elite 指標 Computex 英特爾執行長Pat Gelsinger在Computex 會議上發表了主題演講在台灣，向競爭對手高通和英偉達進行回擊，並展示一款他認為將讓他的主張勝於雄辯的產品。]]></description>
+      <description><![CDATA[透露首款18A 晶片將於下週運行，他在價格上削弱了H100，並忽略了X Elite 指標 Computex 英特爾執行長Pat Gelsinger 在Computex 會議上發表了主題演講在台灣，向競爭對手高通和英偉達進行回擊，並展示一款他認為將讓他的主張勝於雄辯的產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</guid>
       <pubDate>Tue, 04 Jun 2024 07:45:06 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
-      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二，英特爾在台北國際電腦展上推出至強 6 處理器，距離奪回核心數量領先競爭對手 AMD 和 Ampere 更近了一步。]]></description>
+      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二在台北國際電腦展上推出至強 6 處理器，英特爾更接近重新奪回相對於競爭對手 AMD 和 Ampere 的核心數量領先優勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</guid>
       <pubDate>Tue, 04 Jun 2024 03:01:11 GMT</pubDate>
     </item>
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
-      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析 Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
+      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析  Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</guid>
       <pubDate>Tue, 04 Jun 2024 02:25:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們正在等待舊金山陪審團的裁決 今天，邁克·林奇(Mike Lynch) 在舊金山舉行的刑事欺詐審判中發表了結案陳詞，距離引發整個混亂的惠普/Autonomy合併已有十多年了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/lynch_autonomy_trial/</guid>
       <pubDate>Mon, 03 Jun 2024 22:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIST 求助於 IT 顧問來清理國家漏洞資料庫積壓的工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nist_cve_backlog/</link>
-      <description><![CDATA[目標是在 24 財年末之前清除 CVE 僵局 面對報告的缺陷數量不斷增加，NIST 已與外部諮詢公司延長了商業合同，以幫助其解決國家漏洞問題數據庫（NVD ）...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nist_cve_backlog/</guid>
-      <pubDate>Mon, 03 Jun 2024 21:46:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
