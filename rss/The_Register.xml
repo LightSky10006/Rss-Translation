@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 06:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 07:11:08 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi 推出由 Hailo 驅動的 AI 套件，讓 Model 5 更智能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/raspberry_pi_ai_kit/</link>
+      <description><![CDATA[13 TOPS 售價70 美元，PiBoss Eben Upton 預測ML 爆炸 Raspberry Pi 為其單板電腦創建了一個機器學習附加功能，配備Hailo-8L AI 加速器。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/raspberry_pi_ai_kit/</guid>
+      <pubDate>Tue, 04 Jun 2024 07:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>飛行電話基地台將於 2026 年在日本上空起飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/aalto_haps_japan/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐洲雲端遊說團體堅稱「尚未達成任何協議」 據報道，微軟正準備與雲端遊說團體CISPE 簽署一項價值數百萬歐元的協議，以消除歐盟反壟斷投訴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/cispe_microsoft_negotiations/</guid>
       <pubDate>Mon, 03 Jun 2024 13:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atos 設定了挑選救援方案的最後期限，你得趕緊想起來了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/atos_rescue_packages/</link>
-      <description><![CDATA[6 月5 日是選擇Onepoint 領導的財團或Daniel Křetínský 的EPEI 的日子 HPC 巨頭Atos 已在6 月5 日（即本週三）之前決定在競爭對手的財務重組提案中做出決定，以減少公司債務並為其未來的財務奠定更堅實的基礎。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/atos_rescue_packages/</guid>
-      <pubDate>Mon, 03 Jun 2024 13:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
