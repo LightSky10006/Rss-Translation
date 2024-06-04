@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 03:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 03:35:20 GMT</lastBuildDate>
+    <item>
+      <title>英特爾詳細介紹了 Lunar Lake PC 晶片如何提供 120 TOPS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_details_lunar_lake_tops/</link>
+      <description><![CDATA[更大的NPU、更快的GPU 圖形核心以及封裝記憶體將在晶片上實現這一點 Computex 在人工智慧PC 的新興世界中，一切最終都會沸騰深入 TOPS：您的神經處理單元 (NPU)、GPU 和/或 CPU 可以處理多少萬億位元組大小的操作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_details_lunar_lake_tops/</guid>
+      <pubDate>Tue, 04 Jun 2024 03:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
-      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析  Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
+      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析 Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</guid>
       <pubDate>Tue, 04 Jun 2024 02:25:07 GMT</pubDate>
     </item>
@@ -97,9 +104,9 @@
       <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>奧運臨近，俄羅斯因假訊息獲得金牌</title>
+      <title>奧運將近，俄羅斯因假訊息獲得金牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</link>
-      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國國家的這種情緒正在加劇。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[以湯姆·克魯斯(Tom Cruise) 的深度偽造品和多種捏造的恐怖主義威脅為特色 俄羅斯仍在就其與國際體育的關係大肆宣揚，並針對奧運會和主辦國進行多管齊下的假訊息宣傳活動隨著開幕式的臨近，法國的這種情緒正在加劇。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/russias_cyberattacks_against_2024_olympics/</guid>
       <pubDate>Mon, 03 Jun 2024 14:45:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外，免費鋼琴是最新的網路詐騙誘餌，Cooler Master 被破解，還有一些嚴重漏洞 資訊安全簡介 網路安全軟體供應商Check Point 警告客戶進行更新他們的軟體立即鑑於正在積極利用的零日漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/infosec_in_brief/</guid>
       <pubDate>Mon, 03 Jun 2024 12:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為將走：中國科技巨頭在可折疊智慧型手機領域排名第一</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/huawei_foldables/</link>
-      <description><![CDATA[儘管如此，仍難以為國產 5G SoC 爭取供應 美國的製裁似乎並沒有阻止華為，因為這家中國科技巨頭現已躍居全球智慧型手機出貨量榜首，至少就可折疊型號而言是如此…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/huawei_foldables/</guid>
-      <pubDate>Mon, 03 Jun 2024 11:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
