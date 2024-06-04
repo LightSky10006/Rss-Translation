@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 12:50:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 13:13:18 GMT</lastBuildDate>
+    <item>
+      <title>分析師呼籲微軟召回</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/microsoft_analysts_recall/</link>
+      <description><![CDATA[「這是否能為用戶或企業增加真正的價值？」 如果微軟想讓2024 年的Build 活動被爭議所掩蓋，那麼隨著要求該公司重新考慮其策略的呼聲越來越高，它就成功了回想一下。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/microsoft_analysts_recall/</guid>
+      <pubDate>Tue, 04 Jun 2024 13:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[晶片分析師表示，這可能是一廂情願的想法 Computex  據執行長 Rene Haas 表示，Arm 預計在五年內獲得 Windows PC 50% 的市場份額...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/arm_50_percent_windows/</guid>
       <pubDate>Mon, 03 Jun 2024 19:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 的召回功能在 Copilot+ 電腦上預設為開啟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/windows_11_recall_on_default/</link>
-      <description><![CDATA[停用AI 快照程式需要普通使用者進入「設定」 在Windows 設定過程中預設啟用微軟備受爭議的「召回」功能，使用者必須深入研究Windows 設定才能將其關閉。 .. ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/windows_11_recall_on_default/</guid>
-      <pubDate>Mon, 03 Jun 2024 18:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
