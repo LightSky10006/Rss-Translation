@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 04 Jun 2024 18:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:37:16 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 駭客透過 DM 瞄準「高調」用戶</title>
+      <link>https://www.wired.com/story/tiktok-dm-exploit/</link>
+      <description><![CDATA[TikTok 已確認存在“潛在漏洞”，該漏洞正被用來透過私訊追蹤屬於媒體組織和名人（包括 CNN 和帕麗斯希爾頓）的帳戶。]]></description>
+      <guid>https://www.wired.com/story/tiktok-dm-exploit/</guid>
+      <pubDate>Tue, 04 Jun 2024 18:11:11 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌甚至在「披薩膠」慘敗之前就削減了搜尋中的人工智慧概述</title>
       <link>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>該駭客工具提取 Windows 新召回 AI 收集的所有數據</title>
       <link>https://www.wired.com/story/total-recall-windows-recall-ai/</link>
-      <description><![CDATA[Windows Recall 每五秒鐘截取一次螢幕截圖。網路安全研究人員表示，該系統很容易被濫用，一名道德駭客已經建立了一個工具來展示它實際上是多麼容易被濫用。]]></description>
+      <description><![CDATA[Windows Recall 每五秒鐘截取一次螢幕截圖。網路安全研究人員表示，該系統很容易被濫用，一位道德駭客已經建立了一個工具來展示它實際上是多麼容易被濫用。]]></description>
       <guid>https://www.wired.com/story/total-recall-windows-recall-ai/</guid>
       <pubDate>Tue, 04 Jun 2024 15:08:25 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>前總統女兒利用X砲轟南非陰謀論</title>
       <link>https://www.wired.com/story/south-africa-x-twitter-disinformation/</link>
-      <description><![CDATA[南非監督組織發現的與選舉相關的虛假信息絕大多數來自 X，Duduzile Zuma-Sambudla 在那裡發布了一段由唐納德·特朗普背書的虛假視頻。]]></description>
+      <description><![CDATA[南非監督組織發現的與選舉相關的虛假信息絕大多數來自 X，Duduzile Zuma-Sambudla 在那裡發布了一段帶有唐納德·特朗普背書的虛假視頻。]]></description>
       <guid>https://www.wired.com/story/south-africa-x-twitter-disinformation/</guid>
       <pubDate>Mon, 03 Jun 2024 20:55:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Lovense 最新的性玩具以更實惠的價格提供了昂貴的性愛機器的所有優點。]]></description>
       <guid>https://www.wired.com/review/lovense-mini-sex-machine/</guid>
       <pubDate>Mon, 03 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型科技清潔能源缺損已經到來</title>
-      <link>https://www.wired.com/story/big-tech-datacenter-energy-power-grid/</link>
-      <description><![CDATA[亞馬遜和微軟等公司正在競相在歐洲建立新的資料中心，但在幕後，人們擔心如何為它們提供足夠的電力來滿足人工智慧的需求。]]></description>
-      <guid>https://www.wired.com/story/big-tech-datacenter-energy-power-grid/</guid>
-      <pubDate>Mon, 03 Jun 2024 11:49:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
