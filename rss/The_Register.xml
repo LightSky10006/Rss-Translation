@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 17:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:14:33 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 和 Linux 在 Steam 遊戲玩家中佔有一席之地</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/windows_11_linux_steam/</link>
+      <description><![CDATA[Windows 10 目前仍是王者 Windows 11 就像 Linux 一樣。他們在 Steam 上的市佔率都在成長。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/windows_11_linux_steam/</guid>
+      <pubDate>Tue, 04 Jun 2024 18:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>豐田及其他 4 家日本汽車製造商被發現在認證測試中作弊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/toyota_falsified_certification_tests/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>因中國威脅，台積電考慮將晶片工廠遷出台灣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</link>
-      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於其帶來的困難而決定反對這一舉動。]]></description>
+      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於它帶來的困難而決定反對這一舉動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</guid>
       <pubDate>Tue, 04 Jun 2024 13:30:13 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
-      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙瓦倫西亞市將其墓地變成繁華的再生能源中心。]]></description>
+      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？ 此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</guid>
       <pubDate>Tue, 04 Jun 2024 12:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[更大的NPU、更快的GPU 圖形核心以及封裝記憶體將在晶片上實現這一點 Computex 在人工智慧PC 的新興世界中，一切最終都會沸騰深入 TOPS：您的神經處理單元 (NPU)、GPU 和/或 CPU 可以處理多少萬億位元組大小的操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_details_lunar_lake_tops/</guid>
       <pubDate>Tue, 04 Jun 2024 03:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
-      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二在台北國際電腦展上推出至強 6 處理器，英特爾更接近重新奪回相對於競爭對手 AMD 和 Ampere 的核心數量領先優勢。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</guid>
-      <pubDate>Tue, 04 Jun 2024 03:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
