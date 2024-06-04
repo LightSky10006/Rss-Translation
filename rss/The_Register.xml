@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 02:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 03:13:07 GMT</lastBuildDate>
+    <item>
+      <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
+      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二在台北國際電腦展上推出至強 6 處理器，英特爾更接近重新奪回相對於競爭對手 AMD 和 Ampere 的核心數量領先優勢。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</guid>
+      <pubDate>Tue, 04 Jun 2024 03:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[儘管如此，仍難以為國產 5G SoC 爭取供應 美國的製裁似乎並沒有阻止華為，因為這家中國科技巨頭現已躍居全球智慧型手機出貨量榜首，至少就可折疊型號而言是如此…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/huawei_foldables/</guid>
       <pubDate>Mon, 03 Jun 2024 11:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>下議院委員會警告英國可能無法實現 95% 移動覆蓋率的目標</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/uk_may_not_hit_goal/</link>
-      <description><![CDATA[坐在鄉村的一個不合適的地方？這不是什麼好消息 英國的行動網路不太可能達到政府到2025 年12 月覆蓋該國95% 的目標，因為其餘位置將變得越來越困難，因此到達的成本也會更高......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/uk_may_not_hit_goal/</guid>
-      <pubDate>Mon, 03 Jun 2024 10:31:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
