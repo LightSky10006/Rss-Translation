@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 09:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 10:37:14 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 ChatGPT 早上休息，數百萬人被迫使用大腦</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/openai_chatgpt_outage/</link>
+      <description><![CDATA[機器人與雲端中的其他所有東西一樣容易崩潰 OpenAI 的 ChatGPT 遭遇了“嚴重中斷”，導致客戶無法與該公司的聊天機器人交談。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/openai_chatgpt_outage/</guid>
+      <pubDate>Tue, 04 Jun 2024 10:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>哈伯用最後幾個陀螺旋轉瓶子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/hubble_gyro_issues/</link>
@@ -20,9 +27,9 @@
       <pubDate>Tue, 04 Jun 2024 08:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 怒不可遏</title>
+      <title>派特‧基辛格 (Pat Gelsinger) 對高通和英偉達 (Nvidia) 言辭激烈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</link>
-      <description><![CDATA[透露首款18A 晶片將於下週運行，他在價格上削弱了H100，並忽略了X Elite 指標 Computex 英特爾執行長Pat Gelsinger 在Computex 會議上發表了主題演講在台灣，向競爭對手高通和英偉達進行回擊，並展示一款他認為將讓他的主張勝於雄辯的產品。]]></description>
+      <description><![CDATA[透露首款18A 晶片將於下週運行，因為他在價格上削弱了H100，並忽略了X Elite 指標 Computex 英特爾執行長Pat Gelsinger在Computex 會議上發表了主題演講在台灣，向競爭對手高通和英偉達進行回擊，並展示一款他認為將讓他的主張勝於雄辯的產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_gelsinger_computex_keynote/</guid>
       <pubDate>Tue, 04 Jun 2024 07:45:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>哈德遜搖滾公司撤回了指指雪花員工的報告，稱其存在重大洩密事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</link>
-      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析  Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
+      <description><![CDATA[雲端儲存巨頭律師對抗 infosec house 分析 Hudson Rock 援引來自 Snowflake 的法律壓力，刪除了其聲稱不法分子闖入雲端儲存和分析的線上報告巨頭的底層系統並竊取了包括Ticketmaster 和桑坦德銀行在內的數百名潛在客戶的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/snowflake_report_pulled/</guid>
       <pubDate>Tue, 04 Jun 2024 02:25:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[未來 2 年建築和 20K GPU 等方面的預算將大幅增加 就在報告 2023 年二氧化碳排放量增加幾週後，微軟表示將在瑞典投資 32 億美元未來兩年，擴大在該國的雲端和人工智慧業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/microsoft_spends_32b_on_expanding/</guid>
       <pubDate>Mon, 03 Jun 2024 15:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>紐約證券交易所技術錯誤導致股市暴跌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</link>
-      <description><![CDATA[交易所表示，問題涉及旨在防止波動的限制區間 已更新 紐約證券交易所的一個故障已導致幾隻備受矚目的股票在被交易前迅速貶值。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nyse_technical_error/</guid>
-      <pubDate>Mon, 03 Jun 2024 15:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
