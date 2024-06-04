@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Jun 2024 13:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 14:10:58 GMT</lastBuildDate>
+    <item>
+      <title>微軟被指控使用教育軟體追蹤兒童</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/noyb_microsoft_complaint/</link>
+      <description><![CDATA[隱私權組織尋求澄清是否違反了歐盟資料保護法 一個在法律動盪方面擁有豐富記錄的隱私運動組織已要求奧地利資料保護機構調查Microsoft 365 教育，以澄清其是否違反了歐盟資料保護法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/noyb_microsoft_complaint/</guid>
+      <pubDate>Tue, 04 Jun 2024 14:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>因中國威脅，台積電考慮將晶片工廠遷出台灣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</link>
-      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於其帶來的困難而決定反對這一舉動。]]></description>
+      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於它帶來的困難而決定反對這一舉動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</guid>
       <pubDate>Tue, 04 Jun 2024 13:30:13 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
-      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙瓦倫西亞市將其墓地變成繁華的再生能源中心。]]></description>
+      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？ 此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</guid>
       <pubDate>Tue, 04 Jun 2024 12:30:11 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>英特爾以 144 個 e-core Xeon 挑戰 AMD 的 Epycs</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</link>
-      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二在台北國際電腦展上推出至強 6 處理器，英特爾更接近重新奪回相對於競爭對手 AMD 和 Ampere 的核心數量領先優勢。]]></description>
+      <description><![CDATA[第三季將推出128 個p 核心至強處理器，而x86 巨頭將於明年初發布其288 個e 核怪獸 Computex 隨著其多核心處理器的推出週二，英特爾在台北國際電腦展上推出至強 6 處理器，距離奪回核心數量領先競爭對手 AMD 和 Ampere 更近了一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/intel_xeon_epyc/</guid>
       <pubDate>Tue, 04 Jun 2024 03:01:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[目標是在 24 財年末之前清除 CVE 僵局 面對報告的缺陷數量不斷增加，NIST 已與外部諮詢公司延長了商業合同，以幫助其解決國家漏洞問題數據庫（NVD ）...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/nist_cve_backlog/</guid>
       <pubDate>Mon, 03 Jun 2024 21:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>騙子威脅要洩露「從背景調查公司竊取」的 3B 個人記錄</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/03/usdod_data_dump/</link>
-      <description><![CDATA[事實證明選擇退出確實有效嗎？ ，這些記錄可能很快就會洩漏到網路上。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/03/usdod_data_dump/</guid>
-      <pubDate>Mon, 03 Jun 2024 19:36:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
