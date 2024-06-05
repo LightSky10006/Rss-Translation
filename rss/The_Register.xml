@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 01:55:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 02:44:50 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧電腦的定義現在更加模糊，對任何人都沒有幫助——甚至連人工智慧也沒有幫助</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ai_pc_confusion/</link>
+      <description><![CDATA[英特爾執行長 Pat Gelsinger 希望基準測試能超越TOPS，但警告我們將面臨數月的不確定性 Computex 分析 今年在台灣舉行的Computex 會議的主題是今年將售出數千萬台“人工智慧電腦”，後年將售出更多。但儘管有這麼多的熱情，人工智慧PC 的品質卻變得更加不確定——而且還需要幾個月的時間才能清楚。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ai_pc_confusion/</guid>
+      <pubDate>Wed, 05 Jun 2024 02:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾、AMD、Nvidia 在 Computex 上公佈的所有資料中心路線圖更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/chipmakers_computex_roadmaps/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Nvidia 執行長駁斥了大型科技公司對 NVLink 網路技術的攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</link>
-      <description><![CDATA[表示UALink 和Ultra 乙太網路在幾年內不會構成威脅，因為他透露了Blackwell 的繼任者和免費NIM Computex  Nvidia 執行長黃仁勳(Jensen Huang) 對大型科技公司的嘗試不屑一顧。]]></description>
+      <description><![CDATA[表示UALink 和Ultra 乙太網路在未來幾年不會構成威脅，因為他透露了Blackwell 和免費NIM 的繼任者 Computex  Nvidia 執行長黃仁勳( Jensen Huang) 對大型科技公司的嘗試不屑一顧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</guid>
       <pubDate>Tue, 04 Jun 2024 19:41:07 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>“建立人工智慧同事將成為我們一生中最大的科技機會”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/genai_coworkers_thomson_reuters/</link>
-      <description><![CDATA[湯森路透機器人老闆是這麼說的 跨國資訊集團湯森路透的人工智慧機器人 CoCounsel 的產品負責人 Jake Heller 對任何銷售人工智慧軟體的人有一個建議：不要出售軟體... ]]></description>
+      <description><![CDATA[湯森路透機器人老闆是這麼說的 跨國資訊集團湯森路透的人工智慧機器人 CoCounsel 的產品主管 Jake Heller 對任何銷售人工智慧軟體的人有一個建議：不要出售軟體... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/genai_coworkers_thomson_reuters/</guid>
       <pubDate>Tue, 04 Jun 2024 15:01:11 GMT</pubDate>
     </item>
     <item>
       <title>RansomHub 聲稱，克里斯蒂被盜的資料被賣給了最高出價者，而不是被洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</link>
-      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭到攻擊的網路犯罪分子也自以為是拍賣師，因為他們據稱將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
+      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭受攻擊的網路犯罪分子也自以為是拍賣師，據稱他們將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</guid>
       <pubDate>Tue, 04 Jun 2024 14:32:51 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>因中國威脅，台積電考慮將晶片工廠遷出台灣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</link>
-      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於它帶來的困難而決定反對這一舉動。]]></description>
+      <description><![CDATA[執行長表示，他們甚至與客戶討論了這項轉移，但認為這是不可行的 由於中國的威脅，台積電考慮將其晶片工廠遷出台灣，甚至與客戶討論了此事，但​​由於其帶來的困難而決定反對這一舉動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/tsmc_discussed_moving_chip_fabs/</guid>
       <pubDate>Tue, 04 Jun 2024 13:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「這是否能為用戶或企業增加真正的價值？」 如果微軟想讓2024 年的Build 活動被爭議所掩蓋，那麼隨著要求該公司重新考慮其策略的呼聲越來越高，它就成功了回想一下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/microsoft_analysts_recall/</guid>
       <pubDate>Tue, 04 Jun 2024 13:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>墓園是瓦倫西亞太陽能發電場最喜歡去的地方</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</link>
-      <description><![CDATA[因為死者確實不需要所有這些空間，當然嗎？  此舉可能會讓生者和逝去的親人感覺更加陽光明媚，西班牙城市瓦倫西亞將其墓地變成繁華的再生能源中心。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/cemetery_solar_farm_valencia/</guid>
-      <pubDate>Tue, 04 Jun 2024 12:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
