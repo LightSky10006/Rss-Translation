@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 13:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 13:34:00 GMT</lastBuildDate>
     <item>
-      <title>Databricks 的 10 億美元購買表格引發了圍繞表格格式之戰的問題</title>
+      <title>英特爾從 Apollo 獲得 11B 美元投資愛爾蘭晶片廠</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/intel_gets_11b_from_apollo/</link>
+      <description><![CDATA[釋放Chipzilla 已投入Fab 34 的部分現金 英特爾將從私募股權公司Apollo Global Management 處獲得110 億美元，以換取一家合資企業49% 的股份，該合資企業將有效運營英特爾的製造業務愛爾蘭工廠。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/intel_gets_11b_from_apollo/</guid>
+      <pubDate>Wed, 05 Jun 2024 13:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Databricks 價值 10 億美元的 Tabular 收購引發了有關表格格式之戰的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</link>
       <description><![CDATA[批評人士表示，隨著小型新創公司被收購，保持中立將變得更加困難 去年 9 月，這家公司擁有約 25 名員工，全部遠距工作。昨晚，Tabular 被分析和機器學習平台 Databricks 收購，據報道價值 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>微軟向 Tenable 支付了針對 Azure 缺陷的錯誤賞金，該缺陷表示不需要修復，只需更好的文檔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</link>
-      <description><![CDATA[讓客戶幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端的設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
+      <description><![CDATA[讓顧客幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</guid>
       <pubDate>Wed, 05 Jun 2024 06:44:14 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>澳洲放棄了旨在讓 X 撤下刺傷影片的法律行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</link>
-      <description><![CDATA[Musky 網路慶祝言論自由勝利...在不反對刪除類似內容後 澳洲電子安全專員已結束旨在迫使社交網路X 刪除描述持刀襲擊的影片的法律行動根據當地法律，一名牧師被歸類為恐怖行為。]]></description>
+      <description><![CDATA[Musky 網路慶祝言論自由勝利...在不反對刪除類似內容後 澳洲電子安全專員已結束旨在迫使社交網路X 刪除描述持刀襲擊的影片的法律行動根據當地法律，一名牧師被列為恐怖行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</guid>
       <pubDate>Wed, 05 Jun 2024 04:44:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在海軍，不可以，你不能擁有未經授權的 WLAN。在海軍方面，不，這不是一個好計劃 美國海軍通過降職下令建立該網絡的高級士兵領導人，打擊了戰艦上安裝的非法 Wi-Fi 網路。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/us_navy_ship_chief_demoted/</guid>
       <pubDate>Tue, 04 Jun 2024 20:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 執行長駁斥了大型科技公司對 NVLink 網路技術的攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</link>
-      <description><![CDATA[表示UALink 和Ultra 乙太網路在未來幾年不會構成威脅，因為他透露了Blackwell 和免費NIM 的繼任者 Computex  Nvidia 執行長黃仁勳( Jensen Huang) 對大型科技公司的嘗試不屑一顧。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/nvidia_computex_nvlink_rubin/</guid>
-      <pubDate>Tue, 04 Jun 2024 19:41:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
