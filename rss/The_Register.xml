@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 05:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 07:10:43 GMT</lastBuildDate>
+    <item>
+      <title>微軟向 Tenable 支付了針對 Azure 缺陷的錯誤賞金，該缺陷表示不需要修復，只需更好的文檔</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</link>
+      <description><![CDATA[讓顧客幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</guid>
+      <pubDate>Wed, 05 Jun 2024 06:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>印度IT部長競選下議院席位落敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/india_it_minister_loss/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[湯森路透機器人老闆是這麼說的 跨國資訊集團湯森路透的人工智慧機器人 CoCounsel 的產品負責人 Jake Heller 對任何銷售人工智慧軟體的人有一個建議：不要出售軟體... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/genai_coworkers_thomson_reuters/</guid>
       <pubDate>Tue, 04 Jun 2024 15:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>RansomHub 聲稱，克里斯蒂被盜的資料被賣給了最高出價者，而不是被洩露</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</link>
-      <description><![CDATA[專家表示，拍賣拍賣師的數據不太可能真正成功 聲稱佳士得遭到攻擊的網路犯罪分子也自以為是拍賣師，因為他們據稱將公司的數據賣給了最高出價者而不是在暗網上洩露所有內容。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/christies_stolen_data_auctioned_off/</guid>
-      <pubDate>Tue, 04 Jun 2024 14:32:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
