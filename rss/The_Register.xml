@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 14:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 15:34:13 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 內部人士要求有權舉報而不必擔心遭到報復</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</link>
+      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</guid>
+      <pubDate>Wed, 05 Jun 2024 15:15:17 GMT</pubDate>
+    </item>
     <item>
       <title>微軟預計在歐盟反壟斷調查中對 Teams 做出進一步讓步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們度過了創紀錄的季度，很遺憾看到你離開 分析 微軟計劃在這家科技巨頭中裁員約1,000 人，儘管CEO Satya Nadella在該公司四月份的財報電話會議稱其為“創紀錄的第三季度”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/microsoft_plans_to_cut_about/</guid>
       <pubDate>Tue, 04 Jun 2024 23:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digital Realty 技術長探討人工智慧對權力的永不滿足的渴望</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/datacenter_power_ai/</link>
-      <description><![CDATA[夏普告訴 El Reg，如果電網跟不上，DC 可能會被迫自行供應主要電源採訪眾所周知，用於訓練而運行生成式人工智慧模型的GPU 是耗電的小野獸。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/datacenter_power_ai/</guid>
-      <pubDate>Tue, 04 Jun 2024 22:54:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
