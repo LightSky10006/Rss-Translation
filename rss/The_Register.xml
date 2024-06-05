@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 17:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 17:34:34 GMT</lastBuildDate>
+    <item>
+      <title>針對影響 EOL Zyxel NAS 盒的關鍵漏洞發布了緊急補丁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/zyxel_emergency_patches_nas/</link>
+      <description><![CDATA[那個後門本來就不該存在？ ) 設備發布了安全修復程序。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/zyxel_emergency_patches_nas/</guid>
+      <pubDate>Wed, 05 Jun 2024 17:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>哈伯望遠鏡將過渡到單陀螺儀模式，以獲得更多幾年的使用壽命</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/hubble_to_transition_to_singlegyro/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>OpenAI 內部人士要求有權舉報而不必擔心遭到報復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</link>
-      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任。]]></description>
+      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任感…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</guid>
       <pubDate>Wed, 05 Jun 2024 15:15:17 GMT</pubDate>
     </item>
@@ -48,14 +55,14 @@
       <pubDate>Wed, 05 Jun 2024 13:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>Databricks 價值 10 億美元的 Tabular 收購引發了有關表格格式之戰的問題</title>
+      <title>Databricks 的 10 億美元購買表格引發了圍繞表格格式之戰的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</link>
       <description><![CDATA[批評人士表示，隨著小型新創公司被收購，保持中立將變得更加困難 去年 9 月，這家公司擁有約 25 名員工，全部遠距工作。昨晚，Tabular 被分析和機器學習平台 Databricks 收購，據報道價值 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</guid>
       <pubDate>Wed, 05 Jun 2024 13:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已經時日無多</title>
+      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已時日無多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</link>
       <description><![CDATA[Windows Insider 準備搶先體驗功能更新 微軟正在為 Windows Insider 重新開放 Windows 10 Beta 頻道，這清楚地表明老狗仍然有生命力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 05 Jun 2024 12:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>從肉丸到虛擬宇宙－IKEA的平板包裝幻想登陸 Roblox</title>
+      <title>從肉丸到虛擬世界－IKEA的平板包裝幻想登陸 Roblox</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</link>
       <description><![CDATA[瑞典家具巨頭有 10 個遊戲內有薪職位需要填補 首先是瑞安航空，現在是平板包裝椅子 - 宜家即將進駐 Roblox。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</guid>
@@ -125,25 +132,18 @@
       <pubDate>Wed, 05 Jun 2024 05:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>澳洲放棄了旨在讓 X 撤下刺傷影片的法律行動</title>
+      <title>澳洲放棄了旨在讓X撤下刺傷影片的法律行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</link>
-      <description><![CDATA[Musky 網路慶祝言論自由勝利...在不反對刪除類似內容後 澳洲電子安全專員已結束旨在迫使社交網路X 刪除描述持刀襲擊的影片的法律行動根據當地法律，一名牧師被列為恐怖行為。]]></description>
+      <description><![CDATA[Musky 網路慶祝言論自由勝利...在不反對刪除類似內容後 澳洲電子安全專員已結束旨在迫使社交網路X 刪除描述持刀襲擊的影片的法律行動根據當地法律，一名牧師被歸類為恐怖行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</guid>
       <pubDate>Wed, 05 Jun 2024 04:44:11 GMT</pubDate>
     </item>
     <item>
       <title>SuperMicro 執行長預測液體冷卻技術將在兩年內實現 2,900% 的成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/supermicro_liquid_cooling_boom/</link>
-      <description><![CDATA[升級以提高密度是新的綠色環保 Computex  SuperMicro 執行長梁見後預計，該公司明年出貨的30% 的機架將安裝液體冷卻－大幅成長，鑑於此類套件的市場幾十年來一直處於停滯狀態。]]></description>
+      <description><![CDATA[升級以提高密度是新的綠色環保 Computex  SuperMicro 執行長梁見後預計，該公司明年出貨的機架中將安裝液體冷卻技術- 大幅成長，鑑於此類套件的市場幾十年來一直處於停滯狀態。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/supermicro_liquid_cooling_boom/</guid>
       <pubDate>Wed, 05 Jun 2024 04:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧電腦的定義現在更加模糊，對任何人都沒有幫助——甚至連人工智慧也沒有幫助</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ai_pc_confusion/</link>
-      <description><![CDATA[英特爾執行長 Pat Gelsinger 希望基準測試能超越TOPS，但警告我們將面臨數月的不確定性 Computex 分析 今年在台灣舉行的Computex 會議的主題是今年將售出數千萬台“人工智慧電腦”，後年將售出更多。但儘管有這麼多的熱情，人工智慧PC 的品質卻變得更加不確定——而且還需要幾個月的時間才能清楚。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ai_pc_confusion/</guid>
-      <pubDate>Wed, 05 Jun 2024 02:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
