@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 09:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 10:36:54 GMT</lastBuildDate>
+    <item>
+      <title>諾基亞展示了 6 GHz 行動頻段，但英國希望與 Wi-Fi 共享</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/nokia_upper_6_ghz_spectrum/</link>
+      <description><![CDATA[分割競爭激烈的頻譜可能會變得混亂 諾基亞和瑞典電信公司 Telia 已經完成了使用 6 GHz 高頻段的試點部署，希望為未來的擴展增加容量和覆蓋範圍。然而，英國 Ofcom 等一些監管機構認為該頻段應該適用於行動和 Wi-Fi。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/nokia_upper_6_ghz_spectrum/</guid>
+      <pubDate>Wed, 05 Jun 2024 10:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>研究發現敏捷軟體專案的失敗率高出 268%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/agile_failure_rates/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Windows 10 目前仍是王者 Windows 11 就像 Linux 一樣。他們在 Steam 上的市佔率都在成長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/windows_11_linux_steam/</guid>
       <pubDate>Tue, 04 Jun 2024 18:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>豐田及其他 4 家日本汽車製造商被發現在認證測試中作弊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/04/toyota_falsified_certification_tests/</link>
-      <description><![CDATA[馬自達、雅馬哈、本田、鈴木都被發現在報告中撒謊，而豐田仍在接受調查 多家日本汽車製造商被發現偽造認證測試，而豐田可能是最嚴重的違規者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/04/toyota_falsified_certification_tests/</guid>
-      <pubDate>Tue, 04 Jun 2024 17:06:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
