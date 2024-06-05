@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 17:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:36:58 GMT</lastBuildDate>
+    <item>
+      <title>波音公司的星際客機終於進入軌道－載有機組人員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/boeing_starliner_launch_success/</link>
+      <description><![CDATA[讓我們勇敢的二人組前往國際太空站，然後安全返回地球 波音公司的Starliner 乘員艙今天終於在佛羅裡達州的發射台成功發射升空，船上有兩名勇敢的人類。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/boeing_starliner_launch_success/</guid>
+      <pubDate>Wed, 05 Jun 2024 18:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在有爭議的亞馬遜資料中心之爭之後，美國縣表示已經吸取了教訓</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/datacenter_culpeper_amazon/</link>
+      <description><![CDATA[“我們熱愛我們的農場”，Culpeper 說，但我們也喜歡互聯網大型露天市場和其他設置服務器的機構 採訪 當我們上次在弗吉尼亞州Culpeper 縣登記時，那裡的人們正在爭奪亞馬遜資料中心的建設，而官員們則試圖吸引更多的伺服器託管地產到該地區。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/datacenter_culpeper_amazon/</guid>
+      <pubDate>Wed, 05 Jun 2024 18:14:08 GMT</pubDate>
+    </item>
     <item>
       <title>針對影響 EOL Zyxel NAS 盒的關鍵漏洞發布了緊急補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/zyxel_emergency_patches_nas/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>微軟預計在歐盟反壟斷調查中對 Teams 做出進一步讓步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</link>
-      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷德蒙德“仍致力於找到解決監管機構擔憂的解決方案” 微軟表示，它可能會採取“額外措施”來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
+      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷蒙德「仍致力於找到解決監管機構擔憂的解決方案」 微軟表示，它可能會採取「額外措施」來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</guid>
       <pubDate>Wed, 05 Jun 2024 14:30:09 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 05 Jun 2024 13:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已時日無多</title>
+      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已經時日無多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</link>
       <description><![CDATA[Windows Insider 準備搶先體驗功能更新 微軟正在為 Windows Insider 重新開放 Windows 10 Beta 頻道，這清楚地表明老狗仍然有生命力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</guid>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 05 Jun 2024 12:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>從肉丸到虛擬世界－IKEA的平板包裝幻想登陸 Roblox</title>
+      <title>從肉丸到虛擬宇宙－IKEA的平板包裝幻想登陸 Roblox</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</link>
       <description><![CDATA[瑞典家具巨頭有 10 個遊戲內有薪職位需要填補 首先是瑞安航空，現在是平板包裝椅子 - 宜家即將進駐 Roblox。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</guid>
@@ -120,7 +134,7 @@
     <item>
       <title>微軟向 Tenable 支付了針對 Azure 缺陷的錯誤賞金，該缺陷表示不需要修復，只需更好的文檔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</link>
-      <description><![CDATA[讓顧客幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
+      <description><![CDATA[讓客戶幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端的設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</guid>
       <pubDate>Wed, 05 Jun 2024 06:44:14 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[可能不會讓他失去工作，這意味著印度混亂的科技待辦事項清單仍然是他的問題 印度電子和資訊科技國務部長 Rajeev Chandrasekhar 在競選中落敗印度議會下院，人民院…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/india_it_minister_loss/</guid>
       <pubDate>Wed, 05 Jun 2024 05:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲放棄了旨在讓X撤下刺傷影片的法律行動</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</link>
-      <description><![CDATA[Musky 網路慶祝言論自由勝利...在不反對刪除類似內容後 澳洲電子安全專員已結束旨在迫使社交網路X 刪除描述持刀襲擊的影片的法律行動根據當地法律，一名牧師被歸類為恐怖行為。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/australlia_ends_x_takedown_case/</guid>
-      <pubDate>Wed, 05 Jun 2024 04:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>SuperMicro 執行長預測液體冷卻技術將在兩年內實現 2,900% 的成長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/supermicro_liquid_cooling_boom/</link>
-      <description><![CDATA[升級以提高密度是新的綠色環保 Computex  SuperMicro 執行長梁見後預計，該公司明年出貨的機架中將安裝液體冷卻技術- 大幅成長，鑑於此類套件的市場幾十年來一直處於停滯狀態。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/supermicro_liquid_cooling_boom/</guid>
-      <pubDate>Wed, 05 Jun 2024 04:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
