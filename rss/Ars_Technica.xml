@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Jun 2024 19:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 21:34:40 GMT</lastBuildDate>
     <item>
-      <title>射電望遠鏡發現另一個神秘的長重複源</title>
+      <title>T-Mobile 表示每月 30 美元的「備用」5G 是家庭網路中斷的解決方案</title>
+      <link>https://arstechnica.com/?p=2029297</link>
+      <description><![CDATA[對於不經常使用的服務，備份計劃為每月 30 美元。]]></description>
+      <guid>https://arstechnica.com/?p=2029297</guid>
+      <pubDate>Wed, 05 Jun 2024 21:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>熱門新聞應用程式被發現分享「完全虛假」的人工智慧生成新聞</title>
+      <link>https://arstechnica.com/?p=2029287</link>
+      <description><![CDATA[大多數下載的本地新聞應用程式都添加了免責聲明，稱它並不總是「沒有錯誤」。]]></description>
+      <guid>https://arstechnica.com/?p=2029287</guid>
+      <pubDate>Wed, 05 Jun 2024 20:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oral-B 堵塞 Alexa 牙刷是流行科技的警告</title>
+      <link>https://arstechnica.com/?p=2029201</link>
+      <description><![CDATA[Oral-B 於 2022 年停產了 Alexa 牙刷，現在售價 400 美元的「AI」牙刷。]]></description>
+      <guid>https://arstechnica.com/?p=2029201</guid>
+      <pubDate>Wed, 05 Jun 2024 20:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>神秘物體在無線電爆發之間等待近一個小時</title>
       <link>https://arstechnica.com/?p=2029258</link>
       <description><![CDATA[與早期物體不同，新源的無線電波脈衝不穩定。]]></description>
       <guid>https://arstechnica.com/?p=2029258</guid>
@@ -36,7 +57,7 @@
     <item>
       <title>伊隆馬斯克 (Elon Musk) 的 X 打破了澳洲全球下架刺傷影片的命令</title>
       <link>https://arstechnica.com/?p=2029167</link>
-      <description><![CDATA[澳洲放棄了馬斯克 X 每天罰款 50 萬美元的審查制度。]]></description>
+      <description><![CDATA[澳洲放棄了對馬斯克 X 每天罰款 50 萬美元的審查鬥爭。]]></description>
       <guid>https://arstechnica.com/?p=2029167</guid>
       <pubDate>Wed, 05 Jun 2024 16:38:21 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[“我們理解醫學史的一個非凡的新視角。”]]></description>
       <guid>https://arstechnica.com/?p=2025113</guid>
       <pubDate>Wed, 05 Jun 2024 14:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟將測試陳舊且頑固流行的 Windows 10 的“新功能及更多功能”</title>
-      <link>https://arstechnica.com/?p=2029081</link>
-      <description><![CDATA[支援將於明年結束，但 Windows 10 仍然是該作業系統最常用的版本。]]></description>
-      <guid>https://arstechnica.com/?p=2029081</guid>
-      <pubDate>Wed, 05 Jun 2024 12:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司 Starliner 乘員艙第三次發射倒數計時開始</title>
-      <link>https://arstechnica.com/?p=2029076</link>
-      <description><![CDATA[太空人布奇威爾莫爾和蘇尼威廉斯已經在發射前接受了六週的隔離。]]></description>
-      <guid>https://arstechnica.com/?p=2029076</guid>
-      <pubDate>Wed, 05 Jun 2024 12:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 即將再次發射 Starship——FAA 這次會更加寬容</title>
-      <link>https://arstechnica.com/?p=2029047</link>
-      <description><![CDATA[美國聯邦航空局 (FAA) 已批准 SpaceX 定於週四進行的第四次星際飛船發射許可證。]]></description>
-      <guid>https://arstechnica.com/?p=2029047</guid>
-      <pubDate>Wed, 05 Jun 2024 03:56:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
