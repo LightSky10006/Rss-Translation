@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Jun 2024 19:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 20:12:14 GMT</lastBuildDate>
+    <item>
+      <title>拴在高空飛行的無人機可能會吹走傳統風力渦輪機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/airborne_wind_energy_grant/</link>
+      <description><![CDATA[布里斯托研究人員撥款37.5 萬英鎊用於改進機載風能係統 如果向布里斯託大學研究人員提供用於風力採集、地面風能的撥款，我們可能會離後渦輪機風能的未來更近一步。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/airborne_wind_energy_grant/</guid>
+      <pubDate>Wed, 05 Jun 2024 19:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>DuckDB 1.0 版本承諾更高的穩定性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/duckdb_promises_greater_stability_with/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>OpenAI 內部人士要求有權舉報而不必擔心遭到報復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</link>
-      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任感…]]></description>
+      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</guid>
       <pubDate>Wed, 05 Jun 2024 15:15:17 GMT</pubDate>
     </item>
     <item>
       <title>微軟預計在歐盟反壟斷調查中對 Teams 做出進一步讓步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</link>
-      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷蒙德「仍致力於找到解決監管機構擔憂的解決方案」 微軟表示，它可能會採取「額外措施」來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
+      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷德蒙德“仍致力於找到解決監管機構擔憂的解決方案” 微軟表示，它可能會採取“額外措施”來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</guid>
       <pubDate>Wed, 05 Jun 2024 14:30:09 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 05 Jun 2024 13:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>Databricks 的 10 億美元購買表格引發了圍繞表格格式之戰的問題</title>
+      <title>Databricks 價值 10 億美元的 Tabular 收購引發了有關表格格式之戰的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</link>
       <description><![CDATA[批評人士表示，隨著小型新創公司被收購，保持中立將變得更加困難 去年 9 月，這家公司擁有約 25 名員工，全部遠距工作。昨晚，Tabular 被分析和機器學習平台 Databricks 收購，據報道價值 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/databricks_buys_tabular_for_1b/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我覺得需要，需要......歐洲製造的軍用無人機 更新 伴隨和協助人類駕駛戰鬥機的人工智慧駕駛無人機非常有用很大程度上取決於軍事思想——空中巴士公司正在展示其對這項技術的看法。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/airbus_wingman_drone/</guid>
       <pubDate>Wed, 05 Jun 2024 07:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟向 Tenable 支付了針對 Azure 缺陷的錯誤賞金，該缺陷表示不需要修復，只需更好的文檔</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</link>
-      <description><![CDATA[讓客戶幹擾其他租戶？雷德蒙德似乎在說，這就是我們的雲端的設計工作 微軟雲端中的一個漏洞——或者只是Azure 按預期工作，這取決於你問的是誰——可能會讓不法分子擺脫防火牆規則並存取其他人的私人資訊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tenable_azure_flaw/</guid>
-      <pubDate>Wed, 05 Jun 2024 06:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
