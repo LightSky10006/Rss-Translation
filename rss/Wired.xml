@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 05 Jun 2024 09:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 09:35:45 GMT</lastBuildDate>
+    <item>
+      <title>一家美國公司促成了北韓騙局，為大規模殺傷性武器籌集資金</title>
+      <link>https://www.wired.com/story/registered-agents-north-korean-scam-wmds/</link>
+      <description><![CDATA[該計劃曝光後，懷俄明州國務卿提出了「防止商業註冊代理人欺詐和濫用公司備案」的方法。]]></description>
+      <guid>https://www.wired.com/story/registered-agents-north-korean-scam-wmds/</guid>
+      <pubDate>Wed, 05 Jun 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>為什麼歐盟副總統不擔心 YouTube 上的登月陰謀</title>
       <link>https://www.wired.com/story/eu-vice-president-moon-landing-conspiracies-youtube/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>該駭客工具提取 Windows 新召回 AI 收集的所有數據</title>
       <link>https://www.wired.com/story/total-recall-windows-recall-ai/</link>
-      <description><![CDATA[Windows Recall 每五秒鐘截取一次螢幕截圖。網路安全研究人員表示，該系統很容易被濫用，一位道德駭客已經建立了一個工具來展示它實際上是多麼容易被濫用。]]></description>
+      <description><![CDATA[Windows Recall 每五秒鐘截取一次螢幕截圖。網路安全研究人員表示，該系統很容易被濫用，一名道德駭客已經建立了一個工具來展示它實際上是多麼容易被濫用。]]></description>
       <guid>https://www.wired.com/story/total-recall-windows-recall-ai/</guid>
       <pubDate>Tue, 04 Jun 2024 15:08:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[人工智慧選美比賽的想法可能看起來很可笑或怪誕，這取決於你問的是誰。但世界人工智慧創造者獎更深刻地反映了現代影響者文化。]]></description>
       <guid>https://www.wired.com/story/ai-beauty-pageant-world-ai-creator-awards/</guid>
       <pubDate>Mon, 03 Jun 2024 21:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>前總統女兒利用X砲轟南非陰謀論</title>
-      <link>https://www.wired.com/story/south-africa-x-twitter-disinformation/</link>
-      <description><![CDATA[南非監督組織發現的與選舉相關的虛假信息絕大多數來自 X，Duduzile Zuma-Sambudla 在那裡發布了一段帶有唐納德·特朗普背書的虛假視頻。]]></description>
-      <guid>https://www.wired.com/story/south-africa-x-twitter-disinformation/</guid>
-      <pubDate>Mon, 03 Jun 2024 20:55:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
