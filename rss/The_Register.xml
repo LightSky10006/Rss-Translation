@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 10:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 11:10:46 GMT</lastBuildDate>
+    <item>
+      <title>已有 7 年歷史的 Oracle WebLogic 漏洞正被積極利用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</link>
+      <description><![CDATA[專家表示，Big Red 可能會在下一個週期重新發布補丁 一個已有七年曆史的Oracle 漏洞是最新添加到CISA 已知被利用漏洞(KEV) 目錄中的，這意味著安全機構認為它對聯邦政府構成重大威脅。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</guid>
+      <pubDate>Thu, 06 Jun 2024 10:37:11 GMT</pubDate>
+    </item>
     <item>
       <title>英國電信執行長將英國下一代網路部署滯後歸咎於監管規定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/bt_chief_blames_regulations_broadband_rollout/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>微軟研究院首席科學家對Windows召回沒有異議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</link>
-      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳， Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不顧擔憂。]]></description>
+      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具的出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳，Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不理會擔憂…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</guid>
       <pubDate>Thu, 06 Jun 2024 07:26:08 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>谷歌收購應用程式串流媒體公司 Cameyo 進軍虛擬桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</link>
-      <description><![CDATA[Chromebook 上的舊版應用程式是目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流傳輸到瀏覽器中 - 包括在 Chromebook 上。]]></description>
+      <description><![CDATA[Chromebook 上的舊版應用程式是我們的目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流到瀏覽器中 - 包括 Chromebook。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</guid>
       <pubDate>Thu, 06 Jun 2024 04:15:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>馬斯克 (Elon Musk) 確認為 Tesla 訂購的 12K H100 優先用於 xAI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/elon_musk_confirms_h100_destined/</link>
-      <description><![CDATA[大亨的私人公司首先獲得了Nvidia GPU，因為汽車製造商還無法使用它們 評論 特斯拉執行長馬斯克(Elon Musk ) 已確認，他將原本為汽車製造商提供的Nvidia H100 GPU 重定向到X 和 xAI，他擁有的兩家私人公司。]]></description>
+      <description><![CDATA[大亨的私人公司首先獲得了Nvidia GPU，因為汽車製造商還無法使用它們 評論 特斯拉首席執行官埃隆·馬斯克(Elon Musk ) 已確認，他將原本為汽車製造商提供的Nvidia H100 GPU 重定向到X 和 xAI，他擁有的兩家私人公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/elon_musk_confirms_h100_destined/</guid>
       <pubDate>Wed, 05 Jun 2024 23:40:11 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>什麼是 RansomHub？看起來像是 Knight 勒索軟體重啟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ransomhub_knight_reboot/</link>
-      <description><![CDATA[惡意軟體程式碼可能會被出售、修改並感染受害者 RansomHub 是一個新興的網路犯罪組織，聲稱是佳士得拍賣行和其他拍賣行資料被盜的幕後黑手。追蹤者的說法，很可能是Knight 勒索軟體團伙的某種重塑。]]></description>
+      <description><![CDATA[惡意軟體程式碼可能會被出售、修改並感染受害者 RansomHub 是一個新興的網路犯罪組織，聲稱是佳士得拍賣行和其他拍賣行資料被盜的幕後黑手。獵人的說法，很可能是Knight 勒索軟體團伙的某種重塑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ransomhub_knight_reboot/</guid>
       <pubDate>Wed, 05 Jun 2024 20:13:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[巧克力工廠捲入另一項反競爭指控 英國競爭上訴法庭 (CAT) 已裁定可以繼續審理指控 Google 反競爭行為的集體訴訟。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/google_advertising_uk_competition_tribunal/</guid>
       <pubDate>Wed, 05 Jun 2024 16:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 內部人士要求有權舉報而不必擔心遭到報復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</link>
-      <description><![CDATA[公開信稱「現任和前任員工應保留向公眾報告擔憂的自由」 Google DeepMind 和 OpenAI 現任和前任員工簽署了一封公開信，呼籲支持和保護舉報人以及處於人工智慧開發前沿的公司之間的責任。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/openai_whistleblowing_open_letter/</guid>
-      <pubDate>Wed, 05 Jun 2024 15:15:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
