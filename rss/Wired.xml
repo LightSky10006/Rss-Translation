@@ -4,7 +4,7 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 22:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 23:14:12 GMT</lastBuildDate>
     <item>
       <title>Oral-B 出售了一款價值 230 美元的 Alexa 牙刷，然後就下架了</title>
       <link>https://www.wired.com/story/oral-b-guide-alexa-app-brick/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>Starship 的成功測試使 SpaceX 距離火星又近了一步</title>
       <link>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</link>
-      <description><![CDATA[該飛行器在發射和重返大氣層中大部分倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
+      <description><![CDATA[該飛行器基本上在發射和重返大氣層中倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
       <guid>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</guid>
       <pubDate>Thu, 06 Jun 2024 16:59:42 GMT</pubDate>
     </item>
@@ -69,9 +69,16 @@
       <pubDate>Thu, 06 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>10 個最佳追蹤器 (2024)：GPS、藍牙、Wi-Fi 和蜂窩網絡</title>
+      <link>https://www.wired.com/gallery/best-trackers/</link>
+      <description><![CDATA[這些是最好的藍牙、Wi-Fi、GPS 和蜂窩設備，可確保您再也不會丟失任何東西。]]></description>
+      <guid>https://www.wired.com/gallery/best-trackers/</guid>
+      <pubDate>Thu, 06 Jun 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>從空氣中提取二氧化碳需要多少能量？</title>
       <link>https://www.wired.com/story/the-stupendous-energy-cost-of-direct-air-capture/</link>
-      <description><![CDATA[一位物理學家對直接空氣捕獲進行了數學計算並警告：這項技術無法使我們免受氣候災難。]]></description>
+      <description><![CDATA[一位物理學家對直接空氣捕獲進行了計算，並警告說：這項技術無法使我們免受氣候災難。]]></description>
       <guid>https://www.wired.com/story/the-stupendous-energy-cost-of-direct-air-capture/</guid>
       <pubDate>Thu, 06 Jun 2024 14:00:00 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>城市內部由機器監管</title>
       <link>https://www.wired.com/story/inside-the-city-policed-by-machines/</link>
-      <description><![CDATA[《連線》雜誌對 2,200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
+      <description><![CDATA[《連線》雜誌對 2200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
       <guid>https://www.wired.com/story/inside-the-city-policed-by-machines/</guid>
       <pubDate>Thu, 06 Jun 2024 10:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[驚人的財富以及對與自閉症和疫苗相關的偽科學的偏愛，使妮可·沙納漢能夠做比小羅伯特·肯尼迪競選搭檔更重要的事情。]]></description>
       <guid>https://www.wired.com/story/nicole-shanahan-pseudoscience-autism-research/</guid>
       <pubDate>Thu, 06 Jun 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>海盜黨在叛亂和醜聞中倖存下來。在歐盟選舉中，它試圖改寫網路規則</title>
-      <link>https://www.wired.com/story/pirate-party-european-elections-eu-dma-gdpr-internet/</link>
-      <description><![CDATA[文件共享網站海盜灣引發了一場版權革命。二十年後，它引發的政治運動正在歐洲選舉中爭取權力。如果成功，它將重塑網路。]]></description>
-      <guid>https://www.wired.com/story/pirate-party-european-elections-eu-dma-gdpr-internet/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
