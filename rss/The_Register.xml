@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 17:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:37:12 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 用戶現在對使用條款中的內容掃描限額感到不安</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/adobe_users_upset_over_content/</link>
+      <description><![CDATA[引發用戶憤怒的更新並沒有真正改變太多- 軟體公司一直能夠掃描你的東西 一項幾乎古老的使用條款更新讓AdAdobe 因公司如何處理而陷入了新的沸水中賦予自己審查儲存在其雲端中的用戶內容的權利。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/adobe_users_upset_over_content/</guid>
+      <pubDate>Thu, 06 Jun 2024 18:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Lansweeper 發現了很多 CentOS Linux</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/lansweeper_centos/</link>
@@ -20,14 +27,14 @@
       <pubDate>Thu, 06 Jun 2024 16:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 在歐洲因計劃利用用戶資料訓練人工智慧而面臨多項投訴</title>
+      <title>Meta 在歐洲因用戶資料訓練人工智慧計畫而面臨多項投訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/meta_ai_complaints/</link>
       <description><![CDATA[選擇退出或準備好您的帖子被收錄 Meta 在人工智慧培訓中使用客戶資料的計劃已導致向11 個歐洲國家的資料保護機構提出投訴。 p&gt;  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/meta_ai_complaints/</guid>
       <pubDate>Thu, 06 Jun 2024 15:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>主要人工智慧廠商英偉達、微軟、OpenAI 面臨美國反壟斷調查</title>
+      <title>人工智慧巨頭英偉達、微軟、OpenAI 面臨美國反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/nvidia_microsoft_and_openai_face/</link>
       <description><![CDATA[嗯...世界上最有價值的公司在世界上最令人垂涎​​的技術方面遙遙領先。 WCGW？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/nvidia_microsoft_and_openai_face/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 06 Jun 2024 14:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔試圖追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
+      <title>山姆大叔尋求追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</link>
       <description><![CDATA[資金在發送至離岸帳戶後目前已被扣押 美國司法部正在尋求許可，以追回商業電子郵件洩露(BEC) 詐騙者從工會竊取的價值超過500 萬美元的經費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 06 Jun 2024 11:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>已有 7 年歷史的 Oracle WebLogic 漏洞正被積極利用</title>
+      <title>已存在 7 年之久的 Oracle WebLogic 漏洞正被積極利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</link>
       <description><![CDATA[專家表示，Big Red 可能會在下一個週期重新發布補丁 一個已有七年曆史的Oracle 漏洞是最新添加到CISA 已知被利用漏洞(KEV) 目錄中的，這意味著安全機構認為它對聯邦政府構成重大威脅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>微軟研究院首席科學家對Windows召回沒有異議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</link>
-      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具的出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳，Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不理會擔憂…]]></description>
+      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳， Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不顧擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</guid>
       <pubDate>Thu, 06 Jun 2024 07:26:08 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Synology 延伸至備份設備，即將推出物件存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</link>
-      <description><![CDATA[想要擊敗Veeam 和Veritas，但整理備份設備是一項更容易的工作 Computex 台灣儲存供應商Synology 推出了一系列備份設備。 . p&gt;]]></description>
+      <description><![CDATA[想擊敗 Veeam 和 Veritas，但整理備份設備更容易 Computex 台灣儲存供應商 Synology 推出了一系列備份設備。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</guid>
       <pubDate>Thu, 06 Jun 2024 01:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX 的 24B 美元稅單減記至僅 2 億美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</link>
-      <description><![CDATA[不，這不是加密貨幣感染國稅局的奇怪邏輯。這是一場「與我們戰鬥，每個人都會損失更多」的交易 內爆的加密貨幣交易所FTX 欠很多人很多錢- 但已經說服美國國稅局的稅務人員為其提供大幅折扣其 240 億美元的稅單......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</guid>
-      <pubDate>Thu, 06 Jun 2024 00:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
