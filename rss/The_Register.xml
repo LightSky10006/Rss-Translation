@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 13:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 14:11:38 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧電腦可能會解決一個真正的問題：使用者忽視安全性的“摩擦”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/trend_micro_ai_pc_security/</link>
+      <description><![CDATA[趨勢科技表示，多雲電子郵件掃描會觸發 GDPR 警告，阻止使用者。使用 NPU 的本地型號則不然 Computex 趨勢科技概述瞭如何為 AI PC 量身定制桌面安全軟體，並認為它可能會以正常的方式提高安全性，沼澤標準PC 無法匹配。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/trend_micro_ai_pc_security/</guid>
+      <pubDate>Thu, 06 Jun 2024 14:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔尋求追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[布里斯托研究人員撥款37.5 萬英鎊用於改進機載風能係統 如果向布里斯託大學研究人員提供用於風力採集、地面風能的撥款，我們可能會離後渦輪機風能的未來更近一步。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/airborne_wind_energy_grant/</guid>
       <pubDate>Wed, 05 Jun 2024 19:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDB 1.0 版本承諾更高的穩定性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/duckdb_promises_greater_stability_with/</link>
-      <description><![CDATA[進程內OLAP 資料庫飛巢 DuckDB 透過1.0 迭代已成為一個成熟的資料庫版本，承諾提供新的資料模型和更高的穩定性以增強向後相容性。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/duckdb_promises_greater_stability_with/</guid>
-      <pubDate>Wed, 05 Jun 2024 19:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
