@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 00:47:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 01:55:42 GMT</lastBuildDate>
+    <item>
+      <title>Synology 延伸至備份設備，即將推出物件存儲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</link>
+      <description><![CDATA[想要擊敗Veeam 和Veritas，但整理備份設備是一項更容易的工作 Computex 台灣儲存供應商Synology 推出了一系列備份設備。 . p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</guid>
+      <pubDate>Thu, 06 Jun 2024 01:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>FTX 的 24B 美元稅單減記至僅 2 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</link>
-      <description><![CDATA[不，這不是加密貨幣感染國稅局的奇怪邏輯。這是一場「與我們戰鬥，每個人都會損失更多」的交易 內爆的加密貨幣交易所FTX 欠很多人很多錢，但說服了美國國稅局(IRS) 的稅務人員為其提供大幅折扣其 240 億美元的稅單......]]></description>
+      <description><![CDATA[不，這不是加密貨幣感染國稅局的奇怪邏輯。這是一場「與我們戰鬥，每個人都會損失更多」的交易 內爆的加密貨幣交易所FTX 欠很多人很多錢- 但已經說服美國國稅局的稅務人員為其提供大幅折扣其 240 億美元的稅單......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</guid>
       <pubDate>Thu, 06 Jun 2024 00:05:09 GMT</pubDate>
     </item>
     <item>
       <title>馬斯克 (Elon Musk) 確認為 Tesla 訂購的 12K H100 優先用於 xAI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/elon_musk_confirms_h100_destined/</link>
-      <description><![CDATA[大亨的私人公司首先獲得了Nvidia GPU，因為汽車製造商還無法使用它們 評論 特斯拉執行長馬斯克(Elon Musk ) 已確認，他將原本為汽車製造商提供的Nvidia H100 GPU 重定向到X 和 xAI，他擁有的兩家私人公司。]]></description>
+      <description><![CDATA[大亨的私人公司首先獲得了Nvidia GPU，因為汽車製造商還無法使用它們 評論 特斯拉首席執行官埃隆·馬斯克(Elon Musk ) 已確認，他將原本為汽車製造商提供的Nvidia H100 GPU 重定向到X 和 xAI，他擁有的兩家私人公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/elon_musk_confirms_h100_destined/</guid>
       <pubDate>Wed, 05 Jun 2024 23:40:11 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>微軟預計在歐盟反壟斷調查中對 Teams 做出進一步讓步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</link>
-      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷蒙德「仍致力於找到解決監管機構擔憂的解決方案」 微軟表示，它可能會採取「額外措施」來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
+      <description><![CDATA[儘管將視訊和聊天應用程式與Office 分拆，雷德蒙德“仍致力於找到解決監管機構擔憂的解決方案” 微軟表示，它可能會採取“額外措施”來解決歐盟委員會的反壟斷問題調查其將 Teams 與 Office 捆綁在一起的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/microsoft_expects_further_concessions_for/</guid>
       <pubDate>Wed, 05 Jun 2024 14:30:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 05 Jun 2024 13:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已經時日無多</title>
+      <title>微軟重振 Windows 10 Beta 頻道，儘管作業系統已時日無多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</link>
       <description><![CDATA[Windows Insider 準備搶先體驗功能更新 微軟正在為 Windows Insider 重新開放 Windows 10 Beta 頻道，這清楚地表明老狗仍然有生命力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/windows_10_beta_channel/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[公職人員涉嫌行賄以允許逃避引渡旅行 作為對兩個重疊腐敗計劃的國際調查的一部分，本週逮捕了四人，這兩個計劃允許國際刑警組織觀察名單上的網路犯罪分子自由旅行，而無需標記任何人警報。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/four_arrested_in_scheme_to/</guid>
       <pubDate>Wed, 05 Jun 2024 12:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>從肉丸到虛擬宇宙－IKEA的平板包裝幻想登陸 Roblox</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</link>
-      <description><![CDATA[瑞典家具巨頭有 10 個遊戲內有薪職位需要填補 首先是瑞安航空，現在是平板包裝椅子 - 宜家即將進駐 Roblox。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/ikea_roblox_jobs/</guid>
-      <pubDate>Wed, 05 Jun 2024 11:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
