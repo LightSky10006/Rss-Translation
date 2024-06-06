@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 19:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 20:13:17 GMT</lastBuildDate>
+    <item>
+      <title>英國科技大亨麥克林奇在美國自治詐欺審判中被洗清</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</link>
+      <description><![CDATA[舊金山陪審團裁定他和財務副總裁無罪 重大事件 英國企業家邁克·林奇(Mike Lynch) 已被舊金山陪審團宣判無罪。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</guid>
+      <pubDate>Thu, 06 Jun 2024 19:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FBI 鼓勵 LockBit 受害者站出來索取免費加密金鑰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/lockbit_fbi_decryption_key/</link>
+      <description><![CDATA[壞消息？ Gang 在付款後並未刪除受害者資料 仍在嘗試清理加密檔案的 LockBit 受害者很幸運：FBI 擁有大量解密金鑰，很樂意讓您嘗試。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/lockbit_fbi_decryption_key/</guid>
+      <pubDate>Thu, 06 Jun 2024 19:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>大型電信公司瞄準新的網路中立規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/telcos_net_neutrality/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>1 月 6 日提供錯誤訊息實驗數據後，將川普等人從 Twitter 上刪除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/jan_6_depatforming_nature_study/</link>
-      <description><![CDATA[這項研究很糟糕，非常糟糕。有史以來最糟糕的研究。你知道希拉里·克林頓創建了ISIS 嗎？ ，該平台上誤導性訊息的傳播有所下降。]]></description>
+      <description><![CDATA[這項研究很糟糕，非常糟糕。有史以來最糟糕的研究。你知道希拉里·克林頓創建了ISIS 嗎？刪除，該平台上誤導性訊息的傳播有所下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/jan_6_depatforming_nature_study/</guid>
       <pubDate>Thu, 06 Jun 2024 16:45:10 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我們來自政府，我們希望您找到愛情並生育 東京市計劃在未來幾個月內推出約會應用程序，希望它有助於解決日本人口下降的問題.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/tokyo_dating_app/</guid>
       <pubDate>Thu, 06 Jun 2024 06:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>台灣資料中心電力公司達美航空發現 Wi-Fi 可以觀察你的心跳</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/wifi_motion_detection_delta_computex/</link>
-      <description><![CDATA[可能會對醫療機構派上用場，或關閉私人 5G Computex  Delta 是一家專門生產電源管理套件的台灣公司，該套件資料中心需要。因此，它現在的需求非常大，但正如2024 年Computex 會議的最終主題演講中所透露的那樣，它還進行了一些無關的研發… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/wifi_motion_detection_delta_computex/</guid>
-      <pubDate>Thu, 06 Jun 2024 05:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌收購應用程式串流媒體公司 Cameyo 進軍虛擬桌面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</link>
-      <description><![CDATA[Chromebook 上的舊版應用程式是我們的目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流到瀏覽器中 - 包括 Chromebook。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</guid>
-      <pubDate>Thu, 06 Jun 2024 04:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
