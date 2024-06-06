@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 12:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 13:13:21 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯方塊公司慶祝經典遊戲誕生 40 週年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/happy_birthday_tetris/</link>
+      <description><![CDATA[你不是 1985 年的真相者，是嗎？生日…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/happy_birthday_tetris/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Atos 推遲了諾曼第登陸日考慮金融救援決定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/atos_defers_rescue_package/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 06 Jun 2024 11:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>已存在 7 年之久的 Oracle WebLogic 漏洞正被積極利用</title>
+      <title>已有 7 年歷史的 Oracle WebLogic 漏洞正被積極利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</link>
       <description><![CDATA[專家表示，Big Red 可能會在下一個週期重新發布補丁 一個已有七年曆史的Oracle 漏洞是最新添加到CISA 已知被利用漏洞(KEV) 目錄中的，這意味著安全機構認為它對聯邦政府構成重大威脅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/oracle_weblogic_vulnerability_exploited/</guid>
@@ -71,21 +78,21 @@
     <item>
       <title>谷歌收購應用程式串流媒體公司 Cameyo 進軍虛擬桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</link>
-      <description><![CDATA[Chromebook 上的舊版應用程式是我們的目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流到瀏覽器中 - 包括 Chromebook。]]></description>
+      <description><![CDATA[Chromebook 上的舊版應用程式是目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流傳輸到瀏覽器中 - 包括在 Chromebook 上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</guid>
       <pubDate>Thu, 06 Jun 2024 04:15:12 GMT</pubDate>
     </item>
     <item>
       <title>Synology 延伸至備份設備，即將推出物件存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</link>
-      <description><![CDATA[想擊敗 Veeam 和 Veritas，但整理備份設備更容易 Computex 台灣儲存供應商 Synology 推出了一系列備份設備。 p&gt;]]></description>
+      <description><![CDATA[想要擊敗Veeam 和Veritas，但整理備份設備是一項更容易的工作 Computex 台灣儲存供應商Synology 推出了一系列備份設備。 . p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/synology_backup_activeprotect/</guid>
       <pubDate>Thu, 06 Jun 2024 01:28:12 GMT</pubDate>
     </item>
     <item>
       <title>FTX 的 24B 美元稅單減記至僅 2 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</link>
-      <description><![CDATA[不，這不是加密貨幣感染國稅局的奇怪邏輯。這是一場「與我們戰鬥，每個人都會損失更多」的交易 內爆的加密貨幣交易所FTX 欠很多人很多錢，但說服了美國國稅局(IRS) 的稅務人員為其提供大幅折扣其 240 億美元的稅單......]]></description>
+      <description><![CDATA[不，這不是加密貨幣感染國稅局的奇怪邏輯。這是一場「與我們戰鬥，每個人都會損失更多」的交易 內爆的加密貨幣交易所FTX 欠很多人很多錢- 但已經說服美國國稅局的稅務人員為其提供大幅折扣其 240 億美元的稅單......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/ftx_tax_irs/</guid>
       <pubDate>Thu, 06 Jun 2024 00:05:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[讓我們勇敢的二人組前往國際太空站，然後安全返回地球 波音公司由NASA 支持的Starliner 乘員艙今天終於在佛羅裡達州的發射台成功發射升空，船上有兩名勇敢的人類.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/boeing_starliner_launch_success/</guid>
       <pubDate>Wed, 05 Jun 2024 18:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在有爭議的亞馬遜資料中心之爭之後，美國縣表示已經吸取了教訓</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/datacenter_culpeper_amazon/</link>
-      <description><![CDATA[“我們熱愛我們的農場”，Culpeper 說，但我們也喜歡互聯網大型露天市場和其他設置服務器的機構 採訪 當我們上次在弗吉尼亞州Culpeper 縣登記時，那裡的人們正在爭奪亞馬遜資料中心的建設，而官員們則試圖吸引更多的伺服器託管地產到該地區。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/datacenter_culpeper_amazon/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

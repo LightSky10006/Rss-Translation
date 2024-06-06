@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 12:50:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 13:13:29 GMT</lastBuildDate>
+    <item>
+      <title>Poco F6 和 F6 Pro 評測：小價格，大性能</title>
+      <link>https://www.wired.com/review/xiaomi-poco-f6-and-f6-pro/</link>
+      <description><![CDATA[小米的 Poco F6 擁有堅固的相機，並且配備了這個價格中最好的顯示器和處理器。]]></description>
+      <guid>https://www.wired.com/review/xiaomi-poco-f6-and-f6-pro/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Eargo Link 評測：價格太貴的基本助聽器</title>
       <link>https://www.wired.com/review/eargo-link/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>城市內部由機器監管</title>
       <link>https://www.wired.com/story/inside-the-city-policed-by-machines/</link>
-      <description><![CDATA[《連線》雜誌對 2200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
+      <description><![CDATA[《連線》雜誌對 2,200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
       <guid>https://www.wired.com/story/inside-the-city-policed-by-machines/</guid>
       <pubDate>Thu, 06 Jun 2024 10:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[《連線》雜誌基於超過 2200 萬個飛行座標進行的調查揭示了美國第一個成熟的警用無人機計劃的複雜真相，以及為什麼您所在的城市可能成為下一個。]]></description>
       <guid>https://www.wired.com/story/the-age-of-the-drone-police-is-here/</guid>
       <pubDate>Wed, 05 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家美國公司促成了北韓騙局，為大規模殺傷性武器籌集資金</title>
-      <link>https://www.wired.com/story/registered-agents-north-korean-scam-wmds/</link>
-      <description><![CDATA[該計劃曝光後，懷俄明州國務卿提出了「防止商業註冊代理人欺詐和濫用公司備案」的方法。]]></description>
-      <guid>https://www.wired.com/story/registered-agents-north-korean-scam-wmds/</guid>
-      <pubDate>Wed, 05 Jun 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
