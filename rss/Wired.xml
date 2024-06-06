@@ -4,11 +4,18 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 17:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 18:13:59 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 讓我們一窺 ChatGPT 的本質</title>
+      <link>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
+      <description><![CDATA[前員工表示該公司對其技術過於魯莽，幾天后，OpenAI 發布了一篇關於對人工智慧模型的工作進行逆向工程的方法的研究論文。]]></description>
+      <guid>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</guid>
+      <pubDate>Thu, 06 Jun 2024 17:45:55 GMT</pubDate>
+    </item>
     <item>
       <title>Starship 的成功測試使 SpaceX 距離火星又近了一步</title>
       <link>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</link>
-      <description><![CDATA[該飛行器基本上在發射和重返大氣層中倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
+      <description><![CDATA[該飛行器在發射和重返大氣層中大部分倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
       <guid>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</guid>
       <pubDate>Thu, 06 Jun 2024 16:59:42 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 06 Jun 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>學會與Google的人工智慧共存</title>
+      <title>學會接受Google的人工智慧概述</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-646/</link>
       <description><![CDATA[本週，我們將討論Google人工智慧摘要的前幾週的坎坷，以及為什麼新功能讓我們大汗淋漓。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-646/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>波音公司的 Starliner 終於將 NASA 機組人員送入太空</title>
       <link>https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/</link>
-      <description><![CDATA[比計畫晚了七年，經過上個月的兩次失敗嘗試，Starliner 終於將兩名太空人送入太空，執行 NASA 的任務。這家陷入困境的公司仍有許多工作要做。]]></description>
+      <description><![CDATA[比計畫晚了七年，經過上個月的兩次嘗試後，Starliner 終於將兩名太空人送入太空，執行 NASA 的任務。這家陷入困境的公司仍有許多工作要做。]]></description>
       <guid>https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/</guid>
       <pubDate>Wed, 05 Jun 2024 19:18:38 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 05 Jun 2024 19:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年福特野馬 Mach-E 拉力賽首次駕駛：價格、規格、可用性</title>
+      <title>2024 福特野馬 Mach-E 拉力賽首次駕駛：價格、規格、可用性</title>
       <link>https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/</link>
       <description><![CDATA[全電動野馬進行了一次骯髒的更新——如果你喜歡側向行駛，那麼這是完美的選擇。]]></description>
       <guid>https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>齊納·米耶維爾與網路男友（基努·李維飾）寫秘密小說</title>
       <link>https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/</link>
-      <description><![CDATA[經過近十年的沉默後，這位深受喜愛的科幻作家開始談論失去、愛情以及與基努李維的合作。 《連線》獨家報道。]]></description>
+      <description><![CDATA[經過近十年的沉默後，這位深受喜愛的科幻作家講述了失去、愛情以及與基努李維的合作。 《連線》獨家報道。]]></description>
       <guid>https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/</guid>
       <pubDate>Wed, 05 Jun 2024 13:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[坐在辦公桌前幾個小時？使用這些經過 WIRED 測試的舒適座椅升級您的 WFH 設置並以時尚的方式工作。]]></description>
       <guid>https://www.wired.com/gallery/best-office-chairs/</guid>
       <pubDate>Wed, 05 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>當電玩遊戲開發者因濫用行為而被揭發時，接下來會發生什麼？</title>
-      <link>https://www.wired.com/story/respec-harassment-gaming/</link>
-      <description><![CDATA[多年來，電玩產業一直面臨著消除虐待行為的呼籲。非營利組織 ReSpec 希望幫助其弄清楚取消結束後該做什麼。]]></description>
-      <guid>https://www.wired.com/story/respec-harassment-gaming/</guid>
-      <pubDate>Wed, 05 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
