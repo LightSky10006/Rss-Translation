@@ -4,7 +4,7 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 21:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 22:10:16 GMT</lastBuildDate>
     <item>
       <title>Oral-B 出售了一款價值 230 美元的 Alexa 牙刷，然後就下架了</title>
       <link>https://www.wired.com/story/oral-b-guide-alexa-app-brick/</link>
@@ -41,6 +41,13 @@
       <pubDate>Thu, 06 Jun 2024 19:41:06 GMT</pubDate>
     </item>
     <item>
+      <title>目前 Disney+ 上的 61 部最佳電影（2024 年 6 月）</title>
+      <link>https://www.wired.com/story/best-movies-disney-plus/</link>
+      <description><![CDATA[《吉姆漢森：創意人》、《泰勒絲：時代之旅》（泰勒版）和《順其自然》只是本月您應該在 Disney+ 上觀看的幾部電影。]]></description>
+      <guid>https://www.wired.com/story/best-movies-disney-plus/</guid>
+      <pubDate>Thu, 06 Jun 2024 19:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI 讓我們一窺 ChatGPT 的本質</title>
       <link>https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/</link>
       <description><![CDATA[前員工表示該公司對其技術過於魯莽，幾天后，OpenAI 發布了一篇關於對人工智慧模型的工作進行逆向工程的方法的研究論文。]]></description>
@@ -50,7 +57,7 @@
     <item>
       <title>Starship 的成功測試使 SpaceX 距離火星又近了一步</title>
       <link>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</link>
-      <description><![CDATA[該飛行器基本上在發射和重返大氣層中倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
+      <description><![CDATA[該飛行器在發射和重返大氣層中大部分倖存下來，這是歷史上最大火箭運行飛行的關鍵墊腳石。]]></description>
       <guid>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</guid>
       <pubDate>Thu, 06 Jun 2024 16:59:42 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>城市內部由機器監管</title>
       <link>https://www.wired.com/story/inside-the-city-policed-by-machines/</link>
-      <description><![CDATA[《連線》雜誌對 2200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
+      <description><![CDATA[《連線》雜誌對 2,200 萬個座標進行了分析，繪製出警用無人機在加州邊境城市的使用方式。有些居民歡迎機器人；有些居民則歡迎機器人。其他人則覺得他們現在生活在一個監視的反烏托邦。]]></description>
       <guid>https://www.wired.com/story/inside-the-city-policed-by-machines/</guid>
       <pubDate>Thu, 06 Jun 2024 10:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[基於網路對這家瑞典家具店的喜愛，宜家正在為其即將推出的 Roblox 線上虛擬前哨店招募員工。只要您年滿 18 歲，它就能支付真金白銀，而不是 Robux。]]></description>
       <guid>https://www.wired.com/story/ikea-is-hiring-its-next-generation-of-workers-on-roblox/</guid>
       <pubDate>Thu, 06 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在人工智慧時代領導一支數位偵探大軍</title>
-      <link>https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/</link>
-      <description><![CDATA[艾略特·希金斯 (Eliot Higgins) 和他在 Bellingcat 的 28,000 名法醫步兵在加薩、烏克蘭以及網上隱藏暴行的其他地方對真相保持著神奇的嗅覺，並敏銳地意識到真相的局限性。]]></description>
-      <guid>https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/</guid>
-      <pubDate>Thu, 06 Jun 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
