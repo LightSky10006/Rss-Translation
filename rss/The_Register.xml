@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 20:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 20:34:51 GMT</lastBuildDate>
+    <item>
+      <title>中國的新制裁漏洞：在美國境內使用出口管制晶片</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/chinas_new_chip_sanctions_loophole/</link>
+      <description><![CDATA[甲骨文、英偉達被指控與字節跳動等公司合作，提供美國境內先進零件的使用權 據報道，涉足尖端人工智慧晶片的中國公司一直在購買受制裁硬體的使用權在美國領土上以避免引起警報。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/chinas_new_chip_sanctions_loophole/</guid>
+      <pubDate>Thu, 06 Jun 2024 20:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>英國科技大亨麥克林奇在美國自治詐欺審判中被洗清</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</link>
-      <description><![CDATA[舊金山陪審團裁定他和財務副總裁無罪 重大事件 英國企業家邁克·林奇(Mike Lynch) 已被舊金山陪審團宣判無罪。 ...]]></description>
+      <description><![CDATA[舊金山陪審團裁定他和財務副總裁無罪 重大事件 英國企業家邁克·林奇(Mike Lynch) 剛剛被舊金山陪審團宣判無罪。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</guid>
       <pubDate>Thu, 06 Jun 2024 19:58:28 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 06 Jun 2024 17:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>1 月 6 日提供錯誤訊息實驗數據後，將川普等人從 Twitter 上刪除</title>
+      <title>1 月 6 日提供錯誤訊息實驗的關鍵數據後，將川普等人從 Twitter 上刪除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/jan_6_depatforming_nature_study/</link>
       <description><![CDATA[這項研究很糟糕，非常糟糕。有史以來最糟糕的研究。你知道希拉里·克林頓創建了ISIS 嗎？刪除，該平台上誤導性訊息的傳播有所下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/jan_6_depatforming_nature_study/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具的出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳，Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不理會擔憂…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</guid>
       <pubDate>Thu, 06 Jun 2024 07:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>東京開發自己的約會應用程式來對抗Tinder，希望能阻止人口下降</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/tokyo_dating_app/</link>
-      <description><![CDATA[我們來自政府，我們希望您找到愛情並生育 東京市計劃在未來幾個月內推出約會應用程序，希望它有助於解決日本人口下降的問題.. .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/tokyo_dating_app/</guid>
-      <pubDate>Thu, 06 Jun 2024 06:24:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
