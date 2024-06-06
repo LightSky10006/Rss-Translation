@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 15:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 16:13:50 GMT</lastBuildDate>
     <item>
-      <title>人工智慧巨頭英偉達、微軟、OpenAI 面臨美國反壟斷調查</title>
+      <title>Meta 在歐洲因計劃利用用戶資料訓練人工智慧而面臨多項投訴</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/meta_ai_complaints/</link>
+      <description><![CDATA[選擇退出或準備好您的帖子被收錄 Meta 在人工智慧培訓中使用客戶資料的計劃已導致向11 個歐洲國家的資料保護機構提出投訴。 p&gt;  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/meta_ai_complaints/</guid>
+      <pubDate>Thu, 06 Jun 2024 15:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>主要人工智慧廠商英偉達、微軟、OpenAI 面臨美國反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/nvidia_microsoft_and_openai_face/</link>
       <description><![CDATA[嗯...世界上最有價值的公司在世界上最令人垂涎​​的技術方面遙遙領先。 WCGW？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/nvidia_microsoft_and_openai_face/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 06 Jun 2024 14:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔尋求追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
+      <title>山姆大叔試圖追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</link>
       <description><![CDATA[資金在發送至離岸帳戶後目前已被扣押 美國司法部正在尋求許可，以追回商業電子郵件洩露(BEC) 詐騙者從工會竊取的價值超過500 萬美元的經費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟研究院首席科學家對Windows召回沒有異議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</link>
-      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳， Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不顧擔憂。]]></description>
+      <description><![CDATA[隨著偵測作業系統功能基於SQLite 的使用者活動儲存的工具的出現 被要求探討Windows 製造商的自我監控工具Microsoft Recall 所造成的資料隱私問題，而該工具反應不佳，Jaime Teevan 負責人微軟研究院的科學家和技術研究員，不理會擔憂…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_research_recall/</guid>
       <pubDate>Thu, 06 Jun 2024 07:26:08 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>谷歌收購應用程式串流媒體公司 Cameyo 進軍虛擬桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</link>
-      <description><![CDATA[Chromebook 上的舊版應用程式是目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流傳輸到瀏覽器中 - 包括在 Chromebook 上。]]></description>
+      <description><![CDATA[Chromebook 上的舊版應用程式是我們的目標，這不會嚇倒Citrix 和Omnissa 等VDI 現有企業 Google 已決定收購一家名為Cameyo 的公司，與Citrix 和VMware 等公司展開競爭，該公司的技術使可以將應用程式串流到瀏覽器中 - 包括 Chromebook。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/google_acquires_cameyo_vdi_challenge/</guid>
       <pubDate>Thu, 06 Jun 2024 04:15:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[謹防零點擊惡意軟體滑入您的 DM 不法分子利用 TikTok 中的零日漏洞破壞了 CNN 和其他知名人士的帳戶。該應用程式製造商已確認存在網路攻擊，並且已緊急保護帳戶並防止任何進一步的利用。 - &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/tiktok_confirms_cnn_accounts_hijacked/</guid>
       <pubDate>Wed, 05 Jun 2024 21:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>史丹佛大學教授表示，為了解決人工智慧的能源危機，“重新思考從電子到演算法的整個堆疊”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/a_high_five_for_stanford/</link>
-      <description><![CDATA[HAI 聚會告訴我們，從生物學角度而不是數位角度思考從兆瓦到瓦的變化 史丹佛以人為中心的人工智慧研究所(HAI) 週三慶祝了貓放牧五週年，也就是說放牧機器學習的負責任的發展......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/a_high_five_for_stanford/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:55:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
