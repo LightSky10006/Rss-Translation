@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 11:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 12:20:56 GMT</lastBuildDate>
+    <item>
+      <title>微軟向古老且易受攻擊的 NTLM 安全協定敞開大門</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_deprecates_ntlm/</link>
+      <description><![CDATA[如果您仍然依賴這個已棄用的功能，那麼是時候開始行動了 Microsoft 最終決定將古老的NTLM 身份驗證協議添加到“已棄用的功能”列表中。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/microsoft_deprecates_ntlm/</guid>
+      <pubDate>Thu, 06 Jun 2024 12:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>鈉離子電池：中國將主導的另一項創新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/sodium_ion_batteries_china/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[那個後門本來就不該存在？ ) 設備發布了安全修復程序。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/zyxel_emergency_patches_nas/</guid>
       <pubDate>Wed, 05 Jun 2024 17:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈伯望遠鏡將過渡到單陀螺儀模式，以獲得更多幾年的使用壽命</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/hubble_to_transition_to_singlegyro/</link>
-      <description><![CDATA[那麼關於商業服務任務，嗯？ p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/hubble_to_transition_to_singlegyro/</guid>
-      <pubDate>Wed, 05 Jun 2024 16:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
