@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Jun 2024 13:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 13:34:13 GMT</lastBuildDate>
+    <item>
+      <title>山姆大叔尋求追回透過欺騙電子郵件從工會竊取的超過 500 萬美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</link>
+      <description><![CDATA[資金在發送至離岸帳戶後目前已被扣押 美國司法部正在尋求許可，以追回商業電子郵件洩露(BEC) 詐騙者從工會竊取的價值超過500 萬美元的經費。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/union_bec_scam/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯方塊公司慶祝經典遊戲誕生 40 週年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/happy_birthday_tetris/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[進程內OLAP 資料庫飛巢 DuckDB 透過1.0 迭代已成為一個成熟的資料庫版本，承諾提供新的資料模型和更高的穩定性以增強向後相容性。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/duckdb_promises_greater_stability_with/</guid>
       <pubDate>Wed, 05 Jun 2024 19:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司的星際客機終於進入軌道－載有機組人員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/05/boeing_starliner_launch_success/</link>
-      <description><![CDATA[讓我們勇敢的二人組前往國際太空站，然後安全返回地球 波音公司由NASA 支持的Starliner 乘員艙今天終於在佛羅裡達州的發射台成功發射升空，船上有兩名勇敢的人類.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/05/boeing_starliner_launch_success/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
