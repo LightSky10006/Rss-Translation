@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Jun 2024 21:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 22:11:06 GMT</lastBuildDate>
+    <item>
+      <title>PHP 漏洞允許攻擊者在 Windows 伺服器上執行惡意程式碼</title>
+      <link>https://arstechnica.com/?p=2029943</link>
+      <description><![CDATA[有了可用的 PoC 代碼和主動的網路掃描，速度就變得至關重要。]]></description>
+      <guid>https://arstechnica.com/?p=2029943</guid>
+      <pubDate>Fri, 07 Jun 2024 21:57:49 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌向美國政府寄出230萬美元支票以避免陪審團審判</title>
       <link>https://arstechnica.com/?p=2029910</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 07 Jun 2024 18:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>奇異的產卵哺乳動物曾經統治澳大利亞，但後來失去了牙齒</title>
+      <title>奇怪的產卵哺乳動物曾經統治澳大利亞，但後來失去了牙齒</title>
       <link>https://arstechnica.com/?p=2029837</link>
       <description><![CDATA[這些發現可能顯示鴨嘴獸和針鼴鼠的共同祖先是什麼樣子。]]></description>
       <guid>https://arstechnica.com/?p=2029837</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[股東們獲悉，如果薪酬未重新批准，馬斯克可能會減少在特斯拉身上投入的時間。]]></description>
       <guid>https://arstechnica.com/?p=2029818</guid>
       <pubDate>Fri, 07 Jun 2024 17:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>在研究人員指出其安全性問題後，微軟正在重新設計 Recall</title>
-      <link>https://arstechnica.com/?p=2029806</link>
-      <description><![CDATA[Windows Hello 驗證，增加額外的加密來保護資料。]]></description>
-      <guid>https://arstechnica.com/?p=2029806</guid>
-      <pubDate>Fri, 07 Jun 2024 16:59:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
