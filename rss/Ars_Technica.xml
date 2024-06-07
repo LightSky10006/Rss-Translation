@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Jun 2024 22:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 23:34:13 GMT</lastBuildDate>
     <item>
-      <title>PHP 漏洞允許攻擊者在 Windows 伺服器上執行惡意程式碼</title>
+      <title>人們在食用微劑量巧克力後出現癲癇發作、插管</title>
+      <link>https://arstechnica.com/?p=2029953</link>
+      <description><![CDATA[4 個州至少有 8 人患病，6 人住院，敦促人們「極度謹慎」。]]></description>
+      <guid>https://arstechnica.com/?p=2029953</guid>
+      <pubDate>Fri, 07 Jun 2024 22:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>週末，利用非常簡單的漏洞攻擊 PHP 的令人討厭的錯誤</title>
       <link>https://arstechnica.com/?p=2029943</link>
       <description><![CDATA[有了可用的 PoC 代碼和主動的網路掃描，速度就變得至關重要。]]></description>
       <guid>https://arstechnica.com/?p=2029943</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[據報道，蘋果計劃在 WWDC 上宣布第一波人工智慧功能。]]></description>
       <guid>https://arstechnica.com/?p=2029805</guid>
       <pubDate>Fri, 07 Jun 2024 17:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉董事長表示伊隆馬斯克需要 460 億美元的薪酬計畫才能保持積極性</title>
-      <link>https://arstechnica.com/?p=2029818</link>
-      <description><![CDATA[股東們獲悉，如果薪酬未重新批准，馬斯克可能會減少在特斯拉身上投入的時間。]]></description>
-      <guid>https://arstechnica.com/?p=2029818</guid>
-      <pubDate>Fri, 07 Jun 2024 17:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
