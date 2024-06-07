@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 07 Jun 2024 16:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 17:10:12 GMT</lastBuildDate>
+    <item>
+      <title>樹莓派IPO多次超額認購</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/raspberry_pi_ipo_is_oversubscribed/</link>
+      <description><![CDATA[你認為Raspberry Pi 5 變得越來越貴...... Raspberry Pi IPO 可能會讓該公司的市值達到5.4 億英鎊（6.86 億美元），因為人們猜測股票可能會定價約 2.80 英鎊（3.56 美元）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/raspberry_pi_ipo_is_oversubscribed/</guid>
+      <pubDate>Fri, 07 Jun 2024 17:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>有投資者做空英偉達，預計人工智慧泡沫破裂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/some_investors_bet_against_nvidia/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>思科修復了允許政府和軍事會議被監視的 WebEx 漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/cisco_fixes_webex_flaw_which/</link>
-      <description><![CDATA[研究人員能夠從荷蘭政府高級官員舉行的10,000 場會議中收集數據 思科本週解決了一些漏洞，這些漏洞允許任何人查看WebEx 會議信息並加入會議，這可能會引發安全性和隱私問題對於高度敏感的會議。]]></description>
+      <description><![CDATA[研究人員能夠從荷蘭政府高級官員舉行的10,000 場會議中收集數據 思科本週修復了一些漏洞，這些漏洞允許任何人查看WebEx 會議資訊並加入會議，這可能會引發安全性和隱私問題對於高度敏感的會議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/cisco_fixes_webex_flaw_which/</guid>
       <pubDate>Fri, 07 Jun 2024 15:04:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[甲骨文、英偉達被指控與字節跳動等公司合作，在美國提供先進零件 據報道，被阻止獲得尖端人工智慧晶片的中國公司一直在購買受制裁硬體的使用權美國土壤以避免引起警報......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/chinas_new_chip_sanctions_loophole/</guid>
       <pubDate>Thu, 06 Jun 2024 20:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國科技大亨麥克林奇在美國自治詐欺審判中被撤銷所有指控</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</link>
-      <description><![CDATA[舊金山陪審團裁定創辦人兼財務副總裁無罪 Autonomy 創辦人兼執行長 Mike Lynch 因2011 年將這家英國軟體公司出售給他人而引發的刑事欺詐和共謀指控被判無罪。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/06/mike_lynch_cleared/</guid>
-      <pubDate>Thu, 06 Jun 2024 19:58:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
