@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 08 Jun 2024 12:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 15:11:01 GMT</lastBuildDate>
+    <item>
+      <title>Uber 前 CSO Joe Sullivan：我們需要安全領導者跑步去上班，而不是放棄</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/08/uber_cso_joe_sullivan/</link>
+      <description><![CDATA[資訊安全主管因掩蓋從出租車應用程式製造商處竊取資料而被定罪並受到懲罰的教訓 採訪  Joe Sullivan - 現任Uber 前首席安全官， 2016 年因掩蓋 Uber 數據盜竊案而被判有罪 - 記得在 2022 年有罪判決後，他坐下來思考了他面臨的最壞情況。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/08/uber_cso_joe_sullivan/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>我們的禿鷹在台北國際電腦展上倖存了下來——現在他只需要告訴我們高潮和低谷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/08/kettle_computex/</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 07 Jun 2024 19:40:54 GMT</pubDate>
     </item>
     <item>
-      <title>56 量子位元機器讓量子更接近容錯量子</title>
+      <title>56 量子位元機器的量子距離容錯量子更近了一步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/quantinuum_new_computer/</link>
       <description><![CDATA[此方法僅在 65% 的時間內產生錯誤。嗚呼！ #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/quantinuum_new_computer/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>有投資者做空英偉達，預計人工智慧泡沫破裂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/some_investors_bet_against_nvidia/</link>
-      <description><![CDATA[麵包很美味，因為飢腸轆轆的交易員和分析師對無限增長表示懷疑 Nvidia 目前在生成式 AI 浪潮的推動下一路高歌猛進，但有些人認為 GPU 冠軍的時間有限在陽光明媚的高地，並押注其股價很快就會下跌。]]></description>
+      <description><![CDATA[麵包很美味，因為飢腸轆轆的交易員和分析師對無限增長表示懷疑 Nvidia 目前在生成式 AI 浪潮的推動下一路高歌猛進，但有些人認為 GPU 冠軍的時間有限在陽光明媚的高地，並押注其股價將很快下跌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/some_investors_bet_against_nvidia/</guid>
       <pubDate>Fri, 07 Jun 2024 16:03:06 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Ubuntu 的即時版和核心版現已推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/ubuntu_24_realtime_core/</link>
-      <description><![CDATA[現在是時候升級你身邊的 Mantic Minotaurs Canonical 在最新的 Ubuntu LTS 版本之後推出了實時和 IoT 版本，同時迎來了最後一個臨時版本的退役。 p&gt;]]></description>
+      <description><![CDATA[現在是時候升級你身邊的 Mantic Minotaurs Canonical 繼最新的 Ubuntu LTS 版本之後推出了實時和 IoT 版本，同時迎來了最後一個臨時版本的退役。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/ubuntu_24_realtime_core/</guid>
       <pubDate>Fri, 07 Jun 2024 09:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠普執行長：自大流行以來印刷頁數減少了20%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/hp_ceo_printed_pages/</link>
-      <description><![CDATA[客戶的硬體資產消耗時間越來越長 在家中和辦公室列印的頁面越來越少，這對惠普及其競爭對手構成了挑戰。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/hp_ceo_printed_pages/</guid>
-      <pubDate>Fri, 07 Jun 2024 08:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
