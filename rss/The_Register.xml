@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 09 Jun 2024 12:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 18:36:01 GMT</lastBuildDate>
+    <item>
+      <title>研究發現四分之一的老闆希望 RTO 能讓員工辭職</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/09/rto_quit_study/</link>
+      <description><![CDATA[員工幸福感創歷史新低 一項研究聲稱證明了一些人的懷疑：重返辦公室強制要求只是秘密裁員，而後疫情時代的工作文化讓每個人都痛苦不堪。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/09/rto_quit_study/</guid>
+      <pubDate>Sun, 09 Jun 2024 18:27:15 GMT</pubDate>
+    </item>
     <item>
       <title>Akira：潮汐威脅情報負責人表示，也許勒索軟體的下一個重大事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/09/akira_the_next_big_thing/</link>
-      <description><![CDATA[Scott Small 告訴我們該團伙的「意圖和能力」應該引起 CSO 的關注 採訪 它可能不像 BlackCat 或 LockBit 那麼大，但 Akira一位網絡安全研究人員表示，勒索軟體同樣危險，而且它有望產生巨大影響。 ...]]></description>
+      <description><![CDATA[Scott Small 告訴我們該團伙的「意圖和能力」應該引起 CSO 的關注 採訪 它可能不像 BlackCat 或 LockBit 那麼大，但 Akira一位網絡安全研究人員表示，勒索軟體同樣危險，並且有望產生巨大影響。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/09/akira_the_next_big_thing/</guid>
       <pubDate>Sun, 09 Jun 2024 12:10:11 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 07 Jun 2024 19:40:54 GMT</pubDate>
     </item>
     <item>
-      <title>56 量子位元機器讓量子更接近容錯量子</title>
+      <title>56 量子位元機器的量子距離容錯量子更近了一步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/quantinuum_new_computer/</link>
       <description><![CDATA[此方法僅在 65% 的時間內產生錯誤。嗚呼！ #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/quantinuum_new_computer/</guid>
@@ -92,14 +99,14 @@
     <item>
       <title>有投資者做空英偉達，預計人工智慧泡沫破裂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/some_investors_bet_against_nvidia/</link>
-      <description><![CDATA[麵包很美味，因為飢腸轆轆的交易員和分析師對無限增長表示懷疑 Nvidia 目前在生成式 AI 浪潮的推動下一路高歌猛進，但有些人認為 GPU 冠軍的時間有限在陽光明媚的高地，並押注其股價將很快下跌。]]></description>
+      <description><![CDATA[麵包很美味，因為飢腸轆轆的交易員和分析師對無限增長表示懷疑 Nvidia 目前在生成式 AI 浪潮的推動下一路高歌猛進，但有些人認為 GPU 冠軍的時間有限在陽光明媚的高地，並押注其股價很快就會下跌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/some_investors_bet_against_nvidia/</guid>
       <pubDate>Fri, 07 Jun 2024 16:03:06 GMT</pubDate>
     </item>
     <item>
       <title>思科修復了允許政府和軍事會議被監視的 WebEx 漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/cisco_fixes_webex_flaw_which/</link>
-      <description><![CDATA[研究人員能夠從荷蘭政府高級官員舉行的10,000 場會議中收集數據 思科本週解決了一些漏洞，這些漏洞允許任何人查看WebEx 會議信息並加入會議，這可能會引發安全性和隱私問題對於高度敏感的會議。]]></description>
+      <description><![CDATA[研究人員能夠從荷蘭政府高級官員舉行的10,000 場會議中收集數據 思科本週修復了一些漏洞，這些漏洞允許任何人查看WebEx 會議資訊並加入會議，這可能會引發安全性和隱私問題對於高度敏感的會議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/cisco_fixes_webex_flaw_which/</guid>
       <pubDate>Fri, 07 Jun 2024 15:04:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[對太空迷來說，這是最好的時光 昨晚，SpaceX 和波音都有理由慶祝：Starship 成功進行了第四次飛行測試，Starliner 與國際太空站(ISS)對接。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/starliner_starship_thursday_success/</guid>
       <pubDate>Fri, 07 Jun 2024 11:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄羅斯駭客活動分子誓言對歐盟選舉發動大規模攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/russian_hacktivists_eu_elections/</link>
-      <description><![CDATA[但他們可以貼上「I DDoSed」貼紙嗎？ /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/russian_hacktivists_eu_elections/</guid>
-      <pubDate>Fri, 07 Jun 2024 10:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
