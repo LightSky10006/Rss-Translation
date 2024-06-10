@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 10 Jun 2024 16:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 17:10:02 GMT</lastBuildDate>
+    <item>
+      <title>佳士得證實 RansomHub 騙子竊取了 45,000 名客戶的數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/christies_clients_data_stolen/</link>
+      <description><![CDATA[與犯罪分子最初吹噓的50 萬人的說法相去甚遠 富人佳士得拍賣行表示，有45,798 人受到其最近的網路攻擊和由此導致的資料竊取的影響。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/christies_clients_data_stolen/</guid>
+      <pubDate>Mon, 10 Jun 2024 17:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>微軟 GA 並非如此：分析師深入探討 Fabric 中 Copilot 的可用性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/copilot_in_fabric_microsoft/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[位於安第斯山脈的ANDES 預計將發現第一顆第三族超級恆星 歐洲南方天文台(ESO) 本週與一組科學機構簽署了一項協議，將建造一台光譜儀，可以掃描太空尋找外星生命的化學特徵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/08/eu_spectograph_aliens/</guid>
       <pubDate>Sat, 08 Jun 2024 07:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>《紐約時報》源代碼透過 4chan 在線洩露</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/4chan_nyt_code/</link>
-      <description><![CDATA[突發新聞 已更新  一名4chan 用戶聲稱透過這張臭名昭著的圖片洩露了270GB 的《紐約時報》內部數據，包括原始碼和其他網路資產板。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/4chan_nyt_code/</guid>
-      <pubDate>Fri, 07 Jun 2024 23:39:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
