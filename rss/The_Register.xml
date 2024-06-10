@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 10 Jun 2024 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 15:13:02 GMT</lastBuildDate>
+    <item>
+      <title>Oracle Java 警方首次敲開財富 200 強企業的大門</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/</link>
+      <description><![CDATA[隨著每位員工的許可變更而擴大合規活動 據一位許可專家稱，Oracle 已開始首次向財富200 強公司發送Java 審核信函。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/</guid>
+      <pubDate>Mon, 10 Jun 2024 14:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲銀行擔心人工智慧將增加他們對美國大型科技公司的依賴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/euro_banks_worry_ai_us_tech/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>微軟從 Insider 發布預覽頻道中撤下 Windows 11 24H2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</link>
-      <description><![CDATA[回想一下爭議、效能問題、應用程式凍結（有些人稱之為「災難性的」） 微軟已悄悄停止在發布預覽頻道上向Windows Insider 推出Windows 11 24H2。 .]]></description>
+      <description><![CDATA[回想一下爭議、效能問題、應用程式凍結（有些人稱之為「災難性的」） 微軟已悄然凍結了在發布預覽頻道上向Windows Insider 推出Windows 11 24H2。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</guid>
       <pubDate>Mon, 10 Jun 2024 13:30:11 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>隨著調查的繼續，Snowflake 告知客戶啟用 MFA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/security_in_brief/</link>
-      <description><![CDATA[此外，業界請求山姆大叔協調資訊安全監管、對抗容器妥協活動和嚴重漏洞 資訊安全簡介 雲端資料分析平台 Snowflake 表示將開始強制客戶實施多重身份驗證以防止更多入侵。 … ]]></description>
+      <description><![CDATA[此外，業界請求山姆大叔協調資訊安全監管、對抗容器妥協活動和嚴重漏洞 資訊安全簡介 雲端資料分析平台 Snowflake 表示，它將開始強制客戶實施多重身份驗證以防止更多入侵。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/security_in_brief/</guid>
       <pubDate>Mon, 10 Jun 2024 12:30:06 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 10 Jun 2024 11:31:00 GMT</pubDate>
     </item>
     <item>
-      <title>失望的 Windows 使用者？打開一罐新的 Linux Lite</title>
+      <title>Windows 用戶失望了？打開一罐新的 Linux Lite</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/linux_lite_70_arrives/</link>
       <description><![CDATA[版本7.0 已經登陸– 基於Ubuntu Noble 的版本 Linux Lite 7.0“Galena”已經發布，這是這個基於Ubuntu 24.04 的簡化且無Snap 的發行版的新版本，又名“ Noble Numbat」。 「…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/linux_lite_70_arrives/</guid>
@@ -69,9 +76,9 @@
       <pubDate>Mon, 10 Jun 2024 08:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>錯誤關閉生產伺服器後，沸騰的執行長肩膀衝浪技術人員</title>
+      <title>錯誤關閉生產伺服器後，沸騰的執行長肩上衝浪了技術人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/who_me/</link>
-      <description><![CDATA[名字裡有什麼？事實證明，當50 台伺服器都擁有相同的伺服器時，情況相當多 誰，我？的讀者水是工作週的開始。但不用擔心，因為The Reg會用一劑誰，我？ – 我們每週都會講述技術惡作劇出錯的故事。]]></description>
+      <description><![CDATA[名字裡有什麼？事實證明，當50 台伺服器都擁有相同的伺服器時，情況相當多 誰，我？住鼻子水是工作週的開始。但不用擔心，因為The Reg會用一劑誰，我？ – 我們每週都會講述技術惡作劇出錯的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/who_me/</guid>
       <pubDate>Mon, 10 Jun 2024 07:30:09 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>研究發現四分之一的老闆希望 RTO 能讓員工辭職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/09/rto_quit_study/</link>
-      <description><![CDATA[員工幸福感創歷史新低 一項研究聲稱證明了一些人的懷疑：重返辦公室強制要求只是秘密裁員，而後疫情時代的工作文化讓每個人都痛苦不堪。 … ]]></description>
+      <description><![CDATA[員工幸福感創歷史新低 一項研究聲稱證明了一些人的懷疑：重返辦公室強制要求只是秘密裁員，而後疫情時代的工作文化讓每個人都感到痛苦。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/09/rto_quit_study/</guid>
       <pubDate>Sun, 09 Jun 2024 18:27:15 GMT</pubDate>
     </item>
     <item>
       <title>Akira：潮汐威脅情報負責人表示，也許勒索軟體的下一個重大事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/09/akira_the_next_big_thing/</link>
-      <description><![CDATA[Scott Small 告訴我們該團伙的「意圖和能力」應該引起 CSO 的關注 採訪 它可能不像 BlackCat 或 LockBit 那麼大，但 Akira一位網絡安全研究人員表示，勒索軟體同樣危險，並且有望產生巨大影響。 ...]]></description>
+      <description><![CDATA[Scott Small 告訴我們該團伙的「意圖和能力」應該引起 CSO 的關注 採訪 它可能不像 BlackCat 或 LockBit 那麼大，但 Akira一位網絡安全研究人員表示，勒索軟體同樣危險，而且它有望產生巨大影響。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/09/akira_the_next_big_thing/</guid>
       <pubDate>Sun, 09 Jun 2024 12:10:11 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Sat, 08 Jun 2024 14:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>我們的禿鷹在台北國際電腦展上倖存下來——現在他只需要告訴我們高潮和低谷</title>
+      <title>我們的禿鷹在台北國際電腦展上倖存了下來——現在他只需要告訴我們高潮和低谷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/08/kettle_computex/</link>
-      <description><![CDATA[我們都拿起麥克風討論Nvidia、英特爾、AMD、奇怪的魷魚和某個CEO 的自負 Kettle 好吧，那是2024 年Computex。一周，英特爾、AMD、高通和其他公司正在談論他們打算在未來一年左右向世界推出的硬體和軟體。]]></description>
+      <description><![CDATA[我們都拿起麥克風討論Nvidia、英特爾、AMD、奇怪的魷魚和某位CEO 的自負 Kettle 好吧，那是2024 年Computex。一周，英特爾、AMD、高通和其他公司正在談論他們打算在未來一年左右向世界推出的硬體和軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/08/kettle_computex/</guid>
       <pubDate>Sat, 08 Jun 2024 12:13:06 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>《紐約時報》源代碼透過 4chan 在線洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/4chan_nyt_code/</link>
-      <description><![CDATA[突發新聞 一名4chan 用戶聲稱透過臭名昭著的圖像板洩露了270GB 的《紐約時報》內部數據，包括源代碼和其他網絡資產。 &lt; p&gt;]]></description>
+      <description><![CDATA[突發新聞 已更新  一名4chan 用戶聲稱透過這張臭名昭著的圖片洩露了270GB 的《紐約時報》內部數據，包括原始碼和其他網路資產板。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/4chan_nyt_code/</guid>
       <pubDate>Fri, 07 Jun 2024 23:39:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員需要4 年時間、一小筆現金和漫長的努力才能在下一個十年將技術變為現實 拜登政府仍在追逐其聚變能源夢想，宣布了新戰略和一些資金——儘管數額相對微不足道——以解決未來聚變試驗工廠的問題。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/white_house_hopes_180m_will/</guid>
       <pubDate>Fri, 07 Jun 2024 21:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州升級公司瞄準警察部隊軍事化「戰術」網路卡車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/07/tactical_cybertruck_aims_to_bring/</link>
-      <description><![CDATA[犯罪者預計用水槍對抗特斯拉卡車並越野行駛 加州一家公司為警方改裝了第三方戰術版特斯拉Cyber​​truck，不過尚不清楚這是否真的是車輛官員會想要使用......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/07/tactical_cybertruck_aims_to_bring/</guid>
-      <pubDate>Fri, 07 Jun 2024 20:20:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
