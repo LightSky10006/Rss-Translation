@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 15:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 16:14:00 GMT</lastBuildDate>
+    <item>
+      <title>微軟將 Copilot Pro 的 GPT Builder 送入數位垃圾箱</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/microsoft_retires_gpt_builder/</link>
+      <description><![CDATA[再見，我們幾乎沒有為你編寫腳本 微軟已宣布 GPT Builder 退役。它只給用戶一個月的時間，他們的資料就會被刪除。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/microsoft_retires_gpt_builder/</guid>
+      <pubDate>Tue, 11 Jun 2024 15:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>早期 MySQL 工程師質疑 Oracle 是否無意間扼殺開源資料庫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/early_mysql_engineer_questions_whether/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Atos 獲得 Onepoint 財團重組計劃的緩刑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/atos_restructure/</link>
-      <description><![CDATA[股東太糟糕了，因為這對他們來說意味著痛苦...... Atos 選擇了由其最大股東 Onepoint 牽頭的救助提案，透過注入資本和未來五年改造計劃。]]></description>
+      <description><![CDATA[股東們太糟糕了，因為這對他們來說意味著痛苦...... Atos 選擇了由其最大股東 Onepoint 牽頭的救助提案，透過注入資本和未來五年改造計畫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/atos_restructure/</guid>
       <pubDate>Tue, 11 Jun 2024 11:15:15 GMT</pubDate>
     </item>
@@ -64,21 +71,21 @@
     <item>
       <title>研究人員表示，支持而不是微觀管理，發現在家辦公會讓我們中的一些人變得神經質</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</link>
-      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再希望犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
+      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再願意犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</guid>
       <pubDate>Tue, 11 Jun 2024 08:30:09 GMT</pubDate>
     </item>
     <item>
       <title>傳奇格拉斯頓伯里農場利用牛排泄物發電廠增加石墨烯煉廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</link>
-      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
+      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian 發電將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</guid>
       <pubDate>Tue, 11 Jun 2024 07:26:05 GMT</pubDate>
     </item>
     <item>
       <title>蘋果為其人工智慧雲端建構了客製化伺服器和作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</link>
-      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎沒有什麼可窺探的 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
+      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎不需要了解 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
       <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>不使用 MFA 的 Snowflake 客戶並不是唯一的 – 其中超過 165 位客戶已受到威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</link>
-      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 友好， 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
+      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 關係密切 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</guid>
       <pubDate>Tue, 11 Jun 2024 03:27:13 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>在蘋果公司，人工智慧代表「蘋果智能」——它正在滲透到一切領域</title>
+      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>GPU巨頭股價飆升，英偉達高層套現股票</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/nvidia_execs_sell_shares/</link>
-      <description><![CDATA[管理層可能認為人工智慧熱潮推動估值達到頂峰 Nvidia 高層正在兌現其股票，這意味著不僅僅是投資者從其股價飆升中獲得回報。 /p&gt;]]></description>
+      <description><![CDATA[管理階層可能認為人工智慧熱潮推動估值達到頂峰 Nvidia 高層正在兌現其股票，這意味著不僅僅是投資者從其股價飆升中獲得回報。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/nvidia_execs_sell_shares/</guid>
       <pubDate>Mon, 10 Jun 2024 19:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP BIOS 更新使一些 ProBook 筆記型電腦變得昂貴的鎮紙</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/hp_probook_faulty_bios/</link>
-      <description><![CDATA[客戶不高興 惠普的 BIOS 更新導致其部分電腦變磚，客戶可能面臨更換硬體的高額費用。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/hp_probook_faulty_bios/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
