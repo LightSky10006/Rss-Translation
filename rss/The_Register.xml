@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 20:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 21:34:58 GMT</lastBuildDate>
+    <item>
+      <title>蓋茲支持的核電廠破土動工，但不保證有燃料</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/terrapower_nuclear_plant/</link>
+      <description><![CDATA[TerraPower 的原子設施需要大量低濃縮鈾，而誰主要製造它......啊，天哪 不願意讓現實這樣的小事阻礙，比爾·蓋茨的TerraPower已經崩潰了懷俄明州核電廠的地面建設無法保證完工後將擁有運作所需的燃料。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/terrapower_nuclear_plant/</guid>
+      <pubDate>Tue, 11 Jun 2024 21:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>IBM 吞併 HashiCorp 的夢想在法庭上受到挑戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/ibm_hashicorp_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 關係密切 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</guid>
       <pubDate>Tue, 11 Jun 2024 03:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本影片分享網站 Niconico 遭受網路攻擊後需要重建</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/niconico_ebiten_kadokawa_cyberattack_outages/</link>
-      <description><![CDATA[離線四天，而且還在繼續，母公司和電子商務品牌也是如此 日本媒體集團角川及其幾家公司在遭受重大網路攻擊後已離線四天。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/niconico_ebiten_kadokawa_cyberattack_outages/</guid>
-      <pubDate>Tue, 11 Jun 2024 02:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
