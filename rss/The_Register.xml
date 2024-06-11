@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 06:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 06:38:57 GMT</lastBuildDate>
+    <item>
+      <title>蘋果為其人工智慧雲端建構了客製化伺服器和作業系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</link>
+      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎不需要了解 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
+      <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>VMware 與戴爾重新攜手並達成新的 OEM 協議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/vmware_dell_lenovo_hpe_oem_deals/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[對考慮到「業績觸發因素」和「稀釋」的獎勵規模感到擔憂 挪威主權財富基金計劃在本週四舉行的特斯拉年度股東大會上否決埃隆·馬斯克(Elon Musk) 計畫的560 億美元薪酬方案， 6 月 13 日…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/norway_wealth_fund_musk_tesla/</guid>
       <pubDate>Mon, 10 Jun 2024 12:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>兩人因「假手機訊號塔供電」網路詐騙活動在英國被捕</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</link>
-      <description><![CDATA[據稱，在英國首例案件中，數千條狡猾的短信繞過了網絡過濾器 英國警方在對基於短信的網絡釣魚活動中使用的涉嫌非法自製電話桅杆進行調查後逮捕了兩人...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</guid>
-      <pubDate>Mon, 10 Jun 2024 11:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
