@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 02:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 03:35:06 GMT</lastBuildDate>
+    <item>
+      <title>不使用 MFA 的 Snowflake 客戶並不是唯一的 – 其中超過 165 位客戶已受到威脅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</link>
+      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 友好， 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</guid>
+      <pubDate>Tue, 11 Jun 2024 03:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>網路攻擊摧毀了日本影片分享網站 Niconico 等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/niconico_ebiten_kadokawa_cyberattack_outages/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>由於軟體錯誤導致車速表模糊，Volvo召回所有 72K EX30 汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</link>
-      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近72,000 輛，而這一切都是因為一個相對較小的軟體錯誤。 ]]></description>
+      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近7.2 萬輛，而這一切都是因為一個相對較小的軟體錯誤。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</guid>
       <pubDate>Mon, 10 Jun 2024 17:45:12 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>維珍銀河的 VSS Unity 退出，為 Delta Class 繼任者讓路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</link>
-      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距公司開始商業運營還不到一年。 &gt;]]></description>
+      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距離公​​司開始商業運營還不到一年。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</guid>
       <pubDate>Mon, 10 Jun 2024 15:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle Java 警方首次敲開財富 200 強企業的大門</title>
+      <title>Oracle Java 警方首次敲響財富 200 強企業的大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/</link>
-      <description><![CDATA[隨著每位員工的許可變更而擴大合規活動 據一位許可專家稱，Oracle 已開始首次向財富200 強公司發送Java 審核信函。 &gt;]]></description>
+      <description><![CDATA[隨著每位員工的許可變更，合規活動也隨之擴大 據一位許可專家稱，Oracle 已開始首次向財富200 強公司發送Java 審核信函。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/</guid>
       <pubDate>Mon, 10 Jun 2024 14:45:08 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 10 Jun 2024 12:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>挪威主權財富基金旨在阻止馬斯克巨額特斯拉薪酬協議</title>
+      <title>挪威主權財富基金旨在阻止馬斯克的特斯拉巨額薪酬協議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/norway_wealth_fund_musk_tesla/</link>
       <description><![CDATA[對考慮到「業績觸發因素」和「稀釋」的獎勵規模感到擔憂 挪威主權財富基金計劃在本週四舉行的特斯拉年度股東大會上否決埃隆·馬斯克(Elon Musk) 計畫的560 億美元薪酬方案， 6 月 13 日…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/norway_wealth_fund_musk_tesla/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>兩人因「假手機訊號塔供電」網路詐騙活動在英國被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</link>
-      <description><![CDATA[據稱，在英國首例案件中，數千條狡猾的短信繞過了網絡過濾器 英國警方在對基於短信的網絡釣魚活動中使用的涉嫌非法自製電話桿進行調查後逮捕了兩人...]]></description>
+      <description><![CDATA[據稱，在英國首例案件中，數千條狡猾的短信繞過了網絡過濾器 英國警方在對基於短信的網絡釣魚活動中使用的涉嫌非法自製電話桅杆進行調查後逮捕了兩人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</guid>
       <pubDate>Mon, 10 Jun 2024 11:31:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[版本7.0 已經登陸– 基於Ubuntu Noble 的版本 Linux Lite 7.0“Galena”已經發布，這是這個基於Ubuntu 24.04 的簡化且無Snap 的發行版的新版本，又名“ Noble Numbat」。 「…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/linux_lite_70_arrives/</guid>
       <pubDate>Mon, 10 Jun 2024 10:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>麥可戴爾支持競購埃弗頓足球俱樂部</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/michael_dell_everton_fc/</link>
-      <description><![CDATA[如果中標成功，德州人米克將成為榮譽藍色利物浦人 忘記人工智慧個人電腦或人工智慧伺服器吧，據報道，科技巨頭邁克爾·戴爾支持兩名潛在收購者對埃弗頓足球俱樂部的收購競標業主粉絲...... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/michael_dell_everton_fc/</guid>
-      <pubDate>Mon, 10 Jun 2024 09:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
