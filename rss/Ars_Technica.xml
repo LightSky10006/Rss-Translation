@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 14:10:50 GMT</lastBuildDate>
     <item>
-      <title>中微子：令科學家瘋狂的神秘“幽靈粒子”</title>
+      <title>斯托克航太公司首次點燃其雄心勃勃的主發動機</title>
+      <link>https://arstechnica.com/?p=2030683</link>
+      <description><![CDATA[“這個行業正在走向完全可重用。對我來說，這是不可避免的最終狀態。”]]></description>
+      <guid>https://arstechnica.com/?p=2030683</guid>
+      <pubDate>Tue, 11 Jun 2024 13:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>勒索軟體集團在鎮壓中採取「更殘酷」的策略</title>
+      <link>https://arstechnica.com/?p=2030699</link>
+      <description><![CDATA[研究人員擔心執法部門與幫派玩打地鼠遊戲時會出現現實世界的暴力行為。]]></description>
+      <guid>https://arstechnica.com/?p=2030699</guid>
+      <pubDate>Tue, 11 Jun 2024 13:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中微子：神秘莫測的「幽靈粒子」讓科學家瘋狂</title>
       <link>https://arstechnica.com/?p=2030571</link>
-      <description><![CDATA[這些粒子掌握著新物理學的關鍵。要是我們能理解他們就好了。]]></description>
+      <description><![CDATA[他們掌握著新物理學的鑰匙。要是我們能理解他們就好了。]]></description>
       <guid>https://arstechnica.com/?p=2030571</guid>
       <pubDate>Tue, 11 Jun 2024 11:00:29 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>駭客從數百名 Snowflake 客戶那裡竊取了「大量」數據</title>
       <link>https://arstechnica.com/?p=2030619</link>
-      <description><![CDATA[鑑於 Snowflake 及其客戶的缺點，有許多指責。]]></description>
+      <description><![CDATA[鑑於 Snowflake 及其客戶的缺點，人們有很多指責的地方。]]></description>
       <guid>https://arstechnica.com/?p=2030619</guid>
       <pubDate>Mon, 10 Jun 2024 22:08:42 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[蘋果在 WWDC 2024 主題演講期間首次推出了新的包羅萬象的人工智慧品牌和生成功能。]]></description>
       <guid>https://arstechnica.com/?p=2030143</guid>
       <pubDate>Mon, 10 Jun 2024 19:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 的 AI 承諾：“Apple 永遠不會儲存或存取您的資料”</title>
-      <link>https://arstechnica.com/?p=2030487</link>
-      <description><![CDATA[可公開審查的伺服器代碼意味著專家可以「驗證這項隱私承諾」。]]></description>
-      <guid>https://arstechnica.com/?p=2030487</guid>
-      <pubDate>Mon, 10 Jun 2024 19:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是所有將運行 macOS 15 Sequoia 的 Intel 和 Apple Silicon Mac</title>
-      <link>https://arstechnica.com/?p=2030138</link>
-      <description><![CDATA[除了一個重大例外，紅杉將在所有可以運行索諾瑪的系統上運行。]]></description>
-      <guid>https://arstechnica.com/?p=2030138</guid>
-      <pubDate>Mon, 10 Jun 2024 19:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
