@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 01:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 02:31:08 GMT</lastBuildDate>
+    <item>
+      <title>網路攻擊摧毀了日本影片分享網站 Niconico 等</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/niconico_ebiten_kadokawa_cyberattack_outages/</link>
+      <description><![CDATA[停播四天後需要全面重建 日本媒體集團角川及其幾家媒體在遭受重大網路攻擊後已離線四天。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/niconico_ebiten_kadokawa_cyberattack_outages/</guid>
+      <pubDate>Tue, 11 Jun 2024 02:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>經過多年的混亂消息後，蘋果終於增加了 RCS 支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_wwdc_brings_rcs_support/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
+      <title>在蘋果公司，人工智慧代表「蘋果智能」——它正在滲透到一切領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>由於軟體錯誤導致車速表模糊，Volvo召回所有 72K EX30 汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</link>
-      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近7.2 萬輛，而這一切都是因為一個相對較小的軟體錯誤。 .]]></description>
+      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近72,000 輛，而這一切都是因為一個相對較小的軟體錯誤。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</guid>
       <pubDate>Mon, 10 Jun 2024 17:45:12 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>維珍銀河的 VSS Unity 退出，為 Delta Class 繼任者讓路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</link>
-      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距離公​​司開始商業運營還不到一年。 &gt;]]></description>
+      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距公司開始商業運營還不到一年。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</guid>
       <pubDate>Mon, 10 Jun 2024 15:30:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>微軟從 Insider 發布預覽頻道中撤下 Windows 11 24H2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</link>
-      <description><![CDATA[回想一下爭議、效能問題、應用程式凍結（有些人稱之為「災難性的」） 微軟已悄悄停止在發布預覽頻道上向Windows Insider 推出Windows 11 24H2。 .]]></description>
+      <description><![CDATA[回想一下爭議、效能問題、應用程式凍結（有些人稱之為「災難性的」） 微軟已悄然凍結了在發布預覽頻道上向Windows Insider 推出Windows 11 24H2。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</guid>
       <pubDate>Mon, 10 Jun 2024 13:30:11 GMT</pubDate>
     </item>
@@ -120,12 +127,12 @@
     <item>
       <title>兩人因「假手機訊號塔供電」網路詐騙活動在英國被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</link>
-      <description><![CDATA[據稱，在英國首例案件中，數千條狡猾的短信繞過了網絡過濾器 英國警方在對基於短信的網絡釣魚活動中使用的涉嫌非法自製電話桅杆進行調查後逮捕了兩人...]]></description>
+      <description><![CDATA[據稱，在英國首例案件中，數千條狡猾的短信繞過了網絡過濾器 英國警方在對基於短信的網絡釣魚活動中使用的涉嫌非法自製電話桿進行調查後逮捕了兩人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/two_arrested_in_uk_over/</guid>
       <pubDate>Mon, 10 Jun 2024 11:31:00 GMT</pubDate>
     </item>
     <item>
-      <title>失望的 Windows 使用者？打開一罐新的 Linux Lite</title>
+      <title>Windows 用戶失望了？打開一罐新的 Linux Lite</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/linux_lite_70_arrives/</link>
       <description><![CDATA[版本7.0 已經登陸– 基於Ubuntu Noble 的版本 Linux Lite 7.0“Galena”已經發布，這是這個基於Ubuntu 24.04 的簡化且無Snap 的發行版的新版本，又名“ Noble Numbat」。 「…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/linux_lite_70_arrives/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果中標成功，德州人米克將成為榮譽藍色利物浦人 忘記人工智慧個人電腦或人工智慧伺服器吧，據報道，科技巨頭邁克爾·戴爾支持兩名潛在收購者對埃弗頓足球俱樂部的收購競標業主粉絲...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/michael_dell_everton_fc/</guid>
       <pubDate>Mon, 10 Jun 2024 09:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>脆弱的敏捷開發模型是專案失敗的症狀，而不是根源</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/agile_opinion_column/</link>
-      <description><![CDATA[改變遮羞布無法改變隱藏在下面的東西...... 觀點 您必須保持警惕才能跟上敏捷的步伐。有人說這是本質上正確的軟體開發方式。其他人則稱其為邪教，誇大其詞且具有誤導性。一種判斷方法是比較敏捷和非敏捷專案的成功率，這正是顧問公司 Engprax 所做的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/agile_opinion_column/</guid>
-      <pubDate>Mon, 10 Jun 2024 08:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
