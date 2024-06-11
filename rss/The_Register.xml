@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 12:51:38 GMT</lastBuildDate>
+    <item>
+      <title>AI PC 供應商必須擁有他們的 TOPS——但這只是 GHz 戰爭的重演嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/ai_pc_tops/</link>
+      <description><![CDATA[與往常一樣，事情比「數字越大越好」更複雜。的競賽和高通都試圖超越其他公司。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/ai_pc_tops/</guid>
+      <pubDate>Tue, 11 Jun 2024 12:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>倫敦首次公開募股後樹莓派股價飆升</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/raspberry_pi_stock_surges_after/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>傳奇格拉斯頓伯里農場利用牛排泄物發電廠增加石墨烯煉廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</link>
-      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
+      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian 發電將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</guid>
       <pubDate>Tue, 11 Jun 2024 07:26:05 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>不使用 MFA 的 Snowflake 客戶並不是唯一的 – 其中超過 165 位客戶已受到威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</link>
-      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 友好， 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
+      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 關係密切 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</guid>
       <pubDate>Tue, 11 Jun 2024 03:27:13 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>在蘋果公司，人工智慧代表「蘋果智能」——它正在滲透到一切領域</title>
+      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[在主題演講和部落格之間左右為難：並非所有AI 編碼助理的功能都可用 微軟被指控在最近的Build 會議上對產品的普遍可用性做出誤導性聲明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/copilot_in_fabric_microsoft/</guid>
       <pubDate>Mon, 10 Jun 2024 16:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>維珍銀河的 VSS Unity 退出，為 Delta Class 繼任者讓路</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</link>
-      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距公司開始商業運營還不到一年。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
