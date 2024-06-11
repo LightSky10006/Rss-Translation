@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 17:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 18:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Pure Storage 遭劫持，聲稱資料被闖入 Snowflake 工作區的犯罪分子掠奪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/pure_storage_snowflake_breach/</link>
+      <description><![CDATA[安全儲存公司尚未透露他們如何進入的詳細資訊 Pure Storage 是最新一家確認自己是 Snowflake 相關資料外洩事件受害者的公司。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/pure_storage_snowflake_breach/</guid>
+      <pubDate>Tue, 11 Jun 2024 18:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>拜登政府斥資 2,400 萬美元為 Rocket Lab 興建太空級太陽能電池晶片店</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/rocket_lab_chips_act/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不會透露何時恢復建設 據報道，英特爾位於以色列基亞特蓋特(Kiryat Gat) 的耗資250 億美元的半導體製造工廠的建設工作已被推遲。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/intel_israeli_fab/</guid>
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
-      <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
-      <pubDate>Mon, 10 Jun 2024 21:35:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
