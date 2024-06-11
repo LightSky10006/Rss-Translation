@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 14:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 15:11:45 GMT</lastBuildDate>
+    <item>
+      <title>早期 MySQL 工程師質疑 Oracle 是否無意間扼殺開源資料庫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/early_mysql_engineer_questions_whether/</link>
+      <description><![CDATA[Peter Zaitsev 表示，對專有功能的偏好限制了開源MySQL 的採用 一位經驗豐富的MySQL 資料庫工程師質疑Oracle 是否會因為偏好向其專有系統添加功能而無意中扼殺開源資料庫...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/early_mysql_engineer_questions_whether/</guid>
+      <pubDate>Tue, 11 Jun 2024 15:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克希望禁止蘋果進入他的公司，因為它討好 OpenAI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/musk_wants_to_ban_apple/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Atos 獲得 Onepoint 財團重組計劃的緩刑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/atos_restructure/</link>
-      <description><![CDATA[股東們太糟糕了，因為這對他們來說意味著痛苦...... Atos 選擇了由其最大股東 Onepoint 牽頭的救助提案，透過注入資本和未來五年改造計畫。]]></description>
+      <description><![CDATA[股東太糟糕了，因為這對他們來說意味著痛苦...... Atos 選擇了由其最大股東 Onepoint 牽頭的救助提案，透過注入資本和未來五年改造計劃。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/atos_restructure/</guid>
       <pubDate>Tue, 11 Jun 2024 11:15:15 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>研究人員表示，支持而不是微觀管理，發現在家辦公會讓我們中的一些人變得神經質</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</link>
-      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再願意犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
+      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再希望犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</guid>
       <pubDate>Tue, 11 Jun 2024 08:30:09 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>蘋果為其人工智慧雲端建構了客製化伺服器和作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</link>
-      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎不需要了解 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
+      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎沒有什麼可窺探的 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
       <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
+      <title>在蘋果公司，人工智慧代表「蘋果智能」——它正在滲透到一切領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[客戶不高興 惠普的 BIOS 更新導致其部分電腦變磚，客戶可能面臨更換硬體的高額費用。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/hp_probook_faulty_bios/</guid>
       <pubDate>Mon, 10 Jun 2024 18:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於軟體錯誤導致車速表模糊，Volvo召回所有 72K EX30 汽車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</link>
-      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近7.2 萬輛，而這一切都是因為一個相對較小的軟體錯誤。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</guid>
-      <pubDate>Mon, 10 Jun 2024 17:45:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
