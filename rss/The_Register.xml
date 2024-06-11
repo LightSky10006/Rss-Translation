@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 17:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 17:35:54 GMT</lastBuildDate>
+    <item>
+      <title>拜登政府斥資 2,400 萬美元為 Rocket Lab 興建太空級太陽能電池晶片店</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/rocket_lab_chips_act/</link>
+      <description><![CDATA[山姆大叔表示，資金將在三年內將製造業擴大50% 拜登政府推動將更多半導體製造業引入美國的努力已達到新的高度，斥資2390 萬美元擴大Rocket Lab 在新墨西哥州的空間薯片麵包店。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/rocket_lab_chips_act/</guid>
+      <pubDate>Tue, 11 Jun 2024 17:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cylance 澄清了資料外洩細節，但資料來源除外</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cylance_clarifies_data_breach_details/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>蘋果為其人工智慧雲端建構了客製化伺服器和作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</link>
-      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎不需要了解 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
+      <description><![CDATA[iOS 和macOS 的混搭在自製晶片上運行，系統管理員幾乎不需要了解 WWDC  Apple 透露，它創建了自己的資料中心堆疊- 使用其內部的伺服器內部晶片和作業系統- 在周一的全球開發者大會(WWDC) 上。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
       <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>經過多年的混亂消息後，蘋果終於增加了 RCS 支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_wwdc_brings_rcs_support/</link>
-      <description><![CDATA[WWDC 認為庫比蒂諾正在重蹈其老把戲，即添加與第三方直接競爭的功能（在本例中為密碼管理器） 週一舉行的蘋果全球開發者大會預告了iGiant 作業系統即將進行的各種改進– 包括增強的應用程式安全性、訊息中對RCS 的支援以及專用的密碼管理應用程式。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[WWDC 看到庫比蒂諾又耍起了老把戲，即添加與第三方直接競爭的功能（本例中是密碼管理器） WWDC週一舉行的蘋果全球開發者大會被戲弄iGiant 作業系統即將進行的各種改進- 包括增強的應用程式安全性、訊息中對RCS 的支援以及專用的密碼管理應用程式。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_wwdc_brings_rcs_support/</guid>
       <pubDate>Tue, 11 Jun 2024 01:16:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
       <pubDate>Mon, 10 Jun 2024 21:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 將使用您的社交媒體貼文來訓練其人工智慧。歐洲可以選擇退出</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/meta_ai_training/</link>
-      <description><![CDATA[德語中「謝天謝地，隱私法規確實有用」是什麼意思？世界其他地區來說是一種奢侈不會享受。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/meta_ai_training/</guid>
-      <pubDate>Mon, 10 Jun 2024 20:50:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
