@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Jun 2024 18:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 19:35:18 GMT</lastBuildDate>
+    <item>
+      <title>蘋果悄悄改進了 macOS 15 Sequoia 中的 Mac 虛擬化</title>
+      <link>https://arstechnica.com/?p=2030849</link>
+      <description><![CDATA[它僅適用於 macOS 15 主機上的 macOS 15 來賓，但這是一個很大的改進。]]></description>
+      <guid>https://arstechnica.com/?p=2030849</guid>
+      <pubDate>Tue, 11 Jun 2024 18:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Pixel 8 系列支援 USB-C 轉 DisplayPort；桌面模式傳聞升溫</title>
+      <link>https://arstechnica.com/?p=2030791</link>
+      <description><![CDATA[拿起 USB-C 轉 DisplayPort 線纜，即可從電視或顯示器上觀看更新的 Pixel。]]></description>
+      <guid>https://arstechnica.com/?p=2030791</guid>
+      <pubDate>Tue, 11 Jun 2024 18:05:51 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 和 OpenAI 目前是科技領域最被誤解的合作關係</title>
       <link>https://arstechnica.com/?p=2030003</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[他們掌握著新物理學的鑰匙。要是我們能理解他們就好了。]]></description>
       <guid>https://arstechnica.com/?p=2030571</guid>
       <pubDate>Tue, 11 Jun 2024 11:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧在未經孩子同意的情況下對他們整個童年的照片進行訓練</title>
-      <link>https://arstechnica.com/?p=2030521</link>
-      <description><![CDATA[倡議者警告說，孩子們可以從用於訓練人工智慧模型的照片中「輕鬆追蹤」。]]></description>
-      <guid>https://arstechnica.com/?p=2030521</guid>
-      <pubDate>Mon, 10 Jun 2024 22:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>駭客從數百名 Snowflake 客戶那裡竊取了「大量」數據</title>
-      <link>https://arstechnica.com/?p=2030619</link>
-      <description><![CDATA[鑑於 Snowflake 及其客戶的缺點，有許多指責。]]></description>
-      <guid>https://arstechnica.com/?p=2030619</guid>
-      <pubDate>Mon, 10 Jun 2024 22:08:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
