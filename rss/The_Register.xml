@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 00:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 01:57:50 GMT</lastBuildDate>
+    <item>
+      <title>經過多年的混亂消息後，蘋果終於增加了 RCS 支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_wwdc_brings_rcs_support/</link>
+      <description><![CDATA[WWDC 認為庫比蒂諾正在重蹈其老把戲，即添加與第三方直接競爭的功能（在本例中為密碼管理器） 週一舉行的蘋果全球開發者大會預告了iGiant 作業系統即將進行的各種改進– 包括增強的應用程式安全性、訊息中對RCS 的支援以及專用的密碼管理應用程式。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_wwdc_brings_rcs_support/</guid>
+      <pubDate>Tue, 11 Jun 2024 01:16:06 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾中斷以色列 25B 美元晶圓廠的建設，理由是需要“負責任的資本管理”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/intel_israeli_fab/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[改變遮羞布無法改變隱藏在下面的東西...... 觀點 您必須保持警惕才能跟上敏捷的步伐。有人說這是本質上正確的軟體開發方式。其他人則稱其為邪教，誇大其詞且具有誤導性。一種判斷方法是比較敏捷和非敏捷專案的成功率，這正是顧問公司 Engprax 所做的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/agile_opinion_column/</guid>
       <pubDate>Mon, 10 Jun 2024 08:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>錯誤關閉生產伺服器後，沸騰的執行長肩膀衝浪技術人員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/who_me/</link>
-      <description><![CDATA[名字裡有什麼？事實證明，當50 台伺服器都擁有相同的伺服器時，情況相當多 誰，我？的讀者水是工作週的開始。但不用擔心，因為The Reg會用一劑誰，我？ – 我們每週都會講述技術惡作劇出錯的故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/who_me/</guid>
-      <pubDate>Mon, 10 Jun 2024 07:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
