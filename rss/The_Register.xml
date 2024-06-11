@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 09:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 10:37:32 GMT</lastBuildDate>
+    <item>
+      <title>PC 製造商希望 Chromebook 更新周期即將開始</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/chromebook_refresh_cycle/</link>
+      <description><![CDATA[儘管努力讓廉價電腦遠離垃圾掩埋場，但孩子們可能會很粗魯 儘管Google 試圖通過為2021 年以來銷售的型號提供十年的服務更新來延長筆記型電腦的使用壽命，但Chromebook 更新即將到來。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/chromebook_refresh_cycle/</guid>
+      <pubDate>Tue, 11 Jun 2024 10:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>英國教育部授予飽受醜聞困擾的 Horizo​​​​n 富士通合約提升合約</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/uk_education_department_awards_fujitsu/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>研究人員表示，支持而不是微觀管理，發現在家辦公會讓我們中的一些人變得神經質</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</link>
-      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再願意犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
+      <description><![CDATA[據報導，在遠距工作時，感受到工作的授權和自主權至關重要 許多辦公室工作人員不再希望犧牲在辦公桌前的整個工作週- 這是公司的商業祭壇- 但對某些人來說，來自家庭革命導致了更高程度的神經質......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/wfh_and_neuroticism/</guid>
       <pubDate>Tue, 11 Jun 2024 08:30:09 GMT</pubDate>
     </item>
     <item>
       <title>傳奇格拉斯頓伯里農場利用牛排泄物發電廠增加石墨烯煉廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</link>
-      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian 發電將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
+      <description><![CDATA[這不是廢話，這是尖端材料科學 世界著名格拉斯頓伯里音樂節的主辦單位 Worthy Farm 已經使用牛糞發電，但現在將允許當地新創公司 Levidian將其技術融入碳生產過程中，從而生產石墨烯。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/cow_manure_graphene/</guid>
       <pubDate>Tue, 11 Jun 2024 07:26:05 GMT</pubDate>
     </item>
     <item>
       <title>蘋果為其人工智慧雲端建構了客製化伺服器和作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</link>
-      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎不需要了解 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
+      <description><![CDATA[iOS 和macOS 的混搭運行在自製晶片上，系統管理員幾乎沒有什麼可窺探的 Apple 透露，它創建了自己的資料中心堆疊——使用其內部晶片和作業系統的伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
       <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>不使用 MFA 的 Snowflake 客戶並不是唯一的 – 其中超過 165 位客戶已受到威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</link>
-      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 關係密切 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
+      <description><![CDATA[Mandiant 警告犯罪團夥UNC5537 正在橫行，該團夥可能與Scattered Spider 友好， 一個身份不明、出於經濟動機的犯罪團夥利用竊取的信息從Snowflake 客戶的數據庫中竊取了“大量記錄」根據 Mandiant 的說法，憑證......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/crims_targeting_snowflake_customers/</guid>
       <pubDate>Tue, 11 Jun 2024 03:27:13 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 10 Jun 2024 23:03:59 GMT</pubDate>
     </item>
     <item>
-      <title>在 Apple，AI 代表「Apple Intelligence」——它正在滲透到一切領域</title>
+      <title>在蘋果公司，人工智慧代表「蘋果智能」——它正在滲透到一切領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</link>
       <description><![CDATA[庫比蒂諾承諾在設備上或雲端提供私人智慧 WWDC 在周一的全球開發者大會上，執行長蒂姆·庫克(Tim Cook) 在Apple 總部的屋頂上宣布了這一到來iPhone巨頭產品中「深厚」的智慧能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/apple_ai_wwdc/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>由於軟體錯誤導致車速表模糊，Volvo召回所有 72K EX30 汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</link>
-      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近7.2 萬輛，而這一切都是因為一個相對較小的軟體錯誤。 .]]></description>
+      <description><![CDATA[現代汽車最大的敵人- 編寫糟糕的代碼 沃爾沃已宣布召回每輛EX30，總共近72,000 輛，而這一切都是因為一個相對較小的軟體錯誤。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/volvo_recalls_all_of_its/</guid>
       <pubDate>Mon, 10 Jun 2024 17:45:12 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>維珍銀河的 VSS Unity 退出，為 Delta Class 繼任者讓路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</link>
-      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距離公​​司開始商業運營還不到一年。 &gt;]]></description>
+      <description><![CDATA[公司的命運現在取決於SpaceShipTwo 的後續任務 維珍銀河的VSS Unity 已經進行了最後一次飛行，距公司開始商業運營還不到一年。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/virgin_galactic_vss_unity_final_flight/</guid>
       <pubDate>Mon, 10 Jun 2024 15:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[將這樣一個主導力量置於供應鏈中間是一個冒險的舉動... 歐洲銀行擔心人工智慧的日益使用將增加他們對美國大型科技公司的依賴，給產業帶來新的風險…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/euro_banks_worry_ai_us_tech/</guid>
       <pubDate>Mon, 10 Jun 2024 14:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟從 Insider 發布預覽頻道中撤下 Windows 11 24H2</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</link>
-      <description><![CDATA[回想一下爭議、效能問題、應用程式凍結（有些人稱之為「災難性的」） 微軟已悄悄停止在發布預覽頻道上向Windows Insider 推出Windows 11 24H2。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/10/microsoft_pulls_windows_24h2_11/</guid>
-      <pubDate>Mon, 10 Jun 2024 13:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
