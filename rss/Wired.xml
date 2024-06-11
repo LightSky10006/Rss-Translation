@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 11 Jun 2024 05:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 06:15:23 GMT</lastBuildDate>
+    <item>
+      <title>丹麥媒體威脅要起訴 OpenAI</title>
+      <link>https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/</link>
+      <description><![CDATA[丹麥媒體希望與 OpenAI 達成集體協議，因為擔心隨著聊天機器人的增多，小國將被邊緣化。如果他們得不到，他們就會威脅要起訴。]]></description>
+      <guid>https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/</guid>
+      <pubDate>Tue, 11 Jun 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧是蘋果讓你升級 iPhone 的最佳手段</title>
       <link>https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/</link>
@@ -136,13 +143,6 @@
       <link>https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/</link>
       <description><![CDATA[與他人建立有意義的聯繫可以改善您的健康，使您思維更加敏銳，並激發創造力。交朋友可能會令人畏懼，但研究表明有很多方法可以建立更好的聯繫。]]></description>
       <guid>https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/</guid>
-      <pubDate>Sun, 09 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>博弈論如何讓人工智慧更加可靠</title>
-      <link>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</link>
-      <description><![CDATA[研究人員正在藉鏡博弈論的想法來改進大型語言模型，使其更加正確、有效率和一致。]]></description>
-      <guid>https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/</guid>
       <pubDate>Sun, 09 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
