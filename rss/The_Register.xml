@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Jun 2024 22:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 23:35:21 GMT</lastBuildDate>
+    <item>
+      <title>無人駕駛計程車撞上電線桿後 Waymo 發佈軟體修復程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/waymo_software_recall/</link>
+      <description><![CDATA[美國國家公路交通安全管理局(NHTSA) 已就「清晰可見物體」碰撞事故對自動駕駛汽車業務進行調查 在亞利桑那州鳳凰城發生另一起事故後，Waymo 正在更新其自動駕駛汽車軟體，無人駕駛計程車公司將事故歸咎於該事故關於錯誤的地圖和代碼。 &#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/waymo_software_recall/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:16:47 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體人員可能會利用 Windows make-me-admin 漏洞作為零時差漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/black_basta_ransomware_windows/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[法國公司的價值自今年年初以來幾乎增長了兩倍 法國的Mistral AI 在最新一輪融資中籌集了6 億歐元（6.4 億美元，5.1 億英鎊），使其估值達到58 億歐元（62 億美元，49 億英鎊）....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/mistral_ai_funding/</guid>
       <pubDate>Wed, 12 Jun 2024 07:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟的召回應該被視為中小企業的救世主和執行長的禍害</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/microsoft_recall_sme_benefits/</link>
-      <description><![CDATA[小型企業很少有機會了解它們是如何運作的。 PC 使用歷史使其成為可能 專欄 在 ChatGPT 的推動下，人工智慧爆炸式增長一年半後，炒作和對錯過機會的恐懼已經開始減弱明確人工智慧的兩種截然不同的願景：一種設想用它來取代人類，另一種則希望人工智慧增強人類。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/microsoft_recall_sme_benefits/</guid>
-      <pubDate>Wed, 12 Jun 2024 06:32:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
