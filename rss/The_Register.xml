@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Jun 2024 20:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:35:04 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體人員可能會利用 Windows make-me-admin 漏洞作為零時差漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/black_basta_ransomware_windows/</link>
+      <description><![CDATA[賽門鐵克建議Black Basta 團隊搶在微軟之前推出補丁 根據賽門鐵克的威脅追蹤人員的說法，Black Basta 勒索軟體團夥可能利用了現已修補的Windows 權限升級漏洞作為零日漏洞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/black_basta_ransomware_windows/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:10:13 GMT</pubDate>
+    </item>
     <item>
       <title>不，人工智慧機器人不會競選懷俄明州夏延市長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/ai_bot_wyoming/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[小型企業很少有機會了解它們是如何運作的。 PC 使用歷史使其成為可能 專欄 在 ChatGPT 的推動下，人工智慧爆炸式增長一年半後，炒作和對錯過機會的恐懼已經開始減弱明確人工智慧的兩種截然不同的願景：一種設想用它來取代人類，另一種則希望人工智慧增強人類。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/microsoft_recall_sme_benefits/</guid>
       <pubDate>Wed, 12 Jun 2024 06:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advania 收購 Servium 作為 IT​​ 服務裝備擴張計劃的一部分</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/advania_acquires_servium/</link>
-      <description><![CDATA[CEO 告訴Reg 有關充實投資組合和人工智慧的資訊 獨家 IT 服務公司Advania 正在收購英國IT 解決方案提供商經銷商 Servium 繼續擴大營運規模。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/advania_acquires_servium/</guid>
-      <pubDate>Wed, 12 Jun 2024 06:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
