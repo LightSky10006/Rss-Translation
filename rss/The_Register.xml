@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Jun 2024 16:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 16:39:01 GMT</lastBuildDate>
+    <item>
+      <title>白宮報告對 2023 年以來所有 11 起重大政府違規行為進行了嚴厲打擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/white_house_report/</link>
+      <description><![CDATA[去年 MOVEit 漏洞和勒索軟體對聯準會不利 2023 年美國聯邦機構報告的網路安全事件數量同比增長 9.9%，總數達到根據白宮的一份新報告，共有32,211 起事件，該報告還披露了整個政府遭受的最嚴重事件的詳細資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/white_house_report/</guid>
+      <pubDate>Wed, 12 Jun 2024 16:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟提高關稅，中國電動車品牌因價格飆升而受到衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/eu_chinese_ev_tariffs/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Redmond 和AdAdobe 一樣出現了數十個錯誤，而Arm 驅動程式和PHP 受到了主動攻擊 週二補丁 微軟以相對較少的6月補丁週二拉開了我們夏季的序幕，發布了對其產品中49 個帶有CVE 標記的安全漏洞進行了更新，其中包括一個被認為嚴重的錯誤、無線網路中一個相當可怕的錯誤以及一個被公開揭露的錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/june_patch_tuesday/</guid>
       <pubDate>Wed, 12 Jun 2024 00:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西聘請 OpenAI 勇敢地削減法庭訴訟費用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/brazil_openai_justice/</link>
-      <description><![CDATA[訴訟費用達到 GDP 的 1%。幻覺率無疑更高 巴西顯然聘請了 OpenAI，試圖幫助檢察官更好地處理案件並節省政府資金。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/brazil_openai_justice/</guid>
-      <pubDate>Tue, 11 Jun 2024 23:21:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
