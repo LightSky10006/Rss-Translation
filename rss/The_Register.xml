@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Jun 2024 23:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 00:49:10 GMT</lastBuildDate>
+    <item>
+      <title>讓我們用 Microsoft Windows 中的「pwn-me-by-Wi-Fi」漏洞來開始我們的夏天吧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/june_patch_tuesday/</link>
+      <description><![CDATA[Redmond 和AdAdobe 一樣出現了數十個錯誤，而Arm 驅動程式和PHP 受到了主動攻擊 週二補丁 微軟以相對較少的6月補丁週二拉開了我們夏季的序幕，發布了對其產品中49 個帶有CVE 標記的安全漏洞進行了更新，其中包括一個被認為嚴重的錯誤、無線網路中一個相當可怕的錯誤以及一個被公開揭露的錯誤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/june_patch_tuesday/</guid>
+      <pubDate>Wed, 12 Jun 2024 00:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>巴西聘請 OpenAI 勇敢地削減法庭訴訟費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/brazil_openai_justice/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[iOS 和macOS 的混搭在自製晶片上運行，系統管理員幾乎不需要了解 WWDC  Apple 透露，它創建了自己的資料中心堆疊- 使用其內部的伺服器內部晶片和作業系統- 在周一的全球開發者大會(WWDC) 上。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/</guid>
       <pubDate>Tue, 11 Jun 2024 06:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>VMware 與戴爾重新攜手並達成新的 OEM 協議</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/11/vmware_dell_lenovo_hpe_oem_deals/</link>
-      <description><![CDATA[聯想和HPE 也簽署了進行超融合的協議 Broadcom 旗下的VMware 已與三個主要硬體供應商重新簽署了原始設備製造商(OEM) 轉售協議。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/11/vmware_dell_lenovo_hpe_oem_deals/</guid>
-      <pubDate>Tue, 11 Jun 2024 05:42:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
