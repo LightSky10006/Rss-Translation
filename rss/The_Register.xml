@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Jun 2024 16:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 17:10:03 GMT</lastBuildDate>
+    <item>
+      <title>再見，責任：X 本週將隱藏每個人的“喜歡”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/x_hides_likes/</link>
+      <description><![CDATA[你好，勒索：發文者仍然可以看到誰喜歡他們的東西，即使這是數字城鎮廣場其他部分的秘密 去年向高級用戶提供該選項後，該網站以前稱為因為 Twitter 決定開始隱藏每個人的“點讚”，以“更好地保護你的隱私”。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/x_hides_likes/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:03:15 GMT</pubDate>
+    </item>
     <item>
       <title>白宮報告對 2023 年以來所有 11 起重大政府違規行為進行了嚴厲打擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/white_house_report/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[法院文件表明此事可能會持續數年  Elon Musk 已中止針對 OpenAI 的法律訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/musk_vs_openai_case_ended/</guid>
       <pubDate>Wed, 12 Jun 2024 02:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>讓我們用 Microsoft Windows 中的「pwn-me-by-Wi-Fi」漏洞來開始我們的夏天吧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/june_patch_tuesday/</link>
-      <description><![CDATA[Redmond 和AdAdobe 一樣出現了數十個錯誤，而Arm 驅動程式和PHP 受到了主動攻擊 週二補丁 微軟以相對較少的6月補丁週二拉開了我們夏季的序幕，發布了對其產品中49 個帶有CVE 標記的安全漏洞進行了更新，其中包括一個被認為嚴重的錯誤、無線網路中一個相當可怕的錯誤以及一個被公開揭露的錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/june_patch_tuesday/</guid>
-      <pubDate>Wed, 12 Jun 2024 00:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
