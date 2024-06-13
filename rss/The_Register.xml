@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Jun 2024 14:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 16:14:59 GMT</lastBuildDate>
+    <item>
+      <title>新創公司 Diraq 利用 GlobalFoundries 打造矽基量子晶片</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/diraq_globalfoundries_sample_chips/</link>
+      <description><![CDATA[誓言在五年內擁有「商業相關」系統 量子新創公司 Diraq 將在 GlobalFoundries 晶圓廠生產樣品設備，使其成為繼英特爾之後又一家使用標準 CMOS 生產技術的開發商建構全面的量子系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/diraq_globalfoundries_sample_chips/</guid>
+      <pubDate>Thu, 13 Jun 2024 15:35:12 GMT</pubDate>
+    </item>
     <item>
       <title>中國對與歐盟的電動車關稅爭端感到憤怒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/china_eu_ev_tariffs/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>日本迫使蘋果和谷歌允許第三方應用商店和支付</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</link>
-      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的設備。]]></description>
+      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的裝置......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</guid>
       <pubDate>Thu, 13 Jun 2024 05:33:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[但候選人維克多·米勒(Victor Miller) 告訴監管機構，他將使用機器學習來幫助治理 懷俄明州的官員正在試圖弄清楚如何回應競選申請夏安市長承諾人工智慧輔助治理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/ai_bot_wyoming/</guid>
       <pubDate>Wed, 12 Jun 2024 20:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著美國司法部加強反壟斷力度，美國又有四個州對蘋果公司提起訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/us_apple_antitrust_case/</link>
-      <description><![CDATA[越來越多的聯盟加入聯邦鬥爭，指責 iGiant 壟斷 美國另外四個州已加入司法部 (DoJ) 針對蘋果公司的反壟斷訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/us_apple_antitrust_case/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
