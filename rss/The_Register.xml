@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Jun 2024 23:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:48:19 GMT</lastBuildDate>
+    <item>
+      <title>谷歌借鑒 Android 來改進 ChromeOS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/google_android_chromeos/</link>
+      <description><![CDATA[部分「droid 技術堆疊正在取代筆記型電腦作業系統管道」 Google 的ChromeOS 團隊已開始借鑒Android 的技術堆疊來加快創新速度、減輕維護多個作業系統的負擔並增強設備性能該公司表示，面對供應商核心的可變性，可實現互通性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/google_android_chromeos/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:59:06 GMT</pubDate>
+    </item>
     <item>
       <title>無人駕駛計程車撞上電線桿後 Waymo 發佈軟體修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/waymo_software_recall/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[透過合併不斷萎縮的基礎設施服務業務創造規模經濟 據報道，DXC Technology 是一家陷入困境的技術服務提供商，它是HPE Enterprise Services 和CSC 結盟後出現的，後來又損失了數十億美元的收入收購談判的主題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/kyndryl_apollo_global_dxc/</guid>
       <pubDate>Wed, 12 Jun 2024 08:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral AI 融資 6.44 億美元，估值達到 6.2B 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/mistral_ai_funding/</link>
-      <description><![CDATA[法國公司的價值自今年年初以來幾乎增長了兩倍 法國的Mistral AI 在最新一輪融資中籌集了6 億歐元（6.4 億美元，5.1 億英鎊），使其估值達到58 億歐元（62 億美元，49 億英鎊）....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/mistral_ai_funding/</guid>
-      <pubDate>Wed, 12 Jun 2024 07:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
