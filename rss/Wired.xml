@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 13 Jun 2024 11:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:20:31 GMT</lastBuildDate>
+    <item>
+      <title>對蘋果人工智慧的不同思考</title>
+      <link>https://www.wired.com/story/gadget-lab-podcast-647/</link>
+      <description><![CDATA[本週，我們將討論蘋果的人工智慧方法與其競爭對手有何不同。提示：它比源門寺更深。]]></description>
+      <guid>https://www.wired.com/story/gadget-lab-podcast-647/</guid>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>億萬富翁有拯救網路的計畫——下一步是購買 TikTok</title>
       <link>https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 13 Jun 2024 10:33:47 GMT</pubDate>
     </item>
     <item>
-      <title>如果雷·庫茲韋爾（Ray Kurzweil）是對的，您將在雲端遇見他不朽的靈魂</title>
+      <title>如果雷·庫茲韋爾（Ray Kurzweil）是對的（再次），您將在雲端遇見他不朽的靈魂</title>
       <link>https://www.wired.com/story/big-interview-ray-kurzweil/</link>
       <description><![CDATA[這位著名的未來學家對世界和自己的命運仍然保持著非人的樂觀態度，並認為奇點就在幾分鐘之內。]]></description>
       <guid>https://www.wired.com/story/big-interview-ray-kurzweil/</guid>
@@ -90,17 +97,17 @@
       <pubDate>Wed, 12 Jun 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>認識社交媒體應用程式背後的攝影師，為每個厭倦 Meta 人工智慧的人提供幫助</title>
-      <link>https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/</link>
-      <description><![CDATA[由於擔心自己的作品會被用來訓練人工智慧，藝術家正在逃離 Meta 的平台。攝影師張靜娜的 Cara 承諾提供保護，但新用戶的湧入正在給她的利基投資組合應用程式帶來負擔。]]></description>
-      <guid>https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/</guid>
-      <pubDate>Wed, 12 Jun 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>一個人工智慧機器人正在（某種程度上）競選懷俄明州市長</title>
       <link>https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/</link>
       <description><![CDATA[懷俄明州國務卿希望該縣拒絕其候選資格，但人工智慧機器人的人類「肉傀儡」表示一切正常。]]></description>
       <guid>https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/</guid>
+      <pubDate>Wed, 12 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>認識社交媒體應用程式背後的攝影師，為每個厭倦 Meta 人工智慧的人提供幫助</title>
+      <link>https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/</link>
+      <description><![CDATA[由於擔心自己的作品會被用來訓練人工智慧，藝術家正在逃離 Meta 的平台。攝影師張靜娜的 Cara 承諾提供保護，但新用戶的湧入正在給她的利基投資組合應用程式帶來負擔。]]></description>
+      <guid>https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/</guid>
       <pubDate>Wed, 12 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[蘋果正式發布了 macOS 15，命名為 Sequoia。我們詳細分析了所有值得期待的新功能，並告訴您目前的 Mac 是否支援新作業系統。]]></description>
       <guid>https://www.wired.com/story/apple-macos-sequoia-features/</guid>
       <pubDate>Tue, 11 Jun 2024 21:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Max（又名 HBO Max）目前 30 部最佳電影（2024 年 6 月）</title>
-      <link>https://www.wired.com/story/best-movies-hbo-max-right-now/</link>
-      <description><![CDATA[我還好嗎？]]></description>
-      <guid>https://www.wired.com/story/best-movies-hbo-max-right-now/</guid>
-      <pubDate>Tue, 11 Jun 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
