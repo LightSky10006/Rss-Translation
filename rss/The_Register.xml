@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Jun 2024 10:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 11:34:39 GMT</lastBuildDate>
+    <item>
+      <title>學生的脆弱垃圾袋被歸咎於最新的 NHS 數據洩露</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/nhs_bin_bag_data_breach/</link>
+      <description><![CDATA[公眾發現的機密病患資訊 影響英國 NHS 的資料保護失誤被歸咎於一名醫科學生，因為他過於信任自己的垃圾袋。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/nhs_bin_bag_data_breach/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>systemd 256 版本號稱“Unix 哲學減少了 42%”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/version_256_systemd/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[配合調查的公司受到的打擊將稍微減輕 歐盟將提高對中國製造的電動汽車的關稅，稱它們受益於中國政府的“不公平補貼”...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/eu_chinese_ev_tariffs/</guid>
       <pubDate>Wed, 12 Jun 2024 15:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果 SAP 客戶現在不開始，他們可能會在支援關閉之前難以擺脫 ECC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/sap_ecc_support_deadline/</link>
-      <description><![CDATA[使用者小組警告稱，系統整合商和顧問的短缺將導致向S4/HANA 的艱難轉變 全球ERP 巨頭SAP 已設定最後期限，即2027 年，以便在主流支援結束之前停止使用其ECC ERP 系統。但德語用戶代表擔心，當擴展支援結束時，大量用戶將無法滿足 2030 年的截止日期。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/sap_ecc_support_deadline/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:47:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
