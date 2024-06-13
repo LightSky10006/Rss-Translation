@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Jun 2024 01:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 02:46:35 GMT</lastBuildDate>
+    <item>
+      <title>SK海力士透過推動本土英偉達挑戰者的合併進軍人工智慧晶片</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/sapeon_rebellions_merger_hynix_samsung/</link>
+      <description><![CDATA[Sapeon 和Rebellions 認為他們可以一起做得更好 AI 平台聯盟（一個倡導Nvidia 開放替代方案的組織）的兩個韓國成員已提議合併，以加速他們的工作並實現更大的目標規模化，或許可以為本土晶片製造商 SK 海力士提供進入人工智慧晶片市場的途徑。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/sapeon_rebellions_merger_hynix_samsung/</guid>
+      <pubDate>Thu, 13 Jun 2024 02:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>騙子破解追蹤設備供應商 Tile 的客戶訊息，發出「勒索」要求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/tile_life360_extortion/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有史以來最大規模的研究表明，對人體的一些影響並不像想像的那麼嚴重，但工作還需要完成 科學家們向毫無戒心的公眾傾倒了大量的研究論文，結果是什麼？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/space_travel_not_too_bad_for_you/</guid>
       <pubDate>Wed, 12 Jun 2024 10:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>K8s 慶祝 KuberTENes：十年合作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/kubertenes_decade_anniversary/</link>
-      <description><![CDATA[拍拍自己的背 - 88,000 人 2014 年，Google 發布了Kubernetes ，一個開源叢集管理系統，其名稱源自希臘語，意為「舵手」或「飛行員」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/kubertenes_decade_anniversary/</guid>
-      <pubDate>Wed, 12 Jun 2024 09:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
