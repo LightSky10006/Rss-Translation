@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Jun 2024 06:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 07:35:58 GMT</lastBuildDate>
+    <item>
+      <title>防止 G7 峰會議程再次出現晶片短缺</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/preventing_another_chip_shortage_reportedly/</link>
+      <description><![CDATA[集團也將考慮保護海底通訊基礎設施 在大流行導致半導體供應鏈癱瘓三年多後，七國集團國家似乎正準備採取一些措施來防止未來的干擾。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/preventing_another_chip_shortage_reportedly/</guid>
+      <pubDate>Thu, 13 Jun 2024 07:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>華碩悄悄建造了超級電腦、資料中心和法學碩士。現在它正在悄悄地將它們全部一起出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/asus_enterprise_tech_growth_plans/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>日本迫使蘋果和谷歌允許第三方應用商店和支付</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</link>
-      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的裝置......]]></description>
+      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</guid>
       <pubDate>Thu, 13 Jun 2024 05:33:09 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>隨著美國司法部加強反壟斷力度，美國又有四個州對蘋果公司提起訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/us_apple_antitrust_case/</link>
-      <description><![CDATA[不斷壯大的聯盟加入聯邦鬥爭，指責 iGiant 壟斷 美國另外四個州已加入司法部 (DoJ) 針對蘋果公司的反壟斷訴訟。]]></description>
+      <description><![CDATA[越來越多的聯盟加入聯邦鬥爭，指責 iGiant 壟斷 美國另外四個州已加入司法部 (DoJ) 針對蘋果公司的反壟斷訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/us_apple_antitrust_case/</guid>
       <pubDate>Wed, 12 Jun 2024 20:00:15 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>歐盟提高關稅，中國電動車品牌因價格飆升而受到衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/eu_chinese_ev_tariffs/</link>
-      <description><![CDATA[配合調查的公司受到的打擊將稍微減輕 歐盟將提高對中國製造的電動車的關稅，稱它們受益於中國政府的「不公平補貼」... ]]></description>
+      <description><![CDATA[配合調查的公司受到的打擊將稍微減輕 歐盟將提高對中國製造的電動汽車的關稅，稱它們受益於中國政府的“不公平補貼”...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/eu_chinese_ev_tariffs/</guid>
       <pubDate>Wed, 12 Jun 2024 15:35:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[難怪大多數組織都在放緩支出 根據Lucidworks 進行的一項研究，由於對成本、資料安全和安全性的擔憂，企業對人工智慧工具的投資變得更加謹慎。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/survey_ai_projects/</guid>
       <pubDate>Wed, 12 Jun 2024 13:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟因人工智慧超級電腦專利在德州被 ParTec 起訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/microsoft_sued_by_partec/</link>
-      <description><![CDATA[德國 HPC 機構要求賠償損失和關閉 Azure AI 的禁令 微軟正面臨德國 HPC 供應商 ParTec 的法律訴訟，指控其與用於組裝 AI 超級電腦的技術相關的專利侵權。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/microsoft_sued_by_partec/</guid>
-      <pubDate>Wed, 12 Jun 2024 12:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
