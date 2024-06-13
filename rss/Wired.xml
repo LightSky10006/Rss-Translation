@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 13 Jun 2024 12:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:51:05 GMT</lastBuildDate>
+    <item>
+      <title>我們測試並評測過的 12 款最佳吹風機 (2024)</title>
+      <link>https://www.wired.com/gallery/best-hair-dryers/</link>
+      <description><![CDATA[我們嘗試了吹風機、刷子和一台像吸塵器一樣吸走頭髮的機器。這些是我們用來乾燥您的作品的頂級工具。]]></description>
+      <guid>https://www.wired.com/gallery/best-hair-dryers/</guid>
+      <pubDate>Thu, 13 Jun 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>對蘋果人工智慧的不同思考</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-647/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 13 Jun 2024 10:33:47 GMT</pubDate>
     </item>
     <item>
-      <title>如果雷·庫茲韋爾（Ray Kurzweil）是對的（再次），您將在雲端遇見他不朽的靈魂</title>
+      <title>如果雷·庫茲韋爾（Ray Kurzweil）是對的，您將在雲端遇見他不朽的靈魂</title>
       <link>https://www.wired.com/story/big-interview-ray-kurzweil/</link>
       <description><![CDATA[這位著名的未來學家對世界和自己的命運仍然保持著非人的樂觀態度，並認為奇點就在幾分鐘之內。]]></description>
       <guid>https://www.wired.com/story/big-interview-ray-kurzweil/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[特斯拉股東將在這家汽車製造商的關鍵時刻決定是否支持馬斯克的領導地位以及前所未有的 11 位數獎金。]]></description>
       <guid>https://www.wired.com/story/the-dollar50-billion-musk-referendum/</guid>
       <pubDate>Wed, 12 Jun 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有頂級新功能即將登陸 MacOS Sequoia</title>
-      <link>https://www.wired.com/story/apple-macos-sequoia-features/</link>
-      <description><![CDATA[蘋果正式發布了 macOS 15，命名為 Sequoia。我們詳細分析了所有值得期待的新功能，並告訴您目前的 Mac 是否支援新作業系統。]]></description>
-      <guid>https://www.wired.com/story/apple-macos-sequoia-features/</guid>
-      <pubDate>Tue, 11 Jun 2024 21:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
