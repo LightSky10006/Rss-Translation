@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Jun 2024 16:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 16:40:40 GMT</lastBuildDate>
+    <item>
+      <title>烏克蘭警察逮捕了基輔程式設計師，據信是 Conti、LockBit 關鍵人物</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</link>
+      <description><![CDATA[28 歲的男子被指控在歐洲各地發起重大勒索軟體攻擊 烏克蘭警方本週突襲了一名涉嫌Conti 和LockBit 勒索軟體機器的齒輪，他的家現已被戴上手銬。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</guid>
+      <pubDate>Thu, 13 Jun 2024 16:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>新創公司 Diraq 利用 GlobalFoundries 打造矽基量子晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/diraq_globalfoundries_sample_chips/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>活動人士稱，谷歌的隱私沙盒更像是隱私海市蜃樓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/noyb_gdpr_privacy_sandbox/</link>
-      <description><![CDATA[Chocolate Factory 被指控誤導Chrome 瀏覽器用戶 隱私活動家noyb 已針對Google 的Privacy Sandbox 提交了GDPR 投訴，聲稱在Chrome 瀏覽器中打開「隱私功能」導致Google 進行不必要的追蹤美國巨型企業…]]></description>
+      <description><![CDATA[Chocolate Factory 被指控誤導Chrome 瀏覽器用戶 隱私活動人士noyb 已針對Google 的Privacy Sandbox 提交了GDPR 投訴，指控在Chrome 瀏覽器中打開「隱私功能」導致Google 進行不必要的追蹤美國巨型企業…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/noyb_gdpr_privacy_sandbox/</guid>
       <pubDate>Thu, 13 Jun 2024 13:30:09 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>學生的脆弱垃圾袋被歸咎於最新的 NHS 數據洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/nhs_bin_bag_data_breach/</link>
-      <description><![CDATA[公眾發現的機密病患資訊 影響英國 NHS 的資料保護失誤被歸咎於一名醫科學生，因為他過於信任自己的垃圾袋。]]></description>
+      <description><![CDATA[公眾發現的機密病患資訊 影響英國 NHS 的資料保護失誤被歸咎於一名醫學生，因為他過於信任自己的垃圾袋。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/nhs_bin_bag_data_breach/</guid>
       <pubDate>Thu, 13 Jun 2024 11:30:07 GMT</pubDate>
     </item>
@@ -71,12 +78,12 @@
     <item>
       <title>噴射推進實驗室前主任、航行者號計畫科學家艾德‧史東博士去世，享年 88 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/dr_ed_stone_voyager_project/</link>
-      <description><![CDATA[科學發現、靈感和參與的遺產 逝世 愛德華·C·斯通(Edward C Stone) 去世，他是1972 年至2022 年NASA 航行者號任務的專案科學家。]]></description>
+      <description><![CDATA[科學發現、靈感和參與的遺產 逝世  1972 年至2022 年NASA 航行者號任務的項目科學家愛德華·C·斯通(Edward C Stone)去世。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/dr_ed_stone_voyager_project/</guid>
       <pubDate>Thu, 13 Jun 2024 08:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>防止 G7 峰會議程再次出現晶片短缺</title>
+      <title>防止 G7 高峰會議程再次出現晶片短缺</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/preventing_another_chip_shortage_reportedly/</link>
       <description><![CDATA[集團也將考慮保護海底通訊基礎設施 在大流行導致半導體供應鏈癱瘓三年多後，七國集團國家似乎正準備採取一些措施來防止未來的干擾。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/preventing_another_chip_shortage_reportedly/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>日本迫使蘋果和谷歌允許第三方應用商店和支付</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</link>
-      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的裝置......]]></description>
+      <description><![CDATA[通過類似 DMA 的法律，以追求更創新和開放的智慧型手機市場 日本議會通過了一項法律，要求 Apple 和 Google 允許訪問第三方應用商店和支付提供商運行移動作業系統的設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/japan_smartphone_software_law/</guid>
       <pubDate>Thu, 13 Jun 2024 05:33:09 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>SK海力士推動韓國英偉達挑戰者合併，進軍人工智慧晶片領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/sapeon_rebellions_merger_hynix_samsung/</link>
-      <description><![CDATA[Sapeon 和Rebellions 認為他們可以一起做得更好 AI 平台聯盟（一個倡導Nvidia 開放替代方案的組織）的兩個韓國成員已提議合併，以加速他們的工作並實現更大的目標規模化，或許可以為本土晶片製造商 SK 海力士提供進入人工智慧晶片市場的途徑。]]></description>
+      <description><![CDATA[Sapeon 和Rebellions 認為他們可以一起做得更好 AI 平台聯盟（該組織倡導以開放的方式替代Nvidia）的兩個韓國成員已提議合併，以加速他們的工作並實現更大的目標規模化，或許可以為本土晶片製造商 SK 海力士提供進入人工智慧晶片市場的途徑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/sapeon_rebellions_merger_hynix_samsung/</guid>
       <pubDate>Thu, 13 Jun 2024 02:30:09 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>無人駕駛計程車撞上電線桿後 Waymo 發佈軟體修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/waymo_software_recall/</link>
-      <description><![CDATA[美國國家公路交通安全管理局(NHTSA) 已就「清晰可見物體」碰撞事故對自動駕駛汽車業務進行調查 在亞利桑那州鳳凰城發生另一起事故後，Waymo 正在更新其自動駕駛汽車軟體，無人駕駛計程車公司將事故歸咎於該事故關於錯誤的地圖和代碼。 &#39; --&gt;]]></description>
+      <description><![CDATA[美國國家公路交通安全管理局(NHTSA) 已經對自動駕駛汽車行業與「清晰可見物體」發生的撞車事件展開調查 在亞利桑那州鳳凰城發生另一起事故後，Waymo正在更新其自動駕駛汽車軟體，無人駕駛計程車行業將此歸咎於該事故關於錯誤的地圖和代碼。 .html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/waymo_software_recall/</guid>
       <pubDate>Wed, 12 Jun 2024 23:16:47 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[賽門鐵克建議Black Basta 團隊搶在微軟之前推出補丁 根據賽門鐵克的威脅追蹤人員的說法，Black Basta 勒索軟體團夥可能利用了現已修補的Windows 權限升級漏洞作為零日漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/black_basta_ransomware_windows/</guid>
       <pubDate>Wed, 12 Jun 2024 22:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>不，人工智慧機器人不會競選懷俄明州夏延市長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/12/ai_bot_wyoming/</link>
-      <description><![CDATA[但候選人維克多·米勒(Victor Miller) 告訴監管機構，他將使用機器學習來幫助治理 懷俄明州的官員正在試圖弄清楚如何回應競選申請夏安市長承諾人工智慧輔助治理。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/12/ai_bot_wyoming/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
