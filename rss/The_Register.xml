@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 14 Jun 2024 07:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 10:11:33 GMT</lastBuildDate>
+    <item>
+      <title>Apache Spark 如何照亮科技世界並超越其大數據同行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ten_years_apache_spark/</link>
+      <description><![CDATA[The Register 向作者 Matei Zaharia 詢問該專案十年來的情況 訪談 大數據不再被譽為「新石油」。它已經過時了，一方面是因為它的炒作，另一方面是因為它的基礎技術 Apache Hadoop 被基於雲端的 Blob 儲存（例如 AWS S3）所超越。然而，大數據時代誕生的一個姊妹計畫在法學碩士和網路規模數據系統的現代世界中變得越來越有影響力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ten_years_apache_spark/</guid>
+      <pubDate>Fri, 14 Jun 2024 09:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>我們需要一名志工爬過碎玻璃來修復這個網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/on_call/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 14 Jun 2024 04:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本宇宙航空研究開發機構利用農作物衛星照片協助定向廣告</title>
+      <title>日本宇宙航空研究開發機構利用農作物衛星照片進行目標廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</link>
       <description><![CDATA[有些人會說捲心菜的廣告是徒勞的- 來自太空的圖片至少可以讓它們變得及時嗎？種利用衛星捕捉的快照的方法理順農業供應鏈並加強廣告宣傳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 13 Jun 2024 17:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>烏克蘭警察逮捕了基輔程式設計師，據信是 Conti、LockBit 的關鍵人物</title>
+      <title>烏克蘭警察逮捕了基輔程式設計師，據信是 Conti、LockBit 關鍵人物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</link>
       <description><![CDATA[28 歲的男子被指控在歐洲各地發起重大勒索軟體攻擊 烏克蘭警方本週突襲了一名涉嫌Conti 和LockBit 勒索軟體機器的齒輪，他的家現已被戴上手銬。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[公眾發現的機密病患資訊 影響英國 NHS 的資料保護失誤被歸咎於一名醫科學生，因為他過於信任自己的垃圾袋。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/nhs_bin_bag_data_breach/</guid>
       <pubDate>Thu, 13 Jun 2024 11:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>systemd 256 版本號稱“Unix 哲學減少了 42%”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/version_256_systemd/</link>
-      <description><![CDATA[它透過替換 sudo 來包含 Linux 的另一部分 最新版本的 systemd init 系統已經發布，帶有 公開對抗性標語：“很快就會在你最近的發行版中推出，現在Unix 哲學減少了42%。 ....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/version_256_systemd/</guid>
-      <pubDate>Thu, 13 Jun 2024 10:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
