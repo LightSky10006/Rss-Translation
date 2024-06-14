@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 14 Jun 2024 18:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 19:34:33 GMT</lastBuildDate>
+    <item>
+      <title>Clearview AI 與隱私訴訟原告達成「創意」和解：有條件欠條</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/clearview_ai_reaches_creative_settlement/</link>
+      <description><![CDATA[生意太破產了，階級太大了，現在無法解決；同意在 IPO、清算等有限情況下支付費用 資料擷取臉部辨識公司 Clearview AI 無法與「幾乎任何在美國的臉部出現在網路上的人」達成和解，因此決定一張欠條可以換取公司未來價值的很大一部分。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/clearview_ai_reaches_creative_settlement/</guid>
+      <pubDate>Fri, 14 Jun 2024 19:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle對開源軟體的愛恨情仇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</link>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 13 Jun 2024 19:55:12 GMT</pubDate>
     </item>
     <item>
-      <title>世界上第一台預先安裝 Ubuntu 的 RISC-V 筆記型電腦擁有人工智慧和八核心晶片</title>
+      <title>世界上第一台預先安裝 Ubuntu 的 RISC-V 筆記型電腦宣揚人工智慧和八核心晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/riscv_laptop_ubuntu/</link>
       <description><![CDATA[可能更像是紙老虎，因為它的運行頻率為2 GHz，並且只有2 TOPS DeepComputing 宣布推出Roma 筆記型電腦的後繼產品，這是同類產品中第一款使用RISC 的筆記型電腦-V相容處理器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/riscv_laptop_ubuntu/</guid>
       <pubDate>Thu, 13 Jun 2024 19:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>內華達州的Google資料中心將全力推進地熱能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/google_geothermal_datacenters/</link>
-      <description><![CDATA[山景城到2030 年實現無碳電力目標的一部分 Google 與NV Energy 簽署了一項協議，幫助其內華達州數據中心使用地熱能供電，該巨型公司聲稱這一安排比現有安排更為先進再生能源合約......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/google_geothermal_datacenters/</guid>
-      <pubDate>Thu, 13 Jun 2024 18:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
