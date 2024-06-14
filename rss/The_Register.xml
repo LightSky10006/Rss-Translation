@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 14 Jun 2024 14:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 14:35:51 GMT</lastBuildDate>
+    <item>
+      <title>航海家一號重返科學運營</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</link>
+      <description><![CDATA[工程師們哄騙經驗豐富的探測器恢復健康 自2023 年底經驗豐富的探測器開始胡言亂語以來，NASA 的航行者1 號航天器首次恢復運作並進行正常的科學操作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</guid>
+      <pubDate>Fri, 14 Jun 2024 14:32:49 GMT</pubDate>
+    </item>
     <item>
       <title>烏克蘭用間諜軟體搗毀了針對士兵的 SIM 農場</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ukraine_sim_farm_bust/</link>
@@ -62,9 +69,9 @@
       <pubDate>Fri, 14 Jun 2024 04:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本宇宙航空研究開發機構利用農作物衛星照片幫助進行定向廣告</title>
+      <title>日本宇宙航空研究開發機構利用農作物衛星照片進行目標廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</link>
-      <description><![CDATA[有人會說捲心菜的廣告是徒勞的- 來自太空的圖片至少可以讓它們變得及時嗎？利用衛星捕捉的快照的方法理順農業供應鏈並加強廣告宣傳。]]></description>
+      <description><![CDATA[有些人會說捲心菜的廣告是徒勞的- 來自太空的圖片至少可以讓它們變得及時嗎？種利用衛星捕捉的快照的方法理順農業供應鏈並加強廣告宣傳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</guid>
       <pubDate>Fri, 14 Jun 2024 02:31:07 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Thu, 13 Jun 2024 17:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>烏克蘭警察逮捕了基輔程式設計師，據信是 Conti、LockBit 的關鍵人物</title>
+      <title>烏克蘭警察逮捕了基輔程式設計師，據信是 Conti、LockBit 關鍵人物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</link>
-      <description><![CDATA[28 歲的男子被指控在歐洲各地發動重大勒索軟體攻擊 烏克蘭警方本週突襲了一名涉嫌Conti 和LockBit 勒索軟體機器的齒輪，他的家現已被戴上手銬。]]></description>
+      <description><![CDATA[28 歲的男子被指控在歐洲各地發起重大勒索軟體攻擊 烏克蘭警方本週突襲了一名涉嫌Conti 和LockBit 勒索軟體機器的齒輪，他的家現已被戴上手銬。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/conti_lockbit_ukraine_arrest/</guid>
       <pubDate>Thu, 13 Jun 2024 16:27:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[貿易機構哀嘆此舉“明顯不公平”，但尚未採取反制措施 中國對歐盟提高中國製造電動汽車關稅的決定作出嚴厲回應，稱此舉“明顯不公平” ”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/china_eu_ev_tariffs/</guid>
       <pubDate>Thu, 13 Jun 2024 14:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>活動人士稱，谷歌的隱私沙盒更像是隱私海市蜃樓</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/noyb_gdpr_privacy_sandbox/</link>
-      <description><![CDATA[Chocolate Factory 被指控誤導Chrome 瀏覽器用戶 已更新 隱私權活動人士noyb 已針對Google 的Privacy Sandbox 提交了GDPR 投訴，聲稱在Google 瀏覽器中啟用了「隱私功能」 Chrome 瀏覽器導緻美國大型企業進行不必要的追蹤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/noyb_gdpr_privacy_sandbox/</guid>
-      <pubDate>Thu, 13 Jun 2024 13:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
