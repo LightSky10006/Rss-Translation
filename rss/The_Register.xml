@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 15 Jun 2024 00:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 01:56:14 GMT</lastBuildDate>
+    <item>
+      <title>微軟回答了國會有關安全的問題。現在白宮需要採取行動</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/15/microsoft_brad_smith_congress/</link>
+      <description><![CDATA[一切如常，需要真正的改變 功能 微軟總裁布拉德·史密斯(Brad Smith) 在周四的國會聽證會上對其IT 巨頭屢次出現的電腦安全問題採取了和解的語氣，同時也表示聲稱 Windows 製造商凌駕於法治之上，至少在中國是如此。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/15/microsoft_brad_smith_congress/</guid>
+      <pubDate>Sat, 15 Jun 2024 01:20:13 GMT</pubDate>
+    </item>
     <item>
       <title>史丹佛網路觀測站在選舉年面臨法律壓力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/stanford_internet_observatory/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>Apache Spark 如何照亮科技世界並超越其大數據同行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ten_years_apache_spark/</link>
-      <description><![CDATA[The Register 向作者 Matei Zaharia 詢問該專案十年來的情況 訪談 大數據不再被譽為「新石油」。它已經過時了，一方面是因為它的炒作，另一方面是因為它的基礎技術 Apache Hadoop 被基於雲端的 Blob 儲存（例如 AWS S3）所超越。然而，大數據時代誕生的一個姊妹計畫在法學碩士和網路規模數據系統的現代世界中變得越來越有影響力。]]></description>
+      <description><![CDATA[El Reg 向作者 Matei Zaharia 詢問該專案十年來的情況 訪談 大數據不再被譽為「新石油」。它已經過時了，一方面是因為它的炒作，另一方面是因為它的基礎技術 Apache Hadoop 被基於雲端的 Blob 儲存（例如 AWS S3）所超越。然而，大數據時代誕生的一個姊妹計畫在法學碩士和網路規模數據系統的現代世界中變得越來越有影響力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ten_years_apache_spark/</guid>
       <pubDate>Fri, 14 Jun 2024 09:34:12 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 14 Jun 2024 04:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本宇宙航空研究開發機構利用農作物衛星照片進行目標廣告</title>
+      <title>日本宇宙航空研究開發機構利用農作物衛星照片協助定向廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</link>
       <description><![CDATA[有人會說捲心菜的廣告是徒勞的- 來自太空的圖片至少可以讓它們變得及時嗎？利用衛星捕捉的快照的方法理順農業供應鏈並加強廣告宣傳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[「找到罪魁禍首不是我們的工作——這就是我們付錢給你的」立法者斥責布拉德·史密斯 立法者周四就微軟總裁布拉德·史密斯就這家Windows 巨頭在中國開展的業務進行了質疑—以及這家超級公司屢屢出現的安全失誤——此時北京支持的間諜被指控闖入微軟託管的美國政府官員的電子郵件帳戶…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/brad_smith_microsoft_hearing/</guid>
       <pubDate>Fri, 14 Jun 2024 00:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空軍想要 7700 萬美元來加強 GPS，但國會否決了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/13/space_force_gps/</link>
-      <description><![CDATA[我們不能用另一種方​​式做到這一點，就像沒有這些在5 年內花費10 億​​美元的迷你衛星一樣，眾議院代表想知道 美國太空部隊強化GPS 抵禦欺騙攻擊的計劃可能正在實施無處可去：服務部門請求提供 7700 萬美元公共現金來完成這項工作，但很難獲得國會的批准。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/13/space_force_gps/</guid>
-      <pubDate>Thu, 13 Jun 2024 22:42:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
