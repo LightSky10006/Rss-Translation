@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 15 Jun 2024 09:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 21:09:45 GMT</lastBuildDate>
+    <item>
+      <title>從白手起家到致富：讓本地人工智慧聊天機器人變得更聰明的實用指南</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/15/ai_rag_guide/</link>
+      <description><![CDATA[十分之九的主管建議將檢索增強一代加入您的日常方案 動手實作如果您一直在關注企業對人工智慧的採用，那麼您無疑聽過「RAG」一詞被廣泛使用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/15/ai_rag_guide/</guid>
+      <pubDate>Sat, 15 Jun 2024 20:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟委員會可能即將對其應用商店規則施加壓力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/15/apple_european_commission/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 14 Jun 2024 21:38:05 GMT</pubDate>
     </item>
     <item>
-      <title>畢竟監管機構已經放下爪子，Meta 不會在歐洲貼文上訓練人工智慧</title>
+      <title>Meta 畢竟不會在歐洲貼文上訓練人工智慧，因為監管機構已經放下了爪子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</link>
       <description><![CDATA[Facebook 母公司稱在隱私方面向前邁出一步是「倒退」 Meta 已向歐洲監管機構屈服，並同意暫停其在歐盟用戶的Facebook 和Instagram 用戶的貼文上訓練人工智慧模型的計劃—這家社交媒體巨頭表示，此舉將推遲其在經濟區推出 Meta AI 的計劃。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 14 Jun 2024 19:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>讓我們來看看Oracle對於開源軟體的愛恨情仇</title>
+      <title>讓我們來看看Oracle對開源軟體的愛恨情仇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</link>
       <description><![CDATA[現在所有企業都在使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都在使用開源軟體，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>巴基斯坦採取新措施懲罰逃稅者，確保電信公司切斷他們的手機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/pakistan_budget_technology/</link>
-      <description><![CDATA[已經對涉嫌未繳納應繳份額的50 萬本國公民進行人肉搜索並下令斷網 巴基斯坦已概述了通過切斷手機來懲罰逃稅者的措施。 &gt;]]></description>
+      <description><![CDATA[已經對涉嫌未繳納份額的 50 萬本國公民進行人肉搜索並下令斷網 巴基斯坦已概述了通過切斷手機來懲罰逃稅者的措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/pakistan_budget_technology/</guid>
       <pubDate>Fri, 14 Jun 2024 04:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本宇宙航空研究開發機構利用農作物衛星照片幫助進行定向廣告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</link>
-      <description><![CDATA[有些人會說捲心菜的廣告是徒勞的- 來自太空的圖片至少可以讓它們變得及時嗎？種利用衛星捕捉的快照的方法理順農業供應鏈並加強廣告宣傳。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/jaxa_sparc_satellite_crop_advertising/</guid>
-      <pubDate>Fri, 14 Jun 2024 02:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
