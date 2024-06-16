@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 16 Jun 2024 08:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 09:12:27 GMT</lastBuildDate>
+    <item>
+      <title>讓戰爭機器狗溜走</title>
+      <link>https://www.wired.com/story/let-slip-the-robot-dogs-of-war/</link>
+      <description><![CDATA[美國和中國似乎陷入了一場將四足機器人武器化用於軍事應用的競賽。]]></description>
+      <guid>https://www.wired.com/story/let-slip-the-robot-dogs-of-war/</guid>
+      <pubDate>Sun, 16 Jun 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>18 款最佳相機包、斜背包、背帶和背包（2024 年）</title>
       <link>https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有些房屋可能預先安裝了智慧型設備。這些是我喜歡的產品，也是我要更換的產品。]]></description>
       <guid>https://www.wired.com/story/you-should-byo-smart-home-rant/</guid>
       <pubDate>Fri, 14 Jun 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用這個巧妙的軟體技巧減少人工智慧幻覺</title>
-      <link>https://www.wired.com/story/reduce-ai-hallucinations-with-rag/</link>
-      <description><![CDATA[一種名為檢索增強生成（RAG）的熱門流程正在矽谷流行起來，並改進了大型語言模型的輸出。它是如何運作的？]]></description>
-      <guid>https://www.wired.com/story/reduce-ai-hallucinations-with-rag/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
