@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 17 Jun 2024 05:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 06:40:06 GMT</lastBuildDate>
     <item>
-      <title>中國的大型科技公司教亞洲如何透過掃描二維碼進行支付，但一路上弄得一團糟</title>
+      <title>臭名昭著的網路團夥 UNC3944 攻擊 vSphere 和 Azure，以在受害者的基礎設施內執行虛擬機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/unc3944_scattered_spider_tactics_change/</link>
+      <description><![CDATA[當你可以嚇唬技術人員交出他們的憑證時，誰還需要勒索軟體？攻擊的團夥）已經改變策略，現在瞄準 SaaS 應用程式…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/unc3944_scattered_spider_tactics_change/</guid>
+      <pubDate>Mon, 17 Jun 2024 06:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國的大型科技公司教亞洲如何透過掃描二維碼進行支付，但一路上卻弄得一團糟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asia_qr_code_obsession/</link>
       <description><![CDATA[互通性的推動正在加速，但速度可能還不足以阻止生物辨識技術佔據主導地位 功能 從班加羅爾到北京，亞洲人外出購物時很少使用信用卡或金融卡，而是使用智慧型手機掃描二維碼進行付款。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asia_qr_code_obsession/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>沒多久：SORBS 垃圾郵件黑名單的替代品出現了…有點像</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/infosec_news_in_brief/</link>
-      <description><![CDATA[另外：線上收養網路跟蹤者被逮捕；特斯拉商業機密竊盜者認罪；和一個關鍵的華碩Wi-Fi 漏洞 簡述 本月早些時候下線的一項流行垃圾郵件阻止列表服務已通知用戶該服務已永久關閉-但至少有一個潛在候選者處於關閉狀態加緊嘗試填補威脅情報空白。]]></description>
+      <description><![CDATA[此外：線上收養網路跟蹤者被逮捕；特斯拉商業機密竊盜者認罪；和一個關鍵的華碩Wi-Fi 漏洞 簡述 本月早些時候下線的一項流行垃圾郵件阻止列表服務已通知用戶該服務已永久關閉-但至少有一個潛在的候選人加緊嘗試填補威脅情報空白。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/infosec_news_in_brief/</guid>
       <pubDate>Mon, 17 Jun 2024 01:59:12 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Meta 被指控試圖抹黑廣告研究人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/16/meta_ads_brazil/</link>
-      <description><![CDATA[超過70 個民間團體簽署公開信，猛烈抨擊「恐嚇」 Meta 據稱試圖抹黑巴西大學研究人員的聲譽，這些研究人員在社交網路廣告平台上標記了欺詐性廣告。]]></description>
+      <description><![CDATA[超過70 個民間團體簽署公開信，猛烈抨擊「恐嚇」 Meta 據稱試圖抹黑巴西大學研究人員的名譽，這些研究人員在社群網路廣告平台上標記了欺詐性廣告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/16/meta_ads_brazil/</guid>
       <pubDate>Sun, 16 Jun 2024 14:38:06 GMT</pubDate>
     </item>
@@ -64,12 +71,12 @@
     <item>
       <title>史丹佛網路觀測站在選舉年面臨法律壓力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/stanford_internet_observatory/</link>
-      <description><![CDATA[因為在這樣的時刻誰需要虛假信息研究 斯坦福互聯網觀測站(SIO) 在過去五年中一直在研究和報告社交媒體虛假信息，現在正在通過新的管理層和新的管理層進行重新構想。]]></description>
+      <description><![CDATA[因為在這樣的時刻誰需要虛假資訊研究 過去五年來一直在研究和報告社交媒體虛假信息的斯坦福互聯網觀測站(SIO) 正在通過新的管理層和新的管理層進行重新構想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/stanford_internet_observatory/</guid>
       <pubDate>Fri, 14 Jun 2024 21:38:05 GMT</pubDate>
     </item>
     <item>
-      <title>畢竟監管機構已經放下爪子，Meta 不會在歐洲貼文上訓練人工智慧</title>
+      <title>Meta 畢竟不會在歐洲貼文上訓練人工智慧，因為監管機構已經放下了爪子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</link>
       <description><![CDATA[Facebook 母公司稱在隱私方面向前邁出一步是「倒退」 Meta 已向歐洲監管機構屈服，並同意暫停其在歐盟用戶的Facebook 和Instagram 用戶的貼文上訓練人工智慧模型的計劃—這家社交媒體巨頭表示，此舉將推遲其在經濟區推出 Meta AI 的計劃。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>Clearview AI 與隱私訴訟原告達成「創意」和解：有條件欠條</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/clearview_ai_reaches_creative_settlement/</link>
-      <description><![CDATA[生意太破產，班級太大，現在無法解決；同意在 IPO、清算等有限情況下支付費用 資料擷取臉部辨識公司 Clearview AI 無法與「幾乎任何在美國的臉部出現在網路上的人」達成和解，因此決定一張欠條可以換取公司未來價值的很大一部分。 ...]]></description>
+      <description><![CDATA[生意太破產了，階級太大了，現在無法解決；同意在 IPO、清算等有限情況下支付費用 資料擷取臉部辨識公司 Clearview AI 無法與「幾乎任何在美國的臉部出現在網路上的人」達成和解，因此決定一張欠條可以換取公司未來價值的很大一部分。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/clearview_ai_reaches_creative_settlement/</guid>
       <pubDate>Fri, 14 Jun 2024 19:30:14 GMT</pubDate>
     </item>
     <item>
       <title>讓我們來看看Oracle對於開源軟體的愛恨情仇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</link>
-      <description><![CDATA[現在所有企業都使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都使用開源，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
+      <description><![CDATA[現在所有企業都在使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都在使用開源軟體，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</guid>
       <pubDate>Fri, 14 Jun 2024 18:24:07 GMT</pubDate>
     </item>
@@ -120,30 +127,23 @@
     <item>
       <title>航海家一號重返科學運營</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</link>
-      <description><![CDATA[工程師們哄騙資深探測器恢復健康 自2023 年底資深探測器開始胡言亂語以來，NASA 的航行者1 號航天器首次恢復運作並進行正常的科學操作。 .]]></description>
+      <description><![CDATA[工程師們哄騙經驗豐富的探測器恢復健康 自2023 年底經驗豐富的探測器開始胡言亂語以來，NASA 的航行者1 號航天器首次恢復運作並進行正常的科學操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</guid>
       <pubDate>Fri, 14 Jun 2024 14:32:49 GMT</pubDate>
     </item>
     <item>
-      <title>烏克蘭利用間諜軟體搗毀了針對士兵的 SIM 農場</title>
+      <title>烏克蘭用間諜軟體搗毀了針對士兵的 SIM 農場</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ukraine_sim_farm_bust/</link>
       <description><![CDATA[俄羅斯招募當地居民支持戰場目標 烏克蘭安全局 (SSU) 拆除了允許兩名親俄烏克蘭居民闖入士兵設備並部署間諜軟體的基礎設施。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ukraine_sim_farm_bust/</guid>
       <pubDate>Fri, 14 Jun 2024 13:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉股東同意向馬斯克支付驚人的 48B 美元</title>
+      <title>特斯拉股東同意向馬斯克支付驚人的$48B</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/tesla_shareholders_agree_musk_compo/</link>
       <description><![CDATA[價值下降，但火箭人仍然得到他的汽油錢 人類的聰明才智不足以建造一把小到足以哀嘆埃隆·馬斯克的命運的小提琴。這位連續創業家、博學多才和媒體人物正面臨著這樣一個事實：在說服股東交出電動汽車公司特斯拉股票期權的時間裡，他的股票期權的面值下跌了80 億美元。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/tesla_shareholders_agree_musk_compo/</guid>
       <pubDate>Fri, 14 Jun 2024 12:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>法國政府出價 7 億歐元收購 Atos 股份</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/french_state_still_wants_atos_stake/</link>
-      <description><![CDATA[大數據+安全部門可能由政府及其人民承擔 法國政府已確認出價 7 億歐元（7.48 億美元）收購境況不佳的 IT 服務巨頭 Atos 的關鍵資產，隨後該公司本週稍早接受了重組協議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/french_state_still_wants_atos_stake/</guid>
-      <pubDate>Fri, 14 Jun 2024 11:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
