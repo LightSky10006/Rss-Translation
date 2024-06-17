@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 17 Jun 2024 09:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 09:34:12 GMT</lastBuildDate>
+    <item>
+      <title>近 20% 正在運行的 SQL Server 已終止支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/outdated_sql_server/</link>
+      <description><![CDATA[運行伺服器的米色盒子很容易被遺忘......直到出現問題 獨家 IT 資產管理平台Lansweeper 已向各地的企業管理員發出警告。您的業務所依賴的 SQL Server 到底有多久了？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/outdated_sql_server/</guid>
+      <pubDate>Mon, 17 Jun 2024 09:29:14 GMT</pubDate>
+    </item>
     <item>
       <title>全平台人工智慧能否融入企業安全？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/opinion_platformwide_ai_security/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>尼日利亞人因價值 150 萬美元的網路釣魚詐騙而面臨最高 102 年監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/phishing_scam_conviction/</link>
-      <description><![CDATA[據說克魯克和他的同謀利用 Discord 進行協調 美國司法部已判定一名尼日利亞國民參與價值 150 萬美元的商業電子郵件洩露 (BEC) 騙局。 /p&gt; ]]></description>
+      <description><![CDATA[據說 Crook 和他的同謀利用 Discord 進行協調 陪審團判定一名尼日利亞國民有罪，他因參與價值 150 萬美元的商業電子郵件洩露 (BEC) 詐騙而被定罪在所有方面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/phishing_scam_conviction/</guid>
       <pubDate>Fri, 14 Jun 2024 20:15:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[瀏覽器製造商決定不遵循普丁的命令。幹得好 Mozilla 已恢復了本週早些時候在俄羅斯被克里姆林宮禁止的某些Firefox 附加組件。 &#39;/data_centre /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/mozilla_firefox_russia/</guid>
       <pubDate>Fri, 14 Jun 2024 15:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>航海家一號重返科學運營</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</link>
-      <description><![CDATA[工程師們哄騙經驗豐富的探測器恢復健康 自2023 年底經驗豐富的探測器開始胡言亂語以來，NASA 的航行者1 號航天器首次恢復運作並進行正常的科學操作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/voyager_1_restored/</guid>
-      <pubDate>Fri, 14 Jun 2024 14:32:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
