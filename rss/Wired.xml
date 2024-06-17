@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 17 Jun 2024 10:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 11:10:29 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 支持的非營利組織背棄了透明度承諾</title>
+      <link>https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/</link>
+      <description><![CDATA[兩家提供無條件現金補助的組織告訴《連線》雜誌，他們將不再揭露財務報表和內部政策。他們的立場緊接著 OpenAI 也做出了類似的否認。]]></description>
+      <guid>https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/</guid>
+      <pubDate>Mon, 17 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>銀行終於意識到氣候變遷將對住房產生什麼影響</title>
       <link>https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 17 Jun 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧正在為大型科技工作帶來機會——但方式並非你想像的那樣</title>
+      <title>人工智慧正在為大型科技工作帶來機會——但並非以你想像的方式</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
       <description><![CDATA[公司還沒有用人工智慧取代工人。但他們在進一步技術創新的競賽中犧牲了數千個工作機會。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>駭客詳細介紹了他們如何從 Snowflake 竊取 Ticketmaster 數據</title>
       <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
-      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了 Ticketmaster 的 Snowflake 雲端帳戶和其他帳戶的存取權限。]]></description>
+      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了對 Ticketmaster 的 Snowflake 雲端帳戶以及其他帳戶的存取權限。]]></description>
       <guid>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</guid>
       <pubDate>Mon, 17 Jun 2024 09:30:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[《男孩們》、《Outer Range》和《異塵餘生》只是本週您應該在 Amazon Prime Video 上觀看的幾部影片。]]></description>
       <guid>https://www.wired.com/story/best-shows-amazon-prime/</guid>
       <pubDate>Sat, 15 Jun 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RCS 指南、蘋果為何採用它以及它如何讓簡訊變得更好</title>
-      <link>https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/</link>
-      <description><![CDATA[與普通的舊簡訊相比，該訊息傳遞標準承諾提供更好的安全性和更酷的功能。 Android 已經擁有它很多年了，但現在 iPhone 也有了它。]]></description>
-      <guid>https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/</guid>
-      <pubDate>Sat, 15 Jun 2024 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
