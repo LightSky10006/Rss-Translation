@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 17 Jun 2024 09:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 10:39:10 GMT</lastBuildDate>
+    <item>
+      <title>英國 Total Fitness 透過未受保護的資料庫暴露了近 50 萬張會員和員工的圖像</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/uks_total_fitness_exposed_nearly/</link>
+      <description><![CDATA[健康俱樂部連鎖店在選擇密碼日前往水療中心 一名安全研究人員聲稱，英國健康俱樂部和健身連鎖店Total Fitness 未能鎖定充滿數據的數據庫，從而未能履行其數據保護責任。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/uks_total_fitness_exposed_nearly/</guid>
+      <pubDate>Mon, 17 Jun 2024 10:35:55 GMT</pubDate>
+    </item>
     <item>
       <title>近 20% 正在運行的 SQL Server 已終止支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/outdated_sql_server/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟回答了國會有關安全的問題。現在白宮需要採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/15/microsoft_brad_smith_congress/</link>
-      <description><![CDATA[一切照舊需要真正的改變 功能 微軟總裁布拉德·史密斯(Brad Smith) 在周四的國會聽證會上對其IT 巨頭屢次出現的電腦安全問題採取了和解的語氣，同時也表示聲稱 Windows 製造商凌駕於法治之上，至少在中國是如此。]]></description>
+      <description><![CDATA[一切如常，需要真正的改變 功能 微軟總裁布拉德·史密斯(Brad Smith) 在周四的國會聽證會上對其IT 巨頭屢次出現的電腦安全問題採取了和解的語氣，同時也表示聲稱 Windows 製造商凌駕於法治之上，至少在中國是如此。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/15/microsoft_brad_smith_congress/</guid>
       <pubDate>Sat, 15 Jun 2024 01:20:13 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 14 Jun 2024 21:38:05 GMT</pubDate>
     </item>
     <item>
-      <title>畢竟監管機構已經放下爪子，Meta 不會在歐洲貼文上訓練人工智慧</title>
+      <title>Meta 畢竟不會在歐洲貼文上訓練人工智慧，因為監管機構已經放下了爪子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</link>
       <description><![CDATA[Facebook 母公司稱在隱私方面向前邁出一步是「倒退」 Meta 已向歐洲監管機構屈服，並同意暫停其在歐盟用戶的Facebook 和Instagram 用戶的貼文上訓練人工智慧模型的計劃—這家社交媒體巨頭表示，此舉將推遲其在經濟區推出 Meta AI 的計劃。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/meta_eu_privacy/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>讓我們來看看Oracle對開源軟體的愛恨情仇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</link>
-      <description><![CDATA[現在所有企業都使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都使用開源，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
+      <description><![CDATA[現在所有企業都在使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都在使用開源軟體，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</guid>
       <pubDate>Fri, 14 Jun 2024 18:24:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[業務熱衷於避免因股價下跌而退市 維珍銀河已確認進行反向股票分割，以阻止該公司從紐約證券交易所退市。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/virgin_galactic_celebrates_flight_hiatus/</guid>
       <pubDate>Fri, 14 Jun 2024 16:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 反抗克里姆林宮，恢復在俄羅斯被禁的 Firefox 附加組件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/mozilla_firefox_russia/</link>
-      <description><![CDATA[瀏覽器製造商決定不遵循普丁的命令。幹得好 Mozilla 已恢復了本週早些時候在俄羅斯被克里姆林宮禁止的某些Firefox 附加組件。 &#39;/data_centre /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/mozilla_firefox_russia/</guid>
-      <pubDate>Fri, 14 Jun 2024 15:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
