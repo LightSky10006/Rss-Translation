@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 17 Jun 2024 00:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 02:38:02 GMT</lastBuildDate>
+    <item>
+      <title>沒多久：SORBS 垃圾郵件黑名單的替代品出現了…有點像</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/infosec_news_in_brief/</link>
+      <description><![CDATA[此外：線上收養網路跟蹤者被逮捕；特斯拉商業機密竊盜者認罪；和一個關鍵的華碩Wi-Fi 漏洞 簡述 本月早些時候下線的一項流行垃圾郵件阻止列表服務已通知用戶該服務已永久關閉-但至少有一個潛在的候選人加緊嘗試填補威脅情報空白。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/infosec_news_in_brief/</guid>
+      <pubDate>Mon, 17 Jun 2024 01:59:12 GMT</pubDate>
+    </item>
     <item>
       <title>日本太空垃圾清理者追捕主要目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asia_tech_news_roundup/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[El Reg 向作者 Matei Zaharia 詢問該專案十年來的情況 訪談 大數據不再被譽為「新石油」。它已經過時了，一方面是因為它的炒作，另一方面是因為它的基礎技術 Apache Hadoop 被基於雲端的 Blob 儲存（例如 AWS S3）所超越。然而，大數據時代誕生的一個姊妹計畫在法學碩士和網路規模數據系統的現代世界中變得越來越有影響力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/ten_years_apache_spark/</guid>
       <pubDate>Fri, 14 Jun 2024 09:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們需要一名志工爬過碎玻璃來修復這個網絡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/on_call/</link>
-      <description><![CDATA[缺點：受傷的可能性很高。好處：在績效評估中永久吹噓的權利 On Call  The Register 知道讀者經常將自己置於危險之中，以確保技術不斷進步，這就是為什麼每個星期五我們都會透過新一期的“On Call”向這些努力致敬——這是一個由讀者投稿的專欄，詳細介紹了技術支持的真實故事。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/on_call/</guid>
-      <pubDate>Fri, 14 Jun 2024 07:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
