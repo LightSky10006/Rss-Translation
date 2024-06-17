@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 17 Jun 2024 11:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 12:20:16 GMT</lastBuildDate>
+    <item>
+      <title>Asda 的 IT 員工因與沃爾瑪的混亂技術離婚而轉投 TCS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</link>
+      <description><![CDATA[隨著SAP 遷移進入關鍵階段，基礎設施團隊「密切關注」 獨家  Asda 正在將100 多名內部IT 員工轉移到印度外包公司TCS，因為該公司致力於在年底前按時拆除前任所有者沃爾瑪支持的 IT 系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</guid>
+      <pubDate>Mon, 17 Jun 2024 12:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 正在推動特權帳號的 MFA。這對你來說意味著什麼...</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/aws_mfa_roll_out/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>Meta 被指控試圖抹黑廣告研究人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/16/meta_ads_brazil/</link>
-      <description><![CDATA[超過70 個民間團體簽署公開信，猛烈抨擊「恐嚇」 Meta 據稱試圖抹黑巴西大學研究人員的聲譽，這些研究人員在社交網路廣告平台上標記了欺詐性廣告。]]></description>
+      <description><![CDATA[超過70 個民間團體簽署公開信，猛烈抨擊「恐嚇」 Meta 據稱試圖抹黑巴西大學研究人員的名譽，這些研究人員在社群網路廣告平台上標記了欺詐性廣告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/16/meta_ads_brazil/</guid>
       <pubDate>Sun, 16 Jun 2024 14:38:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在所有企業都在使用自由和開源軟體，但大紅色從未完全適應它 意見  現在所有公司都在使用開源軟體，但有些公司（例如Oracle）從未完全適應它完全適應它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/oracles_love_and_hate_relationship/</guid>
       <pubDate>Fri, 14 Jun 2024 18:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile US 與供應商一起簽署價值 2.7B 美元的下一代通訊服務國防部合約</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/14/tmobile_dod_navy_contract/</link>
-      <description><![CDATA[擴展的 Spiral 4 計劃旨在增強尖端技術的能力 T-Mobile US 本週被國防部選為無線提供商，為美國海軍提供電信服務和設備這是總價值26.7億美元的十年合約的一部分。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/14/tmobile_dod_navy_contract/</guid>
-      <pubDate>Fri, 14 Jun 2024 17:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
