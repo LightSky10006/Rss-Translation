@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 04:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 05:35:39 GMT</lastBuildDate>
+    <item>
+      <title>騰訊考慮禁止在其旗艦視訊服務上播放由「虛擬人」主持的電視廣告</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/</link>
+      <description><![CDATA[北京對生成式人工智慧的興趣有其局限性 中國網路巨頭騰訊提出了在其微信頻道服務上禁止人工智慧產生影片的想法，理由是它們是低品質的內容。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/</guid>
+      <pubDate>Tue, 18 Jun 2024 05:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
-      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
+      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至無需直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
       <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 18 Jun 2024 02:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 安全防禦在 95% 的情況下會因投機執行而崩潰</title>
+      <title>Arm 安全防禦在 95% 的時間裡被投機執行所破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</link>
       <description><![CDATA[「TikTag」安全人員發現反漏洞利用機制相當脆弱 2018 年，晶片設計商Arm 推出了一項名為記憶體標記擴充(MTE) 的硬體安全功能，以防禦記憶體安全漏洞。但它可能不會像最初希望的那樣有效。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</guid>
@@ -48,9 +55,9 @@
       <pubDate>Mon, 17 Jun 2024 20:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>聯準會起訴 Adob​​e 及其高管，稱其透過「隱藏」取消費用來欺騙訂閱者</title>
+      <title>聯準會起訴 Adob​​e 及其高層透過「隱藏」取消費用來欺騙訂閱者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</link>
-      <description><![CDATA[平面設計巨頭因使用平面設計掩蓋條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管通過隱瞞其訂閱軟體的終止費用來欺騙藝術家...]]></description>
+      <description><![CDATA[平面設計巨頭因使用平面設計埋葬條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管隱瞞其訂閱軟體的終止費用，從而欺騙了藝術家...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</guid>
       <pubDate>Mon, 17 Jun 2024 19:44:10 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>哈伯太空望遠鏡重新投入使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/hubble_space_telescope_is_back/</link>
-      <description><![CDATA[依靠一個陀螺儀運行，但仍在凝視天空 在其剩餘的三個陀螺儀之一被宣布可疑後，哈伯太空望遠鏡已恢復單陀螺儀模式的科學操作。 ...]]></description>
+      <description><![CDATA[依靠一個陀螺儀運行，但仍在凝視天空 在剩餘的三個陀螺儀之一被宣布可疑後，哈伯太空望遠鏡已恢復單陀螺儀模式的科學操作。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/hubble_space_telescope_is_back/</guid>
       <pubDate>Mon, 17 Jun 2024 16:15:27 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 17 Jun 2024 13:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>警方逮捕了一名22歲的英國男子，懷疑他是「散蜘蛛」的頭目</title>
+      <title>警方逮捕了一名22歲的英國人，懷疑他是分散蜘蛛的頭目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/scattered_spider_arrest/</link>
       <description><![CDATA[西班牙人在飛往義大利之前在機場被捕 西班牙警方在登上飛往那不勒斯的私人航班時逮捕了一名據稱是臭名昭著的網路犯罪團夥“分散蜘蛛”頭目的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/scattered_spider_arrest/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>阿斯達 IT 員工因與沃爾瑪的混亂技術離婚而調往 TCS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</link>
-      <description><![CDATA[隨著SAP 遷移進入關鍵階段，基礎設施團隊「密切關注」 獨家  Asda 正在將100 多名內部IT 員工轉移到印度外包公司TCS，因為該公司致力於在年底前按時擺脫前任所有者沃爾瑪支持的 IT 系統。]]></description>
+      <description><![CDATA[隨著SAP 遷移進入關鍵階段，基礎設施團隊密切關注 獨家  Asda 正在將100 多名內部IT 員工轉移到印度外包公司TCS，因為該公司致力於在年底前按時擺脫前任所有者沃爾瑪支持的 IT 系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</guid>
       <pubDate>Mon, 17 Jun 2024 12:00:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[時間在流逝 - 為什麼不嘗試使用金鑰？  注意：Amazon Web Services 正在推動對某些用戶強制執行多重身份驗證 (MFA)，我們很高興看到它... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/aws_mfa_roll_out/</guid>
       <pubDate>Mon, 17 Jun 2024 11:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國 Total Fitness 透過未受保護的資料庫暴露了近 50 萬張會員和員工的圖像</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/uks_total_fitness_exposed_nearly/</link>
-      <description><![CDATA[健康俱樂部連鎖店在選擇密碼日前往水療中心 獨家 一位網路安全研究人員聲稱英國健康俱樂部和健身連鎖店Total Fitness 未能履行其資料保護責任，未能鎖定充滿會員個人資料的資料庫。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/uks_total_fitness_exposed_nearly/</guid>
-      <pubDate>Mon, 17 Jun 2024 10:35:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
