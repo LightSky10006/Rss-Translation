@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 09:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 10:36:59 GMT</lastBuildDate>
+    <item>
+      <title>英國電信公開反對沃達豐和 Three 的行動聯姻計劃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cma_vodafone_three_responses/</link>
+      <description><![CDATA[擔心「MergeCo」會掠奪不成比例的頻譜 英國競爭監管機構已發布對其對沃達豐和三大行動網路擬議合併的調查的回應，而不是歡迎此舉將促進競爭，擔心會產生相反的效果。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cma_vodafone_three_responses/</guid>
+      <pubDate>Tue, 18 Jun 2024 10:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>搭載 Pi Pico 的 Apple Macintosh 128K 獲得厄普頓的好評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/apples_macintosh_128k_on_a_pico/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>國際貨幣基金組織建議對人工智慧的 CO<sub>2</sub> 排放徵稅，但不對人工智慧本身徵稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</link>
-      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為電腦提供動力，許多人希望這能為我們做一些思考。]]></description>
+      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為計算機提供動力，許多人希望這能為我們做一些思考。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</guid>
       <pubDate>Tue, 18 Jun 2024 06:29:09 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
-      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
+      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至無需直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
       <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
     </item>
@@ -62,14 +69,14 @@
       <pubDate>Tue, 18 Jun 2024 02:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 安全防禦在 95% 的情況下會因投機執行而崩潰</title>
+      <title>Arm 安全防禦在 95% 的時間裡被投機執行所破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</link>
       <description><![CDATA[「TikTag」安全人員發現反漏洞利用機制相當脆弱 2018 年，晶片設計商Arm 推出了一項名為記憶體標記擴充(MTE) 的硬體安全功能，以防禦記憶體安全漏洞。但它可能不會像最初希望的那樣有效。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</guid>
       <pubDate>Tue, 18 Jun 2024 01:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>普華永道分拆公司和 NMA 因與山姆大叔達成和解而損失 1,130 萬美元的劣質資訊安全</title>
+      <title>普華永道分拆公司和 NMA 與山姆大叔達成和解，資安品質低劣導致其損失 1,130 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/guidehouse_nma_fined/</link>
       <description><![CDATA[滲透測試工具不起作用——受疫情影響的人們的個人資訊開始出現在搜尋引擎中 兩家諮詢公司 Guidehouse 和 Nan McKay and Associates 已同意支付總計1130 萬美元用於解決因推出COVID-19 援助而引發的網路安全失敗指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/guidehouse_nma_fined/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 17 Jun 2024 20:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>聯準會起訴 Adob​​e 及其高管，稱其透過「隱藏」取消費用來欺騙訂閱者</title>
+      <title>聯準會起訴 Adob​​e 及其高層透過「隱藏」取消費用來欺騙訂閱者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</link>
       <description><![CDATA[平面設計巨頭因使用平面設計掩蓋條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管通過隱瞞其訂閱軟體的終止費用來欺騙藝術家...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>麥當勞不喜歡與 IBM 進行人工智慧得來速實驗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/mcdonalds_ai_drivethru/</link>
-      <description><![CDATA[儘管麥當勞正在退出與 IBM 的合資企業，但未來自動語音訂購仍將出現在選單上。]]></description>
+      <description><![CDATA[儘管麥當勞正在退出與 IBM 的合資企業，但未來自動語音訂購仍將出現在菜單上，該合資企業將人工智慧引入其部分得來速餐廳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/mcdonalds_ai_drivethru/</guid>
       <pubDate>Mon, 17 Jun 2024 19:15:13 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>哈伯太空望遠鏡重新投入使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/hubble_space_telescope_is_back/</link>
-      <description><![CDATA[依靠一個陀螺儀運行，但仍在凝視天空 在其剩餘的三個陀螺儀之一被宣布可疑後，哈伯太空望遠鏡已恢復單陀螺儀模式的科學操作。 ...]]></description>
+      <description><![CDATA[依靠一個陀螺儀運行，但仍在凝視天空 在剩餘的三個陀螺儀之一被宣布可疑後，哈伯太空望遠鏡已恢復單陀螺儀模式的科學操作。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/hubble_space_telescope_is_back/</guid>
       <pubDate>Mon, 17 Jun 2024 16:15:27 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[財務長在納斯達克投資者大會上談論GPU 開發、策略和市場動態 人工智慧PC 可能是目前的熱門話題，但AMD 財務長認為資料中心仍然是該晶片製造商的主要利潤引擎，而CPU 核心仍然是許多工作負載的關鍵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/amd_growth_datacenter/</guid>
       <pubDate>Mon, 17 Jun 2024 15:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>律師事務所在 Teradata 集體訴訟中尋求投資者支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/teradata_would_be_classactions/</link>
-      <description><![CDATA[聲稱分析和數據平台業務在公共雲預測規模方面誤導了投資者 Teradata 面臨與投資者聲明相關的集體訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/teradata_would_be_classactions/</guid>
-      <pubDate>Mon, 17 Jun 2024 14:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
