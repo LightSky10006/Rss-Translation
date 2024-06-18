@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 19:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 19:36:52 GMT</lastBuildDate>
+    <item>
+      <title>目前 Hulu 上最好的 36 部節目（2024 年 6 月）</title>
+      <link>https://www.wired.com/story/best-tv-shows-hulu-this-week/</link>
+      <description><![CDATA[《熊》、《黑色推特：人民的歷史》和《幕府將軍》只是本月您應該在 Hulu 上觀看的幾個節目。]]></description>
+      <guid>https://www.wired.com/story/best-tv-shows-hulu-this-week/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>《薩爾達傳說：智慧的迴響》終於為薩爾達帶來了自己的遊戲</title>
       <link>https://www.wired.com/story/legend-of-zelda-echoes-of-wisdom-release-date/</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 18 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Airbnb 的奧運推動可能有助於贏得巴黎的青睞</title>
+      <title>Airbnb 進軍奧運可望贏得巴黎青睞</title>
       <link>https://www.wired.com/story/airbnbs-olympics-push-paris/</link>
       <description><![CDATA[近年來，巴黎官員對 Airbnb 租賃實施了嚴格的新限制。該公司正在利用奧運會來嘗試贏得當地人的支持，並擴大其在這座標誌性城市的足跡。]]></description>
       <guid>https://www.wired.com/story/airbnbs-olympics-push-paris/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>人工智慧正在為大型科技工作帶來機會——但並非以你想像的方式</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
-      <description><![CDATA[公司還沒有用人工智慧取代工人。但他們在進一步技術創新的競賽中犧牲了數千個工作機會。]]></description>
+      <description><![CDATA[公司還沒有用人工智慧取代工人。但在技術進一步創新的競爭中，他們正在犧牲數千個工作機會。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>駭客詳細介紹了他們如何從 Snowflake 竊取 Ticketmaster 數據</title>
-      <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
-      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了對 Ticketmaster 的 Snowflake 雲端帳戶以及其他帳戶的存取權限。]]></description>
-      <guid>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
