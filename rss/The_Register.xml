@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 21:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 22:11:12 GMT</lastBuildDate>
     <item>
-      <title>亞馬遜工會以壓倒性票數與紐約卡車司機聯手</title>
+      <title>台積電晶片廠建設因考古遺址被發現而暫停</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tsmc_cowos_delayed/</link>
+      <description><![CDATA[古老的廢墟建築？英特爾的安騰在台灣做什麼？ 台積電在台灣嘉義縣的先進晶片封裝工廠建設因發現「考古遺址」而遇到障礙。 --#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tsmc_cowos_delayed/</guid>
+      <pubDate>Tue, 18 Jun 2024 21:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>亞馬遜工會以壓倒性多數投票決定與紐約卡車司機協會聯手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amazon_union_teamsters/</link>
       <description><![CDATA[嘿安迪，你喜歡他們大蘋果嗎？週二的卡車司機......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amazon_union_teamsters/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>HPE 與 Nvidia 聯手提供「交鑰匙」私有雲機架，以將 AI 負載保持在本地</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</link>
-      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover 今年的HPE Discover 2024 的主題是透過與晶片重量級Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
+      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover  今年的HPE Discover 2024 的主題是透過與晶片巨擘Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</guid>
       <pubDate>Tue, 18 Jun 2024 16:33:14 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>CHERI 聯盟成立是為了推廣記憶體安全技術…但是 Arm 在哪裡？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</link>
-      <description><![CDATA[隨著關鍵推動者晶片設計者舔舐傷口，學術產業項目邁出了下一步 一群技術組織成立了CHERI 聯盟CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
+      <description><![CDATA[學術產業計畫邁出下一步，關鍵推動者晶片設計者舔舐傷口 一群技術組織成立了 CHERI 聯盟 CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</guid>
       <pubDate>Tue, 18 Jun 2024 15:04:12 GMT</pubDate>
     </item>
@@ -55,16 +62,16 @@
       <pubDate>Tue, 18 Jun 2024 14:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔終止了對因 Change Healthcare 攻擊而受到傷害的組織的財務支持</title>
+      <title>山姆大叔終止對因 Change Healthcare 攻擊而受損的組織提供財務支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/support_ends_change_healthcare/</link>
-      <description><![CDATA[提供了數十億美元，但最壞的情況似乎已經過去 美國政府正在逐步減少最初在2 月份Change Healthcare 遭受勒索軟體攻擊後向醫療保健提供者提供的財政支持。]]></description>
+      <description><![CDATA[提供了數十億美元，但最糟糕的情況似乎已經過去 美國政府正在逐步減少最初在2 月份Change Healthcare 遭受勒索軟體攻擊後向醫療保健提供者提供的財政支持。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/support_ends_change_healthcare/</guid>
       <pubDate>Tue, 18 Jun 2024 13:15:15 GMT</pubDate>
     </item>
     <item>
       <title>SUSE 為 CentOS 7 的抵制者提供了支持生命線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</link>
-      <description><![CDATA[Liberty Linux Lite 將在未來幾年內提​​供更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期。]]></description>
+      <description><![CDATA[Liberty Linux Lite 將在未來幾年內保持更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</guid>
       <pubDate>Tue, 18 Jun 2024 12:35:10 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>國際貨幣基金組織建議對人工智慧的 CO<sub>2</sub> 排放徵稅，但不對人工智慧本身徵稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</link>
-      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為計算機提供動力，許多人希望這能為我們做一些思考。]]></description>
+      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為電腦提供動力，許多人希望這能為我們做一些思考。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</guid>
       <pubDate>Tue, 18 Jun 2024 06:29:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在國家為了改善數位主權而贈送 .VN 網域的第二天，網路中斷了 越南與全球其他地區之間的網路連線在五條海底網路電纜中的三條之後再次下降6 月15 日左右失敗並保持低迷狀態。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/vietnam_internet_cables/</guid>
       <pubDate>Tue, 18 Jun 2024 02:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 安全防禦在 95% 的時間裡被投機執行所破壞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</link>
-      <description><![CDATA[「TikTag」安全人員發現反漏洞利用機制相當脆弱 2018 年，晶片設計商Arm 推出了一項名為記憶體標記擴充(MTE) 的硬體安全功能，以防禦記憶體安全漏洞。但它可能不會像最初希望的那樣有效。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</guid>
-      <pubDate>Tue, 18 Jun 2024 01:11:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
