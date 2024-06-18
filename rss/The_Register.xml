@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 22:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 23:10:41 GMT</lastBuildDate>
     <item>
-      <title>歐盟試圖偷偷通過新的加密破壞法，遭到訊號和政治人物的猛烈抨擊</title>
+      <title>暗網頭目將「被盜」的 AMD 內部資料庫和原始碼出售</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amd_intelbroker_breachforums/</link>
+      <description><![CDATA[晶片設計師現在確實需要引入一些 Zen 在網路騙子出售據稱是從 AMD 竊取的內部資料後，AMD 的 IT 團隊今天無疑正在檢查其日誌。師。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amd_intelbroker_breachforums/</guid>
+      <pubDate>Tue, 18 Jun 2024 23:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>歐盟試圖偷偷通過新的加密侵蝕法，遭到訊號和政治人物的猛烈抨擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</link>
-      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童。]]></description>
+      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</guid>
       <pubDate>Tue, 18 Jun 2024 22:22:06 GMT</pubDate>
     </item>
@@ -29,21 +36,21 @@
     <item>
       <title>Google DeepMind 的最新模型承諾為人工智慧生成的視訊提供逼真的音訊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</link>
-      <description><![CDATA[推出之際，Runway、Pika、Kling 突破了機器想像影片的界限 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
+      <description><![CDATA[隨著 Runway、Pika 和 Kling 突破機器想像影片的界限而推出 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心的文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</guid>
       <pubDate>Tue, 18 Jun 2024 20:05:06 GMT</pubDate>
     </item>
     <item>
       <title>Mozilla 收購廣告公司 Anonym 有何進展？這都是關於“以隱私為中心的廣告”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</link>
-      <description><![CDATA[對於一個從不尊重人們意願的行業來說，這樣的事情可能發生嗎？並將此交易視為一種方式幫助線上廣告業在提供有效廣告的同時保護用戶隱私。]]></description>
+      <description><![CDATA[對於一個從不尊重人們意願的行業來說，這樣的事情可能嗎？並將此交易視為一種方式幫助線上廣告業在提供有效廣告的同時保護用戶隱私。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</guid>
       <pubDate>Tue, 18 Jun 2024 19:32:28 GMT</pubDate>
     </item>
     <item>
       <title>HPE 與 Nvidia 聯手提供「交鑰匙」私有雲機架，以將 AI 負載保持在本地</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</link>
-      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover  今年的HPE Discover 2024 的主題是透過與晶片巨擘Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
+      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover 今年的HPE Discover 2024 的主題是透過與晶片重量級Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</guid>
       <pubDate>Tue, 18 Jun 2024 16:33:14 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>CHERI 聯盟成立是為了推廣記憶體安全技術…但是 Arm 在哪裡？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</link>
-      <description><![CDATA[隨著關鍵推動者晶片設計者舔舐傷口，學術產業計畫邁出了下一步 一群技術組織成立了CHERI 聯盟CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
+      <description><![CDATA[隨著關鍵推動者晶片設計者舔舐傷口，學術產業項目邁出了下一步 一群技術組織成立了CHERI 聯盟CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</guid>
       <pubDate>Tue, 18 Jun 2024 15:04:12 GMT</pubDate>
     </item>
@@ -69,16 +76,16 @@
       <pubDate>Tue, 18 Jun 2024 14:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔終止對因 Change Healthcare 攻擊而受損的組織提供財務支持</title>
+      <title>山姆大叔終止了對因 Change Healthcare 攻擊而受到傷害的組織的財務支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/support_ends_change_healthcare/</link>
-      <description><![CDATA[提供了數十億美元，但最糟糕的情況似乎已經過去 美國政府正在逐步減少最初在2 月份Change Healthcare 遭受勒索軟體攻擊後向醫療保健提供者提供的財政支持。]]></description>
+      <description><![CDATA[提供了數十億美元，但最壞的情況似乎已經過去 美國政府正在逐步減少最初在2 月份Change Healthcare 遭受勒索軟體攻擊後向醫療保健提供者提供的財政支持。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/support_ends_change_healthcare/</guid>
       <pubDate>Tue, 18 Jun 2024 13:15:15 GMT</pubDate>
     </item>
     <item>
       <title>SUSE 為 CentOS 7 的抵制者提供了支持生命線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</link>
-      <description><![CDATA[Liberty Linux Lite 將在未來幾年內保持更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期...]]></description>
+      <description><![CDATA[Liberty Linux Lite 將在未來幾年內提​​供更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</guid>
       <pubDate>Tue, 18 Jun 2024 12:35:10 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>國際貨幣基金組織建議對人工智慧的 CO<sub>2</sub> 排放徵稅，但不對人工智慧本身徵稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</link>
-      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為電腦提供動力，許多人希望這能為我們做一些思考。]]></description>
+      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為計算機提供動力，許多人希望這能為我們做一些思考。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</guid>
       <pubDate>Tue, 18 Jun 2024 06:29:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[北京對生成式人工智慧的興趣有其局限性 中國網路巨頭騰訊提出了在其微信頻道服務上禁止人工智慧產生影片的想法，理由是它們是低品質的內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/</guid>
       <pubDate>Tue, 18 Jun 2024 05:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
-      <description><![CDATA[因為還不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 表示，它已經設計出一種方法，無需特殊設備甚至無需直接操作，即可在擴增實境應用中使3D 影像可見觀察...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
-      <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
