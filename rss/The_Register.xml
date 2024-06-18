@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 16:14:05 GMT</lastBuildDate>
+    <item>
+      <title>T-Mobile 因學校手機塔許可被拒絕將新澤西州行政區告上法庭</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</link>
+      <description><![CDATA[通訊機構稱「為孩子著想」並不是拒絕申請的合法理由 T-Mobile 正在將新澤西州瓦納克區告上法庭，原因是該行政區拒絕批准該公司的計劃建造一個手機訊號塔。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</guid>
+      <pubDate>Tue, 18 Jun 2024 16:05:10 GMT</pubDate>
+    </item>
     <item>
       <title>CHERI 聯盟成立是為了推廣記憶體安全技術…但是 Arm 在哪裡？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>SUSE 為 CentOS 7 的抵制者提供了支持生命線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</link>
-      <description><![CDATA[Liberty Linux Lite 將在未來幾年內保持更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期...]]></description>
+      <description><![CDATA[Liberty Linux Lite 將在未來幾年內提​​供更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</guid>
       <pubDate>Tue, 18 Jun 2024 12:35:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[平面設計巨頭因使用平面設計掩蓋條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管通過隱瞞其訂閱軟體的終止費用來欺騙藝術家...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</guid>
       <pubDate>Mon, 17 Jun 2024 19:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>麥當勞不喜歡與 IBM 進行人工智慧得來速實驗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/mcdonalds_ai_drivethru/</link>
-      <description><![CDATA[儘管麥當勞正在退出與 IBM 的合資企業，但未來自動語音訂購仍將出現在菜單上，該合資企業將人工智慧引入其部分得來速餐廳。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/mcdonalds_ai_drivethru/</guid>
-      <pubDate>Mon, 17 Jun 2024 19:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
