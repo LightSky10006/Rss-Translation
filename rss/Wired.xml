@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 08:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 09:12:12 GMT</lastBuildDate>
+    <item>
+      <title>我是勞拉·基普尼斯-博特，我會讓閱讀再次變得性感和悲慘</title>
+      <link>https://www.wired.com/story/i-am-laura-kipnis-bot-and-i-will-make-reading-sexy-and-tragic-again/</link>
+      <description><![CDATA[瑪格麗特·阿特伍德、馬龍·詹姆斯、莉娜·鄧納姆、羅克珊·蓋伊：我們都同意被一家名為 Rebind 的神秘公司變成人工智慧閱讀伴侶。我從內部報告。]]></description>
+      <guid>https://www.wired.com/story/i-am-laura-kipnis-bot-and-i-will-make-reading-sexy-and-tragic-again/</guid>
+      <pubDate>Tue, 18 Jun 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>加密貨幣詐騙者瞄準了川普的 MAGA 支持者</title>
       <link>https://www.wired.com/story/maga-crypto-scammers-donald-trump/</link>
@@ -69,16 +76,16 @@
       <pubDate>Mon, 17 Jun 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧正在為大型科技工作帶來機會——但方式並非你想像的那樣</title>
+      <title>人工智慧正在為大型科技工作帶來機會——但並非以你想像的方式</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
-      <description><![CDATA[公司還沒有用人工智慧取代工人。但他們在進一步技術創新的競賽中犧牲了數千個工作機會。]]></description>
+      <description><![CDATA[公司還沒有用人工智慧取代工人。但在技術進一步創新的競爭中，他們正在犧牲數千個工作機會。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>駭客詳細介紹了他們如何從 Snowflake 竊取 Ticketmaster 數據</title>
       <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
-      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了 Ticketmaster 的 Snowflake 雲端帳戶和其他帳戶的存取權限。]]></description>
+      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了對 Ticketmaster 的 Snowflake 雲端帳戶以及其他帳戶的存取權限。]]></description>
       <guid>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</guid>
       <pubDate>Mon, 17 Jun 2024 09:30:00 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Sun, 16 Jun 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過數月夜間測試後我們發現的 14 個最佳枕頭（2024 年）</title>
+      <title>經過幾個月的夜間測試，我們發現了 14 個最好的枕頭（2024 年）</title>
       <link>https://www.wired.com/gallery/best-pillows/</link>
       <description><![CDATA[我們花了幾個月的時間睡在各種枕頭上，以找到適合您頭部的支撐，無論您是側睡、仰睡還是在毯子裡睡覺。]]></description>
       <guid>https://www.wired.com/gallery/best-pillows/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[在這種常見的電子郵件詐騙中，犯罪分子會冒充您的老闆或同事向您發送電子郵件，尋求涉及金錢的幫助。當壞人進入您的收件匣時，請執行以下操作。]]></description>
       <guid>https://www.wired.com/story/how-to-spot-business-email-compromise-scam/</guid>
       <pubDate>Sun, 16 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基於光的晶片可以幫助 Slake AI 日益增長的能源需求</title>
-      <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
-      <description><![CDATA[光學神經網路使用光子而不是電子，比傳統系統具有優勢。他們還面臨重大障礙。]]></description>
-      <guid>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</guid>
-      <pubDate>Sun, 16 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
