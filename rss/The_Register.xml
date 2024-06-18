@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 14:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 15:11:48 GMT</lastBuildDate>
+    <item>
+      <title>CHERI 聯盟成立是為了推廣記憶體安全技術…但是 Arm 在哪裡？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</link>
+      <description><![CDATA[隨著關鍵推動者晶片設計者舔舐傷口，學術產業計畫邁出了下一步 一群技術組織成立了CHERI 聯盟CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</guid>
+      <pubDate>Tue, 18 Jun 2024 15:04:12 GMT</pubDate>
+    </item>
     <item>
       <title>研究人員發現 Meta 撤回錯誤訊息工具令人難以接受</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/metas_decision_to_withdraw_misinformation/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
-      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
+      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至無需直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
       <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 18 Jun 2024 02:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 安全防禦在 95% 的情況下會因投機執行而崩潰</title>
+      <title>Arm 安全防禦在 95% 的時間裡被投機執行所破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</link>
       <description><![CDATA[「TikTag」安全人員發現反漏洞利用機制相當脆弱 2018 年，晶片設計商Arm 推出了一項名為記憶體標記擴充(MTE) 的硬體安全功能，以防禦記憶體安全漏洞。但它可能不會像最初希望的那樣有效。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</guid>
@@ -125,9 +132,9 @@
       <pubDate>Mon, 17 Jun 2024 20:13:02 GMT</pubDate>
     </item>
     <item>
-      <title>聯準會起訴 Adob​​e 及其高管，稱其透過「隱藏」取消費用來欺騙訂閱者</title>
+      <title>聯準會起訴 Adob​​e 及其高層透過「隱藏」取消費用來欺騙訂閱者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</link>
-      <description><![CDATA[平面設計巨頭因使用平面設計掩蓋條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管通過隱瞞其訂閱軟體的終止費用來欺騙藝術家...]]></description>
+      <description><![CDATA[平面設計巨頭因使用平面設計埋葬條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管隱瞞其訂閱軟體的終止費用，從而欺騙了藝術家...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</guid>
       <pubDate>Mon, 17 Jun 2024 19:44:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[儘管麥當勞正在退出與 IBM 的合資企業，但未來自動語音訂購仍將出現在選單上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/mcdonalds_ai_drivethru/</guid>
       <pubDate>Mon, 17 Jun 2024 19:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>不當終止訴訟指控 Neuralink 從事感染 B 型皰疹的猴子業務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/neuralink_monkey_attack_lawsuit/</link>
-      <description><![CDATA[被迫吃午餐、遭到攜帶病毒的靈長類動物襲擊、據稱因懷孕而被解僱 又一周，埃隆·馬斯克旗下的一家公司又提起訴訟，這起訴訟是由前Neuralink 提起的員工聲稱她被攜帶 B 型皰疹病毒的實驗室猴子抓傷兩次，這種病毒對人類可能致命。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/neuralink_monkey_attack_lawsuit/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
