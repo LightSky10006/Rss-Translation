@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 02:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 04:13:36 GMT</lastBuildDate>
+    <item>
+      <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
+      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
+      <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
+    </item>
     <item>
       <title>五條海底電纜中的三條癱瘓，越南網路再次陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/vietnam_internet_cables/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[健康俱樂部連鎖店在選擇密碼日前往水療中心 獨家 一位網路安全研究人員聲稱英國健康俱樂部和健身連鎖店Total Fitness 未能履行其資料保護責任，未能鎖定充滿會員個人資料的資料庫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/uks_total_fitness_exposed_nearly/</guid>
       <pubDate>Mon, 17 Jun 2024 10:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>近 20% 正在運行的 Microsoft SQL Server 已終止支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/outdated_sql_server/</link>
-      <description><![CDATA[運行伺服器的米色盒子很容易被遺忘......直到出現問題 獨家 IT 資產管理平台Lansweeper 已向各地的企業管理員發出警告。您的業務所依賴的 Microsoft SQL Server 到底有多久了？ ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/outdated_sql_server/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
