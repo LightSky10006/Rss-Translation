@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 10:37:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 11:10:19 GMT</lastBuildDate>
+    <item>
+      <title>Airbnb 進軍奧運可望贏得巴黎青睞</title>
+      <link>https://www.wired.com/story/airbnbs-olympics-push-paris/</link>
+      <description><![CDATA[近年來，巴黎官員對 Airbnb 租賃實施了嚴格的新限制。該公司正在利用奧運會來嘗試贏得當地人的支持，並擴大其在這座標誌性城市的足跡。]]></description>
+      <guid>https://www.wired.com/story/airbnbs-olympics-push-paris/</guid>
+      <pubDate>Tue, 18 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ISIS 製作假 CNN 和半島電視台廣播</title>
       <link>https://www.wired.com/story/isis-created-fake-cnn-and-al-jazeera-broadcasts/</link>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 17 Jun 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧正在為大型科技工作帶來機會——但方式並非你想像的那樣</title>
+      <title>人工智慧正在為大型科技工作帶來機會——但並非以你想像的方式</title>
       <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
       <description><![CDATA[公司還沒有用人工智慧取代工人。但他們在進一步技術創新的競賽中犧牲了數千個工作機會。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>駭客詳細介紹了他們如何從 Snowflake 竊取 Ticketmaster 數據</title>
       <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
-      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了 Ticketmaster 的 Snowflake 雲端帳戶和其他帳戶的存取權限。]]></description>
+      <description><![CDATA[一名 ShinyHunters 駭客告訴《連線》雜誌，他們首先入侵了第三方承包商，從而獲得了對 Ticketmaster 的 Snowflake 雲端帳戶以及其他帳戶的存取權限。]]></description>
       <guid>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</guid>
       <pubDate>Mon, 17 Jun 2024 09:30:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您應該購買哪種底片相機？哪些電影最好？我們揭開了模擬攝影世界的神秘面紗，幫助您入門。]]></description>
       <guid>https://www.wired.com/story/film-photography-beginners-guide/</guid>
       <pubDate>Sun, 16 Jun 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過數月夜間測試後我們發現的 14 個最佳枕頭（2024 年）</title>
-      <link>https://www.wired.com/gallery/best-pillows/</link>
-      <description><![CDATA[我們花了幾個月的時間睡在各種枕頭上，以找到適合您頭部的支撐，無論您是側睡、仰睡還是在毯子裡睡覺。]]></description>
-      <guid>https://www.wired.com/gallery/best-pillows/</guid>
-      <pubDate>Sun, 16 Jun 2024 13:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
