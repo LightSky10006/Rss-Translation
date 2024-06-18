@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 00:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 01:57:52 GMT</lastBuildDate>
+    <item>
+      <title>Arm 安全防禦在 95% 的時間裡被投機執行所破壞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</link>
+      <description><![CDATA[「TikTag」安全人員發現反漏洞利用機制相當脆弱 2018 年，晶片設計商Arm 推出了一項名為記憶體標記擴充(MTE) 的硬體安全功能，以防禦記憶體安全漏洞。但它可能不會像最初希望的那樣有效。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/arm_memory_tag_extensions_leak/</guid>
+      <pubDate>Tue, 18 Jun 2024 01:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>普華永道分拆公司和 NMA 與山姆大叔達成和解，資安品質低劣導致其損失 1,130 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/guidehouse_nma_fined/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您知道他們對以問號結尾的標題有何看法 意見 人工智慧 – 響亮、自信，但錯誤。這並不是談論生成人工智慧產生幻覺的能力，儘管為什麼不呢？相反，它是關於大局、微軟的全平台召回以及天哪，Apple Intelligence。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/opinion_platformwide_ai_security/</guid>
       <pubDate>Mon, 17 Jun 2024 08:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>技術人員在警察局被毆打後安裝了“用戶態度調整工具”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/who_me/</link>
-      <description><![CDATA[衡量兩次，永遠不要相信 誰，我？  再次歡迎，溫柔的讀者，來到我們稱之為「誰」的監管&lt; /em&gt;的角落，我？每個星期一早上，我們都會分享讀者提交的技術支援不太正確的故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/who_me/</guid>
-      <pubDate>Mon, 17 Jun 2024 07:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
