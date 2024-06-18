@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 06:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:39:01 GMT</lastBuildDate>
+    <item>
+      <title>國際貨幣基金組織建議對人工智慧的 CO<sub>2</sub> 排放徵稅，但不對人工智慧本身徵稅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</link>
+      <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為電腦提供動力，許多人希望這能為我們做一些思考。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</guid>
+      <pubDate>Tue, 18 Jun 2024 06:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>VMware by Broadcom 警告存在兩個嚴重的 vCenter 缺陷以及一個令人討厭的 sudo 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/vmware_criticial_vcenter_flaws/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[一切都很好，儘管 Recall 放火燒了蓋茲建造的房子 就這樣，Windows 11 24H2 回來了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/windows_11_24h2/</guid>
       <pubDate>Mon, 17 Jun 2024 12:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿斯達 IT 員工因與沃爾瑪的混亂技術離婚而調往 TCS</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</link>
-      <description><![CDATA[隨著SAP 遷移進入關鍵階段，基礎設施團隊「密切關注」 獨家  Asda 正在將100 多名內部IT 員工轉移到印度外包公司TCS，因為該公司致力於在年底前按時擺脫前任所有者沃爾瑪支持的 IT 系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/asda_tupe_tcs/</guid>
-      <pubDate>Mon, 17 Jun 2024 12:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
