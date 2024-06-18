@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 16:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 16:39:06 GMT</lastBuildDate>
     <item>
-      <title>T-Mobile 因學校手機塔許可被拒絕將新澤西州行政區告上法庭</title>
+      <title>HPE 與 Nvidia 聯手提供「交鑰匙」私有雲機架，以將 AI 負載保持在本地</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</link>
+      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover 今年的HPE Discover 2024 的主題是透過與晶片重量級Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</guid>
+      <pubDate>Tue, 18 Jun 2024 16:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-Mobile 美國公司因學校手機塔許可被拒絕而將新澤西州行政區告上法庭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</link>
-      <description><![CDATA[通訊機構稱「為孩子著想」並不是拒絕申請的合法理由 T-Mobile 正在將新澤西州瓦納克區告上法庭，原因是該行政區拒絕批准該公司的計劃建造一個手機訊號塔。]]></description>
+      <description><![CDATA[通訊公司稱「為孩子著想」並不是拒絕申請的合法理由 T-Mobile US 因拒絕批准該公司的計劃而將新澤西州瓦納克區告上法庭建造一個手機信號塔。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</guid>
       <pubDate>Tue, 18 Jun 2024 16:05:10 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>NTT 使用分散的顯示器來欺騙您的大腦看到 3D 影像</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</link>
-      <description><![CDATA[因為並不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 設計了一種技術，無需特殊設備甚至無需直接觀察即可在擴增實境應用中看到3D 影像。]]></description>
+      <description><![CDATA[因為還不是每個人都戴著擴增實境護目鏡 日本IT 服務和電信巨頭NTT Corporation 表示，它已經設計出一種方法，無需特殊設備甚至直接即可在擴增實境應用中使3D 影像可見觀察...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ntt_3d_images_display_illusion/</guid>
       <pubDate>Tue, 18 Jun 2024 03:36:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路犯罪超級市場的 Dopenugget 和Zero Angel 如果被定罪，可能會面臨終身監禁 這兩名被指控為帝國市場管理員的人，帝國市場是一個暗網集市，兜售毒品、惡意軟體、數位詐欺和其他非法活動東西，因與擁有和經營非法露天市場有關的指控而被拘留。 /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/empire_market_arrests/</guid>
       <pubDate>Mon, 17 Jun 2024 20:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯準會起訴 Adob​​e 及其高層透過「隱藏」取消費用來欺騙訂閱者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</link>
-      <description><![CDATA[平面設計巨頭因使用平面設計掩蓋條款和條件而受到猛烈抨擊 聯邦貿易委員會已在聯邦法院起訴AdAdobe，指控Photoshop 巨頭及其兩名高管通過隱瞞其訂閱軟體的終止費用來欺騙藝術家...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/17/adobe_sued_cancel_fees/</guid>
-      <pubDate>Mon, 17 Jun 2024 19:44:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
