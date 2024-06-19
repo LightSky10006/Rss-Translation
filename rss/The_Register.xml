@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 03:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 05:37:33 GMT</lastBuildDate>
+    <item>
+      <title>日本工業科學技術研究所計畫研發兩台量子電腦和一台英偉達注入</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
+      <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入到其中其現有的超級電腦之一......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</guid>
+      <pubDate>Wed, 19 Jun 2024 05:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[僅僅因為你絕對可以意味著你應該 Raspberry Pi 長期以來一直受到復古計算愛好者的歡迎，其微控制器- RP2040 - 也可用於各種仿真目的，現在包括最初的Apple Macintosh 128K....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/apples_macintosh_128k_on_a_pico/</guid>
       <pubDate>Tue, 18 Jun 2024 09:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ada 和 Zangemann：想為您的孩子讀一本關於 FOSS 的書嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ada_and_zangemann/</link>
-      <description><![CDATA[並不是每個科技會議都有故事閱讀會…但也許他們應該 Devconf.cz 歐洲自由軟體基金會主席Matthias Kirshner 的繪本Ada 和Zangemann 向學童、經理、行銷人員以及 Windows 引發的斯德哥爾摩症候群受害者解釋了 FOSS 的概念。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ada_and_zangemann/</guid>
-      <pubDate>Tue, 18 Jun 2024 08:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
