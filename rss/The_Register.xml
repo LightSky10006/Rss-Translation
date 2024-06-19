@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 12:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 12:51:48 GMT</lastBuildDate>
+    <item>
+      <title>微軟承認將 Windows 11 專業版升級到企業版有問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/problems_upgrading_win_11_pro/</link>
+      <description><![CDATA[最近的修補程式破壞了更新路徑 微軟最近幾次 Windows 11 更新存在問題，導致一些用戶無法從 Windows 11 專業版遷移到企業版。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/problems_upgrading_win_11_pro/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>奈傑爾法拉奇炸毀里希蘇納克的《我的世界》豪宅的視頻“不真實”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/farage_minecraft/</link>
+      <description><![CDATA[向《衛報》致敬，進行雙重檢查 在網路惡作劇者發布了改革英國領導人奈傑爾法拉奇 (Nigel Farage) 的深度偽造品後，英國民主岌岌可危。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/farage_minecraft/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>調查顯示，由於科技幾乎不會影響就業，GenAI 的熱度比商業還高</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/genai_workplace/</link>
@@ -55,23 +69,23 @@
       <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本工業科學技術研究所計畫研發兩台量子電腦和一台英偉達注入</title>
+      <title>日本工業科學技術研究所計畫開發兩台量子電腦和一台英偉達注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
-      <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入到其中其現有的超級電腦之一......]]></description>
+      <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入其中其現有的超級電腦之一......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</guid>
       <pubDate>Wed, 19 Jun 2024 05:16:05 GMT</pubDate>
     </item>
     <item>
       <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
-      <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
+      <description><![CDATA[客戶對雙子網域或高級許可證的需求不感興趣 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
       <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
     </item>
     <item>
       <title>HPE推出虛擬化解決方案，表示完全不針對脾氣暴躁的VMware客戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</link>
-      <description><![CDATA[它是對Virtzilla 的補充，並且將避免Broadcom 許可變更中有爭議的方面 HPE Discover 人工智能可能是今年HPE Discover gabfest 上大多數公告的焦點–因為現在是2024 年，但這位矽谷老手也藉此機會用自己的虛擬化產品挑戰Broadcom 的VMware。 _whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[它是對Virtzilla 的補充，並且將避免Broadcom 許可變更中有爭議的方面 HPE Discover 人工智能可能是今年HPE Discover gabfest 上大多數公告的焦點–因為現在是2024 年，但這位矽谷老手也藉此機會用自己的虛擬化產品來挑戰Broadcom 的VMware。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</guid>
       <pubDate>Wed, 19 Jun 2024 01:58:14 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
     <item>
       <title>歐盟試圖偷偷通過新的加密侵蝕法，遭到訊號和政治人物的猛烈抨擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</link>
-      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童。]]></description>
+      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</guid>
       <pubDate>Tue, 18 Jun 2024 22:22:06 GMT</pubDate>
     </item>
@@ -120,30 +134,16 @@
     <item>
       <title>Google DeepMind 的最新模型承諾為人工智慧生成的視訊提供逼真的音訊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</link>
-      <description><![CDATA[推出之際，Runway、Pika、Kling 突破了機器想像影片的界限 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
+      <description><![CDATA[隨著 Runway、Pika 和 Kling 突破機器想像影片的界限而推出 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心的文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</guid>
       <pubDate>Tue, 18 Jun 2024 20:05:06 GMT</pubDate>
     </item>
     <item>
       <title>Mozilla 收購廣告公司 Anonym 有何進展？這都是關於“以隱私為中心的廣告”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</link>
-      <description><![CDATA[對於一個從不尊重人們意願的行業來說，這樣的事情可能發生嗎？並將此交易視為一種方式幫助線上廣告業在提供有效廣告的同時保護用戶隱私。]]></description>
+      <description><![CDATA[對於一個從不尊重人們意願的行業來說，這樣的事情可能嗎？並將此交易視為一種方式幫助線上廣告業在提供有效廣告的同時保護用戶隱私。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</guid>
       <pubDate>Tue, 18 Jun 2024 19:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE 與 Nvidia 聯手提供「交鑰匙」私有雲機架，以將 AI 負載保持在本地</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</link>
-      <description><![CDATA[每個人都想與黃仁勳的GPU 巨頭成為最好的伙伴 HPE Discover  今年的HPE Discover 2024 的主題是透過與晶片巨擘Nvidia 擴大合作夥伴關係開發的AI 硬體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/hpe_nvidia_private_ai/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile 美國公司因學校手機塔許可被拒絕而將新澤西州行政區告上法庭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</link>
-      <description><![CDATA[通訊公司稱「為孩子著想」並不是拒絕申請的合法理由 T-Mobile US 因拒絕批准該公司的計劃而將新澤西州瓦納克區告上法庭建造一個手機信號塔。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tmobile_lawsuit_rf/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:05:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
