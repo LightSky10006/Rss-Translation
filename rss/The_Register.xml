@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 02:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 03:35:33 GMT</lastBuildDate>
+    <item>
+      <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
+      <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
+      <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>HPE推出虛擬化解決方案，表示完全不針對脾氣暴躁的VMware客戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[並不是每個科技會議都有故事閱讀會…但也許他們應該 Devconf.cz 歐洲自由軟體基金會主席Matthias Kirshner 的繪本Ada 和Zangemann 向學童、經理、行銷人員以及 Windows 引發的斯德哥爾摩症候群受害者解釋了 FOSS 的概念。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/ada_and_zangemann/</guid>
       <pubDate>Tue, 18 Jun 2024 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型固態電池可望在袖珍小玩意中發揮重要作用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tdk_solid_state_battery/</link>
-      <description><![CDATA[TDK 技術被設想為紐扣電池的繼任者- 如果它如承諾的那樣工作 日本TDK 公司聲稱其新型固態電池設計的能量密度是其以前產品的一百倍。 .. ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tdk_solid_state_battery/</guid>
-      <pubDate>Tue, 18 Jun 2024 07:26:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
