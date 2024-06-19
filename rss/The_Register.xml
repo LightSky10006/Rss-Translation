@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 10:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 11:34:23 GMT</lastBuildDate>
+    <item>
+      <title>Proxmox、XCP-ng 上的 GPU 加速虛擬機器？這是你需要知道的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/proxmox_xcp_ng_gpu_passthrough/</link>
+      <description><![CDATA[來吧，把舊遊戲卡扔進你的伺服器- 你知道你想要 動手 Broadcom 對VMware 的收購讓許多人爭先恐後地尋找替代品。 ... p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/proxmox_xcp_ng_gpu_passthrough/</guid>
+      <pubDate>Wed, 19 Jun 2024 11:13:10 GMT</pubDate>
+    </item>
     <item>
       <title>自動駕駛汽車在陽光下更安全，黃昏時則是另一回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/autonomous_driving_dim_conditions/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著關鍵推動者晶片設計者舔舐傷口，學術產業項目邁出了下一步 一群技術組織成立了CHERI 聯盟CIC（社區利益公司），以促進行業採用重點關注的安全技術關於記憶體存取......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cheri_alliance_formed_to_promote/</guid>
       <pubDate>Tue, 18 Jun 2024 15:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員發現 Meta 撤回錯誤訊息工具令人難以接受</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/metas_decision_to_withdraw_misinformation/</link>
-      <description><![CDATA[如果新系統這麼好，為什麼不讓所有訪問舊系統的人都加入進來呢？正式訴訟批評其監控社交媒體平台上的錯誤訊息的規定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/metas_decision_to_withdraw_misinformation/</guid>
-      <pubDate>Tue, 18 Jun 2024 14:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
