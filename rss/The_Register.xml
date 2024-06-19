@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 06:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 06:39:02 GMT</lastBuildDate>
+    <item>
+      <title>香港當局製止涉嫌走私者轉移 596 顆「高端」CPU</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hong_kong_cpu_smuggler_busted/</link>
+      <description><![CDATA[圖像表明它們可能是最新的英特爾至強處理器- 甚至可能是受到製裁的那種套件 香港海關週一透露，它截獲了596 個CPU，據稱走私者正試圖將這些CPU 運入中國…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hong_kong_cpu_smuggler_busted/</guid>
+      <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
+    </item>
     <item>
       <title>日本工業科學技術研究所計畫開發兩台量子電腦和一台英偉達注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[擔心「MergeCo」會掠奪不成比例的頻譜 英國競爭監管機構已發布對其對沃達豐和三大行動網路擬議合併的調查的回應，而不是歡迎此舉將促進競爭，擔心會產生相反的效果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cma_vodafone_three_responses/</guid>
       <pubDate>Tue, 18 Jun 2024 10:31:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>搭載 Pi Pico 的 Apple Macintosh 128K 獲得厄普頓的好評</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/apples_macintosh_128k_on_a_pico/</link>
-      <description><![CDATA[僅僅因為你絕對可以意味著你應該 Raspberry Pi 長期以來一直受到復古計算愛好者的歡迎，其微控制器- RP2040 - 也可用於各種仿真目的，現在包括最初的Apple Macintosh 128K....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/apples_macintosh_128k_on_a_pico/</guid>
-      <pubDate>Tue, 18 Jun 2024 09:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
