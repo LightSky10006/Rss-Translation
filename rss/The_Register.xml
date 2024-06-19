@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 07:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 09:14:01 GMT</lastBuildDate>
+    <item>
+      <title>Supermicro 計劃用液冷資料中心技術湧入市場</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/supermicro_liquid_cooled_facilities/</link>
+      <description><![CDATA[正在建造三個新的矽谷園區以滿足需求 美超微正在規劃更多設施，以滿足對液冷資料中心基礎設施不斷增長的需求，並將專注於向客戶提供整個即插即用安裝...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/supermicro_liquid_cooled_facilities/</guid>
+      <pubDate>Wed, 19 Jun 2024 08:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>針對根憑證「問題」的 PowerShell「修復」是偽裝的惡意軟體載入程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/powershell_fix_malware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Liberty Linux Lite 將在未來幾年內提​​供更新...但需付費 SUSE 推出了Liberty Linux Lite 解決方案，旨在吸引面臨即將到來的6 月30 日終止的CentOS 7 管理員 -支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/centos_7_suse_support/</guid>
       <pubDate>Tue, 18 Jun 2024 12:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHS 老闆表示蘇格蘭信託機構不會為網路攻擊者提供他們想要的東西</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/nhs_dumfries_and_galloway_letter/</link>
-      <description><![CDATA[鄧弗里斯和加洛韋執行長承認大約15 萬人應該假設自己的詳細資料外洩 NHS 鄧弗里斯和加洛韋執行長將寫信給蘇格蘭地區數千名資料被犯罪分子竊取的人，承認他們的資訊被洩露在信託機構沒有屈服於不法分子的要求後，其中大部分內容被發布。 #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/nhs_dumfries_and_galloway_letter/</guid>
-      <pubDate>Tue, 18 Jun 2024 11:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
