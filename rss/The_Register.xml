@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 13:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 13:34:03 GMT</lastBuildDate>
+    <item>
+      <title>英國監管機構正嚴厲打擊 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</link>
+      <description><![CDATA[在合併調查開始時邀請競爭對手和客戶發表評論 英國競爭監管機構經常對美國科技高管進行批評，但現在卻有了新的潛在目標：HPE 擬以140 億美元收購瞻博網路網路。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</guid>
+      <pubDate>Wed, 19 Jun 2024 13:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>Amtrak 確認騙子正在侵入用戶帳戶、破壞電子郵件地址</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/amtrak_has_had_another_breach/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿安迪，你喜歡他們這些大蘋果嗎？週二的卡車司機兄弟會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amazon_union_teamsters/</guid>
       <pubDate>Tue, 18 Jun 2024 20:42:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 的最新模型承諾為人工智慧生成的視訊提供逼真的音訊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</link>
-      <description><![CDATA[隨著 Runway、Pika 和 Kling 突破機器想像影片的界限而推出 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心的文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</guid>
-      <pubDate>Tue, 18 Jun 2024 20:05:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
