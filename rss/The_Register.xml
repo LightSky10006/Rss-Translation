@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 12:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 13:14:06 GMT</lastBuildDate>
+    <item>
+      <title>Amtrak 確認騙子正在侵入用戶帳戶、破壞電子郵件地址</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/amtrak_has_had_another_breach/</link>
+      <description><![CDATA[鐵路公司全力以赴，向Rewards 客戶發出有關洩露卡詳細信息等的通知信 美國鐵路公司Amtrak 正在致函其Guest Rewards 計劃的用戶，告知他們他們的數據可能會被洩漏。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/amtrak_has_had_another_breach/</guid>
+      <pubDate>Wed, 19 Jun 2024 13:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>微軟承認將 Windows 11 專業版升級到企業版有問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/problems_upgrading_win_11_pro/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著 Runway、Pika 和 Kling 突破機器想像影片的界限而推出 影片 生成式 AI 技術的主流採用在很大程度上以創作為中心的文字和圖像。但是，事實證明，這些模型所基於的統計機率在生成各種其他媒體方面同樣出色。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/google_deepmind_video/</guid>
       <pubDate>Tue, 18 Jun 2024 20:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 收購廣告公司 Anonym 有何進展？這都是關於“以隱私為中心的廣告”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</link>
-      <description><![CDATA[對於一個從不尊重人們意願的行業來說，這樣的事情可能嗎？並將此交易視為一種方式幫助線上廣告業在提供有效廣告的同時保護用戶隱私。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/</guid>
-      <pubDate>Tue, 18 Jun 2024 19:32:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
