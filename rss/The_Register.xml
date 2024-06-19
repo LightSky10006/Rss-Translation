@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 06:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 07:34:39 GMT</lastBuildDate>
+    <item>
+      <title>針對根憑證「問題」的 PowerShell「修復」是偽裝的惡意軟體載入程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/powershell_fix_malware/</link>
+      <description><![CDATA[Control-C、Control-V、Enter ...地獄 狡猾的犯罪分子正在針對世界各地的數千個組織進行社會工程攻擊，這些攻擊使用虛假錯誤訊息來誘騙用戶執行惡意PowerShell腳本。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/powershell_fix_malware/</guid>
+      <pubDate>Wed, 19 Jun 2024 07:27:28 GMT</pubDate>
+    </item>
     <item>
       <title>香港當局製止涉嫌走私者轉移 596 顆「高端」CPU</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hong_kong_cpu_smuggler_busted/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[鄧弗里斯和加洛韋執行長承認大約15 萬人應該假設自己的詳細資料外洩 NHS 鄧弗里斯和加洛韋執行長將寫信給蘇格蘭地區數千名資料被犯罪分子竊取的人，承認他們的資訊被洩露在信託機構沒有屈服於不法分子的要求後，其中大部分內容被發布。 #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/nhs_dumfries_and_galloway_letter/</guid>
       <pubDate>Tue, 18 Jun 2024 11:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國電信公開反對沃達豐和 Three 的行動聯姻計劃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cma_vodafone_three_responses/</link>
-      <description><![CDATA[擔心「MergeCo」會掠奪不成比例的頻譜 英國競爭監管機構已發布對其對沃達豐和三大行動網路擬議合併的調查的回應，而不是歡迎此舉將促進競爭，擔心會產生相反的效果。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/cma_vodafone_three_responses/</guid>
-      <pubDate>Tue, 18 Jun 2024 10:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
