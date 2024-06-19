@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 18 Jun 2024 23:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:49:07 GMT</lastBuildDate>
+    <item>
+      <title>世界頂級人工智慧聊天機器人毫無疑問地模仿俄羅斯虛假訊息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/ai_chatbots_disinformation/</link>
+      <description><![CDATA[研究發現他們在30% 的時間裡採納普丁推動者的觀點 媒體分析機構NewsGuard 對十位頂級人工智慧開發人員的聊天機器人進行了測試，發現他們都願意向俄羅斯人們發布假訊息不同程度...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/ai_chatbots_disinformation/</guid>
+      <pubDate>Wed, 19 Jun 2024 00:35:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>流氓大學 IT 總監在詐欺購買 210 萬美元技術後認罪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/rogue_it_director_pleads_guilty/</link>
+      <description><![CDATA[十年如一日，罰款25 萬美元，或者兩者兼而有之，這將是一次相當大的教育 一位現任前IT 主管承認詐騙他所受僱的大學和一台電腦設備。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/rogue_it_director_pleads_guilty/</guid>
+      <pubDate>Tue, 18 Jun 2024 23:46:11 GMT</pubDate>
+    </item>
     <item>
       <title>暗網頭目將「被盜」的 AMD 內部資料庫和原始碼出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amd_intelbroker_breachforums/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>亞馬遜工會以壓倒性票數與紐約卡車司機聯手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amazon_union_teamsters/</link>
-      <description><![CDATA[嘿安迪，你喜歡他們大蘋果嗎？週二的卡車司機......]]></description>
+      <description><![CDATA[嘿安迪，你喜歡他們這些大蘋果嗎？週二的卡車司機兄弟會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/amazon_union_teamsters/</guid>
       <pubDate>Tue, 18 Jun 2024 20:42:08 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[害怕…非常害怕：金融專家認為，人工智慧也可能徹底改變稅收本身 國際貨幣基金組織提出了一種減輕人工智慧影響的方法：對所產生的二氧化碳排放徵稅產生大量能量來為計算機提供動力，許多人希望這能為我們做一些思考。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/imf_ai_fiscal_policy_suggestions/</guid>
       <pubDate>Tue, 18 Jun 2024 06:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>VMware by Broadcom 警告存在兩個嚴重的 vCenter 缺陷以及一個令人討厭的 sudo 錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/vmware_criticial_vcenter_flaws/</link>
-      <description><![CDATA[特製的網路封包可能允許遠端執行程式碼和存取虛擬機器群 Broadcom 的VMware 揭露了vCenter Server 中的兩個嚴重缺陷，vCenter Server 是用於管理虛擬機器和主機的工具。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/vmware_criticial_vcenter_flaws/</guid>
-      <pubDate>Tue, 18 Jun 2024 06:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>騰訊考慮禁止在其旗艦視訊服務上播放由「虛擬人」主持的電視廣告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/</link>
-      <description><![CDATA[北京對生成式人工智慧的興趣有其局限性 中國網路巨頭騰訊提出了在其微信頻道服務上禁止人工智慧產生影片的想法，理由是它們是低品質的內容。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/wechat_avatar_ban_policy_proposal/</guid>
-      <pubDate>Tue, 18 Jun 2024 05:25:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
