@@ -4,25 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 16:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 17:11:00 GMT</lastBuildDate>
     <item>
       <title>高通同意支付 7,500 萬美元全現金交易以和解許可訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/qualcomm_to_pay_75m_to/</link>
-      <description><![CDATA[法官要求就 SEP 許可和捆綁索賠向股東支付款項 高通投資者表示，如果該公司支付 7500 萬美元，這應該會解決他們因半導體公司誤導他們而提起的訴訟將其晶片銷售和技術授權業務描述為單獨的問題，並聲稱其人為抬高了股價。]]></description>
+      <description><![CDATA[法官要求就SEP 許可和捆綁索賠向股東支付款項 高通投資者表示，如果該公司支付7500 萬美元，這應該會解決他們因芯片製造商通過描述誤導他們而提起的訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/qualcomm_to_pay_75m_to/</guid>
       <pubDate>Wed, 19 Jun 2024 16:35:12 GMT</pubDate>
     </item>
     <item>
       <title>Valkey 隨著支持者範圍的擴大而勢頭強勁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/valkey_picks_up_more_partners/</link>
-      <description><![CDATA[AlmaLinux 和 Broadcom 添加到開源 Redis 分支的合作夥伴列表 隨著 Broadcom、AlmaLinux OS Foundation 和 NetApp 的 Instaclustr 等新合作夥伴的宣布，開源 Redis 替代品 Valkey 背後的勢頭正在增強...]]></description>
+      <description><![CDATA[AlmaLinux 和Broadcom 新增至開源Redis 分支的合作夥伴清單 隨著Broadcom、AlmaLinux OS Foundation 和NetApp 的Instaclustr 等新支持者的確認，開源Redis 替代品Valkey 背後的勢頭正在增強。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/valkey_picks_up_more_partners/</guid>
       <pubDate>Wed, 19 Jun 2024 15:34:08 GMT</pubDate>
     </item>
     <item>
       <title>衛星電話服務可能很快就會成為常態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</link>
-      <description><![CDATA[美國三大行動營運商均已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而非利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
+      <description><![CDATA[美國三大行動電信商都已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而不是一種利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</guid>
       <pubDate>Wed, 19 Jun 2024 14:30:14 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 19 Jun 2024 14:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國監管機構正嚴厲打擊 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
+      <title>英國監管機構正在審查 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</link>
       <description><![CDATA[在合併調查開始時邀請競爭對手和客戶發表評論 英國競爭監管機構經常對美國科技高管進行批評，但現在卻有了新的潛在目標：HPE 擬以140 億美元收購瞻博網路網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</guid>
@@ -111,7 +111,7 @@
       <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本工業科學技術研究所計畫開發兩台量子電腦和一台英偉達注入</title>
+      <title>日本工業科學技術研究所計劃引進兩台量子電腦和 Nvidia 注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
       <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入其中其現有的超級電腦之一......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
-      <description><![CDATA[客戶對雙子網域或高級許可證的需求不感興趣 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
+      <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
       <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Wed, 19 Jun 2024 01:58:14 GMT</pubDate>
     </item>
     <item>
-      <title>世界頂級人工智慧聊天機器人毫無疑問地模仿俄羅斯虛假訊息</title>
+      <title>世界頂級人工智慧聊天機器人毫無問題地模仿俄羅斯虛假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/ai_chatbots_disinformation/</link>
       <description><![CDATA[研究發現他們在30% 的時間裡採納普丁推動者的觀點 媒體分析機構NewsGuard 對十位頂級人工智慧開發人員的聊天機器人進行了測試，發現他們都願意向俄羅斯人們發布假訊息不同程度...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/ai_chatbots_disinformation/</guid>
