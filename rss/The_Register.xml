@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 19 Jun 2024 14:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 14:34:49 GMT</lastBuildDate>
+    <item>
+      <title>衛星電話服務可能很快就會成為常態</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</link>
+      <description><![CDATA[美國三大行動營運商均已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而非利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</guid>
+      <pubDate>Wed, 19 Jun 2024 14:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>波音車輛上的額外艙口操作 – 但這次是 Starliner</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/boeing_starliner_prepares_delay_iss/</link>
@@ -90,23 +97,23 @@
       <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本工業科學技術研究所計畫研發兩台量子電腦和一台英偉達注入</title>
+      <title>日本工業科學技術研究所計畫開發兩台量子電腦和一台英偉達注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
-      <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入到其中其現有的超級電腦之一......]]></description>
+      <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入其中其現有的超級電腦之一......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</guid>
       <pubDate>Wed, 19 Jun 2024 05:16:05 GMT</pubDate>
     </item>
     <item>
       <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
-      <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
+      <description><![CDATA[客戶對雙子網域或高級許可證的需求不感興趣 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
       <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
     </item>
     <item>
       <title>HPE推出虛擬化解決方案，表示完全不針對脾氣暴躁的VMware客戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</link>
-      <description><![CDATA[它是對Virtzilla 的補充，並且將避免Broadcom 許可變更中有爭議的方面 HPE Discover 人工智能可能是今年HPE Discover gabfest 上大多數公告的焦點–因為現在是2024 年，但這位矽谷老手也藉此機會用自己的虛擬化產品挑戰Broadcom 的VMware。 _whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[它是對Virtzilla 的補充，並且將避免Broadcom 許可變更中有爭議的方面 HPE Discover 人工智能可能是今年HPE Discover gabfest 上大多數公告的焦點–因為現在是2024 年，但這位矽谷老手也藉此機會用自己的虛擬化產品來挑戰Broadcom 的VMware。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</guid>
       <pubDate>Wed, 19 Jun 2024 01:58:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>歐盟試圖偷偷通過新的加密侵蝕法，遭到訊號和政治人物的猛烈抨擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</link>
-      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童。]]></description>
+      <description><![CDATA[如果您將“客戶端掃描”稱為“上傳審核”，它仍然會損害隱私和安全 週四，歐盟理事會計劃對一項立法提案進行投票，該提案將試圖透過禁止機密通訊來保護線上兒童...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/signal_eu_upload_moderation/</guid>
       <pubDate>Tue, 18 Jun 2024 22:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電晶片廠建設因考古遺址被發現而暫停</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tsmc_cowos_delayed/</link>
-      <description><![CDATA[古老的廢墟建築？英特爾的安騰在台灣做什麼？ 台積電在台灣嘉義縣的先進晶片封裝工廠建設因發現「考古遺址」而遇到障礙。 --#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/18/tsmc_cowos_delayed/</guid>
-      <pubDate>Tue, 18 Jun 2024 21:35:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
