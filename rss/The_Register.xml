@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 03:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:11:10 GMT</lastBuildDate>
+    <item>
+      <title>韓國三星警告稱，許多應用程式無法在其搭載高通技術的 Copilot+ PC 上運行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/samsung_korea_copilot_plus_pc_compatability/</link>
+      <description><![CDATA[FWIW 微軟表示，即使在Arm 上進行模擬，「您的應用程式也能運作良好」 三星首次推出了運行高通處理器的Copilot+ PC，但警告韓國（似乎只有韓國）的買家，他們贏了無法運行許多常見應用程式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/samsung_korea_copilot_plus_pc_compatability/</guid>
+      <pubDate>Thu, 20 Jun 2024 05:02:25 GMT</pubDate>
+    </item>
     <item>
       <title>澳洲億萬富翁贏得在美國起訴 Facebook 詐騙廣告的權利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/andrew_forrest_meta_scam_ads_case/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
       <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE推出虛擬化解決方案，表示完全不針對脾氣暴躁的VMware客戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</link>
-      <description><![CDATA[它是對Virtzilla 的補充，並且將避免Broadcom 許可變更中有爭議的方面 HPE Discover 人工智能可能是今年HPE Discover gabfest 上大多數公告的焦點–因為現在是2024 年，但這位矽谷老手也藉此機會用自己的虛擬化產品來挑戰Broadcom 的VMware。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hpe_announces_virtualization_stack/</guid>
-      <pubDate>Wed, 19 Jun 2024 01:58:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
