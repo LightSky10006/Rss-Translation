@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 20:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 20:35:28 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克邀請戴爾、超微加入 xAI 超級電腦項目</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/musk_dell_supermicro_grok/</link>
+      <description><![CDATA[哦，麥克，你現在在做什麼 戴爾科技公司和Supermicro 已被確認為電腦製造商，為 Elon Musk 的xAI 新創公司構建基於Nvidia 的AI 超級電腦。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/musk_dell_supermicro_grok/</guid>
+      <pubDate>Thu, 20 Jun 2024 20:12:06 GMT</pubDate>
+    </item>
     <item>
       <title>IBM、Kyndryl 再次因年齡歧視提起訴訟——這次是由自己的副總裁提起</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/ibm_and_kyndryl_again_sued/</link>
@@ -27,9 +34,9 @@
       <pubDate>Thu, 20 Jun 2024 17:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>X 老闆 Elon Musk 試圖在廣告業會議上與公司搞好關係</title>
+      <title>X 老闆馬斯克在廣告業會議上試圖與世界和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/x_boss_elon_musk_ad_talk/</link>
-      <description><![CDATA[億萬富翁聲稱「去他媽的」評論只針對特定公司 就在七個月前，埃隆馬斯克對一位採訪者說：「如果有人要通過廣告勒索我，那就勒索我有錢，你自己去吧。]]></description>
+      <description><![CDATA[2024 年我們所處的位置：億萬富翁表示，他並不是有意告訴每個人「去他媽的」 就在7 個月前，埃隆·馬斯克(Elon Musk) 告訴一位訪談者：「如果有人會用廣告來敲詐我，去你媽的吧。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/x_boss_elon_musk_ad_talk/</guid>
       <pubDate>Thu, 20 Jun 2024 16:38:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[AlmaLinux 和Broadcom 新增至開源Redis 分支的合作夥伴清單 隨著Broadcom、AlmaLinux OS Foundation 和NetApp 的Instaclustr 等新支持者的確認，開源Redis 替代品Valkey 背後的勢頭正在增強。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/valkey_picks_up_more_partners/</guid>
       <pubDate>Wed, 19 Jun 2024 15:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>衛星電話服務可能很快就會成為常態</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</link>
-      <description><![CDATA[美國三大行動營運商均已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而非利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</guid>
-      <pubDate>Wed, 19 Jun 2024 14:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
