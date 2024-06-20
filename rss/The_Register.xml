@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 05:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 07:11:03 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧輔助的雲端和網路自動化登上 Gartner 技術成熟度曲線</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/gartner_networking_cloud_hype_cycles_ai/</link>
+      <description><![CDATA[是的，人工智慧將自願管理您的 IT 資產。相信它的你可能是個傻瓜 分析公司Gartner 發布了雲端技術和企業網路的年度炒作週期，兩者都建議冷卻你的噴射機，而不是急於使用人工智慧輔助工具來操作你的技術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/gartner_networking_cloud_hype_cycles_ai/</guid>
+      <pubDate>Thu, 20 Jun 2024 06:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>韓國三星警告稱，許多應用程式無法在其搭載高通技術的 Copilot+ PC 上運行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/samsung_korea_copilot_plus_pc_compatability/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>衛星電話服務可能很快就會成為常態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</link>
-      <description><![CDATA[美國三大行動電信商都已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而不是一種利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
+      <description><![CDATA[美國三大行動營運商均已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而非利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</guid>
       <pubDate>Wed, 19 Jun 2024 14:30:14 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 19 Jun 2024 14:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國監管機構正在審查 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
+      <title>英國監管機構正嚴厲打擊 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</link>
       <description><![CDATA[在合併調查開始時邀請競爭對手和客戶發表評論 英國競爭監管機構經常對美國科技高管進行批評，但現在卻有了新的潛在目標：HPE 擬以140 億美元收購瞻博網路網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>日本工業科學技術研究所計劃引進兩台量子電腦和 Nvidia 注入</title>
+      <title>日本工業科學技術研究所計畫開發兩台量子電腦和一台英偉達注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</link>
       <description><![CDATA[據報道，在IBM 的幫助下，其中一台有望實現10,000 個量子位元 日本先進工業科學技術研究所將致力於開發兩台量子計算機，並將Nvidia 的最新加速器注入其中其現有的超級電腦之一......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/aist_japan_quantum_computer_nvidia_upgrade/</guid>
       <pubDate>Wed, 19 Jun 2024 05:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>13 年後，Atlassian 為 Jira 提供自訂域名</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</link>
-      <description><![CDATA[客戶對雙子網域或需要高級許可證並不感到興奮 Atlassian 很快就會關閉其臭名昭著的CLOUD-6999 功能請求票證- 於2011 年開放，以響應為其雲端產品尋求自訂網​​域的客戶– 正如它所聲稱的那樣，該功能已經交付。然而，客戶並不完全滿意。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/atlassian_cloud_custom_domains/</guid>
-      <pubDate>Wed, 19 Jun 2024 03:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
