@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 14:34:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 16:15:15 GMT</lastBuildDate>
+    <item>
+      <title>systemd 256.1：現在刪除 /home 的可能性稍低</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</link>
+      <description><![CDATA[修正了災難性資料遺失，呃，bug，呃記錄不完善的功能...使用者錯誤 以下內容緊接著版本 256 發布後，版本 256.1 修正了一些錯誤。其中之一是不 systemd-tmpfiles 遞歸刪除整個主目錄。這是一個功能。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</guid>
+      <pubDate>Thu, 20 Jun 2024 15:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，戴爾美國一半員工選擇遠距工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/half_of_dell_us_staff_wfh/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[最近的修補程式破壞了更新路徑 微軟最近幾次 Windows 11 更新存在問題，導致一些用戶無法從 Windows 11 專業版遷移到企業版。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/problems_upgrading_win_11_pro/</guid>
       <pubDate>Wed, 19 Jun 2024 12:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>奈傑爾法拉奇炸毀里希蘇納克的《我的世界》豪宅的視頻“不真實”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/farage_minecraft/</link>
-      <description><![CDATA[向《衛報》致敬，進行雙重檢查 在網路惡作劇者發布了改革英國領導人奈傑爾法拉奇 (Nigel Farage) 的深度偽造品後，英國民主岌岌可危。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/farage_minecraft/</guid>
-      <pubDate>Wed, 19 Jun 2024 12:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
