@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 12:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 13:34:52 GMT</lastBuildDate>
+    <item>
+      <title>Oracle Java 授權團隊將開始針對那些認為自己沒有使用 Oracle 的 Oracle 用戶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/oracle_java_licence_teams/</link>
+      <description><![CDATA[授權專家表示，下載的 IP 位址為應該為 Big Red 做好準備的組織提供了線索 不認為自己是 Oracle 客戶但使用 Java 的組織可以期待來自 Oracle 的電話據一位軟體授權專家稱，未來三到九個月將出現「大紅色」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/oracle_java_licence_teams/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:13:52 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯網路間諜仍在威脅法國國家安全和民主</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/russias_cyber_attacks_france_report/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[來吧，把舊遊戲卡扔進你的伺服器- 你知道你想要 動手 Broadcom 對VMware 的收購讓許多人爭先恐後地尋找替代品。 ... p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/proxmox_xcp_ng_gpu_passthrough/</guid>
       <pubDate>Wed, 19 Jun 2024 11:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>自動駕駛汽車在陽光下更安全，黃昏時則是另一回事</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/autonomous_driving_dim_conditions/</link>
-      <description><![CDATA[YMMV 來自2,000 多輛自動駕駛車輛的數據為一項研究做出了貢獻，該研究得出結論，它們在某些情況下可能比人類更安全，但在其他情況下可能更危險。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/autonomous_driving_dim_conditions/</guid>
-      <pubDate>Wed, 19 Jun 2024 10:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
