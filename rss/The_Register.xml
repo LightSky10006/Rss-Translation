@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 08:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 10:12:00 GMT</lastBuildDate>
+    <item>
+      <title>研究利用大型語言模型找出自己的錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</link>
+      <description><![CDATA[如果一直都是法學碩士怎麼辦？ 。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</guid>
+      <pubDate>Thu, 20 Jun 2024 09:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟新款 Surface Laptop 7 現已上市。恢復影像沒有</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/surface_laptop_7_recovery/</link>
-      <description><![CDATA[不錯的電腦。如果發生任何事情，那就太可惜了 閃亮的新 Surface 7 設備即將到貨，但缺乏恢復介質給一些用戶帶來了問題。]]></description>
+      <description><![CDATA[不錯的電腦。如果發生任何事情，那就太可惜了 閃亮的新 Surface 7 設備即將上市，但缺乏恢復介質給一些用戶帶來了問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/surface_laptop_7_recovery/</guid>
       <pubDate>Thu, 20 Jun 2024 08:30:12 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>衛星電話服務可能很快就會成為常態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</link>
-      <description><![CDATA[美國三大行動營運商均已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而非利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
+      <description><![CDATA[美國三大行動電信商都已簽約，儘管大多數「非地面」技術尚未真正投入使用 行動網路和衛星服務之間的融合正在成為常態，而不是一種利基戰略：全球 91 家電信業者現已與衛星供應商簽署了協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/satellite_phone_service_could_soon/</guid>
       <pubDate>Wed, 19 Jun 2024 14:30:14 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 19 Jun 2024 14:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國監管機構正嚴厲打擊 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
+      <title>英國監管機構正在審查 HPE 以 14B 美元收購有線電視巨頭瞻博網路 (Juniper Networks) 的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</link>
       <description><![CDATA[在合併調查開始時邀請競爭對手和客戶發表評論 英國競爭監管機構經常對美國科技高管進行批評，但現在卻有了新的潛在目標：HPE 擬以140 億美元收購瞻博網路網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/cma_hpe_juniper_networks/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Control-C、Control-V、Enter ...地獄 狡猾的犯罪分子正在針對世界各地的數千個組織進行社會工程攻擊，這些攻擊使用虛假錯誤訊息來誘騙用戶執行惡意PowerShell腳本。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/powershell_fix_malware/</guid>
       <pubDate>Wed, 19 Jun 2024 07:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港當局製止涉嫌走私者轉移 596 顆「高端」CPU</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hong_kong_cpu_smuggler_busted/</link>
-      <description><![CDATA[圖像表明它們可能是最新的英特爾至強處理器- 甚至可能是受到製裁的那種套件 香港海關週一透露，它截獲了596 個CPU，據稱走私者正試圖將這些CPU 運入中國…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/hong_kong_cpu_smuggler_busted/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
