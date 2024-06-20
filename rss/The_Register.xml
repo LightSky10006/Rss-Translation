@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 13:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 14:10:23 GMT</lastBuildDate>
+    <item>
+      <title>半導體產業在波濤洶湧的水域中航行，氣候更加陽光明媚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</link>
+      <description><![CDATA[儘管設備收入下降，但分析師預計將強勁反彈 晶片製造設備供應商今年開局不佳，總體報告稱 2024 年前三個月銷售額大幅下滑分析師數據.. .... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Java 授權團隊將開始針對那些認為自己沒有使用 Oracle 的 Oracle 用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/oracle_java_licence_teams/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不要相信炒作 儘管一些供應商估值天文數字，並預測它將改變社會，但根據最近的一項全球調查，GenAI 對工作場所的影響尚未實現。 &lt; /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/genai_workplace/</guid>
       <pubDate>Wed, 19 Jun 2024 12:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proxmox、XCP-ng 上的 GPU 加速虛擬機器？這是你需要知道的</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/19/proxmox_xcp_ng_gpu_passthrough/</link>
-      <description><![CDATA[來吧，把舊遊戲卡扔進你的伺服器- 你知道你想要 動手 Broadcom 對VMware 的收購讓許多人爭先恐後地尋找替代品。 ... p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/19/proxmox_xcp_ng_gpu_passthrough/</guid>
-      <pubDate>Wed, 19 Jun 2024 11:13:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
