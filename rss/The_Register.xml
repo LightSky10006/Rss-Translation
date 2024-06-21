@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 22:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 23:10:17 GMT</lastBuildDate>
+    <item>
+      <title>蘋果情報將無法在歐洲使用，因為提姆害怕監管機構</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/apple_intelligence_eu/</link>
+      <description><![CDATA[這些隱私規則可能會損害隱私！不，真的，這就是我們這樣做的原因 蘋果推遲了在歐洲部署人工智慧功能的計劃，因為這家美國巨頭對歐洲大陸的隱私法規不滿意。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/apple_intelligence_eu/</guid>
+      <pubDate>Fri, 21 Jun 2024 22:59:08 GMT</pubDate>
+    </item>
     <item>
       <title>Change Healthcare 最終透露了哪些醫療數據被網路人員竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/change_healthcare_patients/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這不是幻覺：僅僅因為這一點，“千分之四的推論不准確”，取決於設定 Meta 已經確定了人工智慧可能產生垃圾輸出的另一個原因：損壞數據的硬體故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</guid>
       <pubDate>Fri, 21 Jun 2024 02:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 推出 Claude 3.5 模型 – 以及一種使用聊天機器人的新方式</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</link>
-      <description><![CDATA[快速、有趣、有遠見，當然......任何能打敗OpenAI 的東西都可以 視頻 OpenAI 挑戰者Anthropic 已交付其最新模型— Claude 3.5 Sonnet —並聲稱它在許多任務上都優於競爭對手。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</guid>
-      <pubDate>Thu, 20 Jun 2024 23:35:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
