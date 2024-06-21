@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 16:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 17:12:00 GMT</lastBuildDate>
     <item>
       <title>Phoenix UEFI 缺陷使一長串英特爾晶片陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/uefi_vulnerability_intel_chips/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 21 Jun 2024 16:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>Waymo 機器人計程車將繞過繁文縟節，進入洛杉磯及其他地區</title>
+      <title>Waymo 機器人計程車將繞過繁文縟節進入洛杉磯及其他地區</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/waymo_expansion/</link>
       <description><![CDATA[Google 的自動駕駛汽車現已在Waymo 街道上進行測試 這為自動駕駛汽車公司Waymo 將出租車服務擴展到舊金山以外的地區並進入舊金山半島和洛杉磯鋪平了道路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/waymo_expansion/</guid>
@@ -36,14 +36,14 @@
     <item>
       <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔爪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</link>
-      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
+      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是那麼簡單 - 但幫助就在眼前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
       <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
     </item>
     <item>
       <title>麒麟網路浮渣洩漏數據，他們聲稱屬於倫敦醫院的病理提供者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</link>
-      <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，公佈了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
+      <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，發布了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</guid>
       <pubDate>Fri, 21 Jun 2024 11:15:07 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>歐洲如何迫使蘋果支持競爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/eu_apple_owa/</link>
-      <description><![CDATA[開放網路倡議報告呼籲對iGiant 的規則進行大規模修改 獨家 歐盟委員會對蘋果對歐洲大陸競爭規則的反應的調查結果預計很快就會浮出水面– 報告顯示，監管機構對庫克公司並不感興趣。公司...]]></description>
+      <description><![CDATA[開放網路倡議報告呼籲對iGiant 的規則進行大規模修改 獨家 歐盟委員會對蘋果對歐洲大陸競爭規則的反應進行調查的結果預計很快就會浮出水面– 報告顯示，監管機構對庫克公司並不感興趣。公司...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/eu_apple_owa/</guid>
       <pubDate>Fri, 21 Jun 2024 06:30:13 GMT</pubDate>
     </item>
@@ -104,16 +104,16 @@
       <pubDate>Fri, 21 Jun 2024 02:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic 推出 Claude 3.5 模型 – 以及使用聊天機器人的新方式</title>
+      <title>Anthropic 推出 Claude 3.5 模型 – 以及一種使用聊天機器人的新方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</link>
       <description><![CDATA[快速、有趣、有遠見，當然......任何能打敗OpenAI 的東西都可以 視頻 OpenAI 挑戰者Anthropic 已交付其最新模型— Claude 3.5 Sonnet —並聲稱它在許多任務上都優於競爭對手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</guid>
       <pubDate>Thu, 20 Jun 2024 23:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌試圖消滅兒童隱私應用廣告訴訟失敗</title>
+      <title>谷歌試圖終止兒童隱私應用廣告訴訟失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/google_child_privacy_lawsuit/</link>
-      <description><![CDATA[有人不會想一想......哦，對了，他們是 指控Google 違反美國兒童隱私法的訴訟將繼續審理，因為法官駁回了這家網絡巨頭的動議扔掉這個案子。]]></description>
+      <description><![CDATA[有人不會想一想...哦，對了，他們是 指控 Google 違反美國兒童隱私法的訴訟將繼續審理，因為法官駁回了這家網絡巨頭的動議扔掉這個案子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/google_child_privacy_lawsuit/</guid>
       <pubDate>Thu, 20 Jun 2024 23:05:11 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>馬斯克邀請戴爾、超微加入 xAI 超級電腦項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/musk_dell_supermicro_grok/</link>
-      <description><![CDATA[哦，麥克，你現在在做什麼 戴爾科技公司和Supermicro 已被確認為電腦製造商，為 Elon Musk 的xAI 新創公司構建基於Nvidia 的AI 超級電腦。]]></description>
+      <description><![CDATA[哦，麥克，你現在在做什麼 戴爾科技公司和Supermicro 已被確認為電腦製造商，為 Elon Musk 的xAI 新創公司打造基於Nvidia 的AI 超級電腦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/musk_dell_supermicro_grok/</guid>
       <pubDate>Thu, 20 Jun 2024 20:12:06 GMT</pubDate>
     </item>
