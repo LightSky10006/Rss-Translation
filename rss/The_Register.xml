@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 07:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 10:11:26 GMT</lastBuildDate>
+    <item>
+      <title>X Window 系統仍然保持在 40 的水平</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</link>
+      <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但該窗口系統仍然繼續存在。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</guid>
+      <pubDate>Fri, 21 Jun 2024 09:35:08 GMT</pubDate>
+    </item>
     <item>
       <title>你錯了，我是對的，你隱藏了證明這一點的數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[儘管設備收入下降，分析師預計將強勁反彈 晶片製造設備供應商今年的開局並未取得最佳成績，據統計，2024 年前三個月的銷售額集體下滑分析師資料...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</guid>
       <pubDate>Thu, 20 Jun 2024 13:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Java 授權團隊將開始針對那些認為自己沒有使用 Oracle 的 Oracle 用戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/oracle_java_licence_teams/</link>
-      <description><![CDATA[授權專家表示，下載的 IP 位址為應該為 Big Red 做好準備的組織提供了線索 不認為自己是 Oracle 客戶但使用 Java 的組織可以期待來自 Oracle 的電話據一位軟體授權專家稱，未來三到九個月將出現「大紅色」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/oracle_java_licence_teams/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:13:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
