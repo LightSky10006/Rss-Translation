@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 01:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 03:12:28 GMT</lastBuildDate>
+    <item>
+      <title>Meta 警告位翻轉和其他硬體故障會導致 AI 錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</link>
+      <description><![CDATA[這不是幻覺：僅此一項，大約千分之四的推論就不準確 Meta 發現了人工智慧可能產生垃圾輸出的另一個原因：損壞資料的硬體故障。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</guid>
+      <pubDate>Fri, 21 Jun 2024 02:58:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 推出 Claude 3.5 模型 – 以及一種使用聊天機器人的新方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不錯的電腦。如果發生任何事情，那就太遺憾了 閃亮的新 Surface 7 設備即將到貨，但缺乏恢復介質給一些用戶帶來了問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/surface_laptop_7_recovery/</guid>
       <pubDate>Thu, 20 Jun 2024 08:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧輔助的雲端和網路自動化登上 Gartner 技術成熟度曲線</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/gartner_networking_cloud_hype_cycles_ai/</link>
-      <description><![CDATA[是的，人工智慧將自願管理您的 IT 資產。相信它的你可能是個傻瓜 分析公司Gartner 發布了雲端技術和企業網路的年度炒作週期，兩者都建議冷卻你的噴射機，而不是急於使用人工智慧輔助工具來操作你的技術。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/gartner_networking_cloud_hype_cycles_ai/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:59:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
