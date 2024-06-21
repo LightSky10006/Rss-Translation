@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 07:11:28 GMT</lastBuildDate>
+    <item>
+      <title>自加入北約以來，瑞典聲稱俄羅斯一直在竊取北歐衛星</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/sweden_russia_jamming/</link>
+      <description><![CDATA[如果普丁喜歡幹擾，我們希望北約也喜歡幹擾 瑞典表示，自從北歐國家加入北大西洋公約組織（北約）以來，其衛星一直受到俄羅斯「有害幹擾」的影響）去年三月。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/sweden_russia_jamming/</guid>
+      <pubDate>Fri, 21 Jun 2024 06:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲如何迫使蘋果支持競爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/eu_apple_owa/</link>
@@ -27,16 +34,16 @@
       <pubDate>Fri, 21 Jun 2024 04:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 警告位翻轉和其他硬體故障會導致 AI 錯誤</title>
+      <title>Meta警告位翻轉，其他硬體故障導致AI錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</link>
-      <description><![CDATA[這不是幻覺：僅此一項，大約千分之四的推論就不準確 Meta 發現了人工智慧可能產生垃圾輸出的另一個原因：損壞資料的硬體故障。 ..]]></description>
+      <description><![CDATA[這不是幻覺：僅僅因為這一點，“千分之四的推論不准確”，取決於設定 Meta 已經確定了人工智慧可能產生垃圾輸出的另一個原因：損壞數據的硬體故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</guid>
       <pubDate>Fri, 21 Jun 2024 02:58:07 GMT</pubDate>
     </item>
     <item>
       <title>Anthropic 推出 Claude 3.5 模型 – 以及使用聊天機器人的新方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</link>
-      <description><![CDATA[也許是快速、有趣、有遠見，但嘿，至少有即時輸出調整 視訊 OpenAI 挑戰者 Anthropic 已交付其最新模型 - Claude 3.5 Sonnet - 並且聲稱它在許多任務上都優於競爭對手。]]></description>
+      <description><![CDATA[快速、有趣、有遠見，當然......任何能打敗OpenAI 的東西都可以 視頻 OpenAI 挑戰者Anthropic 已交付其最新模型— Claude 3.5 Sonnet —並聲稱它在許多任務上都優於競爭對手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</guid>
       <pubDate>Thu, 20 Jun 2024 23:35:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在重大選舉之前發布顯然只是一個巧合 法國電腦緊急應變小組(CERT-FR) 發布的一份關於Nobelium 攻擊性網路人員的最新報告強調了該組織在該國的最新伎倆準備重大選舉並主辦今年的奧運會和殘奧會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/russias_cyber_attacks_france_report/</guid>
       <pubDate>Thu, 20 Jun 2024 12:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>混合動力車搶盡風頭，純電動車在歐洲失去活力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/bev_market_share_eu/</link>
-      <description><![CDATA[根據汽車工業組織的說法，德國人對合適的電動車降溫 電池電動車(BEV) 在歐洲的市場份額正在下降，而混合動力電動車則更受歡迎。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/bev_market_share_eu/</guid>
-      <pubDate>Thu, 20 Jun 2024 11:37:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
