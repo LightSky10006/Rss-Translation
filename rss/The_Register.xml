@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:15:31 GMT</lastBuildDate>
+    <item>
+      <title>被遺忘的 API 中的編碼錯誤被歸咎於大規模資料洩露</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/optus_data_breach_faulty_api/</link>
+      <description><![CDATA[澳洲電信公司Optus 據稱多年來在網路上留下了訪問控制不力的冗餘網站 澳洲電信公司Optus 的資料外洩事件被歸咎於編碼錯誤，該事件導致超過900 萬客戶的個人資訊被洩露破壞了API 存取控制，並被保留了多年。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/optus_data_breach_faulty_api/</guid>
+      <pubDate>Fri, 21 Jun 2024 05:38:24 GMT</pubDate>
+    </item>
     <item>
       <title>美光巨型晶圓廠受到絕對瀕臨滅絕的美國蝙蝠的輕度威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路犯罪分子聲稱他們使用零日漏洞破壞了病理學提供者的系統 採訪 對倫敦醫院的醫療保健危機負責的勒索軟體團夥表示，他們對其網路攻擊並不後悔它在接受採訪時告訴The Register，這完全是故意的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/qilin_our_plan_was_to/</guid>
       <pubDate>Thu, 20 Jun 2024 10:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究利用大型語言模型來嗅出自己的錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</link>
-      <description><![CDATA[如果一直都是法學碩士怎麼辦？ 。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</guid>
-      <pubDate>Thu, 20 Jun 2024 09:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
