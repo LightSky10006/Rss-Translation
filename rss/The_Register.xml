@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 20 Jun 2024 23:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:48:03 GMT</lastBuildDate>
     <item>
-      <title>谷歌試圖終止兒童隱私應用廣告訴訟失敗</title>
+      <title>Anthropic 推出 Claude 3.5 模型 – 以及使用聊天機器人的新方式</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</link>
+      <description><![CDATA[也許是快速、有趣、有遠見，但嘿，至少有即時輸出調整 視訊 OpenAI 挑戰者 Anthropic 已交付其最新模型 - Claude 3.5 Sonnet - 並且聲稱它在許多任務上都優於競爭對手。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/anthropic_claude_35/</guid>
+      <pubDate>Thu, 20 Jun 2024 23:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌試圖消滅兒童隱私應用廣告訴訟失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/google_child_privacy_lawsuit/</link>
       <description><![CDATA[有人不會想一想......哦，對了，他們是 指控Google 違反美國兒童隱私法的訴訟將繼續審理，因為法官駁回了這家網絡巨頭的動議扔掉這個案子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/google_child_privacy_lawsuit/</guid>
@@ -20,9 +27,9 @@
       <pubDate>Thu, 20 Jun 2024 21:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>拜登向卡巴斯基開槍：美國將禁止銷售、更新</title>
+      <title>拜登禁用卡巴斯基：美國不再銷售、更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/us_bans_kaspersky_software/</link>
-      <description><![CDATA[出於國家安全擔憂，封鎖將於7 月20 日開始 突發新聞 拜登政府已禁止在美國銷售卡巴斯基軟體，理由是俄羅斯業務涉及國家安全風險...]]></description>
+      <description><![CDATA[以國家安全為由，封鎖將於7 月20 日開始，防毒軟體誓言反擊 拜登政府今天禁止在美國銷售卡巴斯基實驗室的產品和服務，宣布俄羅斯業務涉及國家安全風險...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/us_bans_kaspersky_software/</guid>
       <pubDate>Thu, 20 Jun 2024 21:07:31 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>IBM、Kyndryl 再次因年齡歧視提起訴訟——這次是由自己的副總裁提起</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/ibm_and_kyndryl_again_sued/</link>
-      <description><![CDATA[Big Blue 的更多憂鬱......當然，訴訟中引用了El Reg 的報道 IBM 再次因年齡歧視而被起訴，這次是與分拆公司Kyndryl 一起被起訴。]]></description>
+      <description><![CDATA[Big Blue 的更多藍調......當然，訴訟中引用了El Reg 的報導 IBM 再次因年齡歧視而被起訴，這次是與分拆公司Kyndryl 一起起訴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/ibm_and_kyndryl_again_sued/</guid>
       <pubDate>Thu, 20 Jun 2024 19:44:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>systemd 256.1：現在刪除 /home 的可能性稍低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</link>
-      <description><![CDATA[修正了災難性資料遺失，呃，bug，呃記錄不完善的功能...使用者錯誤 以下內容緊接著版本 256 發布後，版本 256.1 修正了一些錯誤。其中之一是不 systemd-tmpfiles 遞歸刪除整個主目錄。這是一個功能。]]></description>
+      <description><![CDATA[修正了災難性資料遺失，呃，bug，呃記錄不完善的功能...使用者錯誤 以下內容緊接著 systemd 版本 256 發布了 256.1，它修復了一些錯誤。其中之一是不 systemd-tmpfiles 遞歸刪除整個主目錄。這是一個功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</guid>
       <pubDate>Thu, 20 Jun 2024 15:34:07 GMT</pubDate>
     </item>
@@ -83,9 +90,9 @@
       <pubDate>Thu, 20 Jun 2024 14:26:14 GMT</pubDate>
     </item>
     <item>
-      <title>半導體產業在波濤洶湧的水域中航行，氣候更加陽光明媚</title>
+      <title>半導體產業在陽光明媚的氣候下在波濤洶湧的水域中航行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</link>
-      <description><![CDATA[儘管設備收入下降，分析師預計將強勁反彈 晶片製造設備供應商今年的開局並未取得最佳成績，據統計，2024 年前三個月的銷售額集體下滑分析師資料...... ]]></description>
+      <description><![CDATA[儘管設備收入下降，但分析師預計將強勁反彈 晶片製造設備供應商今年開局不佳，總體報告稱 2024 年前三個月銷售額大幅下滑分析師數據.. .... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</guid>
       <pubDate>Thu, 20 Jun 2024 13:38:00 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 20 Jun 2024 10:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>研究利用大型語言模型來嗅出自己的錯誤</title>
+      <title>研究利用大型語言模型找出自己的錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</link>
       <description><![CDATA[如果一直都是法學碩士怎麼辦？ 。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/llm_hallucination_study/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟新款 Surface Laptop 7 現已上市。恢復影像沒有</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/surface_laptop_7_recovery/</link>
-      <description><![CDATA[不錯的電腦。如果發生任何事情，那就太可惜了 閃亮的新 Surface 7 設備即將到貨，但缺乏恢復介質給一些用戶帶來了問題。]]></description>
+      <description><![CDATA[不錯的電腦。如果發生任何事情，那就太可惜了 閃亮的新 Surface 7 設備即將上市，但缺乏恢復介質給一些用戶帶來了問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/surface_laptop_7_recovery/</guid>
       <pubDate>Thu, 20 Jun 2024 08:30:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[是的，人工智慧將自願管理您的 IT 資產。相信它的你可能是個傻瓜 分析公司Gartner 發布了雲端技術和企業網路的年度炒作週期，兩者都建議冷卻你的噴射機，而不是急於使用人工智慧輔助工具來操作你的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/gartner_networking_cloud_hype_cycles_ai/</guid>
       <pubDate>Thu, 20 Jun 2024 06:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>韓國三星警告稱，許多應用程式無法在其搭載高通技術的 Copilot+ PC 上運行</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/samsung_korea_copilot_plus_pc_compatability/</link>
-      <description><![CDATA[FWIW 微軟表示，即使在Arm 上進行模擬，「您的應用程式也能運作良好」 三星首次推出了運行高通處理器的Copilot+ PC，但警告韓國（似乎只有韓國）的買家，他們贏了無法運行許多常見應用程式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/samsung_korea_copilot_plus_pc_compatability/</guid>
-      <pubDate>Thu, 20 Jun 2024 05:02:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
