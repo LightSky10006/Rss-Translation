@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 18:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 18:38:05 GMT</lastBuildDate>
+    <item>
+      <title>隱私功能在最新的 Firefox 更新中消失</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/firefox_127_private_window/</link>
+      <description><![CDATA[Mozilla 在掀起軒然大波後回溯私人視窗更改 Firefox 仍然是許多人選擇的瀏覽器，但最新的更新丟失了用戶的選項卡，並且當他們打開私人選項卡時，它會變得更明顯，遺失隱私點。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/firefox_127_private_window/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 被禁止削減加州大部分地區的固定電話服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/atts_request_to_withdraw_landline/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>麒麟網路浮渣洩漏數據，他們聲稱屬於倫敦醫院的病理提供者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</link>
-      <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，公佈了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
+      <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，發布了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</guid>
       <pubDate>Fri, 21 Jun 2024 11:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[以國家安全為由，封鎖將於7 月20 日開始，防毒軟體誓言反擊 拜登政府今天禁止在美國銷售卡巴斯基實驗室的產品和服務，宣布俄羅斯業務涉及國家安全風險...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/us_bans_kaspersky_software/</guid>
       <pubDate>Thu, 20 Jun 2024 21:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽車經銷商軟體巨頭 CDK 在「網路事件」中兩次下線系統</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/cdk_global_offline/</link>
-      <description><![CDATA[停機時間將持續到下週 美國近 15,000 家汽車經銷商所依賴的軟體供應商表示，持續的「網路事件」迫使其第二次使系統離線幾天后. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/cdk_global_offline/</guid>
-      <pubDate>Thu, 20 Jun 2024 20:50:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
