@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 11:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:49:53 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔爪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</link>
+      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
+      <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>麒麟網路浮渣洩漏數據，他們聲稱屬於倫敦醫院的病理提供者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[2024 年我們所處的位置：億萬富翁表示，他並不是有意告訴每個人「去他媽的」 就在7 個月前，埃隆·馬斯克(Elon Musk) 告訴一位訪談者：「如果有人會用廣告來敲詐我，去你媽的吧。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/x_boss_elon_musk_ad_talk/</guid>
       <pubDate>Thu, 20 Jun 2024 16:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>systemd 256.1：現在刪除 /home 的可能性稍低</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</link>
-      <description><![CDATA[修正了災難性資料遺失，呃，bug，呃記錄不完善的功能...使用者錯誤 以下內容緊接著 systemd 版本 256 發布了 256.1，它修復了一些錯誤。其中之一是不 systemd-tmpfiles 遞歸刪除整個主目錄。這是一個功能。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/systemd_2561_data_wipe_fix/</guid>
-      <pubDate>Thu, 20 Jun 2024 15:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
