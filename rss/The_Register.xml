@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 21 Jun 2024 10:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 10:36:42 GMT</lastBuildDate>
+    <item>
+      <title>猜猜有多少儲存的資料被使用或存取過</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</link>
+      <description><![CDATA[NetApp 的Matt Watts 在談到文件分類、浪費和功耗時表示，並沒有太多 採訪 NetApp 的首席技術佈道師Matt Watts 擔心可持續性和能耗問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</guid>
+      <pubDate>Fri, 21 Jun 2024 10:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>X Window 系統仍然保持在 40 的水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>美光巨型晶圓廠受到絕對瀕臨滅絕的美國蝙蝠的輕度威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</link>
-      <description><![CDATA[就像從地獄裡出來的蝙蝠一樣，當11 月到來時它們就會消失 據報道，美光在紐約州擬議的製造中心開始工作時面臨著一個新的障礙：瀕臨絕種的蝙蝠。]]></description>
+      <description><![CDATA[就像地獄中的蝙蝠一樣，當11 月到來時，他們就會消失 更新 據報道，美光在紐約擬建的製造中心開始工作時面臨新的障礙狀態：瀕臨絕種的蝙蝠......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</guid>
       <pubDate>Fri, 21 Jun 2024 04:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[相關人員的晉升前景減少，有些人已經在考慮退出 返回辦公室 (RTO) 的要求不起作用，至少對據報道的 50% 的戴爾員工來說不起作用。美國，其中一些準備放棄晉升希望，開始尋找提供更大靈活性的替代方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/half_of_dell_us_staff_wfh/</guid>
       <pubDate>Thu, 20 Jun 2024 14:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>半導體產業在波濤洶湧的水域中航行，氣候更加陽光明媚</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</link>
-      <description><![CDATA[儘管設備收入下降，分析師預計將強勁反彈 晶片製造設備供應商今年的開局並未取得最佳成績，據統計，2024 年前三個月的銷售額集體下滑分析師資料...... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/20/semiconductor_industry_counterpoint/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
