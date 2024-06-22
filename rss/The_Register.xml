@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 22 Jun 2024 08:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 14:33:56 GMT</lastBuildDate>
+    <item>
+      <title>將帶有自訂提示的 LLM 烘焙到您的應用程式中？當然！以下是如何開始</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/22/llm_rust_ai/</link>
+      <description><![CDATA[我們信任 Rust。但在 gen-AI 中不會產生幻覺嗎？呃，那是另一個故事了 動手 大型語言模型 (LLM) 通常與 ChatGPT、Copilot 和 Gemini 等聊天機器人相關，但它們絕不限於問答式互動。法學碩士越來越多地被整合到從 IDE 到辦公室生產力套件的所有事物中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/22/llm_rust_ai/</guid>
+      <pubDate>Sat, 22 Jun 2024 14:20:13 GMT</pubDate>
+    </item>
     <item>
       <title>從網路安全到永久工作：卡巴斯基美國禁令是怎麼回事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/22/kaspersky_kettle/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[澳洲電信公司Optus 據稱多年來在網路上留下了訪問控制不力的冗餘網站 澳洲電信公司Optus 的資料外洩事件被歸咎於編碼錯誤，該事件導致超過900 萬客戶的個人資訊被洩露破壞了API 存取控制，並被保留了多年。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/optus_data_breach_faulty_api/</guid>
       <pubDate>Fri, 21 Jun 2024 05:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>美光巨型晶圓廠受到絕對瀕臨滅絕的美國蝙蝠的輕度威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</link>
-      <description><![CDATA[就像地獄中的蝙蝠一樣，當11 月到來時，他們就會消失 更新 據報道，美光在紐約擬建的製造中心開始工作時面臨新的障礙狀態：瀕臨絕種的蝙蝠......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</guid>
-      <pubDate>Fri, 21 Jun 2024 04:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
