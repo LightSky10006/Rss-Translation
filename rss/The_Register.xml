@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 22 Jun 2024 08:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 08:35:44 GMT</lastBuildDate>
+    <item>
+      <title>從網路安全到永久工作：卡巴斯基美國禁令是怎麼回事？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/22/kaspersky_kettle/</link>
+      <description><![CDATA[已經等了很久了。現在，我們的記者說出了自己的想法 Kettle 美國政府週四禁止卡巴斯基實驗室從7 月下旬起在美國銷售其防毒軟體和其他產品，並禁止其發布更新和惡意軟體簽名十月... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/22/kaspersky_kettle/</guid>
+      <pubDate>Sat, 22 Jun 2024 08:16:12 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果情報將無法在歐洲使用，因為提姆害怕監管機構</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/apple_intelligence_eu/</link>
@@ -71,14 +78,14 @@
     <item>
       <title>Starlink 僅受邀請才能將網路裝入背包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/starlink_mini_invitation/</link>
-      <description><![CDATA[衛星天線不再只適用於屋頂 SpaceX 邀請一些客戶為其衛星寬頻服務購買新的Starlink Mini 接收器，該接收器作為便攜式選項提供，在美國的首發價格為599美元...]]></description>
+      <description><![CDATA[衛星天線不再只適用於屋頂 SpaceX 正在邀請一些客戶為其衛星寬頻服務購買新的Starlink Mini 接收器，該接收器作為便攜式選項提供，在美國的首發價格為599 美元...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/starlink_mini_invitation/</guid>
       <pubDate>Fri, 21 Jun 2024 13:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔掌</title>
+      <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔爪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</link>
-      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機非常簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
+      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
       <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
     </item>
@@ -99,14 +106,14 @@
     <item>
       <title>X Window 系統仍然保持在 40 的水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</link>
-      <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但該窗口系統仍然繼續存在。]]></description>
+      <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但這種窗口系統仍然繼續存在。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</guid>
       <pubDate>Fri, 21 Jun 2024 09:35:08 GMT</pubDate>
     </item>
     <item>
       <title>你錯了，我是對的，你隱藏了證明這一點的數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</link>
-      <description><![CDATA[技術人員之間應該有榮譽感，但承認錯誤可能很難 隨叫隨到  我們當中很少有人是完美無缺的，但更多時候是使用者和經理犯了錯誤當 IT 出現問題時，他們就錯了。這就是為什麼每週五The Register 都會提供一期新的On Call，這是一個由讀者投稿的專欄，您可以在其中分享被要求救助無聊、頑童和傻瓜的故事。 ..]]></description>
+      <description><![CDATA[技術人員之間應該有榮譽感，但承認錯誤可能很難 隨叫隨到  我們當中很少有人是完美無缺的，但更多時候是使用者和經理犯了錯誤當 IT 出現問題時，他們就錯了。這就是為什麼每週五The Register都會提供一期新的「On Call」——這是一個由讀者投稿的專欄，您可以在其中分享被要求救助無聊、頑童和傻瓜的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</guid>
       <pubDate>Fri, 21 Jun 2024 07:31:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[就像地獄中的蝙蝠一樣，當11 月到來時，他們就會消失 更新 據報道，美光在紐約擬建的製造中心開始工作時面臨新的障礙狀態：瀕臨絕種的蝙蝠......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/micron_delays_bat/</guid>
       <pubDate>Fri, 21 Jun 2024 04:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta警告位翻轉，其他硬體故障導致AI錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</link>
-      <description><![CDATA[這不是幻覺：僅僅因為這一點，“千分之四的推論不准確”，取決於設定 Meta 已經確定了人工智慧可能產生垃圾輸出的另一個原因：損壞數據的硬體故障。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/hardware_faults_create_inferencing_errors/</guid>
-      <pubDate>Fri, 21 Jun 2024 02:58:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
