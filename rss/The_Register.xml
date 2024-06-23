@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 23 Jun 2024 11:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 21:35:04 GMT</lastBuildDate>
     <item>
       <title>研究表明，從 Chrome 商店獲取惡意擴充功能的風險比Google透露的要嚴重得多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</link>
-      <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與任何其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
+      <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</guid>
       <pubDate>Sun, 23 Jun 2024 10:36:10 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>Change Healthcare 最終透露了哪些醫療數據被網路人員竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/change_healthcare_patients/</link>
-      <description><![CDATA[從下個月開始，「相當大一部分」的美國人會收到通知 Change Healthcare 正式通知其一些藥房和醫院客戶，他們的病患資料被勒索軟體犯罪分子竊取。 2 月– 首次具體揭露了IT 入侵期間竊取的資訊類型。]]></description>
+      <description><![CDATA[從下個月開始，「相當大一部分」的美國人會收到一點通知 Change Healthcare 正式通知其一些藥房和醫院客戶，他們的病患資料被勒索軟體犯罪分子竊取。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/change_healthcare_patients/</guid>
       <pubDate>Fri, 21 Jun 2024 21:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔制裁卡巴斯基的高層——但不制裁卡巴斯基本人</title>
+      <title>山姆大叔制裁卡巴斯基的高層老闆，但不制裁卡巴斯基本人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/kaspersky_sanctions_ceo/</link>
       <description><![CDATA[這是美國所謂的「骯髒十人」名單 山姆大叔今天在卡巴斯基實驗室再次採取行動，制裁了這家防毒軟體製造商的十幾名首席高管和高級管理人員，但沒有對首席執行官和聯合創始人進行製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/kaspersky_sanctions_ceo/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>Phoenix UEFI 缺陷使一長串英特爾晶片陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/uefi_vulnerability_intel_chips/</link>
-      <description><![CDATA[研究人員將其與 BlackLotus 和 MosaicRegressor 相提並論 UEFI 韌體中的一個新漏洞正以與 BlackLotus 和其他類似產品類似的方式威脅著各種英特爾晶片系列的安全。 ]]></description>
+      <description><![CDATA[研究人員將其與 BlackLotus 和 MosaicRegressor 相提並論 UEFI 韌體中的一個新漏洞正以與 BlackLotus 和其他類似產品類似的方式威脅著廣泛的英特爾晶片系列的安全。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/uefi_vulnerability_intel_chips/</guid>
       <pubDate>Fri, 21 Jun 2024 16:27:05 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>Starlink 僅受邀請才能將網路裝入背包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/starlink_mini_invitation/</link>
-      <description><![CDATA[衛星天線不再只適用於屋頂 SpaceX 邀請一些客戶為其衛星寬頻服務購買新的Starlink Mini 接收器，該接收器作為便攜式選項提供，在美國的首發價格為599美元...]]></description>
+      <description><![CDATA[衛星天線不再只適用於屋頂 SpaceX 正在邀請一些客戶為其衛星寬頻服務購買新的Starlink Mini 接收器，該接收器作為便攜式選項提供，在美國的首發價格為599 美元...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/starlink_mini_invitation/</guid>
       <pubDate>Fri, 21 Jun 2024 13:34:07 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔掌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</link>
-      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機非常簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
+      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
       <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
     </item>
@@ -111,23 +111,23 @@
       <pubDate>Fri, 21 Jun 2024 11:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>猜測曾經使用或存取過多少儲存的數據</title>
+      <title>猜猜有多少儲存的資料被使用或存取過</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</link>
       <description><![CDATA[NetApp 的Matt Watts 在談到文件分類、浪費和功耗時表示，並沒有太多 採訪 NetApp 的首席技術佈道師Matt Watts 擔心可持續性和能耗問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</guid>
       <pubDate>Fri, 21 Jun 2024 10:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>X Window 系統仍然保持在 40 的水平</title>
+      <title>X Window 系統仍掛在 40 的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</link>
-      <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但這種窗口系統仍然繼續存在。]]></description>
+      <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但該窗口系統仍然繼續存在。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</guid>
       <pubDate>Fri, 21 Jun 2024 09:35:08 GMT</pubDate>
     </item>
     <item>
       <title>你錯了，我是對的，你隱藏了證明這一點的數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</link>
-      <description><![CDATA[技術人員之間應該有榮譽感，但承認錯誤可能很難 隨叫隨到  我們中很少有人是完美無缺的，但更多時候是使用者和經理犯了錯誤當 IT 出現問題時，他們就錯了。這就是為什麼每週五The Register 都會推出一期新的On Call，這是一個由讀者投稿的專欄，您可以在其中分享被要求救助無聊、頑童和傻瓜的故事。 ..]]></description>
+      <description><![CDATA[技術人員之間應該有榮譽感，但承認錯誤可能很難 隨叫隨到  我們當中很少有人是完美無缺的，但更多時候是使用者和經理犯了錯誤當 IT 出現問題時，他們就錯了。這就是為什麼每週五The Register 都會提供一期新的On Call，這是一個由讀者投稿的專欄，您可以在其中分享被要求救助無聊、頑童和傻瓜的故事。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</guid>
       <pubDate>Fri, 21 Jun 2024 07:31:13 GMT</pubDate>
     </item>
