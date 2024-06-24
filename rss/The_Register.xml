@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 06:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 06:39:20 GMT</lastBuildDate>
+    <item>
+      <title>DARPA 尋找量子電腦真正可以帶來革命性的領域，但結果好壞參半</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</link>
+      <description><![CDATA[這並不全是炒作，但在解決方案變得可行或負擔得起之前還需要做更多的工作 美國國防高級研究計劃局已經發布了一項評估量子計算機是否能夠兌現承諾的演習結果解決困擾經典機器的問題－結果好壞參半…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</guid>
+      <pubDate>Mon, 24 Jun 2024 06:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>印度在微型太空梭第三次著陸後將建造可重複使用的運載火箭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/india_orbital_reusable_vehicle/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，發布了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</guid>
       <pubDate>Fri, 21 Jun 2024 11:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>猜猜有多少儲存的資料被使用或存取過</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</link>
-      <description><![CDATA[NetApp 的Matt Watts 在談到文件分類、浪費和功耗時表示，並沒有太多 採訪 NetApp 的首席技術佈道師Matt Watts 擔心可持續性和能耗問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/netapp_matt_watts_interview/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
