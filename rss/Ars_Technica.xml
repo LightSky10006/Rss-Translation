@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 24 Jun 2024 20:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 21:36:11 GMT</lastBuildDate>
     <item>
-      <title>iOS 和 iPadOS 18 新增了格式化外部磁碟機的選項</title>
+      <title>在持續的供應鏈攻擊中後門潛入多個 WordPress 插件</title>
+      <link>https://arstechnica.com/?p=2033226</link>
+      <description><![CDATA[WordPress.org 提供的惡意更新會建立攻擊者控制的管理員帳號。]]></description>
+      <guid>https://arstechnica.com/?p=2033226</guid>
+      <pubDate>Mon, 24 Jun 2024 21:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 的驅動器格式化選項顯示了 iPhone 對於高級用戶來說已經走了多遠</title>
       <link>https://arstechnica.com/?p=2033190</link>
       <description><![CDATA[測試版的檔案應用程式可讓您以 APFS、exFat 和 FAT 格式格式化外部磁碟機。]]></description>
       <guid>https://arstechnica.com/?p=2033190</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Id Software 共同創辦人與 Ars 討論了從 Catacomb 3-D 到「嬰兒潮射擊遊戲」的所有內容。]]></description>
       <guid>https://arstechnica.com/?p=2032808</guid>
       <pubDate>Mon, 24 Jun 2024 11:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA無限期推遲Starliner返回以審查推進數據</title>
-      <link>https://arstechnica.com/?p=2032970</link>
-      <description><![CDATA[“我們讓數據來推動我們的決定。”]]></description>
-      <guid>https://arstechnica.com/?p=2032970</guid>
-      <pubDate>Sat, 22 Jun 2024 01:27:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
