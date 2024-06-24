@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 13:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 14:11:08 GMT</lastBuildDate>
     <item>
-      <title>歐洲指責蘋果阻止開發者告訴用戶蘋果牆外的世界</title>
+      <title>Starliner 將於 7 月繼續與國際太空站對接 - 沒有新的出發日期</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/starliner_to_remain_docked_to/</link>
+      <description><![CDATA[如果是波音公司，對於「太空人來說，這個玩笑就不會變得有點真實 隨著工程師分析來自國際太空站的數據，波音公司的Starliner 將在國際太空站( ISS) 停留一段時間。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/starliner_to_remain_docked_to/</guid>
+      <pubDate>Mon, 24 Jun 2024 14:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>歐洲指責蘋果阻止開發者告訴用戶外面的世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/ec_puts_apple_on_notice/</link>
-      <description><![CDATA[如果調查結果得到證實，可能會面臨巨額罰款。另外：Commish 對iPhone 製造商遵守新法律的行為展開新調查 歐盟委員會公佈了其初步調查結果，指控蘋果公司違反了《數位市場法》(DMA)，因為它阻止開發者使用它的 App Store 向客戶介紹 Apple 世界以外的選項。]]></description>
+      <description><![CDATA[Plus：委員會對iPhone 製造商遵守新法律的行為展開新調查 歐盟委員會發布了初步調查結果，指控蘋果公司阻止開發者告知客戶，從而違反了《數位市場法》 (DMA)關於 App Store 以外的選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/ec_puts_apple_on_notice/</guid>
       <pubDate>Mon, 24 Jun 2024 13:30:12 GMT</pubDate>
     </item>
@@ -43,19 +50,19 @@
     <item>
       <title>Meta 和 SQL Server 在網路痛苦的沙發上形成了奇怪的同床異夢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</link>
-      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟中，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
+      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</guid>
       <pubDate>Mon, 24 Jun 2024 08:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>技術人員因剪切和粘貼錯誤而毀掉了一個呼叫中心 - 幾乎毀了他們的職業生涯</title>
+      <title>管理員因剪下和貼上錯誤而毀掉了一個呼叫中心，幾乎毀了他們的職業生涯</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/who_me/</link>
       <description><![CDATA[您聽過關於忘記剪貼簿上的內容的技術人員的故事嗎？是星期一，工作週已經開始。值得慶幸的是，The Reg 帶著另一劑《誰，我？讀者們會在其中分享他們經歷過比你更糟糕的一天的故事。我們希望它能有所幫助。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/who_me/</guid>
       <pubDate>Mon, 24 Jun 2024 07:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>DARPA 尋找量子電腦真正能帶來革命性改變的領域，結果好壞參半</title>
+      <title>DARPA 尋找量子電腦真正可以帶來革命性的領域，但結果好壞參半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</link>
       <description><![CDATA[這並不全是炒作，但在解決方案變得可行或負擔得起之前還需要做更多的工作 美國國防高級研究計劃局已經發布了一項評估量子計算機是否能夠兌現承諾的演習結果解決困擾經典機器的問題－結果好壞參半…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>研究表明，從 Chrome 商店獲取惡意擴充功能的風險比Google透露的要嚴重得多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</link>
-      <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與任何其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
+      <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</guid>
       <pubDate>Sun, 23 Jun 2024 10:36:10 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 21 Jun 2024 21:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔制裁卡巴斯基的高層——但不制裁卡巴斯基本人</title>
+      <title>山姆大叔制裁卡巴斯基的高層老闆，但不制裁卡巴斯基本人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/kaspersky_sanctions_ceo/</link>
       <description><![CDATA[這是美國所謂的「骯髒十人」名單 山姆大叔今天在卡巴斯基實驗室再次採取行動，制裁了這家防毒軟體製造商的十幾名首席高管和高級管理人員，但沒有對首席執行官和聯合創始人進行製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/kaspersky_sanctions_ceo/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[校園面臨另一起種族歧視訴訟，因為違反《清潔空氣法》的指控也引起了關注 本週又針對特斯拉提起了另一起訴訟，理由是該公司弗里蒙特存在著「系統性…種族敵對的工作環境」 ，加州工廠。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/tesla_sued_for_discrimination_at_fremont/</guid>
       <pubDate>Fri, 21 Jun 2024 19:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>隱私功能在最新的 Firefox 更新中消失</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/firefox_127_private_window/</link>
-      <description><![CDATA[Mozilla 在掀起軒然大波後回溯私人視窗更改 Firefox 仍然是許多人選擇的瀏覽器，但最新的更新丟失了用戶的選項卡，並且當他們打開私人選項卡時，它會變得更明顯，遺失隱私點。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/firefox_127_private_window/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
