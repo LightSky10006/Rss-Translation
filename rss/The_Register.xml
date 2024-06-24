@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 02:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 04:36:07 GMT</lastBuildDate>
+    <item>
+      <title>三星宣布投資進軍 GPU 領域</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/samsung_gpu_business_investement_approved/</link>
+      <description><![CDATA[對Nvidia 的正面攻擊似乎不太可能- 但從Exynos 中拋棄AMD 是有好處的 分析 三星已調侃其進入GPU 行業，但其計劃並不明確.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/samsung_gpu_business_investement_approved/</guid>
+      <pubDate>Mon, 24 Jun 2024 04:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>隨著更多受害者、罪犯挺身而出，雪花像滾雪球一樣滾滾而來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/snowflake_breach_accelerating_into_snowball/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[永遠不要低估傳統技術的黏性 自Robert W Scheifler 開創X Window 系統時代以來已有40 年了，儘管許多發行版都在尋找替代品，但該窗口系統仍然繼續存在。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/x_window_system_is_40/</guid>
       <pubDate>Fri, 21 Jun 2024 09:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你錯了，我是對的，你隱藏了證明這一點的數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</link>
-      <description><![CDATA[技術人員之間應該有榮譽感，但承認錯誤可能很難 隨叫隨到  我們當中很少有人是完美無缺的，但更多時候是使用者和經理犯了錯誤當 IT 出現問題時，他們就錯了。這就是為什麼每週五The Register 都會提供一期新的On Call，這是一個由讀者投稿的專欄，您可以在其中分享被要求救助無聊、頑童和傻瓜的故事。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/on_call/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
