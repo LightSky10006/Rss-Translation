@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 11:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 13:12:56 GMT</lastBuildDate>
+    <item>
+      <title>英國國防部被指在「外部建議」上浪費了1.74億英鎊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mod_external_advice_spending/</link>
+      <description><![CDATA[Morpheus 通訊系統將於 2025 年上線？你一定是在做夢 英國政府被指控在「外部建議」下為武裝部隊的新無線電系統花費了1.74 億英鎊（2.2 億美元），該系統一直受到延誤和取消合約的困擾。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mod_external_advice_spending/</guid>
+      <pubDate>Mon, 24 Jun 2024 12:50:06 GMT</pubDate>
+    </item>
     <item>
       <title>隨著品牌調整包括更多產品線，HPE GreenLake 銷售額不斷增長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/hpes_greenlake_strategy/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[根據 CPUC 的裁決，電信公司仍將是最後手段 AT&amp;T 將不得不繼續在加州運營固定電話，儘管它希望切斷利潤較低的業務——加州公用事業公司委員會（ CPUC）已做出裁決。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/atts_request_to_withdraw_landline/</guid>
       <pubDate>Fri, 21 Jun 2024 17:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phoenix UEFI 缺陷使一長串英特爾晶片陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/uefi_vulnerability_intel_chips/</link>
-      <description><![CDATA[研究人員將其與 BlackLotus 和 MosaicRegressor 相提並論 UEFI 韌體中的一個新漏洞正以與 BlackLotus 和其他類似產品類似的方式威脅著廣泛的英特爾晶片系列的安全。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/uefi_vulnerability_intel_chips/</guid>
-      <pubDate>Fri, 21 Jun 2024 16:27:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
