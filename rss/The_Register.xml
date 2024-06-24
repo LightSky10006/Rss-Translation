@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 07:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 08:37:10 GMT</lastBuildDate>
+    <item>
+      <title>Meta 和 SQL Server 在網路痛苦的沙發上形成了奇怪的同床異夢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</link>
+      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</guid>
+      <pubDate>Mon, 24 Jun 2024 08:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>技術人員因剪切和粘貼錯誤而毀掉了一個呼叫中心 - 幾乎毀了他們的職業生涯</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/who_me/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[衛星天線不再只適用於屋頂 SpaceX 正在邀請一些客戶為其衛星寬頻服務購買新的Starlink Mini 接收器，該接收器作為便攜式選項提供，在美國的首發價格為599 美元...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/starlink_mini_invitation/</guid>
       <pubDate>Fri, 21 Jun 2024 13:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Virt-v2v 逃離 VMware 昂貴的魔掌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</link>
-      <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
-      <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
