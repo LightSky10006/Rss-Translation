@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 21:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 22:11:43 GMT</lastBuildDate>
+    <item>
+      <title>唱片公司聯手起訴人工智慧音樂生成器二人組，使其徹底被遺忘</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/udio_suno_riaa/</link>
+      <description><![CDATA[唱片工業協會。美國策劃對Udio 和Suno 的戰爭 大牌唱片公司聯合起訴兩家人工智慧新創公司，指控其未經許可在受版權保護的曲目上訓練其音樂生成模型，導致軟體發出抄襲商業作品的音訊...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/udio_suno_riaa/</guid>
+      <pubDate>Mon, 24 Jun 2024 21:43:14 GMT</pubDate>
+    </item>
     <item>
       <title>Ollama 戲劇是開源人工智慧伺服器中發現的「易於利用」的嚴重缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/rce_ollama_wiz/</link>
@@ -36,21 +43,21 @@
     <item>
       <title>軟體公司 CDK 遭遇網路危機後，汽車經銷商陷入慢車道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/the_number_of_cdk_customers/</link>
-      <description><![CDATA[隨著中斷進入第二週，更多客戶向SEC 自我報告 向美國證券交易委員會(SEC) 提交8-K 表格並提及陷入困境的汽車經銷商軟體公司CDK的美國公司數量正在安裝。]]></description>
+      <description><![CDATA[隨著中斷進入第二週，更多客戶向SEC 自我報告 向美國證券交易委員會(SEC) 提交8-K 表並提及陷入困境的汽車經銷商軟體公司CDK的美國公司數量正在安裝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/the_number_of_cdk_customers/</guid>
       <pubDate>Mon, 24 Jun 2024 18:02:13 GMT</pubDate>
     </item>
     <item>
       <title>屋主說，太空碎片在我的屋頂上打了一個洞，美國太空總署應該要賠償</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/nasa_ought_to_pay_up/</link>
-      <description><![CDATA[奧特羅一家起訴山姆大叔，要求賠償8 萬美元以上，以讓一切恢復正常 國際太空站的碎片在他的屋頂上砸出了一個洞，佛羅裡達州的一位屋主起訴NASA，要求賠償超過8 萬美元。]]></description>
+      <description><![CDATA[奧特羅家族起訴山姆大叔，要求賠償8 萬美元以上，以讓一切恢復正常 國際太空站的碎片在他的屋頂上砸出了一個洞，佛羅裡達州的一位屋主起訴NASA，要求賠償超過8 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/nasa_ought_to_pay_up/</guid>
       <pubDate>Mon, 24 Jun 2024 17:16:07 GMT</pubDate>
     </item>
     <item>
       <title>微軟最新的 Surface 裝置幾乎和損壞一樣容易修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</link>
-      <description><![CDATA[iFixit 對考慮維修設計的硬體給予臨時8 分（滿分10 分） Microsoft 獲得了iFixit 的好評，其最新Surface Pro 和Surface Pro 的可修復性得到了臨時8 分（滿分10 分）筆記型電腦設備。]]></description>
+      <description><![CDATA[iFixit 對在設計時考慮到可維修性的硬體給出了臨時8 分（滿分10 分） Microsoft 獲得了iFixit 的好評，其最新Surface Pro 和Surface Pro 的可修復性愛得到了臨時8 分（滿分10 分）筆記型電腦設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</guid>
       <pubDate>Mon, 24 Jun 2024 16:32:14 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>Meta 和 Microsoft SQL Server 在網路痛苦的沙發上結下了不解之緣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</link>
-      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
+      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟中，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</guid>
       <pubDate>Mon, 24 Jun 2024 08:30:05 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 24 Jun 2024 07:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>DARPA 尋找量子電腦真正可以帶來革命性的領域，但結果好壞參半</title>
+      <title>DARPA 尋找量子電腦真正能帶來革命性改變的領域，結果好壞參半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</link>
       <description><![CDATA[這並不全是炒作，但在解決方案變得可行或負擔得起之前還需要做更多的工作 美國國防高級研究計劃局已經發布了一項評估量子計算機是否能夠兌現承諾的演習結果解決困擾經典機器的問題－結果好壞參半…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</guid>
       <pubDate>Mon, 24 Jun 2024 06:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度在微型太空梭第三次著陸後將建造可重複使用的運載火箭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/india_orbital_reusable_vehicle/</link>
-      <description><![CDATA[下一步：載人飛行任務的更多工作，包括太空人的太空瑜珈 印度太空研究組織在對無動力實驗前體進行第三次測試再次成功著陸後，表示有意建造可重複使用的運載火箭...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/india_orbital_reusable_vehicle/</guid>
-      <pubDate>Mon, 24 Jun 2024 05:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
