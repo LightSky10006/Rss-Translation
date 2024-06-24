@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 06:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 07:34:26 GMT</lastBuildDate>
+    <item>
+      <title>技術人員因剪切和粘貼錯誤而毀掉了一個呼叫中心 - 幾乎毀了他們的職業生涯</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/who_me/</link>
+      <description><![CDATA[您聽過關於忘記剪貼簿上的內容的技術人員的故事嗎？是星期一，工作週已經開始。值得慶幸的是，The Reg 帶著另一劑《誰，我？讀者們會在其中分享他們經歷過比你更糟糕的一天的故事。我們希望它能有所幫助。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/who_me/</guid>
+      <pubDate>Mon, 24 Jun 2024 07:29:08 GMT</pubDate>
+    </item>
     <item>
       <title>DARPA 尋找量子電腦真正可以帶來革命性的領域，但結果好壞參半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/darpa_quantum_computer_benchmarking_papers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[或假設任何其他可能會被收購或突然變得更昂貴的虛擬機器管理程式 Devconf.cz 將虛擬機器從一台主機移至另一台主機很簡單。將虛擬機器從一個虛擬機器管理程式遷移到另一個虛擬機器管理程式並不是一件簡單的事 - 但幫助就在眼前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/virtv2v_helps_you_move_vms/</guid>
       <pubDate>Fri, 21 Jun 2024 12:31:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>麒麟網路浮渣洩漏數據，他們聲稱屬於倫敦醫院的病理提供者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</link>
-      <description><![CDATA[至少他們沒有得到 5000 萬美元的贖金要求 造成倫敦醫院混亂的勒索軟體團夥信守諾言，發布了一批聲稱屬於病理學的數據服務提供商Synnovis....&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/21/qilin_cyber_scum_leak_the/</guid>
-      <pubDate>Fri, 21 Jun 2024 11:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
