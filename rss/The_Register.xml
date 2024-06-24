@@ -4,19 +4,26 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 17:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 18:14:25 GMT</lastBuildDate>
     <item>
-      <title>房主聲稱，美國宇航局應該為在我的屋頂上打出一個洞的太空碎片賠償</title>
+      <title>軟體公司 CDK 遭遇網路危機後，汽車經銷商陷入慢車道</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/the_number_of_cdk_customers/</link>
+      <description><![CDATA[隨著中斷進入第二週，更多客戶向SEC 自我報告 向美國證券交易委員會(SEC) 提交8-K 表格並提及陷入困境的汽車經銷商軟體公司CDK的美國公司數量正在安裝。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/the_number_of_cdk_customers/</guid>
+      <pubDate>Mon, 24 Jun 2024 18:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>屋主說，太空碎片在我的屋頂上打了一個洞，美國太空總署應該要賠償</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/nasa_ought_to_pay_up/</link>
-      <description><![CDATA[奧特羅家族向航太局索要8 萬美元，讓一切恢復正常 奧特羅家族在提交正式索賠要求航太局支付80 美元後聲稱，來自NASA 的太空碎片擊中了佛羅裡達州一位房主的房屋k+“使它們完整”。]]></description>
+      <description><![CDATA[奧特羅一家起訴山姆大叔，要求賠償8 萬美元以上，以讓一切恢復正常 國際太空站的碎片在他的屋頂上砸出了一個洞，佛羅裡達州的一位屋主起訴NASA，要求賠償超過8 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/nasa_ought_to_pay_up/</guid>
       <pubDate>Mon, 24 Jun 2024 17:16:07 GMT</pubDate>
     </item>
     <item>
       <title>微軟最新的 Surface 裝置幾乎和損壞一樣容易修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</link>
       <description><![CDATA[iFixit 對考慮維修設計的硬體給予臨時8 分（滿分10 分） Microsoft 獲得了iFixit 的好評，其最新Surface Pro 和Surface Pro 的可修復性得到了臨時8 分（滿分10 分）筆記型電腦設備。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</guid>
       <pubDate>Mon, 24 Jun 2024 16:32:14 GMT</pubDate>
     </item>
     <item>
@@ -28,9 +35,9 @@
     </item>
     <item>
       <title>Linux 極客歡呼 Arm 與 x86 較量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/almalinux_pi5_tuxedo/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/arm_linux_x86/</link>
       <description><![CDATA[AlmaLinux 和對Raspberry Pi 5 的上游核心支持，以及即將推出的高性能Arm64 Tuxedo 筆記型電腦 圍繞當前和下一代Arm64 套件的Linux 支持，令人鼓舞的聲音來自多個方向。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/almalinux_pi5_tuxedo/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/arm_linux_x86/</guid>
       <pubDate>Mon, 24 Jun 2024 15:01:07 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</guid>
       <pubDate>Sun, 23 Jun 2024 10:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>將帶有自訂提示的 LLM 烘焙到您的應用程式中？當然！以下是如何開始</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/22/llm_rust_ai/</link>
-      <description><![CDATA[我們信任 Rust。但在 gen-AI 中不會產生幻覺嗎？呃，那是另一個故事了 動手 大型語言模型 (LLM) 通常與 ChatGPT、Copilot 和 Gemini 等聊天機器人相關，但它們絕不限於問答式互動。法學碩士越來越多地被整合到從 IDE 到辦公室生產力套件的所有事物中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/22/llm_rust_ai/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:20:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
