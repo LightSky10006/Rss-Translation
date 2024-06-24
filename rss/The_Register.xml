@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 18:37:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 19:09:35 GMT</lastBuildDate>
+    <item>
+      <title>印尼政府資料中心在價值 800 萬美元的勒索軟體攻擊中被鎖定</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/</link>
+      <description><![CDATA[據說Lockbit 3.0 的變體是攻擊的首選武器 印尼政府承認其國家資料中心遭到勒索軟體犯罪分子的攻擊，擾亂了該國的一些服務。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/</guid>
+      <pubDate>Mon, 24 Jun 2024 18:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>軟體公司 CDK 遭遇網路危機後，汽車經銷商陷入慢車道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/the_number_of_cdk_customers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：華為更接近脫離 Android；印度調查亞馬遜倉庫；新加坡擁有自動街道清掃機 亞洲簡報 軟銀首席執行官孫正義上週告訴投資者，他相信智能程度是人類一萬倍的“人工智能超級智能”可能會以最少的成本實現三年...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/asia_tech_news_in_brief/</guid>
       <pubDate>Mon, 24 Jun 2024 00:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究表明，從 Chrome 商店安裝可疑擴充功能的風險比Google透露的要嚴重得多</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</link>
-      <description><![CDATA[一切都取決於你如何計算- 巧克力工廠聲稱失敗率為1% Google 本週再次保證，其對Chrome 擴展程序的審查可以捕獲大多數惡意代碼，儘管它承認“與其他惡意程式碼一樣」軟體、擴充功能也會帶來風險。」...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/23/google_chrome_web_store_vetting/</guid>
-      <pubDate>Sun, 23 Jun 2024 10:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
