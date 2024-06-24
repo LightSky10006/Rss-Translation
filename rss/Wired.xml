@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 24 Jun 2024 09:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 10:12:55 GMT</lastBuildDate>
+    <item>
+      <title>Markdown 永恆的真理</title>
+      <link>https://www.wired.com/story/the-eternal-truth-of-markdown/</link>
+      <description><![CDATA[網路上最普遍的一段程式碼的註解。]]></description>
+      <guid>https://www.wired.com/story/the-eternal-truth-of-markdown/</guid>
+      <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>繁文縟節使醫院勒索軟體攻擊變得更加嚴重</title>
       <link>https://www.wired.com/story/ransomware-health-care-assurance-letters/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>ASUS Vivobook S 15 Copilot+ PC 評測：電池壽命值得期待</title>
       <link>https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/</link>
-      <description><![CDATA[第一波 Copilot+ PC 已經問世，雖然圖形性能表現不佳，但這款華碩機器的電池續航時間卻得到了提升。]]></description>
+      <description><![CDATA[第一波 Copilot+ PC 已經面世，雖然圖形性能表現平淡，但這款華碩機器的電池續航時間卻得到了提升。]]></description>
       <guid>https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/</guid>
       <pubDate>Sun, 23 Jun 2024 12:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著娛樂業的復甦，獅門影業包容性內容主管卡瑪拉·阿維拉-薩蒙 (Kamala Avila-Salmon) 希望確保娛樂業恢復得比以前更健康。]]></description>
       <guid>https://www.wired.com/story/dial-up-kamala-avila-salmon/</guid>
       <pubDate>Fri, 21 Jun 2024 20:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity 抄襲了我們關於 Perplexity 如何成為廢話機器的故事</title>
-      <link>https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/</link>
-      <description><![CDATA[對於這家人工智慧搜尋新創公司的做法是否會使其面臨從侵權到誹謗等法律索賠，專家們並沒有達成一致意見，但有些人表示原告會有強有力的案例。]]></description>
-      <guid>https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/</guid>
-      <pubDate>Fri, 21 Jun 2024 17:22:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
