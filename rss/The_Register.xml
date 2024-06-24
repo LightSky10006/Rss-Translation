@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 24 Jun 2024 20:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 21:10:33 GMT</lastBuildDate>
+    <item>
+      <title>Ollama 戲劇是開源人工智慧伺服器中發現的「易於利用」的嚴重缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/rce_ollama_wiz/</link>
+      <description><![CDATA[據我們所知，大約有1000 個易受攻擊的實例仍然在線暴露 Ollama（一個運行LLM 的流行開源專案）中的一個現已修補的漏洞可能會導致遠端程式碼執行，根據缺陷發現者警告說，超過 1,000 個易受攻擊的實例仍然暴露在互聯網上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/rce_ollama_wiz/</guid>
+      <pubDate>Mon, 24 Jun 2024 20:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>有趣的是，Y Combinator 新創公司不喜歡加州人工智慧安全法草案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/ai_startups_california_bill/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[下一步：載人飛行任務的更多工作，包括太空人的太空瑜珈 印度太空研究組織在對無動力實驗前體進行第三次測試再次成功著陸後，表示有意建造可重複使用的運載火箭...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/india_orbital_reusable_vehicle/</guid>
       <pubDate>Mon, 24 Jun 2024 05:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星宣布投資進軍 GPU 領域</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/samsung_gpu_business_investement_approved/</link>
-      <description><![CDATA[對Nvidia 的正面攻擊似乎不太可能- 但從Exynos 中拋棄AMD 是有好處的 分析 三星已調侃其進入GPU 行業，但其計劃並不明確.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/samsung_gpu_business_investement_approved/</guid>
-      <pubDate>Mon, 24 Jun 2024 04:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
