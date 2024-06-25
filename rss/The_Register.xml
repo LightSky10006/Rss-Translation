@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 12:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 13:13:21 GMT</lastBuildDate>
+    <item>
+      <title>正如承諾的那樣，Broadcom 的 VMware 使其堆疊更易於使用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/vmware_cloud_foundation_update_broadcom_plan/</link>
+      <description><![CDATA[透過即時ESXi 修補將運算、儲存和網路虛擬化結合在一起 VMware by Broadcom 預覽了其旗艦產品Cloud Foundation 和vSphere Foundation 捆綁包的更新，這些更新似乎兌現了過去的承諾，使virty Giant 的商品更容易取得和操作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/vmware_cloud_foundation_update_broadcom_plan/</guid>
+      <pubDate>Tue, 25 Jun 2024 13:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟指控微軟將 Teams 與 O365 捆綁銷售違反反壟斷法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/ec_microsoft_teams_bundling/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[奧特羅家族起訴山姆大叔，要求賠償8 萬美元以上，以讓一切恢復正常 國際太空站的碎片在他的屋頂上砸出了一個洞，佛羅裡達州的一位屋主起訴NASA，要求賠償超過8 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/nasa_ought_to_pay_up/</guid>
       <pubDate>Mon, 24 Jun 2024 17:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟最新的 Surface 裝置幾乎和損壞一樣容易修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</link>
-      <description><![CDATA[iFixit 對在設計時考慮到可維修性的硬體給出了臨時8 分（滿分10 分） Microsoft 獲得了iFixit 的好評，其最新Surface Pro 和Surface Pro 的可修復性愛得到了臨時8 分（滿分10 分）筆記型電腦設備。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/microsoft_surface_ifixit_repairs/</guid>
-      <pubDate>Mon, 24 Jun 2024 16:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
