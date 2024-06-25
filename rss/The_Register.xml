@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 11:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 11:34:29 GMT</lastBuildDate>
+    <item>
+      <title>本地人工智慧已經到來——解決無人真正擁有的多雲問題的解決方案</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_hpe_ai/</link>
+      <description><![CDATA[分析師Steve Brazier 表示，隨著監管機構的關注，這並不是說Nvidia 和超大規模企業將會獲勝 HPE 發現 去年在拉斯維加斯舉行的HPE Discover 展會上走秀一周以來，這只禿鷹給人留下了明顯的印象：HPE 及其合作夥伴相信交鑰匙本地企業級人工智能時代已經到來。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_hpe_ai/</guid>
+      <pubDate>Tue, 25 Jun 2024 11:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾投資者因 Foundry 失敗提起訴訟，尋求重塑公司治理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[AlmaLinux 和對Raspberry Pi 5 的上游核心支持，以及即將推出的高性能Arm64 Tuxedo 筆記型電腦 圍繞當前和下一代Arm64 套件的Linux 支持，令人鼓舞的聲音來自多個方向。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/arm_linux_x86/</guid>
       <pubDate>Mon, 24 Jun 2024 15:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>觀察到「類似 Mirai」的殭屍網路攻擊 EOL Zyxel NAS 設備</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/</link>
-      <description><![CDATA[似乎是升級舊硬體的好時機 在三個關鍵漏洞的詳細資訊公佈後幾週，就有早期跡象表明，針對報廢的 Zyxel NAS 盒子的主動攻擊公開…&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/</guid>
-      <pubDate>Mon, 24 Jun 2024 14:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
