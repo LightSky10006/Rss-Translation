@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 25 Jun 2024 21:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 23:10:27 GMT</lastBuildDate>
+    <item>
+      <title>研究人員透過消除法學碩士中的矩陣乘法來顛覆人工智慧現狀</title>
+      <link>https://arstechnica.com/?p=2033314</link>
+      <description><![CDATA[在沒有矩陣數學的情況下運行 AI 模型意味著功耗更低，GPU 也更少？]]></description>
+      <guid>https://arstechnica.com/?p=2033314</guid>
+      <pubDate>Tue, 25 Jun 2024 22:27:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 ChatGPT for Mac 現已向所有使用者開放</title>
+      <link>https://arstechnica.com/?p=2033436</link>
+      <description><![CDATA[它支援除 API 呼叫之外的幾乎所有內容。]]></description>
+      <guid>https://arstechnica.com/?p=2033436</guid>
+      <pubDate>Tue, 25 Jun 2024 21:37:32 GMT</pubDate>
+    </item>
     <item>
       <title>氯胺酮治療憂鬱症藥物在試驗中顯示出正面效果，但也有註意事項</title>
       <link>https://arstechnica.com/?p=2033492</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[液態碳氫化合物波可能會達到一公尺的高度。]]></description>
       <guid>https://arstechnica.com/?p=2033382</guid>
       <pubDate>Tue, 25 Jun 2024 17:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟因「可能濫用」Teams 和 Office 捆綁而面臨巨額罰款</title>
-      <link>https://arstechnica.com/?p=2033342</link>
-      <description><![CDATA[微軟誓言要做出更多改變，因 Teams 捆綁而面臨歐盟罰款。]]></description>
-      <guid>https://arstechnica.com/?p=2033342</guid>
-      <pubDate>Tue, 25 Jun 2024 16:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>朱利安阿桑奇認罪，但在長期引渡鬥爭後將回家</title>
-      <link>https://arstechnica.com/?p=2033336</link>
-      <description><![CDATA[“朱利安自由了！”阿桑奇與美國政府達成協議後，妻子寫道。]]></description>
-      <guid>https://arstechnica.com/?p=2033336</guid>
-      <pubDate>Tue, 25 Jun 2024 16:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
