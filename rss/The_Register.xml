@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 20:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 20:34:44 GMT</lastBuildDate>
+    <item>
+      <title>Fiend 兜售被盜的 Neiman Marcus 客戶訊息，價值 15 萬美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/neiman_marcus_snowflake_victim/</link>
+      <description><![CDATA[Flash clobber 連鎖店在 Snowflake 慘敗派對上遲到了 據說從 Neiman Marcus 的 Snowflake 實例中竊取的客戶信息已在暗網上以 150,000 美元的價格出售。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/neiman_marcus_snowflake_victim/</guid>
+      <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
-      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有的話） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
+      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
       <pubDate>Tue, 25 Jun 2024 19:15:08 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>這是特斯拉 Cyber​​truck 幾個月內的 3 次召回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tesla_cybertruck_recalled_again/</link>
-      <description><![CDATA[現在擋風玻璃雨刷故障，裝飾件自行脫落 特斯拉又發布了兩次實體Cyber​​truck 召回，使該公司必須在問題車輛上修復的硬體問題總數達到幾個月內三個。]]></description>
+      <description><![CDATA[現在擋風玻璃雨刷故障，裝飾件自行脫落 特斯拉又發布了兩次實體Cyber​​truck 召回，使該公司必須修復問題車輛上的硬體問題總數達到幾個月內三個。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tesla_cybertruck_recalled_again/</guid>
       <pubDate>Tue, 25 Jun 2024 17:45:15 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>SAP客戶警告非官方雲端路徑中隱藏的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</link>
-      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會受到風險和 TCO 的影響。]]></description>
+      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會承受風險和 TCO。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</guid>
       <pubDate>Tue, 25 Jun 2024 16:15:09 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Andrew Tanenbaum 因開創 MINIX 而榮獲殊榮，該作業系統隱藏在許多電腦中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</link>
-      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界的更廣泛的教育影響而受到認可。 ]]></description>
+      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界更廣泛的教育影響力而受到認可。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</guid>
       <pubDate>Tue, 25 Jun 2024 14:31:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>英特爾投資者因 Foundry 失敗提起訴訟，尋求重塑公司治理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</link>
-      <description><![CDATA[訴訟要求做出重大改變，並提高報告的透明度 英特爾高層因一名投資者提起的股東派生訴訟而受到打擊，指控他們和其他人在該公司代工業務的財務表現方面受到誤導。]]></description>
+      <description><![CDATA[訴訟要求做出重大改變並提高報告透明度 英特爾高層因一名投資者提起的股東派生訴訟而受到打擊，指控他們和其他人在該公司代工業務的財務業績方面受到誤導。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</guid>
       <pubDate>Tue, 25 Jun 2024 10:34:12 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>人類的衛星習慣最終可能會窒息地球的臭氧層</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</link>
-      <description><![CDATA[當你認為我們已經解決了氯氟碳化物的時候 據報道，大量近地軌道衛星，例如星鏈運營的衛星，一旦重新進入大氣層，可能會對地球的臭氧層構成威脅最近的研究。]]></description>
+      <description><![CDATA[就在你認為我們已經解決了氯氟碳化合物的時候 據報道，大量近地軌道衛星（例如由星鏈運營的衛星）一旦重新進入大氣層，可能會對地球的臭氧層構成威脅最近的研究。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</guid>
       <pubDate>Tue, 25 Jun 2024 08:35:08 GMT</pubDate>
     </item>
     <item>
       <title>韓國鋰電池廠大火造成至少23人死亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire_korea/</link>
-      <description><![CDATA[國家消防局對213 個與電池相關的工作場所進行了檢查 週一，韓國華城的一家鋰電池製造廠發生火災，造成至少23 人死亡、八人受傷。 ..&lt; /p&gt;]]></description>
+      <description><![CDATA[國家消防局對213 個與電池相關的工作場所進行了檢查 週一，韓國華城一家鋰電池製造廠發生火災，造成至少23 人死亡、八人受傷。 .&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire_korea/</guid>
       <pubDate>Tue, 25 Jun 2024 07:57:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[類似於 Bedrock 或 Azure OpenAI Studio - 但增加了地緣政治風險的樂趣 阿里雲創建了 Modelscope 的英語版本，其模型即服務產品。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/alibaba_modelscope_english_translation/</guid>
       <pubDate>Tue, 25 Jun 2024 05:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>朱利安·阿桑奇在與美國達成認罪協議後獲釋</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/julian_assange_freed_plea_deal/</link>
-      <description><![CDATA[維基解密老闆已經離開布萊蒂，如果一切按計劃進行，最終將返回澳大利亞的家 維基解密創始人朱利安·阿桑奇在同意僅認罪後已從英國監獄獲釋美國對他提起密謀取得和洩漏國防資訊罪。山姆大叔此前提出了十幾項指控。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/julian_assange_freed_plea_deal/</guid>
-      <pubDate>Tue, 25 Jun 2024 00:19:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
