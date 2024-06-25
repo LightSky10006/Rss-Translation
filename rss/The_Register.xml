@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 21:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 22:34:27 GMT</lastBuildDate>
+    <item>
+      <title>美國市長敦促國會放棄繁文縟節的寬頻擴張法案</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/mayors_broadband_expansion/</link>
+      <description><![CDATA[怎麼了，你希望中國獲勝，是嗎？  美國高速互聯網覆蓋範圍的擴大進展緩慢，而且城市層面反對一項旨在簡化寬頻推廣的國家法律提案可能會進一步拖延事情。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/mayors_broadband_expansion/</guid>
+      <pubDate>Tue, 25 Jun 2024 22:20:13 GMT</pubDate>
+    </item>
     <item>
       <title>Fiend 兜售被盜的 Neiman Marcus 客戶訊息，價值 15 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/neiman_marcus_snowflake_victim/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
+      <title>OpenAI 將於 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
       <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>由於市場質疑人工智慧熱潮，Nvidia 損失了 500B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</link>
-      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為全球最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000 億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。]]></description>
+      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為世界上最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</guid>
       <pubDate>Tue, 25 Jun 2024 15:34:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[西班牙轉租衝擊解決住房危機 到 2028 年，西班牙巴塞隆納市的遊客的住宿選擇將減少，因為該市已決定驅逐短期公寓租賃經營者。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/airbnb_barcelona_ban/</guid>
       <pubDate>Tue, 25 Jun 2024 06:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里雲向世界釋放數千個中國人工智慧模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/alibaba_modelscope_english_translation/</link>
-      <description><![CDATA[類似於 Bedrock 或 Azure OpenAI Studio - 但增加了地緣政治風險的樂趣 阿里雲創建了 Modelscope 的英語版本，其模型即服務產品。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/alibaba_modelscope_english_translation/</guid>
-      <pubDate>Tue, 25 Jun 2024 05:26:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
