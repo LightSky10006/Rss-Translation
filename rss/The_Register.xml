@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 11:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:19:54 GMT</lastBuildDate>
+    <item>
+      <title>英國和美國警方聯手打擊 Qilin 勒索軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/</link>
+      <description><![CDATA[攻擊NHS 是一個非常糟糕的舉動 據報道，英國和美國警察已聯手尋找並打擊對全球醫療保健行業造成嚴重破壞的勒索軟體團夥Qilin。 &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/</guid>
+      <pubDate>Tue, 25 Jun 2024 12:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>本地人工智慧已經到來——解決無人真正擁有的多雲問題的解決方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_hpe_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[針鋒相對的口角可以避免 中國與歐盟委員會將就歐盟對中國電動車（EV）反補貼調查啟動磋商。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/china_and_the_eu_agree/</guid>
       <pubDate>Mon, 24 Jun 2024 15:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 極客歡呼 Arm 與 x86 較量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/arm_linux_x86/</link>
-      <description><![CDATA[AlmaLinux 和對Raspberry Pi 5 的上游核心支持，以及即將推出的高性能Arm64 Tuxedo 筆記型電腦 圍繞當前和下一代Arm64 套件的Linux 支持，令人鼓舞的聲音來自多個方向。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/arm_linux_x86/</guid>
-      <pubDate>Mon, 24 Jun 2024 15:01:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
