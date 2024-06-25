@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 25 Jun 2024 13:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 13:33:50 GMT</lastBuildDate>
+    <item>
+      <title>微軟面臨歐盟「濫用」捆綁指控</title>
+      <link>https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/</link>
+      <description><![CDATA[歐盟對微軟提出了競爭指控，指控其非法將 Teams 與 Office 連接起來。]]></description>
+      <guid>https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/</guid>
+      <pubDate>Tue, 25 Jun 2024 13:31:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱利安阿桑奇的傳奇終於結束了</title>
+      <link>https://www.wired.com/story/julian-assange-wikileaks-plea-deal/</link>
+      <description><![CDATA[維基解密創始人朱利安·阿桑奇週三同意在美國法庭承認一項間諜罪，結束了美國政府與一家有爭議的出版商之間長達數年的法律鬥爭。]]></description>
+      <guid>https://www.wired.com/story/julian-assange-wikileaks-plea-deal/</guid>
+      <pubDate>Tue, 25 Jun 2024 13:09:29 GMT</pubDate>
+    </item>
     <item>
       <title>Linner Mars 評論：適合串流媒體的優秀助聽器</title>
       <link>https://www.wired.com/review/linner-mars/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>美國正被中國電子煙淹沒</title>
       <link>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</link>
-      <description><![CDATA[美國政府誓言打擊非法尼古丁電子煙的銷售。它們只會變得更便宜、更精美、更有效。]]></description>
+      <description><![CDATA[美國政府發誓要打擊非法尼古丁電子煙的銷售。它們只會變得更便宜、更精美、更有效。]]></description>
       <guid>https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/</guid>
       <pubDate>Tue, 25 Jun 2024 09:30:00 GMT</pubDate>
     </item>
@@ -97,7 +111,7 @@
       <pubDate>Mon, 24 Jun 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>我們嘗試了 HelloFresh，它既簡單又美味</title>
+      <title>我們嘗試了 HelloFresh，簡單又美味</title>
       <link>https://www.wired.com/review/hellofresh/</link>
       <description><![CDATA[詳細的說明和美味的食物使這款餐包值得考慮。]]></description>
       <guid>https://www.wired.com/review/hellofresh/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[隨著網路攻擊越來越多地針對醫療保健提供者，旨在解決法律風險的艱鉅官僚程序使醫院的離線時間更長，可能會危及生命。]]></description>
       <guid>https://www.wired.com/story/ransomware-health-care-assurance-letters/</guid>
       <pubDate>Mon, 24 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>革命性的阿茲海默症治療方法無法幫助未確診的患者</title>
-      <link>https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/</link>
-      <description><![CDATA[英國阿茲海默症研究中心的執行長表示，問題在於何時能夠獲得高效的治療方法，而不是是否能夠獲得。但這並不能解決三分之一的癡呆症患者仍未得到診斷的問題。]]></description>
-      <guid>https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/</guid>
-      <pubDate>Mon, 24 Jun 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>大流行後的復甦並不能保證</title>
-      <link>https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/</link>
-      <description><![CDATA[像新冠這樣的災難的後果大致可以分為三個階段：蜜月期、衰退期和上升期。我們的目標始終是重建得更好，但在某些情況下這永遠不會發生。]]></description>
-      <guid>https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/</guid>
-      <pubDate>Mon, 24 Jun 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
