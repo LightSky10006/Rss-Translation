@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 02:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 05:34:40 GMT</lastBuildDate>
+    <item>
+      <title>阿里雲向世界釋放數千個中國人工智慧模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/alibaba_modelscope_english_translation/</link>
+      <description><![CDATA[類似於 Bedrock 或 Azure OpenAI Studio - 但增加了地緣政治風險的樂趣 阿里雲創建了 Modelscope 的英語版本，其模型即服務產品。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/alibaba_modelscope_english_translation/</guid>
+      <pubDate>Tue, 25 Jun 2024 05:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>朱利安·阿桑奇在與美國達成認罪協議後獲釋</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/julian_assange_freed_plea_deal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[KDE 6.1、Cinnamon 6.2 和IceWM 3.5 都已到來，那些好奇的人已經無法選擇了 兩個最受歡迎的“傳統”桌面的新版本已經發布，同時發布了一個新版本最古老和最小的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/kde_cinnamon_icewm/</guid>
       <pubDate>Mon, 24 Jun 2024 09:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 和 Microsoft SQL Server 在網路痛苦的沙發上結下了不解之緣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</link>
-      <description><![CDATA[美國佬食物中毒的幾率比英國人高很多。美國 IT 也同樣令人作嘔嗎？在超級時尚的人工智慧技術領域，Meta 勉強遵守了裁決 不要將歐洲社群媒體的廢話輸入到訓練資料中。同時，在工業貧民窟，20% 正在運行的Microsoft SQL Server 實例現在已經過了終點支援.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/meta_ms_sql_column/</guid>
-      <pubDate>Mon, 24 Jun 2024 08:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
