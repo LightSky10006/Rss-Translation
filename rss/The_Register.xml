@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 08:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 09:11:38 GMT</lastBuildDate>
     <item>
-      <title>韓國鋰電池工廠造成至少23人死亡</title>
+      <title>人類的衛星習慣最終可能會窒息地球的臭氧層</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</link>
+      <description><![CDATA[就在你認為我們已經解決了氯氟碳化合物的時候 據報道，大量近地軌道衛星（例如由星鏈運營的衛星）一旦重新進入大氣層，可能會對地球的臭氧層構成威脅最近的研究。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</guid>
+      <pubDate>Tue, 25 Jun 2024 08:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>韓國鋰電池工廠奪走至少23人生命</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire/</link>
       <description><![CDATA[國家消防局對213 個電池相關工作場所進行了檢查 週一，韓國華城一家鋰電池製造廠發生火災，造成至少23 人死亡、八人受傷。 / p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>唱片公司聯手起訴人工智慧音樂生成器二人組，使其徹底被遺忘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/udio_suno_riaa/</link>
-      <description><![CDATA[錄音工業協會。美國策劃針對Udio 和Suno 的戰爭 更新 大牌唱片公司聯合起訴兩家人工智慧新創公司，指控其未經許可在受版權保護的曲目上訓練其音樂生成模型，導致發出盜取商業作品音訊的軟體。]]></description>
+      <description><![CDATA[唱片工業協會。美國策劃針對Udio 和Suno 的戰爭 更新 大牌唱片公司聯合起訴兩家人工智慧新創公司，指控其未經許可在受版權保護的曲目上訓練其音樂生成模型，導致發出盜取商業作品音訊的軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/udio_suno_riaa/</guid>
       <pubDate>Mon, 24 Jun 2024 21:43:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>印尼政府資料中心在價值 800 萬美元的勒索軟體攻擊中被鎖定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/</link>
-      <description><![CDATA[據稱Lockbit 3.0 的變體是攻擊的首選武器 印尼政府承認其國家資料中心遭到勒索軟體犯罪分子的攻擊，擾亂了該國的一些服務。 /p&gt;]]></description>
+      <description><![CDATA[據說Lockbit 3.0 的變體是攻擊的首選武器 印尼政府承認其國家資料中心遭到勒索軟體犯罪分子的攻擊，擾亂了該國的一些服務。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/</guid>
       <pubDate>Mon, 24 Jun 2024 18:45:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：委員會對iPhone 製造商遵守新法律的行為展開新調查 歐盟委員會發布了初步調查結果，指控蘋果公司阻止開發者告知客戶，從而違反了《數位市場法》 (DMA)關於 App Store 以外的選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/ec_puts_apple_on_notice/</guid>
       <pubDate>Mon, 24 Jun 2024 13:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國國防部被指在「外部建議」上浪費了1.74億英鎊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mod_external_advice_spending/</link>
-      <description><![CDATA[Morpheus 通訊系統將於 2025 年上線？你一定是在做夢 英國政府被指控在「外部建議」下為武裝部隊的新無線電系統花費了1.74 億英鎊（2.2 億美元），該系統一直受到延誤和取消合約的困擾。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mod_external_advice_spending/</guid>
-      <pubDate>Mon, 24 Jun 2024 12:50:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
