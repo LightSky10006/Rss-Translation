@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 16:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 16:39:09 GMT</lastBuildDate>
+    <item>
+      <title>SAP客戶警告非官方雲端路徑中隱藏的風險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</link>
+      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會承受風險和 TCO。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</guid>
+      <pubDate>Tue, 25 Jun 2024 16:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>由於市場質疑人工智慧熱潮，Nvidia 損失了 500B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[同樣的老抱怨：如果你要求我們公開這樣做，我們就無法改變世界 創投家 Y Combinator 和 140 多家機器學習新創公司簽署了一封公開信，反對擬議的熱點人工智慧安全法正在加州立法機關獲得通過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/ai_startups_california_bill/</guid>
       <pubDate>Mon, 24 Jun 2024 19:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPO 在爆炸性訴訟中表示，Mozilla 試圖將我趕出去，因為我患有癌症</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mozilla_product_chief_sues_over/</link>
-      <description><![CDATA[據說是候任執行長的Steve Teixeira 現在以歧視和報復為由起訴Firefox 製造商 Mozilla 公司及其三名高管本月在美國因涉傷殘疾而被起訴對首席產品長 Steve Teixeira 的歧視和報復…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/24/mozilla_product_chief_sues_over/</guid>
-      <pubDate>Mon, 24 Jun 2024 19:16:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
