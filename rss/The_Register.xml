@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 25 Jun 2024 22:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:48:42 GMT</lastBuildDate>
+    <item>
+      <title>微軟被指責為美國醫院巨頭數百萬多名患者記錄被盜的罪魁禍首</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft/</link>
+      <description><![CDATA[調查：語音辨識公司 Nuance 的員工在被解僱後並未被解僱 美國醫療保健提供者 Geisinger 擔心超過 100 萬名病患的高度個人資料被盜，並聲稱一名前員工微軟子公司的員工可能是罪魁禍首。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft/</guid>
+      <pubDate>Wed, 26 Jun 2024 00:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您在網站上使用 Polyfill.io 程式碼（例如超過 100,000 個程式碼），請立即將其刪除</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</link>
+      <description><![CDATA[中國CDN 吞併域名後，腳本變成惡意並感染網頁 今年早些時候，一家中國組織購買了polyfill.io 域名，該域名被用來感染惡意軟體，感染了超過100,000 個網站。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</guid>
+      <pubDate>Tue, 25 Jun 2024 23:48:13 GMT</pubDate>
+    </item>
     <item>
       <title>美國市長敦促國會放棄繁文縟節的寬頻擴張法案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/mayors_broadband_expansion/</link>
@@ -20,9 +34,9 @@
       <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 將於 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
+      <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
-      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
+      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有的話） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
       <pubDate>Tue, 25 Jun 2024 19:15:08 GMT</pubDate>
     </item>
@@ -50,21 +64,21 @@
     <item>
       <title>SAP客戶警告非官方雲端路徑中隱藏的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</link>
-      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會承受風險和 TCO。]]></description>
+      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會受到風險和 TCO 的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</guid>
       <pubDate>Tue, 25 Jun 2024 16:15:09 GMT</pubDate>
     </item>
     <item>
       <title>由於市場質疑人工智慧熱潮，Nvidia 損失了 500B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</link>
-      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為世界上最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。 &gt;]]></description>
+      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為全球最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000 億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</guid>
       <pubDate>Tue, 25 Jun 2024 15:34:07 GMT</pubDate>
     </item>
     <item>
       <title>Andrew Tanenbaum 因開創 MINIX 而榮獲殊榮，該作業系統隱藏在許多電腦中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</link>
-      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界更廣泛的教育影響力而受到認可。 ]]></description>
+      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界的更廣泛的教育影響而受到認可。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</guid>
       <pubDate>Tue, 25 Jun 2024 14:31:11 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>英特爾投資者因 Foundry 失敗提起訴訟，尋求重塑公司治理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</link>
-      <description><![CDATA[訴訟要求做出重大改變並提高報告透明度 英特爾高層因一名投資者提起的股東派生訴訟而受到打擊，指控他們和其他人在該公司代工業務的財務業績方面受到誤導。]]></description>
+      <description><![CDATA[訴訟要求做出重大改變，並提高報告的透明度 英特爾高層因一名投資者提起的股東派生訴訟而受到打擊，指控他們和其他人在該公司代工業務的財務表現方面受到誤導。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</guid>
       <pubDate>Tue, 25 Jun 2024 10:34:12 GMT</pubDate>
     </item>
@@ -120,30 +134,16 @@
     <item>
       <title>人類的衛星習慣最終可能會窒息地球的臭氧層</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</link>
-      <description><![CDATA[就在你認為我們已經解決了氯氟碳化合物的時候 據報道，大量近地軌道衛星（例如由星鏈運營的衛星）一旦重新進入大氣層，可能會對地球的臭氧層構成威脅最近的研究。]]></description>
+      <description><![CDATA[當你認為我們已經解決了氯氟碳化物的時候 據報道，大量近地軌道衛星，例如星鏈運營的衛星，一旦重新進入大氣層，可能會對地球的臭氧層構成威脅最近的研究。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/satellite_reentry_ozone/</guid>
       <pubDate>Tue, 25 Jun 2024 08:35:08 GMT</pubDate>
     </item>
     <item>
       <title>韓國鋰電池廠大火造成至少23人死亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire_korea/</link>
-      <description><![CDATA[國家消防局對213 個與電池相關的工作場所進行了檢查 週一，韓國華城一家鋰電池製造廠發生火災，造成至少23 人死亡、八人受傷。 .&lt; /p&gt;]]></description>
+      <description><![CDATA[國家消防局對213 個與電池相關的工作場所進行了檢查 週一，韓國華城的一家鋰電池製造廠發生火災，造成至少23 人死亡、八人受傷。 ..&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/aricell_plant_fire_korea/</guid>
       <pubDate>Tue, 25 Jun 2024 07:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ooredoo 將在中東地區推廣 Nvidia GPU</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/ooredoo_nvidia_gpus/</link>
-      <description><![CDATA[卡達電信公司認為這筆交易將使其在該地區領先18-24 個月 在美國限制向中東大部分地區出口某些高端人工智慧加速器的情況下，矽谷的Nvidia 已達到為卡達電信 Ooredoo 的資料中心提供「數千個」GPU 的協定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/ooredoo_nvidia_gpus/</guid>
-      <pubDate>Tue, 25 Jun 2024 07:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbn-bye：巴塞隆納禁止遊客短期出租公寓</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/airbnb_barcelona_ban/</link>
-      <description><![CDATA[西班牙轉租衝擊解決住房危機 到 2028 年，西班牙巴塞隆納市的遊客的住宿選擇將減少，因為該市已決定驅逐短期公寓租賃經營者。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/airbnb_barcelona_ban/</guid>
-      <pubDate>Tue, 25 Jun 2024 06:28:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
