@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 12:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 13:14:02 GMT</lastBuildDate>
     <item>
-      <title>Etched 希望透過專為變壓器模型建構的 ASIC 挑戰 Nvidia</title>
+      <title>由於救助談判的解體速度快於「重組」速度，源訊陷入混亂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</link>
+      <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
+      <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
       <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>SUSE Linux Enterprise 15 將獲得直至 Unix 時代結束的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</link>
-      <description><![CDATA[相容於 CentOS 的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。 ...]]></description>
+      <description><![CDATA[與 CentOS 相容的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</guid>
       <pubDate>Wed, 26 Jun 2024 08:26:12 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>朱利安阿桑奇認罪並自由離開法庭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/assange_pleads_guilty_sentenced_freed/</link>
-      <description><![CDATA[現在，關於帶他回澳大利亞的私人飛機的賬單...... 朱利安阿桑奇是一個自由人。 ]]></description>
+      <description><![CDATA[現在，關於帶他回澳大利亞的私人飛機的賬單...... 朱利安·阿桑奇是一個自由人。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/assange_pleads_guilty_sentenced_freed/</guid>
       <pubDate>Wed, 26 Jun 2024 07:02:45 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 26 Jun 2024 06:41:11 GMT</pubDate>
     </item>
     <item>
-      <title>雅虎日本在偵測到詐騙點擊後將放棄 1.89 億美元的廣告收入</title>
+      <title>雅虎日本在檢測到欺詐性點擊後將放棄 1.89 億美元的廣告收入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</link>
       <description><![CDATA[承認不確定某些點擊是否來自人類，指出品質更好，因為這表明並非所有點擊都已腐爛 雅虎！ 日本將在確定廣告商決定後免除向廣告商收取的1.89 億美元費用該門戶網站的母公司週二透露，這些網站被欺詐性指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</guid>
@@ -71,14 +78,14 @@
     <item>
       <title>組織犯罪和家庭暴力犯罪者是追蹤設備的大買家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</link>
-      <description><![CDATA[澳洲研究發現GPS 追蹤器（有時是AirTags）的需求是出於錯誤的原因 根據澳洲的一項研究，有組織的犯罪集團和已知的家庭暴力肇事者需要追蹤設備。]]></description>
+      <description><![CDATA[澳洲研究發現GPS 追蹤器（有時是AirTags）的需求是錯誤的 根據澳洲的一項研究，有組織的犯罪集團和已知的家庭暴力肇事者需要追蹤設備。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</guid>
       <pubDate>Wed, 26 Jun 2024 03:45:06 GMT</pubDate>
     </item>
     <item>
       <title>中國嫦娥六號太空艙帶著月球背面的戰利品返回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/china_far_side_sample/</link>
-      <description><![CDATA[現在要弄清楚它是否真的富含可以推動進一步探索的有用物質 中國的嫦娥六號返回艙經過 53 天的遠地任務後於週二抵達地球月球的一側。它帶著樣本回來了。]]></description>
+      <description><![CDATA[現在要弄清楚它是否真的富含可以推動進一步探索的有用物質 中國的嫦娥六號返回艙經過 53 天的遠地飛行任務後於週二抵達地球月球的一側。它帶著樣本回來了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/china_far_side_sample/</guid>
       <pubDate>Wed, 26 Jun 2024 02:26:11 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 26 Jun 2024 01:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>微軟被指責為美國醫院巨頭數百萬多名患者記錄被盜的罪魁禍首</title>
+      <title>微軟被指竊取美國醫院巨擘數百萬病患記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</link>
       <description><![CDATA[調查：語音辨識公司Nuance 的員工在被解僱後並未被拒之門外 更新 美國醫療保健提供者Geisinger 擔心超過100 萬患者的高度個人資料已被盜 - 並聲稱微軟子公司的一名前僱員可能是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</guid>
@@ -118,9 +125,9 @@
       <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
+      <title>OpenAI 將於 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
-      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有的話） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
+      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
       <pubDate>Tue, 25 Jun 2024 19:15:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在擋風玻璃雨刷出現故障，裝飾件自行脫落 特斯拉又發布了兩次實體Cyber​​truck 召回，這使得這家電動汽車製造商必須解決的硬件問題總數達到了幾個月內問題車輛就增至三輛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tesla_cybertruck_recalled_again/</guid>
       <pubDate>Tue, 25 Jun 2024 17:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲骨文擔心美國 TikTok 禁令將削弱其雲端利潤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/oracle_fears_that_us_tiktok/</link>
-      <description><![CDATA[跳舞吧！為我跳舞！和利潤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/oracle_fears_that_us_tiktok/</guid>
-      <pubDate>Tue, 25 Jun 2024 17:04:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
