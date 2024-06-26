@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 16:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 17:34:09 GMT</lastBuildDate>
+    <item>
+      <title>OneHouse斥資3500萬美元在表格格式大戰中為Hudi而戰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/onehouse_35_million_hudi/</link>
+      <description><![CDATA[在Databricks 擊敗了與Iceberg 相關的Tabular 後，首席執行官堅稱這場競賽中不止兩匹馬 OneHouse 是一家基於開源Apache Hudi 表格式的數據湖公司，已獲得3,500 萬美元的融資由 Craft Ventures 領投的 B 輪融資…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/onehouse_35_million_hudi/</guid>
+      <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
+    </item>
     <item>
       <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[調查：語音辨識公司Nuance 的員工在被解僱後並未被拒之門外 更新 美國醫療保健提供者Geisinger 擔心超過100 萬患者的高度個人資料已被盜 - 並聲稱微軟子公司的一名前僱員可能是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</guid>
       <pubDate>Wed, 26 Jun 2024 00:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您在網站上使用 Polyfill.io 程式碼（例如超過 100,000 個程式碼），請立即將其刪除</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</link>
-      <description><![CDATA[中國CDN 吞併域名後，腳本變成惡意並感染網頁 今年早些時候，一家中國組織購買了polyfill.io 域名，該域名被用來感染惡意軟體，感染了超過100,000 個網站。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</guid>
-      <pubDate>Tue, 25 Jun 2024 23:48:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
