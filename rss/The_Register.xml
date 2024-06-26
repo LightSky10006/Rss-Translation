@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 09:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 11:10:31 GMT</lastBuildDate>
+    <item>
+      <title>英國航空將 T5 行李混亂歸咎於「我們無法控制」的故障</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/british_airways_t5_luggage/</link>
+      <description><![CDATA[基本上是沃達豐 獨家 The Register可以獨家揭示英國航空公司持續混亂背後的“IT問題”其係統如何與沃達豐平台互動的問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/british_airways_t5_luggage/</guid>
+      <pubDate>Wed, 26 Jun 2024 10:49:47 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 希望大型科技公司為美國網路存取提供資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/att_wants_big_tech_network_fund/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為世界上最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</guid>
       <pubDate>Tue, 25 Jun 2024 15:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Andrew Tanenbaum 因開創 MINIX 而榮獲殊榮，該作業系統隱藏在許多電腦中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</link>
-      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界更廣泛的教育影響力而受到認可。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</guid>
-      <pubDate>Tue, 25 Jun 2024 14:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
