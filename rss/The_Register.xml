@@ -4,12 +4,19 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 19:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 19:33:52 GMT</lastBuildDate>
     <item>
-      <title>美國最高法院支持拜登利用社群媒體遏制假訊息的努力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/supreme_court_social_media/</link>
-      <description><![CDATA[優點和缺點：法官表示，原告並沒有受到不公平的對待 美國最高法院以原告為由，推翻了之前禁止聯邦機構與社交媒體平台協調打擊虛假信息的決定在在這種情況下，一開始就缺乏爭論的資格…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/supreme_court_social_media/</guid>
+      <title>由於美國制裁的影響，華為努力提高 GPU 產量</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/huawei_struggling_to_ramp_gpu/</link>
+      <description><![CDATA[習近平主席告訴全國，科技主導地位之爭和「國際大國」之間的博弈「交織在一起」 美國遏制中國先進晶片產業的努力可能正在產生效果，據稱華為正在其 Ascend 910B 加速器的產量難以提高。這項消息發布之際，中國國家主席旨在加強國家在包括晶片在內的關鍵技術方面的自力更生。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/huawei_struggling_to_ramp_gpu/</guid>
+      <pubDate>Wed, 26 Jun 2024 19:28:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院不會遏制拜登依靠社群媒體解決假訊息的努力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/supreme_court_social_media_biden/</link>
+      <description><![CDATA[優點，缺點：美國高級法官表示，原告並沒有受到不公平的對待 美國最高法院推翻了先前禁止聯邦機構與社交媒體平台協調打擊虛假信息的決定，理由是該案的原告從一開始就沒有資格進行辯論。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/supreme_court_social_media_biden/</guid>
       <pubDate>Wed, 26 Jun 2024 19:00:12 GMT</pubDate>
     </item>
     <item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
+      <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
       <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
@@ -69,14 +76,14 @@
       <pubDate>Wed, 26 Jun 2024 13:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>由於救助談判的解體速度快於“重組”，Atos陷入混亂</title>
+      <title>由於救助談判的解體速度快於「重組」速度，源訊陷入混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</link>
       <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
       <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>Etched 希望透過專為變壓器模型建構的 ASIC 挑戰 Nvidia</title>
+      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
       <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>SUSE Linux Enterprise 15 將獲得直至 Unix 時代結束的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</link>
-      <description><![CDATA[相容於 CentOS 的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。 ...]]></description>
+      <description><![CDATA[與 CentOS 相容的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</guid>
       <pubDate>Wed, 26 Jun 2024 08:26:12 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 26 Jun 2024 06:41:11 GMT</pubDate>
     </item>
     <item>
-      <title>雅虎日本在偵測到詐騙點擊後將放棄 1.89 億美元的廣告收入</title>
+      <title>雅虎日本在檢測到欺詐性點擊後將放棄 1.89 億美元的廣告收入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</link>
       <description><![CDATA[承認不確定某些點擊是否來自人類，指出品質更好，因為這表明並非所有點擊都已腐爛 雅虎！ 日本將在確定廣告商決定後免除向廣告商收取的1.89 億美元費用該門戶網站的母公司週二透露，這些網站被欺詐性指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</guid>
       <pubDate>Wed, 26 Jun 2024 05:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>組織犯罪和家庭暴力犯罪者是追蹤設備的大買家</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</link>
-      <description><![CDATA[澳洲研究發現GPS 追蹤器（有時是AirTags）的需求是出於錯誤的原因 根據澳洲的一項研究，有組織的犯罪集團和已知的家庭暴力肇事者需要追蹤設備。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</guid>
-      <pubDate>Wed, 26 Jun 2024 03:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
