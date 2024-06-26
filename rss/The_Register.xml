@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 11:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 12:21:14 GMT</lastBuildDate>
+    <item>
+      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
+      <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
+      <pubDate>Wed, 26 Jun 2024 12:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>格拉斯頓伯里將音樂節觀眾的尿液變成環保肥料</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/glastonbury_pee_fertilizer/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟被指竊取美國醫院巨擘數百萬病患記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</link>
-      <description><![CDATA[調查：語音辨識公司 Nuance 的員工在被解僱後並未被解僱 美國醫療保健提供者 Geisinger 擔心超過 100 萬名病患的高度個人資料被盜，並聲稱一名前員工微軟子公司的員工可能是罪魁禍首。]]></description>
+      <description><![CDATA[調查：語音辨識公司Nuance 的員工在被解僱後並未被拒之門外 更新 美國醫療保健提供者Geisinger 擔心超過100 萬患者的高度個人資料已被盜 - 並聲稱微軟子公司的一名前僱員可能是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</guid>
       <pubDate>Wed, 26 Jun 2024 00:44:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[跳舞吧！為我跳舞！和利潤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/oracle_fears_that_us_tiktok/</guid>
       <pubDate>Tue, 25 Jun 2024 17:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP客戶警告非官方雲端路徑中隱藏的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</link>
-      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會承受風險和 TCO。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</guid>
-      <pubDate>Tue, 25 Jun 2024 16:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
