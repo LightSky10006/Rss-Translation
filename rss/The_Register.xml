@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 07:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 07:34:38 GMT</lastBuildDate>
     <item>
-      <title>朱利安·阿桑奇認罪並自由離開法庭</title>
+      <title>想從人工智慧手中拯救地球嗎？裝入 FPGA 並拋棄矩陣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/ai_model_fpga/</link>
+      <description><![CDATA[瓦特，博士：研究人員發現機器學習模型可以在更適度的功耗要求下運行 使用替代數學和定制硬件，大型語言模型的能源效率可以提高50 倍，英國大學的研究人員聲稱加州聖克魯斯。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/ai_model_fpga/</guid>
+      <pubDate>Wed, 26 Jun 2024 07:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱利安阿桑奇認罪並自由離開法庭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/assange_pleads_guilty_sentenced_freed/</link>
       <description><![CDATA[現在，關於帶他回澳大利亞的私人飛機的賬單...... 朱利安·阿桑奇是一個自由人。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/assange_pleads_guilty_sentenced_freed/</guid>
@@ -15,12 +22,12 @@
     <item>
       <title>蘋果告訴模擬器開發者，復古遊戲是可以的，而不是整個作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_emulation_eu/</link>
-      <description><![CDATA[我們當然希望這不會讓歐洲監管機構感到不安，因為他們目前與蘋果的關係有多好 兩位開發者已經擺脫了蘋果關於其應用程序中視頻遊戲模擬器的最新規則的影響存儲並得出結論 iGiant 不適合模擬整個作業系統的軟體。]]></description>
+      <description><![CDATA[我們當然希望這不會讓歐洲監管機構感到不安，因為他們目前與蘋果的關係有多好 兩位開發者已經擺脫了蘋果關於其應用程序中視頻遊戲模擬器的最新規則的影響儲存並得出結論 iGiant 不適合模擬整個作業系統的軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_emulation_eu/</guid>
       <pubDate>Wed, 26 Jun 2024 06:41:11 GMT</pubDate>
     </item>
     <item>
-      <title>雅虎日本在偵測到詐騙點擊後將放棄 1.89 億美元的廣告收入</title>
+      <title>雅虎日本在檢測到欺詐性點擊後將放棄 1.89 億美元的廣告收入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</link>
       <description><![CDATA[承認不確定某些點擊是否來自人類，指出品質更好，因為這表明並非所有點擊都已腐爛 雅虎！ 日本將在確定廣告商決定後免除向廣告商收取的1.89 億美元費用該門戶網站的母公司週二透露，這些網站被欺詐性指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>組織犯罪和家庭暴力犯罪者是追蹤設備的大買家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</link>
-      <description><![CDATA[澳洲研究發現GPS 追蹤器（有時是AirTags）的需求是出於錯誤的原因 根據澳洲的一項研究，有組織的犯罪集團和已知的家庭暴力肇事者需要追蹤設備。]]></description>
+      <description><![CDATA[澳洲研究發現GPS 追蹤器（有時是AirTags）的需求是錯誤的 根據澳洲的一項研究，有組織的犯罪集團和已知的家庭暴力肇事者需要追蹤設備。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</guid>
       <pubDate>Wed, 26 Jun 2024 03:45:06 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 26 Jun 2024 00:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>如果您在網站上使用 Polyfill.io 程式碼（例如 100,000 多個），請立即將其刪除</title>
+      <title>如果您在網站上使用 Polyfill.io 程式碼（例如超過 100,000 個程式碼），請立即將其刪除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</link>
       <description><![CDATA[中國CDN 吞併域名後，腳本變成惡意並感染網頁 今年早些時候，一家中國組織購買了polyfill.io 域名，該域名被用來感染惡意軟體，感染了超過100,000 個網站。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
+      <title>OpenAI 將於 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
       <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>由於市場質疑人工智慧熱潮，Nvidia 損失了 500B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</link>
-      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為全球最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000 億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。]]></description>
+      <description><![CDATA[就在網路泡沫破滅之前，思科也曾一度成為世界上最有價值的公司 由於擔心GPU 製造商的估值可能被高估，Nvidia 的市值迅速損失了約5000億美元或由其晶片驅動的人工智慧市場是一個即將破裂的泡沫。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_share_price_drop/</guid>
       <pubDate>Tue, 25 Jun 2024 15:34:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[透過即時ESXi 修補將運算、儲存和網路虛擬化結合在一起 VMware by Broadcom 預覽了其旗艦產品Cloud Foundation 和vSphere Foundation 捆綁包的更新，這些更新似乎兌現了過去的承諾，使virty Giant 的商品更容易取得和操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/vmware_cloud_foundation_update_broadcom_plan/</guid>
       <pubDate>Tue, 25 Jun 2024 13:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟指控微軟將 Teams 與 O365 捆綁銷售違反反壟斷法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/ec_microsoft_teams_bundling/</link>
-      <description><![CDATA[在2023 年7 月開始調查後，向雷德蒙德總部發送了反對聲明 根據初步調查結果，微軟將協作工具Teams 與其主導的在線Office 生產力套件“捆綁”，違反了歐盟的反壟斷法規調查於 2023 年 7 月開始。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/ec_microsoft_teams_bundling/</guid>
-      <pubDate>Tue, 25 Jun 2024 12:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
