@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 04:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 05:34:58 GMT</lastBuildDate>
+    <item>
+      <title>雅虎日本在偵測到詐騙點擊後將放棄 1.89 億美元的廣告收入</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</link>
+      <description><![CDATA[承認不確定某些點擊是否來自人類，指出品質更好，因為這表明並非所有點擊都已腐爛 雅虎！ 日本將在確定廣告商決定後免除向廣告商收取的1.89 億美元費用該門戶網站的母公司週二透露，這些網站被欺詐性指控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/yahoo_japan_ad_fraud/</guid>
+      <pubDate>Wed, 26 Jun 2024 05:16:14 GMT</pubDate>
+    </item>
     <item>
       <title>組織犯罪和家庭暴力犯罪者是追蹤設備的大買家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/criminals_use_gps_bluetooth_trackers/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>中國嫦娥六號太空艙帶著月球背面的戰利品返回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/china_far_side_sample/</link>
-      <description><![CDATA[現在要弄清楚它是否真的富含可以推動進一步探索的有用物質 中國的嫦娥六號返回艙經過 53 天的遠地任務後於週二抵達地球月球的一側。它帶著樣本回來了。]]></description>
+      <description><![CDATA[現在要弄清楚它是否真的富含可以推動進一步探索的有用物質 中國的嫦娥六號返回艙經過 53 天的遠地飛行任務後於週二抵達地球月球的一側。它帶著樣本回來了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/china_far_side_sample/</guid>
       <pubDate>Wed, 26 Jun 2024 02:26:11 GMT</pubDate>
     </item>
@@ -27,14 +34,14 @@
       <pubDate>Wed, 26 Jun 2024 01:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>微軟被指責為美國醫院巨頭數百萬多名患者記錄被盜的罪魁禍首</title>
+      <title>微軟被指竊取美國醫院巨擘數百萬病患記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</link>
       <description><![CDATA[調查：語音辨識公司 Nuance 的員工在被解僱後並未被解僱 美國醫療保健提供者 Geisinger 擔心超過 100 萬名病患的高度個人資料被盜，並聲稱一名前員工微軟子公司的員工可能是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/</guid>
       <pubDate>Wed, 26 Jun 2024 00:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>如果您在網站上使用 Polyfill.io 程式碼（例如超過 100,000 個程式碼），請立即將其刪除</title>
+      <title>如果您在網站上使用 Polyfill.io 程式碼（例如 100,000 多個），請立即將其刪除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</link>
       <description><![CDATA[中國CDN 吞併域名後，腳本變成惡意並感染網頁 今年早些時候，一家中國組織購買了polyfill.io 域名，該域名被用來感染惡意軟體，感染了超過100,000 個網站。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/polyfillio_china_crisis/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
-      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有的話） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
+      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
       <pubDate>Tue, 25 Jun 2024 19:15:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>SAP客戶警告非官方雲端路徑中隱藏的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</link>
-      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會受到風險和 TCO 的影響。]]></description>
+      <description><![CDATA[但是Gartner 表示，對於某些客戶來說，RISE with SAP 也可能過於僵化 從社區雲、類似雲或以前的託管提供商處尋求ERP 軟體基礎設施支援的SAP 客戶應該這樣做因此要小心，因為從長遠來看，他們可能會承受風險和 TCO。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/sap_customers_warned_on_hidden/</guid>
       <pubDate>Tue, 25 Jun 2024 16:15:09 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>Andrew Tanenbaum 因開創 MINIX 而榮獲殊榮，該作業系統隱藏在許多電腦中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</link>
-      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界的更廣泛的教育影響而受到認可。 ]]></description>
+      <description><![CDATA[軟體系統獎表彰他對教育的貢獻 MINIX 的創建者Andy Tanenbaum 因其代碼、開創性教科書以及對現代FOSS 世界更廣泛的教育影響力而受到認可。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/tanenbaum_minix_award/</guid>
       <pubDate>Tue, 25 Jun 2024 14:31:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[分析師Steve Brazier 表示，隨著監管機構的關注，這並不是說Nvidia 和超大規模企業將會獲勝 HPE 發現 去年在拉斯維加斯舉行的HPE Discover 展會上走秀一周以來，這只禿鷹給人留下了明顯的印象：HPE 及其合作夥伴相信交鑰匙本地企業級人工智能時代已經到來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/nvidia_hpe_ai/</guid>
       <pubDate>Tue, 25 Jun 2024 11:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾投資者因 Foundry 失敗提起訴訟，尋求重塑公司治理</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</link>
-      <description><![CDATA[訴訟要求做出重大改變，並提高報告的透明度 英特爾高層因一名投資者提起的股東派生訴訟而受到打擊，指控他們和其他人在該公司代工業務的財務表現方面受到誤導。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/intel_foundry_investor_lawsuit/</guid>
-      <pubDate>Tue, 25 Jun 2024 10:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
