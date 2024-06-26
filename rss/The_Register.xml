@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 22:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 23:10:59 GMT</lastBuildDate>
+    <item>
+      <title>蘋果準備透過收購擺脫電池門和狡猾的音頻訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_settlement_repair/</link>
+      <description><![CDATA[600 萬美元和3500 萬美元的零用和解協議將於7 月獲得批准 蘋果準備在下個月就兩起涉嫌iPhone 缺陷的訴訟達成和解，前提是各自的法官同意交易條款。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_settlement_repair/</guid>
+      <pubDate>Wed, 26 Jun 2024 22:39:10 GMT</pubDate>
+    </item>
     <item>
       <title>聯邦政府懸賞 500 萬美元懸賞「加密女王」Ruja Ignatova</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fbi_ruja_ignatova/</link>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 26 Jun 2024 14:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>做好準備，是時候修復更多 MOVEit 錯誤了</title>
+      <title>做好準備，是時候修補更多 MOVEit 錯誤了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</link>
       <description><![CDATA[利用「毀滅性」漏洞的嘗試已經在進行中 你認為去年的 MOVEit 地獄景像已經完全過去了嗎？不幸的是，破壞者。在 Progress Software 揭露了影響 MOVEit Transfer 和 Gateway 的新漏洞後，我們又回到了第二輪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>SUSE Linux Enterprise 15 將獲得直至 Unix 時代結束的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</link>
-      <description><![CDATA[與 CentOS 相容的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。]]></description>
+      <description><![CDATA[相容於 CentOS 的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</guid>
       <pubDate>Wed, 26 Jun 2024 08:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>想從人工智慧手中拯救地球嗎？裝入 FPGA 並拋棄矩陣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/ai_model_fpga/</link>
-      <description><![CDATA[瓦特，博士：研究人員發現機器學習模型可以在更適度的功耗要求下運行 使用替代數學和定制硬件，大型語言模型的能源效率可以提高50 倍，英國大學的研究人員聲稱加州聖克魯斯。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/ai_model_fpga/</guid>
-      <pubDate>Wed, 26 Jun 2024 07:26:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
