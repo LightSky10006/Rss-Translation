@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 14:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 15:12:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 在新的 Windows 11 安裝過程中更難避免使用 OneDrive</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/microsoft_makes_onedrive_avoidance_trickier/</link>
+      <description><![CDATA[嘿，OneDrive！別管我的檔案 未經使用者許可，使用者資料正在透過 OneDrive 資料夾備份被竊取到 Microsoft 的雲端。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/microsoft_makes_onedrive_avoidance_trickier/</guid>
+      <pubDate>Wed, 26 Jun 2024 15:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>到 2050 年，電動車的資源負擔將增加兩倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/resource_burden_ev/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Flash clobber 連鎖店在 Snowflake 慘敗派對上遲到了 據說從 Neiman Marcus 的 Snowflake 實例中竊取的客戶信息已在暗網上以 150,000 美元的價格出售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/neiman_marcus_snowflake_victim/</guid>
       <pubDate>Tue, 25 Jun 2024 20:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 將從 7 月 9 日起停止對「不受支持」的國家（咳咳，中國）的封鎖</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</link>
-      <description><![CDATA[尚不完全清楚ChatGPT 製造商計劃採取哪些行動（如果有） ChatGPT 開發商OpenAI 已向其認為「不受支持」的國家/地區的用戶發送電子郵件，表示將阻止他們的訪問7 月 9 日開始，一切順利。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/25/openai_unsupported_countries/</guid>
-      <pubDate>Tue, 25 Jun 2024 19:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
