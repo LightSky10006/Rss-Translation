@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 06:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 06:39:15 GMT</lastBuildDate>
+    <item>
+      <title>阿里巴巴公佈了用於 LLM 培訓的資料中心設計和自製網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</link>
+      <description><![CDATA[每個DC 15,000 個GPU，主機中每台包含8 個GPU，外加9 個NIC - 借助帶有定制散熱器的交換機 獨家 阿里雲揭示了乙太網路的設計 -它專門創建了基於網路來傳輸用於訓練大型語言模型的流量 - 並已在生產中使用了八個月。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</guid>
+      <pubDate>Thu, 27 Jun 2024 06:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>印度政府正在調查富士康不會僱用已婚女性的說法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/foxconn_hiring_married_women/</link>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 26 Jun 2024 14:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>做好準備，是時候修復更多 MOVEit 錯誤了</title>
+      <title>做好準備，是時候修補更多 MOVEit 錯誤了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</link>
       <description><![CDATA[利用「毀滅性」漏洞的嘗試已經在進行中 你認為去年的 MOVEit 地獄景像已經完全過去了嗎？不幸的是，破壞者。在 Progress Software 揭露了影響 MOVEit Transfer 和 Gateway 的新漏洞後，我們又回到了第二輪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</guid>
       <pubDate>Wed, 26 Jun 2024 13:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於救助談判的解體速度快於「重組」速度，源訊陷入混亂</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</link>
-      <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
-      <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
