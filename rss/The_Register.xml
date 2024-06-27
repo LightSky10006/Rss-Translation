@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 26 Jun 2024 23:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 00:49:27 GMT</lastBuildDate>
+    <item>
+      <title>美國懸賞 1000 萬美元逮捕 WhisperGate 嫌疑人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/whispergate_malware_suspect_bounty/</link>
+      <description><![CDATA[俄羅斯國民被指控在烏克蘭戰爭前夕發動襲擊 美國司法部起訴一名 22 歲的俄羅斯人，罪名是涉嫌攻擊烏克蘭政府計算機並破壞烏克蘭境內的關鍵基礎設施系統在俄羅斯非法入侵歐洲國家之前發生的所謂「WhisperGate」雨刷攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/whispergate_malware_suspect_bounty/</guid>
+      <pubDate>Thu, 27 Jun 2024 00:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟創辦人保羅艾倫的科技博物館關閉並出售藏品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/paul_allen_museum_closes/</link>
+      <description><![CDATA[愛因斯坦的信、老式太空服和古代電腦全部出售 微軟聯合創始人已故保羅·艾倫的遺產已決定關閉“生命計算機：博物館+實驗室”，西雅圖網站收藏了他心愛的老式技術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/paul_allen_museum_closes/</guid>
+      <pubDate>Wed, 26 Jun 2024 23:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果準備透過收購擺脫電池門和狡猾的音頻訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_settlement_repair/</link>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
+      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
       <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
@@ -104,14 +118,14 @@
       <pubDate>Wed, 26 Jun 2024 13:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>由於救助談判的解體速度快於「重組」速度，源訊陷入混亂</title>
+      <title>由於救助談判的解體速度快於“重組”，Atos陷入混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</link>
       <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
       <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
+      <title>Etched 希望透過專為變壓器模型建構的 ASIC 挑戰 Nvidia</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
       <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[基本上是沃達豐 獨家 The Register可以獨家揭示英國航空公司持續混亂背後的“IT問題”其係統如何與沃達豐平台互動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/british_airways_t5_luggage/</guid>
       <pubDate>Wed, 26 Jun 2024 10:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 希望大型科技公司為美國網路存取提供資金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/att_wants_big_tech_network_fund/</link>
-      <description><![CDATA[平價連接資金即將結束... AT&amp;T 認為基於互聯網的技術巨頭應該向一項基金捐款，以補貼美國的電信和寬頻服務接入，並希望聯邦通信委員會（FCC ）強​​迫他們這樣做。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/att_wants_big_tech_network_fund/</guid>
-      <pubDate>Wed, 26 Jun 2024 09:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>SUSE Linux Enterprise 15 將獲得直至 Unix 時代結束的支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</link>
-      <description><![CDATA[與 CentOS 相容的 Liberty Linux 有特別優惠 隨著 SUSE 提升其自我強加的 ALP，該版本可能是 openSUSE Leap 固定發布週期的最後一個版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/sle_opensuse_15_6/</guid>
-      <pubDate>Wed, 26 Jun 2024 08:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
