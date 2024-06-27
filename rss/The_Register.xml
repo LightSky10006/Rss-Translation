@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 14:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 14:35:13 GMT</lastBuildDate>
+    <item>
+      <title>英特爾快閃記憶體 4 Tbps 光學晶片為資料中心增壓</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/intel_says_its_optical_chiplet/</link>
+      <description><![CDATA[將技術比作從馬車到卡車 英特爾展示了一種與CPU 共同封裝的光學晶片，能夠支援4 Tbps 數據鏈路，以滿足人工智慧和人工智慧日益增長的數據中心頻寬需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/intel_says_its_optical_chiplet/</guid>
+      <pubDate>Thu, 27 Jun 2024 14:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>美國議員對中國無人機主導地位發出危險訊號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[白宮可以重新要求 Facebook 和其公司消除聯準會所說的錯誤訊息 美國最高法院推翻了先前禁止聯邦機構與社群媒體平台協調抗擊疫情的決定錯誤訊息，因為該案的原告一開始就沒有資格進行爭論。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/supreme_court_social_media_biden/</guid>
       <pubDate>Wed, 26 Jun 2024 19:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國判處加密貨幣搶劫團夥頭目有罪，該團夥綁架了受害者，然後耗盡了他們的帳戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/us_convicts_vicious_cryptorobbing_gang/</link>
-      <description><![CDATA[據說用拉鍊綁住老年加密貨幣投資者，用槍指著他們，並威脅要殺死他們 美國已將綁架和恐嚇富人的國際搶劫團伙的 24 歲頭目定罪為竊取加密貨幣代幣而入室盜竊的受害者......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/us_convicts_vicious_cryptorobbing_gang/</guid>
-      <pubDate>Wed, 26 Jun 2024 18:46:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
