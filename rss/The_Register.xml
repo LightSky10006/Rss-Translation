@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 01:57:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 03:35:07 GMT</lastBuildDate>
+    <item>
+      <title>聯想將其虛擬化和雲端堆疊引入龍芯CPU架構</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</link>
+      <description><![CDATA[NAS 供應商、醫療保健軟體供應商和政府買家加入了向矽主權進軍的行列 中國晶片公司龍芯已經基於自己的類似MIPS 架構構建了適度的CPU，正在向矽主權邁進。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</guid>
+      <pubDate>Thu, 27 Jun 2024 03:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>韓國電信公司涉嫌以惡意軟體感染其 P2P 用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/kt_p2p_malware_claim/</link>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 26 Jun 2024 14:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>做好準備，是時候修復更多 MOVEit 錯誤了</title>
+      <title>做好準備，是時候修補更多 MOVEit 錯誤了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</link>
       <description><![CDATA[利用「毀滅性」漏洞的嘗試已經在進行中 你認為去年的 MOVEit 地獄景像已經完全過去了嗎？不幸的是，破壞者。在 Progress Software 揭露了影響 MOVEit Transfer 和 Gateway 的新漏洞後，我們又回到了第二輪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
       <pubDate>Wed, 26 Jun 2024 12:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>格拉斯頓伯里將音樂節觀眾的尿液變成環保肥料</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/glastonbury_pee_fertilizer/</link>
-      <description><![CDATA[現在這就是你們所說的金色收穫 隨著今天普通人參加世界上最中間路線的音樂節，到本週末格拉斯頓伯里將擠滿數十萬的音樂人加侖含有化學物質的尿液...... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/glastonbury_pee_fertilizer/</guid>
-      <pubDate>Wed, 26 Jun 2024 11:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
