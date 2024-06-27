@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 03:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 05:36:56 GMT</lastBuildDate>
     <item>
-      <title>聯想將其虛擬化和雲端堆疊引入龍芯CPU架構</title>
+      <title>印度政府正在調查富士康不會僱用已婚女性的說法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/foxconn_hiring_married_women/</link>
+      <description><![CDATA[文化傳統與製造業雄心相衝突 有報道稱，印度勞動和就業部已下令對富士康進行調查。蘋果的主要供應商之一。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/foxconn_hiring_married_women/</guid>
+      <pubDate>Thu, 27 Jun 2024 05:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>聯想將其虛擬化和雲端堆疊引入中國晶片設計商龍芯的CPU架構</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</link>
       <description><![CDATA[NAS 供應商、醫療保健軟體供應商和政府買家加入了向矽主權進軍的行列 中國晶片公司龍芯已經基於自己的類似MIPS 架構構建了適度的CPU，正在向矽主權邁進。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
       <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
-      <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
-      <pubDate>Wed, 26 Jun 2024 12:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
