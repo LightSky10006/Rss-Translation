@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 08:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 09:34:19 GMT</lastBuildDate>
+    <item>
+      <title>伊隆馬斯克將在 NASA 的批准下付費摧毀國際太空站</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</link>
+      <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 埃隆·馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫離軌道的合約。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</guid>
+      <pubDate>Thu, 27 Jun 2024 09:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟有多少失誤是為了好玩而分叉的？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/microsoft_windows_fun_fork/</link>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
+      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
       <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[因為如果有一件事確實需要更多... Google 週三推出了額外的企業瀏覽器管理功能，以幫助IT 管理員保持企業瀏覽軟體適合用途。 /p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/google_chrome_enterprise/</guid>
       <pubDate>Wed, 26 Jun 2024 16:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 在新的 Windows 11 安裝過程中更難避免使用 OneDrive</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/microsoft_makes_onedrive_avoidance_trickier/</link>
-      <description><![CDATA[嘿，OneDrive！別管我的檔案 未經使用者許可，使用者資料正在透過 OneDrive 資料夾備份被竊取到 Microsoft 的雲端。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/microsoft_makes_onedrive_avoidance_trickier/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
