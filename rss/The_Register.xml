@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 07:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 07:34:34 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 希望 robots.txt 的調整能夠嚇跑人工智慧訓練資料擷取者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/reddit_ai_info/</link>
+      <description><![CDATA[要嘛付錢，要嘛走開，好嗎？人工智慧新創公司的首要目標訓練資料...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/reddit_ai_info/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>阿里雲公佈用於LLM培訓的資料中心設計和自製網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[專家表示，「循環經濟戰略」可能會將需求保持在2015 年的水平 到2050 年，製造電動車的原材料需求將增加兩倍，而鋰離子電池可能佔總資源的一半以上日本的研究發現，汽車工業需要在同一日期之前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/resource_burden_ev/</guid>
       <pubDate>Wed, 26 Jun 2024 14:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>做好準備，是時候修復更多 MOVEit 錯誤了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</link>
-      <description><![CDATA[利用「毀滅性」漏洞的嘗試已經在進行中 你認為去年的 MOVEit 地獄景像已經完全過去了嗎？不幸的是，破壞者。在 Progress Software 揭露了影響 MOVEit Transfer 和 Gateway 的新漏洞後，我們又回到了第二輪。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</guid>
-      <pubDate>Wed, 26 Jun 2024 13:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
