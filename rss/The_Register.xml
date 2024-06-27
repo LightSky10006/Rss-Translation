@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 11:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:20:33 GMT</lastBuildDate>
+    <item>
+      <title>微軟在啟動循環錯誤後取消了 Windows 11 更新</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/windows_11_faulty_update/</link>
+      <description><![CDATA[復原選項之旅不應成為 KB5039302 的一部分 在使用者報告啟動循環和啟動失敗後，微軟已撤回 Windows 11 更新。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/windows_11_faulty_update/</guid>
+      <pubDate>Thu, 27 Jun 2024 11:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>Atos 的英國審計師對未來提出了“重大不確定性”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/atos_uk_going_concern/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在Databricks 擊敗了與Iceberg 相關的Tabular 後，首席執行官堅稱這場競賽中不止兩匹馬 OneHouse 是一家基於開源Apache Hudi 表格式的數據湖公司，已獲得3,500 萬美元的融資由 Craft Ventures 領投的 B 輪融資…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/onehouse_35_million_hudi/</guid>
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
-      <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
-      <pubDate>Wed, 26 Jun 2024 16:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
