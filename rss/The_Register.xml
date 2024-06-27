@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 17:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 17:35:19 GMT</lastBuildDate>
+    <item>
+      <title>諾基亞將以 3.75 億美元的價格向法國出售海底網路業務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/nokia_submarine_network_france/</link>
+      <description><![CDATA[通訊巨頭將於 2025 年初放棄海底互聯網電纜部門 諾基亞計劃將其海底互聯網電纜業務部門出售給法國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/nokia_submarine_network_france/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>IBM Db2 中的 AI 查詢最佳化顯示您可以教導科技恐龍新技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/ibm_ai_optimization_db2/</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 27 Jun 2024 07:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>阿里雲公佈用於LLM培訓的資料中心設計和自製網絡</title>
+      <title>阿里雲公佈其資料中心設計、用於LLM培訓的自製網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</link>
       <description><![CDATA[每個DC 15,000 個GPU，主機中每台包含8 個GPU，外加9 個NIC - 借助帶有定制散熱器的交換機 獨家 阿里雲揭示了乙太網路的設計 -它專門創建了基於網路來傳輸用於訓練大型語言模型的流量 - 並已在生產中使用了八個月。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</guid>
@@ -90,9 +97,9 @@
       <pubDate>Thu, 27 Jun 2024 05:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>聯想將其虛擬化和雲端堆疊引入中國晶片設計商龍芯的CPU架構</title>
+      <title>聯想為中國晶片設計商龍芯的CPU架構帶來虛擬化、雲端堆疊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</link>
-      <description><![CDATA[NAS 供應商、醫療保健軟體供應商和政府買家加入了向矽主權進軍的行列 中國晶片公司龍芯已經基於自己的類似MIPS 架構構建了適度的CPU，正在向矽主權邁進。]]></description>
+      <description><![CDATA[NAS 廠商、醫療保健軟體製造商、政府買家加入向晶片主權進軍 中國晶片公司龍芯已經基於自己的類似 MIPS 架構構建了適度的 CPU，正在向企業進軍工作負載...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lenovo_loongson/</guid>
       <pubDate>Thu, 27 Jun 2024 03:14:06 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>聯邦政府懸賞 500 萬美元懸賞「加密女王」Ruja Ignatova</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fbi_ruja_ignatova/</link>
-      <description><![CDATA[OneCoin 聯合創始人涉嫌從數位現金中騙取投資者 40 億美元 山姆大叔懸賞 500 萬美元，懸賞任何導致自稱“加密女王”Ruja Ignatova 被捕或定罪的信息，他因明顯從受害者身上騙取超過40 億美元而被美國通緝，美聯儲稱其為“歷史上最大的全球欺詐計劃之一”。]]></description>
+      <description><![CDATA[OneCoin 聯合創始人涉嫌詐騙投資者 4B 美元 山姆大叔懸賞 500 萬美元，懸賞任何導致逮捕或定罪自稱“加密貨幣女王”Ruja Ignatova 的信息，她是因在聯邦調查局描述的「史上最大的全球詐欺計畫之一」中明顯詐騙受害者超過40 億美元而在美國被通緝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fbi_ruja_ignatova/</guid>
       <pubDate>Wed, 26 Jun 2024 21:58:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不到一小時的盈利- 這向緊急救援發出了強烈信號 美國聯邦通信委員會(FCC) 對Verizon 處以略高於100 萬美元的罰款，原因是其在蜂窩網絡中斷期間未能轉接911 電話.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fcc_verizon_911_fine/</guid>
       <pubDate>Wed, 26 Jun 2024 21:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>到 2030 年，人工智慧對電力的需求可能會使資料中心的電費增加一倍</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/datacenter_electricity_demand_study/</link>
-      <description><![CDATA[無論你相信與否，這相對於其他預測來說是適度的 一項研究預測，到2030 年，美國數據中心的功耗將增加一倍以上。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/datacenter_electricity_demand_study/</guid>
-      <pubDate>Wed, 26 Jun 2024 20:16:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
