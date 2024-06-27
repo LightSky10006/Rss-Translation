@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 12:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:51:25 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 試圖“促進政府機構對人工智慧的有益利用”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/anthropic_claude_government/</link>
+      <description><![CDATA[不熱衷於智慧武器，更感興趣的是阻止人口販賣 Anthropic 希望各國政府在希望人工智慧讓世界變得更美好時能夠考慮到這一點。不，說真的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/anthropic_claude_government/</guid>
+      <pubDate>Thu, 27 Jun 2024 12:34:15 GMT</pubDate>
+    </item>
     <item>
       <title>微軟在啟動循環錯誤後取消了 Windows 11 更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/windows_11_faulty_update/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Google 表示，徹底改造 Play 商店需要 1.37 億美元，而巨額資金難以負擔。哦，用戶安全也很重要 在 Play 商店被認定為非法壟斷後，Google 已要求加州法官駁回 Epic Games 所要求的補救措施，理由是這些改變成本太高，並且會造成Android用戶面臨新的安全風險。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/google_begs_court_for_relief/</guid>
       <pubDate>Wed, 26 Jun 2024 18:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneHouse斥資3500萬美元在表格格式大戰中為Hudi而戰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/onehouse_35_million_hudi/</link>
-      <description><![CDATA[在Databricks 擊敗了與Iceberg 相關的Tabular 後，首席執行官堅稱這場競賽中不止兩匹馬 OneHouse 是一家基於開源Apache Hudi 表格式的數據湖公司，已獲得3,500 萬美元的融資由 Craft Ventures 領投的 B 輪融資…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/onehouse_35_million_hudi/</guid>
-      <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
