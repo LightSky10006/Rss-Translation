@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 16:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 16:39:53 GMT</lastBuildDate>
+    <item>
+      <title>IBM Db2 中的 AI 查詢最佳化顯示您可以教導科技恐龍新技巧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/ibm_ai_optimization_db2/</link>
+      <description><![CDATA[藍色巨人不喜歡談論的資料庫將在11 月進行改造 IBM 喜歡對Db2 保密，這個已有41 年歷史的資料庫仍在被世界上一些最大的銀行和銀行使用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/ibm_ai_optimization_db2/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>毅力得到回報，火星探測器的夏洛克從懸崖邊緣救了回來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/perseverance_sherloc_operational/</link>
@@ -20,9 +27,9 @@
       <pubDate>Thu, 27 Jun 2024 14:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>美國議員對中國無人機主導地位發出危險訊號</title>
+      <title>美國立法者對中國無人機主導地位發出危險信號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</link>
-      <description><![CDATA[國會議員警告科技正在受到「華為劇本」待遇 美國國會議員週三對中國在無人機行業的主導地位發出警告，將北京對該技術的控制所構成的威脅提升為與美國的威脅類似的程度。]]></description>
+      <description><![CDATA[國會議員警告科技正在受到「華為劇本」待遇 週三，美國國會議員警告中國不要在無人機行業佔據主導地位，將北京對該技術的控制所構成的威脅提升為與美國的威脅類似的程度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</guid>
       <pubDate>Thu, 27 Jun 2024 13:44:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>伊隆馬斯克將在 NASA 的批准下付費摧毀國際太空站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</link>
-      <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 埃隆·馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫離軌道的合約。 ..]]></description>
+      <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 伊隆馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫軌的合約。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</guid>
       <pubDate>Thu, 27 Jun 2024 09:31:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論你相信與否，這相對於其他預測來說是適度的 一項研究預測，到2030 年，美國數據中心的功耗將增加一倍以上。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/datacenter_electricity_demand_study/</guid>
       <pubDate>Wed, 26 Jun 2024 20:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於美國制裁的影響，華為努力提高 GPU 產量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/huawei_struggling_to_ramp_gpu/</link>
-      <description><![CDATA[習近平主席告訴全國，科技主導地位之爭和「國際大國」之間的博弈「交織在一起」 美國遏制中國先進晶片產業的努力可能正在產生效果，據稱華為正在其 Ascend 910B 加速器的產量難以提高。這項消息發布之際，中國國家主席旨在加強國家在包括晶片在內的關鍵技術方面的自力更生。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/huawei_struggling_to_ramp_gpu/</guid>
-      <pubDate>Wed, 26 Jun 2024 19:28:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
