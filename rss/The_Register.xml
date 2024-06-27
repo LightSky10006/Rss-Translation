@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 00:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:57:35 GMT</lastBuildDate>
+    <item>
+      <title>韓國電信公司涉嫌以惡意軟體感染其 P2P 用戶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/kt_p2p_malware_claim/</link>
+      <description><![CDATA[KT 可能有一整個團隊專門致力於感染自己的客戶 一家韓國媒體聲稱，當地電信公司 KT 由於過度使用點對點網路而故意用惡意軟體感染一些客戶。工具... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/kt_p2p_malware_claim/</guid>
+      <pubDate>Thu, 27 Jun 2024 01:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>美國懸賞 1000 萬美元逮捕 WhisperGate 嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/whispergate_malware_suspect_bounty/</link>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
+      <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
       <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
@@ -118,14 +125,14 @@
       <pubDate>Wed, 26 Jun 2024 13:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>由於救助談判的解體速度快於“重組”，Atos陷入混亂</title>
+      <title>由於救助談判的解體速度快於「重組」速度，源訊陷入混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</link>
       <description><![CDATA[是時候實施B 計畫了（還是C 計畫？） 陷入危機的Atos 表示，其最大股東所選擇的救助方案在被確認幾週後就已經失敗，從而退出了IT服務業務考慮兩個替代出價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/atos_restructure_deal_fails/</guid>
       <pubDate>Wed, 26 Jun 2024 12:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>Etched 希望透過專為變壓器模型建構的 ASIC 挑戰 Nvidia</title>
+      <title>Etched 希望透過專為變壓器模型建構的 ASIC 來挑戰 Nvidia</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</link>
       <description><![CDATA[Startup 表示，搜狐晶片在Llama 70B 中的速度將比Nvidia 的H100 快20 倍…假設它真的建成了 繼ChatGPT 於2022 年底首次亮相後，GPU（尤其是Nvidia 的GPU）已成為生成式AI 的代名詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/etched_asic_ai/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在這就是你們所說的金色收穫 隨著今天普通人參加世界上最中間路線的音樂節，到本週末格拉斯頓伯里將擠滿數十萬的音樂人加侖含有化學物質的尿液...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/glastonbury_pee_fertilizer/</guid>
       <pubDate>Wed, 26 Jun 2024 11:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國航空將 T5 行李混亂歸咎於「我們無法控制」的故障</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/british_airways_t5_luggage/</link>
-      <description><![CDATA[基本上是沃達豐 獨家 The Register可以獨家揭示英國航空公司持續混亂背後的“IT問題”其係統如何與沃達豐平台互動的問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/british_airways_t5_luggage/</guid>
-      <pubDate>Wed, 26 Jun 2024 10:49:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
