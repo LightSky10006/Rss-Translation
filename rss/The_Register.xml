@@ -4,12 +4,19 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 18:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 19:10:41 GMT</lastBuildDate>
+    <item>
+      <title>審計師稱工程師冒著將美國飛彈防禦系統炸成碎片的風險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/missile_defense_agency_audit/</link>
+      <description><![CDATA[現在2028 年的最後期限面臨風險 美國飛彈防禦局(MDA) 的工程師繼續忽視對其下一代飛彈攔截器的擔憂，留下嚴重的技術缺陷並威脅到該計劃的實施2028 年截止日期。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/missile_defense_agency_audit/</guid>
+      <pubDate>Thu, 27 Jun 2024 18:48:14 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T、Verizon、T-Mobile 美國遭遇漫遊中斷，美國人在國外的網路被切斷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/international_roaming_us_telcos/</link>
-      <description><![CDATA[為什麼同時三個？歸咎於 Syniverse – 其他人都是 AT&amp;T、Verizon 和 T-Mobile US 目前都遇到了國際漫遊中斷的情況，導致至少一些美國用戶無法在海外按預期使用手機。 &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/international_roaming_us_telcos/</guid>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/international_roaming_outage_us_telcos/</link>
+      <description><![CDATA[為什麼同時三個？歸咎於 Syniverse – 其他人都是 AT&amp;T、Verizon 和 T-Mobile US 今天正經歷國際漫遊中斷，導致至少一些美國用戶無法在海外按預期使用手機。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/international_roaming_outage_us_telcos/</guid>
       <pubDate>Thu, 27 Jun 2024 18:32:07 GMT</pubDate>
     </item>
     <item>
@@ -99,7 +106,7 @@
     <item>
       <title>印度政府調查富士康不會僱用已婚女性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/foxconn_hiring_married_women/</link>
-      <description><![CDATA[文化傳統與製造業雄心衝突 更新 印度勞動就業部已下令對富士康進行調查。海精密，也是印度最大的製造商之一。]]></description>
+      <description><![CDATA[文化傳統與製造業野心發生衝突 更新 印度勞動和就業部已下令對富士康進行調查。海精密，也是印度最大的製造商之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/foxconn_hiring_married_women/</guid>
       <pubDate>Thu, 27 Jun 2024 05:16:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[600 萬美元和3500 萬美元的零用和解協議將於7 月獲得批准 蘋果準備在下個月就兩起涉嫌iPhone 缺陷的訴訟達成和解，前提是各自的法官同意交易條款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/apple_settlement_repair/</guid>
       <pubDate>Wed, 26 Jun 2024 22:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦政府懸賞 500 萬美元懸賞「加密女王」Ruja Ignatova</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fbi_ruja_ignatova/</link>
-      <description><![CDATA[OneCoin 聯合創始人涉嫌詐騙投資者 40 億美元 山姆大叔懸賞 500 萬美元，懸賞任何導致逮捕或定罪自稱為“加密貨幣女王”Ruja Ignatova 的信息，她是因在聯邦調查局描述的「歷史上最大的全球詐欺計劃之一」中明顯詐騙受害者超過40 億美元而在美國被通緝。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/fbi_ruja_ignatova/</guid>
-      <pubDate>Wed, 26 Jun 2024 21:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
