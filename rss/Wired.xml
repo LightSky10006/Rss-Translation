@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 27 Jun 2024 23:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 23:34:24 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜正在調查有關抓取濫用行為的困惑</title>
+      <link>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</link>
+      <description><![CDATA[AWS 託管了一個與貝佐斯家族和 Nvidia 支援的搜尋新創公司相關的伺服器，該伺服器似乎已被用來抓取主要商店的網站，從而引發了對潛在違規行為的調查。]]></description>
+      <guid>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</guid>
+      <pubDate>Thu, 27 Jun 2024 22:15:21 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Apple TV+ 上最好的 21 部電影（2024 年 7 月）</title>
       <link>https://www.wired.com/story/best-apple-tv-plus-movies/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>皮克斯為其下一部電影《腦筋急轉彎 2》準備了復活節彩蛋。你懂了嗎？</title>
       <link>https://www.wired.com/story/pixar-put-an-easter-egg-for-its-next-movie-in-inside-out-2/</link>
-      <description><![CDATA[與其他皮克斯電影一樣，《腦筋急轉彎 2》也有隱藏的亮點，其中包括即將上映的《艾莉歐》。]]></description>
+      <description><![CDATA[與皮克斯的其他電影一樣，《腦筋急轉彎 2》也有隱藏的亮點，其中包括即將上映的《艾莉歐》。]]></description>
       <guid>https://www.wired.com/story/pixar-put-an-easter-egg-for-its-next-movie-in-inside-out-2/</guid>
       <pubDate>Thu, 27 Jun 2024 17:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[共和黨議員、右翼媒體和影響者以及川普本人都在推動拜登健康狀況和整個辯論的陰謀。]]></description>
       <guid>https://www.wired.com/story/trump-biden-debate-conspiracies-online/</guid>
       <pubDate>Thu, 27 Jun 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>「模擬城市」不是現實的模型。這是一個自由主義的玩具之地</title>
-      <link>https://www.wired.com/story/simcity-libertarian-toy-land/</link>
-      <description><![CDATA[這款深受一代現實世界城市設計師啟發的深受喜愛的遊戲，在其俏皮的外表下，卻背叛了社會規劃的黨派觀點。]]></description>
-      <guid>https://www.wired.com/story/simcity-libertarian-toy-land/</guid>
-      <pubDate>Thu, 27 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
