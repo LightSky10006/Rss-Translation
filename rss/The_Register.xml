@@ -4,9 +4,9 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 27 Jun 2024 06:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 07:10:40 GMT</lastBuildDate>
     <item>
-      <title>阿里巴巴公佈了用於 LLM 培訓的資料中心設計和自製網絡</title>
+      <title>阿里雲公佈用於LLM培訓的資料中心設計和自製網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</link>
       <description><![CDATA[每個DC 15,000 個GPU，主機中每台包含8 個GPU，外加9 個NIC - 借助帶有定制散熱器的交換機 獨家 阿里雲揭示了乙太網路的設計 -它專門創建了基於網路來傳輸用於訓練大型語言模型的流量 - 並已在生產中使用了八個月。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</guid>
@@ -111,7 +111,7 @@
       <pubDate>Wed, 26 Jun 2024 17:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>香港的 Furi Labs 借助 Debian 震撼了智慧型手機領域</title>
+      <title>香港的 Furi Labs 透過 Debian 震撼了智慧型手機領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</link>
       <description><![CDATA[FLX1 運行自己的「Trixie」版本，但具有 Android 層 DEVCONF.CZ  Furi Labs 的 FLX1 是一款基於 Debian 的智慧型手機，具有不錯的規格有競爭力的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/furi_phone_flx1_debian_smartphone/</guid>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 26 Jun 2024 14:13:07 GMT</pubDate>
     </item>
     <item>
-      <title>做好準備，是時候修補更多 MOVEit 錯誤了</title>
+      <title>做好準備，是時候修復更多 MOVEit 錯誤了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</link>
       <description><![CDATA[利用「毀滅性」漏洞的嘗試已經在進行中 你認為去年的 MOVEit 地獄景像已經完全過去了嗎？不幸的是，破壞者。在 Progress Software 揭露了影響 MOVEit Transfer 和 Gateway 的新漏洞後，我們又回到了第二輪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/26/batten_down_the_hatches_its/</guid>
