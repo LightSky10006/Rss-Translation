@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 28 Jun 2024 06:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:39:04 GMT</lastBuildDate>
+    <item>
+      <title>法國人工智慧新創公司勢不可擋。然後是選舉</title>
+      <link>https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/</link>
+      <description><![CDATA[民調顯示選民即將轉向極右或極左，人工智慧產業開始陷入恐慌。]]></description>
+      <guid>https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/</guid>
+      <pubDate>Fri, 28 Jun 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜正在調查有關抓取濫用行為的困惑</title>
       <link>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>《Among Us》的開發商如何幫助獨立工作室在當前的遊戲混亂中生存下來</title>
       <link>https://www.wired.com/story/outersloth-innersloth-among-us-indie-games-survival/</link>
-      <description><![CDATA[隨著電玩產業的萎縮，獨立開發商的融資選擇越來越少。對於如何提供生命線，Innersloth 有一些想法。]]></description>
+      <description><![CDATA[隨著電玩產業的萎縮，獨立開發商的融資選擇越來越少。 Innersloth 對於如何提供生命線有一些想法。]]></description>
       <guid>https://www.wired.com/story/outersloth-innersloth-among-us-indie-games-survival/</guid>
       <pubDate>Thu, 27 Jun 2024 16:46:54 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[另類媒體可能已正式成為美國總統大選的主流。]]></description>
       <guid>https://www.wired.com/story/dr-phil-cnn-presidential-debates/</guid>
       <pubDate>Thu, 27 Jun 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普-拜登辯論陰謀論已經充斥互聯網</title>
-      <link>https://www.wired.com/story/trump-biden-debate-conspiracies-online/</link>
-      <description><![CDATA[共和黨議員、右翼媒體和影響者以及川普本人都在推動拜登健康狀況和整個辯論的陰謀。]]></description>
-      <guid>https://www.wired.com/story/trump-biden-debate-conspiracies-online/</guid>
-      <pubDate>Thu, 27 Jun 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
