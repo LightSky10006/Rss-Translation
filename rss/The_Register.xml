@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 10:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 10:37:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 與Google簽署協議，透過新聞增強人工智慧工作——是時候尋找更好的資源了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_google_ai/</link>
+      <description><![CDATA[科技巨頭必須支付會費才能演奏RAG 時代的憂鬱音樂- 在本例中是向優質出版商支付費用 週四，OpenAI 和Google 分別宣布與主要出版商開展新的合作，以擴大其業務範圍付費存取其人工智慧產品和服務所使用的資訊。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_google_ai/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:24:14 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧將使資料中心資本支出提高 28.5%，成為最大的伺服器工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</link>
-      <description><![CDATA[冷卻技術留待細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近 30%，也有望成為資料中心投資的主要驅動力。幾年內部署的最高伺服器工作負載。]]></description>
+      <description><![CDATA[冷卻技術需要關注細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近30%，並且也有望成為資料中心投資的主要驅動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</guid>
       <pubDate>Fri, 28 Jun 2024 09:32:07 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>鄭重聲明：您剛剛命令我造成一次非常昂貴的停電</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</link>
-      <description><![CDATA[並如此粗魯地命令該技術人員沒有興趣留下來解決隨後的混亂 隨叫隨到技術支援。這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是一個由讀者投稿的專欄，您可以在其中分享打敗那些傻瓜的故事。 ... ]]></description>
+      <description><![CDATA[並如此粗魯地命令該技術人員沒有興趣留下來解決隨後的混亂 隨叫隨到技術支援。這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是一個由讀者投稿的專欄，您可以在其中分享擊敗那些傻瓜的故事。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</guid>
       <pubDate>Fri, 28 Jun 2024 07:33:12 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>Infosys 執行長因未揭露資訊導致內線交易而支付 3 萬美元的罰金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</link>
-      <description><![CDATA[員工先於我們其他人被告知這種利潤豐厚的合作夥伴關係 據證券報道，Infosys 首席執行官Salil Parekh 已同意因未能實施充分的內幕交易控製而支付250萬盧比（30,000 美元）的罰款以及週三提交的印度交易委員會 (SEBI) 文件。]]></description>
+      <description><![CDATA[員工先於我們其他人被告知這種利潤豐厚的合作夥伴關係 據《證券》報道，Infosys 首席執行官Salil Parekh 已同意因未能實施充分的內幕交易控製而支付250 萬盧比（30,000 美元）的罰款以及週三提交的印度交易委員會 (SEBI) 文件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</guid>
       <pubDate>Fri, 28 Jun 2024 05:30:09 GMT</pubDate>
     </item>
     <item>
       <title>在死去的俄羅斯衛星噴灑太空垃圾後，國際太空站的太空人被告知要躲避和掩護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</link>
-      <description><![CDATA[在莫斯科用飛彈搞砸之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
+      <description><![CDATA[在莫斯科用飛彈製造混亂之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</guid>
       <pubDate>Fri, 28 Jun 2024 04:34:06 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>FCC 希望電信業者在啟動後 60 天解鎖手機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/fcc_carrier_unlock_proposal/</link>
-      <description><![CDATA[你現在該留下來還是該離開？如果 Rosenworcel 得逞，就不會有麻煩 在 FCC 提議要求電信公司 60 天解鎖手機網路後，美國的長期營運商鎖定可能很快就會成為過去。 ...]]></description>
+      <description><![CDATA[您現在應該留下來還是應該離開？如果 Rosenworcel 得逞，就不會有麻煩 在 FCC 提議要求電信公司 60 天解鎖手機網路後，美國的長期營運商鎖定可能很快就會成為過去。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/fcc_carrier_unlock_proposal/</guid>
       <pubDate>Thu, 27 Jun 2024 20:15:13 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>審計師稱工程師冒著將美國飛彈防禦系統炸成碎片的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/missile_defense_agency_audit/</link>
-      <description><![CDATA[現在2028 年的最後期限面臨風險 美國飛彈防禦局(MDA) 的工程師繼續忽視對其下一代飛彈攔截器的擔憂，導致嚴重的技術缺陷擺在桌面上，並威脅到該計劃的實施2028 年截止日期。]]></description>
+      <description><![CDATA[現在2028 年的最後期限面臨風險 美國飛彈防禦局(MDA) 的工程師繼續忽視對其下一代飛彈攔截器的擔憂，留下嚴重的技術缺陷並威脅到該計劃的實施2028 年截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/missile_defense_agency_audit/</guid>
       <pubDate>Thu, 27 Jun 2024 18:48:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[將技術比作從馬車到卡車 英特爾展示了一種與CPU 共同封裝的光學晶片，能夠支援4 Tbps 數據鏈路，以滿足人工智慧和人工智慧日益增長的數據中心頻寬需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/intel_says_its_optical_chiplet/</guid>
       <pubDate>Thu, 27 Jun 2024 14:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國議員對中國無人機主導地位發出危險訊號</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</link>
-      <description><![CDATA[國會議員警告科技正在受到「華為劇本」待遇 美國國會議員週三對中國在無人機行業的主導地位發出警告，將北京對該技術的控制所構成的威脅提升為與美國的威脅類似的程度。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:44:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
