@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 04:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 05:11:10 GMT</lastBuildDate>
+    <item>
+      <title>在死去的俄羅斯衛星噴灑太空垃圾後，國際太空站的太空人被告知要躲避和掩護</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</link>
+      <description><![CDATA[在莫斯科用飛彈製造混亂之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</guid>
+      <pubDate>Fri, 28 Jun 2024 04:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>Polyfill.io 所有者回擊網域關閉期間的“惡意誹謗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/polyfillio_cloudflare_malware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[要嘛付錢，要嘛走開，好嗎？人工智慧新創公司的首要目標訓練資料...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/reddit_ai_info/</guid>
       <pubDate>Thu, 27 Jun 2024 07:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里雲公佈其資料中心設計、用於LLM培訓的自製網絡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</link>
-      <description><![CDATA[每個DC 15,000 個GPU，主機中每台包含8 個GPU，外加9 個NIC - 借助帶有定制散熱器的交換機 獨家 阿里雲揭示了乙太網路的設計 -它專門創建了基於網路來傳輸用於訓練大型語言模型的流量 - 並已在生產中使用了八個月。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/alibaba_network_datacenter_designs_revealed/</guid>
-      <pubDate>Thu, 27 Jun 2024 06:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
