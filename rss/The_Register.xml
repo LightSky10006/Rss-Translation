@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 05:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 06:15:09 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 開發 AI 模型來批評其 AI 模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_criticgpt_ai/</link>
+      <description><![CDATA[當您的聊天機器人勝過人類培訓師時，您可以支付專業知識......或者只是增加您的眾包勞動力 為了幫助捕獲ChatGPT 所犯的代碼錯誤，OpenAI 使用人類AI 培訓師，希望能夠改進模型。為了幫助人類訓練員，OpenAI 開發了另一個名為CriticGPT 的人工智慧模型，以防人類無法發現錯誤。 .html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_criticgpt_ai/</guid>
+      <pubDate>Fri, 28 Jun 2024 05:44:06 GMT</pubDate>
+    </item>
     <item>
       <title>Infosys 執行長因未揭露資訊導致內線交易而支付 3 萬美元的罰金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 伊隆馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫軌的合約。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</guid>
       <pubDate>Thu, 27 Jun 2024 09:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟有多少失誤是為了好玩而分叉的？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/microsoft_windows_fun_fork/</link>
-      <description><![CDATA[Raymond Chen 與程式碼副本一起擺脫束縛 資深的Microsoft 工程師Raymond Chen 放棄了Microspeak 的另一個金塊- “有趣的分叉”。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/microsoft_windows_fun_fork/</guid>
-      <pubDate>Thu, 27 Jun 2024 08:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
