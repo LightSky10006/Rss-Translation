@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 05:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 05:35:17 GMT</lastBuildDate>
+    <item>
+      <title>Infosys 執行長因未揭露資訊導致內線交易而支付 3 萬美元的罰金</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</link>
+      <description><![CDATA[員工先於我們其他人被告知這種利潤豐厚的合作夥伴關係 據證券報道，Infosys 首席執行官Salil Parekh 已同意因未能實施充分的內幕交易控製而支付250萬盧比（30,000 美元）的罰款以及週三提交的印度交易委員會 (SEBI) 文件。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</guid>
+      <pubDate>Fri, 28 Jun 2024 05:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>在死去的俄羅斯衛星噴灑太空垃圾後，國際太空站的太空人被告知要躲避和掩護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</link>
-      <description><![CDATA[在莫斯科用飛彈製造混亂之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
+      <description><![CDATA[在莫斯科用飛彈搞砸之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</guid>
       <pubDate>Fri, 28 Jun 2024 04:34:06 GMT</pubDate>
     </item>
@@ -29,12 +36,12 @@
     <item>
       <title>TeamViewer 無法讓自己說有人闖入了其網絡 – 但它確實發生了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_network_breach/</link>
-      <description><![CDATA[聲稱NCC 發出警報時客戶資料、產品環境沒有受到影響 TeamViewer 週四表示，其安全團隊剛剛在其中一個網路中「檢測到異常情況」——這是一種表示有人破壞的奇特方式在... ]]></description>
+      <description><![CDATA[聲稱NCC 發出警報時客戶資料、產品環境沒有受到影響 TeamViewer 週四表示，其安全團隊剛剛在其一個網路內「檢測到異常情況」——這是一種表示有人破壞的奇特方式在... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_network_breach/</guid>
       <pubDate>Fri, 28 Jun 2024 00:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>上訴法院重啟指控 Meta 對美國公民有招募偏見的訴訟</title>
+      <title>上訴法院重啟指控 Meta 對美國公民有招聘偏見的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lawsuit_appeals_meta_h_1b/</link>
       <description><![CDATA[軟體技術人員聲稱他被冷落是因為他沒有持有 H-1B 在法官裁定美國的招聘歧視案件不應該被駁回後，Meta 將面臨法律攤牌，並且可以接受審判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lawsuit_appeals_meta_h_1b/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>FCC 希望電信業者在啟動後 60 天解鎖手機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/fcc_carrier_unlock_proposal/</link>
-      <description><![CDATA[您現在應該留下來還是應該離開？如果 Rosenworcel 得逞，就不會有麻煩 在 FCC 提議要求電信公司 60 天解鎖手機網路後，美國的長期營運商鎖定可能很快就會成為過去。 ...]]></description>
+      <description><![CDATA[您現在應該留下來還是應該離開？如果羅森沃塞爾如願，就不會有麻煩 在 FCC 提議要求電信公司在 60 天之內解鎖手機網路後，美國的長期運營商鎖定可能很快就會成為過去。激活後。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/fcc_carrier_unlock_proposal/</guid>
       <pubDate>Thu, 27 Jun 2024 20:15:13 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>IBM Db2 中的 AI 查詢最佳化顯示您可以教導科技恐龍新技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/ibm_ai_optimization_db2/</link>
-      <description><![CDATA[藍色巨人不喜歡談論的資料庫將在 11 月進行改造 IBM 喜歡對 Db2 保密，這個已有 41 年歷史的資料庫仍然被一些世界上最大的銀行和零售商，但偶爾會洩漏一些東西。]]></description>
+      <description><![CDATA[藍色巨人不喜歡談論的資料庫將在11 月進行改造 IBM 喜歡對Db2 保密，這個已有41 年歷史的資料庫仍在被世界上一些最大的銀行和銀行使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/ibm_ai_optimization_db2/</guid>
       <pubDate>Thu, 27 Jun 2024 16:29:11 GMT</pubDate>
     </item>
@@ -97,9 +104,9 @@
       <pubDate>Thu, 27 Jun 2024 14:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>美國議員對中國無人機主導地位發出危險訊號</title>
+      <title>美國立法者對中國無人機主導地位發出危險信號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</link>
-      <description><![CDATA[國會議員警告科技正在受到「華為劇本」待遇 美國國會議員週三對中國在無人機行業的主導地位發出警告，將北京對該技術的控制所構成的威脅提升為與美國的威脅類似的程度。]]></description>
+      <description><![CDATA[國會議員警告科技正在受到「華為劇本」待遇 週三，美國國會議員警告中國不要在無人機行業佔據主導地位，將北京對該技術的控制所構成的威脅提升為與美國的威脅類似的程度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/congress_china_drones/</guid>
       <pubDate>Thu, 27 Jun 2024 13:44:10 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>伊隆馬斯克將在 NASA 的批准下付費摧毀國際太空站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</link>
-      <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 埃隆·馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫離軌道的合約。 ..]]></description>
+      <description><![CDATA[SpaceX 以令人滿意的價格贏得了「脫軌飛行器」合約 伊隆馬斯克(Elon Musk) 的SpaceX 贏得了NASA 使國際太空站(ISS) 脫軌的合約。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/spacex_wins_iss_deorbit_contract/</guid>
       <pubDate>Thu, 27 Jun 2024 09:31:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Raymond Chen 與程式碼副本一起擺脫束縛 資深的Microsoft 工程師Raymond Chen 放棄了Microspeak 的另一個金塊- “有趣的分叉”。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/microsoft_windows_fun_fork/</guid>
       <pubDate>Thu, 27 Jun 2024 08:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 希望 robots.txt 的調整能夠嚇跑人工智慧訓練資料擷取者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/reddit_ai_info/</link>
-      <description><![CDATA[要嘛付錢，要嘛走開，好嗎？人工智慧新創公司的首要目標訓練資料...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/reddit_ai_info/</guid>
-      <pubDate>Thu, 27 Jun 2024 07:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
