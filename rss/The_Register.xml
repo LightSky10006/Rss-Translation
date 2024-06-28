@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 13:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 14:34:55 GMT</lastBuildDate>
+    <item>
+      <title>谷歌因信任問題與 Chrome 中的 Entrust 斷絕關係</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/google_axes_entrust_over_six/</link>
+      <description><![CDATA[在 Mozilla 抨擊證書頒發機構的失敗幾週後，Google 決定切斷對 Entrust 的信任，據其描述，在合規性和總體改進方面出現了長期的失敗。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/google_axes_entrust_over_six/</guid>
+      <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟再次暫停安全性憑證更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[為什麼同時三個？歸咎於 Syniverse – 其他人都是 AT&amp;T、Verizon 和 T-Mobile US 今天正經歷國際漫遊中斷，導致至少一些美國用戶無法在海外按預期使用手機。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/international_roaming_outage_us_telcos/</guid>
       <pubDate>Thu, 27 Jun 2024 18:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>諾基亞將以 3.75 億美元的價格向法國出售海底網路業務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/nokia_submarine_network_france/</link>
-      <description><![CDATA[通訊巨頭將於 2025 年初放棄海底互聯網電纜部門 諾基亞計劃將其海底互聯網電纜業務部門出售給法國。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/nokia_submarine_network_france/</guid>
-      <pubDate>Thu, 27 Jun 2024 17:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
