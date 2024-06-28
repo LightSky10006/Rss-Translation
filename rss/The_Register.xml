@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 28 Jun 2024 20:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 21:11:51 GMT</lastBuildDate>
+    <item>
+      <title>CISA查看了C/C++項目，發現了大量C/C++程式碼。想用 Rust 重做其中的任何一個嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/cisa_open_source/</link>
+      <description><![CDATA[因此，關鍵開源中存在如此多的記憶體不安全例程，以及不安全的依賴項 美國政府的網路安全和基礎設施安全局(CISA) 分析了172 個關鍵開源項目，發現更多超過一半包含用C 和C++ 等語言編寫的程式碼，這些語言本來就不是記憶體安全的。 .html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/cisa_open_source/</guid>
+      <pubDate>Fri, 28 Jun 2024 20:55:06 GMT</pubDate>
+    </item>
     <item>
       <title>TeamViewer 稱俄羅斯侵入其公司 IT 網路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</link>
-      <description><![CDATA[與攻擊 Microsoft 和 SolarWinds 的 APT29 團隊相同。我們距離大型後門情況還有多遠？]]></description>
+      <description><![CDATA[與 Microsoft 和 SolarWinds 相同的 APT29 團隊。我們距離大型後門情況還有多遠？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</guid>
       <pubDate>Fri, 28 Jun 2024 19:00:44 GMT</pubDate>
     </item>
@@ -41,14 +48,14 @@
       <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟再次暫停安全性憑證更新</title>
+      <title>微軟再次暫停安全證書續訂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</link>
       <description><![CDATA[在 Microsoft 365 和 Office Online 中看到奇怪的警告？這就是為什麼 微軟的 TLS 憑證有過期問題，從而導致不必要的安全警告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</guid>
       <pubDate>Fri, 28 Jun 2024 13:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>前富士通工程師為郵局 IT 醜聞道歉</title>
+      <title>前富士通工程師為在郵局 IT 醜聞中所扮演的角色道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/fujitsu_witness_post_office/</link>
       <description><![CDATA[地平線系統專家否認在後來被撤銷的定罪中調整證據 富士通服務有限公司前傑出工程師加雷斯·詹金斯(Gareth Jenkins) 表示，他在提供信息時“顯然陷入了做我不應該做的事情」技術證據導致郵局工作人員在英國最大的 IT 醜聞之一中被錯誤定罪。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/fujitsu_witness_post_office/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>人工智慧將使資料中心資本支出提高 28.5%，成為最大的伺服器工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</link>
-      <description><![CDATA[冷卻技術需要關注細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近30%，並且也有望成為資料中心投資的主要驅動力。]]></description>
+      <description><![CDATA[冷卻技術留待細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近 30%，也有望成為資料中心投資的主要驅動力。幾年內部署的最高伺服器工作負載。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</guid>
       <pubDate>Fri, 28 Jun 2024 09:32:07 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>鄭重聲明：您剛剛命令我造成一次非常昂貴的停電</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</link>
-      <description><![CDATA[並如此粗魯地命令該技術人員沒有興趣留下來解決隨後的混亂 隨叫隨到技術支援。這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是一個由讀者投稿的專欄，您可以在其中分享擊敗那些傻瓜的故事。 ... ]]></description>
+      <description><![CDATA[並如此粗魯地命令該技術人員沒有興趣留下來解決隨後的混亂 隨叫隨到技術支援。這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是一個由讀者投稿的專欄，您可以在其中分享打敗那些傻瓜的故事。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</guid>
       <pubDate>Fri, 28 Jun 2024 07:33:12 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>Infosys 執行長因未揭露資訊導致內線交易而支付 3 萬美元的罰金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</link>
-      <description><![CDATA[員工先於我們其他人被告知這種利潤豐厚的合作夥伴關係 據《證券》報道，Infosys 首席執行官Salil Parekh 已同意因未能實施充分的內幕交易控製而支付250 萬盧比（30,000 美元）的罰款以及週三提交的印度交易委員會 (SEBI) 文件。]]></description>
+      <description><![CDATA[員工先於我們其他人被告知這種利潤豐厚的合作夥伴關係 據證券報道，Infosys 首席執行官Salil Parekh 已同意因未能實施充分的內幕交易控製而支付250萬盧比（30,000 美元）的罰款以及週三提交的印度交易委員會 (SEBI) 文件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/infosys_ceo_fined_sebi/</guid>
       <pubDate>Fri, 28 Jun 2024 05:30:09 GMT</pubDate>
     </item>
     <item>
       <title>在死去的俄羅斯衛星噴灑太空垃圾後，國際太空站的太空人被告知要躲避和掩護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</link>
-      <description><![CDATA[在莫斯科用飛彈製造混亂之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
+      <description><![CDATA[在莫斯科用飛彈搞砸之後，這種情況以前就發生過 週四，一顆俄羅斯衛星解體後，國際太空站上的太空人被告知要躲避並躲避。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/iss_shelter_russian_satellite_breakup/</guid>
       <pubDate>Fri, 28 Jun 2024 04:34:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[聲稱NCC 發出警報時客戶資料、產品環境沒有受到影響 已更新 TeamViewer 週四表示，其安全團隊剛剛在其一個網絡內「檢測到異常情況」是一種奇特的說法，表示有人闖入。... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_network_breach/</guid>
       <pubDate>Fri, 28 Jun 2024 00:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>上訴法院重啟指控 Meta 對美國公民有招募偏見的訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lawsuit_appeals_meta_h_1b/</link>
-      <description><![CDATA[軟體技術人員聲稱他被冷落是因為他沒有持有 H-1B 在法官裁定美國的招聘歧視案件不應該被駁回後，Meta 將面臨法律攤牌，並且可以接受審判。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/27/lawsuit_appeals_meta_h_1b/</guid>
-      <pubDate>Thu, 27 Jun 2024 21:05:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
