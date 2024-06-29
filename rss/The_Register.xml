@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 29 Jun 2024 09:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 16:12:57 GMT</lastBuildDate>
     <item>
-      <title>反壟斷最新動態：歐洲的維斯塔格警告微軟和 OpenAI“故事還沒結束”</title>
+      <title>具有穩定擴散和自動功能的本地 AI 影像生成友善指南1111</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/29/image_gen_guide/</link>
+      <description><![CDATA[一張圖片勝過 1,000 個字...或是 1,000 TOPS 動手  Microsoft Copilot+ AI PC 的推出帶來了機器負載 -學習增強功能，包括內置於MS Paint 中的圖像生成器，可在本地運行並將您的塗鴉變成藝術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/29/image_gen_guide/</guid>
+      <pubDate>Sat, 29 Jun 2024 15:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>反壟斷最新動態：歐洲維斯塔格警告微軟、OpenAI“故事還沒結束”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/29/microsoft_openai_eu/</link>
       <description><![CDATA[下次我會抓住你的，Gadget，下次！  儘管歐盟委員會4 月份的審查表明微軟沒有試圖通過後門對OpenAI 施加控制，但這兩家公司價值130 億美元的合作夥伴關係並沒有改變。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/29/microsoft_openai_eu/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>TeamViewer 稱俄羅斯侵入其公司 IT 網路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</link>
-      <description><![CDATA[與 Microsoft 和 SolarWinds 相同的 APT29 團隊。我們距離大型後門情況還有多遠？]]></description>
+      <description><![CDATA[與攻擊 Microsoft 和 SolarWinds 的 APT29 團隊相同。我們距離大型後門情況還有多遠？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</guid>
       <pubDate>Fri, 28 Jun 2024 19:00:44 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 28 Jun 2024 13:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>前富士通工程師為在郵局 IT 醜聞中所扮演的角色道歉</title>
+      <title>前富士通工程師為郵局 IT 醜聞道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/fujitsu_witness_post_office/</link>
       <description><![CDATA[地平線系統專家否認在後來被撤銷的定罪中調整證據 富士通服務有限公司前傑出工程師加雷斯·詹金斯(Gareth Jenkins) 表示，他在提供信息時“顯然陷入了做我不應該做的事情」技術證據導致郵局工作人員在英國最大的 IT 醜聞之一中被錯誤定罪。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/fujitsu_witness_post_office/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[簡單的越獄提示可以繞過主要模型上的安全護欄 微軟週四發布了有關萬能鑰匙的詳細信息，該技術可以繞過人工智能模型製造商使用的護欄，以防止其生成聊天機器人創建有害內容...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/</guid>
       <pubDate>Fri, 28 Jun 2024 06:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 開發 AI 模型來批評其 AI 模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_criticgpt_ai/</link>
-      <description><![CDATA[當您的聊天機器人勝過人類培訓師時，您可以支付專業知識......或者只是增加您的眾包勞動力 為了幫助捕獲ChatGPT 所犯的代碼錯誤，OpenAI 使用人類AI 培訓師，希望能夠改進模型。為了幫助人類訓練員，OpenAI 開發了另一個名為CriticGPT 的人工智慧模型，以防人類無法發現錯誤。 .html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_criticgpt_ai/</guid>
-      <pubDate>Fri, 28 Jun 2024 05:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
