@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 20:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 21:11:04 GMT</lastBuildDate>
+    <item>
+      <title>最高法院下令重新考慮德州和佛羅裡達州的無節制網路法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/supreme_court_social_media/</link>
+      <description><![CDATA[網站和應用程式沒有發言權？這似乎不太自由 美國最高法院週一告訴下級法院重新考慮佛羅裡達州和德克薩斯州關於社交媒體法的單獨的、相互衝突的裁決，因為這些法院未能正確考慮言論自由權網路平台。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/supreme_court_social_media/</guid>
+      <pubDate>Mon, 01 Jul 2024 20:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>Lambda 正在尋找「另外 8 億美元」來為其 GPU 雲端提供動力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/lambda_seeks_funding/</link>
@@ -71,14 +78,14 @@
     <item>
       <title>Polyfill.io 的聲明揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束到達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
     <item>
       <title>CISA主任：美國「不害怕」大聲疾呼大型科技公司的安全缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</link>
-      <description><![CDATA[Jen Easterly 希望 CSRB 的 Microsoft 報告不會妨礙未來私部門的合作 CISA 主任 Jen Easterly 表示，網路安全安全審查委員會 (CSRB) 「在出現問題時不會害怕指出」在在董事會嚴厲的微軟報告之後，人們對私部門合作的擔憂... ]]></description>
+      <description><![CDATA[Jen Easterly 希望CSRB 的Microsoft 報告不會妨礙未來私部門的合作 CISA 主任Jen Easterly 表示，網路安全安全審查委員會(CSRB) 「在出現問題時不會害怕說出問題「在董事會嚴厲的微軟報告之後，人們對私部門合作的擔憂...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</guid>
       <pubDate>Mon, 01 Jul 2024 09:35:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[優先考慮墨西哥和東南亞 阿里巴巴雲透露，它將很快關閉其在澳大利亞和印度的數據中心業務，儘管此前告訴《The Register》其澳大利亞業務仍然完好無損。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/alibaba_cloud_closes_india_australia/</guid>
       <pubDate>Mon, 01 Jul 2024 00:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有穩定擴散和自動功能的本地 AI 影像生成友善指南1111</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/29/image_gen_guide/</link>
-      <description><![CDATA[一張圖片勝過 1,000 個字...或是 1,000 TOPS 動手  Microsoft Copilot+ AI PC 的推出帶來了機器負載 -學習增強功能，包括內置於MS Paint 中的圖像生成器，可在本地運行並將您的塗鴉變成藝術。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/29/image_gen_guide/</guid>
-      <pubDate>Sat, 29 Jun 2024 15:40:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
