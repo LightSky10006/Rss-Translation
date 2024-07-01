@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 05:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 06:16:45 GMT</lastBuildDate>
+    <item>
+      <title>警方稱機上 Wi-Fi 的「邪惡雙胞胎」被用來竊取乘客的憑證</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/</link>
+      <description><![CDATA[繫上安全帶，固定好小桌板，盡量不要洩露密碼 澳洲聯邦警察 (AFP) 已指控一名男子在至少一台設備上運行虛假 Wi-Fi 網路商業航班並用它來獲取電子郵件和社交媒體服務的乘客憑證。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/</guid>
+      <pubDate>Mon, 01 Jul 2024 05:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>印尼政府沒有勒索資料的備份，因為災難復原只是一種選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/indonesian_president_orders_datacenter_audit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[旨在擴大光網路業務，特別是在北美 兩家公司已確認，諾基亞將以 23 億美元的交易收購光網路業務 Infinera。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/nokia_to_expand_optical_networking/</guid>
       <pubDate>Fri, 28 Jun 2024 11:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 與Google簽署協議，透過新聞增強人工智慧工作——是時候尋找更好的資源了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_google_ai/</link>
-      <description><![CDATA[科技巨頭必須支付會費才能演奏RAG 時代的憂鬱音樂- 在本例中是向優質出版商支付費用 週四，OpenAI 和Google 分別宣布與主要出版商開展新的合作，以擴大其業務範圍付費存取其人工智慧產品和服務所使用的資訊。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_google_ai/</guid>
-      <pubDate>Fri, 28 Jun 2024 10:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
