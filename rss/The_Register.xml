@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 04:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 05:11:38 GMT</lastBuildDate>
+    <item>
+      <title>印尼政府沒有勒索資料的備份，因為災難復原只是一種選擇</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/indonesian_president_orders_datacenter_audit/</link>
+      <description><![CDATA[總統已下令對資料中心進行審計並強制執行備份 印尼總統Joko Widodo 在發現政府資料中心儲存的大部分資料未備份後，已下令對政府資料中心進行審計。 .. ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/indonesian_president_orders_datacenter_audit/</guid>
+      <pubDate>Mon, 01 Jul 2024 04:56:11 GMT</pubDate>
+    </item>
     <item>
       <title>微軟告訴更多客戶他們的電子郵件被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/infosec_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[科技巨頭必須支付會費才能演奏RAG 時代的憂鬱音樂- 在本例中是向優質出版商支付費用 週四，OpenAI 和Google 分別宣布與主要出版商開展新的合作，以擴大其業務範圍付費存取其人工智慧產品和服務所使用的資訊。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/openai_google_ai/</guid>
       <pubDate>Fri, 28 Jun 2024 10:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧將使資料中心資本支出提高 28.5%，成為最大的伺服器工作負載</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</link>
-      <description><![CDATA[冷卻技術留待細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近 30%，也有望成為資料中心投資的主要驅動力。幾年內部署的最高伺服器工作負載。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</guid>
-      <pubDate>Fri, 28 Jun 2024 09:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
