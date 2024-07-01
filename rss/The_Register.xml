@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 08:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 10:13:55 GMT</lastBuildDate>
+    <item>
+      <title>CISA主任：美國「不害怕」大聲疾呼大型科技公司的安全缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</link>
+      <description><![CDATA[Jen Easterly 希望 CSRB 的 Microsoft 報告不會妨礙未來私部門的合作 CISA 主任 Jen Easterly 表示，網路安全安全審查委員會 (CSRB) 「在出現問題時不會害怕指出」在在董事會嚴厲的微軟報告之後，人們對私部門合作的擔憂... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</guid>
+      <pubDate>Mon, 01 Jul 2024 09:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>CTO 最討厭 GenAI 的什麼？工具的改變會破壞東西</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/database_ai_training/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有人願意在這些承諾已久的飛行出租車中乘坐過山車 NASA 正在使用定制的VR 模擬裝置測試如何讓空中出租車乘客感到舒適和不舒服。 /p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/nasa_tests_rider_comfort_in/</guid>
       <pubDate>Fri, 28 Jun 2024 15:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌因信任問題與 Chrome 中的 Entrust 斷絕關係</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/google_axes_entrust_over_six/</link>
-      <description><![CDATA[在 Mozilla 抨擊證書頒發機構的失敗幾週後，Google 決定切斷對 Entrust 的信任，據其描述，在合規性和總體改進方面出現了長期的失敗。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/google_axes_entrust_over_six/</guid>
-      <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
