@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 02:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 04:13:30 GMT</lastBuildDate>
+    <item>
+      <title>微軟告訴更多客戶他們的電子郵件被盜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/infosec_in_brief/</link>
+      <description><![CDATA[另外：美國汽車經銷商仍處於離線狀態； Conti 編碼員制裁； Rabbit R1 硬編碼 API 金鑰；以及更多 安全簡述 花了一段時間，但微軟已經告訴客戶，今年早些時候入侵其係統的俄羅斯犯罪分子竊取的電子郵件數量比它最初承認的還要多。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/infosec_in_brief/</guid>
+      <pubDate>Mon, 01 Jul 2024 03:35:08 GMT</pubDate>
+    </item>
     <item>
       <title>中國警告公民停止在社群媒體上發布有關間諜衛星的訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/asia_tech_news_roundup/</link>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟再次暫停安全證書續訂</title>
+      <title>微軟再次暫停安全性證書更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</link>
       <description><![CDATA[在 Microsoft 365 和 Office Online 中看到奇怪的警告？這就是為什麼 微軟的 TLS 憑證有過期問題，從而導致不必要的安全警告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 28 Jun 2024 10:24:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧將使資料中心資本支出增加 28.5%，並成為最大的伺服器工作負載</title>
+      <title>人工智慧將使資料中心資本支出提高 28.5%，成為最大的伺服器工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</link>
       <description><![CDATA[冷卻技術留待細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近 30%，也有望成為資料中心投資的主要驅動力。幾年內部署的最高伺服器工作負載。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</guid>
       <pubDate>Fri, 28 Jun 2024 09:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows：設計上不安全</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/windows_insecure_by_design/</link>
-      <description><![CDATA[Microsoft，把你的手從我的電腦上拿開！我向您展示如何使用物件連結和嵌入 (OLE) 從同事的電子表格中竊取資料。您可能認為微軟現在已經解決了安全問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/windows_insecure_by_design/</guid>
-      <pubDate>Fri, 28 Jun 2024 08:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
