@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 12:52:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 13:33:53 GMT</lastBuildDate>
+    <item>
+      <title>北京稱中國稀土金屬歸國家所有</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/china_rare_earth_clampdown/</link>
+      <description><![CDATA[更好地管理關鍵材料還是對制裁進行報復？被視為與美國正在進行的科技戰爭中的另一槍…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/china_rare_earth_clampdown/</guid>
+      <pubDate>Mon, 01 Jul 2024 13:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>阿斯達以 5 億美元的科技分手費與沃爾瑪吻別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/asda_walmart_separation_costs/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>Poyfill.io 聲稱揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束到達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
     <item>
       <title>CISA主任：美國「不害怕」大聲疾呼大型科技公司的安全缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</link>
-      <description><![CDATA[Jen Easterly 希望CSRB 的Microsoft 報告不會妨礙未來私部門的合作 CISA 主任Jen Easterly 表示，網路安全安全審查委員會(CSRB) 「在出現問題時不會害怕說出問題「在董事會嚴厲的微軟報告之後，人們對私部門合作的擔憂...... ]]></description>
+      <description><![CDATA[Jen Easterly 希望 CSRB 的 Microsoft 報告不會妨礙未來私部門的合作 CISA 主任 Jen Easterly 表示，網路安全安全審查委員會 (CSRB) 「在出現問題時不會害怕指出」在在董事會嚴厲的微軟報告之後，人們對私部門合作的擔憂... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</guid>
       <pubDate>Mon, 01 Jul 2024 09:35:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>ChatGPT 錯誤地堅稱川普-拜登 CNN 辯論有 1 到 2 分鐘的延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/29/chatgpt_presidential_debate/</link>
-      <description><![CDATA[是的，喬那天晚上完全得到了編輯幫助，他確實令人印象深刻...... 民意調查  OpenAI 的ChatGPT 因週四晚上的美國總統辯論中的不准確說法而失敗特朗普和拜登在 CNN 上的節目將會有一到兩分鐘的延遲，而不是通常的幾秒鐘。]]></description>
+      <description><![CDATA[是的，喬那天晚上完全得到了編輯幫助，他確實令人印象深刻...... 民意調查  OpenAI 的ChatGPT 因週四晚上的美國總統辯論中的不准確說法而失敗特朗普和拜登在 CNN 上的節目將有一到兩分鐘的延遲，而不是通常的幾秒鐘。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/29/chatgpt_presidential_debate/</guid>
       <pubDate>Sat, 29 Jun 2024 00:32:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[因此，關鍵開源中存在如此多的記憶體不安全例程，以及不安全的依賴項 美國政府的網路安全和基礎設施安全局(CISA) 分析了172 個關鍵開源項目，發現更多超過一半包含用C 和C++ 等語言編寫的程式碼，這些語言本來就不是記憶體安全的。 .html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/cisa_open_source/</guid>
       <pubDate>Fri, 28 Jun 2024 20:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>TeamViewer 稱俄羅斯侵入其公司 IT 網路</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</link>
-      <description><![CDATA[與 Microsoft 和 SolarWinds 相同的 APT29 團隊。我們距離大型後門情況還有多遠？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/teamviewer_russia/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
