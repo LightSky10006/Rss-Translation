@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 07:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 08:37:48 GMT</lastBuildDate>
+    <item>
+      <title>CTO 最討厭 GenAI 的什麼？工具的改變會破壞東西</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/database_ai_training/</link>
+      <description><![CDATA[有這麼多的資料庫供應商可供選擇，我們的禿鷹抓住了令人眼花繚亂的選擇 DataStax 最近加入了越來越多的資料庫專家隊伍，推出了新工具，承諾幫助客戶在其基礎上建立GenAI 應用程式資料平台。然而，對於使用多個資料庫的客戶來說，問題仍然存在：他們應該選擇哪個供應商（如果有）作為支援 GenAI 應用程式開發的主要平台？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/database_ai_training/</guid>
+      <pubDate>Mon, 01 Jul 2024 08:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>資料中心的電弧焊接機：可能會出現什麼問題？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/who_me/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在 Mozilla 抨擊證書頒發機構的失敗幾週後，Google 決定切斷對 Entrust 的信任，據其描述，在合規性和總體改進方面出現了長期的失敗。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/google_axes_entrust_over_six/</guid>
       <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟再次暫停安全性證書更新</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</link>
-      <description><![CDATA[在 Microsoft 365 和 Office Online 中看到奇怪的警告？這就是為什麼 微軟的 TLS 憑證有過期問題，從而導致不必要的安全警告。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</guid>
-      <pubDate>Fri, 28 Jun 2024 13:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
