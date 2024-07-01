@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 21:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 21:34:20 GMT</lastBuildDate>
     <item>
-      <title>最高法院下令重新考慮德州和佛羅裡達州的無節制網路法</title>
+      <title>法國準備對英偉達提出“指控”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/french_nvidia_competition/</link>
+      <description><![CDATA[歐洲國家的壟斷憲兵對 GPU 巨頭的主導地位表示不滿 據報道，法國監管機構準備對 Nvidia 涉嫌反競爭行為提出指控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/french_nvidia_competition/</guid>
+      <pubDate>Mon, 01 Jul 2024 21:25:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院命令重新考慮德州和佛羅裡達州禁止網路審核的法律</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/supreme_court_social_media/</link>
       <description><![CDATA[網站和應用程式沒有發言權？這似乎不太自由 美國最高法院週一告訴下級法院重新考慮佛羅裡達州和德克薩斯州關於社交媒體法的單獨的、相互衝突的裁決，因為這些法院未能正確考慮言論自由權網路平台。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/supreme_court_social_media/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>波音公司將重新收購分拆供應商 Spirit AeroSpace 以加強安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/boeing_reacquires_spirit/</link>
-      <description><![CDATA[對於陷入困境的供應商來說，最好的地方就是在原來的母公司旗下 十九年後，經過一系列爭議，波音公司決定重新收購Spirit AeroSystems，該公司生產包括車門在內的零件製造商部分波音 737 Max 9 飛​​機隨附插頭。 ...]]></description>
+      <description><![CDATA[因為對於陷入困境的供應商來說，最好的地方就是在原來的母公司旗下 十九年後，經過一系列爭議，波音公司決定重新收購Spirit AeroSystems，該公司生產包括車門在內的零件製造商部分波音 737 Max 9 飛​​機隨附插頭。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/boeing_reacquires_spirit/</guid>
       <pubDate>Mon, 01 Jul 2024 15:29:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Polyfill.io 的聲明揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞“科技”被借用並貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束到達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：新加坡推出全球監管區塊鏈；中國新任科技總裁上任；印度頻譜拍賣失敗 亞洲簡報 中國國家安全部要求公民停止在網路上發布有關國家間諜衛星和國家安全設施的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 01 Jul 2024 01:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里雲關閉澳洲和印度資料中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/alibaba_cloud_closes_india_australia/</link>
-      <description><![CDATA[優先考慮墨西哥和東南亞 阿里巴巴雲透露，它將很快關閉其在澳大利亞和印度的數據中心業務，儘管此前告訴《The Register》其澳大利亞業務仍然完好無損。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/alibaba_cloud_closes_india_australia/</guid>
-      <pubDate>Mon, 01 Jul 2024 00:19:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
