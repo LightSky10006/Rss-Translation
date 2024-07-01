@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 14:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 15:12:06 GMT</lastBuildDate>
+    <item>
+      <title>Verizon 因侵犯 5G 和熱點專利而被判 8.47 億美元巨額賠償</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/verizon_patents_ruling/</link>
+      <description><![CDATA[一定很難面對巨額的、意想不到的賬單吧，amirite？巨頭Verizon 向專利持有人General 支付費用Access Solutions 8.47 億美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/verizon_patents_ruling/</guid>
+      <pubDate>Mon, 01 Jul 2024 14:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>OpenSSH 中令人討厭的 regreSSHion 錯誤使大約 70 萬個 Linux 機器面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/regresshion_openssh/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Poyfill.io 聲稱揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞“科技”被借用並貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>ChatGPT 錯誤地堅稱川普-拜登 CNN 辯論有 1 到 2 分鐘的延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/29/chatgpt_presidential_debate/</link>
-      <description><![CDATA[是的，喬那天晚上完全得到了編輯幫助，他確實令人印象深刻...... 民意調查  OpenAI 的ChatGPT 因週四晚上的美國總統辯論中的不准確說法而失敗特朗普和拜登在 CNN 上的節目將會有一到兩分鐘的延遲，而不是通常的幾秒鐘。]]></description>
+      <description><![CDATA[是的，喬那天晚上完全得到了編輯幫助，他確實令人印象深刻...... 民意調查  OpenAI 的ChatGPT 因週四晚上的美國總統辯論中的不准確說法而失敗特朗普和拜登在 CNN 上的節目將有一到兩分鐘的延遲，而不是通常的幾秒鐘。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/29/chatgpt_presidential_debate/</guid>
       <pubDate>Sat, 29 Jun 2024 00:32:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[除非你有律師 微軟AI 執行長穆斯塔法·蘇萊曼(Mustafa Suleyman) 本週表示，機器學習公司可以抓取線上發布的大部分內容，並用它來訓練神經網路因為它本質上是「免費軟體」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_ceo_ai/</guid>
       <pubDate>Fri, 28 Jun 2024 23:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國對電動車的興趣四年來首次短路</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/us_ev_survey/</link>
-      <description><![CDATA[有趣的是，如果你把特斯拉排除在外，會發生什麼 皮尤研究中心表示，美國駕駛者對電動車的興趣自2020 年以來首次略有下降，只有十分之三的美國人現在說他們正在考慮下次購買電池驅動的交通工具。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/us_ev_survey/</guid>
-      <pubDate>Fri, 28 Jun 2024 21:52:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
