@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 10:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 12:21:25 GMT</lastBuildDate>
+    <item>
+      <title>瞻博網路針對 10 個路由器漏洞推出緊急補丁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/emergency_patches_available_for_juniper/</link>
+      <description><![CDATA[趁熱獲取 影響瞻博網路路由器的嚴重漏洞迫使供應商上週發布緊急補丁，建議用戶盡快應用它們。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/emergency_patches_available_for_juniper/</guid>
+      <pubDate>Mon, 01 Jul 2024 11:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>Poyfill.io 聲稱揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞“科技”被借用並貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞“科技”被借用並貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束到達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/poyfillio_comment/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[星鏈競爭對手再次下滑，但服務仍定於 2025 年 亞馬遜柯伊伯計劃的首次全面任務已推遲到 2024 年底，即該公司最終將原型衛星投入使用一年後軌道...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/amazon_project_kuiper_q4/</guid>
       <pubDate>Fri, 28 Jun 2024 17:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>比爾蓋茲表示不用擔心人工智慧吞噬能源，科技會適應</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/bill_gates_ai_power_consumption/</link>
-      <description><![CDATA[所以那很好 比爾蓋茲表示，人工智慧處理所需的大量電力消耗無需擔心，因為人工智慧最終將找到幫助降低功耗並推動向可持續能源過渡的方法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/bill_gates_ai_power_consumption/</guid>
-      <pubDate>Fri, 28 Jun 2024 16:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
