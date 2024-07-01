@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 01 Jul 2024 00:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 02:07:02 GMT</lastBuildDate>
+    <item>
+      <title>中國警告公民停止在社群媒體上發布有關間諜衛星的訊息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/asia_tech_news_roundup/</link>
+      <description><![CDATA[Plus：新加坡推出全球監管區塊鏈；中國新任科技總裁上任；印度頻譜拍賣失敗 亞洲簡報 中國國家安全部要求公民停止在網路上發布有關國家間諜衛星和國家安全設施的資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/asia_tech_news_roundup/</guid>
+      <pubDate>Mon, 01 Jul 2024 01:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>阿里雲關閉澳洲和印度資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/alibaba_cloud_closes_india_australia/</link>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 28 Jun 2024 14:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟再次暫停安全性證書更新</title>
+      <title>微軟再次暫停安全證書續訂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</link>
       <description><![CDATA[在 Microsoft 365 和 Office Online 中看到奇怪的警告？這就是為什麼 微軟的 TLS 憑證有過期問題，從而導致不必要的安全警告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/microsoft_security_certificate_expires/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 28 Jun 2024 10:24:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧將使資料中心資本支出提高 28.5%，成為最大的伺服器工作負載</title>
+      <title>人工智慧將使資料中心資本支出增加 28.5%，並成為最大的伺服器工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</link>
       <description><![CDATA[冷卻技術留待細節 人工智慧目前是資料中心投資的主要推動力，今年將使設施的資本支出增加近 30%，也有望成為資料中心投資的主要驅動力。幾年內部署的最高伺服器工作負載。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/datacenter_capex_tai/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Microsoft，把你的手從我的電腦上拿開！我向您展示如何使用物件連結和嵌入 (OLE) 從同事的電子表格中竊取資料。您可能認為微軟現在已經解決了安全問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/windows_insecure_by_design/</guid>
       <pubDate>Fri, 28 Jun 2024 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>鄭重聲明：您剛剛命令我造成一次非常昂貴的停電</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</link>
-      <description><![CDATA[並如此粗魯地命令該技術人員沒有興趣留下來解決隨後的混亂 隨叫隨到技術支援。這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是一個由讀者投稿的專欄，您可以在其中分享打敗那些傻瓜的故事。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/06/28/on_call/</guid>
-      <pubDate>Fri, 28 Jun 2024 07:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
