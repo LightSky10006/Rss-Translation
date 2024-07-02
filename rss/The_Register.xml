@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 21:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 22:11:27 GMT</lastBuildDate>
+    <item>
+      <title>EFF 希望 FTC 將撒謊的聊天機器人視為法律上的“不公平和欺騙性”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/eff_ftc_chatbot/</link>
+      <description><![CDATA[科里·多克托羅(Cory Doctorow) 表示，對人工智慧業者「處以罰款」 電子前沿基金會(EFF) 提議聯邦貿易委員會應用禁止不公平貿易行為的規則來懲罰那些經營欺騙性聊天機器人的人。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/eff_ftc_chatbot/</guid>
+      <pubDate>Tue, 02 Jul 2024 21:53:06 GMT</pubDate>
+    </item>
     <item>
       <title>美國陸軍：我們希望「以你們建設人工智慧的速度」吸收私部門的人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/us_army_private_sector_ai/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>Salesforce 投資者拒絕為貝尼奧夫的總薪酬額外增加 2000 萬美元的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</link>
-      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 根據一份代理聲明，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪的提議，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
+      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 股東委託聲明中，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪酬的報價，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</guid>
       <pubDate>Tue, 02 Jul 2024 11:34:08 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>「幾乎所有蘋果設備」都容易受到 CocoaPods 供應鏈攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</link>
-      <description><![CDATA[數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <description><![CDATA[在數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</guid>
       <pubDate>Tue, 02 Jul 2024 07:32:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[針對 AI 玩家的反壟斷案件、Adobe 的訂閱混亂和網路中立性等問題可以由法官而非專家來決定 分析 美國最高法院已裁定法官不應再遵從政府機構對模糊法律的解釋—這項決定可能會對一些針對科技公司的最大案件產生影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/supreme_court_chevron/</guid>
       <pubDate>Tue, 02 Jul 2024 00:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>法國準備對英偉達提出“指控”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/french_nvidia_competition/</link>
-      <description><![CDATA[歐洲國家的壟斷憲兵對 GPU 巨頭的主導地位表示不滿 據報道，法國監管機構準備對 Nvidia 涉嫌反競爭行為提出指控。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/french_nvidia_competition/</guid>
-      <pubDate>Mon, 01 Jul 2024 21:25:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
