@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 16:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 16:40:00 GMT</lastBuildDate>
+    <item>
+      <title>Cisco Nexus 交換器因最新的零日漏洞而崩潰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</link>
+      <description><![CDATA[命令注入漏洞被疑似中國間諜濫用- 打補丁 思科交換機所有者可能應該應用剛剛針對一個漏洞發布的補丁，該漏洞於4 月份被利用作為零日漏洞來安裝惡意軟體一系列 Nexus 交換器…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</guid>
+      <pubDate>Tue, 02 Jul 2024 16:37:11 GMT</pubDate>
+    </item>
     <item>
       <title>儘管作業系統受到保護，但一半的美國人仍然堅持使用第三方防毒軟體——以防萬一</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論你是否交出現金，Facebook、Instagram 都會吞噬相同的數據 歐盟反壟斷監管機構指控 Meta 的「付費或同意」廣告模式違反了歐盟的數位市場法案 (DMA)自去年宣布以來，一直是投訴的來源。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/meta_eu_dma_violation/</guid>
       <pubDate>Mon, 01 Jul 2024 18:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SK海力士斥資數十億美元研發HBM晶片以滿足人工智慧需求</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/sk_hynix_hbm_investment/</link>
-      <description><![CDATA[今年和明年的庫存已經售空 高頻寬內存(HBM) 正在成為持續的人工智慧投資競賽中的關鍵技術，因為SK 海力士計劃花費數十億美元用於內存晶片生產和中國華為希望與當地一家代工廠合作開發自己的產品。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/sk_hynix_hbm_investment/</guid>
-      <pubDate>Mon, 01 Jul 2024 16:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
