@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 02 Jul 2024 18:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 20:12:05 GMT</lastBuildDate>
+    <item>
+      <title>即使父母使用嚴格的隱私設置，人工智慧也會對孩子的照片進行訓練</title>
+      <link>https://arstechnica.com/?p=2035015</link>
+      <description><![CDATA[監管機構警告說，甚至不公開的 YouTube 影片也被用來訓練人工智慧。]]></description>
+      <guid>https://arstechnica.com/?p=2035015</guid>
+      <pubDate>Tue, 02 Jul 2024 19:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國透過 1.76 億美元的 Moderna 疫苗協議為應對禽流感大流行做好準備</title>
+      <link>https://arstechnica.com/?p=2035014</link>
+      <description><![CDATA[第三階段試驗預計明年開始。]]></description>
+      <guid>https://arstechnica.com/?p=2035014</guid>
+      <pubDate>Tue, 02 Jul 2024 19:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH 中的「RegreSSHion」漏洞可讓攻擊者取得 Linux 的 root 權限</title>
+      <link>https://arstechnica.com/?p=2035011</link>
+      <description><![CDATA[透過向伺服器發送數千個連線請求，可能會導致整個系統受到損害。]]></description>
+      <guid>https://arstechnica.com/?p=2035011</guid>
+      <pubDate>Tue, 02 Jul 2024 19:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>SCOTUS 同意審查導致 Pornhub 離開該州的德克薩斯州法律</title>
       <link>https://arstechnica.com/?p=2034992</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[多餘的人工智慧功能和相容性問題不會影響優質電腦的表現。]]></description>
       <guid>https://arstechnica.com/?p=2032066</guid>
       <pubDate>Tue, 02 Jul 2024 14:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，你應該對颶風貝裡爾感到有點害怕</title>
-      <link>https://arstechnica.com/?p=2034854</link>
-      <description><![CDATA[“很難表達這是多麼令人難以置信。”]]></description>
-      <guid>https://arstechnica.com/?p=2034854</guid>
-      <pubDate>Tue, 02 Jul 2024 13:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars Live：7 月 9 日加入我們，熱烈討論電影中的時光旅行</title>
-      <link>https://arstechnica.com/?p=2034631</link>
-      <description><![CDATA[比爾和泰德 共同創作者 Ed Solomon 加入物理學家 Sean Carroll 和 Jim Kakalios 的行列]]></description>
-      <guid>https://arstechnica.com/?p=2034631</guid>
-      <pubDate>Tue, 02 Jul 2024 11:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>螢火蟲正在快速建造並打破常規，打造可重複使用的火箭</title>
-      <link>https://arstechnica.com/?p=2034632</link>
-      <description><![CDATA[“對於我們的基地設計，我們正在圍繞返回發射場推進著陸進行設計。”]]></description>
-      <guid>https://arstechnica.com/?p=2034632</guid>
-      <pubDate>Tue, 02 Jul 2024 00:29:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
