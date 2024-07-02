@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 12:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 13:33:53 GMT</lastBuildDate>
+    <item>
+      <title>Affirm 承認客戶資訊在 Evolve Bank 勒索軟體攻擊中被竊取</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</link>
+      <description><![CDATA[承認資料被盜的合作夥伴數量持續增加 受到 Evolve Bank &amp; 資料外洩事件影響的金融機構數量隨著金融科技企業 Wise 和 Affirm 都確認自己受到了重大影響，信任度持續上升。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</guid>
+      <pubDate>Tue, 02 Jul 2024 13:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>任天堂起訴 Switch 盜版者，要求大量硬幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/nintendo_piracy_lawsuits/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[一定很難面對巨額的、意想不到的賬單吧，amirite？巨頭Verizon 向專利持有人General 支付費用Access Solutions 8.47 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/verizon_patents_ruling/</guid>
       <pubDate>Mon, 01 Jul 2024 14:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH 中令人討厭的 regreSSHion 錯誤使大約 70 萬個 Linux 機器面臨風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/regresshion_openssh/</link>
-      <description><![CDATA[完全系統接管即將到來，對於那些有足夠耐心的人來說 基於 Glibc 的 Linux 系統容易受到 OpenSSH 伺服器 (sshd) 中新錯誤 (CVE-2024-6387) 的影響並且應該升級到最新版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/regresshion_openssh/</guid>
-      <pubDate>Mon, 01 Jul 2024 14:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
