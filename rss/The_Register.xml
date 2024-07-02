@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 16:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 17:34:28 GMT</lastBuildDate>
+    <item>
+      <title>瑞士將在 2024 年終結類比 FM 廣播</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/switzerland_to_end_2024_with/</link>
+      <description><![CDATA[如果您是少數幾個仍然沒有能夠接收DAB+ 訊號的瑞士人之一，那麼是時候升級該接收器了 瑞士廣播聽眾很快就必須扔掉他們的舊設備，因為該國計劃於2024 年12 月31 日結束類比調頻廣播，轉而全面轉換為數位廣播。 &#39; --&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/switzerland_to_end_2024_with/</guid>
+      <pubDate>Tue, 02 Jul 2024 17:22:11 GMT</pubDate>
+    </item>
     <item>
       <title>Cisco Nexus 交換器因最新的零日漏洞而崩潰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>儘管作業系統受到保護，但一半的美國人仍然堅持使用第三方防毒軟體——以防萬一</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</link>
-      <description><![CDATA[古老的智慧還是只是對惡意軟體的傳統恐懼？ .. ]]></description>
+      <description><![CDATA[老人們的智慧還是只是對惡意軟體的傳統恐懼？ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</guid>
       <pubDate>Tue, 02 Jul 2024 15:33:14 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 02 Jul 2024 14:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>Affirm 承認 Evolve 銀行勒索軟體襲擊中竊取了客戶訊息</title>
+      <title>Affirm 承認客戶資訊在 Evolve Bank 勒索軟體攻擊中被竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</link>
       <description><![CDATA[承認資料被盜的合作夥伴數量持續增加 受到 Evolve Bank &amp; 資料外洩事件影響的金融機構數量隨著金融科技企業 Wise 和 Affirm 都確認自己受到了重大影響，信任度持續上升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>Salesforce 投資者拒絕為貝尼奧夫的總薪酬額外增加 2000 萬美元的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</link>
-      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 股東委託聲明中，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪酬的報價，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
+      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 根據一份代理聲明，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪的提議，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</guid>
       <pubDate>Tue, 02 Jul 2024 11:34:08 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>「幾乎所有蘋果設備」都容易受到 CocoaPods 供應鏈攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</link>
-      <description><![CDATA[在數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <description><![CDATA[數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</guid>
       <pubDate>Tue, 02 Jul 2024 07:32:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[當你可以租鏟子時，為什麼還要賣鏟子 在人工智慧淘金熱中，如果你不能成為出售 GPU 的人，那麼下一個最好的方法就是租用它們。本週，我們了解到 Lambda 正在尋求 8 億美元的資金來實現這一目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/lambda_seeks_funding/</guid>
       <pubDate>Mon, 01 Jul 2024 19:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>反壟斷警察對 Meta 向歐洲人發出的「付費或同意」最後通牒表示不滿</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/meta_eu_dma_violation/</link>
-      <description><![CDATA[無論你是否交出現金，Facebook、Instagram 都會吞噬相同的數據 歐盟反壟斷監管機構指控 Meta 的「付費或同意」廣告模式違反了歐盟的數位市場法案 (DMA)自去年宣布以來，一直是投訴的來源。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/meta_eu_dma_violation/</guid>
-      <pubDate>Mon, 01 Jul 2024 18:01:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
