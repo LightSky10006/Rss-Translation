@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 05:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 06:39:49 GMT</lastBuildDate>
+    <item>
+      <title>波音公司不去太空，中國從月球回來，太空陷入困境</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/kettle_iss_boeing/</link>
+      <description><![CDATA[禿鷹透過跨大西洋聊天回顧了在軌道上忙碌的幾天 Kettle 這是太空的忙碌時期，波音的試飛員陷入困境（在撰寫本文時）由於太空艙故障而在國際太空站上，然後被迫躲避碎片......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/kettle_iss_boeing/</guid>
+      <pubDate>Tue, 02 Jul 2024 06:20:13 GMT</pubDate>
+    </item>
     <item>
       <title>壞人劫持韓國 ERP 供應商的更新系統以傳播惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/korean_erp_backdoor_malware_attack/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>波音公司將重新收購分拆供應商 Spirit AeroSpace 以加強安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/boeing_reacquires_spirit/</link>
-      <description><![CDATA[因為對於陷入困境的供應商來說，最好的地方就是在原來的母公司旗下 十九年後，經過一系列爭議，波音公司決定重新收購Spirit AeroSystems，該公司生產包括車門在內的零件製造商部分波音 737 Max 9 飛​​機隨附插頭。 ...]]></description>
+      <description><![CDATA[對於陷入困境的供應商來說，最好的地方就是在原來的母公司旗下 十九年後，經過一系列爭議，波音公司決定重新收購Spirit AeroSystems，該公司生產包括車門在內的零件製造商部分波音 737 Max 9 飛​​機隨附插頭。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/boeing_reacquires_spirit/</guid>
       <pubDate>Mon, 01 Jul 2024 15:29:14 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>Polyfill.io 的聲明揭示了供應鏈中的新裂縫，但它們有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</link>
-      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞“科技”被借用並貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束抵達的克林貢突擊隊一樣。]]></description>
+      <description><![CDATA[系統中總是會有壞人。我們總是可以從他們創造的戲劇中學習 意見 圖書館。知識文明力量的靜謐殿堂，還是全球毀滅的發射台？是的，另一個詞「科技」已經被借用和貶低了。程式碼庫對於為專案添加正確的標準測試功能至關重要。它們也是供應鏈攻擊的天然家園，這些攻擊會在企業的核心實現惡意軟體，就像透過運輸光束到達的克林貢突擊隊一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/polyfill_io_supply_chain/</guid>
       <pubDate>Mon, 01 Jul 2024 10:32:08 GMT</pubDate>
     </item>
     <item>
       <title>CISA主任：美國「不害怕」大聲疾呼大型科技公司的安全缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</link>
-      <description><![CDATA[Jen Easterly 希望 CSRB 的 Microsoft 報告不會妨礙未來私營部門的合作 CISA 主任 Jen Easterly 表示，美國網路安全安全審查委員會 (CSRB) “在出現問題時不會害怕指出”在董事會對微軟發表嚴厲報告後，對有關私營部門合作未來的問題作出回應。 /p&gt;]]></description>
+      <description><![CDATA[Jen Easterly 希望 CSRB 的 Microsoft 報告不會妨礙未來私營部門的合作 CISA 主任 Jen Easterly 表示，美國網路安全安全審查委員會 (CSRB) “在出現問題時不會害怕指出”在董事會對微軟提出嚴厲報告後，對有關私營部門合作未來的問題作出回應。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/cisa_big_tech_security/</guid>
       <pubDate>Mon, 01 Jul 2024 09:35:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有這麼多的資料庫供應商可供選擇，我們的禿鷹抓住了令人眼花繚亂的選擇 DataStax 最近加入了越來越多的資料庫專家隊伍，推出了新工具，承諾幫助客戶在其基礎上建立GenAI 應用程式資料平台。然而，對於使用多個資料庫的客戶來說，問題仍然存在：他們應該選擇哪個供應商（如果有）作為支援 GenAI 應用程式開發的主要平台？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/database_ai_training/</guid>
       <pubDate>Mon, 01 Jul 2024 08:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>資料中心的電弧焊接機：可能會出現什麼問題？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/who_me/</link>
-      <description><![CDATA[如果由經驗豐富且細心的操作員在這個故事中運用的話，效果不會太大- 但他並不是這個故事中的唯一演員 誰，我？ /strong&gt; 週一又到了我們將迎來另一個充滿歡樂、機會、新視野和「誰，我？」的工作週。 – The Reg 的每週懺悔錄，其中讀者分享工作的故事，這些故事有美好的開始，以及......有趣的結局。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/who_me/</guid>
-      <pubDate>Mon, 01 Jul 2024 07:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
