@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 02 Jul 2024 18:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 18:37:34 GMT</lastBuildDate>
+    <item>
+      <title>聯合國電信機構指責俄羅斯干擾衛星</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/russia_satellite_interference/</link>
+      <description><![CDATA[歐洲鄰國稱幹擾來自莫斯科和加里寧格勒，克里姆林宮聲稱沒有發現任何東西 聯合國無線電規則委員會 (RRB) 要求俄羅斯與歐洲友好相處，不要幹擾衛星。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/russia_satellite_interference/</guid>
+      <pubDate>Tue, 02 Jul 2024 18:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>瑞士將在 2024 年終結類比 FM 廣播</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/switzerland_to_end_2024_with/</link>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 02 Jul 2024 14:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>Affirm 承認客戶資訊在 Evolve Bank 勒索軟體攻擊中被竊取</title>
+      <title>Affirm 擔心 Evolve 銀行勒索軟體襲擊期間客戶資訊被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</link>
-      <description><![CDATA[承認資料被盜的合作夥伴數量持續增加 受到 Evolve Bank &amp; 資料外洩事件影響的金融機構數量隨著金融科技企業 Wise 和 Affirm 都確認自己受到了重大影響，信任度持續上升。]]></description>
+      <description><![CDATA[承認資料被盜的合作夥伴數量持續增加 陷入 Evolve Bank 和 Evolve Bank 勒索軟體攻擊的金融機構數量隨著金融科技企業 Wise 和 Affirm 都確認自己受到了重大影響，信任度持續上升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/affirm_evolve_ransomware_breach/</guid>
       <pubDate>Tue, 02 Jul 2024 13:16:04 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[網站和應用程式沒有發言權？這似乎不太自由 美國最高法院週一告訴下級法院重新考慮佛羅裡達州和德克薩斯州關於社交媒體法的單獨的、相互衝突的裁決，因為這些法院未能正確考慮言論自由權網路平台。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/supreme_court_social_media/</guid>
       <pubDate>Mon, 01 Jul 2024 20:53:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lambda 正在尋找「另外 8 億美元」來為其 GPU 雲端提供動力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/01/lambda_seeks_funding/</link>
-      <description><![CDATA[當你可以租鏟子時，為什麼還要賣鏟子 在人工智慧淘金熱中，如果你不能成為出售 GPU 的人，那麼下一個最好的方法就是租用它們。本週，我們了解到 Lambda 正在尋求 8 億美元的資金來實現這一目標。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/01/lambda_seeks_funding/</guid>
-      <pubDate>Mon, 01 Jul 2024 19:56:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
