@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 07:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 07:36:01 GMT</lastBuildDate>
+    <item>
+      <title>Figma 下架人工智慧設計工具，涉嫌抄襲蘋果天氣應用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/figma_plagiarizes_apple/</link>
+      <description><![CDATA[人工智慧「就像創造力的快餐」 網頁和應用程式設計工具製造商Figma 暫時取消了其生成式人工智慧「Make Design」功能，因為它似乎認為蘋果的天氣應用程式是最重要的以及移動預測的最終結果。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/figma_plagiarizes_apple/</guid>
+      <pubDate>Wed, 03 Jul 2024 07:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>科技名人警告聯合國，其數字契約可能弊大於利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員預計治療將在大約5 年內應用於臨床 研究人員已經證明，特殊手術和仿生肢體的結合可以將一些截肢者的行走速度提高40%，在能力範圍內-身體健全的個體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/bionic_leg_interface_mit/</guid>
       <pubDate>Tue, 02 Jul 2024 08:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>「幾乎所有蘋果設備」都容易受到 CocoaPods 供應鏈攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</link>
-      <description><![CDATA[在數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:32:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
