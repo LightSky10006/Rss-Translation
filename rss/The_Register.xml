@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 18:36:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 20:11:59 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 首次推出一鍵網路抓取 AI 核武器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/cloudflare_ai_blocks/</link>
+      <description><![CDATA[忽略robots.txt！ 。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/cloudflare_ai_blocks/</guid>
+      <pubDate>Wed, 03 Jul 2024 19:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴西拒絕對公民資料進行元訓練人工智慧模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/brazil_meta_ai_training/</link>
+      <description><![CDATA[監管機構表示，祖克柏的理由不夠充分 Meta 在南美洲擴大人工智慧業務的計畫已受阻，巴西官員今天禁止 Facebook 母公司使用其公民資料訓練人工智慧演算法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/brazil_meta_ai_training/</guid>
+      <pubDate>Wed, 03 Jul 2024 19:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>公用事業公司因亞馬遜資料中心電力交易而使用核能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/utility_firms_launch_complaint/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Patelco 銀行服務在勒索軟體風波中擅離職守</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</link>
-      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統脫機。]]></description>
+      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統離線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</guid>
       <pubDate>Wed, 03 Jul 2024 15:35:09 GMT</pubDate>
     </item>
@@ -85,14 +99,14 @@
     <item>
       <title>科技名人警告聯合國，其數字契約可能弊大於利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</link>
-      <description><![CDATA[Tim Berners-Lee、Vint Cerf 等來自IETF、W3C、IANA 等組織的人士擔心，如果技術人員被忽視，網絡最終可能會變得中心化 三十九位為互聯網做出了重大貢獻的高級人物網路世界已寫信給聯合國，敦促其重新考慮其全球數位契約的一些要素——努力“概述共同原則，為所有人創造一個開放、自由和安全的數位未來。” ……]]></description>
+      <description><![CDATA[Tim Berners-Lee、Vint Cerf 以及來自IETF、W3C、IANA 等組織的更多人士擔心，如果技術人員被忽視，網絡最終可能會變得中心化 三十九位為網路做出了重大貢獻的高級人物網路世界已寫信給聯合國，敦促其重新考慮其全球數位契約的一些要素——努力「概述共同原則，為所有人創造一個開放、自由和安全的數位未來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</guid>
       <pubDate>Wed, 03 Jul 2024 06:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔使用手動流程來監督華為和其他中國科技公司的限制</title>
+      <title>山姆大叔依靠人工流程來監督華為和其他中國科技公司的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</link>
-      <description><![CDATA[工業和安全局過時的技術導致許可容易出現人為錯誤 工業和安全局 (BIS) – 華盛頓依賴該機構實施出口許可控制，以確保受制裁的技術不會被“無法到達某些國家- 週二透露，由於技術和系統過時，越來越多的中國公司被添加到美國實體名單中，該公司正在努力應對大量增加的工作量。]]></description>
+      <description><![CDATA[工業和安全局過時的技術導致許可容易出現人為錯誤 工業和安全局(BIS) – 華盛頓依賴該機構實施出口許可控制，以確保受制裁的技術不會被“濫用」。無法到達某些國家- 週二透露，由於技術和系統過時，越來越多的中國公司被添加到美國實體名單中，該公司正在努力應對大量增加的工作量。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</guid>
       <pubDate>Wed, 03 Jul 2024 05:33:08 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[科里·多克托羅(Cory Doctorow) 表示，對人工智慧業者「處以罰款」 電子前沿基金會(EFF) 提議聯邦貿易委員會應用禁止不公平貿易行為的規則來懲罰那些經營欺騙性聊天機器人的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/eff_ftc_chatbot/</guid>
       <pubDate>Tue, 02 Jul 2024 21:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國陸軍：我們希望「以你們建設人工智慧的速度」吸收私部門的人工智慧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/us_army_private_sector_ai/</link>
-      <description><![CDATA[來一盤漂亮的西洋棋怎麼樣？問題這將來自於移動。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/us_army_private_sector_ai/</guid>
-      <pubDate>Tue, 02 Jul 2024 20:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯合國電信監管機構指責俄羅斯干擾衛星</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/russia_satellite_interference/</link>
-      <description><![CDATA[歐洲鄰國稱幹擾來自莫斯科和加里寧格勒，克里姆林宮聲稱沒有發現任何東西 聯合國無線電規則委員會 (RRB) 要求俄羅斯與歐洲友好相處，不要幹擾衛星。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/russia_satellite_interference/</guid>
-      <pubDate>Tue, 02 Jul 2024 18:26:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
