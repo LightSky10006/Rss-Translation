@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 14:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:11:48 GMT</lastBuildDate>
+    <item>
+      <title>Linux Mint 22 beta 在 Ubuntu 上新增了 Cinnamon 桌面</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/linux_mint_22_beta/</link>
+      <description><![CDATA[品嚐風險自負 Linux Mint 專案已發布版本 22 的測試版，代號為“Wilma”，並採用最新的 Cinnamon 桌面。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/linux_mint_22_beta/</guid>
+      <pubDate>Wed, 03 Jul 2024 14:36:13 GMT</pubDate>
+    </item>
     <item>
       <title>核心調整提高了 Raspberry Pi 的效能和效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[老人們的智慧還是只是對惡意軟體的傳統恐懼？使用任何保護所有......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</guid>
       <pubDate>Tue, 02 Jul 2024 15:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeDOS 和 FreeBSD 證明舊程式碼永遠不會消亡，只會得到漂亮的更新</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/freedos_30_freebsd_31/</link>
-      <description><![CDATA[週年紀念日，兩人都已步入30 多歲 FreeDOS 計畫於1994 年開始慶祝，大約比Amazon 早一周– 距離FreeBSD 啟動僅一年。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/freedos_30_freebsd_31/</guid>
-      <pubDate>Tue, 02 Jul 2024 14:34:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
