@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 03 Jul 2024 16:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 17:33:43 GMT</lastBuildDate>
+    <item>
+      <title>「一切都被凍結」：勒索軟體將信用社用戶鎖定在銀行帳戶之外</title>
+      <link>https://arstechnica.com/?p=2035180</link>
+      <description><![CDATA[加州的帕特爾科信用合作社 (Patelco Credit Union) 在遭受襲擊後關閉了眾多銀行服務。]]></description>
+      <guid>https://arstechnica.com/?p=2035180</guid>
+      <pubDate>Wed, 03 Jul 2024 17:17:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本結束了兩年的“軟碟戰爭”，廢除了要求舊技術的法規</title>
+      <link>https://arstechnica.com/?p=2035152</link>
+      <description><![CDATA[但是傳真機呢？]]></description>
+      <guid>https://arstechnica.com/?p=2035152</guid>
+      <pubDate>Wed, 03 Jul 2024 16:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘇打添加劑“不再被認為是安全的”，受到期待已久的 FDA 禁令</title>
+      <link>https://arstechnica.com/?p=2035154</link>
+      <description><![CDATA[溴化植物油 (BVO) 用於柑橘汽水，但基本上已被淘汰。]]></description>
+      <guid>https://arstechnica.com/?p=2035154</guid>
+      <pubDate>Wed, 03 Jul 2024 16:01:42 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 選擇 SpaceX 將伽馬射線望遠鏡發射到不尋常的軌道</title>
       <link>https://arstechnica.com/?p=2035108</link>
@@ -13,7 +34,7 @@
       <pubDate>Wed, 03 Jul 2024 15:23:26 GMT</pubDate>
     </item>
     <item>
-      <title>警方表示，數以百萬計的 OnlyFans 付費專區使得兒童性虐待行為難以偵查</title>
+      <title>警方表示，數以百萬計的 OnlyFans 付費牆使得兒童性虐待行為難以偵查</title>
       <link>https://arstechnica.com/?p=2035127</link>
       <description><![CDATA[報導稱，警方希望更多地接觸 OnlyFans，以發現更多兒童性虐待事件。]]></description>
       <guid>https://arstechnica.com/?p=2035127</guid>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 02 Jul 2024 21:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Vision Pro、新相機未能通過使用者可修復性分析</title>
+      <title>Apple Vision Pro、新相機未通過使用者可修復性分析</title>
       <link>https://arstechnica.com/?p=2034998</link>
       <description><![CDATA[儘管有新的維修權法，Meta Quest 3、PS5 Slim 也獲得了不及格的成績。]]></description>
       <guid>https://arstechnica.com/?p=2034998</guid>
       <pubDate>Tue, 02 Jul 2024 21:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使父母使用嚴格的隱私設置，人工智慧也會對孩子的照片進行訓練</title>
-      <link>https://arstechnica.com/?p=2035015</link>
-      <description><![CDATA[監管機構警告說，甚至不公開的 YouTube 影片也被用來訓練人工智慧。]]></description>
-      <guid>https://arstechnica.com/?p=2035015</guid>
-      <pubDate>Tue, 02 Jul 2024 19:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國透過 1.76 億美元的 Moderna 疫苗協議為應對禽流感大流行做好準備</title>
-      <link>https://arstechnica.com/?p=2035014</link>
-      <description><![CDATA[第三階段試驗預計明年開始。]]></description>
-      <guid>https://arstechnica.com/?p=2035014</guid>
-      <pubDate>Tue, 02 Jul 2024 19:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH 中的「RegreSSHion」漏洞可讓攻擊者取得 Linux 的 root 權限</title>
-      <link>https://arstechnica.com/?p=2035011</link>
-      <description><![CDATA[透過向伺服器發送數千個連線請求，可能會導致整個系統受到損害。]]></description>
-      <guid>https://arstechnica.com/?p=2035011</guid>
-      <pubDate>Tue, 02 Jul 2024 19:03:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
