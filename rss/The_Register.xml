@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 04:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 05:35:54 GMT</lastBuildDate>
+    <item>
+      <title>山姆大叔使用手動流程來監督華為和其他中國科技公司的限制</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</link>
+      <description><![CDATA[工業和安全局過時的技術導致許可容易出現人為錯誤 工業和安全局(BIS) – 華盛頓依賴該機構實施出口許可控制，以確保受制裁的技術不會被“濫用」。無法到達某些國家- 週二透露，由於技術和系統過時，越來越多的中國公司被添加到美國實體名單中，該公司正在努力應對大量增加的工作量。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</guid>
+      <pubDate>Wed, 03 Jul 2024 05:33:08 GMT</pubDate>
+    </item>
     <item>
       <title>Gartner 表示，VMware 授權變更意味著裸機可以捲土重來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</link>
@@ -92,14 +99,14 @@
     <item>
       <title>任天堂起訴 Switch 盜版者，要求大量硬幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/nintendo_piracy_lawsuits/</link>
-      <description><![CDATA[如果法庭做出有利於遊戲巨頭的判決呢？這是──一個我！破產！ #include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[如果法庭做出有利於遊戲巨頭的判決呢？這是──一個我！破產！ virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/nintendo_piracy_lawsuits/</guid>
       <pubDate>Tue, 02 Jul 2024 12:37:06 GMT</pubDate>
     </item>
     <item>
       <title>Salesforce 投資者拒絕為貝尼奧夫的總薪酬額外增加 2000 萬美元的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</link>
-      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 股東委託聲明中，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪酬的報價，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
+      <description><![CDATA[董事會將考慮對大型SaaS haus 進行不具約束力的投票 根據一份代理聲明，投資者拒絕了億萬富翁馬克·貝尼奧夫(Marc Benioff) 要求Salesforce 提供更高薪的提議，Salesforce 是他在25 年前幫助創立的SaaS 公司週一提交的文件顯示…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/salesforce_benioff_20m/</guid>
       <pubDate>Tue, 02 Jul 2024 11:34:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[禿鷹透過跨大西洋聊天回顧了在軌道上忙碌的幾天 Kettle 這是太空的忙碌時期，波音的試飛員陷入困境（在撰寫本文時）由於太空艙故障而在國際太空站上，然後被迫躲避碎片......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/kettle_iss_boeing/</guid>
       <pubDate>Tue, 02 Jul 2024 06:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>壞人劫持韓國 ERP 供應商的更新系統以傳播惡意軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/korean_erp_backdoor_malware_attack/</link>
-      <description><![CDATA[臭名昭著的「Andariel」人員利用HotCroissant 後門進行新的攻擊 據當地資訊安全機構稱，韓國ERP 供應商的產品更新伺服器已遭到攻擊，並被用來傳遞惡意軟體而非產品更新安實驗室。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/korean_erp_backdoor_malware_attack/</guid>
-      <pubDate>Tue, 02 Jul 2024 05:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
