@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 10:12:53 GMT</lastBuildDate>
+    <item>
+      <title>安息吧：WordPerfect 共同創辦人 Bruce Bastian 過世，享年 76 歲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/wordperfect_bruce_bastian/</link>
+      <description><![CDATA[向熱情的 LGBTQ+ 平等捍衛者致敬 訃告 科技企業家、WordPerfect 聯合創始人 Bruce Wayne Bastian 上個月在 Palmdale 家中去世，享年 76 歲，加利福尼亞州。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/wordperfect_bruce_bastian/</guid>
+      <pubDate>Wed, 03 Jul 2024 09:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>橡樹嶺研究人員將異國情調的金屬製成環保的固態冷卻器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/ornl_solid_state_cooling/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Gartner 表示，VMware 授權變更意味著裸機可以透過「去虛擬化」捲土重來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</link>
-      <description><![CDATA[資料中心技術的成熟度曲線還包括擴增實境、新型記憶體、核武 分析公司Gartner 發布了2024 年資料中心基礎設施技術的成熟度曲線，並增加了物理到虛擬的遷移– 又稱為「去虛擬化」 – 由於博通的許可變更，其一系列想法即將起飛。]]></description>
+      <description><![CDATA[資料中心技術的成熟度曲線還包括擴增實境、新型記憶體、核武 分析公司Gartner 發布了2024 年資料中心基礎設施技術的成熟度曲線，並添加了虛擬到實體的遷移– 又稱為「去虛擬化」 – 由於博通的許可變更，其一系列想法即將起飛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</guid>
       <pubDate>Wed, 03 Jul 2024 04:15:51 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ta shoh scansh mie, son ymmyd Google 正在為 Google 翻譯添加更多語言 - 更多。這一次，有 110 人，其中包括馬恩島。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/google_translate_expansion/</guid>
       <pubDate>Tue, 02 Jul 2024 10:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技如何從自由戀愛變成按天付費</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/foss_ai_blockchain/</link>
-      <description><![CDATA[FOSS、人工智慧、區塊鏈和空洞廢話的循環 Devconf.cz  今年，以及 Red Hat 上所有關於 Linux 的常見深入技術講座Devconf.cz開發者大會，也有幾個人在場宣傳AI相關專案和技術兄弟以前的最愛- 區塊鏈項目。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/foss_ai_blockchain/</guid>
-      <pubDate>Tue, 02 Jul 2024 09:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
