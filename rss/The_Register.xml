@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 15:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 16:14:27 GMT</lastBuildDate>
+    <item>
+      <title>Patelco 銀行服務在勒索軟體風波中擅離職守</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</link>
+      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統離線。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</guid>
+      <pubDate>Wed, 03 Jul 2024 15:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Mint 22 beta 在 Ubuntu 上新增了 Cinnamon 桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/linux_mint_22_beta/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[命令注入漏洞被疑似中國間諜濫用- 打補丁 思科交換機所有者可能應該應用剛剛針對一個漏洞發布的補丁，該漏洞於4 月份被利用作為零日漏洞來安裝惡意軟體一系列 Nexus 交換器…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</guid>
       <pubDate>Tue, 02 Jul 2024 16:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管作業系統受到保護，一半的美國人還是選擇第三方防毒軟體——以防萬一</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</link>
-      <description><![CDATA[老人們的智慧還是只是對惡意軟體的傳統恐懼？使用任何保護所有......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/third_party_secutity/</guid>
-      <pubDate>Tue, 02 Jul 2024 15:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
