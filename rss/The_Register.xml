@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 05:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 06:40:31 GMT</lastBuildDate>
+    <item>
+      <title>科技名人警告聯合國，其數字契約可能弊大於利</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</link>
+      <description><![CDATA[Tim Berners-Lee、Vint Cerf 以及來自IETF、W3C、IANA 等組織的更多人士擔心，如果技術人員被忽視，網絡最終可能會變得中心化 三十九位為網路做出了重大貢獻的高級人物網路世界已寫信給聯合國，敦促其重新考慮其全球數位契約的一些要素——努力「概述共同原則，為所有人創造一個開放、自由和安全的數位未來。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</guid>
+      <pubDate>Wed, 03 Jul 2024 06:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔使用手動流程來監督華為和其他中國科技公司的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在數百萬個應用程式中使用的依賴管理器留下了苦澀的味道 CocoaPods 是一個開源依賴管理器，在超過300 萬個用Swift 和Objective-C 編碼的應用程式中使用，導致數千個包暴露並準備就緒據安全研究人員稱，近十年來，這為針對iOS 和macOS 應用程式的供應鏈攻擊創造了機會。 &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cocoapods_vulns_supply_chain_potential/</guid>
       <pubDate>Tue, 02 Jul 2024 07:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司不去太空，中國從月球回來，太空陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/kettle_iss_boeing/</link>
-      <description><![CDATA[禿鷹透過跨大西洋聊天回顧了在軌道上忙碌的幾天 Kettle 這是太空的忙碌時期，波音的試飛員陷入困境（在撰寫本文時）由於太空艙故障而在國際太空站上，然後被迫躲避碎片......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/kettle_iss_boeing/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:20:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
