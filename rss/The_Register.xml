@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 03 Jul 2024 16:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 16:39:22 GMT</lastBuildDate>
+    <item>
+      <title>Traeger 安全漏洞對鄰裡牛肉燒烤店來說是個壞消息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/traeger_security_bugs/</link>
+      <description><![CDATA[在牛胸肉方面切勿冒險- 確保應用這些更新 敏銳的肉頭們最好希望他們在允許Traeger 烤架更新之前沒有激怒任何網絡安全人員，因為新的高嚴重性該漏洞可​​用於各種惡作劇。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/traeger_security_bugs/</guid>
+      <pubDate>Wed, 03 Jul 2024 16:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>Patelco 銀行服務在勒索軟體風波中擅離職守</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您是少數幾個仍然沒有能夠接收DAB+ 訊號的瑞士人之一，那麼是時候升級該接收器了 瑞士廣播聽眾很快就必須扔掉他們的舊設備，因為該國計劃於2024 年12 月31 日結束類比調頻廣播，轉而全面轉換為數位廣播。 &#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/switzerland_to_end_2024_with/</guid>
       <pubDate>Tue, 02 Jul 2024 17:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cisco Nexus 交換器因最新的零日漏洞而崩潰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</link>
-      <description><![CDATA[命令注入漏洞被疑似中國間諜濫用- 打補丁 思科交換機所有者可能應該應用剛剛針對一個漏洞發布的補丁，該漏洞於4 月份被利用作為零日漏洞來安裝惡意軟體一系列 Nexus 交換器…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/02/cisco_nexus_zero_day/</guid>
-      <pubDate>Tue, 02 Jul 2024 16:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
