@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 04 Jul 2024 06:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 07:12:26 GMT</lastBuildDate>
+    <item>
+      <title>ITER將世界最大聚變動力裝置的首個等離子體推遲十年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/iter_new_baseline_project_delays/</link>
+      <description><![CDATA[誰能想到能夠約束微型太陽的巨型磁鐵會很難建造？專案計劃，並將託卡馬克裝置的運作推遲了至少八年。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/iter_new_baseline_project_delays/</guid>
+      <pubDate>Thu, 04 Jul 2024 06:58:07 GMT</pubDate>
+    </item>
     <item>
       <title>攻擊印尼政府的勒索軟體敗類道歉並交出加密金鑰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/hackers_of_indonesian_government_apologize/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>Patelco 銀行服務在勒索軟體風波中擅離職守</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</link>
-      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統離線。]]></description>
+      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統脫機。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</guid>
       <pubDate>Wed, 03 Jul 2024 15:35:09 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>核心調整提高了 Raspberry Pi 的效能和效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</link>
-      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改善Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
+      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改進Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</guid>
       <pubDate>Wed, 03 Jul 2024 13:41:10 GMT</pubDate>
     </item>
     <item>
       <title>沃達豐、VMO2 重組頻譜以吸引監管機構合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</link>
-      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的條款似乎旨在平滑沃達豐計劃與 Three 合併的路徑... ]]></description>
+      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的一項條款似乎旨在平滑網路沃達豐計劃與 Three 合併的路徑... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</guid>
       <pubDate>Wed, 03 Jul 2024 12:37:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Tim Berners-Lee、Vint Cerf 等來自IETF、W3C、IANA 等組織的人士擔心，如果技術人員被忽視，網絡最終可能會變得中心化 三十九位為互聯網做出了重大貢獻的高級人物網路世界已寫信給聯合國，敦促其重新考慮其全球數位契約的一些要素——努力“概述共同原則，為所有人創造一個開放、自由和安全的數位未來。” ……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/un_digital_compact_technical_pushback/</guid>
       <pubDate>Wed, 03 Jul 2024 06:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆大叔依靠人工流程來監督華為和其他中國科技公司的限制</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</link>
-      <description><![CDATA[工業和安全局過時的技術導致許可容易出現人為錯誤 工業和安全局 (BIS) – 華盛頓依賴該機構實施出口許可控制，以確保受制裁的技術不會被“無法到達某些國家- 週二透露，由於技術和系統過時，越來越多的中國公司被添加到美國實體名單中，該公司正在努力應對大量增加的工作量。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</guid>
-      <pubDate>Wed, 03 Jul 2024 05:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
