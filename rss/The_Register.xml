@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 04 Jul 2024 12:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 12:51:09 GMT</lastBuildDate>
+    <item>
+      <title>AST SpaceMobile 承諾為月球提供無縫衛星電話服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/ast_spacemobile_plans/</link>
+      <description><![CDATA[然而，它的所有鳥類仍然堅定地留在地球上 AST SpaceMobile 重申了其計劃，以實現覆蓋整個美國大陸的衛星電話服務，該服務將與現有設備無縫協作，這要歸功於與AT&amp;amp; 的頻譜共享協議。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/ast_spacemobile_plans/</guid>
+      <pubDate>Thu, 04 Jul 2024 12:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>基於 Mir 的實驗性平鋪 WM 正在贏得 Ubuntopia 之外的認可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/miracle_wm_030/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>ITER將世界最大聚變動力裝置的首個等離子體推遲十年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/iter_new_baseline_project_delays/</link>
-      <description><![CDATA[誰能想到能夠約束微型太陽的巨型磁鐵會很難建造？專案計劃，並將託卡馬克裝置的運作推遲了至少八年。]]></description>
+      <description><![CDATA[誰能想到能夠約束微型太陽的巨型磁鐵會很難建造？計劃，並將託卡馬克裝置的運行推遲了至少八年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/iter_new_baseline_project_delays/</guid>
       <pubDate>Thu, 04 Jul 2024 06:58:07 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>如果中國切斷稀土材料，電動車世界將陷入嚴重麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/ev_rare_earth_china/</link>
-      <description><![CDATA[在開發不含稀土的馬達方面「我們還沒做到」 評價 中國加強對稀土元素(REE) 的控制，現在正是開發稀土元素的最佳時機汽車行業開始考慮電動汽車電機的替代品，但似乎沒有一個提議的解決方案可以實現。]]></description>
+      <description><![CDATA[「我們還沒有發展出沒有稀土元素的馬達」 評價 中國加強對稀土元素(REE) 的控制，現在正是開發稀土元素的最佳時機汽車產業開始考慮電動車馬達的替代品，但似乎沒有一個提議的解決方案可以實現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/ev_rare_earth_china/</guid>
       <pubDate>Wed, 03 Jul 2024 21:07:11 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>核心調整提高了 Raspberry Pi 的效能和效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</link>
-      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改進Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
+      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改善Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</guid>
       <pubDate>Wed, 03 Jul 2024 13:41:10 GMT</pubDate>
     </item>
     <item>
       <title>沃達豐、VMO2 重組頻譜以吸引監管機構合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</link>
-      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的一項條款似乎旨在平滑網路沃達豐計劃與 Three 合併的路徑... ]]></description>
+      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的條款似乎旨在平滑沃達豐計劃與 Three 合併的路徑... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</guid>
       <pubDate>Wed, 03 Jul 2024 12:37:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[聖物之戰終於勝利了。現在開始使用傳真機嗎？ 日本數位部長河野太郎證實，日本政府終於擺脫了軟碟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/japan_floppy_disk_victory/</guid>
       <pubDate>Wed, 03 Jul 2024 11:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國電信 (BT) 透過 ServiceNow 在人工智慧上投入巨資，以減少傳統包袱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bt_servicenow_savings/</link>
-      <description><![CDATA[儘管服務台處於十字準線，但承諾不會解僱員工 BT 集團在引入ServiceNow 的GenAI 技術後，預計將減少在服務台崗位上使用第三方支援人員。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bt_servicenow_savings/</guid>
-      <pubDate>Wed, 03 Jul 2024 10:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
