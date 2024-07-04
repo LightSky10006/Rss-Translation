@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 04 Jul 2024 02:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 04:13:16 GMT</lastBuildDate>
+    <item>
+      <title>澳洲將在 AWS 中為軍事和幽靈用戶建立絕密雲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/australia_aws_top_secret_cloud/</link>
+      <description><![CDATA[與美國基礎設施的互通性是一大賣點 澳洲政府已宣布打算在 Amazon Web Services 的幫助下建立絕密級雲端。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/australia_aws_top_secret_cloud/</guid>
+      <pubDate>Thu, 04 Jul 2024 03:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>自 2013 年以來，中國人工智慧研究人員獲得的專利數量超過其他國家的總和</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/china_dominates_ai_ip_wipo/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[最新資料中心技術成熟度曲線還包括擴增實境、新型記憶體、核武 分析公司Gartner 發布了2024 年資料中心基礎設施技術技術成熟度曲線，並添加了虛擬到實體的遷移–又稱為「去虛擬化」—由於博通的許可變更，其一系列想法即將起飛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</guid>
       <pubDate>Wed, 03 Jul 2024 04:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在中國的專賣店全部關門</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/microsoft_china_stores_close/</link>
-      <description><![CDATA[Surface 銷售下滑被懷疑是轉向線上的原因之一 微軟已關閉其在中國大陸的實體店，將其產品銷售給合作夥伴和在線賣家，包括其自己的網站。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/microsoft_china_stores_close/</guid>
-      <pubDate>Wed, 03 Jul 2024 02:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
