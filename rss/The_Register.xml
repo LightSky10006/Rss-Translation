@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 04 Jul 2024 05:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:15:38 GMT</lastBuildDate>
+    <item>
+      <title>攻擊印尼政府的勒索軟體敗類道歉並交出加密金鑰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/hackers_of_indonesian_government_apologize/</link>
+      <description><![CDATA[無論如何，Brain Cipher 從未獲得其要求的800 萬美元 Brain Cipher 是負責入侵印尼臨時國家資料中心(PDNS) 並擾亂該國服務的組織，該組織似乎已為其行為道歉並向政府發布了加密金鑰。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/hackers_of_indonesian_government_apologize/</guid>
+      <pubDate>Thu, 04 Jul 2024 05:47:38 GMT</pubDate>
+    </item>
     <item>
       <title>澳洲將在 AWS 中為軍事和幽靈用戶建立絕密雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/australia_aws_top_secret_cloud/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 04 Jul 2024 03:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>自 2013 年以來，中國人工智慧研究人員獲得的專利數量超過其他國家的總和</title>
+      <title>自 2013 年以來，中國新一代人工智慧研究人員獲得的專利數量比其他所有人加起來還要多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/china_dominates_ai_ip_wipo/</link>
       <description><![CDATA[您認為美國領先嗎？錯誤－OpenAI 在WIPO 排行榜上排名靠後 世界智慧財產權組織統計了2014 年至2023 年間可以找到的與生成人工智慧相關的專利和科學出版物，發現了54,000 項與GenAI 相關的發明和超過75,000 項科學出版物出版物- 並且中國完全主導了該領域。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/china_dominates_ai_ip_wipo/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Patelco 銀行服務在勒索軟體風波中擅離職守</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</link>
-      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統脫機。]]></description>
+      <description><![CDATA[滯納金？別擔心，信用社可以為您提供保障 總部位於舊金山的 Patelco Credit Union 確認其服務中斷是勒索軟體造成的，並已導致系統離線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/patelco_ransomware_outage/</guid>
       <pubDate>Wed, 03 Jul 2024 15:35:09 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>核心調整提高了 Raspberry Pi 的效能和效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</link>
-      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改進Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
+      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改善Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</guid>
       <pubDate>Wed, 03 Jul 2024 13:41:10 GMT</pubDate>
     </item>
     <item>
       <title>沃達豐、VMO2 重組頻譜以吸引監管機構合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</link>
-      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的一項條款似乎旨在平滑網路沃達豐計劃與 Three 合併的路徑... ]]></description>
+      <description><![CDATA[沃達豐追逐3，但BT 抱怨的borged 實體將擁有「不成比例」的容量 英國電信公司沃達豐和Virgin Media O2 (VMO2) 達成了一項新的網路共享協議，其中的條款似乎旨在平滑沃達豐計劃與 Three 合併的路徑... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/vodafone_vmo2_network_sharing/</guid>
       <pubDate>Wed, 03 Jul 2024 12:37:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[工業和安全局過時的技術導致許可容易出現人為錯誤 工業和安全局 (BIS) – 華盛頓依賴該機構實施出口許可控制，以確保受制裁的技術不會被“無法到達某些國家- 週二透露，由於技術和系統過時，越來越多的中國公司被添加到美國實體名單中，該公司正在努力應對大量增加的工作量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/bis_manual_processes_china_regulation/</guid>
       <pubDate>Wed, 03 Jul 2024 05:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gartner 表示，VMware 授權變更意味著裸機可以透過「去虛擬化」捲土重來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</link>
-      <description><![CDATA[最新資料中心技術成熟度曲線還包括擴增實境、新型記憶體、核武 分析公司Gartner 發布了2024 年資料中心基礎設施技術技術成熟度曲線，並添加了虛擬到實體的遷移–又稱為「去虛擬化」—由於博通的許可變更，其一系列想法即將起飛。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/gartner_datacenter_hype_cycle_2024/</guid>
-      <pubDate>Wed, 03 Jul 2024 04:15:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
