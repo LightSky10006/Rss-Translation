@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 05 Jul 2024 15:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 16:13:52 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 預計將在中國反彈，GPU 銷售將達到 120 億美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/nvidia_china_forecast/</link>
+      <description><![CDATA[由於美國計劃遏制該國的人工智慧希望，該公司在該地區的銷售額有所下降 儘管美國旨在遏制北京人工智慧野心的貿易限制，但預計英偉達今年將透過向中國銷售GPU 獲得120 億美元的收入。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/nvidia_china_forecast/</guid>
+      <pubDate>Fri, 05 Jul 2024 15:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>Paessler 在 PRTG Network Monitor 上取消訂閱許可切換</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論如何，Brain Cipher 從未獲得其要求的800 萬美元 Brain Cipher 是負責入侵印尼臨時國家資料中心(PDNS) 並擾亂該國服務的組織，該組織似乎已為其行為道歉並向政府發布了加密金鑰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/hackers_of_indonesian_government_apologize/</guid>
       <pubDate>Thu, 04 Jul 2024 05:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲將在 AWS 中為軍事和幽靈用戶建立絕密雲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/australia_aws_top_secret_cloud/</link>
-      <description><![CDATA[與美國基礎設施的互通性是一大賣點 澳洲政府已宣布打算在 Amazon Web Services 的幫助下建立絕密級雲端。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/australia_aws_top_secret_cloud/</guid>
-      <pubDate>Thu, 04 Jul 2024 03:58:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
