@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 04 Jul 2024 23:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 01:57:43 GMT</lastBuildDate>
+    <item>
+      <title>我們已經禁止中國電信設備和無人機。下一個： 登山車？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/dji_mountain_bike_motors/</link>
+      <description><![CDATA[DJI 為越野兩輪車製造動力組 擔心中國利用其科技公司進行貿易以外的活動的國家現在有一種新的裝備需要擔心：山地自行車、感謝中國無人機製造商DJI 憑藉電力驅動系統進入該領域。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/dji_mountain_bike_motors/</guid>
+      <pubDate>Fri, 05 Jul 2024 00:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>隨著重組傳奇謝幕臨近，Atos 重組債務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/atos_reaches_final_deal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[品嚐風險自負 Linux Mint 專案已發布版本 22 的測試版，代號為“Wilma”，並採用最新的 Cinnamon 桌面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/linux_mint_22_beta/</guid>
       <pubDate>Wed, 03 Jul 2024 14:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>核心調整提高了 Raspberry Pi 的效能和效率</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</link>
-      <description><![CDATA[從低端到高端，現代計算還有很大的改進空間 兩項獨立的開發工作正在改進Raspberry Pi 電源管理和內存效率，其中一項使用為大規模計算而建構的工具集群...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/kernel_tweaks_rapsberry_pi/</guid>
-      <pubDate>Wed, 03 Jul 2024 13:41:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
