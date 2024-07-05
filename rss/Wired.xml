@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 05 Jul 2024 14:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 15:34:22 GMT</lastBuildDate>
+    <item>
+      <title>Epic Games 猛烈抨擊蘋果應用商店拒絕</title>
+      <link>https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/</link>
+      <description><![CDATA[《要塞英雄》的創作者 Epic Games 表示，蘋果拒絕了其 App Store 競爭對手，因為它與自己的應用程式過於相似，蘋果認為此舉“任意、具有妨礙性”，並且違反了歐盟規則。]]></description>
+      <guid>https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/</guid>
+      <pubDate>Fri, 05 Jul 2024 15:10:04 GMT</pubDate>
+    </item>
     <item>
       <title>如何在月球上跑步</title>
       <link>https://www.wired.com/story/running-on-the-moon-with-the-circle-of-death/</link>
@@ -48,9 +55,9 @@
       <pubDate>Fri, 05 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>等待 10 年，Mt. Gox 比特幣終於回歸</title>
+      <title>等了10年，Mt.Gox比特幣終於回歸</title>
       <link>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</link>
-      <description><![CDATA[破產的加密貨幣交易所 Mt. Gox 的前客戶正準備找回丟失的比特幣——這是一筆 90 億美元的意外之財。]]></description>
+      <description><![CDATA[破產的加密貨幣交易所 Mt. Gox 的前客戶正準備找回遺失的比特幣，這是一筆 90 億美元的意外之財。]]></description>
       <guid>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</guid>
       <pubDate>Fri, 05 Jul 2024 09:53:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[生成式人工智慧正在滲透到手機的核心，但這對隱私意味著什麼？以下是蘋果獨特的人工智慧架構與三星和谷歌採用的「混合」方法的比較。]]></description>
       <guid>https://www.wired.com/story/apple-intelligence-android-hybrid-ai-privacy/</guid>
       <pubDate>Thu, 04 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國一家航太新創公司意外發射了新火箭</title>
-      <link>https://www.wired.com/story/space-pioneer-rocket-launch-accident/</link>
-      <description><![CDATA[太空先鋒公司將這次意外升空歸咎於「結構性故障」。]]></description>
-      <guid>https://www.wired.com/story/space-pioneer-rocket-launch-accident/</guid>
-      <pubDate>Thu, 04 Jul 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
