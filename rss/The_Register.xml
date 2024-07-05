@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 05 Jul 2024 09:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 10:12:09 GMT</lastBuildDate>
+    <item>
+      <title>Oracle 發布實驗性下一代核心構建</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/oracle_ueknext_6_9/</link>
+      <description><![CDATA[UEK-next 是前沿技術- 與大多數CentOS 類似產品不同 Oracle 的Linux 工程師已經發布了適用於Oracle Linux 的核心6.9 版本- 並且他們已經在規劃6.10 及更高版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/oracle_ueknext_6_9/</guid>
+      <pubDate>Fri, 05 Jul 2024 09:33:12 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲刑警組織表示行動漫遊技術使其工作變得過於困難</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/europol_home_routing_complaint/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在開發不含稀土的馬達方面「我們還沒做到」 評價 中國加強對稀土元素(REE) 的控制，現在正是開發稀土元素的最佳時機汽車行業開始考慮電動汽車電機的替代品，但似乎沒有一個提議的解決方案可以實現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/ev_rare_earth_china/</guid>
       <pubDate>Wed, 03 Jul 2024 21:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 首次推出一鍵網路抓取 AI 核武器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/03/cloudflare_ai_blocks/</link>
-      <description><![CDATA[忽略robots.txt！ 。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/03/cloudflare_ai_blocks/</guid>
-      <pubDate>Wed, 03 Jul 2024 19:44:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
