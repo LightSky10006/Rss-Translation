@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 05 Jul 2024 19:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 20:13:08 GMT</lastBuildDate>
+    <item>
+      <title>FCC：T-Mobile 美國部門在大規模技術支援失敗中為盲人客戶提供了協助</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</link>
+      <description><![CDATA[Assurance Wireless 在向客戶提供沒有螢幕閱讀器的手機後必須解決無障礙問題 2021 年1 月，盲人消費者Kenneth Geaniton 訂閱了T-Mobile 美國分公司Assurance Wireless 提供的Lifeline 服務，發現他的功能手機死機後無法存取該服務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</guid>
+      <pubDate>Fri, 05 Jul 2024 20:02:10 GMT</pubDate>
+    </item>
     <item>
       <title>德州法院阻止了聯邦貿易委員會的競業禁止禁令，你可以怪罪 SCOTUS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ftc_noncompete_ban_blocked/</link>
-      <description><![CDATA[速度很快：最高法院對雪佛龍公司的尊重已經產生了紅利 隨著聯邦貿易委員會的禁令，最高法院削弱了聯邦機構的規則制定權，監管多米諾骨牌已經開始倒塌關於非競爭協議，第一個以 SCOTUS 的決定為理由而被擱置。]]></description>
+      <description><![CDATA[速度很快：最高法院對雪佛龍公司的尊重已經產生了紅利 在美國最高法院剝奪聯邦機構規則制定權之後，監管多米諾骨牌已經開始倒下，聯邦貿易委員會的禁止競爭協議是第一個以 SCOTUS 決定為理由而被擱置的協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ftc_noncompete_ban_blocked/</guid>
       <pubDate>Fri, 05 Jul 2024 18:37:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[工會建議成員關閉政府引入的允許第三方更新記錄的功能 英國醫生工會建議經營全科醫生診所的成員關閉其 IT 系統中的某些功能，以防止外部組織增加他們的工作量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/gp_connect_row/</guid>
       <pubDate>Thu, 04 Jul 2024 09:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲刑警組織在 Cobalt Strike 鎮壓行動中用核武攻擊了近 600 個 IP 位址</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/europol_cobalt_strike_crackdown/</link>
-      <description><![CDATA[私部門透過為期一周的行動提供了幫助，但沒有觸及中國 歐洲刑警組織剛剛宣布，在6 月底進行的為期一周的行動中刪除了近600 個支持非法複製的IP 位址鈷打擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/europol_cobalt_strike_crackdown/</guid>
-      <pubDate>Thu, 04 Jul 2024 08:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
