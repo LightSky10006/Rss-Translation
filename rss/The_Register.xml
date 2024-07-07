@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 06 Jul 2024 22:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 16:12:24 GMT</lastBuildDate>
+    <item>
+      <title>AI 工作容器化的友善指南</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</link>
+      <description><![CDATA[省去麻煩，交付依賴項 動手實踐 與AI 工作負載相關的最令人頭痛的問題之一是處理它們所依賴的所有驅動程式、運行時、庫和其他依賴項需要運行。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:37:14 GMT</pubDate>
+    </item>
     <item>
       <title>演算法工資歧視：不僅僅針對零工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</link>
-      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」…]]></description>
+      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</guid>
       <pubDate>Sat, 06 Jul 2024 16:38:05 GMT</pubDate>
     </item>
     <item>
       <title>Epic 指控蘋果在 iOS 存取權方面犯規，希望歐盟向 DMA 出示紅牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/06/epic_games_apple_dma/</link>
-      <description><![CDATA[按鈕風波過後，執行長怒斥庫比蒂諾「必須停止」 《要塞英雄》製造商聲稱，蘋果已兩次不公平地阻止Epic Games 在歐盟開放其iOS應用門戶，因此違反了非洲大陸的數位市場法案 (DMA)。]]></description>
+      <description><![CDATA[按鈕風波過後，執行長怒斥庫比蒂諾「必須停止」 《堡壘之夜》製造商聲稱，蘋果公司兩次不公平地阻止Epic Games 在歐盟開放其iOS應用門戶，因此違反了非洲大陸的數位市場法案 (DMA)。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/06/epic_games_apple_dma/</guid>
       <pubDate>Sat, 06 Jul 2024 08:46:10 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>Nvidia 預計將在中國反彈，GPU 銷售將達到 120 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/nvidia_china_forecast/</link>
-      <description><![CDATA[由於美國計劃遏制該國的人工智慧希望，該公司在該地區的銷售額有所下降 儘管美國旨在遏制北京人工智慧野心的貿易限制，但預計英偉達今年將透過向中國銷售GPU 獲得120 億美元的收入。]]></description>
+      <description><![CDATA[由於美國計劃遏制該國的人工智慧希望，該公司在該地區的銷售額有所下降 儘管美國旨在遏制北京人工智慧野心的貿易限制，但預計英偉達今年將透過向中國銷售GPU 賺取120 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/nvidia_china_forecast/</guid>
       <pubDate>Fri, 05 Jul 2024 15:36:06 GMT</pubDate>
     </item>
     <item>
       <title>Paessler 在 PRTG Network Monitor 上取消訂閱許可切換</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</link>
-      <description><![CDATA[客戶在聲稱永久費用增加後尋求替代方案 獨家 Paessler 證實，擔心VMware 轉向基於訂閱的許可會導致其他供應商效仿，這一擔心可能會成為現實監管機構為其網路監控工具PRTG 引入了新的訂閱定價。... ]]></description>
+      <description><![CDATA[客戶在聲稱永久費用增加後尋求替代方案 獨家 Paessler 證實，擔心VMware 轉向基於訂閱的許可會導致其他供應商效仿，這一擔心可能會成為現實監管機構為其網路監控工具PRTG 引入了新的訂閱定價。 -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</guid>
       <pubDate>Fri, 05 Jul 2024 14:10:07 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 05 Jul 2024 12:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>工黨贏得了英國領先地位，但很少有人會羨慕其科技托盤中的負載</title>
+      <title>工黨贏得了領導英國的競爭，但很少有人會羨慕其科技托盤中的負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/labour_tech_challenges/</link>
       <description><![CDATA[在承諾投資和創新後，獲勝者將面臨火車失事 分析 英國今天早上醒來，看到了新政府的前景，但它面臨著老問題在技​​術項目、政策和投資方面…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/labour_tech_challenges/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>歐洲刑警組織表示行動漫遊技術使其工作變得過於困難</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/europol_home_routing_complaint/</link>
-      <description><![CDATA[隱私措施顯然有助於犯罪分子逃避抓捕 歐洲警察高層正在尋求立法者的幫助，以破壞他們所說的阻礙刑事調查的隱私增強技術(PET)，而且該技術不是端對端的這次加密。不完全是…]]></description>
+      <description><![CDATA[隱私措施顯然有助於犯罪分子逃避抓捕 歐洲頂級警察正在尋求立法者的幫助，以破壞他們所說的阻礙刑事調查的隱私增強技術(PET)，而且該技術不是端對端的這次加密。不完全是…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/europol_home_routing_complaint/</guid>
       <pubDate>Fri, 05 Jul 2024 08:26:09 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>好消息：三星預計獲利將大幅成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/samsung_q2_2024_guidance/</link>
-      <description><![CDATA[壞消息：這可能是因為你必須為RAM 支付更多費用 三星電子已告知投資者，截至6 月30 日的季度，公司將實現豐厚利潤並實現收入大幅增長。]]></description>
+      <description><![CDATA[壞消息：這可能是因為你必須為RAM 支付更多費用 三星電子已告知投資者，截至6 月30 日的季度將實現豐厚利潤並實現收入大幅增長。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/samsung_q2_2024_guidance/</guid>
       <pubDate>Fri, 05 Jul 2024 04:37:42 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[承諾提供人工智慧功能，但藍色巨人不會透露更多關於其備受推崇的關係資料庫的後續步驟 意見 上週，我犯了罪。不，我沒有欺騙 IRS/HMRC 或偷一些 Snyder&#39;s Pretzels/Cheesy Wotsits。情況更糟。一位敏銳的讀者指出，我錯誤地計算了 IBM 關係資料庫 Db2 的版本數量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/db2_a_story_worth_telling/</guid>
       <pubDate>Thu, 04 Jul 2024 14:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AST SpaceMobile 承諾為月球提供無縫衛星電話服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/04/ast_spacemobile_plans/</link>
-      <description><![CDATA[然而，它的所有鳥類仍然堅定地留在地球上 AST SpaceMobile 重申了其計劃，以實現覆蓋整個美國大陸的衛星電話服務，該服務將與現有設備無縫協作，這要歸功於與AT&amp;amp; 的頻譜共享協議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/04/ast_spacemobile_plans/</guid>
-      <pubDate>Thu, 04 Jul 2024 12:46:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
