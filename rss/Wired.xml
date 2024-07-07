@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 07 Jul 2024 11:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 12:18:12 GMT</lastBuildDate>
+    <item>
+      <title>大腦如何決定要記住什麼</title>
+      <link>https://www.wired.com/story/brain-tag-electrical-memories/</link>
+      <description><![CDATA[休息時大腦中的電波會標記記憶以進行存儲，並增加關於休息重要性的建議的可信度。]]></description>
+      <guid>https://www.wired.com/story/brain-tag-electrical-memories/</guid>
+      <pubDate>Sun, 07 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>洩漏生成人工智慧文字的詞語</title>
       <link>https://www.wired.com/story/generative-ai-common-words-study/</link>
@@ -55,17 +62,17 @@
       <pubDate>Sat, 06 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>目前 Netflix 上最好的 51 部節目（2024 年 7 月）</title>
-      <link>https://www.wired.com/story/netflix-best-shows-this-week/</link>
-      <description><![CDATA[《布里奇頓》、《好地方》和《Supacell》只是本月您需要在 Netflix 上觀看的幾部劇集。]]></description>
-      <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
-      <pubDate>Sat, 06 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>最高法院正在廢除對清潔水和安全空氣的保護</title>
       <link>https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/</link>
       <description><![CDATA[美國最高法院的四項關鍵裁決將妨礙美國環保署和其他機構制定和執行氣候政策的能力。]]></description>
       <guid>https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/</guid>
+      <pubDate>Sat, 06 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 Netflix 上最好的 51 部節目（2024 年 7 月）</title>
+      <link>https://www.wired.com/story/netflix-best-shows-this-week/</link>
+      <description><![CDATA[《布里奇頓》、《好地方》和《Supacell》只是本月您需要在 Netflix 上觀看的幾部劇集。]]></description>
+      <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
       <pubDate>Sat, 06 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[當非南美洲本土的蝴蝶出現在法屬圭亞那的海灘上時，昆蟲學家開始調查以證明它們來自哪裡以及它們如何到達那裡。]]></description>
       <guid>https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/</guid>
       <pubDate>Fri, 05 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等了10年，Mt.Gox比特幣終於回歸</title>
-      <link>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</link>
-      <description><![CDATA[破產的加密貨幣交易所 Mt. Gox 的前客戶正準備找回遺失的比特幣，這是一筆 90 億美元的意外之財。]]></description>
-      <guid>https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/</guid>
-      <pubDate>Fri, 05 Jul 2024 09:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
