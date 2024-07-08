@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 15:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 16:14:19 GMT</lastBuildDate>
+    <item>
+      <title>歐盟競爭專員暗示英偉達 GPU 調查，指“巨大瓶頸”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_competition_commissioner_hints_at/</link>
+      <description><![CDATA[CUDA，本來應該成為人工智慧投擲者的首選，但它尊重自己的主導地位嗎？部門尚未就是否需要對此採取監管行動做出任何決定。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_competition_commissioner_hints_at/</guid>
+      <pubDate>Mon, 08 Jul 2024 15:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>網路檔案館將夜間停電歸咎於“環境因素”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</link>
-      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出微笑。]]></description>
+      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出笑容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</guid>
       <pubDate>Mon, 08 Jul 2024 15:02:11 GMT</pubDate>
     </item>
@@ -48,23 +55,23 @@
       <pubDate>Mon, 08 Jul 2024 11:24:01 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>執行長表示，第三次是雲端 SingleStore 的魅力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Apache Iceberg 支持使其成為資料湖上的事務層的一個不錯的選擇，他告訴The Register SingleStore，這個承諾在單一系統上進行分析和事務的資料庫，經過了三次嘗試才獲得其執行長 Raj Verma 向 The Register  承認，科技在雲端工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</guid>
       <pubDate>Mon, 08 Jul 2024 10:36:07 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>對商品晶片氾濫的擔憂引發歐盟對中國晶片野心的調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[他們正在瘋狂地生產，就像沒有明天一樣 據說，歐盟委員會正在試探該地區的晶片製造商，了解中國擴大商品矽的生產，這引發了人們的擔憂，擔心它可能會氾濫成災。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</guid>
       <pubDate>Mon, 08 Jul 2024 09:34:11 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>打破規則是大型科技公司的血液——現在是打破習慣的時候了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/opinion_column_ai_ip/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[微軟：你所有的資料都屬於我們？世界：那是上個世紀的事了 觀點 微軟的智慧財產權之旅是一場持續多年的傳奇，這使得《權力的遊戲》看起來像一首俳句。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/opinion_column_ai_ip/</guid>
       <pubDate>Mon, 08 Jul 2024 08:36:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>在眾包商的幫助下，Copilot+ PC 軟體相容性問​​題留給您解決</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</link>
-      <description><![CDATA[三星警告用戶，但PC 行業的巨頭幾乎沒有提及出現問題的可能性 買家擔心基於高通Snapdragon X SoC 的Copilot+ PC 可能無法運行對他們來說重要的軟體，而這些軟體正被定向到兩個社區運營的網站眾包不相容代碼列表。]]></description>
+      <description><![CDATA[三星警告用戶，但PC 行業的巨頭幾乎沒有提到出現問題的可能性 買家擔心基於高通Snapdragon X SoC 的Copilot+ PC 可能無法運行對他們來說重要的軟體，而這些軟體正被引導到兩個社區運營的網站眾包不相容代碼清單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</guid>
       <pubDate>Mon, 08 Jul 2024 06:30:14 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>中國計劃在 2025 年將國家運算能力提高 30%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</link>
-      <description><![CDATA[從 230 Exaflops 到 300 Exaflops，特斯拉是能源儲存和汽車計劃的一部分 中國展示了其國家計算能力的處理能力，並指出了計劃僅今年就增長了30% 。]]></description>
+      <description><![CDATA[從 230 Exaflops 到 300 Exaflops，特斯拉是能源儲存和汽車計劃的一部分 中國已經展示了其國家運算能力的處理能力，並指出了計劃僅今年就增長了30 %。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</guid>
       <pubDate>Mon, 08 Jul 2024 02:58:07 GMT</pubDate>
     </item>
@@ -106,21 +113,21 @@
     <item>
       <title>崩盤十年後，加密貨幣交易所 Mt Gox 償還了一些投資者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/asia_tech_news_roundup/</link>
-      <description><![CDATA[加：三星罷工；印度可能提高晶片補貼；亞洲國家連結支付方案 亞洲簡介 Mt Gox，日本加密貨幣交易所，曾在 2010 年代初期短暫統治交易，隨後因近 5 億人的消失而崩潰價值數美元的digicash 可能是由於其自己的劣質軟體而表示，它將開始以比特幣的形式回報一些投資者 ...]]></description>
+      <description><![CDATA[加：三星罷工；印度可能提高晶片補貼；亞洲國家連結支付方案 亞洲簡介 Mt Gox，日本加密貨幣交易所，曾在 2010 年代初期短暫統治交易，隨後因近 5 億人的消失而崩潰價值數美元的digicash 可能是由於其自己的劣質軟體而表示，它將開始以比特幣的形式回報一些投資者…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 08 Jul 2024 00:44:52 GMT</pubDate>
     </item>
     <item>
       <title>AI 工作容器化的友善指南</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</link>
-      <description><![CDATA[省去麻煩，交付您的依賴項 動手實踐 與AI 工作負載相關的最令人頭痛的問題之一是處理它們所依賴的所有驅動程式、運行時、庫和其他依賴項需要運行。]]></description>
+      <description><![CDATA[省去麻煩，交付依賴項 動手實踐 與AI 工作負載相關的最令人頭痛的問題之一是處理它們所依賴的所有驅動程式、運行時、庫和其他依賴項需要運行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</guid>
       <pubDate>Sun, 07 Jul 2024 15:37:14 GMT</pubDate>
     </item>
     <item>
       <title>演算法工資歧視：不僅僅針對零工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</link>
-      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」…]]></description>
+      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</guid>
       <pubDate>Sat, 06 Jul 2024 16:38:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mozilla 透過其擴充功能展示了勇氣- 但這就是庫克的方式，他崩潰了 更新了  至少有兩個VPN 不再可供俄羅斯iPhone用戶使用，似乎是在克里姆林宮的互聯網監管機構Roskomnadzor 要求蘋果將其刪除。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/kremlin_internet_censor_vpn/</guid>
       <pubDate>Fri, 05 Jul 2024 21:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC：T-Mobile 美國部門在大規模技術支援失敗中為盲人客戶提供了協助</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</link>
-      <description><![CDATA[Assurance Wireless 在向客戶提供沒有螢幕閱讀器的手機後必須解決無障礙問題 2021 年1 月，盲人消費者Kenneth Geaniton 訂閱了T-Mobile 美國分公司Assurance Wireless 提供的Lifeline 服務，發現他的功能手機死機後無法存取該服務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</guid>
-      <pubDate>Fri, 05 Jul 2024 20:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
