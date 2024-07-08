@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 14:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 14:36:45 GMT</lastBuildDate>
+    <item>
+      <title>微軟忘了 SwiftKey 的支援網站</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/microsoft_swiftkeys_cert_expires/</link>
+      <description><![CDATA[注入 Copilot 品牌不會使 TLS 憑證自動續訂 另一個 Microsoft 憑證已過期，導致尋求支援的 SwiftKey 使用者面臨令人震驚的憑證錯誤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/microsoft_swiftkeys_cert_expires/</guid>
+      <pubDate>Mon, 08 Jul 2024 14:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>ASML前老闆稱中美晶片戰“主要是意識形態”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/us_china_chip_wars_ideological/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>在犯罪行為消失之前，Avast 秘密向受害者提供 DoNex 勒索軟體解密器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</link>
-      <description><![CDATA[終於擺脫了另一個討厭的惡棍部落 Avast 今天證實，自3 月份發現犯罪分子密碼學缺陷後，該公司的研究人員已秘密向DoNex 勒索軟體受害者提供解密程序。]]></description>
+      <description><![CDATA[終於擺脫了另一個討厭的惡棍部落 Avast 今天證實，自3 月份發現犯罪分子的密碼學缺陷後，該公司的研究人員已秘密向DoNex 勒索軟體受害者提供解密程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</guid>
       <pubDate>Mon, 08 Jul 2024 12:44:09 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>在眾包商的幫助下，Copilot+ PC 軟體相容性問​​題留給您解決</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</link>
-      <description><![CDATA[三星警告用戶，但PC 行業的巨頭幾乎沒有提到出現問題的可能性 買家擔心基於高通Snapdragon X SoC 的Copilot+ PC 可能無法運行對他們來說重要的軟體，而這些軟體正被引導到兩個社區運營的網站眾包不相容代碼清單。]]></description>
+      <description><![CDATA[三星警告用戶，但PC 行業的巨頭幾乎沒有提及出現問題的可能性 買家擔心基於高通Snapdragon X SoC 的Copilot+ PC 可能無法運行對他們來說重要的軟體，而這些軟體正被定向到兩個社區運營的網站眾包不相容代碼列表。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</guid>
       <pubDate>Mon, 08 Jul 2024 06:30:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>中國計劃在 2025 年將國家運算能力提高 30%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</link>
-      <description><![CDATA[從 230 Exaflops 到 300 Exaflops，特斯拉是能源儲存和汽車計劃的一部分 中國已經展示了其國家運算能力的處理能力，並指出了計劃僅今年就增長了30 %。]]></description>
+      <description><![CDATA[從 230 Exaflops 到 300 Exaflops，特斯拉是能源儲存和汽車計劃的一部分 中國展示了其國家計算能力的處理能力，並指出了計劃僅今年就增長了30% 。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</guid>
       <pubDate>Mon, 08 Jul 2024 02:58:07 GMT</pubDate>
     </item>
@@ -92,21 +99,21 @@
     <item>
       <title>崩盤十年後，加密貨幣交易所 Mt Gox 償還了一些投資者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/asia_tech_news_roundup/</link>
-      <description><![CDATA[加：三星罷工；印度可能提高晶片補貼；亞洲國家連結支付方案 亞洲簡介 Mt Gox，日本加密貨幣交易所，曾在 2010 年代初期短暫統治交易，隨後因近 5 億人的消失而崩潰價值數美元的digicash 可能是由於其自己的劣質軟體而表示，它將開始以比特幣的形式回報一些投資者…]]></description>
+      <description><![CDATA[加：三星罷工；印度可能提高晶片補貼；亞洲國家連結支付方案 亞洲簡介 Mt Gox，日本加密貨幣交易所，曾在 2010 年代初期短暫統治交易，隨後因近 5 億人的消失而崩潰價值數美元的digicash 可能是由於其自己的劣質軟體而表示，它將開始以比特幣的形式回報一些投資者 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 08 Jul 2024 00:44:52 GMT</pubDate>
     </item>
     <item>
       <title>AI 工作容器化的友善指南</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</link>
-      <description><![CDATA[省去麻煩，交付依賴項 動手實踐 與AI 工作負載相關的最令人頭痛的問題之一是處理它們所依賴的所有驅動程式、運行時、庫和其他依賴項需要運行。]]></description>
+      <description><![CDATA[省去麻煩，交付您的依賴項 動手實踐 與AI 工作負載相關的最令人頭痛的問題之一是處理它們所依賴的所有驅動程式、運行時、庫和其他依賴項需要運行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/07/containerize_ai_apps/</guid>
       <pubDate>Sun, 07 Jul 2024 15:37:14 GMT</pubDate>
     </item>
     <item>
       <title>演算法工資歧視：不僅僅針對零工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</link>
-      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」...]]></description>
+      <description><![CDATA[盒子裡有什麼！不嚴重的是，其中決定我們薪資的因素 訪談 正如加州大學歐文分校法學教授Veena Dubal 去年在一篇學術論文中所描述的，演算法薪資歧視涉及「使用精細的數據產生不可預測的、可變的和個性化的小時工資。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/06/algorithmic_wage_discrimination/</guid>
       <pubDate>Sat, 06 Jul 2024 16:38:05 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 05 Jul 2024 21:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>FCC：T-Mobile 美國子公司在大規模技術支援失敗中為盲人客戶提供了協助</title>
+      <title>FCC：T-Mobile 美國部門在大規模技術支援失敗中為盲人客戶提供了協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</link>
       <description><![CDATA[Assurance Wireless 在向客戶提供沒有螢幕閱讀器的手機後必須解決無障礙問題 2021 年1 月，盲人消費者Kenneth Geaniton 訂閱了T-Mobile 美國分公司Assurance Wireless 提供的Lifeline 服務，發現他的功能手機死機後無法存取該服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[速度很快：最高法院對雪佛龍公司的尊重已經產生了紅利 在美國最高法院剝奪聯邦機構規則制定權之後，監管多米諾骨牌已經開始倒下，聯邦貿易委員會的禁止競爭協議是第一個以 SCOTUS 決定為理由而被擱置的協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ftc_noncompete_ban_blocked/</guid>
       <pubDate>Fri, 05 Jul 2024 18:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>麒麟襲擊倫敦醫院後，癌症患者被迫做出可怕的決定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/qilin_impacts_patient/</link>
-      <description><![CDATA[由於供應商的勒索軟體，保留皮膚的乳房切除術和乳房重建術被取消 獨家 最新數據顯示，倫敦一些最大的醫院已取消約1,500例醫療程序自 Qilin 勒索軟體攻擊病理服務提供者 Synnovis 以來的四個星期內。但也許沒有人像 Johanna Groothuizen 那樣受到如此嚴重的影響。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/qilin_impacts_patient/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
