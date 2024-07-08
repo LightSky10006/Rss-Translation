@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 10:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 11:10:31 GMT</lastBuildDate>
+    <item>
+      <title>執行長表示，第三次是雲端 SingleStore 的魅力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</link>
+      <description><![CDATA[Apache Iceberg 支持使其成為資料湖上的事務層的一個不錯的選擇，他告訴The Register SingleStore，這個承諾在單一系統上進行分析和事務的資料庫，經過了三次嘗試才獲得其執行長 Raj Verma 向 The Register  承認，科技在雲端工作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</guid>
+      <pubDate>Mon, 08 Jul 2024 10:36:07 GMT</pubDate>
+    </item>
     <item>
       <title>對商品晶片氾濫的擔憂引發歐盟對中國晶片野心的調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在承諾投資和創新後，獲勝者將面臨火車失事 分析 英國今天早上醒來，看到了新政府的前景，但它面臨著老問題在技​​術項目、政策和投資方面…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/labour_tech_challenges/</guid>
       <pubDate>Fri, 05 Jul 2024 11:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle 發布實驗性下一代核心構建</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/oracle_ueknext_6_9/</link>
-      <description><![CDATA[UEK-next 是前沿技術- 與大多數CentOS 類似產品不同 Oracle 的Linux 工程師已經發布了適用於Oracle Linux 的核心6.9 版本- 並且他們已經在規劃6.10 及更高版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/oracle_ueknext_6_9/</guid>
-      <pubDate>Fri, 05 Jul 2024 09:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
