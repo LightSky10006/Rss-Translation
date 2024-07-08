@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 03:36:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 05:36:09 GMT</lastBuildDate>
+    <item>
+      <title>基於自拍的身份驗證引起了資訊安全專家的關注</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/selfie_authentication_security/</link>
+      <description><![CDATA[越南現在需要使用它來進行某些購買。在新加坡這可能有詐欺風險。或者機器學習可以使其安全 自從大流行迫使更多企業走向數位化以來，使用自拍照在線驗證身份是世界某些地區的一種新興趨勢。一些銀行——甚至政府——已經開始要求透過 Zoom 或類似方式獲取即時影像，以便參與現代經濟。但必須問一個問題：它是網路智能嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/selfie_authentication_security/</guid>
+      <pubDate>Mon, 08 Jul 2024 05:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>中國計劃在 2025 年將國家運算能力提高 30%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 05 Jul 2024 21:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>FCC：T-Mobile 美國子公司在大規模技術支援失敗中為盲人客戶提供了協助</title>
+      <title>FCC：T-Mobile 美國部門在大規模技術支援失敗中為盲人客戶提供了協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</link>
       <description><![CDATA[Assurance Wireless 在向客戶提供沒有螢幕閱讀器的手機後必須解決無障礙問題 2021 年1 月，盲人消費者Kenneth Geaniton 訂閱了T-Mobile 美國分公司Assurance Wireless 提供的Lifeline 服務，發現他的功能手機死機後無法存取該服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[壞消息：這可能是因為你必須為RAM 支付更多費用 三星電子已告知投資者，截至6 月30 日的季度，公司將實現豐厚利潤並實現收入大幅增長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/samsung_q2_2024_guidance/</guid>
       <pubDate>Fri, 05 Jul 2024 04:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kindle突然故障：亞馬遜電子閱讀器一天或更長時間無法下載內容</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/amazon_kindle_outage/</link>
-      <description><![CDATA[支援熱線報告有關該問題的「大量聯絡人」 亞馬遜Kindle 電子閱讀器設備的所有者想要尋找新的閱讀內容可能必須拿起一本真正的書- 老式的書善良，由死樹製成 - 本周大約一天，因為他們的設備無法下載內容。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/amazon_kindle_outage/</guid>
-      <pubDate>Fri, 05 Jul 2024 02:35:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
