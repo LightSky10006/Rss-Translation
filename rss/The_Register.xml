@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 12:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 12:51:11 GMT</lastBuildDate>
+    <item>
+      <title>在犯罪行為消失之前，Avast 秘密向受害者提供 DoNex 勒索軟體解密器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</link>
+      <description><![CDATA[終於擺脫了另一個討厭的惡棍部落 Avast 今天證實，自3 月份發現犯罪分子的密碼學缺陷後，該公司的研究人員已秘密向DoNex 勒索軟體受害者提供解密程式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</guid>
+      <pubDate>Mon, 08 Jul 2024 12:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>由於 ERP 的影響，英國議會再次向 Oracle 提供 1000 萬英鎊的專業服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/oracle_professional_services_birmingham/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[由於美國計劃遏制該國的人工智慧希望，該公司在該地區的銷售額有所下降 儘管美國旨在遏制北京人工智慧野心的貿易限制，但預計英偉達今年將透過向中國銷售GPU 賺取120 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/nvidia_china_forecast/</guid>
       <pubDate>Fri, 05 Jul 2024 15:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paessler 在 PRTG Network Monitor 上取消訂閱許可切換</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</link>
-      <description><![CDATA[客戶在聲稱永久費用增加後尋求替代方案 獨家 Paessler 證實，擔心VMware 轉向基於訂閱的許可會導致其他供應商效仿，這一擔心可能會成為現實監管機構為其網路監控工具PRTG 引入了新的訂閱定價。... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</guid>
-      <pubDate>Fri, 05 Jul 2024 14:10:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
