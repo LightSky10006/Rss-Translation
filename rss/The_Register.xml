@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 11:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 12:21:05 GMT</lastBuildDate>
+    <item>
+      <title>由於 ERP 的影響，英國議會再次向 Oracle 提供 1000 萬英鎊的專業服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/oracle_professional_services_birmingham/</link>
+      <description><![CDATA[伯明罕努力讓目前版本的Fusion 適合其用途 陷入困境的伯明罕市議會去年被宣布實際上破產，部分原因是災難性的Oracle 實施，但它已向這家科技巨頭授予1000 萬英鎊（1280 萬美元）用於額外的專業服務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/oracle_professional_services_birmingham/</guid>
+      <pubDate>Mon, 08 Jul 2024 12:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司就 737 Max 墜機事件提出詐欺認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/boeing_guilty_fraud_charge/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[客戶在聲稱永久費用增加後尋求替代方案 獨家 Paessler 證實，擔心VMware 轉向基於訂閱的許可會導致其他供應商效仿，這一擔心可能會成為現實監管機構為其網路監控工具PRTG 引入了新的訂閱定價。... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/paessler_brings_in_subscription_licensing/</guid>
       <pubDate>Fri, 05 Jul 2024 14:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新的 Ghostscript 漏洞困擾著專家，認為它是下一個重大漏洞推動者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/</link>
-      <description><![CDATA[也有人討論中等嚴重程度的恐慌是否真的是紅色代碼噩夢 資訊安全圈裡充斥著有關Ghostscript 漏洞的討論，一些專家認為這可能是未來幾個月發生幾起重大洩漏事件的原因。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/</guid>
-      <pubDate>Fri, 05 Jul 2024 12:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
