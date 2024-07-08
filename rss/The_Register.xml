@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 08 Jul 2024 14:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 15:13:03 GMT</lastBuildDate>
+    <item>
+      <title>網路檔案館將夜間停電歸咎於“環境因素”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</link>
+      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出微笑。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</guid>
+      <pubDate>Mon, 08 Jul 2024 15:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>微軟忘了 SwiftKey 的支援網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/microsoft_swiftkeys_cert_expires/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>在犯罪行為消失之前，Avast 秘密向受害者提供 DoNex 勒索軟體解密器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</link>
-      <description><![CDATA[終於擺脫了另一個討厭的惡棍部落 Avast 今天證實，自3 月份發現犯罪分子的密碼學缺陷後，該公司的研究人員已秘密向DoNex 勒索軟體受害者提供解密程式。]]></description>
+      <description><![CDATA[祝又一個討厭的惡棍部落擺脫了 更新  自3 月份發現犯罪行為中的缺陷後，Avast 的研究人員已秘密向DoNex 勒索軟體受害者提供解密程序&#39; 密碼學，該公司今天證實。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/avast_secretly_gave_donex_ransomware/</guid>
       <pubDate>Mon, 08 Jul 2024 12:44:09 GMT</pubDate>
     </item>
@@ -41,23 +48,23 @@
       <pubDate>Mon, 08 Jul 2024 11:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>執行長表示，第三次是雲端 SingleStore 的魅力</title>
+      <title></title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</link>
-      <description><![CDATA[Apache Iceberg 支持使其成為資料湖上的事務層的一個不錯的選擇，他告訴The Register SingleStore，這個承諾在單一系統上進行分析和事務的資料庫，經過了三次嘗試才獲得其執行長 Raj Verma 向 The Register  承認，科技在雲端工作。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</guid>
       <pubDate>Mon, 08 Jul 2024 10:36:07 GMT</pubDate>
     </item>
     <item>
-      <title>對商品晶片氾濫的擔憂引發歐盟對中國晶片野心的調查</title>
+      <title></title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</link>
-      <description><![CDATA[他們正在瘋狂地生產，就像沒有明天一樣 據說，歐盟委員會正在試探該地區的晶片製造商，了解中國擴大商品矽的生產，這引發了人們的擔憂，擔心它可能會氾濫成災。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</guid>
       <pubDate>Mon, 08 Jul 2024 09:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>打破規則是大型科技公司的血液——現在是打破習慣的時候了</title>
+      <title></title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/opinion_column_ai_ip/</link>
-      <description><![CDATA[微軟：你所有的資料都屬於我們？世界：那是上個世紀的事了 觀點 微軟的智慧財產權之旅是一場持續多年的傳奇，這使得《權力的遊戲》看起來像一首俳句。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/opinion_column_ai_ip/</guid>
       <pubDate>Mon, 08 Jul 2024 08:36:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Assurance Wireless 在向客戶提供沒有螢幕閱讀器的手機後必須解決無障礙問題 2021 年1 月，盲人消費者Kenneth Geaniton 訂閱了T-Mobile 美國分公司Assurance Wireless 提供的Lifeline 服務，發現他的功能手機死機後無法存取該服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/tmobile_unit_gave_blind_customer/</guid>
       <pubDate>Fri, 05 Jul 2024 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>德州法院阻止了聯邦貿易委員會的競業禁止禁令，你可以怪罪 SCOTUS</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ftc_noncompete_ban_blocked/</link>
-      <description><![CDATA[速度很快：最高法院對雪佛龍公司的尊重已經產生了紅利 在美國最高法院剝奪聯邦機構規則制定權之後，監管多米諾骨牌已經開始倒下，聯邦貿易委員會的禁止競爭協議是第一個以 SCOTUS 決定為理由而被擱置的協議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/05/ftc_noncompete_ban_blocked/</guid>
-      <pubDate>Fri, 05 Jul 2024 18:37:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
