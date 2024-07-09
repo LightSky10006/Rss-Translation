@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 09:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 10:12:15 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi OS 為夏季推出了一些新鮮選擇</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</link>
+      <description><![CDATA[當你可以在黑暗的房間裡玩微型電腦時，為什麼要在陽光下出去？發布了新版本，儘管它仍然羞於給出版本號。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</guid>
+      <pubDate>Tue, 09 Jul 2024 09:34:09 GMT</pubDate>
+    </item>
     <item>
       <title>英國部長回顧了兩項阻礙資料中心投資的規劃決定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/uk_datacenter_new_govt_planning/</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
+      <title>中國摩爾線程增加對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 08 Jul 2024 12:02:11 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司就 737 Max 墜機事件承認詐欺罪</title>
+      <title>波音公司就 737 Max 墜機事件提出詐欺認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/boeing_guilty_fraud_charge/</link>
       <description><![CDATA[受害者家屬律師提出異議 根據美國司法部 (DoJ) 週日晚間提交的法庭文件，波音公司已同意承認與致命 737 Max 墜機事件相關的刑事欺詐指控.. .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/boeing_guilty_fraud_charge/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Apache Iceberg 支持使其成為資料湖上的事務層的一個不錯的選擇，他告訴The Register SingleStore，這個承諾在單一系統上進行分析和事務的資料庫，經過了三次嘗試才獲得其執行長 Raj Verma 向 The Register  承認，科技在雲端工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</guid>
       <pubDate>Mon, 08 Jul 2024 10:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>對商品晶片氾濫的擔憂引發歐盟對中國晶片野心的調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</link>
-      <description><![CDATA[他們正在瘋狂地生產，就像沒有明天一樣 據說，歐盟委員會正在試探該地區的晶片製造商，了解中國擴大商品矽的生產，這引發了人們對可能出現洪水氾濫的擔憂。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_china_commodity_chips/</guid>
-      <pubDate>Mon, 08 Jul 2024 09:34:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
