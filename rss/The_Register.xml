@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 01:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 02:36:08 GMT</lastBuildDate>
     <item>
-      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
+      <title>中國的 APT40 團夥已準備好在公開發布後數小時或數天內攻擊漏洞。</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/apt_40_tradecraft_advisory/</link>
+      <description><![CDATA[鬆懈的補丁和脆弱的小型商業工具包讓北京的秘密竊取者的日子變得輕鬆 以澳大利亞為首的八個國家的執法機構已發布一份公告，詳細介紹了與中國結盟的威脅所使用的間諜手段攻擊者APT40（又名Kryptonite Panda、GINGHAM TYPHOON、Leviathan 和Bronze Mohawk）發現它會優先開發針對新發現漏洞的漏洞利用，並可以在數小時內鎖定目標。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/apt_40_tradecraft_advisory/</guid>
+      <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國摩爾線程增加對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[從 230 Exaflops 到 300 Exaflops，特斯拉是能源儲存和汽車計劃的一部分 中國展示了其國家計算能力的處理能力，並指出了計劃僅今年就增長了30% 。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/china_compute_capacity_boost/</guid>
       <pubDate>Mon, 08 Jul 2024 02:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>據稱，不那麼 OpenAI 從未費心報告 2023 年資料外洩事件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/infosec_in_brief/</link>
-      <description><![CDATA[此外：F1 權限遭侵害；謹慎的受害者數量激增；新的勒索軟體攻擊者出現；以及更多 安全簡述  在有消息指出OpenAI 未能向外界以外的任何人報告2023 年系統遭到破壞的消息後，OpenAI 的網路安全問題被曝光了一周。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/infosec_in_brief/</guid>
-      <pubDate>Mon, 08 Jul 2024 01:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
