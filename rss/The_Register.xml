@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 16:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 17:11:34 GMT</lastBuildDate>
+    <item>
+      <title>微軟廣告子公司 Xandr 被控違反 GDPR</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/xandr_gdpr_complaint/</link>
+      <description><![CDATA[投訴稱，存取、刪除請求被忽視，消費者個人資料自相矛盾 微軟的廣告子公司是歐盟隱私倡議者投訴的目標，指責其「高度侵入性的資料處理「以及違反了多項《一般資料保護規範》(GDPR) 規則。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/xandr_gdpr_complaint/</guid>
+      <pubDate>Tue, 09 Jul 2024 17:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>反向散射腦波可以使物聯網通訊更加節能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
+      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
       <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
+      <title>中國摩爾線程增加對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[純粹主義者不必擔心 - 您可以將其關閉 作為文字編輯器，微軟的記事本在物質享受方面從來都不是很出色。但經過 41 年多的時間，雷蒙德終於認為適合為其最簡陋的實用程式提供拼字檢查和自動更正功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/it_only_took_41_years/</guid>
       <pubDate>Mon, 08 Jul 2024 21:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peloton 因涉嫌侵犯隱私而面臨訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/peloton_to_face_proposed_classaction/</link>
-      <description><![CDATA[據稱，聊天小部件向第三方提供數據，第三方在不告知客戶的情況下使用這些數據來訓練人工智慧 在加州法官拒絕駁回指控疫情的訴訟後， Peloton 正在加速開庭日期親愛的，違反了美國各州的隱私法——允許第三方在未經 Peloton 代表和客戶同意的情況下攔截和記錄他們之間的聊天記錄。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/peloton_to_face_proposed_classaction/</guid>
-      <pubDate>Mon, 08 Jul 2024 18:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
