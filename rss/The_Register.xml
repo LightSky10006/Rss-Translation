@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 22:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 23:12:31 GMT</lastBuildDate>
+    <item>
+      <title>自從馬斯克以 44B 美元收購以來，Twitter 成長了令人難以置信的「1.6%」。驚人的。哇</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/x_user_base_twitter/</link>
+      <description><![CDATA[毫無疑問，這要歸功於Vladi5555、KremLinda1776、RealAmericanPat22 等 據報道，自從埃隆·馬斯克(Elon Musk) 接管以前稱為Twitter 的公司以來，X 的用戶群成長已趨於平穩。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/x_user_base_twitter/</guid>
+      <pubDate>Tue, 09 Jul 2024 22:51:12 GMT</pubDate>
+    </item>
     <item>
       <title>美國新的「哨兵」核氣球成本降低了 81%。五角大廈說一切都很好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/sentinel_icbm_program/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>反向散射腦波可以使物聯網通訊更加節能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
+      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
       <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
+      <title>中國摩爾線程增加對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
       <pubDate>Tue, 09 Jul 2024 00:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coders 的 Copilot 程式碼複製版權索賠針對 GitHub 和微軟的指控失敗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/github_copilot_dmca/</link>
-      <description><![CDATA[一些開發人員對抗雷蒙德的強大力量 - 您認為誰會獲勝？  開發人員聲稱 GitHub Copilot 非法複製他們的程式碼已基本被駁回，工程師暫時離開針對程式碼倉庫的訴訟只剩下兩項指控。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/github_copilot_dmca/</guid>
-      <pubDate>Mon, 08 Jul 2024 23:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
