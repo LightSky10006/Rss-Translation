@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 10:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 11:10:40 GMT</lastBuildDate>
+    <item>
+      <title>胡塞武裝正在運行自己的 GuardZoo 間諜軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/houthi_rebels_malware/</link>
+      <description><![CDATA[研究人員表示，這是相當「低預算」、不複雜的惡意軟體，但它可以收集與 Pegasus 相同的數據 訪談能力往往會成為眾人矚目的焦點，例如NSO 集團的Pegasus，它被出售給成熟政府。但它實際上是您從未聽說過的不太完善的套件，例如由也門胡塞叛軍開發和使用的GuardZoo，它在該領域佔據主導地位。 !--#include virtual=&#39;/data_centre /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/houthi_rebels_malware/</guid>
+      <pubDate>Tue, 09 Jul 2024 10:56:53 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi OS 為夏季推出了一些新鮮選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</link>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
+      <title>中國摩爾線程增加對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 08 Jul 2024 12:02:11 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司就 737 Max 墜機事件承認詐欺罪</title>
+      <title>波音公司就 737 Max 墜機事件提出詐欺認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/boeing_guilty_fraud_charge/</link>
       <description><![CDATA[受害者家屬律師提出異議 根據美國司法部 (DoJ) 週日晚間提交的法庭文件，波音公司已同意承認與致命 737 Max 墜機事件相關的刑事欺詐指控.. .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/boeing_guilty_fraud_charge/</guid>
       <pubDate>Mon, 08 Jul 2024 11:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>執行長表示，第三次是雲端 SingleStore 的魅力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</link>
-      <description><![CDATA[Apache Iceberg 支持使其成為資料湖上的事務層的一個不錯的選擇，他告訴The Register SingleStore，這個承諾在單一系統上進行分析和事務的資料庫，經過了三次嘗試才獲得其執行長 Raj Verma 向 The Register  承認，科技在雲端工作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/singlestore_cloud_business/</guid>
-      <pubDate>Mon, 08 Jul 2024 10:36:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
