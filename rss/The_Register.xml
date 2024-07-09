@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 15:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 16:14:24 GMT</lastBuildDate>
+    <item>
+      <title>反向散射腦波可以使物聯網通訊更加節能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
+      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
+      <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>64% 的人對人工智慧產生的客戶服務概念不滿意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/gartner_simply_replacing_hold_music/</link>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 09 Jul 2024 02:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>中國摩爾線程增加對10K GPU集群的支持</title>
+      <title>中國的摩爾線程增加了對10K GPU集群的支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</link>
       <description><![CDATA[中國slinger 的套件仍然無法與Nvidia 的逃避制裁卡相媲美 中國GPU 供應商Moore Threads 表示，其以資料中心為中心的人工智慧系統現在可以支援多達10,000 個加速器的集群- 比技術增加了十倍去年提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/moore_threads_10k_cluster/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[據稱，聊天小部件向第三方提供數據，第三方在不告知客戶的情況下使用這些數據來訓練人工智慧 在加州法官拒絕駁回指控疫情的訴訟後， Peloton 正在加速開庭日期親愛的，違反了美國各州的隱私法——允許第三方在未經 Peloton 代表和客戶同意的情況下攔截和記錄他們之間的聊天記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/peloton_to_face_proposed_classaction/</guid>
       <pubDate>Mon, 08 Jul 2024 18:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 改變立場，批准 Epic Games Store 在歐盟推出 iOS 版</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/apple_epic_u_turn/</link>
-      <description><![CDATA[在歐盟委員會的關注下，圍繞按鈕的爭論仍將繼續 蘋果公司在周末突然大轉彎，批准了歐盟的 Epic Games Store。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/apple_epic_u_turn/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
