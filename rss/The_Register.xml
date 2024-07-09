@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 14:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 14:35:47 GMT</lastBuildDate>
+    <item>
+      <title>由於用戶抱怨，惠普將停止僅在線銷售的 e 系列 LaserJet</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/hp_to_discontinue_eseries_laserjets/</link>
+      <description><![CDATA[印表機被鎖定在 HP+ 雲端服務中，該服務也受到了影響 由於客戶投訴，惠普將停止其 e 系列 LaserJet 印表機以及 HP+ 和「Instant Ink」碳粉訂閱與硬體相關的服務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/hp_to_discontinue_eseries_laserjets/</guid>
+      <pubDate>Tue, 09 Jul 2024 14:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Elexon 對英國電力的洞察因證書過期而受到影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/elexons_insight_expired_cert/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[CUDA，本來應該成為人工智慧投擲者的首選，但它尊重自己的主導地位嗎？部門尚未就是否需要對此採取監管行動做出任何決定。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/eu_competition_commissioner_hints_at/</guid>
       <pubDate>Mon, 08 Jul 2024 15:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路檔案館將夜間停電歸咎於“環境因素”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</link>
-      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出微笑。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</guid>
-      <pubDate>Mon, 08 Jul 2024 15:02:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
