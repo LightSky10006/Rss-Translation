@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 09 Jul 2024 06:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:42:49 GMT</lastBuildDate>
     <item>
-      <title>騙子透過提供幫助從詐騙中恢復來雙重詐騙受害者</title>
+      <title>微軟中國員工無法用Android登錄，雷蒙買了iThings</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/microsoft_china_apple_google_authentication/</link>
+      <description><![CDATA[Google的缺席造成了連強大的微軟都無法處理的軟體分發問題 微軟中國將為員工提供蘋果設備，以便他們可以登入這家軟體巨頭的系統。 /p&gt; &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/microsoft_china_apple_google_authentication/</guid>
+      <pubDate>Tue, 09 Jul 2024 06:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>詐騙者透過提供幫助從詐騙中恢復過來來雙重詐騙受害者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/australia_rescam_warning/</link>
       <description><![CDATA[Scum 保留他們已經瀏覽過的人的資料庫 澳洲競爭和消費者委員會警告說，詐騙者透過虛假報價來瞄準詐騙受害者，以幫助他們從詐騙中恢復過來。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/australia_rescam_warning/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>Coders 的 Copilot 程式碼複製版權索賠針對 GitHub 和微軟的指控失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/github_copilot_dmca/</link>
-      <description><![CDATA[一些開發人員對抗雷蒙德的強大力量 - 您認為誰會獲勝？  開發人員聲稱 GitHub Copilot 非法複製他們的程式碼已基本被駁回，工程師暫時離開針對程式碼倉庫的訴訟只剩下兩項指控。]]></description>
+      <description><![CDATA[一些開發人員對抗雷蒙德的強大力量 - 您認為誰會獲勝？  開發人員聲稱 GitHub Copilot 非法複製他們的程式碼已基本被駁回，工程師們暫時離開針對程式碼倉庫的訴訟只剩下兩項指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/github_copilot_dmca/</guid>
       <pubDate>Mon, 08 Jul 2024 23:24:07 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>網路檔案館將夜間停電歸咎於“環境因素”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</link>
-      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出微笑。]]></description>
+      <description><![CDATA[Wayback Machine 的故障應歸咎於電源故障，而不是律師 在「環境因素」導致Wayback Machine 宕機後，互聯網檔案館一夜之間陷入癱瘓，使得archive.org 搖搖欲墜，可能會導致某些希望其消亡的出版商臉上露出笑容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/internet_archive_suffers_a_wobble/</guid>
       <pubDate>Mon, 08 Jul 2024 15:02:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這不是中斷…那是中斷 誰，我？的讀者提交的冷酷安慰專欄我們稱之為“誰，我？”在那裡你發現每個人——甚至像你這樣聰明的木屐——都會犯錯。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/who_me/</guid>
       <pubDate>Mon, 08 Jul 2024 07:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在眾包商的幫助下，Copilot+ PC 軟體相容性問​​題留給您解決</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</link>
-      <description><![CDATA[三星警告用戶，但PC 行業的巨頭幾乎沒有提及出現問題的可能性 買家擔心基於高通Snapdragon X SoC 的Copilot+ PC 可能無法運行對他們來說重要的軟體，而這些軟體正被定向到兩個社區運營的網站眾包不相容代碼列表。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/08/copilot_plus_pc_software_compatibility/</guid>
-      <pubDate>Mon, 08 Jul 2024 06:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
