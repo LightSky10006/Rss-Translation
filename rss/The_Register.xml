@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 16:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 17:09:50 GMT</lastBuildDate>
+    <item>
+      <title>Snowflake 允許管理員對所有使用者帳戶強制執行 MFA</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</link>
+      <description><![CDATA[公司在Ticketmaster、Santander 入侵後宣布意圖 一個月後，事件回應巨頭Mandiant 表示，與Snowflake 帳戶入侵相關的一連串資料竊取事件的共同特點是缺乏多因素身份驗證(MFA ) ）控制，雲端儲存和資料分析公司正在向管理員提供強制性的 MFA 選項。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</guid>
+      <pubDate>Wed, 10 Jul 2024 16:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>Astroscale 太空看門人嘗試飛越廢棄的上級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/astroscale_debris_avoidance/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲端提供者組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[RT 新聞在被指控為克里姆林宮建立社交網絡後予以反擊 聯邦調查局(FBI) 以及加拿大和荷蘭的網絡安全機構表示，他們已經摧毀了一個由近1,000 人組成的Twitter 機器人農場俄羅斯國營 RT 新聞使用生成式人工智慧向美國人和其他人傳播虛假訊息…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/russian_ai_bot_farm/</guid>
       <pubDate>Tue, 09 Jul 2024 23:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>自從馬斯克以 44B 美元收購以來，Twitter 成長了令人難以置信的「1.6%」。驚人的。哇</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/x_user_base_twitter/</link>
-      <description><![CDATA[毫無疑問，這要歸功於Vladi5555、KremLinda1776、RealAmericanPat22 等 據報道，自從埃隆·馬斯克(Elon Musk) 接管以前稱為Twitter 的公司以來，X 的用戶群成長已趨於平穩。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/x_user_base_twitter/</guid>
-      <pubDate>Tue, 09 Jul 2024 22:51:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
