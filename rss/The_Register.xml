@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 20:11:51 GMT</lastBuildDate>
+    <item>
+      <title>AI需求推動台積電2024年營收迄今成長28%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/tsmc_ai_demand_q2/</link>
+      <description><![CDATA[台灣矽業霸主輕鬆超越分析師預測 半導體巨頭台積電似乎更有信心相信自己的命運正在上升，因為對人工智慧加速GPU 等先進晶片的需求導致第二季度收入強勁增長...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/tsmc_ai_demand_q2/</guid>
+      <pubDate>Wed, 10 Jul 2024 20:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>Intuit 裁員，希望在人工智慧重新聚焦時僱用相同數量的員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/intuit_decimates_staff_announces_plans/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[450 名 Excelmax Technologies 員工獲得新徽章 全球專業服務公司埃森哲週一宣布收購印度半導體設計服務提供商 Excelmax Technologies。 include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/accenture_bulks_chip_design_team/</guid>
       <pubDate>Wed, 10 Jul 2024 04:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>RADIUS 網路協定因基於 MD5 的缺陷而被提交</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/radius_critical_vulnerability/</link>
-      <description><![CDATA[如果有人可以進行一點中間人攻擊和雜湊破解，他們無需有效密碼即可登入 大學和大型科技公司的網路安全專家披露了常見客戶端-伺服器網路中的一個漏洞允許窺探者透過中間人(MITM) 攻擊繞過使用者驗證的協定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/radius_critical_vulnerability/</guid>
-      <pubDate>Wed, 10 Jul 2024 03:15:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
