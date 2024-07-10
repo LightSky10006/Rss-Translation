@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 21:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 22:10:34 GMT</lastBuildDate>
+    <item>
+      <title>韓國三星工會再次罷工以削減產量</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/samsung_union_indefinite_strike/</link>
+      <description><![CDATA[NSEU 警告說，如果 HBM 晶圓廠出了問題，那將是一種恥辱 韓國三星工會工人無限期延長為期三天的罷工，聲稱公司領導層拒絕聽取要求當結束日期擺在桌面上時......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/samsung_union_indefinite_strike/</guid>
+      <pubDate>Wed, 10 Jul 2024 22:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>你能跌到多低：特斯拉美國市佔率首次跌破50%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/tesla_electric_car_sales/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲端提供者組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[一切都很順利，除了實驗性的重新點火 歐洲航天局的新發射器阿麗亞娜 6 號於週二完成了首飛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ariane_6_launch_success_esa/</guid>
       <pubDate>Wed, 10 Jul 2024 05:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著IPv6採用速度放緩，中國推動網路升級閃電戰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/china_ipv6_update/</link>
-      <description><![CDATA[近8 億人使用該協議，隨著Wi-Fi 授權的到來，還會有更多人使用該協議 中國對IPv6 的採用（北京政府優先考慮的目標）似乎已經放緩。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/china_ipv6_update/</guid>
-      <pubDate>Wed, 10 Jul 2024 05:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
