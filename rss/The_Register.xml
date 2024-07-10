@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 06:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 07:34:21 GMT</lastBuildDate>
+    <item>
+      <title>大型科技公司對我的法學碩士崩潰錯誤報告的最終反應是可怕的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vendors_response_to_my_llmcrasher/</link>
+      <description><![CDATA[似乎已經進行了修復，但披露或討論是不可見的 專欄 發現錯誤？事實證明，在The Register中用一個故事來報道它的效果非常好……大多數情況下。在我發表了有關導致許多人工智慧聊天機器人崩潰的提示的“Kryptonite”文章後，我開始收到來自讀者的源源不斷的電子郵件- 是我在過去十年中收到的所有讀者電子郵件總數的許多倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vendors_response_to_my_llmcrasher/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>ViperSoftX 變體被發現濫用 .NET 運行時來掩飾資料竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vipersoftx_malware_dot_net/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>反向散射腦波可以使物聯網通訊更加節能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
+      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
       <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員表示，這是相當「低預算」、不複雜的惡意軟體，但它可以收集與 Pegasus 相同的數據 訪談能力往往會成為眾人矚目的焦點，例如NSO 集團的Pegasus，它被出售給成熟政府。但它實際上是您從未聽說過的不太完善的套件，例如由也門胡塞叛軍開發和使用的GuardZoo，它在該領域佔據主導地位。 !--#include virtual=&#39;/data_centre /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/houthi_rebels_malware/</guid>
       <pubDate>Tue, 09 Jul 2024 10:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi OS 為夏季推出了一些新鮮選擇</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</link>
-      <description><![CDATA[當你可以在黑暗的房間裡玩微型電腦時，為什麼要在陽光下出去？發布了新版本，儘管它仍然羞於給出版本號。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</guid>
-      <pubDate>Tue, 09 Jul 2024 09:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
