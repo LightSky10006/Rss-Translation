@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 17:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 18:16:18 GMT</lastBuildDate>
+    <item>
+      <title>隨著市場開始硬體升級，個人電腦銷量小幅上升</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/pc_market_grows_for_third/</link>
+      <description><![CDATA[隨著作業系統市佔率最終上升，分析師希望Windows 11 更新火上加油 Canalys 首席分析師Ishan Dutt 告訴，市場對新型、更快PC 的典型需求正在回歸在經歷了該行業幾年的悲慘歲月之後，他總結了連續第三個季度的增長，然後註冊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/pc_market_grows_for_third/</guid>
+      <pubDate>Wed, 10 Jul 2024 17:32:15 GMT</pubDate>
+    </item>
     <item>
       <title>Snowflake 允許管理員對所有使用者帳戶強制執行 MFA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲端提供者組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Citrix、SAP 也值得您關注- 因為不法分子已經在考慮利用星期三 星期二補丁  清除您的Microsoft 系統管理員日記：雷德蒙德7 月補丁中的修復包星期二是一個令人興奮的時刻，至少有兩個錯誤正在被積極利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/july_2024_patch_tuesday/</guid>
       <pubDate>Wed, 10 Jul 2024 00:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI、網路警察消滅了約 1000 個俄羅斯 AI 假訊息 Twitter 機器人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/russian_ai_bot_farm/</link>
-      <description><![CDATA[RT 新聞在被指控為克里姆林宮建立社交網絡後予以反擊 聯邦調查局(FBI) 以及加拿大和荷蘭的網絡安全機構表示，他們已經摧毀了一個由近1,000 人組成的Twitter 機器人農場俄羅斯國營 RT 新聞使用生成式人工智慧向美國人和其他人傳播虛假訊息…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/russian_ai_bot_farm/</guid>
-      <pubDate>Tue, 09 Jul 2024 23:35:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
