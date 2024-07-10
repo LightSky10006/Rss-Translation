@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 10:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 11:09:18 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 正在縮小與 Windows 10 的差距</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/windows_11_adoption/</link>
+      <description><![CDATA[微軟最新作業系統的市佔率增加 微軟在作業系統市佔率終於有了一些好消息：隨著Windows 10 的下滑，Windows 11 的使用量持續上升。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/windows_11_adoption/</guid>
+      <pubDate>Wed, 10 Jul 2024 11:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體人員投資客製化資料竊取惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ransomware_data_exfil_malware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[使網路攻擊成為金融業有史以來最大規模的網路攻擊 Evolve Bank &amp; Trust 表示，根據向緬因州總檢察長提交的一份新文件，超過 760 萬客戶的資料在 5 月底的 LockBit 入侵期間被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/evolve_lockbit_attack/</guid>
       <pubDate>Tue, 09 Jul 2024 13:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉家長監護裝置可控制青少年的鉛腳</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/tesla_parental_controls/</link>
-      <description><![CDATA[因為信任你的孩子擁有 300 匹馬力應該伴隨著宵禁 如果你擁有一輛特斯拉，你會讓你的孩子駕駛它嗎？電動車品牌似乎認為您可以在 7 月的更新中添加“家長控制”。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/tesla_parental_controls/</guid>
-      <pubDate>Tue, 09 Jul 2024 12:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
