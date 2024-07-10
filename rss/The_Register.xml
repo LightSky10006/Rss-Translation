@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 12:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:52:16 GMT</lastBuildDate>
+    <item>
+      <title>NeWS如何成為Windows系統大戰中的昨日新聞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/dshr_on_news_vs_x/</link>
+      <description><![CDATA[X 聯合設計師David Rosenthal 回顧了他的另一個專案失敗的原因 週年紀念日幾週後，X 背後的一位原始工程師探索了為什麼它比競爭對手取得了成功- 其中之一他共同開發 – 失敗了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/dshr_on_news_vs_x/</guid>
+      <pubDate>Wed, 10 Jul 2024 12:27:05 GMT</pubDate>
+    </item>
     <item>
       <title>CyrusOne 又獲得 7.9B 美元債務融資，以擴大人工智慧資料中心帝國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/cyrusone_ai_datacenter/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>反向散射腦波可以使物聯網通訊更加節能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
+      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
       <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[印表機被鎖定在 HP+ 雲端服務中，該服務也受到了影響 由於客戶投訴，惠普將停止其 e 系列 LaserJet 印表機以及 HP+ 和「Instant Ink」碳粉訂閱與硬體相關的服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/hp_to_discontinue_eseries_laserjets/</guid>
       <pubDate>Tue, 09 Jul 2024 14:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elexon 對英國電力的洞察因證書過期而受到影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/elexons_insight_expired_cert/</link>
-      <description><![CDATA[了解英國的電力需求首先要了解續訂何時到期 證書監視 英國電力公司證明 Microsoft 並不是唯一一家無法追蹤證書的公司市場業務Elexon .... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/elexons_insight_expired_cert/</guid>
-      <pubDate>Tue, 09 Jul 2024 14:01:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
