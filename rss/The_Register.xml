@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 05:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:15:53 GMT</lastBuildDate>
+    <item>
+      <title>歐洲首次阿麗亞娜 6 號飛行重回重型發射業務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ariane_6_launch_success_esa/</link>
+      <description><![CDATA[一切都很順利，除了實驗性的重新點火 歐洲航天局的新發射器阿麗亞娜 6 號於週二完成了首飛。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ariane_6_launch_success_esa/</guid>
+      <pubDate>Wed, 10 Jul 2024 05:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>隨著IPv6採用速度放緩，中國推動網路升級閃電戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/china_ipv6_update/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>反向散射腦波可以使物聯網通訊更加節能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來怎麼樣？ 」來收集能量來自無線訊號進行通訊。...]]></description>
+      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
       <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[副領導人將在承諾更加有利於商業的規劃流程後採取行動 英國副首相將召回兩項阻礙英國資料中心投資的規劃決定。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/uk_datacenter_new_govt_planning/</guid>
       <pubDate>Tue, 09 Jul 2024 08:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eldorado 勒索軟體即服務集團針對 Linux、Windows 系統</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/eldorado_ransomware_linux_windows/</link>
-      <description><![CDATA[美國組織首當其衝受到可能是俄羅斯人員的攻擊 一種名為「Eldorado」的勒索軟體即服務操作，可對Linux 和Windows 電腦上的檔案進行加密，已感染了至少16 個組織– 主要在美國 – 截至六月。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/eldorado_ransomware_linux_windows/</guid>
-      <pubDate>Tue, 09 Jul 2024 07:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
