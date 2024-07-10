@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 14:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 14:34:32 GMT</lastBuildDate>
+    <item>
+      <title>微軟退出 OpenAI 董事會以避免監管審查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
+      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
+      <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>「非勒索軟體」的惡意軟體侵入富士通日本系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/fujitsu_malware_attack/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[投訴稱，存取、刪除請求被忽視，消費者個人資料自相矛盾 已更新 微軟的廣告子公司是歐盟隱私倡議者投訴的目標，指責其“高度侵入性的資料處理”，並違反了幾項通用資料保護規範 (GDPR) 規則。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/xandr_gdpr_complaint/</guid>
       <pubDate>Tue, 09 Jul 2024 17:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>反向散射腦波可以使物聯網通訊更加節能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</link>
-      <description><![CDATA[低於0.6 mW 聽起來如何？來收集能量來自無線訊號進行通訊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/korean_backscatter_research/</guid>
-      <pubDate>Tue, 09 Jul 2024 15:58:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
