@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 10 Jul 2024 15:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 16:13:12 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 董事會改組：微軟退出，蘋果因人工智慧合作關係審查而退出</title>
+      <link>https://arstechnica.com/?p=2036094</link>
+      <description><![CDATA[微軟放棄無投票權的觀察員董事會角色；蘋果重新考慮了計畫中的類似立場。]]></description>
+      <guid>https://arstechnica.com/?p=2036094</guid>
+      <pubDate>Wed, 10 Jul 2024 15:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Fold & Z Flip 6、Watch Ultra、新款Ring是三星的AI載體</title>
+      <link>https://arstechnica.com/?p=2036085</link>
+      <description><![CDATA[三星的規格凸塊產品在展示時塗上 Galaxy AI 漆。]]></description>
+      <guid>https://arstechnica.com/?p=2036085</guid>
+      <pubDate>Wed, 10 Jul 2024 14:59:30 GMT</pubDate>
+    </item>
     <item>
       <title>迫使烏克蘭投資者出售火箭公司的聯準會幾年後又改口了</title>
       <link>https://arstechnica.com/?p=2035991</link>
@@ -15,7 +29,7 @@
     <item>
       <title>來自俄羅斯人工智慧垃圾郵件農場的虛假資訊如何最終出現在谷歌搜尋結果的頂部</title>
       <link>https://arstechnica.com/?p=2035995</link>
-      <description><![CDATA[機器人宣傳了一篇關於弗拉基米爾·澤倫斯基的妻子在美國援助下購買布加迪的假文章。]]></description>
+      <description><![CDATA[機器人宣傳了一篇關於弗拉基米爾·澤連斯基的妻子在美國援助下購買布加迪的假文章。]]></description>
       <guid>https://arstechnica.com/?p=2035995</guid>
       <pubDate>Wed, 10 Jul 2024 11:10:29 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[使用我已經在摘要中寫了這麼長時間的東西是很奇怪的。]]></description>
       <guid>https://arstechnica.com/?p=2035885</guid>
       <pubDate>Tue, 09 Jul 2024 20:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>為什麼每台量子計算機都需要一台強大的經典計算機</title>
-      <link>https://arstechnica.com/?p=2035942</link>
-      <description><![CDATA[對量子電腦進行糾錯意味著每秒處理 100TB 的資料。]]></description>
-      <guid>https://arstechnica.com/?p=2035942</guid>
-      <pubDate>Tue, 09 Jul 2024 19:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Blast-RADIUS 攻擊破壞了各地網路中使用的 30 年歷史的協議</title>
-      <link>https://arstechnica.com/?p=2035809</link>
-      <description><![CDATA[普遍存在的 RADIUS 方案使用基於 MD5 的自主認證。是的，你沒聽錯。]]></description>
-      <guid>https://arstechnica.com/?p=2035809</guid>
-      <pubDate>Tue, 09 Jul 2024 19:02:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
