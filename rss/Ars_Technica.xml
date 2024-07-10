@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 10 Jul 2024 16:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 17:34:09 GMT</lastBuildDate>
     <item>
-      <title>亞馬遜Buy Box操縱訴訟因用戶未能出示收據而被駁回</title>
+      <title>為了放鬆英偉達對人工智慧的控制，AMD 以 6.65 億美元收購芬蘭新創公司</title>
+      <link>https://arstechnica.com/?p=2036193</link>
+      <description><![CDATA[此次收購是歐洲十年來規模最大的同類收購。]]></description>
+      <guid>https://arstechnica.com/?p=2036193</guid>
+      <pubDate>Wed, 10 Jul 2024 17:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全氣囊問題迫使阿爾法羅密歐、寶馬、菲亞特和吉普車大規模召回</title>
+      <link>https://arstechnica.com/?p=2036201</link>
+      <description><![CDATA[高田安全氣囊和有問題的感測器導致四個汽車品牌召回。]]></description>
+      <guid>https://arstechnica.com/?p=2036201</guid>
+      <pubDate>Wed, 10 Jul 2024 17:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>馬斯克 (Elon Musk) 擊敗了一項為 Twitter 下崗員工尋求遣散費的訴訟</title>
+      <link>https://arstechnica.com/?p=2036189</link>
+      <description><![CDATA[敗訴的原告或許可以加入針對 X Corp. 的其他訴訟之一。]]></description>
+      <guid>https://arstechnica.com/?p=2036189</guid>
+      <pubDate>Wed, 10 Jul 2024 16:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>用戶必須證明亞馬遜欺騙了他們，才能重振Buy Box操縱訴訟</title>
       <link>https://arstechnica.com/?p=2036149</link>
       <description><![CDATA[用戶希望亞馬遜負責隱藏更便宜的商品並提供更快的送貨速度。]]></description>
       <guid>https://arstechnica.com/?p=2036149</guid>
@@ -20,7 +41,7 @@
       <pubDate>Wed, 10 Jul 2024 16:04:32 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 董事會改組：微軟退出，蘋果因人工智慧合作關係審查而退出</title>
+      <title>OpenAI 董事會改組：微軟退出，蘋果在人工智慧合作夥伴審查中退出</title>
       <link>https://arstechnica.com/?p=2036094</link>
       <description><![CDATA[微軟放棄無投票權的觀察員董事會角色；蘋果重新考慮了計畫中的類似立場。]]></description>
       <guid>https://arstechnica.com/?p=2036094</guid>
@@ -43,7 +64,7 @@
     <item>
       <title>來自俄羅斯人工智慧垃圾郵件農場的虛假資訊如何最終出現在谷歌搜尋結果的頂部</title>
       <link>https://arstechnica.com/?p=2035995</link>
-      <description><![CDATA[機器人宣傳了一篇關於弗拉基米爾·澤連斯基的妻子在美國援助下購買布加迪的假文章。]]></description>
+      <description><![CDATA[機器人宣傳了一篇關於弗拉基米爾·澤倫斯基的妻子在美國援助下購買布加迪的假文章。]]></description>
       <guid>https://arstechnica.com/?p=2035995</guid>
       <pubDate>Wed, 10 Jul 2024 11:10:29 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[物理學家利用統計技術來分析重力波。]]></description>
       <guid>https://arstechnica.com/?p=2035434</guid>
       <pubDate>Wed, 10 Jul 2024 11:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧可以變得有意識嗎？目前，我們無從得知。</title>
-      <link>https://arstechnica.com/?p=2032516</link>
-      <description><![CDATA[科學家們努力定義意識、人工智慧或其他。]]></description>
-      <guid>https://arstechnica.com/?p=2032516</guid>
-      <pubDate>Wed, 10 Jul 2024 11:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲首次阿麗亞娜 6 航班實現了大部分目標，但提前結束</title>
-      <link>https://arstechnica.com/?p=2035900</link>
-      <description><![CDATA[亞莉安娜 6 號發射進入軌道，但上層出現問題使其無法完成示範飛行。]]></description>
-      <guid>https://arstechnica.com/?p=2035900</guid>
-      <pubDate>Wed, 10 Jul 2024 06:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦貿易委員會稱藥品中間商抬高美國價格，擠出競爭</title>
-      <link>https://arstechnica.com/?p=2036032</link>
-      <description><![CDATA[報告發現，藥品福利管理者 (PBM) 是美國藥品成本高的關鍵部分。]]></description>
-      <guid>https://arstechnica.com/?p=2036032</guid>
-      <pubDate>Tue, 09 Jul 2024 21:53:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
