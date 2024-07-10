@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 06:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:39:17 GMT</lastBuildDate>
+    <item>
+      <title>ViperSoftX 變體被發現濫用 .NET 運行時來掩飾資料竊取</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vipersoftx_malware_dot_net/</link>
+      <description><![CDATA[免費軟體AutoIt 也用於在腳本中隱藏整個PowerShell 環境 根據威脅檢測供應商Trellix 的安全研究人員的說法，一種名為ViperSoftX 的快速變化的信息竊取惡意軟體已經變得更加危險。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vipersoftx_malware_dot_net/</guid>
+      <pubDate>Wed, 10 Jul 2024 06:26:11 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲首次阿麗亞娜 6 號飛行重回重型發射業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ariane_6_launch_success_esa/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當你可以在黑暗的房間裡玩微型電腦時，為什麼要在陽光下出去？發布了新版本，儘管它仍然羞於給出版本號。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/raspberry_pi_os_5_3/</guid>
       <pubDate>Tue, 09 Jul 2024 09:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國部長回顧了兩項阻礙資料中心投資的規劃決定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/uk_datacenter_new_govt_planning/</link>
-      <description><![CDATA[副領導人將在承諾更加有利於商業的規劃流程後採取行動 英國副首相將召回兩項阻礙英國資料中心投資的規劃決定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/uk_datacenter_new_govt_planning/</guid>
-      <pubDate>Tue, 09 Jul 2024 08:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
