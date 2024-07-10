@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 10 Jul 2024 15:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 15:34:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
+      <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
+    </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著官員承諾良好的“重組”，民兵替代品將達到141B 美元 五角大樓下一代帶核彈頭的哨兵洲際彈道導彈的價格在不到四年的時間裡飆升了81 %，觸發國會授權的不擇手段的審查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/sentinel_icbm_program_costs/</guid>
       <pubDate>Tue, 09 Jul 2024 21:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟廣告子公司 Xandr 被控違反 GDPR</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/09/xandr_gdpr_complaint/</link>
-      <description><![CDATA[投訴稱，存取、刪除請求被忽視，消費者個人資料自相矛盾 已更新 微軟的廣告子公司是歐盟隱私倡議者投訴的目標，指責其“高度侵入性的資料處理”，並違反了幾項通用資料保護規範 (GDPR) 規則。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/09/xandr_gdpr_complaint/</guid>
-      <pubDate>Tue, 09 Jul 2024 17:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
