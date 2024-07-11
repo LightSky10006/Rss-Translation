@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 06:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 07:34:01 GMT</lastBuildDate>
+    <item>
+      <title>您花了一年的時間來修補這個 Veeam 缺陷，但現在它會帶來傷害</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
+      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的團夥，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
+      <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>隨著託管提供者住房測試平台關閉，Xen 專案面臨危險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/xen_project_colo_closes_warning/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟最新作業系統的市佔率增加 微軟在作業系統市佔率終於有了一些好消息：隨著Windows 10 的下滑，Windows 11 的使用量持續上升。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/windows_11_adoption/</guid>
       <pubDate>Wed, 10 Jul 2024 11:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體人員投資客製化資料竊取惡意軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ransomware_data_exfil_malware/</link>
-      <description><![CDATA[BlackByte、LockBit 等犯罪分子使用自訂工具 隨著勒索軟體犯罪分子越來越多地不再只是加密受害者的文件並要求付款來解鎖它們，而是立即竊取敏感訊息，一些更成熟的犯罪組織正在開發定制惡意軟體來竊取資料 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/ransomware_data_exfil_malware/</guid>
-      <pubDate>Wed, 10 Jul 2024 10:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
