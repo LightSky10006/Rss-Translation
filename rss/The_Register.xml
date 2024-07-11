@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 05:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 05:36:52 GMT</lastBuildDate>
+    <item>
+      <title>日本宇宙航空研究開發機構在清理 M365 攻擊時發現零時差攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/</link>
+      <description><![CDATA[多次惡意軟體攻擊導致個人資料被訪問，但火箭科學仍然安全 日本宇宙探索機構 (JAXA) 在與 Microsoft 合作調查 2023 年網路攻擊時發現自己受到零日漏洞攻擊在其係統上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/</guid>
+      <pubDate>Thu, 11 Jul 2024 05:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果、谷歌簡化跨雲端資料傳輸，或許代價高昂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/apple_gogle_photo_cloud_interoperability/</link>
@@ -78,14 +85,14 @@
     <item>
       <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲端提供者組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>玻璃雨、超音速風和臭雞蛋之水——HD 189733 b 上的另一天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/hd_189733_b_study/</link>
-      <description><![CDATA[聽起來比英國的夏天還要好 在一年中的這個時候，當人們的思緒自然地轉向來之不易的假期時，就會有消息傳來，一顆溫度高達920°C (1,688°F) 的行星正在下雨玻璃被 5,000 英里/小時（8,047 公里/小時）的風吹到水平方向，還有持續不斷的臭雞蛋味…]]></description>
+      <description><![CDATA[聽起來比英國的夏天還要好 在一年中的這個時候，當人們的思緒自然而然地轉向一次來之不易的假期時，就會有消息傳來，一顆溫度高達920°C (1,688°F) 的行星正在下雨玻璃被 5,000 英里/小時（8,047 公里/小時）的風吹到水平方向，還有持續不斷的臭雞蛋味…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/hd_189733_b_study/</guid>
       <pubDate>Wed, 10 Jul 2024 09:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴別魚？我們快到了。 Reg 評論 Timekettle X1 AI 翻譯中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/timekettle_x1_ai_interpreter_hub/</link>
-      <description><![CDATA[一個方便的獨立翻譯器，但如果你想要一個，你需要雄厚的財力，無論是像徵性的還是字面意義上的 評論 人工智能技術更有用的應用之一是筆譯和口譯。 Timekettle X1 AI Interpreter 中心試圖透過令人愉悅的工業設計推動事物向前發展。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/timekettle_x1_ai_interpreter_hub/</guid>
-      <pubDate>Wed, 10 Jul 2024 08:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
