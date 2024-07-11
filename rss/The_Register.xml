@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 11:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 12:20:36 GMT</lastBuildDate>
+    <item>
+      <title>AMD 收購開發商 Silo AI，以配合 Nvidia 的產品系列</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/amd_buys_developer_silo_ai/</link>
+      <description><![CDATA[首先是市場領導者的 GPU MI300X...現在它正在蠶食軟體 AMD 將以 6.5 億美元吞併軟體公司 Silo AI，以推動自己的企業 AI 產品...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/amd_buys_developer_silo_ai/</guid>
+      <pubDate>Thu, 11 Jul 2024 12:04:32 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司的星際客機將在國際太空站延長停留時間，地球上的工程師試圖重現推進器問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/boeings_starliner/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>「非勒索軟體」的惡意軟體侵入富士通日本系統</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/fujitsu_malware_attack/</link>
-      <description><![CDATA[該公司表示資料外洩極難檢測 富士通日本表示，一種未指明的「高級」惡意軟體菌株是3 月份資料竊取的罪魁禍首，並堅稱該菌株「不是勒索軟體”，但它並沒有沒有透露有多少人受到影響。...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/fujitsu_malware_attack/</guid>
-      <pubDate>Wed, 10 Jul 2024 13:47:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
