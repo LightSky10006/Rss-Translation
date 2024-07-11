@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 13:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 14:34:49 GMT</lastBuildDate>
+    <item>
+      <title>Google：我們仍在努力擊敗微軟的「反競爭」雲端政策</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/google_on_microsoft_cispe_deal/</link>
+      <description><![CDATA[Alphabet 部門的雲端負責人表示，昨天微軟與歐洲雲端供應商之間的和解不應該「欺騙」你 Google表示，微軟與一群歐洲雲端供應商的秘密和解僅僅是為了利用其財務實力使有關軟體許可成本的投訴消失。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/google_on_microsoft_cispe_deal/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Advance Auto Parts：當犯罪分子闖入我們的 Snowflake 帳戶時，230 萬人的資料被訪問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/advance_auto_parts_confirms_23/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>歐盟所有新車均配備限速器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</link>
-      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 隨著智能速度輔助(ISA) 技術成為強制性規定，對於歐盟道路安全活動人士來說這是重要的一周在所有新車上。]]></description>
+      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
     </item>
     <item>
       <title>您花了一年的時間來修補這個 Veeam 缺陷，但現在它會帶來傷害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
-      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的團夥，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
+      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的組織，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
       <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[公司在Ticketmaster、Santander 入侵後宣布意圖 一個月後，事件回應巨頭Mandiant 表示，與Snowflake 帳戶入侵相關的一連串資料竊取事件的共同特點是缺乏多因素身份驗證(MFA ) ）控制，雲端儲存和資料分析公司正在向管理員提供強制性的 MFA 選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</guid>
       <pubDate>Wed, 10 Jul 2024 16:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astroscale 太空看門人嘗試飛越廢棄的上級</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/astroscale_debris_avoidance/</link>
-      <description><![CDATA[ADRAS-J 透過自主防撞避免加劇碎片問題 Astroscale 日本展示了軌道碎片圖像，並展示了其太空船透過自主防撞避免加劇問題的能力系統....&lt; /p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/astroscale_debris_avoidance/</guid>
-      <pubDate>Wed, 10 Jul 2024 16:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
