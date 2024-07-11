@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 18:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 19:35:22 GMT</lastBuildDate>
+    <item>
+      <title>OpenSSH 錯誤讓 RHEL 9 和 RHELatives 容易受到攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/</link>
+      <description><![CDATA[新發現的缺陷影響OpenSSH 8.7 和8.8 守護程式 Openwall 的創始人在RHEL 9.x 和RHEL 9.x 中使用的核心sshd 守護程式中發現了新的訊號處理程序競爭條件它的各種分支......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/</guid>
+      <pubDate>Thu, 11 Jul 2024 19:13:08 GMT</pubDate>
+    </item>
     <item>
       <title>由於用戶大多樂於保留舊套件，Mac 的銷售量已不如以前</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/mac_upgrade_not_happening/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[NSEU 警告說，如果 HBM 晶圓廠出了問題，那將是一種恥辱 韓國三星工會工人無限期延長為期三天的罷工，聲稱公司領導層拒絕聽取要求當結束日期擺在桌面上時......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/samsung_union_indefinite_strike/</guid>
       <pubDate>Wed, 10 Jul 2024 22:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能跌到多低：特斯拉美國市佔率首次跌破50%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/tesla_electric_car_sales/</link>
-      <description><![CDATA[電動車銷量破紀錄，但埃隆的光彩黯然失色 美國電動車銷量在2024 年第二季創下新紀錄，這要歸功於特斯拉，其市場份額跌至50 以下歷史上首次占美國電動車總銷量的百分比。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/tesla_electric_car_sales/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:04:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
