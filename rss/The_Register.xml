@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 12:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 12:52:06 GMT</lastBuildDate>
+    <item>
+      <title>歐盟委員會接受蘋果公司的「一觸即用」承諾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/european_commission_accepts_apples_tap/</link>
+      <description><![CDATA[使第三方錢包獲得iOS NFC 訪問權限成為“具有法律約束力”的事情 Apple 在作出讓步（包括開放對所需iPhone 硬體的訪問權限）後，避免了潛在的巨額罰款和歐洲的反壟斷案件對於「點擊即走」應用程式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/european_commission_accepts_apples_tap/</guid>
+      <pubDate>Thu, 11 Jul 2024 12:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 收購開發商 Silo AI，以配合 Nvidia 的產品系列</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/amd_buys_developer_silo_ai/</link>
-      <description><![CDATA[首先是市場領導者的 GPU MI300X...現在它正在蠶食軟體 AMD 將以 6.5 億美元吞併軟體公司 Silo AI，以推動自己的企業 AI 產品...]]></description>
+      <description><![CDATA[首先是針對市場領導者的GPU...現在它正在蠶食軟體 AMD 將以6.5 億美元的價格吞併軟體公司Silo AI，以提升自己的企業人工智慧產品。 ..&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/amd_buys_developer_silo_ai/</guid>
       <pubDate>Thu, 11 Jul 2024 12:04:32 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟退出 OpenAI 董事會以避免監管審查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
-      <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
