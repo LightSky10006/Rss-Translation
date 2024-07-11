@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 23:13:06 GMT</lastBuildDate>
     <item>
-      <title>超過 150 萬台運行 Exim 的電子郵件伺服器容易受到嚴重攻擊</title>
+      <title>尋找伴侶的獅子兄弟剛剛創造了已知游泳時間最長的記錄</title>
+      <link>https://arstechnica.com/?p=2035440</link>
+      <description><![CDATA[雅各和蒂布兄弟冒著飢餓的河馬和鱷魚的危險穿越了海峽。]]></description>
+      <guid>https://arstechnica.com/?p=2035440</guid>
+      <pubDate>Thu, 11 Jul 2024 22:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>首屆「人工智慧小姐」大賽因推行不切實際的美麗標準而引發憤怒</title>
+      <link>https://arstechnica.com/?p=2036414</link>
+      <description><![CDATA[影響者平台頗具爭議的競賽將獎品授予了三個不存在的人。]]></description>
+      <guid>https://arstechnica.com/?p=2036414</guid>
+      <pubDate>Thu, 11 Jul 2024 21:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆馬斯克呼籲對 X 廣告抵制者進行“刑事起訴”</title>
+      <link>https://arstechnica.com/?p=2036575</link>
+      <description><![CDATA[國會指責廣告商集團合謀侵占坦克 X 的收入。]]></description>
+      <guid>https://arstechnica.com/?p=2036575</guid>
+      <pubDate>Thu, 11 Jul 2024 21:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑幕公司重新推出流行的舊科技博客，竊取作家的身份</title>
+      <link>https://arstechnica.com/?p=2036525</link>
+      <description><![CDATA[這不僅威脅到作家的工作，也對網路產生腐蝕作用。]]></description>
+      <guid>https://arstechnica.com/?p=2036525</guid>
+      <pubDate>Thu, 11 Jul 2024 21:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exim 漏洞影響 150 萬台伺服器，攻擊者可附加惡意文件</title>
       <link>https://arstechnica.com/?p=2036607</link>
       <description><![CDATA[根據過去的攻擊，這次出現主動攻擊也就不足為奇了。]]></description>
       <guid>https://arstechnica.com/?p=2036607</guid>
@@ -15,7 +43,7 @@
     <item>
       <title>在被認為是冰冷的生態系中發現的大鯢物種</title>
       <link>https://arstechnica.com/?p=2036337</link>
-      <description><![CDATA[是在其同類被認為已經滅絕之後被發現的，而且是在被認為太冷的地方發現的。]]></description>
+      <description><![CDATA[是在其同類被認為已經滅絕之後被發現的，並且是在被認為太冷的地方發現的。]]></description>
       <guid>https://arstechnica.com/?p=2036337</guid>
       <pubDate>Thu, 11 Jul 2024 20:00:08 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[Arm「精度超解析度」針對功耗和整合 GPU 進行了最佳化。]]></description>
       <guid>https://arstechnica.com/?p=2036378</guid>
       <pubDate>Thu, 11 Jul 2024 16:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果透過開放行動支付系統解決歐盟調查</title>
-      <link>https://arstechnica.com/?p=2036401</link>
-      <description><![CDATA[iPhone 用戶將有更多選擇在歐盟進行「一觸即走」支付。]]></description>
-      <guid>https://arstechnica.com/?p=2036401</guid>
-      <pubDate>Thu, 11 Jul 2024 15:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intuit 的人工智慧賭博：大規模裁員 1,800 人同時大舉招聘</title>
-      <link>https://arstechnica.com/?p=2036383</link>
-      <description><![CDATA[Intuit 執行長：“不准備利用 [AI] 的公司將會落後。”]]></description>
-      <guid>https://arstechnica.com/?p=2036383</guid>
-      <pubDate>Thu, 11 Jul 2024 15:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>為了應對氣候變化，碳捕獲必須不斷發展</title>
-      <link>https://arstechnica.com/?p=2036280</link>
-      <description><![CDATA[這些技術是有用的工具，但尚未使我們擺脫化石燃料。]]></description>
-      <guid>https://arstechnica.com/?p=2036280</guid>
-      <pubDate>Thu, 11 Jul 2024 11:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 關於 Starliner 推進器問題的更新：這很好</title>
-      <link>https://arstechnica.com/?p=2036270</link>
-      <description><![CDATA[「我們想知道的是推進器能否發揮作用，」星際客機的飛行員說。]]></description>
-      <guid>https://arstechnica.com/?p=2036270</guid>
-      <pubDate>Thu, 11 Jul 2024 00:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
