@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 14:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 15:11:32 GMT</lastBuildDate>
+    <item>
+      <title>Palantir 和 Oracle 攜手在 Big Red 的雲端中提供 Karp 公司的技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/palantir_and_oracle_cosy_up/</link>
+      <description><![CDATA[OCI 中提供 Foundry 和 AI 平台 Palantir 和 Oracle 正在聯手在 Oracle 雲端基礎設施平台上推廣這家美國間諜技術公司的技術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/palantir_and_oracle_cosy_up/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>Google：我們仍在努力擊敗微軟的「反競爭」雲端政策</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/google_on_microsoft_cispe_deal/</link>
@@ -57,14 +64,14 @@
     <item>
       <title>歐盟所有新車均配備限速器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</link>
-      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
+      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 隨著智能速度輔助(ISA) 技術成為強制性規定，對於歐盟道路安全活動人士來說這是重要的一周在所有新車上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
     </item>
     <item>
       <title>您花了一年的時間來修補這個 Veeam 缺陷，但現在它會帶來傷害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
-      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的組織，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
+      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的團夥，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
       <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著作業系統市佔率最終上升，分析師希望Windows 11 更新火上加油 Canalys 首席分析師Ishan Dutt 告訴，市場對新型、更快PC 的典型需求正在回歸在經歷了該行業幾年的悲慘歲月之後，他總結了連續第三個季度的增長，然後註冊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/pc_market_grows_for_third/</guid>
       <pubDate>Wed, 10 Jul 2024 17:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowflake 允許管理員對所有使用者帳戶強制執行 MFA</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</link>
-      <description><![CDATA[公司在Ticketmaster、Santander 入侵後宣布意圖 一個月後，事件回應巨頭Mandiant 表示，與Snowflake 帳戶入侵相關的一連串資料竊取事件的共同特點是缺乏多因素身份驗證(MFA ) ）控制，雲端儲存和資料分析公司正在向管理員提供強制性的 MFA 選項。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/snowflake_mandatory_mfa/</guid>
-      <pubDate>Wed, 10 Jul 2024 16:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
