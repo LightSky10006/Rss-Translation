@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 02:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 02:38:11 GMT</lastBuildDate>
+    <item>
+      <title>中國自製的openKylin作業系統為AI PC創造了切入點</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openkylin_os_aipc_edition/</link>
+      <description><![CDATA[以神獸命名的作業系統開發人員加入了「本土機型將帶來傳奇生產力」的比喻 中國已加入人工智慧PC 潮流，本土作業系統openKylin 背後的團隊創造了一個切入點其基於 Linux 的軟體可以在桌面上運行人工智慧模型。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openkylin_os_aipc_edition/</guid>
+      <pubDate>Thu, 11 Jul 2024 02:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>匿名「有什麼問題就問我」聊天應用程式 NGL 下令停止針對兒童的該應用程式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/ngl_messaging_app/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[似乎已經進行了修復，但披露或討論是不可見的 專欄 發現錯誤？事實證明，在The Register中用一個故事來報道它的效果非常好……大多數情況下。在我發表了有關導致許多人工智慧聊天機器人崩潰的提示的“Kryptonite”文章後，我開始收到來自讀者的源源不斷的電子郵件- 是我在過去十年中收到的所有讀者電子郵件總數的許多倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vendors_response_to_my_llmcrasher/</guid>
       <pubDate>Wed, 10 Jul 2024 07:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>ViperSoftX 變體被發現濫用 .NET 運行時來掩飾資料竊取</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vipersoftx_malware_dot_net/</link>
-      <description><![CDATA[免費軟體AutoIt 也用於在腳本中隱藏整個PowerShell 環境 根據威脅檢測供應商Trellix 的安全研究人員的說法，一種名為ViperSoftX 的快速變化的信息竊取惡意軟體已經變得更加危險。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/vipersoftx_malware_dot_net/</guid>
-      <pubDate>Wed, 10 Jul 2024 06:26:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
