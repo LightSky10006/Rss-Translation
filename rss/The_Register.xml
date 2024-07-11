@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 12:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 13:34:00 GMT</lastBuildDate>
+    <item>
+      <title>Advance Auto Parts：當犯罪分子闖入我們的 Snowflake 帳戶時，230 萬人的資料被訪問</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/advance_auto_parts_confirms_23/</link>
+      <description><![CDATA[來自 CISO Ethan Steiger 的信件表明了與職位申請相關的數據 Advance Auto Parts 的 CISO 剛剛首次披露了犯罪分子闖入其 Snowflake 實例時受影響的人數 - 高達 230 萬人.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/advance_auto_parts_confirms_23/</guid>
+      <pubDate>Thu, 11 Jul 2024 13:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟委員會接受蘋果公司的「一觸即用」承諾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/european_commission_accepts_apples_tap/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ADRAS-J 透過自主防撞避免加劇碎片問題 Astroscale 日本展示了軌道碎片圖像，並展示了其太空船透過自主防撞避免加劇問題的能力系統....&lt; /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/astroscale_debris_avoidance/</guid>
       <pubDate>Wed, 10 Jul 2024 16:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
-      <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
