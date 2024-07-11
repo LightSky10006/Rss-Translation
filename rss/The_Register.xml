@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 07:34:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 09:13:05 GMT</lastBuildDate>
+    <item>
+      <title>歐盟所有新車均配備限速器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</link>
+      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
+      <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
+    </item>
     <item>
       <title>您花了一年的時間來修補這個 Veeam 缺陷，但現在它會帶來傷害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
@@ -99,14 +106,14 @@
     <item>
       <title>Microsoft 透過與 CISPE 達成和解，避免了 EC 對濫用許可索賠的正式反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</link>
-      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲提供商組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
+      <description><![CDATA[支付“一次性費用”，為託管商等建立新的Azure Stack，但有些人擔心私人交易 由27 家雲端提供者組成的團體已同意解決他們向歐盟委員會提出的投訴涉嫌與他們在數據中心運行微軟軟體所支付的費用有關的反競爭行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_avoids_antitrust_probe/</guid>
       <pubDate>Wed, 10 Jul 2024 15:21:33 GMT</pubDate>
     </item>
     <item>
       <title>微軟退出 OpenAI 董事會以避免監管審查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</link>
-      <description><![CDATA[雷德蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是該公司在方向上取得了進展- 但無疑也擔心監管審查在決策過程中發揮了一定作用。]]></description>
+      <description><![CDATA[雷蒙德「對公司的方向充滿信心」表示撤回信 微軟將放棄其在OpenAI 董事會中無投票權的觀察員席位，理由是公司方向上取得了進展- 但毫無疑問也擔心監管審查在決策過程中發揮了一定作用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/microsoft_to_withdraw_from_openais/</guid>
       <pubDate>Wed, 10 Jul 2024 14:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[貸款人打賭你願意租用GPU 人工智慧資料中心公司CyrusOne 又獲得了79 億美元的貸款，用於建造更多的比特倉來裝滿GPU。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/cyrusone_ai_datacenter/</guid>
       <pubDate>Wed, 10 Jul 2024 11:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 正在縮小與 Windows 10 的差距</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/10/windows_11_adoption/</link>
-      <description><![CDATA[微軟最新作業系統的市佔率增加 微軟在作業系統市佔率終於有了一些好消息：隨著Windows 10 的下滑，Windows 11 的使用量持續上升。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/10/windows_11_adoption/</guid>
-      <pubDate>Wed, 10 Jul 2024 11:02:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
