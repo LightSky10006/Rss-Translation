@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 13:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 14:36:19 GMT</lastBuildDate>
+    <item>
+      <title>HPE 將建造超級電腦以“增強日本的人工智慧主權”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/hpe_to_build_supercomputer_to/</link>
+      <description><![CDATA[當然，由Nvidia GPU 提供支持，正如GPU 製造商的首席執行官談到巨型bitbarn“AI 工廠” HPE 將為日本AIST 研究機構建造一台超級計算機，使用數千個Nvidia 最新的H200 GPU 來支援研究中產生人工智慧的大型基礎模型。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/hpe_to_build_supercomputer_to/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 表示，「第三方雲端平台」的入侵導致 1.1 億筆客戶記錄洩露</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_admits_110_million_ppl_data_lost/</link>
+      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據很大，那麼您什麼都沒有看到：這次包括有關「幾乎所有「AT&amp;T 無線客戶- 以及由在AT&amp;T 網路上運行的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_admits_110_million_ppl_data_lost/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:09:27 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟官員稱X的付費藍色支票欺騙用戶並違反法律</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/eu_officials_say_xs_paidfor/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[Sushovan Hussain 於2020 年未能對2018 年在美國的欺詐定罪提出上訴，這意味著他在20 年內不會成為ICAEW 成員 Autonomy 前首席財務官Sushovan Hussain 被特許公司開除會計師組織現已確定。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/former_autonomy_cfo_banned_from/</guid>
       <pubDate>Thu, 11 Jul 2024 16:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palantir 和 Oracle 攜手在 Big Red 的雲端中提供 Karp 公司的技術</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/palantir_and_oracle_cosy_up/</link>
-      <description><![CDATA[OCI 中提供 Foundry 和 AI 平台 Palantir 和 Oracle 正在聯手在 Oracle 雲端基礎設施平台上推廣這家美國間諜技術公司的技術。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/palantir_and_oracle_cosy_up/</guid>
-      <pubDate>Thu, 11 Jul 2024 15:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google：我們仍在努力擊敗微軟的「反競爭」雲端政策</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/google_on_microsoft_cispe_deal/</link>
-      <description><![CDATA[Alphabet 部門的雲端負責人表示，昨天微軟與歐洲雲端供應商之間的和解不應該「欺騙」你 Google表示，微軟與一群歐洲雲端供應商的秘密和解僅僅是為了利用其財務實力使有關軟體許可成本的投訴消失。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/google_on_microsoft_cispe_deal/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
