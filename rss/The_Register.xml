@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 00:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 01:58:50 GMT</lastBuildDate>
+    <item>
+      <title>中國的 APT41 團隊在其工具箱中添加了隱密的惡意軟體載入程式和新的後門</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/china_apt41_malware/</link>
+      <description><![CDATA[來認識StealthVector 的兒子DodgeBox 根據雲端安全服務供應商Zscaler 的ThreatLabz 的說法，中國政府支持的網路間諜團夥APT41 很可能在其惡意軟體工具箱中加入了一個名為DodgeBox 的載入程式和一個名為MoonWalk 的後門研究團隊...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/china_apt41_malware/</guid>
+      <pubDate>Fri, 12 Jul 2024 01:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>「毛茸茸的同性戀駭客」表示，他們在襲擊「2025 計畫」的傳統基金會後已解散</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/gay_furry_hackers_2025/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 11 Jul 2024 20:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>川普威脅稱，如果連任總統，將把 Meta 的馬克「Zuckerbucks」送進監獄</title>
+      <title>川普威脅稱，如果連任總統，將把 Meta 的馬克“Zuckerbucks”送進監獄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/trump_zuckerberg/</link>
       <description><![CDATA[如果你想知道2024 年美國白宮競選進展如何，事情會是這樣的...... 佛羅裡達州男子唐納德·特朗普表示，如果再次當選美國總統，他將監禁所謂的「選舉詐欺者」——並向 Meta 老闆馬克·祖克柏發出莫名其妙的警告。或正如川普所說的 Zuckerbucks。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/trump_zuckerberg/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>由於用戶大多樂於保留舊套件，Mac 的銷售量已不如以前</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/mac_upgrade_not_happening/</link>
-      <description><![CDATA[我們被告知，人工智慧 PC 革命可能不會有幫助 Apple Mac 設備的所有者根本沒有像以前那樣快速購買新硬體。 ...]]></description>
+      <description><![CDATA[我們被告知，人工智慧 PC 革命可能不會有所幫助 Apple Mac 設備的所有者根本沒有像以前那樣快速購買新硬體。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/mac_upgrade_not_happening/</guid>
       <pubDate>Thu, 11 Jul 2024 18:04:06 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>Advance Auto Parts：當犯罪分子闖入我們的 Snowflake 帳戶時，230 萬人的資料被訪問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/advance_auto_parts_confirms_23/</link>
-      <description><![CDATA[來自 CISO Ethan Steiger 的信件表明了與職位申請相關的數據 Advance Auto Parts 的 CISO 剛剛首次披露了犯罪分子闖入其 Snowflake 實例時受影響的人數 - 高達 230 萬. ... ]]></description>
+      <description><![CDATA[來自 CISO Ethan Steiger 的信件表明了與職位申請相關的數據 Advance Auto Parts 的 CISO 剛剛首次披露了犯罪分子闖入其 Snowflake 實例時受影響的人數 - 高達 230 萬人.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/advance_auto_parts_confirms_23/</guid>
       <pubDate>Thu, 11 Jul 2024 13:15:07 GMT</pubDate>
     </item>
     <item>
       <title>歐盟委員會接受蘋果公司的「一觸即用」承諾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/european_commission_accepts_apples_tap/</link>
-      <description><![CDATA[使第三方錢包獲得iOS NFC 訪問權限成為“具有法律約束力”的事情 蘋果做出讓步（包括開放對所需iPhone 硬體的訪問權限）後，避免了潛在的巨額罰款和歐洲的反壟斷案件對於「點擊即走」應用程式。]]></description>
+      <description><![CDATA[使第三方錢包獲得iOS NFC 訪問權限成為“具有法律約束力”的事情 Apple 在作出讓步（包括開放對所需iPhone 硬體的訪問權限）後，避免了潛在的巨額罰款和歐洲的反壟斷案件對於「點擊即走」應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/european_commission_accepts_apples_tap/</guid>
       <pubDate>Thu, 11 Jul 2024 12:34:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>歐盟所有新車均配備限速器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</link>
-      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
+      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 隨著智能速度輔助(ISA) 技術成為強制性規定，對於歐盟道路安全活動人士來說這是重要的一周在所有新車上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[多次惡意軟體攻擊導致個人資料被訪問，但火箭科學仍然安全 日本宇宙探索機構 (JAXA) 在與 Microsoft 合作調查 2023 年網路攻擊時發現自己受到零日漏洞攻擊在其係統上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/</guid>
       <pubDate>Thu, 11 Jul 2024 05:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果、谷歌簡化跨雲端資料傳輸，或許代價高昂</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/apple_gogle_photo_cloud_interoperability/</link>
-      <description><![CDATA[不同大小的免費儲存層可能會削弱陰天互通性的樂趣 Google和蘋果已經簽署了一個工具，他們的雲端照片儲存服務可以互通，但這可能會付出一定的代價一些用戶...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/apple_gogle_photo_cloud_interoperability/</guid>
-      <pubDate>Thu, 11 Jul 2024 04:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
