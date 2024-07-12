@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 04:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:34:49 GMT</lastBuildDate>
+    <item>
+      <title>韓國訂購「星際大戰」雷射將北方無人機擊落</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/korea_star_wars/</link>
+      <description><![CDATA[古代武器無法與你身邊的優秀爆能槍相媲美 韓國已開始嘗試使用激光從空中射擊無人機 - 並將其命名為“星球大戰項目”。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/korea_star_wars/</guid>
+      <pubDate>Fri, 12 Jul 2024 05:18:07 GMT</pubDate>
+    </item>
     <item>
       <title>新加坡銀行將放棄簡訊一次性密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/singapore_banks_fight_phishing/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>川普威脅稱，如果連任總統，將把 Meta 的馬克「Zuckerbucks」送進監獄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/trump_zuckerberg/</link>
-      <description><![CDATA[如果你想知道2024 年美國白宮競選進展如何，事情會是這樣的...... 佛羅裡達州男子唐納德·特朗普表示，如果再次當選美國總統，他將監禁所謂的「選舉詐欺者」——並向 Meta 老闆馬克·祖克柏發出莫名其妙的警告。或正如川普所說的 Zuckerbucks。]]></description>
+      <description><![CDATA[如果你想知道2024 年美國白宮競選進展如何，事情會是這樣的...... 佛羅裡達州男子唐納德·特朗普表示，如果再次當選美國總統，他將監禁“選舉欺詐者”——並直接向 Meta 老闆馬克·扎克伯格發出警告。或正如川普所說的 Zuckerbucks。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/trump_zuckerberg/</guid>
       <pubDate>Thu, 11 Jul 2024 19:43:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您花了一年的時間來修補這個 Veeam 缺陷 - 現在它會帶來更多傷害</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
-      <description><![CDATA[LockBit 變體以備份軟體為目標- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware 的團夥，現在正在利用一個Veeam 漏洞已於一年多前修復，用於部署文件加密惡意軟體、LockBit 變體，並向受害者勒索付款。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
-      <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
