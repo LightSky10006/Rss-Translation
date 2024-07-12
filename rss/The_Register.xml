@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 01:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 02:33:26 GMT</lastBuildDate>
+    <item>
+      <title>軟銀收購陷入困境的英國人工智慧晶片製造商 Graphcore</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/softbank_acquires_graphcore/</link>
+      <description><![CDATA[與 Arm 組合的潛力誘人 擁有晶片設計商 Arm 的日本軟銀已收購英國晶片製造商 Graphcore，收購金額不詳。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/softbank_acquires_graphcore/</guid>
+      <pubDate>Fri, 12 Jul 2024 02:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>中國的 APT41 團隊在其工具箱中添加了隱密的惡意軟體載入程式和新的後門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/china_apt41_malware/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>拜登向汽車製造商投入 1.7B 美元，為衰落的工廠準備電動車生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/feds_award_17b_to_automakers/</link>
-      <description><![CDATA[Ice ICE，寶貝 拜登政府的電動車雄心再次得到推動，這次是以17 億美元公共資金的形式，將11 家面臨風險和關閉的汽車製造廠轉變為電動汽車（電動車）工廠。 ...]]></description>
+      <description><![CDATA[Ice ICE，寶貝 拜登政府的電動車雄心再次得到推動，這次是提供17 億美元的公共資金，將11 家面臨風險和關閉的汽車製造廠轉變為電動汽車（電動車）工廠。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/feds_award_17b_to_automakers/</guid>
       <pubDate>Thu, 11 Jul 2024 20:48:12 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>歐盟所有新車均配備限速器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</link>
-      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 隨著智能速度輔助(ISA) 技術成為強制性規定，對於歐盟道路安全活動人士來說這是重要的一周在所有新車上。]]></description>
+      <description><![CDATA[在歐盟駕駛新車？如果您的踏板踩得太重，請準備好迎接刺耳的嘟嘟聲和口哨聲 對於歐盟道路安全活動人士來說，這是重要的一周，因為智能速度輔助(ISA)技術已成為強制性標準在所有新車上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/speed_limiters_arrive_for_all/</guid>
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
     </item>
     <item>
       <title>您花了一年的時間來修補這個 Veeam 缺陷 - 現在它會帶來更多傷害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
-      <description><![CDATA[LockBit 變體以備份軟體為目標- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware 的團夥，現在正在利用一個Veeam 漏洞已於一年多前修復，用於部署文件加密惡意軟體、LockBit 變體，並向受害者勒索付款。]]></description>
+      <description><![CDATA[LockBit 變體以備份軟體為目標- 您可能記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware 的團夥，現在正在利用一個Veeam 漏洞已於一年多前修復，用於部署文件加密惡意軟體、LockBit 變體，並向受害者勒索付款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
       <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[承認可能難以資助和實施替代基礎設施 開源 Xen 虛擬機管理程序及相關工具的創建者和管理者 Xen 項目已警告其社區即將關閉帶來的潛在問題它使用的主機代管設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/xen_project_colo_closes_warning/</guid>
       <pubDate>Thu, 11 Jul 2024 06:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本宇宙航空研究開發機構在清理 M365 攻擊時發現零時差攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/</link>
-      <description><![CDATA[多次惡意軟體攻擊導致個人資料被訪問，但火箭科學仍然安全 日本宇宙探索機構 (JAXA) 在與 Microsoft 合作調查 2023 年網路攻擊時發現自己受到零日漏洞攻擊在其係統上。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/</guid>
-      <pubDate>Thu, 11 Jul 2024 05:31:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
