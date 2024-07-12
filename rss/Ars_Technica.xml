@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 12 Jul 2024 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 19:34:58 GMT</lastBuildDate>
+    <item>
+      <title>幾乎所有 AT&T 用戶的通話記錄在 Snowflake 雲端駭客攻擊中被盜</title>
+      <link>https://arstechnica.com/?p=2036854</link>
+      <description><![CDATA[從雲端平台上的 AT&amp;T 工作區取得六個月的通話和簡訊記錄。]]></description>
+      <guid>https://arstechnica.com/?p=2036854</guid>
+      <pubDate>Fri, 12 Jul 2024 18:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼安德塔人的遺傳多樣性大多來自現代人類</title>
+      <link>https://arstechnica.com/?p=2036663</link>
+      <description><![CDATA[尼安德塔人的低多樣性意味著他們的人口比我們想像的還要少。]]></description>
+      <guid>https://arstechnica.com/?p=2036663</guid>
+      <pubDate>Fri, 12 Jul 2024 18:34:05 GMT</pubDate>
+    </item>
     <item>
       <title>售價 500 美元的 Analogue Pocket 鋁製版本看起來像是 Game Boy 的最終版本</title>
       <link>https://arstechnica.com/?p=2036791</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[沒有動力去修復這個系統，無論如何，這個系統的設計目的從來都不是為了捕捉詐騙行為。]]></description>
       <guid>https://arstechnica.com/?p=2030357</guid>
       <pubDate>Fri, 12 Jul 2024 11:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報道：中國公司再遭失敗；阿麗亞娜 6 首秀飆升</title>
-      <link>https://arstechnica.com/?p=2036368</link>
-      <description><![CDATA[“這將推動歐洲重返太空。”]]></description>
-      <guid>https://arstechnica.com/?p=2036368</guid>
-      <pubDate>Fri, 12 Jul 2024 11:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 憑藉獵鷹 9 號火箭無與倫比的完美狀態已經結束</title>
-      <link>https://arstechnica.com/?p=2036700</link>
-      <description><![CDATA[獵鷹 9 號已停飛等待調查，可能會推遲即將進行的載人飛行。]]></description>
-      <guid>https://arstechnica.com/?p=2036700</guid>
-      <pubDate>Fri, 12 Jul 2024 08:43:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
