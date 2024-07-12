@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 11 Jul 2024 23:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:11:05 GMT</lastBuildDate>
+    <item>
+      <title>科學家打造現實生活中的「蒸餾服」回收太空人在太空中行走時的尿液</title>
+      <link>https://arstechnica.com/?p=2035963</link>
+      <description><![CDATA[原型將取代目前在太空行走時穿著的多層成人尿布。]]></description>
+      <guid>https://arstechnica.com/?p=2035963</guid>
+      <pubDate>Fri, 12 Jul 2024 04:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>尋找伴侶的獅子兄弟剛剛創造了已知游泳時間最長的記錄</title>
       <link>https://arstechnica.com/?p=2035440</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 11 Jul 2024 22:02:41 GMT</pubDate>
     </item>
     <item>
-      <title>首屆「人工智慧小姐」大賽因推行不切實際的美麗標準而引發憤怒</title>
+      <title>首屆「人工智慧小姐」大賽因推行不切實際的美容標準而引發憤怒</title>
       <link>https://arstechnica.com/?p=2036414</link>
       <description><![CDATA[影響者平台頗具爭議的競賽將獎品授予了三個不存在的人。]]></description>
       <guid>https://arstechnica.com/?p=2036414</guid>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 11 Jul 2024 17:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>在這些基本的視覺測試中，你能比頂級人工智慧模型做得更好嗎？</title>
+      <title>在這些基本的視力測試中，你能比頂級人工智慧模型做得更好嗎？</title>
       <link>https://arstechnica.com/?p=2036427</link>
       <description><![CDATA[對人類來說微不足道的抽象分析常常會阻礙 GPT-4o、Gemini 和 Sonnet。]]></description>
       <guid>https://arstechnica.com/?p=2036427</guid>
       <pubDate>Thu, 11 Jul 2024 16:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 調整 AMD 的 FSR，為手機和平板電腦帶來省電 GPU 升級</title>
-      <link>https://arstechnica.com/?p=2036378</link>
-      <description><![CDATA[Arm「精度超解析度」針對功耗和整合 GPU 進行了最佳化。]]></description>
-      <guid>https://arstechnica.com/?p=2036378</guid>
-      <pubDate>Thu, 11 Jul 2024 16:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
