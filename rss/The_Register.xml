@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 17:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:14:08 GMT</lastBuildDate>
+    <item>
+      <title>CISA闖入美國聯邦機構，整整5個月無人察覺</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/</link>
+      <description><![CDATA[紅隊演習揭示了一系列安全失敗 美國網路安全與基礎設施安全局(CISA) 表示，2023 年某未具名聯邦機構的紅隊演習暴露了一系列安全失敗，暴露了它最重要的資產。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/</guid>
+      <pubDate>Fri, 12 Jul 2024 18:01:08 GMT</pubDate>
+    </item>
     <item>
       <title>PowerToys 為 Windows 10 和 11 帶來有趣的調整</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/latest_powertoys_bring_run_fun/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果你想知道2024 年美國白宮競選進展如何，事情會是這樣的...... 佛羅裡達州男子唐納德·特朗普表示，如果再次當選美國總統，他將監禁“選舉欺詐者”——並直接向 Meta 老闆馬克·扎克伯格發出警告。或正如川普所說的 Zuckerbucks。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/trump_zuckerberg/</guid>
       <pubDate>Thu, 11 Jul 2024 19:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenSSH 錯誤讓 RHEL 9 和 RHELatives 容易受到攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/</link>
-      <description><![CDATA[新發現的缺陷影響OpenSSH 8.7 和8.8 守護程式 Openwall 的創始人在RHEL 9.x 和RHEL 9.x 中使用的核心sshd 守護程式中發現了新的訊號處理程序競爭條件它的各種分支......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openssh_bug_in_rhel_9/</guid>
-      <pubDate>Thu, 11 Jul 2024 19:13:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
