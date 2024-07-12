@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 12 Jul 2024 06:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 08:15:21 GMT</lastBuildDate>
+    <item>
+      <title>停止安裝軟體－你可能已經死了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/on_call/</link>
+      <description><![CDATA[它們被稱為角色扮演遊戲是有原因的...... 隨叫隨到 技術支援第一線的生活可能很艱難，這就是為什麼每週五The Register 都會為您帶來最新一期的On Call，這是我們的讀者投稿專欄，您可以在其中告訴您的同事您以工作的名義所忍受的一切。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/on_call/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:33:13 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 的中國主機僅使用 4% 的再生能源：綠色和平組織</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/greenpeace_china_clean_cloud_report/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>軟銀收購陷入困境的英國人工智慧晶片製造商 Graphcore</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/softbank_acquires_graphcore/</link>
-      <description><![CDATA[與 Arm 的組合潛力誘人 擁有 CPU 設計公司 Arm 的日本軟銀已收購英國晶片公司 Graphcore，收購金額不詳。]]></description>
+      <description><![CDATA[與 Arm 組合的潛力誘人 擁有 CPU 設計公司 Arm 的日本軟銀已收購英國晶片公司 Graphcore，收購金額不詳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/softbank_acquires_graphcore/</guid>
       <pubDate>Fri, 12 Jul 2024 02:29:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>拜登向汽車製造商投入 1.7B 美元，為衰落的工廠準備電動車生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/feds_award_17b_to_automakers/</link>
-      <description><![CDATA[Ice ICE，寶貝 拜登政府的電動車雄心再次得到推動，這次是提供17 億美元的公共資金，將11 家面臨風險和關閉的汽車製造廠轉變為電動汽車（電動車）工廠。 ...]]></description>
+      <description><![CDATA[Ice ICE，寶貝 拜登政府的電動車雄心再次得到推動，這次是以17 億美元公共資金的形式，將11 家面臨風險和關閉的汽車製造廠轉變為電動汽車（電動車）工廠。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/feds_award_17b_to_automakers/</guid>
       <pubDate>Thu, 11 Jul 2024 20:48:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[渣男瞄準了許多受害者 - 以及那些試圖幫助他們的人 一名曾經擔任隱私顧問的渣男因對超過十幾名受害者…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/cyberstalker_jailed/</guid>
       <pubDate>Thu, 11 Jul 2024 10:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 128 提高了舊盒子的系統需求</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/firefox_128_new_esr/</link>
-      <description><![CDATA[放心吧，它會存在一段時間 Firefox 128 的功能集相對適中，但它也將是最新的擴展支援版本 (ESR)，這意味著Firefox 115 的終結即將到來。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/firefox_128_new_esr/</guid>
-      <pubDate>Thu, 11 Jul 2024 09:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
