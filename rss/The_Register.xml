@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 11 Jul 2024 23:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 00:50:18 GMT</lastBuildDate>
+    <item>
+      <title>「毛茸茸的同性戀駭客」表示，他們在襲擊「2025 計畫」的傳統基金會後已解散</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/gay_furry_hackers_2025/</link>
+      <description><![CDATA[有趣的是，極端保守組織還沒有準備好轉過另一邊臉 在聲稱闖入了傳統基金會的數據庫，然後洩露了屬於極端保守智囊團的 2GB 文件之後，黑客組織SiegedSec 聲稱已經解散。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/gay_furry_hackers_2025/</guid>
+      <pubDate>Fri, 12 Jul 2024 00:22:14 GMT</pubDate>
+    </item>
     <item>
       <title>拜登向汽車製造商投入 1.7B 美元，為衰落的工廠準備電動車生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/feds_award_17b_to_automakers/</link>
@@ -111,9 +118,9 @@
       <pubDate>Thu, 11 Jul 2024 08:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>您花了一年的時間來修補這個 Veeam 缺陷，但現在它會帶來傷害</title>
+      <title>您花了一年的時間來修補這個 Veeam 缺陷 - 現在它會帶來更多傷害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</link>
-      <description><![CDATA[LockBit 變體針對備份軟體- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware的團夥，正在利用Veeam一年多前修復的漏洞，用於刪除文件加密惡意軟體、LockBit 變體，並勒索受害者付款。]]></description>
+      <description><![CDATA[LockBit 變體以備份軟體為目標- 您可能還記得它應該幫助您從勒索軟體中恢復 另一個新的勒索軟體團夥，這個被稱為EstateRansomware 的團夥，現在正在利用一個Veeam 漏洞已於一年多前修復，用於部署文件加密惡意軟體、LockBit 變體，並向受害者勒索付款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/</guid>
       <pubDate>Thu, 11 Jul 2024 07:28:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不同大小的免費儲存層可能會削弱陰天互通性的樂趣 Google和蘋果已經簽署了一個工具，他們的雲端照片儲存服務可以互通，但這可能會付出一定的代價一些用戶...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/apple_gogle_photo_cloud_interoperability/</guid>
       <pubDate>Thu, 11 Jul 2024 04:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國自製的openKylin作業系統為AI PC創造了切入點</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openkylin_os_aipc_edition/</link>
-      <description><![CDATA[以神獸命名的作業系統開發人員加入了「本土機型將帶來傳奇生產力」的比喻 中國已加入人工智慧PC 潮流，本土作業系統openKylin 背後的團隊創造了一個切入點其基於 Linux 的軟體可以在桌面上運行人工智慧模型。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/11/openkylin_os_aipc_edition/</guid>
-      <pubDate>Thu, 11 Jul 2024 02:29:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
