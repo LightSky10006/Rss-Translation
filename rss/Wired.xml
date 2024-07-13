@@ -4,7 +4,28 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 13 Jul 2024 10:34:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 11:09:57 GMT</lastBuildDate>
+    <item>
+      <title>目前 Amazon Prime 上的 35 部最佳節目（2024 年 7 月）</title>
+      <link>https://www.wired.com/story/best-shows-amazon-prime/</link>
+      <description><![CDATA[《男孩們》、《簡夫人》和《異塵餘生》只是您本週應該在 Amazon Prime Video 上觀看的幾部節目。]]></description>
+      <guid>https://www.wired.com/story/best-shows-amazon-prime/</guid>
+      <pubDate>Sat, 13 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國老化的大壩是一場即將發生的災難</title>
+      <link>https://www.wired.com/story/climate-change-failing-aging-dams-us-america-catastrophe/</link>
+      <description><![CDATA[隨著強降雨、洪水和其他形式的極端天氣變得更加普遍和嚴重，氣候變遷對全國近 92,000 座水壩構成了越來越大的威脅，其中許多水壩已有 100 多年的歷史。]]></description>
+      <guid>https://www.wired.com/story/climate-change-failing-aging-dams-us-america-catastrophe/</guid>
+      <pubDate>Sat, 13 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>間諜軟體用戶遭遇重大資料外洩</title>
+      <link>https://www.wired.com/story/spyware-users-exposed-data-breach/</link>
+      <description><![CDATA[另外：傳統基金會因「2025 計畫」而遭到駭客攻擊，一家汽車經銷商軟體供應商似乎已向勒索軟體集團支付了 2,500 萬美元，當局還破壞了俄羅斯的一個機器人農場。]]></description>
+      <guid>https://www.wired.com/story/spyware-users-exposed-data-breach/</guid>
+      <pubDate>Sat, 13 Jul 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>粘液的感覺是嚴肅的事情</title>
       <link>https://www.wired.com/story/slime-business-elmers-glue-sloomoo/</link>
@@ -99,7 +120,7 @@
     <item>
       <title>卡瑪拉·哈里斯陰謀就在這裡</title>
       <link>https://www.wired.com/story/kamala-harris-conspiracy-theories/</link>
-      <description><![CDATA[在猜測副總統卡瑪拉·哈里斯可能取代喬·拜登總統成為民主黨候選人後，極右翼分子已經開始散佈有關副總統卡馬拉·哈里斯的陰謀。]]></description>
+      <description><![CDATA[在猜測副總統卡馬拉·哈里斯可能取代喬·拜登總統成為民主黨候選人後，極右翼分子已經開始散佈有關副總統卡馬拉·哈里斯的陰謀。]]></description>
       <guid>https://www.wired.com/story/kamala-harris-conspiracy-theories/</guid>
       <pubDate>Thu, 11 Jul 2024 22:21:59 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[《龍之家》、《黑道家族》和《幻想曲》只是本月您需要在 Max 上觀看的幾個節目。]]></description>
       <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
       <pubDate>Thu, 11 Jul 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>西瓜紙杯蛋糕如何在 Meta 引發內部風暴</title>
-      <link>https://www.wired.com/story/meta-palestine-employees-watermelon-cupcakes-censorship/</link>
-      <description><![CDATA[Meta 的阿拉伯和穆斯林工人聲稱，該公司對加薩危機的反應是片面的、失控的。 「為這家公司工作讓我感到噁心，」一名員工說。]]></description>
-      <guid>https://www.wired.com/story/meta-palestine-employees-watermelon-cupcakes-censorship/</guid>
-      <pubDate>Thu, 11 Jul 2024 17:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>臭名昭著的駭客頭目「坦克」終於入獄了</title>
-      <link>https://www.wired.com/story/vyacheslav-igorevich-penchukov-tank-zeus-malware-sentencing/</link>
-      <description><![CDATA[這位網路犯罪頭目幫助領導了多產的 Zeus 惡意軟體團夥，多年來一直名列 FBI 的「頭號通緝犯」名單，他已被判處 18 年徒刑，並被責令支付超過 7,300 萬美元。]]></description>
-      <guid>https://www.wired.com/story/vyacheslav-igorevich-penchukov-tank-zeus-malware-sentencing/</guid>
-      <pubDate>Thu, 11 Jul 2024 16:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 正在測試其說服力</title>
-      <link>https://www.wired.com/story/thrive-ai-openai-artificial-intelligence-persuasion/</link>
-      <description><![CDATA[薩姆·奧爾特曼（Sam Altman）正在宣揚人工智慧影響人們行為的能力。他的公司也在應對風險。]]></description>
-      <guid>https://www.wired.com/story/thrive-ai-openai-artificial-intelligence-persuasion/</guid>
-      <pubDate>Thu, 11 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
