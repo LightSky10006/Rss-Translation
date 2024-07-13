@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 13 Jul 2024 07:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 15:10:31 GMT</lastBuildDate>
+    <item>
+      <title>三個字讓人脊背發涼：雪花。入侵。警報</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</link>
+      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們感到懷疑 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊新聞，安全，安全，安全。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</guid>
+      <pubDate>Sat, 13 Jul 2024 15:04:12 GMT</pubDate>
+    </item>
     <item>
       <title>遊戲開發者指控英特爾銷售「有缺陷」的 Raptor Lake CPU</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/game_raptor_intel/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與 Arm 組合的潛力誘人 擁有 CPU 設計公司 Arm 的日本軟銀已收購英國晶片公司 Graphcore，收購金額不詳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/softbank_acquires_graphcore/</guid>
       <pubDate>Fri, 12 Jul 2024 02:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國的 APT41 團隊在其工具箱中添加了隱密的惡意軟體載入程式和新的後門</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/china_apt41_malware/</link>
-      <description><![CDATA[來認識StealthVector 的兒子DodgeBox 根據雲端安全服務供應商Zscaler 的ThreatLabz 的說法，中國政府支持的網路間諜團夥APT41 很可能在其惡意軟體工具箱中加入了一個名為DodgeBox 的載入程式和一個名為MoonWalk 的後門研究團隊...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/china_apt41_malware/</guid>
-      <pubDate>Fri, 12 Jul 2024 01:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
