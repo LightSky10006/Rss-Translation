@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 12 Jul 2024 22:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 00:50:50 GMT</lastBuildDate>
+    <item>
+      <title>Google 讓使用者更輕鬆開啟進階帳戶保護</title>
+      <link>https://arstechnica.com/?p=2036985</link>
+      <description><![CDATA[現在，使用萬能鑰匙時，可以放寬對兩個實體鑰匙的嚴格要求。]]></description>
+      <guid>https://arstechnica.com/?p=2036985</guid>
+      <pubDate>Fri, 12 Jul 2024 22:45:25 GMT</pubDate>
+    </item>
     <item>
       <title>據報道 OpenAI 在「推理」人工智慧方面接近突破，揭示了進展框架</title>
       <link>https://arstechnica.com/?p=2036853</link>
@@ -36,7 +43,7 @@
     <item>
       <title>幾乎所有 AT&T 用戶的通話記錄在 Snowflake 雲端駭客攻擊中被盜</title>
       <link>https://arstechnica.com/?p=2036854</link>
-      <description><![CDATA[從雲端平台上的 AT&amp;T 工作區取得六個月的通話和簡訊記錄。]]></description>
+      <description><![CDATA[從 AT&amp;T 雲端平台工作區取得的六個月通話和簡訊記錄。]]></description>
       <guid>https://arstechnica.com/?p=2036854</guid>
       <pubDate>Fri, 12 Jul 2024 18:42:27 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[2008 年的《無敵浩克》中有不少熟悉的角色。]]></description>
       <guid>https://arstechnica.com/?p=2036757</guid>
       <pubDate>Fri, 12 Jul 2024 16:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arduino 的即插即用套件讓您的駭客想像盡情發揮，無需焊接</title>
-      <link>https://arstechnica.com/?p=2036761</link>
-      <description><![CDATA[將微型板透過菊花鏈連接到氣象站、遊戲控制器等。]]></description>
-      <guid>https://arstechnica.com/?p=2036761</guid>
-      <pubDate>Fri, 12 Jul 2024 15:56:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
