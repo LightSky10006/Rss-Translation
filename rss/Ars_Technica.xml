@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 13 Jul 2024 12:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 12:29:28 GMT</lastBuildDate>
+    <item>
+      <title>動物利用物理原理？我們來數一下方法</title>
+      <link>https://arstechnica.com/?p=2036947</link>
+      <description><![CDATA[貓扭轉，蛇滑動，利用和協商物理定律。]]></description>
+      <guid>https://arstechnica.com/?p=2036947</guid>
+      <pubDate>Sun, 14 Jul 2024 11:13:55 GMT</pubDate>
+    </item>
     <item>
       <title>在南方，海平面上升速度達到地球上最極端的水平</title>
       <link>https://arstechnica.com/?p=2036859</link>
@@ -57,7 +64,7 @@
     <item>
       <title>幾乎所有 AT&T 用戶的通話記錄在 Snowflake 雲端駭客攻擊中被盜</title>
       <link>https://arstechnica.com/?p=2036854</link>
-      <description><![CDATA[從雲端平台上的 AT&amp;T 工作區取得六個月的通話和簡訊記錄。]]></description>
+      <description><![CDATA[從 AT&amp;T 雲端平台工作區取得的六個月通話和簡訊記錄。]]></description>
       <guid>https://arstechnica.com/?p=2036854</guid>
       <pubDate>Fri, 12 Jul 2024 18:42:27 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[尼安德塔人的低多樣性意味著他們的人口比我們想像的還要少。]]></description>
       <guid>https://arstechnica.com/?p=2036663</guid>
       <pubDate>Fri, 12 Jul 2024 18:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>售價 500 美元的 Analogue Pocket 鋁製版本看起來像是 Game Boy 的最終版本</title>
-      <link>https://arstechnica.com/?p=2036791</link>
-      <description><![CDATA[其他 Pocket 迭代都堅持使用彩色（且更便宜）的塑膠。]]></description>
-      <guid>https://arstechnica.com/?p=2036791</guid>
-      <pubDate>Fri, 12 Jul 2024 16:55:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
