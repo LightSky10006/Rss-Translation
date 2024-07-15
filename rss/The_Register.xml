@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 05:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 06:41:36 GMT</lastBuildDate>
+    <item>
+      <title>您的下一個資料中心可能位於偏僻的地方</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/remote_datacenters_on_the_rise/</link>
+      <description><![CDATA[訓練 AI 模型不需要低延遲。它需要廉價的能源- 無論在哪裡都可以找到 特色 黑德蘭港是一個只有16,000 人的小鎮，位於澳大利亞西北部炎熱多塵的角落，距離市中心1,600 公里最近的大城市。因此，對於澳洲營運商 NEXTDC 營運的資料中心來說，這似乎是一個奇怪的地方。然而，鑑於對訓練人工智慧模型的運算能力的巨大需求，由於靠近能源，此類地點的需求越來越大。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/remote_datacenters_on_the_rise/</guid>
+      <pubDate>Mon, 15 Jul 2024 06:25:15 GMT</pubDate>
+    </item>
     <item>
       <title>中國的網路清理活動進展順利，需要進行新的活動來保護兒童</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/cac_summer_cleanup/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>三個字讓人脊背發涼：雪花。入侵。警報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</link>
-      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們持懷疑態度 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊天新聞，安全，安全，安全。]]></description>
+      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們感到懷疑 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊新聞，安全，安全，安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</guid>
       <pubDate>Sat, 13 Jul 2024 15:04:12 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>汽車經銷商軟體 slinger CDK Global 據稱在網路攻擊後支付了 2500 萬美元贖金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cdk_ransom_payout/</link>
-      <description><![CDATA[1.5 萬家經銷商遭受了估計超過6 億美元的損失 據報道，CDK Global 在其伺服器被嚴重勒索軟體癱瘓後支付了2500 萬美元的比特幣贖金。 .]]></description>
+      <description><![CDATA[15000 家經銷商遭受了估計超過6 億美元的損失 據報道，CDK Global 在其伺服器被嚴重勒索軟體癱瘓後支付了2500 萬美元的比特幣贖金。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cdk_ransom_payout/</guid>
       <pubDate>Fri, 12 Jul 2024 23:53:31 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>SpaceX 遭遇獵鷹 9 號飛行故障</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/spacex_suffers_an_inflight_falcon/</link>
-      <description><![CDATA[上級引擎遭遇快速意外拆卸，導致星鏈衛星太低 獵鷹 9 號上級引擎發生故障，導致一群星鏈衛星的飛行高度低於計劃，SpaceX 遭遇罕見故障軌道...]]></description>
+      <description><![CDATA[上級引擎遭遇快速計劃外拆卸，導致星鏈衛星過低 獵鷹 9 號上級引擎發生故障，導致一批星鏈衛星低於計劃，SpaceX 遭遇罕見故障軌道.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/spacex_suffers_an_inflight_falcon/</guid>
       <pubDate>Fri, 12 Jul 2024 12:00:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[好的，現在告訴我們為什麼這不是歐盟 DMA 違規 - 請求布魯塞爾的朋友 運行基於 Chromium 的瀏覽器，例如 Google Chrome 或 Microsoft Edge？當您造訪搜尋巨頭的某個網站時，它很可能會悄悄地告訴 Google 有關您 CPU 和 GPU 使用情況的所有資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/chromium_api_system_information/</guid>
       <pubDate>Fri, 12 Jul 2024 10:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 爭取開源社群的努力遭到冷淡回應</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/saps_bid_to_woo_open/</link>
-      <description><![CDATA[德國軟體巨頭表示開源是“創新的催化劑”，但不太可能發布專有代碼 SAP 將自己打造成一家開源友好公司的努力遭到了社區的一些懷疑，他認為這些項目很大程度上是基於這家德國軟體巨頭的利益。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/saps_bid_to_woo_open/</guid>
-      <pubDate>Fri, 12 Jul 2024 09:29:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
