@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 10:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 10:37:48 GMT</lastBuildDate>
     <item>
-      <title>聯想遭遇更高專利支出 雙方都稱勝利</title>
+      <title>日漸老化的開源社群需要新鮮血液</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</link>
+      <description><![CDATA[老科技人群的豐富經驗至關重要，但專案需要新的開發人員才能前進 意見 「青年與開源」小組在聯合國(UN) 開源項目辦公室(OSPO) 公益大會在曼哈頓聯合國大樓舉行。只有一個小問題。引用尼日利亞年輕開源專案經理 Ruth Ikegah 的話說，「我們這裡需要更多年輕人，因為我在這裡看到很多老人。」...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</guid>
+      <pubDate>Mon, 15 Jul 2024 10:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>聯想遭遇更高專利支出 雙方均稱勝利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/lenovo_hit_with_higher_patent/</link>
       <description><![CDATA[案件以美國無線IP 持有者InterDigital 持有的3G、4G 和5G 專利為中心 聯想聲稱在英國上訴法院的裁決中取得了某種勝利，該裁決增加了其欠美國專利持有者的金額InterDigital 在電信許可糾紛中 - 付款遠低於其可能必須支付的總額。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/lenovo_hit_with_higher_patent/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>三個字讓人脊背發涼：雪花。入侵。警報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</link>
-      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們持懷疑態度 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊天新聞，安全，安全，安全。]]></description>
+      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們感到懷疑 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊新聞，安全，安全，安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</guid>
       <pubDate>Sat, 13 Jul 2024 15:04:12 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>1.1 億 AT&T 客戶的通話和簡訊日誌從受感染的雲端儲存被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</link>
-      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據量很大，那麼您什麼也沒看到：最新的數據包括數據“幾乎所有」AT&amp;T 無線客戶以及由在AT&amp;T 網路上運行的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
+      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據很大，那麼您什麼也沒看到：最新的數據包括數據「幾乎所有」AT&amp;T 無線客戶以及由在AT&amp;T 網路上運作的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</guid>
       <pubDate>Fri, 12 Jul 2024 14:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟官員稱X的付費藍色支票欺騙用戶並違反法律</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/eu_officials_say_xs_paidfor/</link>
-      <description><![CDATA[初步調查結果還聲稱該平台不符合DSA 對透明度、研究訪問的要求 歐盟委員會表示，微博平台X（前身為Twitter）使用的藍色複選標記系統有效地欺騙了用戶，並且未能遵守新推出的數位服務法案 (DSA)。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/eu_officials_say_xs_paidfor/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:09:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
