@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 16:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 17:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Linux 核心 6.10 帶來了強大的硬體支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</link>
+      <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已經發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</guid>
+      <pubDate>Mon, 15 Jul 2024 16:49:15 GMT</pubDate>
+    </item>
     <item>
       <title>西南航空最新與Archer合作實現電動空中計程車夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</link>
-      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望能夠從電動汽車中分得一杯羹未來加州天空中的垂直起降（eVTOL）空中計程車行動*。]]></description>
+      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望這能讓他們在電動汽車領域分得一杯羹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</guid>
       <pubDate>Mon, 15 Jul 2024 16:06:44 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>AMD 透露 Zen 5 IPC 成長 16%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</link>
-      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 進一步研究了上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
+      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 提供了更仔細的研究上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</guid>
       <pubDate>Mon, 15 Jul 2024 13:00:05 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 15 Jul 2024 12:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>Atos 為救援計劃獲得資金，為日後的戰鬥而奮鬥</title>
+      <title>Atos 為救援計劃獲得資金，為新的一天而戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</link>
       <description><![CDATA[Demain est un autre jour 法國 IT 巨頭 Atos 透過與債權人簽署禁售協議為其救援計劃獲得資金，該公司的未來更加穩固，儘管重組仍需解決在某些條件下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 15 Jul 2024 10:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>聯想遭遇更高專利支出 雙方都稱勝利</title>
+      <title>聯想遭遇更高專利支出 雙方均稱勝利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/lenovo_hit_with_higher_patent/</link>
       <description><![CDATA[案件以美國無線IP 持有者InterDigital 持有的3G、4G 和5G 專利為中心 聯想聲稱在英國上訴法院的裁決中取得了某種勝利，該裁決增加了其欠美國專利持有者的金額InterDigital 在電信許可糾紛中 - 付款遠低於其可能必須支付的總額。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/lenovo_hit_with_higher_patent/</guid>
@@ -92,14 +99,14 @@
     <item>
       <title>嘿，微軟——「開發者、開發者、開發者」到底發生了什麼事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</link>
-      <description><![CDATA[嘿，這裡有一個想法...每次微軟傷害我們時都創建一個積分系統 意見 明年微軟將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
+      <description><![CDATA[嘿，這裡有一個想法...每次Microsoft 傷害我們時創建一個積分系統 意見 明年Microsoft 即將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</guid>
       <pubDate>Mon, 15 Jul 2024 08:30:10 GMT</pubDate>
     </item>
     <item>
       <title>RAM 盜賊之間沒有榮譽——但有時也有因果報應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</link>
-      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保了老闆也是如此 誰，我？   歡迎來到工作週，親愛的讀者，祝你好運，無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。]]></description>
+      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保老闆也是如此 誰，我？無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</guid>
       <pubDate>Mon, 15 Jul 2024 07:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：日本科學家鑑定出古代超新星； AWS否認中國陷入困境的謠言；等等 亞洲簡介 英國國家網路安全中心 (NCSC) 臨時執行長批評了中國的錯誤報告方式。 --#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/asia_technology_news_weekly_roundup/</guid>
       <pubDate>Mon, 15 Jul 2024 00:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>親愛的，我縮減了 LLM 學位！量化初學者指南及其測試</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/14/quantization_llm_feature/</link>
-      <description><![CDATA[請小心，不要剃掉太多的部分...眾所周知，這些東西會產生幻覺 動手如果您跳上 Hugging Face 並開始瀏覽通過大型語言模型，您很快就會注意到一個趨勢：大多數都是以Brain-float 精度的16 位浮點進行訓練的。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/14/quantization_llm_feature/</guid>
-      <pubDate>Sun, 14 Jul 2024 11:32:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
