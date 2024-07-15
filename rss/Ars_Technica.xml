@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 15 Jul 2024 15:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 16:40:55 GMT</lastBuildDate>
+    <item>
+      <title>PC模擬器登陸iOS，但蘋果的限制影響了效能</title>
+      <link>https://arstechnica.com/?p=2037072</link>
+      <description><![CDATA[UTM SE 缺乏 JIT 編譯，這意味著「SE 代表慢速版本」。]]></description>
+      <guid>https://arstechnica.com/?p=2037072</guid>
+      <pubDate>Mon, 15 Jul 2024 15:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國告訴世貿組織美國電動車補貼是不公平的貿易壁壘</title>
+      <link>https://arstechnica.com/?p=2037076</link>
+      <description><![CDATA[中國表示，只有北美製造的電動車才有資格獲得稅收抵免，這是不公平的。]]></description>
+      <guid>https://arstechnica.com/?p=2037076</guid>
+      <pubDate>Mon, 15 Jul 2024 15:32:58 GMT</pubDate>
+    </item>
     <item>
       <title>報告：Alphabet 接近以 230 億美元收購網路安全新創公司 Wiz</title>
       <link>https://arstechnica.com/?p=2037057</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[血液幹細胞正在被改造以保護它們免受致命療法的影響。]]></description>
       <guid>https://arstechnica.com/?p=2032102</guid>
       <pubDate>Mon, 15 Jul 2024 13:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>這是奧迪的下一代 A5——以及我們在美國買不到的所有東西</title>
-      <link>https://arstechnica.com/?p=2036784</link>
-      <description><![CDATA[距離燃燒結束還有 8 年多的時間，奧迪開發了一個新平台。]]></description>
-      <guid>https://arstechnica.com/?p=2036784</guid>
-      <pubDate>Mon, 15 Jul 2024 09:01:00 GMT</pubDate>
     </item>
     <item>
       <title>動物利用物理原理？我們來數一下方法</title>
@@ -64,16 +71,9 @@
     <item>
       <title>「超人」圍棋人工智慧仍然難以防禦這些簡單的漏洞</title>
       <link>https://arstechnica.com/?p=2036897</link>
-      <description><![CDATA[事實證明，堵塞「最壞情況」的演算法漏洞比預期更困難。]]></description>
+      <description><![CDATA[事實證明，堵塞「最壞情況」的演算法漏洞比預期的更加困難。]]></description>
       <guid>https://arstechnica.com/?p=2036897</guid>
       <pubDate>Fri, 12 Jul 2024 20:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>德國海軍仍在使用 8 吋軟盤，正在努力模擬替代品</title>
-      <link>https://arstechnica.com/?p=2036848</link>
-      <description><![CDATA[四艘勃蘭登堡級 F123 戰艦使用軟碟作為資料擷取系統。]]></description>
-      <guid>https://arstechnica.com/?p=2036848</guid>
-      <pubDate>Fri, 12 Jul 2024 19:59:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
