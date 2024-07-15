@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 18:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:39:03 GMT</lastBuildDate>
+    <item>
+      <title>網路中立性再次面臨危險：美國上訴法院維持 FCC 新規則</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/net_neutrality_fcc/</link>
+      <description><![CDATA[電信業上訴人表示，在Chevron 和Loper Bright 作出裁決後，「成功的可能性更加明顯」 聯邦通信委員會試圖重申網路中立規則已被美國第六巡迴上訴法院擱置，等待進一步審查。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/net_neutrality_fcc/</guid>
+      <pubDate>Mon, 15 Jul 2024 18:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>智慧型手機銷售反彈，小米緊追蘋果</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/smartphones_q2_analysts/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>Linux 核心 6.10 帶來了強大的硬體支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</link>
-      <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
+      <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已經發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</guid>
       <pubDate>Mon, 15 Jul 2024 16:49:15 GMT</pubDate>
     </item>
     <item>
       <title>西南航空最新與Archer合作實現電動空中計程車夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</link>
-      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望能夠從電動汽車中分得一杯羹未來加州天空中的垂直起降（eVTOL）空中計程車行動*。]]></description>
+      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望這能讓他們在電動汽車領域分得一杯羹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</guid>
       <pubDate>Mon, 15 Jul 2024 16:06:44 GMT</pubDate>
     </item>
     <item>
       <title>隨著人類在月球表面下尋找宜居的藏身之處，月球洞穴的證據出現了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/evidence_for_moon_caves_emerges/</link>
-      <description><![CDATA[熔岩管有望在未來的月球任務中提供庇護所 科學家們發現了月球上地下洞穴的證據，人類在執行地球天然衛星任務期間可能會使用這些洞穴作為庇護所。 ...]]></description>
+      <description><![CDATA[熔岩管有望在未來的月球任務中提供庇護 科學家們發現了月球上地下洞穴的證據，人類在執行地球天然衛星任務期間可能會使用這些洞穴作為庇護所。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/evidence_for_moon_caves_emerges/</guid>
       <pubDate>Mon, 15 Jul 2024 15:37:59 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>AMD 透露 Zen 5 IPC 成長 16%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</link>
-      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 進一步研究了上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
+      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 提供了更仔細的研究上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</guid>
       <pubDate>Mon, 15 Jul 2024 13:00:05 GMT</pubDate>
     </item>
@@ -76,14 +83,14 @@
       <pubDate>Mon, 15 Jul 2024 12:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>Atos 為救援計劃獲得資金，為日後的戰鬥而奮鬥</title>
+      <title>Atos 為救援計劃獲得資金，為新的一天而戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</link>
       <description><![CDATA[Demain est un autre jour 法國 IT 巨頭 Atos 透過與債權人簽署禁售協議為其救援計劃獲得資金，該公司的未來更加穩固，儘管重組仍需解決在某些條件下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</guid>
       <pubDate>Mon, 15 Jul 2024 12:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 上的新程式設計師編輯器 Zed 處於領先地位</title>
+      <title>Linux 上的新程式設計師編輯 Zed 處於領先地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</link>
       <description><![CDATA[Atom 開發人員的新專案獲得了第二個主機作業系統 Zed – 對不起，美國讀者，這是它的名字，而不是「Zee」 – 是一種新的編碼工具。直到最近，它只適用於 Mac，但現在不再是了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>日漸老化的開源社群需要新鮮血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</link>
-      <description><![CDATA[老科技人群的豐富經驗至關重要，但專案需要新的開發人員才能前進 意見 「青年與開源」小組在聯合國(UN) 開源項目辦公室(OSPO) 公益大會在曼哈頓聯合國大樓舉行。只有一個小問題。引用尼日利亞年輕開源專案經理 Ruth Ikegah 的話說，「我們這裡需要更多年輕人，因為我在這裡看到很多老人。」...]]></description>
+      <description><![CDATA[老科技人群的豐富經驗至關重要，但專案需要新的開發人員才能前進 意見 「青年與開源」小組在聯合國(UN) 開源項目辦公室(OSPO) 公益大會在曼哈頓聯合國大樓舉行。只有一個小問題。引用尼日利亞年輕開源專案經理 Ruth Ikegah 的話說，「我們這裡需要更多年輕人，因為我在這裡看到很多老年人。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</guid>
       <pubDate>Mon, 15 Jul 2024 10:28:09 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>嘿，微軟——「開發者、開發者、開發者」到底發生了什麼事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</link>
-      <description><![CDATA[嘿，這裡有一個想法...每次微軟傷害我們時都創建一個積分系統 意見 明年微軟將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
+      <description><![CDATA[嘿，這裡有一個想法...每次Microsoft 傷害我們時創建一個積分系統 意見 明年Microsoft 即將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</guid>
       <pubDate>Mon, 15 Jul 2024 08:30:10 GMT</pubDate>
     </item>
     <item>
       <title>RAM 盜賊之間沒有榮譽——但有時也有因果報應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</link>
-      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保了老闆也是如此 誰，我？   歡迎來到工作週，親愛的讀者，祝你好運，無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。]]></description>
+      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保老闆也是如此 誰，我？無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</guid>
       <pubDate>Mon, 15 Jul 2024 07:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[安全產業從來沒有一個明確的領導者 - 它會是巧克力工廠嗎？微軟、甲骨文、思科和SAP...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/google_wiz_acquisition/</guid>
       <pubDate>Mon, 15 Jul 2024 04:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我發現另一個 mSpy 漏洞：數百萬個追蹤軟體購買者被曝光</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/infosec_roundup/</link>
-      <description><![CDATA[另外：Velops 路由器喜歡明文；一切都是暗紋； Internet Explorer 從墳墓中復活，還有更多 資訊安全簡介 商業間諜軟體製造商mSpy 再次遭到破壞，可以從洩漏的記錄中識別出數百萬購買者的身分。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/infosec_roundup/</guid>
-      <pubDate>Mon, 15 Jul 2024 02:01:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
