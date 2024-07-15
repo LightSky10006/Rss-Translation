@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 10:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 11:35:02 GMT</lastBuildDate>
+    <item>
+      <title>Linux 上的新程式設計師編輯器 Zed 處於領先地位</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</link>
+      <description><![CDATA[Atom 開發人員的新專案獲得了第二個主機作業系統 Zed – 對不起，美國讀者，這是它的名字，而不是「Zee」 – 是一種新的編碼工具。直到最近，它只適用於 Mac，但現在不再是了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</guid>
+      <pubDate>Mon, 15 Jul 2024 11:12:08 GMT</pubDate>
+    </item>
     <item>
       <title>日漸老化的開源社群需要新鮮血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當然，由Nvidia GPU 提供支持，正如GPU 製造商的首席執行官談到巨型bitbarn“AI 工廠” HPE 將為日本AIST 研究機構建造一台超級計算機，使用數千個Nvidia 最新的H200 GPU 來支援研究中產生人工智慧的大型基礎模型。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/hpe_to_build_supercomputer_to/</guid>
       <pubDate>Fri, 12 Jul 2024 14:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>1.1 億 AT&T 客戶的通話和簡訊日誌從受感染的雲端儲存被盜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</link>
-      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據很大，那麼您什麼也沒看到：最新的數據包括數據「幾乎所有」AT&amp;T 無線客戶以及由在AT&amp;T 網路上運作的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:09:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
