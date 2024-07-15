@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 14 Jul 2024 12:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 09:33:50 GMT</lastBuildDate>
+    <item>
+      <title>這是奧迪的下一代 A5——以及我們在美國買不到的所有東西</title>
+      <link>https://arstechnica.com/?p=2036784</link>
+      <description><![CDATA[距離燃燒結束還有 8 年多的時間，奧迪開發了一個新平台。]]></description>
+      <guid>https://arstechnica.com/?p=2036784</guid>
+      <pubDate>Mon, 15 Jul 2024 09:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>動物利用物理原理？我們來數一下方法</title>
       <link>https://arstechnica.com/?p=2036947</link>
@@ -43,7 +50,7 @@
     <item>
       <title>「超人」圍棋人工智慧仍然難以防禦這些簡單的漏洞</title>
       <link>https://arstechnica.com/?p=2036897</link>
-      <description><![CDATA[事實證明，堵塞「最壞情況」的演算法漏洞比預期更困難。]]></description>
+      <description><![CDATA[事實證明，堵塞「最壞情況」的演算法漏洞比預期的更加困難。]]></description>
       <guid>https://arstechnica.com/?p=2036897</guid>
       <pubDate>Fri, 12 Jul 2024 20:20:31 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>幾乎所有 AT&T 用戶的通話記錄在 Snowflake 雲端駭客攻擊中被盜</title>
       <link>https://arstechnica.com/?p=2036854</link>
-      <description><![CDATA[從 AT&amp;T 雲端平台工作區取得的六個月通話和簡訊記錄。]]></description>
+      <description><![CDATA[從雲端平台上的 AT&amp;T 工作區取得六個月的通話和簡訊記錄。]]></description>
       <guid>https://arstechnica.com/?p=2036854</guid>
       <pubDate>Fri, 12 Jul 2024 18:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼安德塔人的遺傳多樣性大多來自現代人類</title>
-      <link>https://arstechnica.com/?p=2036663</link>
-      <description><![CDATA[尼安德塔人的低多樣性意味著他們的人口比我們想像的還要少。]]></description>
-      <guid>https://arstechnica.com/?p=2036663</guid>
-      <pubDate>Fri, 12 Jul 2024 18:34:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
