@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 07:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:38:00 GMT</lastBuildDate>
+    <item>
+      <title>嘿，微軟——「開發者、開發者、開發者」到底發生了什麼事？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</link>
+      <description><![CDATA[嘿，這裡有一個想法...每次Microsoft 傷害我們時創建一個積分系統 意見 明年Microsoft 即將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</guid>
+      <pubDate>Mon, 15 Jul 2024 08:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>RAM 盜賊之間沒有榮譽——但有時也有因果報應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>三個字讓人脊背發涼：雪花。入侵。警報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</link>
-      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們持懷疑態度 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊天新聞，安全，安全，安全。]]></description>
+      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們感到懷疑 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊新聞，安全，安全，安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</guid>
       <pubDate>Sat, 13 Jul 2024 15:04:12 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>1.1 億 AT&T 客戶的通話和簡訊日誌從受感染的雲端儲存被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</link>
-      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據量很大，那麼您什麼也沒看到：最新的數據包括數據“幾乎所有」AT&amp;T 無線客戶以及由在AT&amp;T 網路上運行的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
+      <description><![CDATA[雪花？ Snowflake AT&amp;T 承認網路攻擊者今年第二次獲取了其大量數據，如果您認為第一次獲取的數據很大，那麼您什麼也沒看到：最新的數據包括數據「幾乎所有」AT&amp;T 無線客戶以及由在AT&amp;T 網路上運作的行動虛擬網路營運商(MVNO) 提供服務的客戶。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/att_110_million_call_text_logs/</guid>
       <pubDate>Fri, 12 Jul 2024 14:09:27 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>SpaceX 遭遇獵鷹 9 號飛行故障</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/spacex_suffers_an_inflight_falcon/</link>
-      <description><![CDATA[上級引擎遭遇快速意外拆卸，導致星鏈衛星太低 獵鷹 9 號上級引擎發生故障，導致一群星鏈衛星的飛行高度低於計劃，SpaceX 遭遇罕見故障軌道...]]></description>
+      <description><![CDATA[上級引擎遭遇快速計劃外拆卸，導致星鏈衛星過低 獵鷹 9 號上級引擎發生故障，導致一批星鏈衛星低於計劃，SpaceX 遭遇罕見故障軌道.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/spacex_suffers_an_inflight_falcon/</guid>
       <pubDate>Fri, 12 Jul 2024 12:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>智慧型手機已經是許多人唯一的電腦——Android 15 Beta 中可選的桌面模式</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/android_15_beta_desktop/</link>
-      <description><![CDATA[未來的Android 可能會讓你將它們對接並將它們用作桌面- 作為標準 以前已經嘗試過不止一次，但如果它作為庫存功能出現，也許人們實際上會開始使用使用該功能。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/android_15_beta_desktop/</guid>
-      <pubDate>Fri, 12 Jul 2024 11:17:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
