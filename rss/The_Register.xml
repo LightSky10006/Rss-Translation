@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 00:52:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 02:04:53 GMT</lastBuildDate>
+    <item>
+      <title>我發現另一個 mSpy 漏洞：數百萬個追蹤軟體購買者被曝光</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/infosec_roundup/</link>
+      <description><![CDATA[另外：Velops 路由器喜歡明文；一切都是暗紋； Internet Explorer 從墳墓中復活，還有更多 資訊安全簡介 商業間諜軟體製造商mSpy 再次遭到破壞，可以從洩漏的記錄中識別出數百萬購買者的身分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/infosec_roundup/</guid>
+      <pubDate>Mon, 15 Jul 2024 02:01:14 GMT</pubDate>
+    </item>
     <item>
       <title>英國網路老闆抨擊中國的漏洞囤積法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/asia_technology_news_weekly_roundup/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>三個字讓人脊背發涼：雪花。入侵。警報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</link>
-      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們感到懷疑 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊新聞，安全，安全，安全。]]></description>
+      <description><![CDATA[人工智慧可以讓我們免於惡意軟體的禍害嗎？從理論上講，為什麼不呢，但在實踐中......讓我們持懷疑態度 Kettle  對於本週的Kettle 劇集，我們的記者像往常一樣聚在一起進行結束-每週聊天新聞，安全，安全，安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/13/snowflake_kettle/</guid>
       <pubDate>Sat, 13 Jul 2024 15:04:12 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>儘管缺少一些關鍵功能，新的 Outlook 仍將正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/new_outlook_set_for_ga/</link>
-      <description><![CDATA[Windows 版經典 Outlook 即將走到盡頭 新版 Microsoft Outlook 將於 8 月 1 日全面上市，並且 Microsoft 不會放棄放棄 COM（元件）物件模型）加載項...]]></description>
+      <description><![CDATA[Windows 版經典 Outlook 即將走到盡頭 新版 Microsoft Outlook 將於 8 月 1 日全面上市，並且 Microsoft 不會放棄放棄 COM（組件）物件模型）插件。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/new_outlook_set_for_ga/</guid>
       <pubDate>Fri, 12 Jul 2024 15:15:09 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>智慧型手機已經是許多人唯一的電腦——Android 15 Beta 中可選的桌面模式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/android_15_beta_desktop/</link>
-      <description><![CDATA[未來的Android 可能會讓你將它們對接並將它們用作桌面- 作為標準 以前已經嘗試過不止一次，但如果它作為庫存功能出現，也許人們實際上會開始使用使用該功能。]]></description>
+      <description><![CDATA[未來的Android 可能會讓您將它們對接並將它們用作桌面- 作為標準 以前已經多次嘗試過，但如果它作為庫存功能出現，也許人們實際上會開始使用使用該功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/android_15_beta_desktop/</guid>
       <pubDate>Fri, 12 Jul 2024 11:17:09 GMT</pubDate>
     </item>
     <item>
       <title>Google 可以完全解釋為什麼 Chromium 瀏覽器悄悄地只告訴其網站有關您的 CPU、GPU 使用情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/chromium_api_system_information/</link>
-      <description><![CDATA[好的，現在告訴我們為什麼這不是歐盟 DMA 違規 - 請求布魯塞爾的朋友 運行基於 Chromium 的瀏覽器，例如 Google Chrome 或 Microsoft Edge？當您造訪搜尋巨頭的某個網站時，它很可能會悄悄地告訴 Google 有關您 CPU 和 GPU 使用情況的所有資訊。]]></description>
+      <description><![CDATA[好的，現在告訴我們為什麼這不是歐盟 DMA 違規 - 請求布魯塞爾的朋友 運行基於 Chromium 的瀏覽器，例如 Google Chrome 或 Microsoft Edge？當您造訪搜尋巨頭的網站之一時，它很可能會悄悄地告訴 Google 有關您的 CPU 和 GPU 使用情況的所有資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/chromium_api_system_information/</guid>
       <pubDate>Fri, 12 Jul 2024 10:28:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[紅雲並不急於走向綠色 根據綠色和平組織的一項研究，中國主要的雲端運算和資料中心參與者並不急於走向綠色－這使得微軟與一家僅使用4.35 % 再生能源。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/greenpeace_china_clean_cloud_report/</guid>
       <pubDate>Fri, 12 Jul 2024 06:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>韓國訂購「星際大戰」雷射將北方無人機擊落</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/korea_star_wars/</link>
-      <description><![CDATA[古代武器無法與你身邊的優秀爆能槍相匹敵 韓國已開始嘗試使用激光從空中射擊無人機 - 並將其命名為“星球大戰項目”。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/korea_star_wars/</guid>
-      <pubDate>Fri, 12 Jul 2024 05:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
