@@ -4,16 +4,37 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 15 Jul 2024 12:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 13:15:41 GMT</lastBuildDate>
     <item>
-      <title>Atos 為救援計劃獲得資金，為新的一天而戰</title>
+      <title>AMD預測未來的AI PC將以每秒100個代幣的速度運行30B參數模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_ai_pc_goal/</link>
+      <description><![CDATA[他們需要大量的記憶體頻寬（更不用說容量了）才能做到這一點 分析 幾年內，AMD 預計將推出筆記型電腦能夠以每秒100個令牌的速度在本地運行300 億個參數的大型語言模型的晶片。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_ai_pc_goal/</guid>
+      <pubDate>Mon, 15 Jul 2024 13:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 透露 Zen 5 IPC 成長 16%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</link>
+      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 進一步研究了上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</guid>
+      <pubDate>Mon, 15 Jul 2024 13:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 的獵鷹異常可能對航太業產生嚴重影響</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/spacex_faa_probe/</link>
+      <description><![CDATA[馬斯克公司將與美國聯邦航空局合作，研究第二級洩漏液態氧的原因 SpaceX 已確認上週星鏈發射的有效載荷幾乎完全沖銷。然而，在當局調查這一事件時停止獵鷹 9 號發射可能會對航太工業產生重大影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/spacex_faa_probe/</guid>
+      <pubDate>Mon, 15 Jul 2024 12:51:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Atos 為救援計劃獲得資金，為日後的戰鬥而奮鬥</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</link>
       <description><![CDATA[Demain est un autre jour 法國 IT 巨頭 Atos 透過與債權人簽署禁售協議為其救援計劃獲得資金，該公司的未來更加穩固，儘管重組仍需解決在某些條件下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</guid>
       <pubDate>Mon, 15 Jul 2024 12:11:57 GMT</pubDate>
     </item>
     <item>
-      <title>Linux 上的新程式設計師編輯 Zed 處於領先地位</title>
+      <title>Linux 上的新程式設計師編輯器 Zed 處於領先地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</link>
       <description><![CDATA[Atom 開發人員的新專案獲得了第二個主機作業系統 Zed – 對不起，美國讀者，這是它的名字，而不是「Zee」 – 是一種新的編碼工具。直到最近，它只適用於 Mac，但現在不再是了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</guid>
@@ -22,7 +43,7 @@
     <item>
       <title>日漸老化的開源社群需要新鮮血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</link>
-      <description><![CDATA[老科技人群的豐富經驗至關重要，但專案需要新的開發人員才能前進 意見 「青年與開源」小組在聯合國(UN) 開源項目辦公室(OSPO) 公益大會在曼哈頓聯合國大樓舉行。只有一個小問題。引用尼日利亞年輕開源專案經理 Ruth Ikegah 的話說，「我們這裡需要更多年輕人，因為我在這裡看到很多老年人。」...]]></description>
+      <description><![CDATA[老科技人群的豐富經驗至關重要，但專案需要新的開發人員才能前進 意見 「青年與開源」小組在聯合國(UN) 開源項目辦公室(OSPO) 公益大會在曼哈頓聯合國大樓舉行。只有一個小問題。引用尼日利亞年輕開源專案經理 Ruth Ikegah 的話說，「我們這裡需要更多年輕人，因為我在這裡看到很多老人。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_open_source_attract_devs/</guid>
       <pubDate>Mon, 15 Jul 2024 10:28:09 GMT</pubDate>
     </item>
@@ -36,14 +57,14 @@
     <item>
       <title>嘿，微軟——「開發者、開發者、開發者」到底發生了什麼事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</link>
-      <description><![CDATA[嘿，這裡有一個想法...每次Microsoft 傷害我們時創建一個積分系統 意見 明年Microsoft 即將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
+      <description><![CDATA[嘿，這裡有一個想法...每次微軟傷害我們時都創建一個積分系統 意見 明年微軟將迎來50 歲生日，它可以滿意地回顧創造了通用企業計算的第一個時代，並成功搭上了第二個時代的順風車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/opinion_development_ms/</guid>
       <pubDate>Mon, 15 Jul 2024 08:30:10 GMT</pubDate>
     </item>
     <item>
       <title>RAM 盜賊之間沒有榮譽——但有時也有因果報應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</link>
-      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保老闆也是如此 誰，我？無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。 ... ]]></description>
+      <description><![CDATA[技術人員留下的隨地吐痰的籌碼確保了老闆也是如此 誰，我？   歡迎來到工作週，親愛的讀者，祝你好運，無論它帶來什麼 -我們希望透過新一期的《誰，我？ 》來闡明這一任務，這是一個由讀者投稿的專欄，您在其中分享自己不在最佳狀態但設法擺脫困境的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/who_me/</guid>
       <pubDate>Mon, 15 Jul 2024 07:30:10 GMT</pubDate>
     </item>
@@ -106,7 +127,7 @@
     <item>
       <title>汽車經銷商軟體 slinger CDK Global 據稱在網路攻擊後支付了 2500 萬美元贖金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cdk_ransom_payout/</link>
-      <description><![CDATA[1.5 萬家經銷商遭受了估計超過6 億美元的損失 據報道，CDK Global 在其伺服器被嚴重勒索軟體癱瘓後支付了2500 萬美元的比特幣贖金。 .]]></description>
+      <description><![CDATA[15000 家經銷商遭受了估計超過6 億美元的損失 據報道，CDK Global 在其伺服器被嚴重勒索軟體癱瘓後支付了2500 萬美元的比特幣贖金。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cdk_ransom_payout/</guid>
       <pubDate>Fri, 12 Jul 2024 23:53:31 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[紅隊演習揭示了一系列安全失敗 美國網路安全與基礎設施安全局(CISA) 表示，2023 年某未具名聯邦機構的紅隊演習暴露了一系列安全失敗，暴露了它最重要的資產。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/</guid>
       <pubDate>Fri, 12 Jul 2024 18:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerToys 為 Windows 10 和 11 帶來有趣的調整</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/latest_powertoys_bring_run_fun/</link>
-      <description><![CDATA[Mac 移民（如果有的話）會發現 Powertoys Run 異常熟悉 星期五 FOSS Fest  Microsoft 針對當前 Windows 版本的 Power Toys 集合有一些漂亮的小幫手，如果您更習慣macOS，那麼Power Run 可能會非常熟悉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/latest_powertoys_bring_run_fun/</guid>
-      <pubDate>Fri, 12 Jul 2024 16:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>IcedID 追隨者因濫用惡意軟體耗盡銀行帳戶資金而被判入獄九年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/icedid_henchman_gets_nine_years/</link>
-      <description><![CDATA[這位狡猾的烏克蘭公民除了入獄外，還必須支付高達7400 萬美元的罰款 一名逃避執法十年之久的烏克蘭惡意軟體頭目將因其在IcedID 中的角色而面臨九年監禁惡意軟體操作...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/icedid_henchman_gets_nine_years/</guid>
-      <pubDate>Fri, 12 Jul 2024 16:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管缺少一些關鍵功能，新的 Outlook 仍將正式發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/12/new_outlook_set_for_ga/</link>
-      <description><![CDATA[Windows 版經典 Outlook 即將走到盡頭 新版 Microsoft Outlook 將於 8 月 1 日全面上市，並且 Microsoft 不會放棄放棄 COM（元件）物件模型）加載項...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/12/new_outlook_set_for_ga/</guid>
-      <pubDate>Fri, 12 Jul 2024 15:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
