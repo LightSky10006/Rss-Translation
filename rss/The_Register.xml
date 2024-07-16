@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 16 Jul 2024 21:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 22:11:28 GMT</lastBuildDate>
+    <item>
+      <title>在一個 Prime Day 日，亞馬遜倉庫工人遭受了“45% 的受傷率”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/amazon_prime_day_2019_senate_committee_report/</link>
+      <description><![CDATA[伯尼桑德斯(Bernie Sanders) 因工作場所傷害而對電子市場巨頭發起攻擊 根據美國參議院委員會的一份報告，亞馬遜倉庫工人在黃金日和假日季節期間發生工作場所傷害的風險極高。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/amazon_prime_day_2019_senate_committee_report/</guid>
+      <pubDate>Tue, 16 Jul 2024 21:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>反壟斷：GoDaddy 因禁止 DNS 自動化工具轉而支持自己的工具而受到批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/godaddy_antitrust_violations/</link>
-      <description><![CDATA[網域巨頭在Entri Connect 斷開連接後被告上法庭 GoDaddy 正面臨反壟斷訴訟，原因是其聲稱不公平且暗中否決了一家較小公司的DNS 自動化工具，轉而支持自己明顯劣質的產品。 ...]]></description>
+      <description><![CDATA[網域巨頭在Entri Connect 斷開連接後被告上法庭 GoDaddy 正面臨反壟斷訴訟，指控其不公平且暗中否決了一家較小公司的DNS 自動化工具，轉而支持自己明顯劣質的產品。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/godaddy_antitrust_violations/</guid>
       <pubDate>Tue, 16 Jul 2024 20:45:15 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 16 Jul 2024 17:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>華為耗資數十億美元的上海研發中心奠基完畢</title>
+      <title>華為耗資數十億美元的上海研發中心奠基</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</link>
       <description><![CDATA[號稱自己是一座城市，旨在推進大型企業的 5G、雲和人工智慧技術的中心 華為在上海的大型研發中心終於建成 - 旨在給予美國制裁-在與國際競爭對手的競爭中，中國科技巨頭的表現將會提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>微軟將為Win 11引入檢查點累積更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</link>
-      <description><![CDATA[任務？為了減少補丁煉獄的時間 微軟正在再次嘗試透過 Windows 11 24H2 和 Windows Server 2025 的檢查點累積更新來對抗更新膨脹。]]></description>
+      <description><![CDATA[任務？為了減少補丁煉獄中的時間 微軟正在再次嘗試透過 Windows 11 24H2 和 Windows Server 2025 中的檢查點累積更新來對抗更新膨脹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</guid>
       <pubDate>Tue, 16 Jul 2024 14:14:12 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>英特爾的中國投資可能引發美國新的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</link>
-      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元來促進國內半導體生產。]]></description>
+      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元以促進國內半導體生產。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</guid>
       <pubDate>Tue, 16 Jul 2024 12:47:11 GMT</pubDate>
     </item>
@@ -99,14 +106,14 @@
     <item>
       <title>敏捷宣言合著者猛烈抨擊失敗率報告，談論「重新構想」項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/jon_kern/</link>
-      <description><![CDATA[Jon Kern 正在尋找敏捷範例，而不是「敏捷工業綜合體」 訪談 敏捷宣言發佈於近四分之一個世紀前。然而，隨著歲月的流逝，它的崇高理想已經一頭撞進了管理層對流程和報告的渴望的磚牆。]]></description>
+      <description><![CDATA[Jon Kern 正在尋找敏捷範例，而不是「敏捷工業綜合體」 訪談 敏捷宣言發佈於近四分之一個世紀前。然而，隨著歲月的流逝，它的崇高理想已經一頭撞進了管理層對流程和報告的渴望的磚牆。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/jon_kern/</guid>
       <pubDate>Tue, 16 Jul 2024 09:27:09 GMT</pubDate>
     </item>
     <item>
       <title>對遲發工資的教師感到冷淡的安慰，但 ERP 軟體的推出時間表“不切實際”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/18_months_late_and_68pc/</link>
-      <description><![CDATA[晚了18 個月，預算超支...報告發現，市議會的SAP ERP 被Unit4 徹底取代，隱藏著複雜性 英國公共機構負責約11 億英鎊（14.3 億美元）的年度支出據一份公開報告稱，由於低估了ERP 項目的複雜性並以“不切實際的15 個月的時間表”啟動，導致SAP 放棄了該項目並轉而採用Unit4，從而損害了其ERP 項目。]]></description>
+      <description><![CDATA[晚了18 個月，預算超支...報告發現，市議會的SAP ERP 被Unit4 徹底取代，隱藏著複雜性 英國公共機構負責約11 億英鎊（14.3 億美元）的年度支出根據一份公開報告，由於低估了ERP 項目的複雜性並以“不切實際的15 個月的時間表”啟動，導致SAP 放棄了該項目並轉而採用Unit4，從而損害了其ERP 項目。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/18_months_late_and_68pc/</guid>
       <pubDate>Tue, 16 Jul 2024 08:32:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐洲貿易機構厭倦了成為科技巨頭戰爭中的棋子 「我認為，這位女士抗議得太多」部門傳來消息稱，微軟並不是唯一的科技巨頭願意向歐洲雲端貿易機構提供現金。看來Google也渴望從中分一杯羹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_google_cispe/</guid>
       <pubDate>Tue, 16 Jul 2024 04:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI 取得川普集會槍手的手機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/fbi_access_trump_shooting_phone/</link>
-      <description><![CDATA[沒有透露它是如何做到的，但有形式破解設備 聯邦調查局週一透露，它已經獲得了一部手機的訪問權限，據稱該手機是托馬斯·馬修·克魯克斯（Thomas Matthew Crooks）開槍的人使用的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/fbi_access_trump_shooting_phone/</guid>
-      <pubDate>Tue, 16 Jul 2024 03:16:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
