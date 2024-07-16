@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 16 Jul 2024 08:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 09:34:16 GMT</lastBuildDate>
+    <item>
+      <title>敏捷宣言合著者猛烈抨擊失敗率報告，談論「重新構想」項目</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/jon_kern/</link>
+      <description><![CDATA[Jon Kern 正在尋找敏捷範例，而不是「敏捷工業綜合體」 訪談 敏捷宣言發佈於近四分之一個世紀前。然而，隨著歲月的流逝，它的崇高理想已經一頭撞進了管理層對流程和報告的渴望的磚牆。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/jon_kern/</guid>
+      <pubDate>Tue, 16 Jul 2024 09:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>對遲發工資的教師感到冷淡的安慰，但 ERP 軟體的推出時間表“不切實際”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/18_months_late_and_68pc/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[他們需要大量的記憶體頻寬（更不用說容量了）才能做到這一點 分析 幾年內，AMD 預計將推出筆記型電腦能夠以每秒100個令牌的速度在本地運行300 億參數大語言模型的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_ai_pc_goal/</guid>
       <pubDate>Mon, 15 Jul 2024 13:01:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 透露 Zen 5 IPC 成長 16%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</link>
-      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 提供了更仔細的研究上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</guid>
-      <pubDate>Mon, 15 Jul 2024 13:00:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
