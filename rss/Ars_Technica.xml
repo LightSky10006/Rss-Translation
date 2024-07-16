@@ -4,16 +4,44 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 16 Jul 2024 18:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 19:34:26 GMT</lastBuildDate>
+    <item>
+      <title>克雷格·賴特聲稱發明了比特幣，可能會因作偽證而被捕</title>
+      <link>https://arstechnica.com/?p=2037378</link>
+      <description><![CDATA[英國法官將賴特轉交給檢察官，建議發出逮捕令和引渡。]]></description>
+      <guid>https://arstechnica.com/?p=2037378</guid>
+      <pubDate>Tue, 16 Jul 2024 18:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 吹噓 Ryzen 9000 的效率，將 AM5 支援保證延長至 2027 年</title>
+      <link>https://arstechnica.com/?p=2037322</link>
+      <description><![CDATA[對於有興趣的人來說，Ryzen 9000 還將擁有更多的超頻空間。]]></description>
+      <guid>https://arstechnica.com/?p=2037322</guid>
+      <pubDate>Tue, 16 Jul 2024 18:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>地震資料顯示火星經常受到震動行星的隕石撞擊</title>
+      <link>https://arstechnica.com/?p=2037341</link>
+      <description><![CDATA[現在，地震資訊使我們能夠對全球範圍內的撞擊率進行估計。]]></description>
+      <guid>https://arstechnica.com/?p=2037341</guid>
+      <pubDate>Tue, 16 Jul 2024 18:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>《星際戰士 2》完整開發版本洩露，玩家已經升級</title>
+      <link>https://arstechnica.com/?p=2037313</link>
+      <description><![CDATA[開發人員取消了 Beta 測試，但無論如何可能已經進行了測試。]]></description>
+      <guid>https://arstechnica.com/?p=2037313</guid>
+      <pubDate>Tue, 16 Jul 2024 18:07:25 GMT</pubDate>
+    </item>
     <item>
       <title>報導稱，Google斥資 5 億美元破壞微軟歐盟雲端交易的努力失敗了</title>
       <link>https://arstechnica.com/?p=2037295</link>
-      <description><![CDATA[據報道，Google不希望微軟的反壟斷訴訟在歐盟被撤銷。]]></description>
+      <description><![CDATA[據報道，Google不希望微軟的反壟斷投訴在歐盟被撤銷。]]></description>
       <guid>https://arstechnica.com/?p=2037295</guid>
       <pubDate>Tue, 16 Jul 2024 16:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>2025 Lucid Air 是目前在銷售最高效的電動車</title>
+      <title>2025 Lucid Air 是目前販售最高效率的電動車</title>
       <link>https://arstechnica.com/?p=2037267</link>
       <description><![CDATA[標準熱泵使本來就高效的汽車變得更有效率。]]></description>
       <guid>https://arstechnica.com/?p=2037267</guid>
@@ -27,7 +55,7 @@
       <pubDate>Tue, 16 Jul 2024 14:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>保時捷推出兩款新車型，擴大 Macan EV 系列</title>
+      <title>保時捷推出兩款新車型擴大 Macan EV 系列</title>
       <link>https://arstechnica.com/?p=2037178</link>
       <description><![CDATA[入門級 Macan 起價為 75,300 美元，將於 2024 年第四季上市。]]></description>
       <guid>https://arstechnica.com/?p=2037178</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[SpaceX 表示，液態氧洩漏導致上週獵鷹 9 號發射失敗。]]></description>
       <guid>https://arstechnica.com/?p=2037241</guid>
       <pubDate>Mon, 15 Jul 2024 22:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果發布了除visionOS之外的所有下一代作業系統更新的公開測試版</title>
-      <link>https://arstechnica.com/?p=2037128</link>
-      <description><![CDATA[蘋果的公開測試版通常對於日常使用來說足夠穩定，但要小心。]]></description>
-      <guid>https://arstechnica.com/?p=2037128</guid>
-      <pubDate>Mon, 15 Jul 2024 20:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>唱片公司起訴 Verizon 未斷線盜版網路服務</title>
-      <link>https://arstechnica.com/?p=2037197</link>
-      <description><![CDATA[訴訟：4,450 份侵權通知中識別出一名使用者的 IP 位址。]]></description>
-      <guid>https://arstechnica.com/?p=2037197</guid>
-      <pubDate>Mon, 15 Jul 2024 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是虛假 AWS 檔案中精心隱藏的後門如何逃脫主流關注的案例</title>
-      <link>https://arstechnica.com/?p=2037194</link>
-      <description><![CDATA[開源 NPM 儲存庫上的可用檔案凸顯了其日益複雜的特性。]]></description>
-      <guid>https://arstechnica.com/?p=2037194</guid>
-      <pubDate>Mon, 15 Jul 2024 20:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>天基太陽能是否有意義？</title>
-      <link>https://arstechnica.com/?p=2037164</link>
-      <description><![CDATA[多年的討論現在已經轉向太空中的設計研究和硬體。]]></description>
-      <guid>https://arstechnica.com/?p=2037164</guid>
-      <pubDate>Mon, 15 Jul 2024 18:46:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
