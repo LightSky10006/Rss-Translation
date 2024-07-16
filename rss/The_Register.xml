@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 16 Jul 2024 13:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 14:35:34 GMT</lastBuildDate>
+    <item>
+      <title>微軟將為Win 11引入檢查點累積更新</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</link>
+      <description><![CDATA[任務？為了減少補丁煉獄中的時間 微軟正在再次嘗試透過 Windows 11 24H2 和 Windows Server 2025 中的檢查點累積更新來對抗更新膨脹。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</guid>
+      <pubDate>Tue, 16 Jul 2024 14:14:12 GMT</pubDate>
+    </item>
     <item>
       <title>Rite Aid 承認 220 萬人的資料被犯罪者竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/rite_aid_says_22_million/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</guid>
       <pubDate>Mon, 15 Jul 2024 16:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>西南航空最新與Archer合作實現電動空中計程車夢想</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</link>
-      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望能夠從電動汽車中分得一杯羹未來加州天空中的垂直起降（eVTOL）空中計程車行動*。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
