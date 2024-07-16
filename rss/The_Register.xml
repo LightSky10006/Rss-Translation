@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 16 Jul 2024 06:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:40:04 GMT</lastBuildDate>
+    <item>
+      <title>Big Music 重唱經典歌曲“ISP 需要阻止其客戶下載種子，否則我們將提起訴訟”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/big_music_vs_verizon_torrenting/</link>
+      <description><![CDATA[如果您認為您以前聽過此消息，請阻止我們：合法超級團體向Verizon 索要數十億美元 Big Music 發起了一項新訴訟，旨在迫使ISP 對交易被盜版權的使用者採取行動內容...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/big_music_vs_verizon_torrenting/</guid>
+      <pubDate>Tue, 16 Jul 2024 06:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>Yandex 出售了俄羅斯業務，現在普丁本身名為 Nebius Group</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/yandex_divests_russian_assets/</link>
-      <description><![CDATA[為期兩年的法律傳奇結束，荷蘭實體準備將Google 克隆推向世界 互聯網搜索提供商Yandex 宣布，已通過一筆54 億美元的交易將其荷蘭實體與其俄羅斯業務分開週一 - 這意味著它應該可以自由地追求弗拉基米爾普丁領域之外的客戶。]]></description>
+      <description><![CDATA[為期兩年的法律傳奇結束，總部位於荷蘭的實體準備將多樣化的人工智慧利益推向世界 Yandex 透過一筆價值54 億美元的交易，將其荷蘭實體與其俄羅斯業務、SaaS 和搜索業務分開來提供商於週一宣布——這意味著它應該可以自由地追求弗拉基米爾·普京領域之外的客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/yandex_divests_russian_assets/</guid>
       <pubDate>Tue, 16 Jul 2024 05:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟並不是 CISPE 的唯一追求者 - 谷歌似乎願意為其對雲端許可的觀點付出代價，以取得勝利</title>
+      <title>微軟並不是 CISPE 的唯一追求者——谷歌似乎願意為其對雲端授權的觀點付出代價，以取得勝利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_google_cispe/</link>
       <description><![CDATA[歐洲貿易機構厭倦了成為科技巨頭戰爭中的棋子 「我認為，這位女士抗議得太多」部門傳來消息稱，微軟並不是唯一的科技巨頭願意向歐洲雲端貿易機構提供現金。看來Google也渴望從中分一杯羹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_google_cispe/</guid>
@@ -50,14 +57,14 @@
     <item>
       <title>FTC 調查 IBM 以 6.4 億美元收購 HashiCorp</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/ftc_ibms_hashicorp/</link>
-      <description><![CDATA[雲端業務聲稱它正在全速前進 - 魚雷該死 根據向美國金融監管機構提交的文件，FTC 正在密切關注 IBM 收購 HashiCorp 的交易。]]></description>
+      <description><![CDATA[雲端業務聲稱它正在全速前進- 魚雷該死 根據向美國金融監管機構提交的一份文件，聯邦貿易委員會正在密切關注IBM 收購HashiCorp 的交易。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/ftc_ibms_hashicorp/</guid>
       <pubDate>Mon, 15 Jul 2024 19:20:13 GMT</pubDate>
     </item>
     <item>
       <title>網路中立性再次面臨危險：美國上訴法院擱置 FCC 重啟規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/net_neutrality_fcc/</link>
-      <description><![CDATA[感謝那些最高統治者，「成功的可能性更加明確」 聯邦通信委員會重申網路中立性規則的嘗試已被美國第六巡迴上訴法院擱置，等待進一步審查。 . ]]></description>
+      <description><![CDATA[感謝這些最高領導人，「成功的可能性更加明確」 聯邦通信委員會重申網路中立性規則的嘗試已被美國第六巡迴上訴法院擱置，等待進一步審查。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/net_neutrality_fcc/</guid>
       <pubDate>Mon, 15 Jul 2024 18:16:09 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>Linux 核心 6.10 帶來了強大的硬體支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</link>
-      <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
+      <description><![CDATA[另外：更廣泛的Rust 功能、更好的沙箱等等 最新的Linux 核心已經發布，新功能相對較少，但對多種硬體平台（包括非英特爾套件）的支援更好。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/linux_kernel_610_is_out/</guid>
       <pubDate>Mon, 15 Jul 2024 16:49:15 GMT</pubDate>
     </item>
     <item>
       <title>西南航空最新與Archer合作實現電動空中計程車夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</link>
-      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望能夠從電動汽車中分得一杯羹未來加州天空中的垂直起降（eVTOL）空中計程車行動*。]]></description>
+      <description><![CDATA[你必須為未來做好計劃，但我們距離獲得飛行執照還很遠 西南航空和阿徹航空已經達成了一項初步協議，雙方希望這能讓他們在電動汽車領域分得一杯羹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/southwest_airtaxi_dream/</guid>
       <pubDate>Mon, 15 Jul 2024 16:06:44 GMT</pubDate>
     </item>
@@ -113,37 +120,30 @@
     <item>
       <title>AMD預測未來的AI PC將以每秒100個代幣的速度運行30B參數模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_ai_pc_goal/</link>
-      <description><![CDATA[他們需要大量的記憶體頻寬（更不用說容量了）才能做到這一點 分析 幾年內，AMD 預計將推出筆記型電腦能夠以每秒100個令牌的速度本地運行300 億參數大語言模型的晶片。]]></description>
+      <description><![CDATA[他們需要大量的記憶體頻寬（更不用說容量了）才能做到這一點 分析 幾年內，AMD 預計將推出筆記型電腦能夠以每秒100個令牌的速度在本地運行300 億參數大語言模型的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_ai_pc_goal/</guid>
       <pubDate>Mon, 15 Jul 2024 13:01:39 GMT</pubDate>
     </item>
     <item>
       <title>AMD 透露 Zen 5 IPC 成長 16%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</link>
-      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 進一步研究了上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
+      <description><![CDATA[更寬的前端和執行引擎滿足更高的頻寬後端和真正的AVX-512 實現 隨著首款Zen 5 CPU 和SoC 將於本月晚些時候發貨， AMD 提供了更仔細的研究上週在洛杉磯舉行的技術日活動期間，架構改進使該平台的每時脈指令數 (IPC) 提高了 16%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/amd_spills_the_beans_on/</guid>
       <pubDate>Mon, 15 Jul 2024 13:00:05 GMT</pubDate>
     </item>
     <item>
       <title>SpaceX 的獵鷹異常可能對航太業產生嚴重影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/spacex_faa_probe/</link>
-      <description><![CDATA[馬斯克公司將與美國聯邦航空局合作研究第二級洩漏液態氧的原因 評論  SpaceX 已確認上周星鏈發射的有效載荷幾乎完全沖銷。然而，在當局調查這一事件時停止獵鷹 9 號發射可能會對航太工業產生重大影響。]]></description>
+      <description><![CDATA[馬斯克公司將與美國聯邦航空管理局合作研究第二級洩漏液態氧的原因 評論  SpaceX 已確認上周星鏈發射的有效載荷幾乎完全沖銷。然而，在當局調查這一事件時停止獵鷹 9 號發射可能會對航太工業產生重大影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/spacex_faa_probe/</guid>
       <pubDate>Mon, 15 Jul 2024 12:51:47 GMT</pubDate>
     </item>
     <item>
-      <title>Atos 為救援計劃獲得資金，為日後的戰鬥而奮鬥</title>
+      <title>Atos 為救援計劃獲得資金，為新的一天而戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</link>
       <description><![CDATA[Demain est un autre jour 法國 IT 巨頭 Atos 透過與債權人簽署禁售協議為其救援計劃獲得資金，該公司的未來更加穩固，儘管重組仍需解決在某些條件下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/atos_secures_funding_for_rescue/</guid>
       <pubDate>Mon, 15 Jul 2024 12:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 上的新程式設計師編輯器 Zed 處於領先地位</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</link>
-      <description><![CDATA[Atom 開發人員的新專案獲得了第二個主機作業系統 Zed – 對不起，美國讀者，這是它的名字，而不是「Zee」 – 是一種新的編碼工具。直到最近，它只適用於 Mac，但現在不再是了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/15/zed_editor_arrives_on_linux/</guid>
-      <pubDate>Mon, 15 Jul 2024 11:12:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
