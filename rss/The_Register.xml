@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 17 Jul 2024 08:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 08:37:22 GMT</lastBuildDate>
+    <item>
+      <title>全新平台上的 Windows NT：PowerMac</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/</link>
+      <description><![CDATA[有 G3 iMac 嗎？想要運行 NT？現在您可以了！  曾經想在老式 PowerPC Macintosh 上執行 Windows NT 嗎？不，我也一樣，但現在由於一些令人驚嘆的 FOSS 工作，這成為可能。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/</guid>
+      <pubDate>Wed, 17 Jul 2024 08:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>英國高等法院判決後克雷格賴特承認他不是比特幣的發明者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/craig_wright_isnt_bitcoins_satoshi_nakamoto/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>由於馬斯克「調整」設計，特斯拉推遲了「Robotaxi」活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</link>
-      <description><![CDATA[目前有幾款車型因有缺陷而被烘烤，所以仔細檢查表格也許不是一個壞主意 在公司老闆 Elon Musk 決定車輛前部需要一個調整... ]]></description>
+      <description><![CDATA[目前有幾款車型因有缺陷而被烘烤，所以雙重檢查表格也許不是一個壞主意 在公司老闆 Elon Musk 決定車輛前部需要一個調整... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</guid>
       <pubDate>Tue, 16 Jul 2024 12:05:36 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此舉是繼Instagram 和Facebook 巨頭在抗議後決定在歐盟改變方向 英國數據權利運動組織已向數據法監管機構提出投訴，反對Meta 改變隱私政策，這使得它能夠從使用者資料開發人工智慧模型......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/campaign_group_complains_to_uk/</guid>
       <pubDate>Tue, 16 Jul 2024 11:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些資料庫專家表示，最新的 MySQL 版本並不令人印象深刻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/mysql_9_underwhelms_community/</link>
-      <description><![CDATA[分析師認為，甲骨文的優先事項可能在其他地方，但說所有創新都可以進入社群版是不公平的 MySQL 的最新版本讓一些擔心開源守護者甲骨文的評論家感到失望資料庫 - 可能有其他優先事項。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/mysql_9_underwhelms_community/</guid>
-      <pubDate>Tue, 16 Jul 2024 10:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
