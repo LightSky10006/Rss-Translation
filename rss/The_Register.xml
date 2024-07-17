@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 16 Jul 2024 22:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 00:51:50 GMT</lastBuildDate>
+    <item>
+      <title>伊朗的 MuddyWater 透過客製化的 BugSleep 後門對以色列組織進行網路釣魚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</link>
+      <description><![CDATA[印度、土耳其也成為依賴企業電子郵件洩露的活動的目標 伊朗政府支持的網路間諜組織 MuddyWater 已使用自訂後門升級了其惡意軟體，該後門用於攻擊目標以色列組織......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</guid>
+      <pubDate>Wed, 17 Jul 2024 00:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>在一個 Prime Day 日，亞馬遜倉庫工人遭受了“45% 的受傷率”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/amazon_prime_day_2019_senate_committee_report/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 16 Jul 2024 19:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>網路犯罪超級集團「分散蜘蛛」愛上了 RansomHub 和 Qilin</title>
+      <title>網路犯罪超級集團《分散蜘蛛》愛上了 RansomHub 和 Qilin</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/scattered_spider_ransom/</link>
       <description><![CDATA[勒索者在競爭對手爬進木結構後懸而未決 The Scattered Spider 網路犯罪組織現在在其攻擊中使用RansomHub 和Qilin 勒索軟體變體，這說明駭客組織之間可能存在權力轉移。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/scattered_spider_ransom/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>英特爾的中國投資可能引發美國新的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</link>
-      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元以促進國內半導體生產。]]></description>
+      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元來促進國內半導體生產。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</guid>
       <pubDate>Tue, 16 Jul 2024 12:47:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[為期兩年的法律傳奇結束，總部位於荷蘭的實體準備將多樣化的人工智慧利益推向世界 Yandex 透過一筆價值54 億美元的交易，將其荷蘭實體與其俄羅斯業務、SaaS 和搜索業務分開來提供商於週一宣布——這意味著它應該可以自由地追求弗拉基米爾·普京領域之外的客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/yandex_divests_russian_assets/</guid>
       <pubDate>Tue, 16 Jul 2024 05:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟並不是 CISPE 的唯一追求者——谷歌似乎願意為其對雲端授權的觀點付出代價，以取得勝利</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_google_cispe/</link>
-      <description><![CDATA[歐洲貿易機構厭倦了成為科技巨頭戰爭中的棋子 「我認為，這位女士抗議得太多」部門傳來消息稱，微軟並不是唯一的科技巨頭願意向歐洲雲端貿易機構提供現金。看來Google也渴望從中分一杯羹。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_google_cispe/</guid>
-      <pubDate>Tue, 16 Jul 2024 04:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
