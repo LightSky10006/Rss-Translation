@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 17 Jul 2024 17:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 18:14:46 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 問 FAA：“我們可以再次發射火箭嗎？”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/spacex_ask_faa_rocket_launch/</link>
+      <description><![CDATA[公司渴望在調查完成之前重新啟動 在其中一枚火箭上週發生上級故障，迫使其放棄後，SpaceX 希望重新啟動獵鷹 9 號火箭其衛星處於低於計劃的軌道。它已請求美國聯邦航空管理局（FAA）做出公共安全決定，以允許其返回航班。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/spacex_ask_faa_rocket_launch/</guid>
+      <pubDate>Wed, 17 Jul 2024 17:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>輕型太陽能飛行機器人即將到來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/lightweight_solarpowered_flying_robots_are/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Entri Connect 斷開連接後，網域巨頭被告上法庭 已更新 GoDaddy 正面臨反壟斷訴訟，稱其不公平且暗中否決了一家規模較小公司的DNS 自動化工具，轉而支援它自己的明顯劣質產品。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/godaddy_antitrust_violations/</guid>
       <pubDate>Tue, 16 Jul 2024 20:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道電子表格需要什麼嗎？微軟表示，法學碩士</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/</link>
-      <description><![CDATA[非常好，史密瑟斯，我們解僱會計了嗎？執行資料管理和分析任務，因為為什麼不呢？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_research_llms_grok_spreadsheets/</guid>
-      <pubDate>Tue, 16 Jul 2024 19:35:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
