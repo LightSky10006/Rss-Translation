@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 17 Jul 2024 09:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 11:10:07 GMT</lastBuildDate>
+    <item>
+      <title>將 Windows 95 開始功能表移植到 NT</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/porting_the_windows_95_start/</link>
+      <description><![CDATA[使用座標轉換運行和非同步程式碼的陷阱 還記得 Windows 開始功能表還是純粹的東西嗎？前 Microsoft 工程師 Dave Plummer 分享了他在將 Windows 95 的標誌性部分帶入 Windows NT 世界中所扮演的角色。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/porting_the_windows_95_start/</guid>
+      <pubDate>Wed, 17 Jul 2024 10:37:13 GMT</pubDate>
+    </item>
     <item>
       <title>GNOME 負責人 Holly Million 辭職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/gnome_boss_steps_down/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元來促進國內半導體生產。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</guid>
       <pubDate>Tue, 16 Jul 2024 12:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於馬斯克「調整」設計，特斯拉推遲了「Robotaxi」活動</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</link>
-      <description><![CDATA[目前有幾款車型因有缺陷而被烘烤，所以仔細檢查表格也許不是一個壞主意 在公司老闆 Elon Musk 決定車輛前部需要一個調整... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</guid>
-      <pubDate>Tue, 16 Jul 2024 12:05:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
