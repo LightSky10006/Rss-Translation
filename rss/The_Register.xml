@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 17 Jul 2024 08:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 09:35:40 GMT</lastBuildDate>
+    <item>
+      <title>GNOME 負責人 Holly Million 辭職</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/gnome_boss_steps_down/</link>
+      <description><![CDATA[世界上最賺錢的 Linux 公司桌面環境背後的非營利組織將再次尋找資金 GNOME 基金會的執行董事在擔任該職位不到一年後辭職。 p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/gnome_boss_steps_down/</guid>
+      <pubDate>Wed, 17 Jul 2024 09:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>全新平台上的 Windows NT：PowerMac</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/</link>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 17 Jul 2024 01:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗的 MuddyWater 透過客製化的 BugSleep 後門對以色列組織進行網路釣魚</title>
+      <title>伊朗的 MuddyWater 透過定制的 BugSleep 後門對以色列組織進行網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</link>
       <description><![CDATA[印度、土耳其也成為依賴企業電子郵件洩露的活動的目標 伊朗政府支持的網路間諜組織 MuddyWater 已使用自訂後門升級了其惡意軟體，該後門用於攻擊目標以色列組織......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>反壟斷：GoDaddy 因禁止 DNS 自動化工具轉而支持自己的工具而受到批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/godaddy_antitrust_violations/</link>
-      <description><![CDATA[網域巨頭在Entri Connect 斷開連接後被告上法庭 GoDaddy 正面臨反壟斷訴訟，指控其不公平且暗中否決了一家較小公司的DNS 自動化工具，轉而支持自己明顯劣質的產品。 ...]]></description>
+      <description><![CDATA[網域巨頭在Entri Connect 斷開連接後被告上法庭 GoDaddy 正面臨反壟斷訴訟，原因是其聲稱不公平且暗中否決了一家較小公司的DNS 自動化工具，轉而支持自己明顯劣質的產品。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/godaddy_antitrust_violations/</guid>
       <pubDate>Tue, 16 Jul 2024 20:45:15 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 16 Jul 2024 17:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>華為耗資數十億美元的上海研發中心奠基</title>
+      <title>華為耗資數十億美元的上海研發中心奠基完畢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</link>
       <description><![CDATA[號稱自己是一座城市，旨在推進大型企業的 5G、雲和人工智慧技術的中心 華為在上海的大型研發中心終於建成 - 旨在給予美國制裁-在與國際競爭對手的競爭中，中國科技巨頭的表現將會提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>微軟將為Win 11引入檢查點累積更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</link>
-      <description><![CDATA[任務？為了減少補丁煉獄中的時間 微軟正在再次嘗試透過 Windows 11 24H2 和 Windows Server 2025 中的檢查點累積更新來對抗更新膨脹。]]></description>
+      <description><![CDATA[任務？為了減少補丁煉獄的時間 微軟正在再次嘗試透過 Windows 11 24H2 和 Windows Server 2025 的檢查點累積更新來對抗更新膨脹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/microsoft_introduces_checkpoint_cumulative_updates/</guid>
       <pubDate>Tue, 16 Jul 2024 14:14:12 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>英特爾的中國投資可能引發美國新的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</link>
-      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元以促進國內半導體生產。]]></description>
+      <description><![CDATA[到目前為止，美國對本土公司是否太寬鬆了？的權益去中國科技公司。該晶片製造商是最大的此類投資者之一，儘管從華盛頓獲得了數十億美元來促進國內半導體生產。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/intels_china_investments_may_have/</guid>
       <pubDate>Tue, 16 Jul 2024 12:47:11 GMT</pubDate>
     </item>
     <item>
       <title>由於馬斯克「調整」設計，特斯拉推遲了「Robotaxi」活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</link>
-      <description><![CDATA[目前有幾款車型因有缺陷而被烘烤，所以雙重檢查表格也許不是一個壞主意 在公司老闆 Elon Musk 決定車輛前部需要一個調整... ]]></description>
+      <description><![CDATA[目前有幾款車型因有缺陷而被烘烤，所以仔細檢查表格也許不是一個壞主意 在公司老闆 Elon Musk 決定車輛前部需要一個調整... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/tesla_robotaxi_event_has_been/</guid>
       <pubDate>Tue, 16 Jul 2024 12:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>隱私權衛士向英國監管機構抱怨 Meta 收集用戶資料來訓練人工智慧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/campaign_group_complains_to_uk/</link>
-      <description><![CDATA[此舉是繼Instagram 和Facebook 巨頭在抗議後決定在歐盟改變方向 英國數據權利運動組織已向數據法監管機構提出投訴，反對Meta 改變隱私政策，這使得它能夠從使用者資料開發人工智慧模型......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/campaign_group_complains_to_uk/</guid>
-      <pubDate>Tue, 16 Jul 2024 11:25:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
