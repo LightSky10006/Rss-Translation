@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 17 Jul 2024 14:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 14:36:55 GMT</lastBuildDate>
+    <item>
+      <title>自由和開源軟體資金從歐盟 2025 年地平線計畫中消失</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/</link>
+      <description><![CDATA[OW2 執行長Pierre-Yves Gibello 表示，取消大多數下一代網路資金「令人難以理解」 歐盟Horizo​​​​n 計畫下的自由開源軟體(FOSS) 計畫的資金大部分已從明年的計劃中消失。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/</guid>
+      <pubDate>Wed, 17 Jul 2024 14:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟在和解協議中到底向 CISPE 承諾了什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/what_did_microsoft_promise_cispe/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>倫敦議會指責監管機構「誇大」了 2020 年居民資料突襲的危險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/londons_hackney_council_accuses_the/</link>
-      <description><![CDATA[你逃脫了巨額罰款！贏得勝利並逃跑，不是嗎？  倫敦內城區哈克尼表示，英國資料保護監管機構誤解並「誇大」了 2020 年勒索軟體攻擊其係統的細節。 &gt;]]></description>
+      <description><![CDATA[你逃脫了巨額罰款！贏得勝利並逃跑，不是嗎？ &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/londons_hackney_council_accuses_the/</guid>
       <pubDate>Wed, 17 Jul 2024 11:45:06 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 17 Jul 2024 01:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗的 MuddyWater 透過定制的 BugSleep 後門對以色列組織進行網路釣魚</title>
+      <title>伊朗的 MuddyWater 透過客製化的 BugSleep 後門對以色列組織進行網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</link>
       <description><![CDATA[印度、土耳其也成為依賴企業電子郵件洩露的活動的目標 伊朗政府支持的網路間諜組織 MuddyWater 已使用自訂後門升級了其惡意軟體，該後門用於攻擊目標以色列組織......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 16 Jul 2024 17:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>華為耗資數十億美元的上海研發中心奠基完畢</title>
+      <title>華為耗資數十億美元的上海研發中心奠基</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</link>
       <description><![CDATA[號稱自己是一座城市，旨在推進大型企業的 5G、雲和人工智慧技術的中心 華為在上海的大型研發中心終於建成 - 旨在給予美國制裁-在與國際競爭對手的競爭中，中國科技巨頭的表現將會提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/huaweis_billiondollar_shanghai_rd_complex/</guid>
       <pubDate>Tue, 16 Jul 2024 16:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於「變革疲勞」持續存在，Gartner 下調了全球 IT 支出成長預測</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/16/gartner_nudges_down_global_it/</link>
-      <description><![CDATA[同時，由於用戶尚未看到價值，軟體供應商還要繳納 GenAI「稅」 Gartner 將 2024 年全球 IT 支出的預期成長從 8% 下調至 7.5%，其中目前預計總額將達到5.26 兆美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/16/gartner_nudges_down_global_it/</guid>
-      <pubDate>Tue, 16 Jul 2024 15:43:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
