@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 06:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 07:34:41 GMT</lastBuildDate>
+    <item>
+      <title>大約有一半的公司會跳過主要應用程式更新的安全性審查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/security_review_failure/</link>
+      <description><![CDATA[複雜、昂貴、耗時- 選擇三個 根據技術經理的民意調查，網路安全人員僅在54% 的時間內審查軟體應用程式的主要更新。 p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/security_review_failure/</guid>
+      <pubDate>Thu, 18 Jul 2024 07:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>半導體股價暴跌——可能要歸功於拜登和川普</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/semiconductor_shares_slump_us_politics/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[作為世界上最賺錢的Linux 發行版製造商的桌面環境背後的非營利組織，四處尋找現金 GNOME 基金會的執行董事在擔任該職位不到一年後就辭職了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/gnome_boss_steps_down/</guid>
       <pubDate>Wed, 17 Jul 2024 09:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>全新平台上的 Windows NT：PowerMac</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/</link>
-      <description><![CDATA[有 G3 iMac 嗎？想要運行 NT？現在您可以了！  曾經想在老式 PowerPC Macintosh 上執行 Windows NT 嗎？不，我也一樣，但現在由於一些令人驚嘆的 FOSS 工作，這成為可能。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/windows_nt_on_powermac_g3/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:34:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
