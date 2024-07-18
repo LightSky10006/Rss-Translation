@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 21:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 21:35:11 GMT</lastBuildDate>
     <item>
       <title>法官將 SEC 針對 SolarWinds 的訴訟大部分拖入回收站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sec_solarwinds_lawsuit/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>Pi 去 spaaaaace...比計劃的時間長一點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</link>
-      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
+      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周之後，兩者都應該運行在與阿麗亞娜 6 號的上部級一起重新進入大氣層時已被燒毀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
       <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>特斯拉在歐盟的銷售和市場份額下降，而其他電動車製造商卻在成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</link>
-      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降英國今年也一樣。 ...]]></description>
+      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降今年英國也一樣。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</guid>
       <pubDate>Thu, 18 Jul 2024 15:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的下一個 Linux 驅動程式...同樣開放</title>
+      <title>Nvidia 的下一個 Linux 驅動程式將...同樣開放</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</link>
       <description><![CDATA[Big Green 的軟體仍然很棘手，但Fedora 和AMD 正在尋找應對方法 Nvidia 表示，其即將發布的560 驅動程式將像515 和555 版本一樣開放，並將支援更多設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
-      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
+      <description><![CDATA[您需要修補此漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
       <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
     </item>
