@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 14:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 15:12:47 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 的下一個 Linux 驅動程式將...同樣開放</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</link>
+      <description><![CDATA[Big Green 的軟體仍然很棘手，但Fedora 和AMD 正在尋找應對方法 Nvidia 表示，其即將發布的560 驅動程式將像515 和555 版本一樣開放，並將支援更多設備。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</guid>
+      <pubDate>Thu, 18 Jul 2024 14:55:02 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯 FIN7 正在向勒索軟體團夥兜售其 EDR 削弱惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/russias_fin7_is_peddling_its/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[CHIPS ACT 撥款將幫助支付這家台灣半導體公司的40 億美元預算 美國政府正在向GlobalWafers 授予高達4 億美元的CHIPS 法案現金，以幫助為其在德克薩斯州州和密蘇裡州的300mm 晶圓製造工廠提供資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/globalwafers_scores_400m_for_building/</guid>
       <pubDate>Wed, 17 Jul 2024 15:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體繼續增加關鍵基礎設施受害者的成本</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/ransomware_continues_to_pile_on/</link>
-      <description><![CDATA[花了數百萬美元，但恢復時間沒有任何改善 過去一年，與針對關鍵國家基礎設施(CNI) 組織的勒索軟體攻擊相關的成本猛增。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/ransomware_continues_to_pile_on/</guid>
-      <pubDate>Wed, 17 Jul 2024 15:01:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
