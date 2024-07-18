@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 09:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 11:34:28 GMT</lastBuildDate>
+    <item>
+      <title>NASA 大幅削減預算，砍掉價值 4 億美元以上的 VIPER 月球機器人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/viper_nasa_cancelled/</link>
+      <description><![CDATA[不斷攀升的成本、發射延遲意味著即將完成的月球車1) 將永遠看不到月球，2) 將被拆成零部件 預算斧頭已經搖擺，NASA 的VIPER 漫遊車子將不會繞月球行駛很快就會浮出水面。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/viper_nasa_cancelled/</guid>
+      <pubDate>Thu, 18 Jul 2024 11:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
+      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
+      <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌高層表示，不要將碳排放量的增加歸咎於人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/google_emissions/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[市場立即做出反應，荷蘭關鍵光刻技術製造商的股價下跌 歐洲科技寵兒ASML 預計第二季度業績喜憂參半後銷量將會增加，但由於有關中國限制措施收緊的傳言，該公司股價下跌美國政府正在考慮出口......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/rising_asml_sales_rumors_more_curbs/</guid>
       <pubDate>Wed, 17 Jul 2024 13:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>特大城市的 Oracle 系統要到 2025 年才能實現有效的現金管理</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/birminghams_oracle_system_cash_management/</link>
-      <description><![CDATA[歐洲最大的地方當局伯明罕計劃在取代SAP 數年後重新實施軟體 歐洲最大的地方當局要到明年4 月（即該系統上線三年後）才會擁有功能齊全的現金系統旨在執行該任務的 Oracle ERP 系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/birminghams_oracle_system_cash_management/</guid>
-      <pubDate>Wed, 17 Jul 2024 12:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>倫敦議會指責監管機構「誇大」了 2020 年居民資料突襲的危險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/londons_hackney_council_accuses_the/</link>
-      <description><![CDATA[你逃脫了巨額罰款！贏得勝利並逃跑，不是嗎？  倫敦內城區哈克尼表示，英國資料保護監管機構誤解並「誇大」了 2020 年勒索軟體攻擊其係統的細節。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/londons_hackney_council_accuses_the/</guid>
-      <pubDate>Wed, 17 Jul 2024 11:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
