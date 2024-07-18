@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 13:33:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 14:11:20 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯 FIN7 正在向勒索軟體團夥兜售其 EDR 削弱惡意軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/russias_fin7_is_peddling_its/</link>
+      <description><![CDATA[主要供應商的產品因新技術而遭到破壞 多產的俄羅斯網路犯罪集團FIN7 正在使用各種假名向不同的勒索軟體團夥出售其定制的安全解決方案——停用惡意軟體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/russias_fin7_is_peddling_its/</guid>
+      <pubDate>Thu, 18 Jul 2024 13:40:24 GMT</pubDate>
+    </item>
     <item>
       <title>台積電老闆預測2025年AI晶片短缺，稱川普言論不會改變他的策略</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tsmc_ceo_predicts_ai_chip/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
-      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
+      <description><![CDATA[您需要修補此漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
       <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[花了數百萬美元，但恢復時間沒有任何改善 過去一年，與針對關鍵國家基礎設施(CNI) 組織的勒索軟體攻擊相關的成本猛增。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/ransomware_continues_to_pile_on/</guid>
       <pubDate>Wed, 17 Jul 2024 15:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由和開源軟體資金從歐盟 2025 年地平線計畫中消失</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/</link>
-      <description><![CDATA[OW2 執行長Pierre-Yves Gibello 表示，取消大多數下一代網路資金「令人難以理解」 歐盟Horizo​​​​n 計畫下的自由開源軟體(FOSS) 計畫的資金大部分已從明年的計劃中消失。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/foss_funding_vanishes_from_eus/</guid>
-      <pubDate>Wed, 17 Jul 2024 14:24:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
