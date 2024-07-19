@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 02:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:37:22 GMT</lastBuildDate>
+    <item>
+      <title>競爭對手出現幾週後，Google大幅削減印度地圖 API 價格</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_maps_india_price_cuts_ola_response/</link>
+      <description><![CDATA[作為明顯的回應，新創公司Ola 將價格降至零，為期一年 在競爭對手進入市場一周後，Google 大幅下調了印度Maps API 的訪問價格。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_maps_india_price_cuts_ola_response/</guid>
+      <pubDate>Fri, 19 Jul 2024 03:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>Azure 中斷持續到第五個小時，Microsoft 365 癱瘓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Pi 去 spaaaaace...比計劃的時間長一點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</link>
-      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
+      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周之後，兩者都應該運行在與阿麗亞娜 6 號的上部級一起重新進入大氣層時已被燒毀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
       <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>特斯拉在歐盟的銷售和市場份額下降，而其他電動車製造商卻在成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</link>
-      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降英國今年也一樣。 ...]]></description>
+      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降今年英國也一樣。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</guid>
       <pubDate>Thu, 18 Jul 2024 15:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的下一個 Linux 驅動程式...同樣開放</title>
+      <title>Nvidia 的下一個 Linux 驅動程式將...同樣開放</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</link>
       <description><![CDATA[Big Green 的軟體仍然很棘手，但Fedora 和AMD 正在尋找應對方法 Nvidia 表示，其即將發布的560 驅動程式將像515 和555 版本一樣開放，並將支援更多設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
-      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
+      <description><![CDATA[您需要修補此漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
       <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Oxford Semantic 可以幫助您的冰箱和智慧型手機了解您的喜好 三星週四宣布收購英國知識圖譜新創公司Oxford Semantic Technologies，以增強其人工智慧智慧並提供更加個性化的體驗和內容在其設備上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/samsung_acquires_oxford_semantic/</guid>
       <pubDate>Thu, 18 Jul 2024 05:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>技術升級破壞了賭場——老虎機離線數天</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/star_sydney_upgrade_fail_outage/</link>
-      <description><![CDATA[這家之前多次成功支付獎金的澳洲公司陷入了新的混亂 澳洲星娛樂集團（澳洲三家賭場的營運商）的老虎機和其他電子遊戲已離線數年升級出錯後至少三天。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/star_sydney_upgrade_fail_outage/</guid>
-      <pubDate>Thu, 18 Jul 2024 03:03:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
