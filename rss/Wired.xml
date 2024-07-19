@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 09:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:36:06 GMT</lastBuildDate>
+    <item>
+      <title>與 CrowdStrike 相關的微軟大規模宕機導致世界各地的電腦癱瘓</title>
+      <link>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
+      <description><![CDATA[網路安全公司 Crowdstrike 的軟體更新似乎無意中擾亂了全球 IT 系統。]]></description>
+      <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>本週 Hulu 上的 31 部最佳電影（2024 年 7 月）</title>
       <link>https://www.wired.com/story/best-movies-hulu-right-now/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們最喜歡的亞馬遜大型銷售活動中的電視優惠和家庭劇院優惠。尋找 TCL、海信、LG、三星等的優惠。]]></description>
       <guid>https://www.wired.com/story/top-5-tv-prime-day-deals-1/</guid>
       <pubDate>Wed, 17 Jul 2024 21:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不敢相信這些黃金日戶外優惠還沒售罄</title>
-      <link>https://www.wired.com/story/best-prime-day-deals-outdoor-gear-2024/</link>
-      <description><![CDATA[距離搶購水瓶、自行車、運動相機和露營裝備的超值優惠還有不到 12 小時，我會關掉您​​的手機並讓您出去！]]></description>
-      <guid>https://www.wired.com/story/best-prime-day-deals-outdoor-gear-2024/</guid>
-      <pubDate>Wed, 17 Jul 2024 20:31:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
