@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 08:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:11:54 GMT</lastBuildDate>
+    <item>
+      <title>凱捷與英國稅務機關達成價值高達 5.74 億英鎊的交易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/capgemini_win_hrmc_deal_worth/</link>
+      <description><![CDATA[英國稅務海關總署(HMRC) 與法國外包商之間的戀情將持續25 年 英國稅務機關授予凱捷(Capgemini) 一份價值高達5.74 億英鎊（7.41 億美元）的合同，負責運營遺留稅務管理系統直至2029 年，其中一個最初是根據一項有爭議的安排建造的，該安排原定於 2020 年結束。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/capgemini_win_hrmc_deal_worth/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:43:38 GMT</pubDate>
+    </item>
     <item>
       <title>危險三明治延遲硬體安裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不斷攀升的成本、發射延遲意味著即將完成的月球車1) 將永遠看不到月球，2) 將被拆成零部件 預算斧頭已經搖擺，NASA 的VIPER 漫遊車子將不會繞月球行駛很快就會浮出水面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/viper_nasa_cancelled/</guid>
       <pubDate>Thu, 18 Jul 2024 11:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
-      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
-      <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
