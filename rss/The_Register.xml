@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 06:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 07:12:10 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 程式碼更新導致世界各地的 Windows 機器變磚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</link>
+      <description><![CDATA[Falcon Sensor 讓主機陷入死亡循環 破壞 資訊安全供應商 CrowdStrike 的產品更新導致執行 Windows 的電腦變磚。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</guid>
+      <pubDate>Fri, 19 Jul 2024 06:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟的可再生氫計劃需要“現實檢驗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/eu_renewable_hydrogen_audit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[資料中心污染正在加劇...但LLM 工作量沒有你想像的那麼大 Google首席科學家聲稱人工智慧因其公司二氧化碳排放量的增加而受到不公平的指責，並表示該技術該巨頭在 2030 年轉向完全清潔能源的努力仍在按計劃進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/google_emissions/</guid>
       <pubDate>Thu, 18 Jul 2024 09:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird 已上線：128 現已推出，改進後的「Nebula」使用者介面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/thunderbird_128_nebula/</link>
-      <description><![CDATA[嘗試一下，以防萬一您丟失了網絡郵件帳戶 繼新的 Firefox ESR 版本（它所基於的）之後，最新的 Thunderbird 也發布了 - 具有全新的外觀。  ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/thunderbird_128_nebula/</guid>
-      <pubDate>Thu, 18 Jul 2024 08:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
