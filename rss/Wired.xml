@@ -4,11 +4,25 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 22:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 22:36:19 GMT</lastBuildDate>
     <item>
-      <title>為什麼全球人群罷工對機場造成如此嚴重的影響</title>
+      <title>全球 CrowdStrike 中斷引發現金意外回歸</title>
+      <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
+      <description><![CDATA[這起事件在機場、雜貨店和星巴克門市造成混亂。]]></description>
+      <guid>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界各地的醫院在 IT 大崩盤後苦苦掙扎</title>
+      <link>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</link>
+      <description><![CDATA[在 CrowdStrike 錯誤地部署軟體更新後，醫生們發現自己沒有關鍵系統和診斷工具，並且面臨著完全恢復可能需要幾天時間的可怕現實。]]></description>
+      <guid>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>為什麼全球 CrowdStrike 停電對機場造成如此嚴重的影響</title>
       <link>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</link>
-      <description><![CDATA[航空業在其壽命的最後一刻得到了優化。網路安全公司 Crowdstrike 的一次錯誤軟體更新導致運行 Microsoft Windows 的電腦和一系列機場癱瘓。]]></description>
+      <description><![CDATA[航空業在其壽命的最後一刻得到了優化。網路安全公司 CrowdStrike 的一次錯誤軟體更新導致運行 Microsoft Windows 的電腦和一系列機場癱瘓。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</guid>
       <pubDate>Fri, 19 Jul 2024 21:08:48 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[隨著競爭模型（包括許多免費模型）湧入市場，OpenAI 宣布推出更便宜的人工智慧使用方式。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
       <pubDate>Thu, 18 Jul 2024 14:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>實驗室製造的鑽石無所不在。這家公司認為它擁有使它們成為高端產品的秘訣</title>
-      <link>https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/</link>
-      <description><![CDATA[既然可以在觀看電影的時間內種植出價格實惠的寶石，那麼拯救最珍貴寶石價值的競賽就開始了。]]></description>
-      <guid>https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《要塞英雄》存在政治暴力問題</title>
-      <link>https://www.wired.com/story/fortnite-has-a-political-violence-problem/</link>
-      <description><![CDATA[在《連線》獨家分享的一份報告中，全球反仇恨和極端主義計畫表示，它在《要塞英雄》上發現了十多款用戶製作的遊戲，其中包含反猶太主義和政治暴力。]]></description>
-      <guid>https://www.wired.com/story/fortnite-has-a-political-violence-problem/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
