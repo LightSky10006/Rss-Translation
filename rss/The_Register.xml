@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 05:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:15:36 GMT</lastBuildDate>
+    <item>
+      <title>北韓可能是印度加密貨幣交易所 WazirX 被取締的幕後黑手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/wasirx_pauses_trade/</link>
+      <description><![CDATA[公司在看到2.3 億美元消失後停止交易 印度加密貨幣交易所WazirX 透露，在一次與北韓有關的網路攻擊後，該公司損失了價值超過2.3 億美元的虛擬資產。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/wasirx_pauses_trade/</guid>
+      <pubDate>Fri, 19 Jul 2024 05:59:07 GMT</pubDate>
+    </item>
     <item>
       <title>北京攻擊集團「伏特颱風」是工作陰謀中的假旗：中國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/volt_typhoon_china_theory/</link>
@@ -20,9 +27,9 @@
       <pubDate>Fri, 19 Jul 2024 03:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 中斷持續到第五個小時，Microsoft 365 癱瘓</title>
+      <title>Azure 中斷問題解決後，Microsoft 365 仍處於「降級」狀態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</link>
-      <description><![CDATA[美國中部地區遇到麻煩 微軟的365 訂閱服務對某些用戶來說已關閉，因為該軟體巨頭還報告其Azure 雲的美國中部地區遇到了問題。 ]]></description>
+      <description><![CDATA[美國中部地區已恢復營業，但Office 應用程式仍遇到麻煩 已更新 Microsoft 的365 訂閱服務對某些用戶來說已關閉，該軟體巨頭也報告美國中部地區其 Azure 雲端區域遇到問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</guid>
       <pubDate>Fri, 19 Jul 2024 02:02:53 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[複雜、昂貴、耗時- 選擇三個 根據技術經理的民意調查，網路安全人員僅在54% 的時間內審查軟體應用程式的主要更新。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/security_review_failure/</guid>
       <pubDate>Thu, 18 Jul 2024 07:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>半導體股價暴跌——可能要歸功於拜登和川普</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/semiconductor_shares_slump_us_politics/</link>
-      <description><![CDATA[對台灣的更多製裁和更弱的支持是壞消息……除了英特爾？  幾家主要半導體生產商的股價已大幅下跌，似乎是對台灣的一系列政治事態？發展的回應。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/semiconductor_shares_slump_us_politics/</guid>
-      <pubDate>Thu, 18 Jul 2024 06:25:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
