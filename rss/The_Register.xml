@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 18 Jul 2024 21:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:01:56 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 GPT-4o Mini 確實很小——就像它在某些測試中領先於競爭對手一樣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/openaigpt4o_mini/</link>
+      <description><![CDATA[Plus：元歐元模型劇； Mistral 和 Nvidia 發現 NeMo；等等 AI Roundup  OpenAI 透過其雲提供了GPT-4o Mini－GPT-4o 產生大語言模型(LLM) 的較小且較便宜的版本。 ..  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/openaigpt4o_mini/</guid>
+      <pubDate>Fri, 19 Jul 2024 00:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>DARPA 拒絕為 3D 軍用小晶片提供信用卡——8.4 億美元應該足夠了吧？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/darpa_awards_840m_to_utaustin/</link>
+      <description><![CDATA[UT-Austin 實驗室得到了這份工作，需要五年的時間 五角大樓的科學神經中心DARPA 已撥款8.4 億美元，為美國軍方開發下一代半導體微系統。 ....]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/darpa_awards_840m_to_utaustin/</guid>
+      <pubDate>Thu, 18 Jul 2024 23:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>法官將 SEC 針對 SolarWinds 的訴訟大部分拖入回收站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sec_solarwinds_lawsuit/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Pi 去 spaaaaace...比計劃的時間長一點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</link>
-      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周之後，兩者都應該運行在與阿麗亞娜 6 號的上部級一起重新進入大氣層時已被燒毀。]]></description>
+      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
       <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
     </item>
@@ -36,12 +50,12 @@
     <item>
       <title>特斯拉在歐盟的銷售和市場份額下降，而其他電動車製造商卻在成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</link>
-      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降今年英國也一樣。 ...]]></description>
+      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降英國今年也一樣。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</guid>
       <pubDate>Thu, 18 Jul 2024 15:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的下一個 Linux 驅動程式將...同樣開放</title>
+      <title>Nvidia 的下一個 Linux 驅動程式...同樣開放</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</link>
       <description><![CDATA[Big Green 的軟體仍然很棘手，但Fedora 和AMD 正在尋找應對方法 Nvidia 表示，其即將發布的560 驅動程式將像515 和555 版本一樣開放，並將支援更多設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>思科最嚴重漏洞允許攻擊者更改管理員密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</link>
-      <description><![CDATA[您需要修補此漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
+      <description><![CDATA[您需要修補這個漏洞 思科剛剛發布了一個針對最嚴重漏洞的補丁，該漏洞允許攻擊者更改任何用戶（包括管理員）的密碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/maximumseverity_cisco_vulnerability_allows_attackers/</guid>
       <pubDate>Thu, 18 Jul 2024 10:37:09 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[沒有其他方法可以檢測到具有旨在破壞物理安全的植入物的攻擊者 嗅探犬可能很快就會成為提高資料中心物理安全性的有用手段，因為越來越多的人正在採用NFC 晶片等植入物，這些植入物具有對存取控制工具進行新穎攻擊的潛力...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sniffer_dogs_datacenter_defence_implants/</guid>
       <pubDate>Thu, 18 Jul 2024 00:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>合併後的 Exabeam 和 LogRhythm 裁員並面臨訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/exabeam_logrhythm_merger_job_cuts_lawsuit/</link>
-      <description><![CDATA[未經證實的報告顯示員工人數將減少 30% Exabeam 和 LogRhythm 這兩家網路安全公司於週三完成了合併，The Register 了解到這一事件的標誌是迅速裁員並採取股東行動調查交易。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/exabeam_logrhythm_merger_job_cuts_lawsuit/</guid>
-      <pubDate>Wed, 17 Jul 2024 23:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>又來了。然後再次。馬斯克威脅要將 Twitter 和 SpaceX 撤出加州</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/17/musk_california_laws/</link>
-      <description><![CDATA[在這裡，看著我，唐納德，我在這裡，你不想再發推文嗎？醒了！跨！安提法！移民！薩斯州，因為他對一個問題感到不安新州法律旨在防止教師被要求趕走 LGBTQ 學生。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/17/musk_california_laws/</guid>
-      <pubDate>Wed, 17 Jul 2024 19:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
