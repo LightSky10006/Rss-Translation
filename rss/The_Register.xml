@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 02:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:36:22 GMT</lastBuildDate>
+    <item>
+      <title>Azure 中斷持續到第五個小時，Microsoft 365 癱瘓</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</link>
+      <description><![CDATA[美國中部地區遇到麻煩 微軟的365 訂閱服務對某些用戶來說已關閉，因為該軟體巨頭還報告其Azure 雲的美國中部地區遇到了問題。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</guid>
+      <pubDate>Fri, 19 Jul 2024 02:02:53 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 的 GPT-4o Mini 確實很小——就像它在某些測試中領先於競爭對手一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/openaigpt4o_mini/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這家之前多次成功支付獎金的澳洲公司陷入了新的混亂 澳洲星娛樂集團（澳洲三家賭場的營運商）的老虎機和其他電子遊戲已離線數年升級出錯後至少三天。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/star_sydney_upgrade_fail_outage/</guid>
       <pubDate>Thu, 18 Jul 2024 03:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>放開獵犬！保護資料中心的安全可能很快就需要嗅探犬</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sniffer_dogs_datacenter_defence_implants/</link>
-      <description><![CDATA[沒有其他方法可以檢測到具有旨在破壞物理安全的植入物的攻擊者 嗅探犬可能很快就會成為提高資料中心物理安全性的有用手段，因為越來越多的人正在採用NFC 晶片等植入物，這些植入物具有對存取控制工具進行新穎攻擊的潛力...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sniffer_dogs_datacenter_defence_implants/</guid>
-      <pubDate>Thu, 18 Jul 2024 00:54:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
