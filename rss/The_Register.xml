@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 14:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:12:15 GMT</lastBuildDate>
+    <item>
+      <title>生活被打斷：CrowdStrike 的補丁失敗如何擾亂世界</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</link>
+      <description><![CDATA[哦，這應該是 2024 年嗎？我們知道機場、醫院和常見的關鍵基礎設施都受到了影響，但 CrowdStrike 也以一些意想不到的方式擾亂了日常生活。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</guid>
+      <pubDate>Fri, 19 Jul 2024 14:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>憤怒的管理員分享 CrowdStrike 中斷經歷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
       <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡巴斯基挑戰美國政府要嘛放棄與克里姆林宮的關係</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/kaspersky_us_government/</link>
-      <description><![CDATA[在我們的軟體中進行獨立探測，你不會發現任何Putin.DLL 後門 卡巴斯基在美國政府禁止其產品後進行了反擊- 提出獨立驗證其軟體是否符合上述要求董事會，而不是克里姆林宮的後門。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/kaspersky_us_government/</guid>
-      <pubDate>Thu, 18 Jul 2024 16:29:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
