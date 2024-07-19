@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 09:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 10:11:44 GMT</lastBuildDate>
+    <item>
+      <title>全球 IT 中斷嚴重破壞全球系統，CrowdStrike 股價下跌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/</link>
+      <description><![CDATA[緊急服務、醫療實踐、航空公司、銀行等都陷入癱瘓 CrowdStrike 的股價目前正在下跌，其領導層將其歸因於不可靠的頻道文件導致了一次重大的全球IT 中斷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/</guid>
+      <pubDate>Fri, 19 Jul 2024 09:53:37 GMT</pubDate>
+    </item>
     <item>
       <title>凱捷與英國稅務機關達成價值高達 5.74 億英鎊的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/capgemini_win_hrmc_deal_worth/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>Pi 去 spaaaaace...比計劃的時間長一點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</link>
-      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
+      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周之後，兩者都應該運行在與阿麗亞娜 6 號的上部級一起重新進入大氣層時已被燒毀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
       <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
     </item>
@@ -106,12 +113,12 @@
     <item>
       <title>特斯拉在歐盟的銷售和市場份額下降，而其他電動車製造商卻在成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</link>
-      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降英國今年也一樣。 ...]]></description>
+      <description><![CDATA[特斯拉不僅有美國的問題：它也有歐盟的問題 特斯拉不僅在美國陷入困境- 埃隆·馬斯克(Elon Musk) 電動車​​的新註冊量在歐盟和歐盟都出現了下降今年英國也一樣。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/tesla_sales_market_share_dip/</guid>
       <pubDate>Thu, 18 Jul 2024 15:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的下一個 Linux 驅動程式...同樣開放</title>
+      <title>Nvidia 的下一個 Linux 驅動程式將...同樣開放</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</link>
       <description><![CDATA[Big Green 的軟體仍然很棘手，但Fedora 和AMD 正在尋找應對方法 Nvidia 表示，其即將發布的560 驅動程式將像515 和555 版本一樣開放，並將支援更多設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/nvidia_drivers_remain_as_foss/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[感謝上帝有筆和紙。重新實施的系統可能要到2026 年3 月才會到來，即首次推出四年後 歐洲最大的地方當局面臨著1558 萬美元（1200 萬英鎊）的人工審計賬目賬單，而這些帳單本來應該得到Oracle ERP 系統於 2022 年 4 月安裝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/europes_largest_council_could_face/</guid>
       <pubDate>Thu, 18 Jul 2024 12:43:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 大幅削減預算，砍掉價值 4 億美元以上的 VIPER 月球機器人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/viper_nasa_cancelled/</link>
-      <description><![CDATA[不斷攀升的成本、發射延遲意味著即將完成的月球車1) 將永遠看不到月球，2) 將被拆成零部件 預算斧頭已經搖擺，NASA 的VIPER 漫遊車子將不會繞月球行駛很快就會浮出水面。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/viper_nasa_cancelled/</guid>
-      <pubDate>Thu, 18 Jul 2024 11:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
