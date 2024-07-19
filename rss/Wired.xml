@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 22:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 23:11:50 GMT</lastBuildDate>
+    <item>
+      <title>不要落入 CrowdStrike 斷電騙局</title>
+      <link>https://www.wired.com/story/crowdstrike-outage-support-scams/</link>
+      <description><![CDATA[在安全公司進行災難性的軟體更新後，騙子們正在建立虛假網站，試圖透過「CrowdStrike 支持」騙局來欺騙人們。]]></description>
+      <guid>https://www.wired.com/story/crowdstrike-outage-support-scams/</guid>
+      <pubDate>Fri, 19 Jul 2024 22:19:42 GMT</pubDate>
+    </item>
     <item>
       <title>全球 CrowdStrike 中斷引發現金意外回歸</title>
       <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>世界各地的醫院在 IT 大崩盤後苦苦掙扎</title>
+      <title>全球 IT 中斷讓醫院陷入困境</title>
       <link>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</link>
       <description><![CDATA[在 CrowdStrike 錯誤地部署軟體更新後，醫生們發現自己沒有關鍵系統和診斷工具，並且面臨著完全恢復可能需要幾天時間的可怕現實。]]></description>
       <guid>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</guid>
@@ -55,9 +62,9 @@
       <pubDate>Fri, 19 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>矽谷無情的富豪轉向唐納德·川普——以拯救他們的數十億美元</title>
+      <title>矽谷無情的富豪轉向唐納德·川普——以拯救數十億美元</title>
       <link>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</link>
-      <description><![CDATA[創投家 Ben Horowitz 和 Marc Andreessen 聲稱，如果我們不擁抱這位前總統，科技業、加州乃至整個國家都注定要失敗。]]></description>
+      <description><![CDATA[創投家 Ben Horowitz 和 Marc Andreessen 聲稱，如果我們不擁抱這位前總統，科技業、加州甚至整個國家都注定要失敗。]]></description>
       <guid>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</guid>
       <pubDate>Fri, 19 Jul 2024 13:00:00 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>川普槍擊事件引發了一場網路貼紙大戰</title>
       <link>https://www.wired.com/story/the-trump-shooting-fueled-an-online-sticker-battle/</link>
-      <description><![CDATA[上週末，前總統唐納德·川普遭遇暗殺事件後，貼紙騾子向顧客發送訊息，建議他們支持川普，並要求「停止仇恨」。事實並非如此。]]></description>
+      <description><![CDATA[上週末，前總統唐納德·川普被刺殺後，貼紙騾子向顧客發送訊息，建議他們支持川普，並要求「停止仇恨」。事實並非如此。]]></description>
       <guid>https://www.wired.com/story/the-trump-shooting-fueled-an-online-sticker-battle/</guid>
       <pubDate>Fri, 19 Jul 2024 11:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在唐納德·特朗普呼籲團結之際，埃隆·馬斯克的“反覺醒”人工智能聊天機器人Grok 正在宣揚特朗普是“戀童癖”的說法，同時將這位前總統稱為“精神病」。]]></description>
       <guid>https://www.wired.com/story/elon-musk-is-all-in-on-endorsing-trump-his-ai-chatbot-grok-is-not/</guid>
       <pubDate>Thu, 18 Jul 2024 15:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 透過「迷你」模型降低了使用人工智慧的成本</title>
-      <link>https://www.wired.com/story/openai-gpt-4o-mini/</link>
-      <description><![CDATA[隨著競爭模型（包括許多免費模型）湧入市場，OpenAI 宣布推出更便宜的人工智慧使用方式。]]></description>
-      <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
