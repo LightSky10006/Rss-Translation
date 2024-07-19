@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 19 Jul 2024 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:35:27 GMT</lastBuildDate>
+    <item>
+      <title>網路犯罪分子迅速利用 CrowdStrike 混亂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</link>
+      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐騙者和所有其他形式的怪物 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始與網路釣魚組織合作，並旋轉聲稱是修復程式的惡意網域。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:22:07 GMT</pubDate>
+    </item>
     <item>
       <title>生活被打斷：CrowdStrike 的補丁失敗如何擾亂世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>英國通訊監管機構禁止與通膨相關的中期合約價格上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</link>
-      <description><![CDATA[但僅限於新的移動和寬頻合同，並且僅從2025 年1 月開始 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
+      <description><![CDATA[但僅限於新的移動和寬頻合同，且僅從2025 年1 月起 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</guid>
       <pubDate>Fri, 19 Jul 2024 11:22:40 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>危險三明治延遲硬體安裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/on_call/</link>
-      <description><![CDATA[AV 技術被孤立，被封鎖，並承受著巨大的壓力 On Call  歡迎再次來到On Call，The Register 的每週節目讀者貢獻的故事，講述了在處理技術支援的廢話時被要求保持憤怒的故事。]]></description>
+      <description><![CDATA[AV 技術被孤立，被封鎖，承受著巨大的壓力 On Call 歡迎再次來到On Call，The Register 的每週節目讀者貢獻的故事，講述了在處理技術支援的廢話時被要求保持憤怒的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/on_call/</guid>
       <pubDate>Fri, 19 Jul 2024 07:29:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>北京攻擊集團「伏特颱風」是工作陰謀中的假旗：中國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/volt_typhoon_china_theory/</link>
-      <description><![CDATA[由美國國家安全局、聯邦調查局和五眼國家管理，他們顯然愚弄了資訊安全研究人員 中國聲稱 Volt Typhoon 團夥是由五眼國家指控的北京支持的攻擊者針對關鍵基礎設施的攻擊實際上是由美國情報部門編造的。]]></description>
+      <description><![CDATA[由美國國家安全局、聯邦調查局和五眼國家運營，他們顯然愚弄了資訊安全研究人員 中國聲稱 Volt Typhoon 團夥是由五眼國家指控的北京支持的攻擊者針對關鍵基礎設施的攻擊實際上是由美國情報部門編造的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/volt_typhoon_china_theory/</guid>
       <pubDate>Fri, 19 Jul 2024 05:09:48 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>法官將 SEC 針對 SolarWinds 的訴訟大部分拖入回收站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sec_solarwinds_lawsuit/</link>
-      <description><![CDATA[俄羅斯入侵的軟體企業「感謝我們得到的支持」 一名法官基本上駁回了美國金融監管機構提起的訴訟，該訴訟指控SolarWinds 及其首席資訊安全官在其相關資訊上誤導投資者。]]></description>
+      <description><![CDATA[俄羅斯入侵的軟體企業「感謝我們收到的支持」 一名法官基本上駁回了美國金融監管機構提起的訴訟，該訴訟指控SolarWinds 及其首席資訊安全官在其產品資訊方面誤導投資者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sec_solarwinds_lawsuit/</guid>
       <pubDate>Thu, 18 Jul 2024 21:06:49 GMT</pubDate>
     </item>
     <item>
       <title>山姆·奧爾特曼 (Sam Altman) 起訴建築商，稱其價值 2700 萬美元的巨型豪宅被洪水淹沒，污水嚴重“檸檬”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sam_altman_builder_lawsuit/</link>
-      <description><![CDATA[漏水的天窗、倒塌的屋頂、垃圾堵塞的管道- 這是ChatGPT 做的嗎？可圖的舉動- 但他的2700 萬美元巨型豪宅當然不是其中之一。他的律師甚至在最近提起的訴訟中稱其為“檸檬”，指控建築商疏忽、欺詐和其他失敗。]]></description>
+      <description><![CDATA[漏水的天窗、倒塌的屋頂、垃圾堵塞的管道——ChatGPT 做到了嗎？圖的舉動- 但他的2700 萬美元巨型豪宅當然不是其中之一。他的律師甚至在最近提起的訴訟中稱其為“檸檬”，指控建築商疏忽、欺詐和其他失敗。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/sam_altman_builder_lawsuit/</guid>
       <pubDate>Thu, 18 Jul 2024 19:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pi 去 spaaaaace...比計劃的時間長一點</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</link>
-      <description><![CDATA[阿麗亞娜6 號可能存在一些APU 問題，但YPSat 上裝備精良的硬體運行良好 一台Raspberry Pi 相機正在環繞地球運行，連接到ESA 的YPSat，一周後，兩者都應該運行與阿麗亞娜 6 號的上級一起重新進入大氣層時已被燒毀。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/18/pi_in_spaaaaace_for_a/</guid>
-      <pubDate>Thu, 18 Jul 2024 17:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
