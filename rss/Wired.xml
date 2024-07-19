@@ -4,11 +4,25 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 10:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 11:10:36 GMT</lastBuildDate>
+    <item>
+      <title>穆格迷宮評論：一種新的定序方法</title>
+      <link>https://www.wired.com/review/moog-labyrinth/</link>
+      <description><![CDATA[這款經濟實惠的桌面音序器可幫助您用兩行音樂創建迷宮。]]></description>
+      <guid>https://www.wired.com/review/moog-labyrinth/</guid>
+      <pubDate>Fri, 19 Jul 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們要求人工智慧帶我們遊覽我們的城市。這是一片混亂</title>
+      <link>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</link>
+      <description><![CDATA[我們有一個專業的聊天機器人，可以在倫敦和紐約策劃完美的一天，每次花費不到 100 美元。我們仍在從旅途中恢復過來。]]></description>
+      <guid>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</guid>
+      <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>與 CrowdStrike 相關的微軟大規模宕機導致世界各地的電腦癱瘓</title>
       <link>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
-      <description><![CDATA[網路安全公司 Crowdstrike 的軟體更新似乎無意中擾亂了全球 IT 系統。]]></description>
+      <description><![CDATA[網路安全公司 CrowdStrike 的軟體更新似乎無意中擾亂了全球 IT 系統。]]></description>
       <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
       <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 18 Jul 2024 15:26:20 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 透過「迷你」模型降低了使用人工智慧的成本</title>
+      <title>OpenAI 透過「迷你」模型降低了人工智慧的使用成本</title>
       <link>https://www.wired.com/story/openai-gpt-4o-mini/</link>
       <description><![CDATA[隨著競爭模型（包括許多免費模型）湧入市場，OpenAI 宣布推出更便宜的人工智慧使用方式。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
@@ -62,9 +76,9 @@
       <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>實驗室培育的鑽石無所不在。這家公司認為它擁有使它們成為高端產品的秘訣</title>
+      <title>實驗室製造的鑽石無所不在。這家公司認為它擁有使它們成為高端產品的秘訣</title>
       <link>https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/</link>
-      <description><![CDATA[既然可以在看電影的時間內種植出價格實惠的寶石，那麼拯救最珍貴寶石價值的競賽就開始了。]]></description>
+      <description><![CDATA[既然可以在觀看電影的時間內種植出價格實惠的寶石，那麼拯救最珍貴寶石價值的競賽就開始了。]]></description>
       <guid>https://www.wired.com/story/swiss-made-high-end-lab-grown-diamonds/</guid>
       <pubDate>Thu, 18 Jul 2024 13:00:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我們一直在關注，這些交易進展得很快。從筆記型電腦和平板電腦到 Airpods 和 Echo dot，趁為時已晚，抓住 Prime Day 的最佳優惠。]]></description>
       <guid>https://www.wired.com/story/best-prime-day-deals-2024-1/</guid>
       <pubDate>Wed, 17 Jul 2024 22:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>被指控的「瘋狂謀殺邪教」領導人因密謀殺害猶太人而被起訴</title>
-      <link>https://www.wired.com/story/commander-butcher-maniac-murder-cult-arrested/</link>
-      <description><![CDATA[美國檢察官指控米哈伊爾·奇克維什維利（Michail Chkhikvishvili），也被稱為“屠夫指揮官”，犯有一系列罪行，包括涉嫌企圖毒害紐約市的猶太兒童。]]></description>
-      <guid>https://www.wired.com/story/commander-butcher-maniac-murder-cult-arrested/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>還有時間購買黃金日電視節目的最佳優惠</title>
-      <link>https://www.wired.com/story/top-5-tv-prime-day-deals-1/</link>
-      <description><![CDATA[我們最喜歡的亞馬遜大型銷售活動中的電視優惠和家庭劇院優惠。尋找 TCL、海信、LG、三星等的優惠。]]></description>
-      <guid>https://www.wired.com/story/top-5-tv-prime-day-deals-1/</guid>
-      <pubDate>Wed, 17 Jul 2024 21:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
