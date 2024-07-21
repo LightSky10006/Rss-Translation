@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 21 Jul 2024 21:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 22:10:25 GMT</lastBuildDate>
+    <item>
+      <title>工作人員被告知拜登將在電子郵件中退出競選，要求他們檢查 X</title>
+      <link>https://www.wired.com/story/biden-campaign-staffers-leaving-race-email-x-post/</link>
+      <description><![CDATA[「團隊，與你們分享剛剛發布的拜登總統的信，」喬·拜登總統的競選經理發送的一封電子郵件中寫道。]]></description>
+      <guid>https://www.wired.com/story/biden-campaign-staffers-leaving-race-email-x-post/</guid>
+      <pubDate>Sun, 21 Jul 2024 20:58:32 GMT</pubDate>
+    </item>
     <item>
       <title>喬·拜登退出 2024 年總統競選</title>
       <link>https://www.wired.com/story/joe-biden-drops-out-of-2024-election/</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 21 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最適合您夏季探險的旅行嬰兒車（2024 年）</title>
+      <title>最適合您夏季探險的旅行嬰兒車（2024）</title>
       <link>https://www.wired.com/gallery/best-travel-strollers/</link>
       <description><![CDATA[無論您是在公路旅行還是乘坐飛機，這些都是我們最喜歡的旅行嬰兒車，它們可以折疊得盡可能平。]]></description>
       <guid>https://www.wired.com/gallery/best-travel-strollers/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>不要落入 CrowdStrike 斷電騙局</title>
       <link>https://www.wired.com/story/crowdstrike-outage-support-scams/</link>
-      <description><![CDATA[在安全公司進行災難性的軟體更新後，詐騙者正在建立虛假網站，試圖透過「CrowdStrike 支持」騙局來欺騙人們。]]></description>
+      <description><![CDATA[在安全公司進行災難性的軟體更新後，騙子們正在建立虛假網站，試圖透過「CrowdStrike 支持」騙局來欺騙人們。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-support-scams/</guid>
       <pubDate>Fri, 19 Jul 2024 22:19:42 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這起事件在機場、雜貨店和星巴克門市造成混亂。]]></description>
       <guid>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</guid>
       <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球 IT 中斷讓醫院陷入困境</title>
-      <link>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</link>
-      <description><![CDATA[在 CrowdStrike 錯誤地部署軟體更新後，醫生們發現自己沒有關鍵系統和診斷工具，並且面臨著完全恢復可能需要幾天時間的可怕現實。]]></description>
-      <guid>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</guid>
-      <pubDate>Fri, 19 Jul 2024 21:23:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
