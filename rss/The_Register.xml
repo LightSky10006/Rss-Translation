@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 16:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 17:36:17 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體攻擊後洛杉磯縣高等法院關閉重啟司法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ransomware_la_county_superior_court/</link>
+      <description><![CDATA[惡人可以休息一下嗎？ /p &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ransomware_la_county_superior_court/</guid>
+      <pubDate>Mon, 22 Jul 2024 17:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體被摧毀後，網路騙子開始獨自謀生</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/europol_says_ransomware_takedowns_make/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，拉斯維加斯的米高梅度假村因勒索軟體而陷入癱瘓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</guid>
       <pubDate>Fri, 19 Jul 2024 21:51:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT 管理員擔心 CrowdStrike Windows patchpocalypse 可能需要數週才能修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</link>
-      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常怪異的星期五 Kettle 如果您是網路上有 Windows 機器的 IT 管理員，那麼星期五不會有很多樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</guid>
-      <pubDate>Fri, 19 Jul 2024 17:54:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
