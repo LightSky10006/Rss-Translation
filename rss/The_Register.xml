@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 20 Jul 2024 17:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:53:10 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 的 Falcon 感測器也與 Linux 核心恐慌和崩潰有關</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
+      <description><![CDATA[快速恢復工具正在測試，微軟估計有 850 萬台機器故障 CrowdStrike 現在臭名昭著的 Falcon Sensor 軟體上週導致 Windows 電腦大範圍停機，也導致 Linux 崩潰機器... . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</guid>
+      <pubDate>Sun, 21 Jul 2024 23:51:18 GMT</pubDate>
+    </item>
     <item>
       <title>微軟將 Game Pass 價格提高 81%，FTC 搶奪控制器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/20/microsoft_game_pass_ftc/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>憤怒的管理員分享 CrowdStrike 中斷經歷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</link>
-      <description><![CDATA[CrowdStrike？更像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
+      <description><![CDATA[CrowdStrike？比較像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</guid>
       <pubDate>Fri, 19 Jul 2024 14:01:29 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>英國通訊監管機構禁止與通膨相關的中期合約價格上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</link>
-      <description><![CDATA[但僅限於新的移動和寬頻合同，且僅從2025 年1 月起 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
+      <description><![CDATA[但僅限於新的移動和寬頻合同，並且僅從2025 年1 月開始 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</guid>
       <pubDate>Fri, 19 Jul 2024 11:22:40 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>CrowdStrike 檔案更新導致世界各地的 Windows 機器變磚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</link>
-      <description><![CDATA[Falcon Sensor 讓主機陷入死亡循環- 但有一個解決方法 已更新 資訊安全供應商CrowdStrike 的產品更新導致全球運行Windows 的電腦變磚。 ..]]></description>
+      <description><![CDATA[Falcon Sensor 將主機置於死亡循環- 但有一個解決方法 已更新 資訊安全供應商CrowdStrike 的產品更新正在使全球運行Windows 的電腦變磚。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</guid>
       <pubDate>Fri, 19 Jul 2024 06:46:32 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國中部地區已恢復營業，但Office 應用程式仍遇到麻煩 已更新 Microsoft 的365 訂閱服務對某些用戶來說已關閉，該軟體巨頭也報告美國中部地區其 Azure 雲端區域遇到問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/microsoft_365_azure_outage_central_us/</guid>
       <pubDate>Fri, 19 Jul 2024 02:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 GPT-4o Mini 確實很小——就像它在某些測試中領先於競爭對手一樣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/openaigpt4o_mini/</link>
-      <description><![CDATA[Plus：元歐元模型劇； Mistral 和 Nvidia 發現 NeMo；等等 AI Roundup  OpenAI 透過其雲提供了GPT-4o Mini－GPT-4o 產生大語言模型(LLM) 的較小且較便宜的版本。 ..  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/openaigpt4o_mini/</guid>
-      <pubDate>Fri, 19 Jul 2024 00:59:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
