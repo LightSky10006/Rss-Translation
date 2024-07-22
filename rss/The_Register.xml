@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 16:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 16:40:11 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體被摧毀後，網路騙子開始獨自謀生</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/europol_says_ransomware_takedowns_make/</link>
+      <description><![CDATA[歐洲刑警組織聲稱，隨著對大團伙的信任逐漸消失，越來越多的壞人開始單幹 歐洲刑警組織的一份最新報告表明，勒索軟體即服務(RaaS)組織最近的破壞正在分散威脅景觀，使其更難以追蹤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/europol_says_ransomware_takedowns_make/</guid>
+      <pubDate>Mon, 22 Jul 2024 16:33:13 GMT</pubDate>
+    </item>
     <item>
       <title>工程師在 150 萬公里外修復歐空局蓋亞天文台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/engineers_fix_esas_gaia_observatory/</link>
@@ -41,9 +48,9 @@
       <pubDate>Mon, 22 Jul 2024 12:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>Clacktop：帶有機械式鍵盤的 Thinkpad Yoga</title>
+      <title>Clacktop：帶有機械鍵盤的 Thinkpad Yoga</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</link>
-      <description><![CDATA[令人印象深刻的是，這是我們希望購買新的筆記型電腦 配備機械鍵盤的 Thinkpad Yoga 可能會給聯想和 Framework 敲響警鐘.... &lt; p&gt;]]></description>
+      <description><![CDATA[令人印象深刻的是，這是一款我們希望能購買新的筆記型電腦 配備機械鍵盤的 Thinkpad Yoga 可能會給聯想和 Framework 敲響警鐘.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</guid>
       <pubDate>Mon, 22 Jul 2024 11:15:13 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>英國警察逮捕米高梅度假村網路攻擊調查中的青少年嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</link>
-      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，勒索軟體使拉斯維加斯的米高梅度假村陷入癱瘓。]]></description>
+      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，拉斯維加斯的米高梅度假村因勒索軟體而陷入癱瘓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</guid>
       <pubDate>Fri, 19 Jul 2024 21:51:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常怪異的星期五 Kettle 如果您是網路上有 Windows 機器的 IT 管理員，那麼星期五不會有很多樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</guid>
       <pubDate>Fri, 19 Jul 2024 17:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路犯罪分子迅速利用 CrowdStrike 混亂</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</link>
-      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始利用網路釣魚組織並創建聲稱是修復程式的惡意網域。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</guid>
-      <pubDate>Fri, 19 Jul 2024 15:22:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
