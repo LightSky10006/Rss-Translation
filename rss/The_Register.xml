@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 06:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 07:34:47 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 惡作劇讓技術人員直接陷入 Excel 地獄</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/who_me/</link>
+      <description><![CDATA[當有人因為害怕被解僱而把椅子踢過房間時，這就不再有趣了 誰，我？  親愛的讀者，又是一個星期一，這意味著一周的工作又開始了。從好的方面來說，這也意味著讀者提交的又一劑 IT 惡作劇故事，我們稱之為「誰，我？」…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/who_me/</guid>
+      <pubDate>Mon, 22 Jul 2024 07:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>HCL 的返回辦公室計畫：每週來三天，否則就不用考慮假期了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/hcl_india_wfh_leave_eligibility/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[AV 技術被孤立，被封鎖，承受著巨大的壓力 On Call 歡迎再次來到On Call，The Register 的每週節目讀者貢獻的故事，講述了在處理技術支援的廢話時被要求保持憤怒的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/on_call/</guid>
       <pubDate>Fri, 19 Jul 2024 07:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 檔案更新導致世界各地的 Windows 機器變磚</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</link>
-      <description><![CDATA[Falcon Sensor 將主機置於死亡循環- 但有一個解決方法 已更新 資訊安全供應商CrowdStrike 的產品更新正在使全球運行Windows 的電腦變磚。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</guid>
-      <pubDate>Fri, 19 Jul 2024 06:46:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
