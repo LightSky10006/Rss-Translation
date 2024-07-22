@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 05:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 06:40:24 GMT</lastBuildDate>
+    <item>
+      <title>HCL 的返回辦公室計畫：每週來三天，否則就不用考慮假期了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/hcl_india_wfh_leave_eligibility/</link>
+      <description><![CDATA[印度科技工會呼籲就 14 小時工作制提案舉行罷工 HCL Technologies 制定了一項措施，以確保其印度員工脫下睡衣進入辦公室：將現場出勤作為休假資格的條件。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/hcl_india_wfh_leave_eligibility/</guid>
+      <pubDate>Mon, 22 Jul 2024 06:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>好奇號火星車正在碾壓它：碾過一塊岩石，發現了純硫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/curiosty_rover_sulfur/</link>
@@ -50,21 +57,21 @@
     <item>
       <title>英國警察逮捕米高梅度假村網路攻擊調查中的青少年嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</link>
-      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，勒索軟體使拉斯維加斯的米高梅度假村陷入癱瘓。]]></description>
+      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，拉斯維加斯的米高梅度假村因勒索軟體而陷入癱瘓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</guid>
       <pubDate>Fri, 19 Jul 2024 21:51:06 GMT</pubDate>
     </item>
     <item>
       <title>IT 管理員擔心 CrowdStrike Windows patchpocalypse 可能需要數週才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</link>
-      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常怪異的星期五 Kettle 如果您是網路上有 Windows 機器的 IT 管理員，那麼星期五不會有很多樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
+      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常奇怪的星期五 Kettle 如果您是網路上有Windows 機器的IT 管理員，那麼星期五不會有太多的事情樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</guid>
       <pubDate>Fri, 19 Jul 2024 17:54:07 GMT</pubDate>
     </item>
     <item>
       <title>網路犯罪分子迅速利用 CrowdStrike 混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</link>
-      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始利用網路釣魚組織並創建聲稱是修復程式的惡意網域。]]></description>
+      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始與網路釣魚組織合作，並旋轉聲稱是修復程式的惡意網域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</guid>
       <pubDate>Fri, 19 Jul 2024 15:22:07 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>憤怒的管理員分享 CrowdStrike 中斷經歷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</link>
-      <description><![CDATA[CrowdStrike？更像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
+      <description><![CDATA[CrowdStrike？比較像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</guid>
       <pubDate>Fri, 19 Jul 2024 14:01:29 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>英國通訊監管機構禁止與通膨相關的中期合約價格上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</link>
-      <description><![CDATA[但僅限於新的移動和寬頻合同，且僅從2025 年1 月起 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
+      <description><![CDATA[但僅限於新的移動和寬頻合同，並且僅從2025 年1 月開始 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</guid>
       <pubDate>Fri, 19 Jul 2024 11:22:40 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>CrowdStrike 檔案更新導致世界各地的 Windows 機器變磚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</link>
-      <description><![CDATA[Falcon Sensor 讓主機陷入死亡循環- 但有一個解決方法 已更新 資訊安全供應商CrowdStrike 的產品更新導致全球運行Windows 的電腦變磚。 ..]]></description>
+      <description><![CDATA[Falcon Sensor 將主機置於死亡循環- 但有一個解決方法 已更新 資訊安全供應商CrowdStrike 的產品更新正在使全球運行Windows 的電腦變磚。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_falcon_sensor_bsod_incident/</guid>
       <pubDate>Fri, 19 Jul 2024 06:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟的可再生氫計劃需要“現實檢驗”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/eu_renewable_hydrogen_audit/</link>
-      <description><![CDATA[成員國意見不一致，投資者感到困惑，沒有人了解真正的成本 歐洲審計院 (ECA) 發現歐盟開發可再生氫計劃的計劃由於使用“過於雄心勃勃”的基準和許多其他問題，需要進行現實檢查。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/eu_renewable_hydrogen_audit/</guid>
-      <pubDate>Fri, 19 Jul 2024 06:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
