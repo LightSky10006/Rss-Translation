@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 19:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 20:12:03 GMT</lastBuildDate>
+    <item>
+      <title>法官稱 Meta 大規模裁員遣散費協議非法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/meta_layoff_severance_agreements/</link>
+      <description><![CDATA[NLRB 認為，你不能提供更好的交易來換取沉默 美國法官裁定，Meta 在2022 年大規模裁員期間向員工提供的離職協議是非法的，其推理可能會產生影響遠超出 Zuckercorp。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/meta_layoff_severance_agreements/</guid>
+      <pubDate>Mon, 22 Jul 2024 19:50:06 GMT</pubDate>
+    </item>
     <item>
       <title>Google Gemini 如何處理您的資料？嗯，這很複雜...</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/google_workspace_gemini/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：三星前員工因洩漏機密被判入獄；機器人出租車抵達上海機場；以及更多 亞洲簡介 中國研究人員創造了一種無人機，其重量僅超過四克，比一張打印紙還要輕，並且可以無限期地飛行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 22 Jul 2024 01:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 的 Falcon 感測器也與 Linux 核心恐慌和崩潰有關</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</link>
-      <description><![CDATA[快速恢復工具正在測試，微軟估計有 850 萬台機器出現故障 CrowdStrike 現在臭名昭著的 Falcon Sensor 軟體上週導致 Windows 電腦大範圍宕機，也導致 Linux 崩潰機器.. .. ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</guid>
-      <pubDate>Sun, 21 Jul 2024 23:51:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
