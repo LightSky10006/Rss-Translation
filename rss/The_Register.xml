@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 02:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 04:13:57 GMT</lastBuildDate>
+    <item>
+      <title>Cellebrite 僅用 40 分鐘就侵入了川普槍手的三星設備</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/infosec_in_brief/</link>
+      <description><![CDATA[此外：第二批俄羅斯駭客受到製裁；參議員要求Snowflake 等提供答案 資訊安全簡介 由於無法訪問已故川普槍手的三星智慧型手機來尋找線索，聯邦調查局轉向了一個熟悉的（儘管有爭議的）來源實現其目標：數位取證工具供應商 Cellebrite。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/infosec_in_brief/</guid>
+      <pubDate>Mon, 22 Jul 2024 03:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>中國研究人員製造出四克重的無人機，可以永遠飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/asia_tech_news_roundup/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[由美國國家安全局、聯邦調查局和五眼國家管理，他們顯然愚弄了資訊安全研究人員 中國瘋狂宣稱對Volt Typhoon 團夥負責，五眼國家指責該團夥是北京支援的攻擊者針對關鍵基礎設施的攻擊實際上是由美國情報部門編造的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/volt_typhoon_china_theory/</guid>
       <pubDate>Fri, 19 Jul 2024 05:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>競爭對手出現幾週後，Google大幅削減印度地圖 API 價格</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_maps_india_price_cuts_ola_response/</link>
-      <description><![CDATA[作為明顯的回應，新創公司Ola 將價格降至零，為期一年 在競爭對手進入市場一周後，Google 大幅下調了印度Maps API 的訪問價格。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_maps_india_price_cuts_ola_response/</guid>
-      <pubDate>Fri, 19 Jul 2024 03:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
