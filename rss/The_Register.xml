@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 14:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 14:36:23 GMT</lastBuildDate>
+    <item>
+      <title>令人毛骨悚然的人工智慧爬蟲四處尋找片段，網站被取締</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ai_training_data_shrinks/</link>
+      <description><![CDATA[縮小了訓練池，但損害了網路檔案館等服務 研究人員表示，網路對網頁爬蟲的敵意越來越大，尤其是那些為了產生人工智慧而運作的爬蟲。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ai_training_data_shrinks/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>甲骨文斥資 1.15 億美元平息隱私訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/oracle_settles_privacy_case/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[哦，這應該是 2024 年嗎？我們知道機場、醫院和常見的關鍵基礎設施都受到了影響，但 CrowdStrike 也以一些意想不到的方式擾亂了日常生活。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</guid>
       <pubDate>Fri, 19 Jul 2024 14:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>憤怒的管理員分享 CrowdStrike 中斷經歷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</link>
-      <description><![CDATA[CrowdStrike？更像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</guid>
-      <pubDate>Fri, 19 Jul 2024 14:01:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
