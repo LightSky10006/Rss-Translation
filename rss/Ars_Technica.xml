@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 20 Jul 2024 12:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:20:44 GMT</lastBuildDate>
+    <item>
+      <title>我們再次建造熱核太空船——這次是真的</title>
+      <link>https://arstechnica.com/?p=2038124</link>
+      <description><![CDATA[軍方和美國宇航局似乎很認真地建造演示硬體。]]></description>
+      <guid>https://arstechnica.com/?p=2038124</guid>
+      <pubDate>Mon, 22 Jul 2024 11:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>將生物質埋在地下會遏止氣候變遷嗎？</title>
       <link>https://arstechnica.com/?p=2038257</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 20 Jul 2024 00:26:42 GMT</pubDate>
     </item>
     <item>
-      <title>Diamond Shruumz 糖果發現非法藥物，與嚴重疾病有關</title>
+      <title>Diamond Shruumz 糖果中發現非法藥物，與嚴重疾病有關</title>
       <link>https://arstechnica.com/?p=2038241</link>
       <description><![CDATA[新測試發現，2023 年購買的軟糖中含有與裸蓋菇素相關的裸蓋菇素。]]></description>
       <guid>https://arstechnica.com/?p=2038241</guid>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 19 Jul 2024 17:45:36 GMT</pubDate>
     </item>
     <item>
-      <title>《死侍》和《金鋼狼》最終預告片中出現了洛根熟悉的面孔</title>
+      <title>《死侍》和《金鋼狼》最終預告片中出現了洛根的熟悉面孔</title>
       <link>https://arstechnica.com/?p=2038206</link>
       <description><![CDATA[我們都有一個定義自己的時刻。]]></description>
       <guid>https://arstechnica.com/?p=2038206</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[X 透過讓使用者要求社群註釋來打擊虛假資訊的激增。]]></description>
       <guid>https://arstechnica.com/?p=2038170</guid>
       <pubDate>Fri, 19 Jul 2024 16:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 修復從「最多重新啟動 15 次」開始，然後變得更加複雜</title>
-      <link>https://arstechnica.com/?p=2038144</link>
-      <description><![CDATA[管理員還可以恢復備份或手動刪除 CrowdStrike 有問題的驅動程式。]]></description>
-      <guid>https://arstechnica.com/?p=2038144</guid>
-      <pubDate>Fri, 19 Jul 2024 15:43:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
