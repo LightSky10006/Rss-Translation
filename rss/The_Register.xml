@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 14:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:36:02 GMT</lastBuildDate>
+    <item>
+      <title>工程師在 150 萬公里外修復歐空局蓋亞天文台</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/engineers_fix_esas_gaia_observatory/</link>
+      <description><![CDATA[您認為回滾大廳伺服器上的中斷更新很困難嗎？微流星體撞擊、設備故障和令人印象深刻的太陽風暴...... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/engineers_fix_esas_gaia_observatory/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>令人毛骨悚然的人工智慧爬蟲四處尋找片段，網站被取締</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ai_training_data_shrinks/</link>
@@ -29,12 +36,12 @@
     <item>
       <title>兩名俄羅斯人因對美國關鍵基礎設施進行網路攻擊而受到製裁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/russians_sanctioned_over_cyberattacks/</link>
-      <description><![CDATA[疑似與克里姆林宮 GRU 有關的黑客活動 上週小丑罷工日，俄羅斯重生網絡軍 (CARR) 的兩名黑客活動成員在美國最新加入的黑客活動中製裁名單.. .]]></description>
+      <description><![CDATA[疑似與克里姆林宮 GRU 有關的黑客行動 上週小丑罷工日，俄羅斯重生網絡軍 (CARR) 的兩名黑客行動小組成員最近加入了美國制裁名單...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/russians_sanctioned_over_cyberattacks/</guid>
       <pubDate>Mon, 22 Jul 2024 12:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>Clacktop：帶有機械鍵盤的 Thinkpad Yoga</title>
+      <title>Clacktop：帶有機械式鍵盤的 Thinkpad Yoga</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</link>
       <description><![CDATA[令人印象深刻的是，這是一款我們希望能購買新的筆記型電腦 配備機械鍵盤的 Thinkpad Yoga 可能會給聯想和 Framework 敲響警鐘.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>IT 管理員擔心 CrowdStrike Windows patchpocalypse 可能需要數週才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</link>
-      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常怪異的星期五 Kettle 如果您是網路上有 Windows 機器的 IT 管理員，那麼星期五不會有很多樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
+      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常奇怪的星期五 Kettle 如果您是網路上有Windows 機器的IT 管理員，那麼星期五不會有太多的事情樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</guid>
       <pubDate>Fri, 19 Jul 2024 17:54:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始與網路釣魚組織合作，並旋轉聲稱是修復程式的惡意網域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</guid>
       <pubDate>Fri, 19 Jul 2024 15:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>生活被打斷：CrowdStrike 的補丁失敗如何擾亂世界</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</link>
-      <description><![CDATA[哦，這應該是 2024 年嗎？我們知道機場、醫院和常見的關鍵基礎設施都受到了影響，但 CrowdStrike 也以一些意想不到的方式擾亂了日常生活。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/life_interrupted_how_crowdstrikes_patch/</guid>
-      <pubDate>Fri, 19 Jul 2024 14:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
