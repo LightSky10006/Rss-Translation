@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 19:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 19:34:42 GMT</lastBuildDate>
+    <item>
+      <title>Google Gemini 如何處理您的資料？嗯，這很複雜...</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/google_workspace_gemini/</link>
+      <description><![CDATA[我們被告知，最大的誤解是資料攝取正在發生 Google 在面臨有關其 AI 模型攝取私人文件的指控後表示，Gemini 可以即時讀取和總結此類敏感資料– 但必須獲得Workspace 使用者的明確許可。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/google_workspace_gemini/</guid>
+      <pubDate>Mon, 22 Jul 2024 19:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>據稱 Nvidia 正在為中國市場準備 Blackwell GPU</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/nvidia_said_to_be_prepping/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[快速恢復工具正在測試，微軟估計有 850 萬台機器出現故障 CrowdStrike 現在臭名昭著的 Falcon Sensor 軟體上週導致 Windows 電腦大範圍宕機，也導致 Linux 崩潰機器.. .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/</guid>
       <pubDate>Sun, 21 Jul 2024 23:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟將 Game Pass 價格提高 81%，FTC 搶奪控制器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/20/microsoft_game_pass_ftc/</link>
-      <description><![CDATA[這正是我們所說的暴雪合併後將會發生的情況，監管機構感嘆道，因為它的吸引力仍在繼續 微軟計劃大幅提高其Game Pass 訂閱價格- 而美國監管機構並沒有這樣做好笑。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/20/microsoft_game_pass_ftc/</guid>
-      <pubDate>Sat, 20 Jul 2024 16:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
