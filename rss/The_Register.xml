@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 13:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 14:11:55 GMT</lastBuildDate>
+    <item>
+      <title>甲骨文斥資 1.15 億美元平息隱私訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/oracle_settles_privacy_case/</link>
+      <description><![CDATA[Big Red 同意在兩年集體訴訟後不再獲取個人資訊 Oracle 已同意支付 1.15 億美元來和解一場涉嫌濫用用戶資料的兩年集體訴訟。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/oracle_settles_privacy_case/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>微軟聲稱歐盟向 CrowdStrike 提供了 Windows 核心的金鑰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/windows_crowdstrike_kernel_eu/</link>
-      <description><![CDATA[2009 年的互通性指令是罪魁禍首嗎？這就是總部位於雷德蒙的雲端和軟體巨頭所兜售的意思。]]></description>
+      <description><![CDATA[2009 年的互通性協議是罪魁禍首嗎？這就是總部位於雷德蒙的雲端和軟體巨頭所兜售的意思。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/windows_crowdstrike_kernel_eu/</guid>
       <pubDate>Mon, 22 Jul 2024 13:00:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[CrowdStrike？更像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</guid>
       <pubDate>Fri, 19 Jul 2024 14:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌將一勞永逸地消滅網址縮短器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_to_kill_off_url_shortener/</link>
-      <description><![CDATA[使用 goo.gl 縮短的連結將於 2025 年停止工作 Google 很快就會透過在 2025 年關閉 Google URL Shortener 服務來解決連結失效問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/google_to_kill_off_url_shortener/</guid>
-      <pubDate>Fri, 19 Jul 2024 13:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
