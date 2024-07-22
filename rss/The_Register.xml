@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 08:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:12:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 的 CISPE 和解協議包括暫停對成員的審核</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/microsofts_cispe_settlement_included_an/</link>
+      <description><![CDATA[雲集團公司將在2 年內免受雷蒙德合規警察的管轄，以換取放棄EC 反壟斷投訴 獨家 這是Microsoft 與歐洲多家雲端提供者達成的和解協議的一部分據多個知情人士透露，反壟斷投訴消失是軟體審計兩年的暫停。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/microsofts_cispe_settlement_included_an/</guid>
+      <pubDate>Mon, 22 Jul 2024 09:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>Serco 任命前 GDS 領導者 Tom Read 擔任數位領導職務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/serco_appoints_former_gds_leader/</link>
@@ -71,21 +78,21 @@
     <item>
       <title>英國警察逮捕米高梅度假村網路攻擊調查中的青少年嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</link>
-      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，勒索軟體使拉斯維加斯的米高梅度假村陷入癱瘓。]]></description>
+      <description><![CDATA[FBI 表示將在全球「不懈追捕」不法分子，17 歲少年被戴上手銬 英國警察逮捕了臭名昭著的「分散蜘蛛」犯罪團伙的一名嫌疑成員，該團夥被指控犯有去年夏天，拉斯維加斯的米高梅度假村因勒索軟體而陷入癱瘓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/uk_mgm_suspect_arrested/</guid>
       <pubDate>Fri, 19 Jul 2024 21:51:06 GMT</pubDate>
     </item>
     <item>
       <title>IT 管理員擔心 CrowdStrike Windows patchpocalypse 可能需要數週才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</link>
-      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常怪異的星期五 Kettle 如果您是網路上有 Windows 機器的 IT 管理員，那麼星期五不會有很多樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
+      <description><![CDATA[我們的禿鷹聚集在一起回顧這個非常奇怪的星期五 Kettle 如果您是網路上有Windows 機器的IT 管理員，那麼星期五不會有太多的事情樂趣。可能有數以百萬計的系統曾經或仍然陷入藍屏啟動循環地獄，大多數需要手動幹預才能修復。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_windows_kettle/</guid>
       <pubDate>Fri, 19 Jul 2024 17:54:07 GMT</pubDate>
     </item>
     <item>
       <title>網路犯罪分子迅速利用 CrowdStrike 混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</link>
-      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始利用網路釣魚組織並創建聲稱是修復程式的惡意網域。]]></description>
+      <description><![CDATA[誰喜歡全球停電？網路釣魚者、詐欺者和各種不法之徒 嗯，速度很快。犯罪分子沒有浪費任何時間利用 CrowdStrike-Microsoft 的混亂，並迅速開始與網路釣魚組織合作，並旋轉聲稱是修復程式的惡意網域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/cyber_criminals_quickly_exploit_crowdstrike/</guid>
       <pubDate>Fri, 19 Jul 2024 15:22:07 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>憤怒的管理員分享 CrowdStrike 中斷經歷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</link>
-      <description><![CDATA[CrowdStrike？更像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
+      <description><![CDATA[CrowdStrike？比較像是小丑罷工！ Amirite？  IT 管理員正在努力應對錯誤的 CrowdStrike 檔案更新帶來的持續影響。其中一位接受《The Register》採訪，分享採煤工作面的狀況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/admin_crowdstrike_update_mess/</guid>
       <pubDate>Fri, 19 Jul 2024 14:01:29 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>英國通訊監管機構禁止與通膨相關的中期合約價格上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</link>
-      <description><![CDATA[但僅限於新的移動和寬頻合同，且僅從2025 年1 月起 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
+      <description><![CDATA[但僅限於新的移動和寬頻合同，並且僅從2025 年1 月開始 英國通信監管機構Ofcom 已禁止與通貨膨脹相關的合同中期價格上漲。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/ofcom_inflationlinked_midcontract_price_rises/</guid>
       <pubDate>Fri, 19 Jul 2024 11:22:40 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[緊急服務、醫療實踐、航空公司、銀行等都陷入癱瘓 更新狡猾的通道文件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/crowdstrike_shares_sink_as_global/</guid>
       <pubDate>Fri, 19 Jul 2024 09:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>凱捷與英國稅務機關達成價值高達 5.74 億英鎊的交易</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/19/capgemini_win_hrmc_deal_worth/</link>
-      <description><![CDATA[英國稅務海關總署(HMRC) 與法國外包商之間的戀情將持續25 年 英國稅務機關授予凱捷(Capgemini) 一份價值高達5.74 億英鎊（7.41 億美元）的合同，負責運營遺留稅務管理系統直至2029 年，其中一個最初是根據一項有爭議的安排建造的，該安排原定於 2020 年結束。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/19/capgemini_win_hrmc_deal_worth/</guid>
-      <pubDate>Fri, 19 Jul 2024 08:43:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
