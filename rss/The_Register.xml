@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 07:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 07:36:09 GMT</lastBuildDate>
+    <item>
+      <title>AMD 聲稱 Nvidia 的 Grace CPU Superchip、Arm 無法與其 Epyc Zen 4 核心匹敵</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</link>
+      <description><![CDATA[但是，當Grace 需要的只是照顧GPU 時，這還重要嗎？ ，最高可達效率比 Nvidia 的 Grace CPU Superchips 高 2.75 倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</guid>
+      <pubDate>Tue, 23 Jul 2024 07:26:13 GMT</pubDate>
+    </item>
     <item>
       <title>香港成為向伊朗和俄羅斯運送違禁技術的主要樞紐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[英國大學用戶計劃取消對一些圍繞100 萬英鎊構建解決方案的產品的支持，面臨遷移之路 獨家 用於牛津大學新冠疫苗研究成本的軟體已成為企業應用程式開發商 Unit4 發布的生命週期終止公告的主題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/unit4_ends_support_for_research/</guid>
       <pubDate>Mon, 22 Jul 2024 10:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 的 CISPE 和解協議包括暫停對成員的審核</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/microsofts_cispe_settlement_included_an/</link>
-      <description><![CDATA[雲集團公司將在2 年內免受雷蒙德合規警察的管轄，以換取放棄EC 反壟斷投訴 獨家 這是Microsoft 與歐洲眾多雲提供者達成的和解協議的一部分據多個知情人士透露，反壟斷投訴消失是軟體審計兩年的暫停。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/microsofts_cispe_settlement_included_an/</guid>
-      <pubDate>Mon, 22 Jul 2024 09:34:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
