@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 14:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 14:36:44 GMT</lastBuildDate>
+    <item>
+      <title>據報道，Alphabet 對 Wiz 的 23B 美元押注失敗了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/alphabet_wiz_deal_scuppered/</link>
+      <description><![CDATA[網路安全公司將獨自進行IPO 並獲得10 億美元的年利率 在Alphabet 第二季財報電話會議當天，網路安全公司Wiz 放棄了谷歌母公司230 億美元的收購要約。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/alphabet_wiz_deal_scuppered/</guid>
+      <pubDate>Tue, 23 Jul 2024 14:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>FCC 稱，未能遵循正確程序導致 AT&T 全美國停電</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/atandt_outage_fcc_report/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 23 Jul 2024 10:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>隨著支持時間的流逝，SAP 系統為英國稅務員帶來了 750B 英鎊的頭痛</title>
+      <title>隨著支持時間的流逝，SAP 系統給英國稅務員帶來了 750B 英鎊的頭痛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</link>
       <description><![CDATA[目前，凱捷再次出手救援 更新 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理英鎊在接下來的幾週內，每年的交易量將達到7500 億（9680 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>FrostyGoop 惡意軟體切斷了 600 棟烏克蘭公寓大樓的供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</link>
-      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的溫度下兩天沒有暖氣。]]></description>
+      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的氣溫下兩天沒有暖氣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</guid>
       <pubDate>Tue, 23 Jul 2024 09:00:45 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>香港成為向伊朗和俄羅斯運送違禁技術的主要樞紐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</link>
-      <description><![CDATA[聲稱報告稱，政府似乎並不介意，而企業對此也很感興趣 據報道，香港政府和當地企業故意協助將受限制和敏感的技術轉移給頑皮的政權，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
+      <description><![CDATA[政府似乎不介意，而企業對此也很感興趣，索賠報告稱 據報道，香港政府和當地企業故意促進受限制和敏感技術向頑皮政權的轉讓，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</guid>
       <pubDate>Tue, 23 Jul 2024 06:44:42 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>印尼封鎖 250 萬條賭博內容，部長稱這還不夠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</link>
-      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼存在線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
+      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼有線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</guid>
       <pubDate>Tue, 23 Jul 2024 01:57:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[但它們會在拜登政府收緊出口管制之前發貨嗎？其最新產品布萊克威爾建築到中國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/nvidia_said_to_be_prepping/</guid>
       <pubDate>Mon, 22 Jul 2024 18:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體攻擊後洛杉磯縣高等法院關閉重啟司法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ransomware_la_county_superior_court/</link>
-      <description><![CDATA[惡人可以休息一下嗎？ /p &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ransomware_la_county_superior_court/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
