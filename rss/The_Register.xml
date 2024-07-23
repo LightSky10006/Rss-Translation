@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 04:36:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:16:07 GMT</lastBuildDate>
+    <item>
+      <title>英特爾將為因電壓故障而「不穩定」的 Raptor Lake CPU 提供修復</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/intel_raptor_lake_instability_fix/</link>
+      <description><![CDATA[透過有趣的微代碼升級讓那些煩人的崩潰成為過去！  英特爾已承諾為其最近遇到“穩定性問題”的一些桌面處理器提供修復程序。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/intel_raptor_lake_instability_fix/</guid>
+      <pubDate>Tue, 23 Jul 2024 05:41:38 GMT</pubDate>
+    </item>
     <item>
       <title>騰訊雲推出針對中國晶片調整的 CentOS 變體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/tencentos_server_v3_launch/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Read 也曾在英國司法部任職，外包商因電子標籤慘敗而支付罰款 英國外包供應商 Serco 已任命中央政府數位機構負責人 Tom Read 擔任集團首席數位和技術職務軍官……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/serco_appoints_former_gds_leader/</guid>
       <pubDate>Mon, 22 Jul 2024 08:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 惡作劇讓技術人員直接陷入 Excel 地獄</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/who_me/</link>
-      <description><![CDATA[當有人因為害怕被解僱而把椅子踢過房間時，這就不再有趣了 誰，我？  親愛的讀者，又是一個星期一，這意味著一周的工作又開始了。從好的方面來說，這也意味著讀者提交的又一劑 IT 惡作劇故事，我們稱之為「誰，我？」…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/who_me/</guid>
-      <pubDate>Mon, 22 Jul 2024 07:32:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
