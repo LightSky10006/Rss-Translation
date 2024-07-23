@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 07:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 08:38:39 GMT</lastBuildDate>
+    <item>
+      <title>如何維護程式碼百年：只要新增 Rust</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</link>
+      <description><![CDATA[專有程式碼不會發布 - 但自由和開源軟體軟體包永遠不會消亡 意見 開源軟體的美好承諾之一就是永生。從《吉爾伽美甚》開始的文獻中，這一直是粗心和貪婪者的典型陷阱，但這是自由和開源軟體，所以它一定是真的。沒有包包會消亡。專有程式碼未發布：如果其託管公司死亡，那麼在伺服器被擦除的那一刻，它可能會隨之死亡。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</guid>
+      <pubDate>Tue, 23 Jul 2024 08:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 聲稱 Nvidia 的 Grace CPU Superchip、Arm 無法與其 Epyc Zen 4 核心匹敵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>香港成為向伊朗和俄羅斯運送違禁技術的主要樞紐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</link>
-      <description><![CDATA[政府似乎不介意，而企業對此也很感興趣，索賠報告稱 據報道，香港政府和當地企業故意促進受限制和敏感技術向頑皮政權的轉讓，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
+      <description><![CDATA[聲稱報告稱，政府似乎並不介意，而企業對此也很感興趣 據報道，香港政府和當地企業故意協助將受限制和敏感的技術轉移給頑皮的政權，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</guid>
       <pubDate>Tue, 23 Jul 2024 06:44:42 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>印尼封鎖 250 萬條賭博內容，部長稱這還不夠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</link>
-      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼有線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
+      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼存在線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</guid>
       <pubDate>Tue, 23 Jul 2024 01:57:14 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>兩名俄羅斯人因對美國關鍵基礎設施進行網路攻擊而受到製裁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/russians_sanctioned_over_cyberattacks/</link>
-      <description><![CDATA[疑似與克里姆林宮 GRU 有關的黑客活動 上週小丑罷工日，俄羅斯重生網絡軍 (CARR) 的兩名黑客活動成員在美國最新加入的黑客活動中製裁名單.. .]]></description>
+      <description><![CDATA[疑似與克里姆林宮 GRU 有關的黑客行動 上週小丑罷工日，俄羅斯重生網絡軍 (CARR) 的兩名黑客行動小組成員最近加入了美國制裁名單...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/russians_sanctioned_over_cyberattacks/</guid>
       <pubDate>Mon, 22 Jul 2024 12:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>Clacktop：帶有機械鍵盤的 Thinkpad Yoga</title>
+      <title>Clacktop：帶有機械式鍵盤的 Thinkpad Yoga</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</link>
       <description><![CDATA[令人印象深刻的是，這是一款我們希望能購買新的筆記型電腦 配備機械鍵盤的 Thinkpad Yoga 可能會給聯想和 Framework 敲響警鐘.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/clacktop_modded_thinkpad_yoga/</guid>
       <pubDate>Mon, 22 Jul 2024 11:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unit4 終止對用於規劃新冠疫苗的研究成本計算工具的支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/unit4_ends_support_for_research/</link>
-      <description><![CDATA[英國大學用戶計劃取消對一些圍繞100 萬英鎊構建解決方案的產品的支持，面臨遷移之路 獨家 用於牛津大學新冠疫苗研究成本的軟體已成為企業應用程式開發商 Unit4 發布的生命週期終止公告的主題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/unit4_ends_support_for_research/</guid>
-      <pubDate>Mon, 22 Jul 2024 10:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
