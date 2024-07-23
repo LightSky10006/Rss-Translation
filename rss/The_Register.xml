@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 22 Jul 2024 23:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 00:51:50 GMT</lastBuildDate>
+    <item>
+      <title>谷歌在 Chrome 中刪除第三方 cookie 的計劃失敗了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/google_cookies_third_party_continue/</link>
+      <description><![CDATA[廣告巨頭承諾保護隱私，批評者表示監控仍在繼續 Google 不再打算放棄對第三方Cookie 的支持，第三方Cookie 是廣告業用來追蹤人們並針對他們進行定位的線上識別碼是基於他們的線上活動的廣告。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/google_cookies_third_party_continue/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:03:53 GMT</pubDate>
+    </item>
     <item>
       <title>Mozilla Thunderbird 終於獲得系統托盤通知</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/mozilla_thunderbird_ffix/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[紅色星球上意想不到的黃色飛濺 好奇號火星車發現了一些令人驚訝的東西：由純硫製成的岩石。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/curiosty_rover_sulfur/</guid>
       <pubDate>Mon, 22 Jul 2024 05:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google、甲骨文、微軟都提出了VMware遷移的理由－HPE在外面？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/vmware_cloud_migration_options/</link>
-      <description><![CDATA[大量新實例類型和折扣，Broadcom 滿臉笑容，因為其首選許可找到了更多朋友 Google Cloud 已提供其雲端VMware 產品的Broadcom 相容版本，並將其定位為價格合理的產品遷移目標...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/vmware_cloud_migration_options/</guid>
-      <pubDate>Mon, 22 Jul 2024 04:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
