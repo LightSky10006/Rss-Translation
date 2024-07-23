@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 15:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 16:16:00 GMT</lastBuildDate>
+    <item>
+      <title>卡瑪拉·哈里斯 (Kamala Harris) 與矽谷有著悠久的歷史，這可能會有所幫助，也可能會造成傷害</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/kamala_harris_technology/</link>
+      <description><![CDATA[這位民主黨推定候選人與大型科技公司來來去去 分析 隨著喬·拜登退出美國總統競選，他的副總統卡馬拉·哈里斯有望成為民主黨候選人黨的提名人，但她在矽谷的經歷是否會有所幫助還遠不確定。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/kamala_harris_technology/</guid>
+      <pubDate>Tue, 23 Jul 2024 15:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>在 CrowdStrike 危機中，網路騙子因網域誤植而陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/typosquatting_crowdstrike_crisis/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[NLRB 認為，你不能提供更好的交易來換取沉默 美國法官裁定，Meta 在2022 年大規模裁員期間向員工提供的離職協議是非法的，其推理可能會產生影響遠超出 Zuckercorp。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/meta_layoff_severance_agreements/</guid>
       <pubDate>Mon, 22 Jul 2024 19:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini 如何處理您的資料？嗯，這很複雜...</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/google_workspace_gemini/</link>
-      <description><![CDATA[我們被告知，最大的誤解是資料攝取正在發生 Google 在面臨有關其 AI 模型攝取私人文件的指控後表示，Gemini 可以即時讀取和總結此類敏感資料– 但必須獲得Workspace 使用者的明確許可。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/google_workspace_gemini/</guid>
-      <pubDate>Mon, 22 Jul 2024 19:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
