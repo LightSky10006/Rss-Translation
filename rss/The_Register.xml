@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 11:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:20:36 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 執行長被傳喚，向美國國土安全部解釋重大失敗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/</link>
+      <description><![CDATA[Boss 面臨災難性軟體混亂的拷問 美國眾議院國土安全委員會已要求 CrowdStrike 執行長 George Kurtz 就錯誤更新造成的混亂提供公開證詞。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/</guid>
+      <pubDate>Tue, 23 Jul 2024 12:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>基於 Arch 的 CachyOS 承諾速度快，但會被鞋帶絆倒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/cachyos_arch_linux/</link>
-      <description><![CDATA[專門針對擁有超現代套件且想要與之匹配的發行版的性能愛好者 動手 CachyOS 是Arch Linux 的性能優化重建版本，安裝程式更簡單以及數十個桌面和可供調整的選項。穩定的可靠性，不是那麼多。]]></description>
+      <description><![CDATA[專門針對擁有超現代套件且想要與之匹配的發行版的性能愛好者 動手 CachyOS 是Arch Linux 的性能優化重建版本，安裝程式更簡單以及數十個桌面和可供調整的選項。穩定的可靠性，沒那麼多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/cachyos_arch_linux/</guid>
       <pubDate>Tue, 23 Jul 2024 11:27:14 GMT</pubDate>
     </item>
@@ -20,23 +27,23 @@
       <pubDate>Tue, 23 Jul 2024 10:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>隨著支持時間的流逝，SAP 系統給英國稅務員帶來了 750B 英鎊的頭痛</title>
+      <title>隨著支持時間的流逝，SAP 系統為英國稅務員帶來了 750B 英鎊的頭痛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</link>
-      <description><![CDATA[目前，凱捷再次出手救援 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理 7500 億英鎊（9680 億美元）的交易一年- 在接下來的幾週內......]]></description>
+      <description><![CDATA[目前，凱捷再次出手救援 更新 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理英鎊在接下來的幾週內，每年的交易量將達到7500 億（9680 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</guid>
       <pubDate>Tue, 23 Jul 2024 10:00:09 GMT</pubDate>
     </item>
     <item>
       <title>FrostyGoop 惡意軟體切斷了 600 棟烏克蘭公寓大樓的供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</link>
-      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的氣溫下兩天沒有暖氣。]]></description>
+      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的溫度下兩天沒有暖氣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</guid>
       <pubDate>Tue, 23 Jul 2024 09:00:45 GMT</pubDate>
     </item>
     <item>
       <title>如何維護程式碼百年：只要新增 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</link>
-      <description><![CDATA[專有程式碼不會發布 - 但自由和開源軟體軟體包永遠不會消亡 意見 開源軟體的美好承諾之一就是永生。從《吉爾伽美甚》開始的文獻中，這一直是粗心和貪婪者的典型陷阱，但這是自由和開源軟體，所以它一定是真的。沒有包包會消亡。專有程式碼未發布：如果其託管公司死亡，那麼在伺服器被擦除的那一刻，它可能會隨之死亡。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
+      <description><![CDATA[專有程式碼不會發布 - 但自由和開源軟體軟體包永遠不會消亡 意見 開源軟體的美好承諾之一就是永生。從《吉爾伽美甚》開始的文獻中，這一直是粗心和貪婪者的經典陷阱，但這是自由和開源軟體，所以它一定是真的。沒有包包會消亡。專有程式碼未發布：如果其託管公司死亡，那麼在伺服器被擦除的那一刻，它可能會隨之死亡。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</guid>
       <pubDate>Tue, 23 Jul 2024 08:30:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>香港成為向伊朗和俄羅斯運送違禁技術的主要樞紐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</link>
-      <description><![CDATA[政府似乎不介意，而企業對此也很感興趣，索賠報告稱 據報道，香港政府和當地企業故意促進受限制和敏感技術向頑皮政權的轉讓，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
+      <description><![CDATA[索賠報告稱，政府似乎並不介意，而企業對此也很感興趣 據報道，香港政府和當地企業故意協助將受限制和敏感的技術轉移給頑皮的政權，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</guid>
       <pubDate>Tue, 23 Jul 2024 06:44:42 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>印尼封鎖 250 萬條賭博內容，部長稱這還不夠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</link>
-      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼有線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
+      <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼存在線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有進一步阻止和私營部門的幫助才能打破這種習慣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</guid>
       <pubDate>Tue, 23 Jul 2024 01:57:14 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>全球警察關閉了世界上「最多產」的 DDoS 經銷商</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ddos_for_hire_shutdown/</link>
-      <description><![CDATA[幾週前逮捕了一名嫌疑人，但目前還沒有關於嫌疑人身份的消息 英國國家犯罪局(NCA) 將這個DDoS 出租網站描述為世界上該領域最多產的運營商在一次被稱為“斷電行動”的執法行動之後，該公司已停止運作。]]></description>
+      <description><![CDATA[幾週前逮捕了一名嫌疑人，但目前還沒有關於嫌疑人身份的消息 英國國家犯罪局(NCA) 將這個DDoS 出租網站描述為世界上該領域最多產的運營商在一次名為“斷電行動”的執法行動中，該公司已停止運作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ddos_for_hire_shutdown/</guid>
       <pubDate>Mon, 22 Jul 2024 20:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您認為回滾大廳伺服器上的中斷更新很困難嗎？微流星體撞擊、設備故障和令人印象深刻的太陽風暴...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/engineers_fix_esas_gaia_observatory/</guid>
       <pubDate>Mon, 22 Jul 2024 15:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人毛骨悚然的人工智慧爬蟲四處尋找片段，網站被取締</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ai_training_data_shrinks/</link>
-      <description><![CDATA[縮小了訓練池，但損害了網路檔案館等服務 研究人員表示，網路對網頁爬蟲的敵意越來越大，尤其是那些為了產生人工智慧而運作的爬蟲。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/22/ai_training_data_shrinks/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
