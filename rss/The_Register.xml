@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 23 Jul 2024 19:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 21:13:15 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 設定檔如何導致數百萬台 Windows 電腦崩潰？我們仔細看看</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_failure_shows_need_for/</link>
+      <description><![CDATA[也許下次會分階段推出？還需要一點QA 嗎？導致Microsoft Windows 機器世界各地崩潰......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_failure_shows_need_for/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:52:12 GMT</pubDate>
+    </item>
     <item>
       <title>聯邦貿易委員會對大企業利用「監控定價」欺騙我們所有人進行調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/ftc_surveillance_pricing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[博彩業蓬勃發展 - 流向海外的資金數量也隨之增加 印尼存在線上賭博問題。儘管去年阻止了對投注內容的訪問超過 250 萬次，但該國通信和信息部 (KomInfo) 認為，只有通過進一步的阻止和私營部門的援助才能打破這種習慣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/indonesia_online_gambling_crackdown/</guid>
       <pubDate>Tue, 23 Jul 2024 01:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在 Chrome 中刪除第三方 cookie 的計劃失敗了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/google_cookies_third_party_continue/</link>
-      <description><![CDATA[廣告巨頭承諾保護隱私，批評者表示監控仍在繼續 Google 不再打算放棄對第三方Cookie 的支持，第三方Cookie 是廣告業用來追蹤人們並針對他們進行定位的線上識別碼是基於他們的線上活動的廣告。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/google_cookies_third_party_continue/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:03:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
