@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 04:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:12:02 GMT</lastBuildDate>
+    <item>
+      <title>保全公司 KnowBe4 僱用了假北韓技術人員，他直接開始工作…從事邪惡工作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</link>
+      <description><![CDATA[如果這種情況發生在進行社會工程防禦培訓的人身上，我們其他人還有什麼希望？在它的人工智慧團隊，只有當工人開始使用公司提供的電腦進行邪惡時才意識到自己的錯誤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</guid>
+      <pubDate>Wed, 24 Jul 2024 04:57:14 GMT</pubDate>
+    </item>
     <item>
       <title>VMware 將支援延長六個月，讓 vSphere 7 進入加時賽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[專有程式碼不會發布 - 但自由和開源軟體軟體包永遠不會消亡 意見 開源軟體的美好承諾之一就是永生。從《吉爾伽美甚》開始的文獻中，這一直是粗心和貪婪者的典型陷阱，但這是自由和開源軟體，所以它一定是真的。沒有包包會消亡。專有程式碼未發布：如果其託管公司死亡，那麼在伺服器被擦除的那一刻，它可能會隨之死亡。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</guid>
       <pubDate>Tue, 23 Jul 2024 08:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 聲稱 Nvidia 的 Grace CPU Superchip、Arm 無法與其 Epyc Zen 4 核心匹敵</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</link>
-      <description><![CDATA[但是，當Grace 需要的只是照顧GPU 時，這還重要嗎？ ，最高可達效率比 Nvidia 的 Grace CPU Superchips 高 2.75 倍。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</guid>
-      <pubDate>Tue, 23 Jul 2024 07:26:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
