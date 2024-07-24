@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 11:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:20:21 GMT</lastBuildDate>
+    <item>
+      <title>微軟：我們的授權條款不會顯著提高雲端競爭對手的成本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</link>
+      <description><![CDATA[雷蒙德在向競爭與市場管理局提交回應時表現出搖擺 微軟已回應英國競爭與市場管理局(CMA) 對公共雲服務和許可的調查，堅稱其條款「不不會顯著提高雲端競爭對手的成本。」...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</guid>
+      <pubDate>Wed, 24 Jul 2024 11:34:09 GMT</pubDate>
+    </item>
     <item>
       <title>Kia Niro 電動車打破物理學紀錄，行駛里程達 1.14 億英里</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/kia_niro_app_blunder/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
-      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行可選Wi-Fi 連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
       <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 24 Jul 2024 00:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 聲稱「世界上最大」的開放人工智慧模型 Llama 3.1 405B 首次亮相</title>
+      <title>Meta 聲稱「世界上最大」的開放 AI 模型 Llama 3.1 405B 首次亮相</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</link>
       <description><![CDATA[Zuck 說他想模仿 Linux 並走向開源 Meta 今天發布了 Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，社交網絡聲稱可以使用該模型 -與OpenAI 和Anthropic 的頂級模型並肩作戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路安全公司將獨自進行IPO 並獲得10 億美元的年利率 在Alphabet 第二季財報電話會議當天，網路安全公司Wiz 放棄了谷歌母公司230 億美元的收購要約。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/alphabet_wiz_deal_scuppered/</guid>
       <pubDate>Tue, 23 Jul 2024 14:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 稱，未能遵循正確程序導致 AT&T 全美國停電</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/atandt_outage_fcc_report/</link>
-      <description><![CDATA[美國第二大無線營運商採取措施，防止 2 月再次發生 12 小時停機 AT&amp;T 蜂窩網路中斷持續超過 12 小時，導致用戶無法存取包括 911 在內的服務，原因是硬體配置錯誤以及部署時未能遵循標準程序。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/atandt_outage_fcc_report/</guid>
-      <pubDate>Tue, 23 Jul 2024 13:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
