@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 19:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 19:35:15 GMT</lastBuildDate>
+    <item>
+      <title>微軟希望其人工智慧資料中心之間有更粗的管道，要求 Lumen 簡化工作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_ai_dc_lumen/</link>
+      <description><![CDATA[這就是孩子們所說的發光嗎？智慧服務業務，兩人週三透露。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_ai_dc_lumen/</guid>
+      <pubDate>Wed, 24 Jul 2024 19:21:15 GMT</pubDate>
+    </item>
     <item>
       <title>費城樹木修剪者未能將聯邦貿易委員會的競業禁止禁令消滅在萌芽狀態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/philadelphia_ftc_noncompete_ban_dispute/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[總統為失業提前道歉 菲律賓已決定拆除其離岸行業中最糟糕的部分：經營賭博和詐騙業務的部門。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/phillipines_bans_online_gambling_operators/</guid>
       <pubDate>Wed, 24 Jul 2024 00:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 聲稱「世界上最大」的開放 AI 模型 Llama 3.1 405B 首次亮相</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</link>
-      <description><![CDATA[Zuck 說他想模仿 Linux 並走向開源 Meta 今天發布了 Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，社交網絡聲稱可以使用該模型 -與OpenAI 和Anthropic 的頂級模型並肩作戰。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</guid>
-      <pubDate>Tue, 23 Jul 2024 21:38:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
