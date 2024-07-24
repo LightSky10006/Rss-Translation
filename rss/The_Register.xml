@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 06:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 07:35:07 GMT</lastBuildDate>
+    <item>
+      <title>「數據大使館」承諾數位主權泡沫，但印度對這個想法態度冷淡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/data_embassies/</link>
+      <description><![CDATA[從表面上看，它們看起來更像是一種推銷——或者是一種軟實力遊戲 大使館是地方當局無法自由進入的主權泡沫，其中某些通信享有特權－這種安排是普遍認為對於促進國際關係至關重要。現在，有人建議根據需要採取相同的保護措施，以創建一個「資料大使館」——地方當局無法訪問的資料中心，各國可以在其中儲存資訊並在外國海岸運行軟體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/data_embassies/</guid>
+      <pubDate>Wed, 24 Jul 2024 07:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>忘記安全性——谷歌的 reCAPTCHA v2 正在利用用戶牟利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在太空中，當您踩到別人時，沒有人會聽到您的尖叫 ESA 的太空積木已登陸LEGO® 商店，但您無法購買3D 列印的物品來添加到您自己的物品中創作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/esa_lego_space_brick/</guid>
       <pubDate>Tue, 23 Jul 2024 10:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著支持時間的流逝，SAP 系統為英國稅務員帶來了 750B 英鎊的頭痛</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</link>
-      <description><![CDATA[目前，凱捷再次出手救援 更新 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理英鎊在接下來的幾週內，每年的交易量將達到7500 億（9680 億美元）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</guid>
-      <pubDate>Tue, 23 Jul 2024 10:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
