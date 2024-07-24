@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 20:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 21:12:00 GMT</lastBuildDate>
+    <item>
+      <title>哎呀。蘋果公司依賴糟糕的程式碼，同時抨擊谷歌瀏覽器的主題廣告技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_google_topics/</link>
+      <description><![CDATA[是的，您可以透過 Privacy Sandbox 進行指紋辨識和追蹤 - 儘管風險很低 Apple 上週慶祝了 Safari 瀏覽器的一系列隱私更改，並花時間抨擊了競爭對手 Google它的主題系統根據您的Chrome 歷史記錄投放線上廣告。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_google_topics/</guid>
+      <pubDate>Wed, 24 Jul 2024 20:44:06 GMT</pubDate>
+    </item>
     <item>
       <title>微軟希望其人工智慧資料中心之間有更粗的管道，要求 Lumen 簡化工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_ai_dc_lumen/</link>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 24 Jul 2024 11:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>蒂姆·皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
+      <title>蒂姆皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</link>
       <description><![CDATA[新任務：為在軌英國人確保資金 前歐洲航天局宇航員蒂姆·皮克(Tim Peake) 已加入Axiom Space 的宇航員團隊，擔任戰略顧問，支持潛在的全英國載人航天任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[由於 G-Cloud 帶來了巨額資金和豐厚的利潤 Google 已成功限制了使用人工智慧產生結果時產生的成本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/alphabet_q2_2024/</guid>
       <pubDate>Wed, 24 Jul 2024 02:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律賓消滅其合法的線上賭博業以打擊詐騙者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/phillipines_bans_online_gambling_operators/</link>
-      <description><![CDATA[總統為失業提前道歉 菲律賓已決定拆除其離岸行業中最糟糕的部分：經營賭博和詐騙業務的部門。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/phillipines_bans_online_gambling_operators/</guid>
-      <pubDate>Wed, 24 Jul 2024 00:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
