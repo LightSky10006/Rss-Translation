@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 24 Jul 2024 16:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 18:40:43 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 將導致 850 萬台 Windows PC 癱瘓的安全更新歸咎於測試錯誤</title>
+      <link>https://arstechnica.com/?p=2038917</link>
+      <description><![CDATA[該公司表示正在改進測試流程以避免重蹈覆轍。]]></description>
+      <guid>https://arstechnica.com/?p=2038917</guid>
+      <pubDate>Wed, 24 Jul 2024 17:33:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的 Play 商店希望從「抓取即走」轉向活躍的目的地</title>
+      <link>https://arstechnica.com/?p=2038915</link>
+      <description><![CDATA[如果多應用程式購物不能讓您留在那裡，也許免費的 Pixel 裝備可以。]]></description>
+      <guid>https://arstechnica.com/?p=2038915</guid>
+      <pubDate>Wed, 24 Jul 2024 17:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆馬斯克聲稱他正在訓練“世界上各個指標上最強大的人工智慧”</title>
       <link>https://arstechnica.com/?p=2038885</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[如果這種情況持續下去，特斯拉作為成長股的地位將需要一些解釋。]]></description>
       <guid>https://arstechnica.com/?p=2038810</guid>
       <pubDate>Tue, 23 Jul 2024 21:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alexa“沒有盈利時間表”，亞馬遜在 4 年內損失了 250 億美元</title>
-      <link>https://arstechnica.com/?p=2038688</link>
-      <description><![CDATA[《華爾街日報》的報告強調了模糊的指標和亞馬遜設備的內部困境。]]></description>
-      <guid>https://arstechnica.com/?p=2038688</guid>
-      <pubDate>Tue, 23 Jul 2024 21:01:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一個任何人都可以下載的 GPT-4 級 AI 模型已經到來：Llama 405B</title>
-      <link>https://arstechnica.com/?p=2038486</link>
-      <description><![CDATA[「開源人工智慧是前進的道路，」馬克·祖克柏誤用了這個術語。]]></description>
-      <guid>https://arstechnica.com/?p=2038486</guid>
-      <pubDate>Tue, 23 Jul 2024 20:01:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
