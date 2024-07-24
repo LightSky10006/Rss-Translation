@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 05:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:35:56 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 將其造成的全球混亂歸咎於測試軟體錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/</link>
+      <description><![CDATA[名為「內容驗證器」的東西並未驗證內容，其餘的都已成為歷史 CrowdStrike 將上週引發的大規模崩潰事件歸咎於其自己的測試軟體中的錯誤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/</guid>
+      <pubDate>Wed, 24 Jul 2024 05:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>保全公司 KnowBe4 僱用了假北韓技術人員，他直接開始工作…從事邪惡工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的溫度下兩天沒有暖氣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</guid>
       <pubDate>Tue, 23 Jul 2024 09:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何維護程式碼百年：只要新增 Rust</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</link>
-      <description><![CDATA[專有程式碼不會發布 - 但自由和開源軟體軟體包永遠不會消亡 意見 開源軟體的美好承諾之一就是永生。從《吉爾伽美甚》開始的文獻中，這一直是粗心和貪婪者的典型陷阱，但這是自由和開源軟體，所以它一定是真的。沒有包包會消亡。專有程式碼未發布：如果其託管公司死亡，那麼在伺服器被擦除的那一刻，它可能會隨之死亡。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/opinion_column/</guid>
-      <pubDate>Tue, 23 Jul 2024 08:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
