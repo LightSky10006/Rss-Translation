@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 16:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 17:10:30 GMT</lastBuildDate>
+    <item>
+      <title>山姆大叔對達美航空 CrowdStrike 動盪展開調查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/transport_department_delta_probe/</link>
+      <description><![CDATA[人們普遍擔心，與競爭對手相比，為什麼它需要這麼長時間才能恢復 美國運輸部(DoT) 正在調查達美航空對CrowdStrike 內容更新導致的全球IT 中斷的處理方式.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/transport_department_delta_probe/</guid>
+      <pubDate>Wed, 24 Jul 2024 17:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克用擎天柱的樂觀態度扭轉了特斯拉汽車銷售低迷的局面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tesla_q2_2024/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 星期二修補更新可能會將使用者傳送至 BitLocker 復原畫面</title>
+      <title>Windows 週二修補程式更新可能會將使用者傳送至 BitLocker 復原畫面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</link>
       <description><![CDATA[現在不行，微軟 一些 Windows 裝置在安裝 7 月的補丁星期二更新後重新啟動時會向用戶顯示 BitLocker 恢復畫面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 24 Jul 2024 11:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>蒂姆·皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
+      <title>蒂姆皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</link>
       <description><![CDATA[新任務：為在軌英國人確保資金 前歐洲航天局宇航員蒂姆·皮克(Tim Peake) 已加入Axiom Space 的宇航員團隊，擔任戰略顧問，支持潛在的全英國載人航天任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
-      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行可選Wi-Fi 連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
       <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Meta 聲稱「世界上最大」的開放 AI 模型 Llama 3.1 405B 首次亮相</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</link>
-      <description><![CDATA[Zuck 說他想模仿Linux 並走向開源 Meta 今天發布了Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，該社交網絡聲稱可以使用該模型-與 OpenAI 和 Anthropic 的頂級模型並肩作戰。]]></description>
+      <description><![CDATA[Zuck 說他想模仿 Linux 並走向開源 Meta 今天發布了 Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，社交網絡聲稱可以使用該模型 -與OpenAI 和Anthropic 的頂級模型並肩作戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</guid>
       <pubDate>Tue, 23 Jul 2024 21:38:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[也許下次會分階段推出？還需要一點QA 嗎？導致Microsoft Windows 機器世界各地崩潰......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_failure_shows_need_for/</guid>
       <pubDate>Tue, 23 Jul 2024 20:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦貿易委員會對大企業利用「監控定價」欺騙我們所有人進行調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/ftc_surveillance_pricing/</link>
-      <description><![CDATA[曾經不得不以隱身模式購物以避免支付更多費用嗎？這是給你的 美國聯邦貿易委員會(FTC) 發起了一項針對「監控定價」的調查，對於那些不得不在隱身瀏覽器視窗中購買商品以避免支付溢價的人來說，這種現象可能很熟悉。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/ftc_surveillance_pricing/</guid>
-      <pubDate>Tue, 23 Jul 2024 18:26:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
