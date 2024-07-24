@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 03:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 04:13:20 GMT</lastBuildDate>
+    <item>
+      <title>VMware 將支援延長六個月，讓 vSphere 7 進入加時賽</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</link>
+      <description><![CDATA[令人驚喜，但其他一些 vAdmin 的訂閱截止日期為 8 月 1 日 VMware 用戶獲得了一點勝利，因為 Broadcom 業務部門延長了其旗艦 vSphere 軟體的支援壽命... . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</guid>
+      <pubDate>Wed, 24 Jul 2024 03:48:16 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌保持人工智慧搜尋成本不變，孩子們很喜歡它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/alphabet_q2_2024/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Meta 聲稱「世界上最大」的開放 AI 模型 Llama 3.1 405B 首次亮相</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</link>
-      <description><![CDATA[Zuck 說他想模仿 Linux 並走向開源 Meta 今天發布了 Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，社交網絡聲稱可以使用該模型 -與OpenAI 和Anthropic 的頂級模型並肩作戰。]]></description>
+      <description><![CDATA[Zuck 說他想模仿Linux 並走向開源 Meta 今天發布了Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，該社交網絡聲稱可以使用該模型-與 OpenAI 和 Anthropic 的頂級模型並肩作戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</guid>
       <pubDate>Tue, 23 Jul 2024 21:38:13 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>CrowdStrike 執行長被傳喚，向美國國土安全委員會解釋重大失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/</link>
-      <description><![CDATA[Boss 因災難性的軟體混亂而面臨國會質詢 美國眾議院國土安全委員會已要求CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 在錯誤更新造成混亂後公開作證。 ... ]]></description>
+      <description><![CDATA[Boss 因災難性的軟體混亂而面臨國會質詢 美國眾議院國土安全委員會已要求CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 就錯誤更新造成的混亂提供公開證詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/</guid>
       <pubDate>Tue, 23 Jul 2024 12:15:10 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 23 Jul 2024 10:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>隨著支持時間的流逝，SAP 系統給英國稅務員帶來了 750B 英鎊的頭痛</title>
+      <title>隨著支持時間的流逝，SAP 系統為英國稅務員帶來了 750B 英鎊的頭痛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</link>
       <description><![CDATA[目前，凱捷再次出手救援 更新 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理英鎊在接下來的幾週內，每年的交易量將達到7500 億（9680 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>FrostyGoop 惡意軟體切斷了 600 棟烏克蘭公寓大樓的供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</link>
-      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的氣溫下兩天沒有暖氣。]]></description>
+      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的溫度下兩天沒有暖氣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</guid>
       <pubDate>Tue, 23 Jul 2024 09:00:45 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[但是，當Grace 需要的只是照顧GPU 時，這還重要嗎？ ，最高可達效率比 Nvidia 的 Grace CPU Superchips 高 2.75 倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/amd_nvidia_arm_benchmarks/</guid>
       <pubDate>Tue, 23 Jul 2024 07:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港成為向伊朗和俄羅斯運送違禁技術的主要樞紐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</link>
-      <description><![CDATA[政府似乎不介意，而企業對此也很感興趣，索賠報告稱 據報道，香港政府和當地企業故意促進受限制和敏感技術向頑皮政權的轉讓，從而破壞制裁非營利組織香港自由委員會基金會週一發布的一份報告…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/hong_kong_tech_sanctions_evasion/</guid>
-      <pubDate>Tue, 23 Jul 2024 06:44:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
