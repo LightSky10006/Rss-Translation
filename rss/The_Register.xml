@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 05:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 06:40:07 GMT</lastBuildDate>
+    <item>
+      <title>忘記安全性——谷歌的 reCAPTCHA v2 正在利用用戶牟利</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</link>
+      <description><![CDATA[網路謎題無法防範機器人，但人類已經花費了 8.19 億小時無償解決這些謎題 Google 將其 reCAPTCHA 服務作為網站的安全機制進行推廣，但加州大學附屬研究人員，歐文認為，它在獲取資訊的同時，也榨取了價值數十億美元的人類勞動力…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</guid>
+      <pubDate>Wed, 24 Jul 2024 06:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 將其造成的全球混亂歸咎於測試軟體錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_preliminary_incident_report/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[目前，凱捷再次出手救援 更新 英國財政部將確定運行國家稅務系統的老化 SAP 軟體的命運 - 處理英鎊在接下來的幾週內，每年的交易量將達到7500 億（9680 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/sap_ecc_hmrc/</guid>
       <pubDate>Tue, 23 Jul 2024 10:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>FrostyGoop 惡意軟體切斷了 600 棟烏克蘭公寓大樓的供暖</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</link>
-      <description><![CDATA[首次利用Modbus 來幹擾操作技術設備 去年北方冬天，一種名為FrostyGoop 的前所未見的惡意軟體能夠破壞工業流程，被用於針對烏克蘭一家地區能源公司的網路攻擊，導致數百人在零度以下的溫度下兩天沒有暖氣。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/frostygoop_ics_malware/</guid>
-      <pubDate>Tue, 23 Jul 2024 09:00:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
