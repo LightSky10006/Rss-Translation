@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 21:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 21:34:34 GMT</lastBuildDate>
+    <item>
+      <title>AMD 因晶片未達品質控製而暫停 Ryzen 9000 的發布</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</link>
+      <description><![CDATA[品質檢查？ 2024 年？在這樣的經濟環境下？多麼古怪！]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</guid>
+      <pubDate>Wed, 24 Jul 2024 21:26:24 GMT</pubDate>
+    </item>
     <item>
       <title>哎呀。蘋果公司依賴糟糕的程式碼，同時抨擊谷歌瀏覽器的主題廣告技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_google_topics/</link>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 星期二修補更新可能會將使用者傳送至 BitLocker 復原畫面</title>
+      <title>Windows 週二修補程式更新可能會將使用者傳送至 BitLocker 復原畫面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</link>
       <description><![CDATA[現在不行，微軟 一些 Windows 裝置在安裝 7 月的補丁星期二更新後重新啟動時會向用戶顯示 BitLocker 恢復畫面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
-      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行可選Wi-Fi 連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
       <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>保全公司 KnowBe4 僱用了假北韓技術人員，他直接開始工作…從事邪惡工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</link>
-      <description><![CDATA[如果這種情況發生在進行社會工程防禦培訓的人身上，我們其他人還有什麼希望？在它的人工智慧團隊，只有當這個人開始使用他公司提供的電腦進行邪惡時才意識到自己的錯誤。]]></description>
+      <description><![CDATA[如果這種情況發生在進行社會工程防禦培訓的人身上，我們其他人還有什麼希望？在它的人工智慧團隊，只有當這個傢伙開始使用他公司提供的電腦進行邪惡時才意識到自己的錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</guid>
       <pubDate>Wed, 24 Jul 2024 04:57:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[令人驚喜，但其他一些 vAdmin 的訂閱截止日期為 8 月 1 日 VMware 用戶獲得了一點勝利，因為 Broadcom 業務部門延長了其旗艦 vSphere 軟體的支援壽命... . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</guid>
       <pubDate>Wed, 24 Jul 2024 03:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌保持人工智慧搜尋成本不變，孩子們很喜歡它</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/alphabet_q2_2024/</link>
-      <description><![CDATA[由於 G-Cloud 帶來了巨額資金和豐厚的利潤 Google 已成功限制了使用人工智慧產生結果時產生的成本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/alphabet_q2_2024/</guid>
-      <pubDate>Wed, 24 Jul 2024 02:03:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
