@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 08:37:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 09:33:42 GMT</lastBuildDate>
+    <item>
+      <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
+      <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>學校因在食堂對孩子們使用臉部辨識技術而被評為“F”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/essex_school_facial_recognition/</link>
@@ -62,9 +69,9 @@
       <pubDate>Wed, 24 Jul 2024 00:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 聲稱「世界上最大」的開放 AI 模型 Llama 3.1 405B 首次亮相</title>
+      <title>Meta 聲稱「世界上最大」的開放人工智慧模型 Llama 3.1 405B 首次亮相</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</link>
-      <description><![CDATA[Zuck 說他想模仿Linux 並走向開源 Meta 今天發布了Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，該社交網絡聲稱可以使用該模型-與 OpenAI 和 Anthropic 的頂級模型並肩作戰。]]></description>
+      <description><![CDATA[Zuck 說他想模仿 Linux 並走向開源 Meta 今天發布了 Llama 3.1 405B，這是迄今為止最大、功能最強大的大型語言模型，社交網絡聲稱可以使用該模型 -與OpenAI 和Anthropic 的頂級模型並肩作戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/meta_llama31_405b/</guid>
       <pubDate>Tue, 23 Jul 2024 21:38:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Boss 因災難性的軟體混亂而面臨國會質詢 美國眾議院國土安全委員會已要求CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 就錯誤更新造成的混亂提供公開證詞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/crowdstrike_ceo_to_testify/</guid>
       <pubDate>Tue, 23 Jul 2024 12:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>基於 Arch 的 CachyOS 承諾速度快，但會被鞋帶絆倒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/cachyos_arch_linux/</link>
-      <description><![CDATA[專門針對擁有超現代套件且想要與之匹配的發行版的性能愛好者 動手 CachyOS 是Arch Linux 的性能優化重建版本，安裝程式更簡單以及數十個桌面和可供調整的選項。穩定的可靠性，不是那麼多。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/cachyos_arch_linux/</guid>
-      <pubDate>Tue, 23 Jul 2024 11:27:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
