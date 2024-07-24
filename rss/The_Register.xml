@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 13:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 14:12:29 GMT</lastBuildDate>
+    <item>
+      <title>從五角大廈 IT 供應商 Leidos 竊取的數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/leidos_data_leak/</link>
+      <description><![CDATA[擁有眾多美國政府機構客戶，任何洩漏都可能造成嚴重後果 Leidos Holdings 被盜的內部文件已被洩露。服務提供者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/leidos_data_leak/</guid>
+      <pubDate>Wed, 24 Jul 2024 13:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike慘敗凸顯中俄科技獨立性不斷增強</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/foss_gets_geopolitical/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>微軟：我們的授權條款不會顯著提高雲端競爭對手的成本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</link>
-      <description><![CDATA[雷蒙德在向競爭與市場管理局提交回應時表現出搖擺 微軟已回應英國競爭與市場管理局(CMA) 對公共雲服務和許可的調查，堅稱其條款「不不會顯著提高雲端競爭對手的成本。」...]]></description>
+      <description><![CDATA[雷蒙德在向競爭與市場管理局提交回應時表現出搖擺 已更新 微軟已回應英國競爭與市場管理局(CMA) 對公共雲服務和服務的調查通過堅持其條款“不會顯著提高雲端競爭對手的成本”來獲得許可。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</guid>
       <pubDate>Wed, 24 Jul 2024 11:34:09 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>忘記安全性——谷歌的 reCAPTCHA v2 正在利用用戶牟利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</link>
-      <description><![CDATA[網路謎題無法防範機器人，但人類已經花費了 8.19 億小時無償解決這些謎題 Google 將其 reCAPTCHA 服務作為網站的安全機制進行推廣，但加州大學附屬研究人員，歐文認為，它在獲取資訊的同時，也榨取了價值數十億美元的人類勞動力…]]></description>
+      <description><![CDATA[網路謎題無法防範機器人，但人類已經花了8.19 億小時無償解決這些謎題 已更新 Google 宣傳其reCAPTCHA 服務作為網站的安全機制，但加州大學歐文分校的研究人員認為，它在獲取資訊的同時，也榨取了價值數十億美元的人類勞動力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</guid>
       <pubDate>Wed, 24 Jul 2024 06:33:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這位民主黨推定候選人與大型科技公司來來去去 分析 隨著喬·拜登退出美國總統競選，他的副總統卡馬拉·哈里斯有望成為民主黨候選人黨的提名人，但她在矽谷的經歷是否會有所幫助還遠不確定。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/kamala_harris_technology/</guid>
       <pubDate>Tue, 23 Jul 2024 15:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 CrowdStrike 危機中，網路騙子因網域誤植而陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/23/typosquatting_crowdstrike_crisis/</link>
-      <description><![CDATA[最新趨勢是在IT 災難發生後數小時內開始的各種惡意軟體活動 研究人員表示，現在已註冊了數千個仿冒域名，以利用仍在努力從上週CrowdStrike 中斷中恢復過來的IT 管理員的絕望情緒。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/23/typosquatting_crowdstrike_crisis/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
