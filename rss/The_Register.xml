@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 02:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 02:38:02 GMT</lastBuildDate>
+    <item>
+      <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
+      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 在上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始藍屏死機後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</guid>
+      <pubDate>Thu, 25 Jul 2024 02:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>Mistral Large 2 脫穎而出，成為 GPT-4 級 AI 車型的更精簡、更強大的競爭對手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/mistral_large_2/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 25 Jul 2024 01:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 地獄般的一週的致命時間表 – 2 月至今</title>
+      <title>CrowdStrike 致命星期五前後的幾個月和幾天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</link>
       <description><![CDATA[「短期內，他們將不得不做很多卑躬屈膝的事情」 分析 CrowdStrike 慘敗的最大諷刺之處在於，一家網路安全公司導致了這正是它本應防止的大規模全球停電。這一切都是為了讓犯罪分子及其惡意軟體的日子變得更加困難，並更新其端點檢測和回應工具Falcon。 / _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路謎題無法防範機器人，但人類已經花了8.19 億小時無償解決這些謎題 已更新 Google 宣傳其reCAPTCHA 服務作為網站的安全機制，但加州大學歐文分校的研究人員認為，它在獲取資訊的同時，也榨取了價值數十億美元的人類勞動力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</guid>
       <pubDate>Wed, 24 Jul 2024 06:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 將其造成的全球混亂歸咎於測試軟體錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_validator_failure/</link>
-      <description><![CDATA[名為「內容驗證器」的東西並未驗證內容，其餘的都已成為歷史 CrowdStrike 將上週引發的大規模崩潰事件歸咎於其自己的測試軟體中的錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_validator_failure/</guid>
-      <pubDate>Wed, 24 Jul 2024 05:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
