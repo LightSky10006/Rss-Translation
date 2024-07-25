@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 00:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 02:00:48 GMT</lastBuildDate>
+    <item>
+      <title>Mistral Large 2 脫穎而出，成為 GPT-4 級 AI 車型的更精簡、更強大的競爭對手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/mistral_large_2/</link>
+      <description><![CDATA[重要的不是大小，而是如何使用它 Mistral AI 週三公佈了一個名為 Mistral Large 2 (ML2) 的 1230 億參數大型語言模型 (LLM)，它聲稱該模型，與OpenAI、Anthropic 和Meta 的頂級模型相差不遠。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/mistral_large_2/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:45:42 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 地獄般的一週的致命時間表 – 2 月至今</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 週二修補程式更新可能會將使用者傳送至 BitLocker 復原畫面</title>
+      <title>Windows 星期二修補更新可能會將使用者傳送至 BitLocker 復原畫面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</link>
       <description><![CDATA[現在不行，微軟 一些 Windows 裝置在安裝 7 月的補丁星期二更新後重新啟動時會向用戶顯示 BitLocker 恢復畫面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 24 Jul 2024 11:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>蒂姆皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
+      <title>蒂姆·皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</link>
       <description><![CDATA[新任務：為在軌英國人確保資金 前歐洲航天局宇航員蒂姆·皮克(Tim Peake) 已加入Axiom Space 的宇航員團隊，擔任戰略顧問，支持潛在的全英國載人航天任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
-      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行可選Wi-Fi 連線。]]></description>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
       <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[名為「內容驗證器」的東西並未驗證內容，其餘的都已成為歷史 CrowdStrike 將上週引發的大規模崩潰事件歸咎於其自己的測試軟體中的錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/crowdstrike_validator_failure/</guid>
       <pubDate>Wed, 24 Jul 2024 05:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>保全公司 KnowBe4 僱用了假北韓技術人員，他直接開始工作…從事邪惡工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</link>
-      <description><![CDATA[如果這種情況發生在進行社會工程防禦培訓的人身上，我們其他人還有什麼希望？在它的人工智慧團隊，只有當這個傢伙開始使用他公司提供的電腦進行邪惡時才意識到自己的錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</guid>
-      <pubDate>Wed, 24 Jul 2024 04:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
