@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 25 Jul 2024 12:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 12:51:47 GMT</lastBuildDate>
+    <item>
+      <title>您從未聽說過的極其重要的洋流</title>
+      <link>https://www.wired.com/story/gadget-lab-podcast-652/</link>
+      <description><![CDATA[本週，我們將了解大西洋經向翻轉環流，以及這一關鍵洋流的失敗如何使世界氣候進一步陷入危機。]]></description>
+      <guid>https://www.wired.com/story/gadget-lab-podcast-652/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>喬拜登失去了網路。卡瑪拉·哈里斯正在努力贏回勝利</title>
       <link>https://www.wired.com/story/joe-biden-lost-the-internet-kamala-harris-is-trying-to-win-it-back/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>安東尼·福奇擔心下一次大流行——但更擔心民主</title>
       <link>https://www.wired.com/story/anthony-fauci-interview-q-and-a-july-2024-trump-harris/</link>
-      <description><![CDATA[這位前公共衛生主管講述了在川普領導下任職、美國目前面臨的危險以及是什麼讓他徹夜難眠。]]></description>
+      <description><![CDATA[這位前公共衛生部門負責人暢所欲言，講述了川普領導下的服務、美國目前面臨的危險以及是什麼讓他徹夜難眠。]]></description>
       <guid>https://www.wired.com/story/anthony-fauci-interview-q-and-a-july-2024-trump-harris/</guid>
       <pubDate>Thu, 25 Jul 2024 11:00:00 GMT</pubDate>
     </item>
@@ -136,13 +143,6 @@
       <link>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</link>
       <description><![CDATA[上週五，系統管理員及其團隊迅速採取行動，在有史以來最嚴重的數位停電之一中，不懈地努力讓他們的公司重新上線。]]></description>
       <guid>https://www.wired.com/story/it-departments-crowdstrike-microsoft-outage-response/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>駭客「幽靈」網路正在 GitHub 上悄悄傳播惡意軟體</title>
-      <link>https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/</link>
-      <description><![CDATA[網路安全研究人員在 GitHub 上發現了一個擁有 3,000 個帳戶的網絡，該網絡正在操縱該平台並傳播勒索軟體和資訊竊取程式。]]></description>
-      <guid>https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/</guid>
       <pubDate>Wed, 24 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
