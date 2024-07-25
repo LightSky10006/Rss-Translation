@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 24 Jul 2024 21:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:51:46 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 地獄般的一週的致命時間表 – 2 月至今</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</link>
+      <description><![CDATA[「短期內，他們將不得不做很多卑躬屈膝的事情」 分析 CrowdStrike 慘敗的最大諷刺之處在於，一家網路安全公司導致了這正是它本應防止的大規模全球停電。這一切都是為了讓犯罪分子及其惡意軟體的日子變得更加困難，並更新其端點檢測和回應工具Falcon。 / _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</guid>
+      <pubDate>Thu, 25 Jul 2024 00:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 因晶片未達品質控製而暫停 Ryzen 9000 的發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果這種情況發生在進行社會工程防禦培訓的人身上，我們其他人還有什麼希望？在它的人工智慧團隊，只有當這個傢伙開始使用他公司提供的電腦進行邪惡時才意識到自己的錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/knowbe4_north_korean/</guid>
       <pubDate>Wed, 24 Jul 2024 04:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>VMware 將支援延長六個月，讓 vSphere 7 進入加時賽</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</link>
-      <description><![CDATA[令人驚喜，但其他一些 vAdmin 的訂閱截止日期為 8 月 1 日 VMware 用戶獲得了一點勝利，因為 Broadcom 業務部門延長了其旗艦 vSphere 軟體的支援壽命... . ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/vsphere_7_eos_date_extended/</guid>
-      <pubDate>Wed, 24 Jul 2024 03:48:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
