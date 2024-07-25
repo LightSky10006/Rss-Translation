@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 16:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 16:40:33 GMT</lastBuildDate>
+    <item>
+      <title>微軟在其 Bing 引擎中添加生成搜索</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/microsoft_generative_search_bing/</link>
+      <description><![CDATA[看起來很像谷歌的人工智慧概述，希望沒有一些早期不幸的總結 微軟正在向必應添加生成搜索，儘管搜索引擎的市場份額在之前的人工智能技術添加後沒有增加。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/microsoft_generative_search_bing/</guid>
+      <pubDate>Thu, 25 Jul 2024 16:32:58 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果地圖將果園帶入網路瀏覽器荒野</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/apple_maps_chrome_edge/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>X.org 獨行俠拯救多顯示器更新率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</link>
-      <description><![CDATA[X11 並沒有消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[X11 並未消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</guid>
       <pubDate>Thu, 25 Jul 2024 10:31:07 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 25 Jul 2024 07:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>您沒有產生幻覺：生成式 AI 正在幫助 IBM 大型主機發展</title>
+      <title>您沒有出現幻覺：生成式 AI 正在幫助 IBM 大型主機發展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ibm_q2_2024/</link>
       <description><![CDATA[藍色巨人帶來的現金和利潤比預期更多 如果IBM 2024 年第二季度的業績有任何指導的話，生成式AI 的力量可以延伸到幫助專有企業操作系統和硬體堆疊的古老概念蓬勃發展。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ibm_q2_2024/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Thu, 25 Jul 2024 04:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>ServiceNow 總裁因公部門老闆招聘相關政策違規而離職</title>
+      <title>ServiceNow 總裁因違反與公共部門老闆招聘相關的政策而離職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</link>
       <description><![CDATA[但這些書看起來不錯，因為真正的人工智慧 ServiceNow 與總裁兼營運長 Chirantan「CJ」Desai 分道揚鑣，因為內部調查發現他在聘用前 CIO 時違反了公司政策美國陸軍作為工作流程供應商的公共部門老闆。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
-      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 在上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始藍屏死機後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
+      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始出現BSOD 後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</guid>
       <pubDate>Thu, 25 Jul 2024 02:29:13 GMT</pubDate>
     </item>
@@ -125,9 +132,9 @@
       <pubDate>Thu, 25 Jul 2024 00:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 因晶片未達品質控製而暫停 Ryzen 9000 的發布</title>
+      <title>AMD 推遲 Ryzen 9000 晶片的發布，因為品質不夠好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</link>
-      <description><![CDATA[品質檢查？ 2024 年？在這樣的經濟環境下？多麼古怪！]]></description>
+      <description><![CDATA[哦，實際的品質檢查？ 2024 年？在這種經濟情勢下？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</guid>
       <pubDate>Wed, 24 Jul 2024 21:26:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[是的，您可以透過Privacy Sandbox 進行指紋識別和追蹤- 不過風險並不像擔心的那麼高 Apple 上週慶祝了Safari 瀏覽器的一系列隱私更改，並花了不少時間抨擊競爭對手 Google 的主題系統，該系統根據您的 Chrome 歷史記錄提供線上廣告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_google_topics/</guid>
       <pubDate>Wed, 24 Jul 2024 20:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟希望其人工智慧資料中心之間有更粗的管道，要求 Lumen 簡化工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_ai_dc_lumen/</link>
-      <description><![CDATA[這就是孩子們所說的發光嗎？智慧服務業務，兩人週三透露。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_ai_dc_lumen/</guid>
-      <pubDate>Wed, 24 Jul 2024 19:21:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
