@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 04:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 04:38:57 GMT</lastBuildDate>
+    <item>
+      <title>ServiceNow 總裁因公部門老闆招聘相關政策違規而離職</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</link>
+      <description><![CDATA[但這些書看起來不錯，因為真正的人工智慧 ServiceNow 與總裁兼營運長 Chirantan「CJ」Desai 分道揚鑣，因為內部調查發現他在聘用前 CIO 時違反了公司政策美國陸軍作為工作流程供應商的公共部門老闆。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</guid>
+      <pubDate>Thu, 25 Jul 2024 04:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>華為的事情正在走向Z型：中國巨頭準備三螢幕折疊智慧型手機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/huawei_triple_screen_phone/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
-      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 在上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始藍屏死機後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
+      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始出現BSOD 後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</guid>
       <pubDate>Thu, 25 Jul 2024 02:29:13 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 星期二修補更新可能會將使用者傳送至 BitLocker 復原畫面</title>
+      <title>Windows 週二修補程式更新可能會將使用者傳送至 BitLocker 復原畫面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</link>
       <description><![CDATA[現在不行，微軟 一些 Windows 裝置在安裝 7 月的補丁星期二更新後重新啟動時會向用戶顯示 BitLocker 恢復畫面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 24 Jul 2024 11:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>蒂姆·皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
+      <title>蒂姆皮克 (Tim Peake) 加入 Axiom Space 擔任太空人顧問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</link>
       <description><![CDATA[新任務：為在軌英國人確保資金 前歐洲航天局宇航員蒂姆·皮克(Tim Peake) 已加入Axiom Space 的宇航員團隊，擔任戰略顧問，支持潛在的全英國載人航天任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tim_peake_joins_axiom_space/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>Apple 翻蓋式 iBook G3 25 週年——不僅僅是一個漂亮的外殼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</link>
-      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行選用Wi-Fi 連線。]]></description>
+      <description><![CDATA[回想起筆記型電腦的樂趣和可修復性 自從Apple 翻蓋式iBook G3 面世以來，已經有25 年了，它充滿了iMac 風格和一項創新——透過Apple AirPort 進行可選Wi-Fi 連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/apple_clamshell_ibook_g3_25/</guid>
       <pubDate>Wed, 24 Jul 2024 09:25:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[監管機構斥責了2021 年的類似案件 英國資料保護監管機構斥責了埃塞克斯郡的一所學校，因為該學校使用臉部辨識技術進行食堂付款，而近三年前，其他學校被警告不要這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/essex_school_facial_recognition/</guid>
       <pubDate>Wed, 24 Jul 2024 08:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>「數據大使館」承諾數位主權泡沫，但印度對這個想法態度冷淡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/data_embassies/</link>
-      <description><![CDATA[從表面上看，它們看起來更像是一種推銷——或者是一種軟實力遊戲 大使館是地方當局無法自由進入的主權泡沫，其中某些通信享有特權－這種安排是普遍認為對於促進國際關係至關重要。現在，有人建議根據需要採取相同的保護措施，以創建一個「資料大使館」——地方當局無法訪問的資料中心，各國可以在其中儲存資訊並在外國海岸運行軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/data_embassies/</guid>
-      <pubDate>Wed, 24 Jul 2024 07:32:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
