@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 13:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 14:10:29 GMT</lastBuildDate>
+    <item>
+      <title>你或許應該相當尖銳地修復這個已有 5 年歷史的關鍵 Docker 漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/5yo_docker_vulnerability/</link>
+      <description><![CDATA[出於某種未知的原因，後續版本中省略了初始補丁 Docker 意識到一個接近最高嚴重性的漏洞已經存在五年了，因此警告用戶將其Docker 引擎調整為補丁模式...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/5yo_docker_vulnerability/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:46:13 GMT</pubDate>
+    </item>
     <item>
       <title>FTC 稱 Adob​​e 高層將隱藏雲端訂閱費比作“海洛因”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/adobe_exec_likens_subscription_penalty/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 25 Jul 2024 13:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>卡巴斯基稱山姆大叔冷落了開放其代碼供第三方審查的提議</title>
+      <title>卡巴斯基稱山姆大叔冷落了開放代碼供第三方審查的提議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/kaspersky_us_review_snub/</link>
       <description><![CDATA[那些國家安全威脅的說法？副總裁告訴監管機構「沒有證據」 獨家 儘管聯準會決定在美國禁止卡巴斯基的安全軟體，但這家俄羅斯企業仍在推進另一項開放的提議其數據和產品接受第三方審查 - 並向山姆大叔證明其代碼沒有被克里姆林宮間諜洩露。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/kaspersky_us_review_snub/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>X.org 獨行俠拯救多顯示器更新率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</link>
-      <description><![CDATA[X11 並沒有消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[X11 並未消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</guid>
       <pubDate>Thu, 25 Jul 2024 10:31:07 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>美國揮舞大棒後印度放棄“谷歌稅”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</link>
-      <description><![CDATA[利害關係人發現這是一種「模稜兩可」的合規負擔，世界已經繼續前進——或者試圖採取行動 印度將取消均等稅——這是一種對非居民公司提供的數位服務徵收的費用，眾所周知作為「Google 稅」。 ... ]]></description>
+      <description><![CDATA[利害關係人發現這是一種「模稜兩可」的合規負擔，世界已經繼續前進——或者試圖採取行動 印度將取消均等稅——這是對非居民公司提供的數位服務徵收的一項費用，眾所周知作為「Google 稅」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</guid>
       <pubDate>Thu, 25 Jul 2024 04:58:12 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
-      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 在上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始藍屏死機後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
+      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始出現BSOD 後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</guid>
       <pubDate>Thu, 25 Jul 2024 02:29:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[人們普遍擔心，與競爭對手相比，為什麼它需要這麼長時間才能恢復 美國運輸部(DoT) 正在調查達美航空對CrowdStrike 內容更新導致的全球IT 中斷的處理方式.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/transport_department_delta_probe/</guid>
       <pubDate>Wed, 24 Jul 2024 17:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克用擎天柱的樂觀態度扭轉了特斯拉汽車銷售低迷的局面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tesla_q2_2024/</link>
-      <description><![CDATA[聲稱「地球上的每個人都想要一個」 特斯拉的利潤在2024 年第二季幾乎減半，這延長了該公司的困境，只有能源發電量的激增才緩解了這一困境和存儲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/tesla_q2_2024/</guid>
-      <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
