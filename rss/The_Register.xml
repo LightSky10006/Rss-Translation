@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 21:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 22:35:33 GMT</lastBuildDate>
+    <item>
+      <title>謹防冒充 Lumma 資訊竊取惡意軟體的 CrowdStrike 域名</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_lumma_infostealer/</link>
+      <description><![CDATA[PSA：只接受透過官方管道的更新...夠諷刺的 根據安全商店的威脅，CrowdStrike 是用來誘騙Windows 用戶下載並運行臭名昭著的Lumma 資訊竊取惡意軟體的最新誘餌英特爾團隊在獵鷹感測器更新慘敗幾天后發現了這一騙局。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_lumma_infostealer/</guid>
+      <pubDate>Thu, 25 Jul 2024 22:30:49 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 推出人工智慧搜尋引擎 SearchGPT——但還沒有被允許使用它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/openai_finally_launches_searchgpt_its/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>X.org 獨行俠拯救多顯示器更新率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</link>
-      <description><![CDATA[X11 並未消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[X11 並沒有消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</guid>
       <pubDate>Thu, 25 Jul 2024 10:31:07 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 25 Jul 2024 04:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>ServiceNow 總裁因違反與公共部門老闆招聘相關的政策而離職</title>
+      <title>ServiceNow 總裁因公部門老闆招聘相關政策違規而離職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</link>
       <description><![CDATA[但這些書看起來不錯，因為真正的人工智慧 ServiceNow 與總裁兼營運長 Chirantan「CJ」Desai 分道揚鑣，因為內部調查發現他在聘用前 CIO 時違反了公司政策美國陸軍作為工作流程供應商的公共部門老闆。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/servicenow_q2_2024/</guid>
       <pubDate>Thu, 25 Jul 2024 04:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為的事情正在走向Z型：中國巨頭準備三螢幕折疊智慧型手機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/huawei_triple_screen_phone/</link>
-      <description><![CDATA[有報導暗示它們將在聖誕節前上市 據報道，華為已開發出一款可折疊成Z 形的三折智慧型手機，並將於2024 年底前批量生產該機器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/huawei_triple_screen_phone/</guid>
-      <pubDate>Thu, 25 Jul 2024 03:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
