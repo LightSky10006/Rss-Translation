@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 03:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 03:35:42 GMT</lastBuildDate>
+    <item>
+      <title>華為的事情正在走向Z型：中國巨頭準備三螢幕折疊智慧型手機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/huawei_triple_screen_phone/</link>
+      <description><![CDATA[有報導暗示它們將在聖誕節前上市 據報道，華為已開發出一款可折疊成Z 形的三折智慧型手機，並將於2024 年底前批量生產該機器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/huawei_triple_screen_phone/</guid>
+      <pubDate>Thu, 25 Jul 2024 03:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[從表面上看，它們看起來更像是一種推銷——或者是一種軟實力遊戲 大使館是地方當局無法自由進入的主權泡沫，其中某些通信享有特權－這種安排是普遍認為對於促進國際關係至關重要。現在，有人建議根據需要採取相同的保護措施，以創建一個「資料大使館」——地方當局無法訪問的資料中心，各國可以在其中儲存資訊並在外國海岸運行軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/data_embassies/</guid>
       <pubDate>Wed, 24 Jul 2024 07:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘記安全性——谷歌的 reCAPTCHA v2 正在利用用戶牟利</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</link>
-      <description><![CDATA[網路謎題無法防範機器人，但人類已經花了8.19 億小時無償解決這些謎題 已更新 Google 宣傳其reCAPTCHA 服務作為網站的安全機制，但加州大學歐文分校的研究人員認為，它在獲取資訊的同時，也榨取了價值數十億美元的人類勞動力…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/googles_recaptchav2_labor/</guid>
-      <pubDate>Wed, 24 Jul 2024 06:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
