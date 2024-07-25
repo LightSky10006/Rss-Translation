@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 17:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 18:14:50 GMT</lastBuildDate>
+    <item>
+      <title>Oracle Java 定價醞釀苦澀，訂閱者紛紛轉向 OpenJDK</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/oracle_java_licensing_changes/</link>
+      <description><![CDATA[許可變更後，86% 的用戶退出。巧合？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/oracle_java_licensing_changes/</guid>
+      <pubDate>Thu, 25 Jul 2024 18:04:29 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔指責電信 IT 專家對中國進行長達十年的間諜活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/us_it_pro_spying_charge/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[「短期內，他們將不得不做很多卑躬屈膝的事情」 分析 CrowdStrike 慘敗的最大諷刺之處在於，一家網路安全公司導致了這正是它本應防止的大規模全球停電。這一切都是為了讓犯罪分子及其惡意軟體的日子變得更加困難，並更新其端點檢測和回應工具Falcon。 / _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_timeline/</guid>
       <pubDate>Thu, 25 Jul 2024 00:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 推遲 Ryzen 9000 晶片的發布，因為品質不夠好</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</link>
-      <description><![CDATA[哦，實際的品質檢查？ 2024 年？在這種經濟情勢下？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/amds_ryzen_9000_launch_delayed/</guid>
-      <pubDate>Wed, 24 Jul 2024 21:26:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
