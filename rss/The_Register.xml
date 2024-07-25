@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 07:34:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 08:37:58 GMT</lastBuildDate>
+    <item>
+      <title>OpenBSD 愛好者為技術上膽小的人準備了指南</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/openbsd_for_the_people/</link>
+      <description><![CDATA[如果您想要簡單的分步說明，這是我們見過的最好的 法國BSD 愛好者Joel Carnat 編寫了一份如何使用OpenBSD 設定筆記型電腦的指南，供一般用戶使用使用。對於 Unix 好奇的人來說，值得一試。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/openbsd_for_the_people/</guid>
+      <pubDate>Thu, 25 Jul 2024 08:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>補丁管理看起來仍然很糟糕，因為沒有人想要這份工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/patch_management_study/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>美國揮舞大棒後印度放棄“谷歌稅”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</link>
-      <description><![CDATA[利害關係人發現這是一種「模稜兩可」的合規負擔，世界已經繼續前進——或者試圖採取行動 印度將取消均等稅——這是一種對非居民公司提供的數位服務徵收的費用，眾所周知作為「Google 稅」。 ... ]]></description>
+      <description><![CDATA[利害關係人發現這是一種「模稜兩可」的合規負擔，世界已經繼續前進——或者試圖採取行動 印度將取消均等稅——這是對非居民公司提供的數位服務徵收的一項費用，眾所周知作為「Google 稅」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</guid>
       <pubDate>Thu, 25 Jul 2024 04:58:12 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>便宜的條碼掃描器如何幫助快速修復 CrowdStrike 的 Windows PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</link>
-      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 在上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始藍屏死機後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
+      <description><![CDATA[這個奇怪的技巧節省了無數的時間和壓力- 不，真的 上週五致同會計師事務所的澳大利亞審計和稅務諮詢部門的Windows PC 和服務器開始出現BSOD 後不久，高級系統工程師Rob沃爾茨想起了一個小但重要的事實：當電腦啟動時，他們認為條碼掃描器與鍵盤沒有什麼不同。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/crowdstrike_remediation_with_barcode_scanner/</guid>
       <pubDate>Thu, 25 Jul 2024 02:29:13 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 24 Jul 2024 16:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 星期二修補更新可能會將使用者傳送至 BitLocker 復原畫面</title>
+      <title>Windows 週二修補程式更新可能會將使用者傳送至 BitLocker 復原畫面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</link>
       <description><![CDATA[現在不行，微軟 一些 Windows 裝置在安裝 7 月的補丁星期二更新後重新啟動時會向用戶顯示 BitLocker 恢復畫面。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/windows_update_bitlocker/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[雷蒙德在向競爭與市場管理局提交回應時表現出搖擺 已更新 微軟已回應英國競爭與市場管理局(CMA) 對公共雲服務和服務的調查通過堅持其條款“不會顯著提高雲端競爭對手的成本”來獲得許可。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</guid>
       <pubDate>Wed, 24 Jul 2024 11:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kia Niro 電動車打破物理學紀錄，行駛里程達 1.14 億英里</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/kia_niro_app_blunder/</link>
-      <description><![CDATA[至少應用程式是這麼說的... BORK！了嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/kia_niro_app_blunder/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
