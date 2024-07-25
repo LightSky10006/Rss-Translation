@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 10:12:38 GMT</lastBuildDate>
+    <item>
+      <title>2023 年資料中心消耗愛爾蘭超過五分之一的電力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ireland_datacenter_power_consumption/</link>
+      <description><![CDATA[比特穀倉大量使用翡翠島電力 根據愛爾蘭中央統計局 (CSO) 的最新數據，2023 年數據中心消耗了愛爾蘭超過五分之一的電力供應。這項消息發布之際，人們越來越擔心比特穀倉產業不斷擴大的能源需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ireland_datacenter_power_consumption/</guid>
+      <pubDate>Thu, 25 Jul 2024 09:37:10 GMT</pubDate>
+    </item>
     <item>
       <title>OpenBSD 愛好者為技術上膽小的人準備了指南</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/openbsd_for_the_people/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[中國正在打一場持久戰，這可能會帶來巨大的回報 分析 放棄專有操作系統的一些常見論點是關於提高個人（或公司）自由和減少支出，但還有更大的事情處於危險之中。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/foss_gets_geopolitical/</guid>
       <pubDate>Wed, 24 Jul 2024 13:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟：我們的授權條款不會顯著提高雲端競爭對手的成本</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</link>
-      <description><![CDATA[雷蒙德在向競爭與市場管理局提交回應時表現出搖擺 已更新 微軟已回應英國競爭與市場管理局(CMA) 對公共雲服務和服務的調查通過堅持其條款“不會顯著提高雲端競爭對手的成本”來獲得許可。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/24/microsoft_cloud_cma/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
