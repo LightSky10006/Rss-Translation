@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 26 Jul 2024 05:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 06:16:08 GMT</lastBuildDate>
+    <item>
+      <title>英國和印度簽署廣泛的技術合作協議</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/uk_india_technology_security_initiative/</link>
+      <description><![CDATA[選擇一個熱門市場——人工智慧、量子、晶片、6G——雙方制定了共同努力的計劃 英國和印度週三同意一項廣泛的“技術安全倡議”，將看到兩國以希望釋放投資的方式進行合作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/uk_india_technology_security_initiative/</guid>
+      <pubDate>Fri, 26 Jul 2024 05:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>VMware 的老牌終端用戶業務 Omnissa 承諾“注入人工智慧的自主工作空間”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/omnissa_strategy_reveal/</link>
-      <description><![CDATA[我們認為這意味著更易於管理且更加閃亮的虛擬桌面 Omnissa 是由 Broadcom 從 VMWare 的最終用戶計算部門分拆出來的新獨立企業，它宣稱它將成為“人工智慧注入的自主工作空間」......]]></description>
+      <description><![CDATA[我們認為這意味著更易於管理且更加閃亮的虛擬桌面 Omnissa 是由 Broadcom 從 VMWare 的最終用戶計算部門分拆出來的新獨立企業，它宣稱它將成為“注入人工智慧的自主工作空間」......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/omnissa_strategy_reveal/</guid>
       <pubDate>Fri, 26 Jul 2024 05:19:32 GMT</pubDate>
     </item>
     <item>
-      <title>北韓小夥因攻擊美國醫院、美國太空總署甚至中國而被指控</title>
+      <title>北韓小夥因攻擊美國醫院、軍隊、美國太空總署甚至中國而被指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/andariel_indictment_north_korea/</link>
       <description><![CDATA[微軟、Mandiant 介入，提供有關 Andariel 團夥據稱實施多次搶劫的方法的信息 美國司法部周四就一系列勒索軟體對一名朝鮮國民提出指控針對美國本土醫院和醫療保健提供者、美國國防公司、美國宇航局，甚至中國目標的攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/andariel_indictment_north_korea/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 25 Jul 2024 19:51:32 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 使用雷射從飛行飛機向國際太空站發送 4K 視頻</title>
+      <title>NASA 使用雷射將 4K 影片從飛行中的飛機發送到國際太空站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/nasa_4k_video_iss/</link>
       <description><![CDATA[從地球到軌道的速度為 900 Mbps，但我在後院仍然無法獲得可靠的 Wi-Fi 嫉妒國際太空站擁有比你更好的互聯網？好吧，這裡還有一個令人羨慕的基準：NASA 已成功將4K 視訊從飛行中的飛機傳輸到國際太空站並再次傳輸回來。 =&#39;/data_centre/_whitepaper_textlinks_top。 html&#39;--&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/nasa_4k_video_iss/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 25 Jul 2024 13:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>卡巴斯基稱山姆大叔冷落了開放其代碼供第三方審查的提議</title>
+      <title>卡巴斯基稱山姆大叔冷落了開放代碼供第三方審查的提議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/kaspersky_us_review_snub/</link>
       <description><![CDATA[那些國家安全威脅的說法？副總裁告訴監管機構，「沒有證據」 獨家 儘管聯準會決定在美國禁止卡巴斯基的安全軟體，但這家俄羅斯企業仍在繼續推動其開放其安全軟體的提議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/kaspersky_us_review_snub/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>X.org 獨行俠拯救多顯示器更新率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</link>
-      <description><![CDATA[X11 並沒有消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[X11 並未消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</guid>
       <pubDate>Thu, 25 Jul 2024 10:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年資料中心消耗愛爾蘭超過五分之一的電力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ireland_datacenter_power_consumption/</link>
-      <description><![CDATA[比特穀倉大量使用翡翠島電力 根據愛爾蘭中央統計局 (CSO) 的最新數據，2023 年數據中心消耗了愛爾蘭超過五分之一的電力供應。這項消息發布之際，人們越來越擔心比特穀倉產業不斷擴大的能源需求。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ireland_datacenter_power_consumption/</guid>
-      <pubDate>Thu, 25 Jul 2024 09:37:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
