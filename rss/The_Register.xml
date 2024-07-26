@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 26 Jul 2024 12:50:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 14:10:11 GMT</lastBuildDate>
+    <item>
+      <title>Progress 揭露了 Telerik Report Server 幾個月內的第二個嚴重缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</link>
+      <description><![CDATA[這些都是APT 賴以生存的錯誤，只需詢問聯邦調查局即可 Progress Software 的最新安全公告警告客戶，數月以來針對其Telerik Report Server 的第二個嚴重漏洞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</guid>
+      <pubDate>Fri, 26 Jul 2024 13:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>「一頭駝鹿撞到我了」以及人們損壞小玩意的其他方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/device_damage_survey/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[看起來很像谷歌的人工智慧概述，希望沒有一些早期不幸的總結 微軟正在向必應添加生成搜索，儘管搜索引擎的市場份額在之前的人工智能技術添加後沒有增加。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/microsoft_generative_search_bing/</guid>
       <pubDate>Thu, 25 Jul 2024 16:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果地圖將果園帶入網路瀏覽器荒野</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/apple_maps_chrome_edge/</link>
-      <description><![CDATA[Windows 上的Chrome 和Edge 現在可以加入其中了 Apple 已將其地圖技術引入其生態系統之外的設備，並提供可在Windows PC 上的Chrome 和Edge 中運行的網路版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/apple_maps_chrome_edge/</guid>
-      <pubDate>Thu, 25 Jul 2024 15:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
