@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 25 Jul 2024 23:34:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:51:06 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 更新錯誤可能會對全球造成數十億美元的損失，而保險並不能涵蓋全部</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/crowdstrike_insurance_money/</link>
+      <description><![CDATA[我們提供這個公式：RND(100.0)*(10^9) CrowdStrike 的災難性Falcon 更新上週導致數百萬台Windows 電腦癱瘓，其成本可能高達數十億美元，而保險並不涵蓋其中的大部分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/crowdstrike_insurance_money/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>薩姆·奧爾特曼希望建立一個以美國為首的自由聯盟來對抗獨裁人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/sam_altman_ai_freedom/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>X.org 獨行俠拯救多顯示器更新率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</link>
-      <description><![CDATA[X11 並沒有消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[X11 並未消亡，而人們仍在繼續研究它 它不完全是 XKCD 2347，但也很接近。至少有一名開發人員仍在開發X.org 程式碼庫，努力改進多種不同作業系統中的可變刷新率支援。 /_whitepaper_textlinks_top。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/xorg_monitor_refresh_rates/</guid>
       <pubDate>Thu, 25 Jul 2024 10:31:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[藍色巨人帶來的現金和利潤比預期更多 如果IBM 2024 年第二季度的業績有任何指導的話，生成式AI 的力量可以延伸到幫助專有企業操作系統和硬體堆疊的古老概念蓬勃發展。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/ibm_q2_2024/</guid>
       <pubDate>Thu, 25 Jul 2024 06:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國揮舞大棒後印度放棄“谷歌稅”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</link>
-      <description><![CDATA[利害關係人發現這是一種「模稜兩可」的合規負擔，世界已經繼續前進——或者試圖採取行動 印度將取消均等稅——這是一種對非居民公司提供的數位服務徵收的費用，眾所周知作為「Google 稅」。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/india_eliminates_google_tax/</guid>
-      <pubDate>Thu, 25 Jul 2024 04:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
