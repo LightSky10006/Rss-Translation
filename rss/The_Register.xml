@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 26 Jul 2024 10:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:20:02 GMT</lastBuildDate>
+    <item>
+      <title>Google DeepMind 的最新模型在數學奧林匹克競賽中獲得了銀牌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/google_deepmind_maths/</link>
+      <description><![CDATA[當然，青少年天才在九個小時內完成的事情花了三天的時間- 但誰在數呢？帶回家的人工智慧模型在國際數學奧林匹克（IMO）中獲得獎牌——儘管沒有在規定的時間內完成。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/google_deepmind_maths/</guid>
+      <pubDate>Fri, 26 Jul 2024 11:35:14 GMT</pubDate>
+    </item>
     <item>
       <title>UK.gov 將向後台軟體供應商提供高達 50 億英鎊的資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/ukgov_bak_office_tech/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[恩智浦半導體和德州儀器也受到經濟放緩的打擊 歐洲晶片製造商意法半導體今年第二季度營收和淨利潤大幅下滑，原因是汽車行業需求低迷，而其他地區的訂單未能達到預期。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/stmicroelectronics_q2_weak_demand/</guid>
       <pubDate>Thu, 25 Jul 2024 14:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>你或許應該相當尖銳地修復這個已有 5 年歷史的關鍵 Docker 漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/5yo_docker_vulnerability/</link>
-      <description><![CDATA[出於某種未知的原因，後續版本中省略了初始補丁 Docker 意識到一個接近最高嚴重性的漏洞已經存在五年了，因此警告用戶將其Docker 引擎調整為補丁模式...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/5yo_docker_vulnerability/</guid>
-      <pubDate>Thu, 25 Jul 2024 13:46:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
