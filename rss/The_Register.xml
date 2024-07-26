@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 26 Jul 2024 16:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 16:40:40 GMT</lastBuildDate>
+    <item>
+      <title>英特爾任命美光高層負責監督代工業務雄心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/intel_poaches_micron_exec_to/</link>
+      <description><![CDATA[內存資深人士將幫助Gelsinger 及其同事實施長期的內部/外部合約製造計劃 英特爾將聘請內存晶片製造商美光科技(Micron) 的一名高管來領導其代工業務，因為該公司正在推行將其晶圓代工業務轉型為戰略的戰略。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/intel_poaches_micron_exec_to/</guid>
+      <pubDate>Fri, 26 Jul 2024 16:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>系統管理員日快樂，Bitlocker 密鑰位於冰箱頂部的碗中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/happy_sysadmin_day/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 26 Jul 2024 14:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>Progress 揭露了 Telerik Report Server 幾個月內的第二個嚴重缺陷</title>
+      <title>進展揭示了 Telerik Report Server 幾個月內的第二個嚴重缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</link>
       <description><![CDATA[這些都是APT 賴以生存的錯誤，只需詢問聯邦調查局即可 Progress Software 的最新安全公告警告客戶，數月以來針對其Telerik Report Server 的第二個嚴重漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</guid>
@@ -48,9 +55,9 @@
       <pubDate>Fri, 26 Jul 2024 10:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>哥倫比亞號太空梭險些失手：為什麼我們應該時時期待太空中的意外狀況</title>
+      <title>哥倫比亞號太空梭險些失敗：為什麼我們應該隨時期待太空中的意外狀況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/</link>
-      <description><![CDATA[STS-93 和錢德拉 X 射線天文台的重大發射 二十五年前，哥倫比亞號太空梭發射了錢德拉 X 射線天文台，但險些以災難告終。正如當時的上升飛行指揮約翰·香農 (John Shannon) 所觀察到的那樣：「哎呀。我們不需要再一個了。」…]]></description>
+      <description><![CDATA[STS-93 和錢德拉 X 射線天文台的重大發射 二十五年前，哥倫比亞號太空梭發射了錢德拉 X 射線天文台，但險些以災難告終。正如當時的上升飛行指揮約翰·香農 (John Shannon) 所言：「哎呀。我們不需要再有一個了。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/</guid>
       <pubDate>Fri, 26 Jul 2024 09:33:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[從地球到軌道的速度為 900 Mbps，但我在後院仍然無法獲得可靠的 Wi-Fi 嫉妒國際太空站擁有比你更好的互聯網？好吧，這裡還有一個令人羨慕的基準：NASA 已成功將4K 視訊從飛行中的飛機傳輸到國際太空站並再次傳輸回來。 =&#39;/data_centre/_whitepaper_textlinks_top。 html&#39;--&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/nasa_4k_video_iss/</guid>
       <pubDate>Thu, 25 Jul 2024 19:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Java 定價醞釀苦澀，訂閱者紛紛轉向 OpenJDK</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/oracle_java_licensing_changes/</link>
-      <description><![CDATA[許可變更後，86% 的用戶退出。巧合？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/oracle_java_licensing_changes/</guid>
-      <pubDate>Thu, 25 Jul 2024 18:04:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
