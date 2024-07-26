@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 26 Jul 2024 17:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 18:14:35 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 獵鷹 9 號火箭上層故障後將捲土重來</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/spacex_falcon_9_flight/</link>
+      <description><![CDATA[因線路破裂而導致洩漏 在美國聯邦航空管理局(FAA) 同意讓該公司恢復飛行運營後，SpaceX 計劃明天恢復發射獵鷹9 號火箭。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/spacex_falcon_9_flight/</guid>
+      <pubDate>Fri, 26 Jul 2024 17:38:16 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾任命美光高層負責監督代工業務雄心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/intel_poaches_micron_exec_to/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 26 Jul 2024 14:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>Progress 揭露了 Telerik Report Server 幾個月內的第二個嚴重缺陷</title>
+      <title>進展揭示了 Telerik Report Server 幾個月內的第二個嚴重缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</link>
       <description><![CDATA[這些都是APT 賴以生存的錯誤，只需詢問聯邦調查局即可 Progress Software 的最新安全公告警告客戶，數月以來針對其Telerik Report Server 的第二個嚴重漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/critical_vulnerability_progress_telerik/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 26 Jul 2024 12:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>Google DeepMind 的最新模型在數學奧林匹克競賽中獲得銀牌</title>
+      <title>Google DeepMind 的最新模型在數學奧林匹克競賽中獲得了銀牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/google_deepmind_maths/</link>
       <description><![CDATA[當然，青少年天才在九個小時內完成的事情花了三天的時間- 但誰在數呢？帶回家的人工智慧模型在國際數學奧林匹克（IMO）中獲得獎牌——儘管沒有在規定的時間內完成。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/google_deepmind_maths/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>哥倫比亞號太空梭險些失敗：為什麼我們應該隨時期待太空中的意外狀況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/</link>
-      <description><![CDATA[STS-93 和錢德拉 X 射線天文台的重大發射 二十五年前，哥倫比亞號太空梭發射了錢德拉 X 射線天文台，但險些以災難告終。正如當時的上升飛行指揮約翰·香農 (John Shannon) 所觀察到的那樣：「哎呀。我們不需要再一個了。」…]]></description>
+      <description><![CDATA[STS-93 和錢德拉 X 射線天文台的重大發射 二十五年前，哥倫比亞號太空梭發射了錢德拉 X 射線天文台，但險些以災難告終。正如當時的上升飛行指揮約翰·香農 (John Shannon) 所言：「哎呀。我們不需要再有一個了。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/space_shuttle_columbia_near_miss/</guid>
       <pubDate>Fri, 26 Jul 2024 09:33:11 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>VMware 的老牌終端用戶業務 Omnissa 承諾“注入人工智慧的自主工作空間”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/omnissa_strategy_reveal/</link>
-      <description><![CDATA[我們認為這意味著更易於管理且更加閃亮的虛擬桌面 Omnissa 是由 Broadcom 從 VMWare 的最終用戶計算部門分拆出來的新獨立企業，它宣稱它將成為“注入人工智慧的自主工作空間」......]]></description>
+      <description><![CDATA[我們認為這意味著更易於管理且更加閃亮的虛擬桌面 Omnissa 是由 Broadcom 從 VMWare 的最終用戶計算部門分拆出來的新獨立企業，它宣稱它將成為“人工智慧注入的自主工作空間」......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/omnissa_strategy_reveal/</guid>
       <pubDate>Fri, 26 Jul 2024 05:19:32 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[分叉的Microsoft 擁有的程式碼倉庫並不認為這是一個問題 Truffle Security 的研究人員已經發現或可以說重新發現了已刪除的GitHub 儲存庫（公共或私有）中的資料並且儲存庫的已刪除副本（分叉）不一定會被刪除。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/data_from_deleted_github_repos/</guid>
       <pubDate>Thu, 25 Jul 2024 19:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 使用雷射將 4K 影片從飛行中的飛機發送到國際太空站</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/25/nasa_4k_video_iss/</link>
-      <description><![CDATA[從地球到軌道的速度為 900 Mbps，但我在後院仍然無法獲得可靠的 Wi-Fi 嫉妒國際太空站擁有比你更好的互聯網？好吧，這裡還有一個令人羨慕的基準：NASA 已成功將4K 視訊從飛行中的飛機傳輸到國際太空站並再次傳輸回來。 =&#39;/data_centre/_whitepaper_textlinks_top。 html&#39;--&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/25/nasa_4k_video_iss/</guid>
-      <pubDate>Thu, 25 Jul 2024 19:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
