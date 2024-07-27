@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 27 Jul 2024 04:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 13:34:11 GMT</lastBuildDate>
+    <item>
+      <title>更好的天氣預報的秘訣可能是人工智慧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/27/google_ai_weather/</link>
+      <description><![CDATA[Google 將機器學習添加到氣候模型中，以實現「更快的預測」 氣候和天氣建模長期以來一直是高效能運算的主要內容，但隨著氣象學家希望提高預測的速度和分辨率，機器學習越來越多地融入其中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/27/google_ai_weather/</guid>
+      <pubDate>Sat, 27 Jul 2024 13:27:15 GMT</pubDate>
+    </item>
     <item>
       <title>不，真的，請禁止中國大疆無人機進入美國天空，敦促參議員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/us_senate_dji_drone/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟、Mandiant 介入，提供有關 Andariel 團夥據稱實施多次搶劫的方法的信息 美國司法部周四就一系列勒索軟體對一名朝鮮國民提出指控針對美國本土醫院和醫療保健提供者、美國國防公司、美國宇航局，甚至中國目標的攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/andariel_indictment_north_korea/</guid>
       <pubDate>Fri, 26 Jul 2024 02:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>惡意軟體團隊 Stargazers Goblin 使用 3,000 個 GitHub 帳戶來賺錢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/github_stargazers_goblin_malware/</link>
-      <description><![CDATA[甚至可能針對其他惡意軟體集團和資訊安全研究人員 資訊安全研究人員發現了一個由三千多個惡意GitHub 帳戶組成的網絡，用於傳播惡意軟體，目標群體包括遊戲玩家、惡意軟體研究人員，甚至其他威脅行為者本身就試圖傳播惡意軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/github_stargazers_goblin_malware/</guid>
-      <pubDate>Fri, 26 Jul 2024 01:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
