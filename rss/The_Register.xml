@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 29 Jul 2024 17:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 18:15:12 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉要求客戶不要再對充電器一無所知</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/tesla_harging_wet_rag/</link>
+      <description><![CDATA[這個技巧似乎可以加快充電速度，但可能會損壞電纜 特斯拉已要求車主停止將濕毛巾包裹在手柄上以加快充電過程，並警告稱這可能會損壞其超級充電站。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/tesla_harging_wet_rag/</guid>
+      <pubDate>Mon, 29 Jul 2024 17:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>根據報道，歐盟監管機構將批准慧與與瞻博網路的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>微軟承認 850 萬台 CrowdStruck 機器的預估被低估</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_crowdstrike_incident_report/</link>
-      <description><![CDATA[承諾阻止使用核心驅動程式- 這樣它們就不會再次讓世界崩潰 微軟承認，其對850 萬台電腦因CrowdStrike 有缺陷的軟體更新而崩潰的估計幾乎肯定太低了，並且發誓要減少資訊安全供應商對核心驅動程式的依賴。 ...]]></description>
+      <description><![CDATA[承諾阻止 AV 使用核心模式，這樣它們就不會再次讓世界崩潰 微軟承認，其對 CrowdStrike 有缺陷的軟體更新導致 850 萬台電腦崩潰的估計幾乎肯定太低了，並發誓要減少資訊安全供應商對內核模式驅動程式的依賴，這是問題的核心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_crowdstrike_incident_report/</guid>
       <pubDate>Mon, 29 Jul 2024 06:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Google 將機器學習添加到氣候模型中，以實現「更快的預測」 氣候和天氣建模長期以來一直是高效能運算的主要內容，但隨著氣象學家希望提高預測的速度和分辨率，機器學習越來越多地融入其中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/27/google_ai_weather/</guid>
       <pubDate>Sat, 27 Jul 2024 13:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>不，真的，請禁止中國大疆無人機進入美國天空，敦促參議員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/us_senate_dji_drone/</link>
-      <description><![CDATA[之前的取締嘗試成功了，這次會堅持著陸嗎？無人機機器被丟棄了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/us_senate_dji_drone/</guid>
-      <pubDate>Fri, 26 Jul 2024 21:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
