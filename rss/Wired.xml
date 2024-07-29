@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 29 Jul 2024 19:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 19:35:44 GMT</lastBuildDate>
+    <item>
+      <title>禽流感威脅持續成長</title>
+      <link>https://www.wired.com/story/bird-flu-human-transmission-colorado-farms-poultry-usa/</link>
+      <description><![CDATA[人類病例不斷增加，很可能被低估，並為病毒提供了學習如何在人與人之間傳播的機會。]]></description>
+      <guid>https://www.wired.com/story/bird-flu-human-transmission-colorado-farms-poultry-usa/</guid>
+      <pubDate>Mon, 29 Jul 2024 19:18:09 GMT</pubDate>
+    </item>
     <item>
       <title>Apple iOS 18 和 iPadOS 18 的熱門新功能</title>
       <link>https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外：更多 Pegasus 間諜軟體爭議、重大 BIOS 爭議以及更多本週頂級安全新聞。]]></description>
       <guid>https://www.wired.com/story/x-grok-ai-training-pegasus/</guid>
       <pubDate>Sat, 27 Jul 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP Elitebook Ultra G1q 評測：Windows 電池領導者</title>
-      <link>https://www.wired.com/review/hp-elitebook-ultra-g1q/</link>
-      <description><![CDATA[在我們的測試中，惠普的新款商務筆記型電腦創下了 Windows 電池續航力的最佳記錄。可惜它的表現並不那麼引人注目。]]></description>
-      <guid>https://www.wired.com/review/hp-elitebook-ultra-g1q/</guid>
-      <pubDate>Sat, 27 Jul 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
