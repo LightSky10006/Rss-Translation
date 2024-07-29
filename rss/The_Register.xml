@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 29 Jul 2024 20:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 21:12:23 GMT</lastBuildDate>
     <item>
-      <title>美國邊境警察在搜查手機、設備之前確實必須在紐約獲得搜查令</title>
+      <title>Meta的AI安全系統被空白鍵擊敗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/meta_ai_safety/</link>
+      <description><![CDATA[如果你只是添加一些好的ASCII 代碼32，“忽略先前的指令”就會阻礙Prompt-Guard 模型 Meta 的機器學習模型用於檢測提示注入攻擊- 使神經網路行為不當的特殊提示– 你猜對了，它本身很容易受到提示注入攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/meta_ai_safety/</guid>
+      <pubDate>Mon, 29 Jul 2024 21:01:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國邊境警察在搜查你的手機、設備之前確實必須在紐約獲得搜查令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/us_border_cops_warrant/</link>
-      <description><![CDATA[朋友們，我們真的想用這個來打擾 SCOTUS 嗎？當然，他們現在太忙了，無暇查看 美國邊境人員必須獲得搜查令，至少在紐約，才能在進出該國時搜查任何人的手機和其他電子設備，另一位聯邦法官做出了裁決。]]></description>
+      <description><![CDATA[朋友們，我們真的想用這個來打擾 SCOTUS 嗎？當然，他們太忙了，無暇查看 美國邊境人員必須獲得搜查令，至少在紐約，才能在進出該國時搜查任何人的手機和其他電子設備，另一個聯邦法官已做出裁決。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/us_border_cops_warrant/</guid>
       <pubDate>Mon, 29 Jul 2024 20:17:50 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>根據報道，歐盟監管機構將批准慧與與瞻博網路的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</link>
-      <description><![CDATA[阿魯巴島，阿魯巴島！一些網路專業人士擔心這會導致選擇減少 據報道，歐盟委員會將無條件批准 HPE 以 140 億美元收購瞻博網路的提議。]]></description>
+      <description><![CDATA[阿魯巴島，阿魯巴島！一些網路專業人士擔心這會導致選擇減少 據報道，歐盟委員會將無條件批准 HPE 斥資 140 億美元收購瞻博網路的提議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</guid>
       <pubDate>Mon, 29 Jul 2024 16:46:09 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Linux Mint 22「Wilma」仍然是擺脫 Windows 的基石選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/linus_mint_22_wilma/</link>
-      <description><![CDATA[智取Ubuntu 的中年危機並避開Flintstone 大小的錯誤 Linux Mint 22「Wilma」於上週晚些時候首次亮相，如果你想擺脫中年危機，它是最明智的選擇。]]></description>
+      <description><![CDATA[智取Ubuntu 的中年危機並避開Flintstone 大小的bug Linux Mint 22「Wilma」於上週晚些時候首次亮相，如果你想擺脫中年危機，它是最明智的選擇。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/linus_mint_22_wilma/</guid>
       <pubDate>Mon, 29 Jul 2024 10:33:14 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>矽、恆星和硫磺構成了阿波羅不可能的遺產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/opinion_column_space/</link>
-      <description><![CDATA[尼爾踩到了一塊岩石。我們正在9000光年長的星際波浪中衝浪。來吧 意見  尼爾·阿姆斯特朗邁出一小步已有 55 年了，而它所承諾的未來尚未實現。自從阿波羅計畫結束以來，還沒有人重返月球，更不用說去火星了。至於克拉克和庫伯力克 2001 年帶著令人幻覺的人工智慧前往木星的看似合理的旅程，嗯，二分之一的情況還不錯。但是，雖然這些未來沒有發生，但我們所擁有的卻是難以想像的更好。]]></description>
+      <description><![CDATA[尼爾踩到了一塊岩石。我們正在9000光年長的星際波浪中衝浪。來吧 意見  尼爾阿姆斯壯邁出一小步已有 55 年，而它所承諾的未來尚未實現。自從阿波羅計畫結束以來，還沒有人重返月球，更不用說去火星了。至於克拉克和庫伯力克 2001 年帶著令人幻覺的人工智慧前往木星的看似合理的旅程，嗯，二分之一的情況還不錯。但是，雖然這些未來沒有發生，但我們所擁有的卻是難以想像的更好。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/opinion_column_space/</guid>
       <pubDate>Mon, 29 Jul 2024 08:35:08 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 29 Jul 2024 04:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>91 國集團同意暫時不對跨境資料傳輸課稅</title>
+      <title>91 國集團同意暫時繼續不對跨境資料傳輸課稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/wto_joint_statement_initiative_on_electronic_commerce/</link>
       <description><![CDATA[促進自由使用政府資料、隱私、屏蔽垃圾郵件等 上週五，為期五年的貿易談判達到了一個里程碑，91 個國家就電子商務新規範達成一致，其中包括延長暫停對跨境電子傳輸課稅…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/wto_joint_statement_initiative_on_electronic_commerce/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：更多追蹤軟體曝光； TracFone 罰款 1,600 萬美元；勒索軟體受害者不使用 MFA 等 資訊安全簡介 保護電腦的 BIOS 和啟動過程對於現代安全至關重要 - 但了解其重要性並不相同實際上正在採取措施來做到這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/infosec_roundup/</guid>
       <pubDate>Mon, 29 Jul 2024 01:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員認為開源人工智慧幫助中國趕上世界</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/asia_tech_news_roundup/</link>
-      <description><![CDATA[另外：Grab 放棄計程車合併、Kakao 創辦人走向叮噹聲、阿里巴巴否認馬克馬克的任人唯親等等 亞太地區簡介 中國研究人員告訴《紐約時報》開源軟體幫助他們加速了人工智慧的開發。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/asia_tech_news_roundup/</guid>
-      <pubDate>Mon, 29 Jul 2024 00:52:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
