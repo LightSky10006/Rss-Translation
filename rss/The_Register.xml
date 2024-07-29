@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 29 Jul 2024 14:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 15:12:32 GMT</lastBuildDate>
+    <item>
+      <title>法國網路電纜因破壞行為而被切斷，導致全國停電</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/french_fiber_cables_cut/</link>
+      <description><![CDATA[斧頭攻擊發生在縱火犯瞄準鐵路網絡幾天后 法國各地的光纖互聯網電纜在明顯的破壞行為中被切斷，導致全國範圍內停電。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/french_fiber_cables_cut/</guid>
+      <pubDate>Mon, 29 Jul 2024 14:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>HealthEquity 的入侵者盜取了存儲，竊取了 430 萬人的數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/healthequity_says_data_breach_affects/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>谷歌因 Chrome 更新不穩定而破壞數百萬 Windows 用戶的密碼管理器而道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/google_password_manager_outage/</link>
-      <description><![CDATA[系統管理員日快樂 Google 上週慶祝了系統管理員日，並為破壞數百萬Windows 用戶的密碼管理器而道歉- 正如許多Windows 管理員仍在努力減輕CrowdStrike更新錯誤的影響一樣...]]></description>
+      <description><![CDATA[系統管理員日快樂 Google 上週慶祝了系統管理員日，為破壞其數百萬Windows 用戶的密碼管理器而道歉- 正如許多Windows 管理員仍在努力減輕CrowdStrike更新錯誤的影響一樣...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/google_password_manager_outage/</guid>
       <pubDate>Mon, 29 Jul 2024 13:01:07 GMT</pubDate>
     </item>
@@ -118,14 +125,14 @@
       <pubDate>Fri, 26 Jul 2024 21:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 創辦人卡瑪拉哈里斯 (Kamala Harris) 向卡瑪拉哈里斯 (Kamala Harris) 提供 700 萬美元支持，並提出要求：解僱莉娜汗 (Lina Khan)</title>
+      <title>LinkedIn 創辦人 Kamala Harris 向卡瑪拉哈里斯 (Kamala Harris) 提供 700 萬美元支持，並提出要求：解僱莉娜汗 (Lina Khan)</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/harris_hoffman_ftc_boss/</link>
       <description><![CDATA[如果人們願意付錢讓她被扔掉，FTC 老闆一定做對了事情 LinkedIn 聯合創始人兼風險投資家Reid Hoffman 很快就表示支持卡馬拉·哈里斯( Kamala Harris) 今年在現任總統後競選美國總統拜登退到了一邊，現在原因已經很清楚了：他希望她解僱聯邦貿易委員會主席和大型科技評論家莉娜汗(Lina Khan)。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/harris_hoffman_ftc_boss/</guid>
       <pubDate>Fri, 26 Jul 2024 21:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>電玩演員罷工是因為他們擔心人工智慧克隆人的攻擊</title>
+      <title>電玩演員罷工是因為他們害怕人工智慧克隆人的攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/hollywood_video_game_strike/</link>
       <description><![CDATA[你不會下載表演者 演員再次罷工的原因完全不足為奇：工作室不願意為電玩演員提供足夠的保護，使其免受人工智慧的侵害。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/hollywood_video_game_strike/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[中國品牌在中國手機市場方興未艾，但蘋果的出局可能只是暫時 一段時間內，中國智慧型手機前五名廠商首次全部為本土品牌，蘋果的地位跌至第六名...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/iphone_kicked_out_of_chinas/</guid>
       <pubDate>Fri, 26 Jul 2024 19:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 符合墨菲定律：任何可能出錯的事情都會出錯</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/26/crowdstrike_meets_murphys_law/</link>
-      <description><![CDATA[天哪，上週五的Windows 慘敗再次證明了這一點 觀點 CrowdStrike 最近的Windows 慘敗肯定會在史詩般的技術失敗史冊中贏得顯著的地位。 7 月 19 日，這家網路安全巨頭實現了眾多駭客夢寐以求的目標——一次拙劣的更新就讓全球數百萬個 Windows 系統癱瘓。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/26/crowdstrike_meets_murphys_law/</guid>
-      <pubDate>Fri, 26 Jul 2024 18:36:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
