@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 29 Jul 2024 19:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 20:12:18 GMT</lastBuildDate>
     <item>
       <title>特斯拉要求客戶不要再對充電器一無所知</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/tesla_harging_wet_rag/</link>
@@ -97,9 +97,9 @@
       <pubDate>Mon, 29 Jul 2024 07:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 後，微軟阻止安全軟體使用核心驅動程式</title>
+      <title>CrowdStrike 後，微軟阻止安全工具使用核心驅動程式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_crowdstrike_incident_report/</link>
-      <description><![CDATA[基於不完整資訊估計有850 萬台機器崩潰 微軟承認，其對CrowdStrike 錯誤軟體更新造成的850 萬台機器崩潰的估計是基於不完整數據，並誓言要減少訊息安全供應商對核心的依賴- 模式驅動程式是問題的核心。]]></description>
+      <description><![CDATA[現在有一個想法 - 在用戶模式下解析配置數據 微軟發誓要減少網路安全供應商對內核模式代碼的依賴，這是本月 CrowdStrike 超級混亂的核心。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_crowdstrike_incident_report/</guid>
       <pubDate>Mon, 29 Jul 2024 06:30:14 GMT</pubDate>
     </item>
