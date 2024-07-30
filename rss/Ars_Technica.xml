@@ -4,7 +4,7 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 11:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 14:10:34 GMT</lastBuildDate>
     <item>
       <title>兩個物種之間的雜交可以產生蓬勃發展的“群”</title>
       <link>https://arstechnica.com/?p=2036554</link>
@@ -36,7 +36,7 @@
     <item>
       <title>駭客利用 VMware 漏洞取得虛擬機器管理程式管理權限</title>
       <link>https://arstechnica.com/?p=2039863</link>
-      <description><![CDATA[建立一個名為「ESX Admins」的新群組，ESXi 會自動為其授予管理員權限。]]></description>
+      <description><![CDATA[建立名為「ESX Admins」的新群組，ESXi 會自動為其授予管理員權限。]]></description>
       <guid>https://arstechnica.com/?p=2039863</guid>
       <pubDate>Mon, 29 Jul 2024 21:02:35 GMT</pubDate>
     </item>
