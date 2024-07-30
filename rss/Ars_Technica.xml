@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 20:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 21:11:54 GMT</lastBuildDate>
+    <item>
+      <title>透過具有里程碑意義的發射，五角大廈終於擺脫了俄羅斯火箭發動機</title>
+      <link>https://arstechnica.com/?p=2039968</link>
+      <description><![CDATA[美國軍方經過十年的努力才結束了對 RD-180 發動機的依賴。]]></description>
+      <guid>https://arstechnica.com/?p=2039968</guid>
+      <pubDate>Tue, 30 Jul 2024 20:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果在 iOS 17.6、macOS 14.6 版本中悄悄加入了一些小功能</title>
+      <link>https://arstechnica.com/?p=2040130</link>
+      <description><![CDATA[M3 MacBook Pro 現在支援多個外接顯示器。]]></description>
+      <guid>https://arstechnica.com/?p=2040130</guid>
+      <pubDate>Tue, 30 Jul 2024 20:08:35 GMT</pubDate>
+    </item>
     <item>
       <title>被指控抄襲的人工智慧搜尋引擎宣佈出版商收入分成計劃</title>
       <link>https://arstechnica.com/?p=2039978</link>
-      <description><![CDATA[Perplexity 表示 WordPress、《時代雜誌》、《明鏡周刊》和《財富》已經簽約。]]></description>
+      <description><![CDATA[Perplexity 表示 WordPress.com、《時代雜誌》、《明鏡周刊》和《財富》已經簽約。]]></description>
       <guid>https://arstechnica.com/?p=2039978</guid>
       <pubDate>Tue, 30 Jul 2024 19:58:55 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>Charter 未能將 VoIP 電話中斷通知 911 呼叫中心和 FCC</title>
       <link>https://arstechnica.com/?p=2040032</link>
-      <description><![CDATA[Charter 指責電子郵件通知的錯誤以及對 FCC 規則的誤解。]]></description>
+      <description><![CDATA[Charter 將此歸咎於電子郵件通知的錯誤以及對 FCC 規則的誤解。]]></description>
       <guid>https://arstechnica.com/?p=2040032</guid>
       <pubDate>Tue, 30 Jul 2024 17:56:45 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[Facebook 母公司被指控在未經「知情同意」的情況下從照片和影片中收集數據。]]></description>
       <guid>https://arstechnica.com/?p=2039989</guid>
       <pubDate>Tue, 30 Jul 2024 16:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉召回 180 萬輛汽車，原因是引擎蓋行駛時會打開</title>
-      <link>https://arstechnica.com/?p=2039948</link>
-      <description><![CDATA[這個問題在中國似乎比其他地方更普遍，「原因不明」。]]></description>
-      <guid>https://arstechnica.com/?p=2039948</guid>
-      <pubDate>Tue, 30 Jul 2024 14:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>兩個物種之間的雜交可以產生蓬勃發展的“群”</title>
-      <link>https://arstechnica.com/?p=2036554</link>
-      <description><![CDATA[人類可能是混合群體的一部分。我們正在製造更多這樣的產品。]]></description>
-      <guid>https://arstechnica.com/?p=2036554</guid>
-      <pubDate>Tue, 30 Jul 2024 11:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

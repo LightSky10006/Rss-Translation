@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 30 Jul 2024 20:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 21:12:17 GMT</lastBuildDate>
+    <item>
+      <title>經濟實惠的連接計劃失敗了——成千上萬的家庭已經失去了互聯網</title>
+      <link>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</link>
+      <description><![CDATA[ACP 為低收入美國人提供負擔得起的網路連線。自 5 月到期以來，大約 10 萬包機訂戶不得不停止使用。]]></description>
+      <guid>https://www.wired.com/story/affordable-care-act-low-income-households-lose-internet/</guid>
+      <pubDate>Tue, 30 Jul 2024 20:36:51 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Disney+ 上的 51 部最佳節目（2024 年 8 月）</title>
       <link>https://www.wired.com/story/best-shows-disney-plus/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>Lime 的新型共享電動自行車更平易近人——油門等等</title>
       <link>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</link>
-      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了節流閥。]]></description>
+      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了油門。]]></description>
       <guid>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</guid>
       <pubDate>Tue, 30 Jul 2024 04:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[法國各地的長途電纜被切斷，網路連線中斷。]]></description>
       <guid>https://www.wired.com/story/saboteurs-cut-internet-cables-in-latest-disruption-during-paris-olympics/</guid>
       <pubDate>Mon, 29 Jul 2024 13:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>人們正在使用 Memecoin 來押注美國大選</title>
-      <link>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</link>
-      <description><![CDATA[儘管圍繞著美國大選的賭注之爭在法庭上展開，但精通科技的人卻在政客的啟發下，在加密貨幣上豪賭數億美元。]]></description>
-      <guid>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</guid>
-      <pubDate>Mon, 29 Jul 2024 12:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
