@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 30 Jul 2024 14:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 15:11:54 GMT</lastBuildDate>
+    <item>
+      <title>「網路釣魚 LockBit」EvilProxy 每月發動超過一百萬次攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/evilproxy_phishing_kit_analysis/</link>
+      <description><![CDATA[留下勒索軟體感染、資料竊取、商業電子郵件洩露的痕跡 Insight  EvilProxy 的開發者（一種被稱為“網絡釣魚中的LockBit”的網路釣魚工具包）-製作了有關使用合法 Cloudflare 服務來偽裝惡意流量的指南。這增加了不斷增長的工具庫，為缺乏實際技術專業知識的犯罪分子提供進入數位盜竊行業的工具。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/evilproxy_phishing_kit_analysis/</guid>
+      <pubDate>Tue, 30 Jul 2024 14:33:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟的 Azure 入口網站在全球遭遇重挫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>「極快」壓縮演算法 LZ4 的最新更新超越了舊版本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</link>
-      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法 LZ4 的速度大幅提升 - 幾乎一個數量級。]]></description>
+      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法LZ4 的速度得到了很大的提升- 幾乎一個數量級。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</guid>
       <pubDate>Tue, 30 Jul 2024 09:36:15 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>根據報道，歐盟監管機構將批准慧與與瞻博網路的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</link>
-      <description><![CDATA[阿魯巴島，阿魯巴島！一些網路專業人士擔心這會導致選擇減少 據報道，歐盟委員會將無條件批准 HPE 斥資 140 億美元收購瞻博網路的提議。]]></description>
+      <description><![CDATA[阿魯巴島，阿魯巴島！一些網路專業人士擔心這會導致選擇減少 據報道，歐盟委員會將無條件批准 HPE 以 140 億美元收購瞻博網路的提議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</guid>
       <pubDate>Mon, 29 Jul 2024 16:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟找到了一種激怒Windows 11用戶的新方法—備份彈出視窗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_onedrive_popup/</link>
-      <description><![CDATA[開始功能表中的廣告對您來說還不夠煩人嗎？握緊我的啤酒 微軟一直在尋找新的、令人興奮的方式來惹惱 Windows 用戶。它的最新舉措是在 Windows 11 中全螢幕彈出窗口，敦促非新手備份他們的文件。 ...  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/microsoft_onedrive_popup/</guid>
-      <pubDate>Mon, 29 Jul 2024 16:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
