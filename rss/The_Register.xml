@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 30 Jul 2024 08:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 10:13:20 GMT</lastBuildDate>
+    <item>
+      <title>「極快」壓縮演算法 LZ4 的最新更新超越了舊版本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</link>
+      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法 LZ4 的速度大幅提升 - 幾乎一個數量級。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</guid>
+      <pubDate>Tue, 30 Jul 2024 09:36:15 GMT</pubDate>
+    </item>
     <item>
       <title>修改後的英國網路安全法案未能盡快出台，但細節並不完整</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/uk_csr_bill_analysis/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在事件發生幾十年後在剪輯室地板上找到你的程式碼 曾經想過你提交了一段優雅的程式碼​​，卻發現其他人決定放棄它，因為「這就是我們的方式」一直在做事」？如果是這樣，你並不孤單。 Microsoft 工程師也會遇到這種情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/windows_start_menu_port/</guid>
       <pubDate>Mon, 29 Jul 2024 12:19:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>調查顯示英國政府在郵局IT醜聞誤導議員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/post_office_horizon_inquiry/</link>
-      <description><![CDATA[前商務部長文斯·凱布爾(Vince Cable) 作證，強調錯誤訊息和監督失誤 負責郵局的政府部門官員向國會議員發送了有關Horizo​​​​n IT 系統相關法庭案件的誤導性信息，一項調查陷入英國最大的誤判之一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/post_office_horizon_inquiry/</guid>
-      <pubDate>Mon, 29 Jul 2024 11:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
