@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 19:10:03 GMT</lastBuildDate>
+    <item>
+      <title>Charter 未能將 VoIP 電話中斷通知 911 呼叫中心和 FCC</title>
+      <link>https://arstechnica.com/?p=2040032</link>
+      <description><![CDATA[Charter 指責電子郵件通知的錯誤以及對 FCC 規則的誤解。]]></description>
+      <guid>https://arstechnica.com/?p=2040032</guid>
+      <pubDate>Tue, 30 Jul 2024 17:56:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>亞馬遜被迫召回 40 萬種可能導致死亡、觸電的產品</title>
+      <link>https://arstechnica.com/?p=2040006</link>
+      <description><![CDATA[人們可能仍在使用亞馬遜銷售和轉售的不安全產品。]]></description>
+      <guid>https://arstechnica.com/?p=2040006</guid>
+      <pubDate>Tue, 30 Jul 2024 17:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>羅技有一個需要訂閱的「永遠的滑鼠」的想法</title>
+      <link>https://arstechnica.com/?p=2039972</link>
+      <description><![CDATA[Exec表示，需要定期付費進行軟體更新的滑鼠是可能的。]]></description>
+      <guid>https://arstechnica.com/?p=2039972</guid>
+      <pubDate>Tue, 30 Jul 2024 17:49:07 GMT</pubDate>
+    </item>
     <item>
       <title>流行的 2FA 工具的遺失使注重安全的 GrapheneOS 陷入了悖論</title>
       <link>https://arstechnica.com/?p=2039975</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[讓我們開始按順序研究每張海灘男孩專輯的深夜。]]></description>
       <guid>https://arstechnica.com/?p=2039811</guid>
       <pubDate>Mon, 29 Jul 2024 21:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>駭客利用 VMware 漏洞取得虛擬機器管理程式管理權限</title>
-      <link>https://arstechnica.com/?p=2039863</link>
-      <description><![CDATA[建立名為「ESX Admins」的新群組，ESXi 會自動為其授予管理員權限。]]></description>
-      <guid>https://arstechnica.com/?p=2039863</guid>
-      <pubDate>Mon, 29 Jul 2024 21:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《星際爭霸戰：下層甲板》S5 預告片為 Cerritos 船員提供了最後一項任務</title>
-      <link>https://arstechnica.com/?p=2039676</link>
-      <description><![CDATA[另外：Section 31 預告片、奇異新世界 S3、星際艦隊學院等新聞。]]></description>
-      <guid>https://arstechnica.com/?p=2039676</guid>
-      <pubDate>Mon, 29 Jul 2024 20:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>國會取消折扣計劃後低收入家庭放棄網路服務</title>
-      <link>https://arstechnica.com/?p=2039833</link>
-      <description><![CDATA[Charter執行長表示，30美元折扣結束後，「客戶的支付能力」成為人們關注的問題。]]></description>
-      <guid>https://arstechnica.com/?p=2039833</guid>
-      <pubDate>Mon, 29 Jul 2024 20:40:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

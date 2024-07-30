@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 19:10:21 GMT</lastBuildDate>
+    <item>
+      <title>達美航空就 CrowdStrike 損失向微軟發起法律訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</link>
+      <description><![CDATA[哦，Boies，我們又來了 達美航空由於本月早些時候的CrowdStrike 中斷而損失了數億美元- 它已聘請了一家實力雄厚的律師事務所來追討部分損失那些損失的資金可能來自獵鷹製造商和微軟本身。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</guid>
+      <pubDate>Tue, 30 Jul 2024 19:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>高通採用 Snapdragon 4s Gen 2 5G 晶片組降低預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/qualcomm_snapdragon_4s_gen_2/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>扎克夢想為所有人提供個人化的人工智慧助理——就像電子郵件一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</link>
-      <description><![CDATA[針對您的社群媒體資料進行微調的模型？可能會出現什麼問題？伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
+      <description><![CDATA[針對您的社群媒體檔案進行微調的模式？可能會出現什麼問題？伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</guid>
       <pubDate>Tue, 30 Jul 2024 17:15:07 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>「極快」壓縮演算法 LZ4 的最新更新超越了舊版本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</link>
-      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法LZ4 的速度得到了很大的提升- 幾乎一個數量級。 &gt;]]></description>
+      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法 LZ4 的速度大幅提升 - 幾乎一個數量級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</guid>
       <pubDate>Tue, 30 Jul 2024 09:36:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有趣的是，威脅要罷工並關閉零售店會帶來什麼後果 蘋果即將與美國零售員工工會達成第一份協議，屈服於商店工人的要求五月份他威脅要辭職。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/union_apple_store/</guid>
       <pubDate>Tue, 30 Jul 2024 00:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國參議員表示，汽車製造商以幾美分的價格出售人們的駕駛習慣和位置數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/ftc_insurance_senators_car_driving/</link>
-      <description><![CDATA[可汗！ Khaaaaaan！ !--#include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/ftc_insurance_senators_car_driving/</guid>
-      <pubDate>Mon, 29 Jul 2024 23:01:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
