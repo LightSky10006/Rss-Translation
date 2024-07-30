@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 02:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 11:35:49 GMT</lastBuildDate>
+    <item>
+      <title>兩個物種之間的雜交可以產生蓬勃發展的“群”</title>
+      <link>https://arstechnica.com/?p=2036554</link>
+      <description><![CDATA[人類可能是混合群體的一部分。我們正在製造更多這樣的產品。]]></description>
+      <guid>https://arstechnica.com/?p=2036554</guid>
+      <pubDate>Tue, 30 Jul 2024 11:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>奢華的《權力之戒》S2 預告片在聖地牙哥動漫展上首次亮相</title>
       <link>https://arstechnica.com/?p=2039912</link>
@@ -29,7 +36,7 @@
     <item>
       <title>駭客利用 VMware 漏洞取得虛擬機器管理程式管理權限</title>
       <link>https://arstechnica.com/?p=2039863</link>
-      <description><![CDATA[建立名為「ESX Admins」的新群組，ESXi 會自動為其授予管理員權限。]]></description>
+      <description><![CDATA[建立一個名為「ESX Admins」的新群組，ESXi 會自動為其授予管理員權限。]]></description>
       <guid>https://arstechnica.com/?p=2039863</guid>
       <pubDate>Mon, 29 Jul 2024 21:02:35 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[批評者稱，「人工智慧末日論者」提出的 SB-1047 可能會減緩創新並扼殺開源人工智慧。]]></description>
       <guid>https://arstechnica.com/?p=2036533</guid>
       <pubDate>Mon, 29 Jul 2024 19:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>空氣污染使蜜蜂更難聞花香</title>
-      <link>https://arstechnica.com/?p=2039764</link>
-      <description><![CDATA[污染物會改變植物的氣味，扭曲昆蟲的感官，並擾亂授粉過程。]]></description>
-      <guid>https://arstechnica.com/?p=2039764</guid>
-      <pubDate>Mon, 29 Jul 2024 18:34:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

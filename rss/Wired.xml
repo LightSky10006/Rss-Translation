@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 30 Jul 2024 11:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 11:36:17 GMT</lastBuildDate>
+    <item>
+      <title>Elgato 提示器評論：此提詞器不需要 iPad</title>
+      <link>https://www.wired.com/review/elgato-teleprompter/</link>
+      <description><![CDATA[Elgato 建立了在為 YouTube 錄製時讀取腳本的最簡單方法。]]></description>
+      <guid>https://www.wired.com/review/elgato-teleprompter/</guid>
+      <pubDate>Tue, 30 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>雷利史考特如何觀看《星際大戰》並最終製作《異形》的不為人知的故事</title>
       <link>https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Lime 的新型共享電動自行車更平易近人——油門等等</title>
       <link>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</link>
-      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了節流閥。]]></description>
+      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了油門。]]></description>
       <guid>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</guid>
       <pubDate>Tue, 30 Jul 2024 04:00:00 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 29 Jul 2024 12:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>三星 Galaxy Book4 Edge Copilot+ PC 評測：一款功能強大的筆記型電腦</title>
+      <title>三星 Galaxy Book4 Edge Copilot+ PC 評測：功能強大的筆記型電腦</title>
       <link>https://www.wired.com/review/samsung-galaxy-book4-edge-copilot-pc/</link>
       <description><![CDATA[光滑、苗條、鋒利。這是我們迄今為止測試過的性能最佳的 Copilot+ PC。]]></description>
       <guid>https://www.wired.com/review/samsung-galaxy-book4-edge-copilot-pc/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>回到 BASIC——計算史上最重要的程式語言</title>
       <link>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</link>
-      <description><![CDATA[在 BASIC 出現之前，程式設計一直是精英人士的專利。]]></description>
+      <description><![CDATA[在 BASIC 出現之前，程式設計一直是菁英們的專利。]]></description>
       <guid>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</guid>
       <pubDate>Mon, 29 Jul 2024 10:30:00 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>比特幣兄弟為唐納德·特朗普瘋狂</title>
       <link>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</link>
-      <description><![CDATA[在納許維爾舉行的比特幣 2024 會議上，川普終於告訴了加密貨幣愛好者他們想聽到的內容。]]></description>
+      <description><![CDATA[在納許維爾舉行的比特幣 2024 年會議上，川普終於告訴了加密貨幣愛好者他們想聽到的內容。]]></description>
       <guid>https://www.wired.com/story/bitcoin-bros-go-wild-for-donald-trump/</guid>
       <pubDate>Sun, 28 Jul 2024 12:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯想 Yoga 9i 二合一 (2024) 評測：一款久經考驗的真實筆記型電腦</title>
-      <link>https://www.wired.com/review/lenovo-yoga-9i-2-in-1-2024/</link>
-      <description><![CDATA[這款二合一機器重量輕，具有可翻轉的螢幕，並配有出色的揚聲器。]]></description>
-      <guid>https://www.wired.com/review/lenovo-yoga-9i-2-in-1-2024/</guid>
-      <pubDate>Sun, 28 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
