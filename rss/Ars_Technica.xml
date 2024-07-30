@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 16:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 18:14:21 GMT</lastBuildDate>
+    <item>
+      <title>流行的 2FA 工具的遺失使注重安全的 GrapheneOS 陷入了悖論</title>
+      <link>https://arstechnica.com/?p=2039975</link>
+      <description><![CDATA[失去對 Authy 的訪問會導致對 Google 安全模型的另一次清算。]]></description>
+      <guid>https://arstechnica.com/?p=2039975</guid>
+      <pubDate>Tue, 30 Jul 2024 16:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>德克薩斯州面部識別投訴後 Meta 支付 14 億美元和解金</title>
+      <link>https://arstechnica.com/?p=2039989</link>
+      <description><![CDATA[Facebook 母公司被指控在未經「知情同意」的情況下從照片和影片中收集數據。]]></description>
+      <guid>https://arstechnica.com/?p=2039989</guid>
+      <pubDate>Tue, 30 Jul 2024 16:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉召回 180 萬輛汽車，原因是引擎蓋行駛時會打開</title>
       <link>https://arstechnica.com/?p=2039948</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[Charter執行長表示，30美元折扣結束後，「客戶的支付能力」成為人們關注的問題。]]></description>
       <guid>https://arstechnica.com/?p=2039833</guid>
       <pubDate>Mon, 29 Jul 2024 20:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>自行車道和狹窄的街道不會減慢緊急車輛的速度</title>
-      <link>https://arstechnica.com/?p=2039836</link>
-      <description><![CDATA[人們喜歡抱怨交通平靜，但它卻讓道路變得更安全。]]></description>
-      <guid>https://arstechnica.com/?p=2039836</guid>
-      <pubDate>Mon, 29 Jul 2024 20:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX將龍式濺落裝置轉移到太平洋以解決墜落碎片問題</title>
-      <link>https://arstechnica.com/?p=2039636</link>
-      <description><![CDATA[“我們決定將龍號回收作業轉移回西海岸。”]]></description>
-      <guid>https://arstechnica.com/?p=2039636</guid>
-      <pubDate>Mon, 29 Jul 2024 20:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

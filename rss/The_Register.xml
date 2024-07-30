@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 30 Jul 2024 17:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 18:14:42 GMT</lastBuildDate>
+    <item>
+      <title>高通採用 Snapdragon 4s Gen 2 5G 晶片組降低預算</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/qualcomm_snapdragon_4s_gen_2/</link>
+      <description><![CDATA[最新晶片旨在為100 美元以下的手機帶來千兆位元連接 高通公司最近一直在推動高階智慧型手機平台，但其最新版本的目標是預算細分市場，旨在為低於100 美元的手機提供千兆位元5G 連線- 100 美元手機。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/qualcomm_snapdragon_4s_gen_2/</guid>
+      <pubDate>Tue, 30 Jul 2024 18:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>扎克夢想為所有人提供個人化的人工智慧助理——就像電子郵件一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</link>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 30 Jul 2024 14:33:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟的 Azure 入口網站在全球遭遇重挫</title>
+      <title>微軟 Azure 網路在全球遭遇重挫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</link>
-      <description><![CDATA[微軟，今天準備好向投資者談論這件事了嗎？遇到困難。]]></description>
+      <description><![CDATA[雷德蒙德，今天準備好向投資者談論這件事了嗎？連線到Azure 遇到困難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</guid>
       <pubDate>Tue, 30 Jul 2024 14:06:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[可汗！ Khaaaaaan！ !--#include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/ftc_insurance_senators_car_driving/</guid>
       <pubDate>Mon, 29 Jul 2024 23:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta的AI安全系統被空白鍵擊敗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/meta_ai_safety/</link>
-      <description><![CDATA[如果你只是添加一些好的ASCII 代碼32，“忽略先前的指令”就會阻礙Prompt-Guard 模型 Meta 的機器學習模型用於檢測提示注入攻擊- 使神經網路行為不當的特殊提示– 你猜對了，它本身很容易受到提示注入攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/meta_ai_safety/</guid>
-      <pubDate>Mon, 29 Jul 2024 21:01:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
