@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 30 Jul 2024 15:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 15:34:40 GMT</lastBuildDate>
+    <item>
+      <title>隨著需求的成長，成本上升是資料中心營運商面臨的最大問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/rising_datacenter_costs/</link>
+      <description><![CDATA[更不用說技能差距、人工智慧懷疑論和對電力的不懈追求 資料中心營運商面臨電力和冷卻要求等多重挑戰，而人員配備問題仍然存在，而且許多人沒有追蹤正確的永續性指標。從好的方面來說，他們可以依靠對數位服務的強勁且不斷增長的需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/rising_datacenter_costs/</guid>
+      <pubDate>Tue, 30 Jul 2024 15:16:31 GMT</pubDate>
+    </item>
     <item>
       <title>「網路釣魚 LockBit」EvilProxy 每月發動超過一百萬次攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/evilproxy_phishing_kit_analysis/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>微軟的 Azure 入口網站在全球遭遇重挫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</link>
-      <description><![CDATA[微軟，今天準備好向投資者談論這件事了嗎？ Azure 遇到困難。]]></description>
+      <description><![CDATA[今天，微軟準備好向投資者講述這件事了嗎？遇到困難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</guid>
       <pubDate>Tue, 30 Jul 2024 14:06:13 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>「極快」壓縮演算法 LZ4 的最新更新超越了舊版本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</link>
-      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法LZ4 的速度得到了很大的提升- 幾乎一個數量級。 &gt;]]></description>
+      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法 LZ4 的速度大幅提升 - 幾乎一個數量級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</guid>
       <pubDate>Tue, 30 Jul 2024 09:36:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這個技巧似乎可以加快充電速度，但可能會損壞電纜 特斯拉已要求車主停止將濕毛巾包裹在手柄上以加快充電過程，並警告稱這可能會損壞其超級充電站。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/tesla_harging_wet_rag/</guid>
       <pubDate>Mon, 29 Jul 2024 17:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>根據報道，歐盟監管機構將批准慧與與瞻博網路的交易</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</link>
-      <description><![CDATA[阿魯巴島，阿魯巴島！一些網路專業人士擔心這會導致選擇減少 據報道，歐盟委員會將無條件批准 HPE 以 140 億美元收購瞻博網路的提議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/29/eu_hp_juniper_aruba/</guid>
-      <pubDate>Mon, 29 Jul 2024 16:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
