@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 20:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 21:12:02 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯瞄準 Sitting Ducks 域名，搶奪 3 萬多個域名</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/domains_with_delegated_name_service/</link>
+      <description><![CDATA[已有八年歷史的網域劫持技術仍在奪取受害者 數十名與俄羅斯有關聯的犯罪分子目前正試圖透過利用薄弱的DNS 服務來奪取網路網域的控制權。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/domains_with_delegated_name_service/</guid>
+      <pubDate>Wed, 31 Jul 2024 20:50:12 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾準備裁員“數千人”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/intel_layoff_rumors/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[高層聲稱，人人都喜歡Copilot，並希望他們也能對Copilot Plus PC 說同樣的話 微軟試圖讓投資者相信人工智慧正在帶來回報，但他們似乎對客戶採用和使用的消息不以為然。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_q4_2024/</guid>
       <pubDate>Wed, 31 Jul 2024 05:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>共乘為日本計程車產業帶來了新的、獨特的混亂</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ride_hailing_japan_accusation/</link>
-      <description><![CDATA[部長指責計程車司機玩弄演算法以獲得更有利可圖的票價 數位轉型部長河野太郎表示，日本的計程車司機正在玩弄共乘演算法，以找到越來越有利可圖圖的票價。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ride_hailing_japan_accusation/</guid>
-      <pubDate>Wed, 31 Jul 2024 04:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
