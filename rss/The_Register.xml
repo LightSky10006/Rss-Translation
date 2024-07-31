@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 08:34:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 09:35:15 GMT</lastBuildDate>
+    <item>
+      <title>與其他發行版相比，Vanilla OS 2「Orchid」正在重寫 Linux 的工作方式</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/vanilla_os_friendly_radical/</link>
+      <description><![CDATA[前面，未修改的 GNOME；在下面，這一切都有點奇怪，但故意如此 Vanilla OS 是一個實驗性發行版，測試不變性、跨發行版打包、A/B 故障轉移等新實現。 /p&gt; &lt; p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/vanilla_os_friendly_radical/</guid>
+      <pubDate>Wed, 31 Jul 2024 09:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>英國選舉委員會因基本網路安全失敗而受到批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[留下勒索軟體感染、資料竊取、商業電子郵件洩露的痕跡 Insight  EvilProxy 的開發者（一種被稱為“網絡釣魚中的LockBit”的網路釣魚工具包）-製作了有關使用合法 Cloudflare 服務來偽裝惡意流量的指南。這增加了不斷增長的工具庫，為缺乏實際技術專業知識的犯罪分子提供進入數位盜竊行業的工具。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/evilproxy_phishing_kit_analysis/</guid>
       <pubDate>Tue, 30 Jul 2024 14:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟的 Azure 網路在全球遭遇重挫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</link>
-      <description><![CDATA[雷德蒙德，今天準備好向投資者談論這件事了嗎？連線到Azure 遇到困難。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</guid>
-      <pubDate>Tue, 30 Jul 2024 14:06:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
