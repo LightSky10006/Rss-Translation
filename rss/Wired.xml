@@ -4,9 +4,16 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 31 Jul 2024 13:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 14:11:24 GMT</lastBuildDate>
     <item>
-      <title>谷歌打擊明顯的 Deepfakes</title>
+      <title>穆格繆斯評論：音樂靈感的機器</title>
+      <link>https://www.wired.com/review/moog-muse-review/</link>
+      <description><![CDATA[這款八音模擬合成器並不便宜，但物有所值。]]></description>
+      <guid>https://www.wired.com/review/moog-muse-review/</guid>
+      <pubDate>Wed, 31 Jul 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌嚴厲打擊明顯的 Deepfakes</title>
       <link>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</link>
       <description><![CDATA[這家搜尋巨頭新宣布的措施旨在使人工智慧生成的或以其他方式欺騙的露骨內容更難以被發現。]]></description>
       <guid>https://www.wired.com/story/google-tries-to-crack-down-on-explicit-deepfakes/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>唐納德·川普囤積數十億比特幣的計劃讓經濟學家感到困惑</title>
       <link>https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/</link>
-      <description><![CDATA[這位美國前總統承諾，如果他再次當選，將建立一個“國家比特幣庫存”，並用它來抵消通貨膨脹。但經濟學家認為該計劃沒有什麼優點。]]></description>
+      <description><![CDATA[這位美國前總統承諾，如果他再次當選，將建立一個“國家比特幣儲備”，並用它來抵消通貨膨脹。但經濟學家認為該計劃沒有什麼優點。]]></description>
       <guid>https://www.wired.com/story/donald-trumps-plan-to-hoard-billions-in-bitcoin-has-economists-stumped/</guid>
       <pubDate>Wed, 31 Jul 2024 12:13:03 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[1977 年，雷德利·斯科特 (Ridley Scott) 正在考慮製作中世紀時期的作品。然後他看了《星際大戰》，並開始製作兩部科幻經典：《異形》和《銀翼殺手》。]]></description>
       <guid>https://www.wired.com/story/the-untold-story-of-how-ridley-scott-saw-star-wars-and-ended-up-making-alien-and-blade-runner/</guid>
       <pubDate>Tue, 30 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的天氣之神可以按需降雨——或者說他們希望你相信</title>
-      <link>https://www.wired.com/story/new-gods-weather-rain-cloud-seeding-emirates/</link>
-      <description><![CDATA[在阿布達比郊區一座金碧輝煌的指揮中心，科學家們正在尋求從沙漠天空中提取水分。但他們所有奢侈的播雲技術——撒佈納米材料的飛機、擾亂大氣層的雷射——真的能大規模發揮作用嗎？]]></description>
-      <guid>https://www.wired.com/story/new-gods-weather-rain-cloud-seeding-emirates/</guid>
-      <pubDate>Tue, 30 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
