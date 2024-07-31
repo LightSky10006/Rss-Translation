@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 14:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 14:34:55 GMT</lastBuildDate>
+    <item>
+      <title>下架五個月後，LockBit 已不再是以前的樣子</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/five_months_after_lockbit/</link>
+      <description><![CDATA[網路犯罪的力量無與倫比的前所未有的時期 特徵 大約兩年來，LockBit 的勒索軟體操作是迄今為止此類勒索軟體活動中最多產的，直到二月。在造成了數千名受害者、勒索了數億美元並建立了一支由精明的網路犯罪分子組成的強大軍隊之後，其策劃者LockbitSupp（警方稱其為俄羅斯國民德米特里·霍羅舍夫）畢生的工作現在已岌岌可危。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/five_months_after_lockbit/</guid>
+      <pubDate>Wed, 31 Jul 2024 14:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>Skype 不再有廣告，這對微軟來說是不尋常的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/skype_adfree/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>美國太空船首次拍攝月球特寫已有 60 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ranger_7_60_years/</link>
-      <description><![CDATA[Ranger 7 終於出手了。五年後，人類也將追隨 距離美國太空船首次拍攝月球表面特寫影像已有 60 年，距離太空人踏​​上月球僅五年。 Ranger 7 終於在 1964 年 7 月實現了這項壯舉。]]></description>
+      <description><![CDATA[Ranger 7 終於出手了。五年後，人類也將追隨 距離美國太空船首次拍攝月球表面特寫影像已有 60 年，距太空人踏上月球僅五年。 Ranger 7 終於在 1964 年 7 月實現了這項壯舉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ranger_7_60_years/</guid>
       <pubDate>Wed, 31 Jul 2024 11:30:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>中國不再擔心缺乏 GPU，而是學會愛超級計算機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/china_supercomputer_not_gpu_plan/</link>
-      <description><![CDATA[中國研究人員表示，無論如何，這種解決方法在未來是不可避免的 中國領先的計算機科學家建議，中國可以在不使用進口GPU 的情況下建立大型語言模型-透過使用超級電腦來代替。]]></description>
+      <description><![CDATA[中國研究人員表示，無論如何，這種解決方案在未來將是不可避免的 中國領先的電腦科學家建議，中國可以在不使用進口GPU 的情況下建立大型語言模型- 透過使用超級電腦來取代。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/china_supercomputer_not_gpu_plan/</guid>
       <pubDate>Wed, 31 Jul 2024 06:59:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[德克薩斯州的一切都更大——甚至是和解協議 Meta 將支付創紀錄的14 億美元來與德克薩斯州達成和解，該州指控這家Facebook 巨頭在未經許可的情況下對人們的照片進行面部識別，從而違反了隱私法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_texas_settlement/</guid>
       <pubDate>Tue, 30 Jul 2024 19:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>達美航空就 CrowdStrike 損失向微軟發起法律訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</link>
-      <description><![CDATA[哦，Boies，我們又來了 達美航空由於本月早些時候的CrowdStrike 中斷而損失了數億美元- 它已聘請了一家實力雄厚的律師事務所來追討部分損失那些損失的資金可能來自獵鷹製造商和微軟本身。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</guid>
-      <pubDate>Tue, 30 Jul 2024 19:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
