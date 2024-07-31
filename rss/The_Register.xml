@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 01:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 02:12:24 GMT</lastBuildDate>
+    <item>
+      <title>AMD 上季度銷售了 10 億美元的 Instinct GPU，推動資料中心實現三位數成長</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/amd_q2_2024/</link>
+      <description><![CDATA[這很好，但遠遠落後於Nvidia，而其他細分市場疲軟且供應鏈痛苦持續存在 AMD 告訴投資者，其Instinct MI300X GPU（晶片設計師的Nvidia AI 加速器硬體的替代品）今年第二季資料中心營收超過 10 億美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/amd_q2_2024/</guid>
+      <pubDate>Wed, 31 Jul 2024 01:56:09 GMT</pubDate>
+    </item>
     <item>
       <title>DigiCert 給不幸的人 24 小時的時間來更換代碼錯誤後注定失敗的證書</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_revoked/</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 31 Jul 2024 01:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>不，亞馬遜，你將處理透過你的網站銷售的產品的召回，看門狗咆哮</title>
+      <title>不，亞馬遜，你將徹底召回透過你的網站銷售的不良產品，看門狗咆哮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/amazon_ordered_to_handle_recall/</link>
-      <description><![CDATA[E-super-souk 沒有任何此類行為 亞馬遜已被美國消費品安全委員會 (CPSC) 責令負責召回第三方銷售的有缺陷和危險的產品商家。 p&gt; ]]></description>
+      <description><![CDATA[E-super-souk 沒有任何此類行為 美國消費品安全委員會(CPSC) 已責令亞馬遜對召回由E-super-souk 銷售的有缺陷和危險的產品承擔全部和適當的責任。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/amazon_ordered_to_handle_recall/</guid>
       <pubDate>Tue, 30 Jul 2024 23:38:23 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>扎克夢想為所有人提供個人化的人工智慧助理——就像電子郵件一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</link>
-      <description><![CDATA[針對您的社群媒體檔案進行微調的模式？可能會出現什麼問題？伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
+      <description><![CDATA[針對您的社群媒體資料進行微調的模型？可能會出現什麼問題？伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</guid>
       <pubDate>Tue, 30 Jul 2024 17:15:07 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>「極快」壓縮演算法 LZ4 的最新更新超越了舊版本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</link>
-      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法 LZ4 的速度大幅提升 - 幾乎一個數量級。]]></description>
+      <description><![CDATA[新版本做了一些您可能認為它已經做過的事情 新版本的高速壓縮演算法LZ4 的速度得到了很大的提升- 幾乎一個數量級。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/lz4_gets_much_faster/</guid>
       <pubDate>Tue, 30 Jul 2024 09:36:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[當您認為自己已經將所有這些內容都禁止時，更多內容就會彈出 分析 本月Anthropic 的ClaudeBot – 一種網絡內容抓取工具，可從頁面中抓取資料進行訓練AI 模型 - 在 24 小時內訪問技術建議網站 iFixit.com 約一百萬次。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/taming_ai_content_crawlers/</guid>
       <pubDate>Tue, 30 Jul 2024 07:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>電子商務巨頭支付故障後韓國設立 4.45 億美元紓困基金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/south_korea_ecommerce_bailout_fund/</link>
-      <description><![CDATA[創始人被禁止離開該國，承諾為自付費用的商家解決問題 韓國政府週一制定了一項 5600 億韓元（4.45 億美元）的救助計劃來救助商戶他使用了兩個主要的電子商務市場，但幾週來都未能支付款項。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/south_korea_ecommerce_bailout_fund/</guid>
-      <pubDate>Tue, 30 Jul 2024 07:02:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
