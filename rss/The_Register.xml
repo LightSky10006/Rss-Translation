@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 04:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 04:35:19 GMT</lastBuildDate>
     <item>
       <title>共乘為日本計程車產業帶來了新的、獨特的混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ride_hailing_japan_accusation/</link>
@@ -36,12 +36,12 @@
     <item>
       <title>不，亞馬遜，你將徹底召回透過你的網站銷售的不良產品，看門狗咆哮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/amazon_ordered_to_handle_recall/</link>
-      <description><![CDATA[E-super-souk 沒有任何此類行為 美國消費品安全委員會(CPSC) 已責令亞馬遜對召回由E-super-souk 銷售的有缺陷和危險的產品承擔全部和適當的責任。]]></description>
+      <description><![CDATA[E-super-souk 沒有任何此類行為 美國消費品安全委員會(CPSC) 已責令亞馬遜對召回由E-super-souk 銷售的有缺陷和危險產品承擔全部和適當的責任商家透過其網站和應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/amazon_ordered_to_handle_recall/</guid>
       <pubDate>Tue, 30 Jul 2024 23:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>iGiant 選擇Google晶片進行 AI 訓練，蘋果和 Nvidia 之間並沒有失去感情</title>
+      <title>iGiant 選擇 Google 晶片進行 AI 訓練，蘋果和 Nvidia 之間並沒有失去感情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/apple_google_tpu_ai/</link>
       <description><![CDATA[Cupertino 和Nv 之間的Tensor 正在發展 Apple 在一篇研究論文中詳細介紹瞭如何使用Google 的神經網路加速器而不是更時尚的Nvidia 硬體來訓練最新的生成式AI模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/apple_google_tpu_ai/</guid>
@@ -57,14 +57,14 @@
     <item>
       <title>Meta 將支付 $1.4B 來結束對朋友「非法」臉部辨識的鬥爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_texas_settlement/</link>
-      <description><![CDATA[德克薩斯州的一切都更大——甚至是和解協議 Meta 將支付創紀錄的14 億美元來與德克薩斯州達成和解，該州指控這家Facebook 巨頭在未經許可的情況下對人們的照片進行面部識別，從而違反了隱私法。]]></description>
+      <description><![CDATA[德克薩斯州的一切都更大——甚至是和解協議 Meta 將支付創紀錄的14 億美元來與德克薩斯州達成和解，該州指控Facebook 巨頭在未經許可的情況下對人們的照片進行面部識別，從而違反了隱私法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_texas_settlement/</guid>
       <pubDate>Tue, 30 Jul 2024 19:22:14 GMT</pubDate>
     </item>
     <item>
       <title>達美航空就 CrowdStrike 損失向微軟發起法律訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</link>
-      <description><![CDATA[哦，Boies，我們又來了 達美航空由於本月早些時候的CrowdStrike 中斷而損失了數億美元- 它已聘請了一家實力雄厚的律師事務所來追討部分損失那些損失的資金可能來自獵鷹製造商和微軟本身。]]></description>
+      <description><![CDATA[哦，Boies，我們又來了 達美航空由於本月初的 CrowdStrike 中斷而損失了數億美元 - 它已聘請了一家實力雄厚的律師事務所來追討部分損失那些損失的資金可能來自獵鷹製造商和微軟本身。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/crowdstrike_delta_microsoft_lawsuit/</guid>
       <pubDate>Tue, 30 Jul 2024 19:00:14 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>扎克夢想為所有人提供個人化的人工智慧助理——就像電子郵件一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</link>
-      <description><![CDATA[針對您的社群媒體檔案進行微調的模式？可能會出現什麼問題？伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
+      <description><![CDATA[針對您的社群媒體檔案進行微調的模式？可能會出現什麼問題？克伯格(Mark Zuckerberg) 對此抱有信心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/meta_personal_ai/</guid>
       <pubDate>Tue, 30 Jul 2024 17:15:07 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 30 Jul 2024 14:33:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟的 Azure 網路在全球遭遇重挫</title>
+      <title>微軟 Azure 網路在全球遭遇重挫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</link>
       <description><![CDATA[雷德蒙德，今天準備好向投資者談論這件事了嗎？連線到Azure 遇到困難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>歐洲發起「人工智慧工廠」計劃，希望參與全球競爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/europe_ai_factories/</link>
-      <description><![CDATA[是的，您以前聽說過“人工智慧工廠”這個詞，但歐洲有自己的說法 歐洲的超級計算機構已正式為其戰略添加了一個新支柱- 開發和經營人工智慧工廠來推動「更具競爭力和創新性」的歐洲人工智慧生態系統。 ... ]]></description>
+      <description><![CDATA[是的，您以前聽說過“人工智慧工廠”這個詞，但歐洲有自己的說法 歐洲的超級計算機構已正式為其戰略增加了一個新支柱- 開發和經營人工智慧工廠來推動「更具競爭力和創新性」的歐洲人工智慧生態系統。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/europe_ai_factories/</guid>
       <pubDate>Tue, 30 Jul 2024 10:32:07 GMT</pubDate>
     </item>
