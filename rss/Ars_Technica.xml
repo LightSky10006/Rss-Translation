@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 31 Jul 2024 17:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 18:14:42 GMT</lastBuildDate>
     <item>
-      <title>英特爾計劃於 9 月 3 日推出支援 Copilot+ 的下一代 Core Ultra CPU</title>
+      <title>Meta 解決人工智慧幻覺，聊天機器人表示川普槍擊事件並未發生</title>
+      <link>https://arstechnica.com/?p=2040277</link>
+      <description><![CDATA[Meta“將其編程為根本不回答問題”，但它還是回答了。]]></description>
+      <guid>https://arstechnica.com/?p=2040277</guid>
+      <pubDate>Wed, 31 Jul 2024 17:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有增強 GPU 和 NPU 的下一代英特爾酷睿 Ultra 晶片將於 9 月推出</title>
       <link>https://arstechnica.com/?p=2040211</link>
       <description><![CDATA[Lunar Lake 將是英特爾對 Ryzen AI 和 Snapdragon X Elite 晶片的回應。]]></description>
       <guid>https://arstechnica.com/?p=2040211</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[M3 MacBook Pro 現在支援多個外接顯示器。]]></description>
       <guid>https://arstechnica.com/?p=2040130</guid>
       <pubDate>Tue, 30 Jul 2024 20:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>被指控抄襲的人工智慧搜尋引擎宣佈出版商收入分成計劃</title>
-      <link>https://arstechnica.com/?p=2039978</link>
-      <description><![CDATA[Perplexity 表示 WordPress.com、《時代雜誌》、《明鏡周刊》和《財富》已經簽約。]]></description>
-      <guid>https://arstechnica.com/?p=2039978</guid>
-      <pubDate>Tue, 30 Jul 2024 19:58:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
