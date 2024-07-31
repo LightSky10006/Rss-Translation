@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 31 Jul 2024 22:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 23:35:45 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 再次面臨啟用濫用網站的壓力</title>
+      <link>https://arstechnica.com/?p=2040424</link>
+      <description><![CDATA[監管機構表示，Cloudflare 掩蓋了大約 10% 的濫用域名的起源。]]></description>
+      <guid>https://arstechnica.com/?p=2040424</guid>
+      <pubDate>Wed, 31 Jul 2024 23:22:54 GMT</pubDate>
+    </item>
     <item>
       <title>微軟從 Skype 中剔除廣告，轉向“以用戶為中心的設計”</title>
       <link>https://arstechnica.com/?p=2040411</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 31 Jul 2024 21:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 執行長：阻止微軟和其他公司的人工智慧機器人一直是“痛苦的**”</title>
+      <title>Reddit 執行長：阻止微軟和其他公司的人工智慧機器人一直是“最痛苦的事情”</title>
       <link>https://arstechnica.com/?p=2040398</link>
       <description><![CDATA[史蒂夫霍夫曼 (Steve Huffman) 表示，公司必須付費才能抓取 Reddit 資料。]]></description>
       <guid>https://arstechnica.com/?p=2040398</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Meta“將其編程為根本不回答問題”，但它還是回答了。]]></description>
       <guid>https://arstechnica.com/?p=2040277</guid>
       <pubDate>Wed, 31 Jul 2024 17:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有增強 GPU 和 NPU 的下一代英特爾酷睿 Ultra 晶片將於 9 月推出</title>
-      <link>https://arstechnica.com/?p=2040211</link>
-      <description><![CDATA[Lunar Lake 將是英特爾對 Ryzen AI 和 Snapdragon X Elite 晶片的回應。]]></description>
-      <guid>https://arstechnica.com/?p=2040211</guid>
-      <pubDate>Wed, 31 Jul 2024 16:59:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
