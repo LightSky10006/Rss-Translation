@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 31 Jul 2024 10:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 11:10:12 GMT</lastBuildDate>
+    <item>
+      <title>如何建立您自己的瀏覽器擴充</title>
+      <link>https://www.wired.com/story/how-to-write-your-own-browser-extension/</link>
+      <description><![CDATA[這個 DIY 編碼項目可以為 Chrome、Firefox 或您的日常網頁瀏覽器添加有用的實用程式。]]></description>
+      <guid>https://www.wired.com/story/how-to-write-your-own-browser-extension/</guid>
+      <pubDate>Wed, 31 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT-4o 可以信任您的私人資料嗎？</title>
       <link>https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>Lime 的新型共享電動自行車更平易近人——油門等等</title>
       <link>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</link>
-      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了節流閥。]]></description>
+      <description><![CDATA[LimeGlider 和 LimeBike 目前處於試點項目中，具有較小的框架和車輪，並配備了油門。]]></description>
       <guid>https://www.wired.com/story/lime-new-rideshare-ebikes-limebike-limeglider-2024/</guid>
       <pubDate>Tue, 30 Jul 2024 04:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[人類病例不斷增加，很可能被低估，並為病毒提供了學習如何在人與人之間傳播的機會。]]></description>
       <guid>https://www.wired.com/story/bird-flu-human-transmission-colorado-farms-poultry-usa/</guid>
       <pubDate>Mon, 29 Jul 2024 19:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple iOS 18 和 iPadOS 18 的熱門新功能</title>
-      <link>https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/</link>
-      <description><![CDATA[Apple Intelligence 已進入 iOS 18.1 開發者測試版，帶來更新的 Siri 和書寫工具等功能。以下是如何存取它，以及 iOS 18 和 iPadOS 18 中的熱門新功能。]]></description>
-      <guid>https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/</guid>
-      <pubDate>Mon, 29 Jul 2024 17:12:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
