@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 22:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:41:09 GMT</lastBuildDate>
+    <item>
+      <title>神秘的惡意軟體家族在 Google Play 中隱藏多年</title>
+      <link>https://arstechnica.com/?p=2040171</link>
+      <description><![CDATA[Mandrake 之所以能夠不被注意到，是因為其設計在 Android 惡意軟體中並不常見。]]></description>
+      <guid>https://arstechnica.com/?p=2040171</guid>
+      <pubDate>Tue, 30 Jul 2024 23:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>透過具有里程碑意義的發射，五角大廈終於擺脫了俄羅斯火箭發動機</title>
       <link>https://arstechnica.com/?p=2039968</link>
@@ -29,7 +36,7 @@
     <item>
       <title>儘管擔心兒童網路安全法案會傷害兒童，但該法案在參議院獲得通過</title>
       <link>https://arstechnica.com/?p=2040074</link>
-      <description><![CDATA[參議員警告說，KOSA 面臨「幾乎無限制的內容監管」的風險。]]></description>
+      <description><![CDATA[參議員警告說，KOSA 面臨著「幾乎無限的內容監管」的風險。]]></description>
       <guid>https://arstechnica.com/?p=2040074</guid>
       <pubDate>Tue, 30 Jul 2024 19:31:58 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[失去對 Authy 的訪問會導致對 Google 安全模型的另一次清算。]]></description>
       <guid>https://arstechnica.com/?p=2039975</guid>
       <pubDate>Tue, 30 Jul 2024 16:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克薩斯州面部識別投訴後 Meta 支付 14 億美元和解金</title>
-      <link>https://arstechnica.com/?p=2039989</link>
-      <description><![CDATA[Facebook 母公司被指控在未經「知情同意」的情況下從照片和影片中收集數據。]]></description>
-      <guid>https://arstechnica.com/?p=2039989</guid>
-      <pubDate>Tue, 30 Jul 2024 16:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
