@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 31 Jul 2024 08:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 08:34:01 GMT</lastBuildDate>
+    <item>
+      <title>英國選舉委員會因基本網路安全失敗而受到批評</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</link>
+      <description><![CDATA[花了 13 個月才注意到 4000 萬選民的資料遭到洩露 英國選舉委員會因一系列安全漏洞導致個人資料被盜而受到正式警告大約4000 萬選民... ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</guid>
+      <pubDate>Wed, 31 Jul 2024 08:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Dynamics 365 呼籲對員工進行監控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_dynamics_365_surveillance/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[雷德蒙德，今天準備好向投資者談論這件事了嗎？連線到Azure 遇到困難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/microsofts_azure_portal_outage/</guid>
       <pubDate>Tue, 30 Jul 2024 14:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>W3C 表示 Google 的 cookie 降低「破壞」了很多工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/30/googles_cookie_w3c_criticism/</link>
-      <description><![CDATA[雖然有些人在慶祝，但萬維網聯盟技術架構小組並不高興 萬維網聯盟(W3C) 發表了一篇博客，批評Google 在棄用第三方Cookie 問題上的讓步，並宣稱此舉「破壞了我們共同完成的許多工作。」…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/30/googles_cookie_w3c_criticism/</guid>
-      <pubDate>Tue, 30 Jul 2024 13:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
