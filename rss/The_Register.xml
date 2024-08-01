@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 08:14:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 08:38:04 GMT</lastBuildDate>
+    <item>
+      <title>Linux 更新有撤銷功能嗎？有些發行版有這個</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/linux_rollback_options/</link>
+      <description><![CDATA[快照、故障轉移、恢復和卸載在一個盤子上 大牌大多還做不到，但一些不太知名的Linux 發行版提供了撤消更新和從損壞中恢復的能力，甚至是自動的...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/linux_rollback_options/</guid>
+      <pubDate>Thu, 01 Aug 2024 08:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>英國法院在 R2 Semi power 專利案中做出對英特爾有利的裁決</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uk_intel_patent/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 黯淡的第二季前景掩蓋了第一季強勁的營收成長</title>
+      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
       <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>來自近 7K DigiCert 客戶的超過 83K 證書必須立即換出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</link>
-      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解- 借助該組織的資安老闆承認 SSL/TLS 憑證撤銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短暫的通知可能會產生現實世界的安全影響並擾亂關鍵服務。]]></description>
+      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解– 借助該組織的資安老闆承認SSL/TLS 憑證吊銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短時間內的通知可能會產生現實世界的安全影響並擾亂關鍵服務。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</guid>
       <pubDate>Wed, 31 Jul 2024 21:15:13 GMT</pubDate>
     </item>
@@ -99,12 +106,12 @@
     <item>
       <title>美國即將推出的晶片製造工具出口規則不適用於友好國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</link>
-      <description><![CDATA[報告稱，與山姆大叔關係良好的37 個國家免受傳入限制 據說美國正在收緊晶片製造設備的出口規則，但將為盟國和友好國家提供例外。 ..&lt; /p&gt;]]></description>
+      <description><![CDATA[報告稱，與山姆大叔關係良好的37 個國家免受入境限制 據說美國正在收緊晶片製造設備的出口規則，但將為盟國和友好國家提供例外。 .&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</guid>
       <pubDate>Wed, 31 Jul 2024 18:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>新任執行長的任命提振了波音公司第二季的急轉直下</title>
+      <title>新任執行長的任命提振了波音公司第二季的業績暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</link>
       <description><![CDATA[它損失了數十億美元，未達到預期，但高層的新鮮血液讓股東感到高興 波音公司第二季度幾乎沒有達到所有分析師的預期，因為該公司仍在努力從一系列毀滅性的災難中恢復過來工程失敗......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路犯罪的力量無與倫比的前所未有的時期 特徵 大約兩年來，LockBit 的勒索軟體操作是迄今為止此類勒索軟體活動中最多產的，直到二月。在造成了數千名受害者、勒索了數億美元並建立了一支由精明的網路犯罪分子組成的強大軍隊之後，其策劃者LockbitSupp（警方稱其為俄羅斯國民德米特里·霍羅舍夫）畢生的工作現在已岌岌可危。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/five_months_after_lockbit/</guid>
       <pubDate>Wed, 31 Jul 2024 14:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skype 不再有廣告，這對微軟來說是不尋常的</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/skype_adfree/</link>
-      <description><![CDATA[優先考慮回饋，除非是客戶真正錯過的功能 Microsoft 已宣布推出 Skype 的無廣告更新，現已向公司 Insider 計畫的測試人員提供。然而，此更新不太可能安撫那些仍然缺少先前從曾經的頂級聊天應用程式中刪除的功能的用戶。 html&#39; -- &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/skype_adfree/</guid>
-      <pubDate>Wed, 31 Jul 2024 13:43:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
