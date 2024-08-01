@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 01 Aug 2024 18:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 20:12:54 GMT</lastBuildDate>
     <item>
-      <title>參議院的《無假貨法案》希望將未經授權的「數位複製品」定為非法</title>
+      <title>舊金山將禁止房東「串價」的軟體</title>
+      <link>https://arstechnica.com/?p=2040600</link>
+      <description><![CDATA[軟體透過分享非公開資訊幫助房東「間接協調」。]]></description>
+      <guid>https://arstechnica.com/?p=2040600</guid>
+      <pubDate>Thu, 01 Aug 2024 19:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>團體警告稱，英偉達在晶片領域的壟斷使人工智慧的未來面臨嚴重威脅</title>
+      <link>https://arstechnica.com/?p=2040556</link>
+      <description><![CDATA[反壟斷組織希望司法部調查英偉達的人工智慧晶片捆綁銷售行為，也就是所謂的價格操縱行為。]]></description>
+      <guid>https://arstechnica.com/?p=2040556</guid>
+      <pubDate>Thu, 01 Aug 2024 18:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>參議員提出相似性的“數字複製權”，延長死後 70 年</title>
       <link>https://arstechnica.com/?p=2040488</link>
       <description><![CDATA[法律將追究美國個人和公司盜用他人數位肖像的責任。]]></description>
       <guid>https://arstechnica.com/?p=2040488</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[當局擔心受污染的肉類仍存放在人們的冰箱裡。]]></description>
       <guid>https://arstechnica.com/?p=2040456</guid>
       <pubDate>Thu, 01 Aug 2024 00:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 再次面臨啟用濫用網站的壓力</title>
-      <link>https://arstechnica.com/?p=2040424</link>
-      <description><![CDATA[監管機構表示，Cloudflare 掩蓋了大約 10% 的濫用域名的起源。]]></description>
-      <guid>https://arstechnica.com/?p=2040424</guid>
-      <pubDate>Wed, 31 Jul 2024 23:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟從 Skype 中剔除廣告，轉向“以用戶為中心的設計”</title>
-      <link>https://arstechnica.com/?p=2040411</link>
-      <description><![CDATA[更新還改進了 AI 圖像功能，添加了 iOS 上的 OneAuth 支援。]]></description>
-      <guid>https://arstechnica.com/?p=2040411</guid>
-      <pubDate>Wed, 31 Jul 2024 21:48:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
