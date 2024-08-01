@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 16:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 17:11:45 GMT</lastBuildDate>
+    <item>
+      <title>法律之鷹針對英特爾針對煮熟的 Raptor Lake CPU 提起集體訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_raptor_lake_lawsuit/</link>
+      <description><![CDATA[如果您或親人被診斷出電壓升高，您可能有權獲得賠償 一家律師事務所正在邀請第13 代和第14 代Intel Raptor Lake CPU 的所有者參加即將舉行的一項調查集體訴訟。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_raptor_lake_lawsuit/</guid>
+      <pubDate>Thu, 01 Aug 2024 17:03:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟表示，OpenAI 可能是合作夥伴，但也是競爭對手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/openai_microsoft_competitor/</link>
@@ -29,12 +36,12 @@
     <item>
       <title>高通看好人工智慧，預告將於 10 月推出旗艦平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/qualcomm_q3_2024/</link>
-      <description><![CDATA[晶片裝備受到中國市場的提振，但智慧型手機和個人電腦的目標雄心勃勃 高通公司相信，在收入增長超過50% 的推動下，其在手機和Arm 個人電腦人工智慧的押注將獲得回報來自中國手機製造商的 Copilot+ 個人電腦承諾明年推出，價格為 700 美元。]]></description>
+      <description><![CDATA[晶片裝備受到中國市場的提振，但智慧型手機和個人電腦的目標雄心勃勃 高通公司相信，在收入增長超過50% 的推動下，其在手機和Arm PC 人工智慧領域的押注將獲得回報來自中國手機製造商的 Copilot+ 個人電腦承諾明年推出，價格為 700 美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/qualcomm_q3_2024/</guid>
       <pubDate>Thu, 01 Aug 2024 13:16:12 GMT</pubDate>
     </item>
     <item>
-      <title>Mozilla 效仿 Google 失去對 Entrust TLS 憑證的信任</title>
+      <title>Firefox 的 Mozilla 效仿 Google 失去對 Entrust TLS 憑證的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/mozilla_entrust/</link>
       <description><![CDATA[長期的證書頒發機構不斷出現合規性失敗和不滿意的響應 Mozilla 追隨Google Chrome 的腳步，正式不信任Entrust 作為根證書頒發機構(CA)，此前據稱已經有很長一段時間了合規性失敗。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/mozilla_entrust/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>甲蟲狂熱：蟲子如何激發下一代機器人飛行員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</link>
-      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方很有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
+      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方有用 事實證明，犀牛甲蟲不太可能成為微型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</guid>
       <pubDate>Thu, 01 Aug 2024 09:30:12 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 黯淡的第二季前景掩蓋了第一季強勁的營收成長</title>
+      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
       <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>來自近 7K DigiCert 客戶的超過 83K 證書必須立即換出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</link>
-      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解- 借助該組織的資安老闆承認 SSL/TLS 憑證撤銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短暫的通知可能會產生現實世界的安全影響並擾亂關鍵服務。]]></description>
+      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解– 借助該組織的資安老闆承認SSL/TLS 憑證吊銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短時間內的通知可能會產生現實世界的安全影響並擾亂關鍵服務。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</guid>
       <pubDate>Wed, 31 Jul 2024 21:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄羅斯瞄準 Sitting Ducks 域名，搶奪 3 萬多個域名</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/domains_with_delegated_name_service/</link>
-      <description><![CDATA[已有八年歷史的網域劫持技術仍在奪取受害者 數十名與俄羅斯有關聯的犯罪分子目前正試圖透過利用薄弱的DNS 服務來奪取網路網域的控制權。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/domains_with_delegated_name_service/</guid>
-      <pubDate>Wed, 31 Jul 2024 20:50:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
