@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 04:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 04:37:10 GMT</lastBuildDate>
+    <item>
+      <title>Infosys 否認欠印度 40 億美元稅款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/infosys_india_tax_dispute/</link>
+      <description><![CDATA[Taxman 不同意建立稅務入口網站的機構 IT 服務巨頭 Infosys 正面臨印度卡納塔克邦近 40 億美元的稅收要求，與其海外分支機構產生的費用有關。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/infosys_india_tax_dispute/</guid>
+      <pubDate>Thu, 01 Aug 2024 04:19:53 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 將 Llama 4 的培訓基礎設施提升十倍，並可能在明年交付</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[開源TerraForm 競爭對手引入了新的檔案副檔名，以便用戶可以「保留舊程式碼以實現相容性」 Terraform 替代品OpenTofu 已達到版本1.8，但碎片化跡象進一步顯現。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/opentofu_version_18/</guid>
       <pubDate>Wed, 31 Jul 2024 10:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>與其他發行版相比，Vanilla OS 2「Orchid」正在重寫 Linux 的工作方式</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/vanilla_os_friendly_radical/</link>
-      <description><![CDATA[前面，未修改的 GNOME；在下面，這一切都有點奇怪，但故意如此 Vanilla OS 是一個實驗性發行版，測試不變性、跨發行版打包、A/B 故障轉移等新實現。 /p&gt; &lt; p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/vanilla_os_friendly_radical/</guid>
-      <pubDate>Wed, 31 Jul 2024 09:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
