@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 06:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:40:13 GMT</lastBuildDate>
+    <item>
+      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
+      <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
+      <pubDate>Thu, 01 Aug 2024 06:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>德國將中國列為政府地理空間機構的攻擊源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/germany_accuses_china_of_cyberattack/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[一本充滿策略的劇本，但有人在實作過程中犯了錯誤 您在設定 Microsoft Defender 時遇到問題嗎？您可能並不孤單：微軟承認，無論其用於防禦性實施的方式，都加劇了昨天 Azure 的不穩定。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_ddos_azure/</guid>
       <pubDate>Wed, 31 Jul 2024 12:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟人工智慧法案仍處於起步階段，但那些擁有「智慧」人力資源應用程式的人最好小心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/eu_ai_act/</link>
-      <description><![CDATA[使用者和開發人員警告說，要為人力資源成為「高風險」類別的重點做好準備 隨著世界上第一個專門針對人工智慧的立法於週四生效，該技術的開發人員，那些將其整合到他們的軟體產品中的人以及部署它的人正在試圖弄清楚它的含義以及他們需要如何回應。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/eu_ai_act/</guid>
-      <pubDate>Wed, 31 Jul 2024 12:14:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
