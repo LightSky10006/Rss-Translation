@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 02:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 04:15:10 GMT</lastBuildDate>
+    <item>
+      <title>Meta 將 Llama 4 的培訓基礎設施提升十倍，並可能在明年交付</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</link>
+      <description><![CDATA[甜美的GenAI 資金尚未流動，Zuck 認為其他ML 努力正在獲得回報 Meta 告訴投資者，生成式AI 今年不會為其帶來收入，但其計劃的大規模投資將帶來回報隨著時間的推移，並進行配置，使其不與訓練工作負載相關。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</guid>
+      <pubDate>Thu, 01 Aug 2024 03:41:53 GMT</pubDate>
+    </item>
     <item>
       <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[前面，未修改的 GNOME；在下面，這一切都有點奇怪，但故意如此 Vanilla OS 是一個實驗性發行版，測試不變性、跨發行版打包、A/B 故障轉移等新實現。 /p&gt; &lt; p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/vanilla_os_friendly_radical/</guid>
       <pubDate>Wed, 31 Jul 2024 09:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國選舉委員會因基本網路安全失敗而受到批評</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</link>
-      <description><![CDATA[花了 13 個月才注意到 4000 萬選民的資料遭到洩露 英國選舉委員會因一系列安全漏洞導致個人資料被盜而受到正式警告大約4000 萬選民... ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</guid>
-      <pubDate>Wed, 31 Jul 2024 08:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
