@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 05:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:16:07 GMT</lastBuildDate>
+    <item>
+      <title>德國將中國列為政府地理空間機構的攻擊源</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/germany_accuses_china_of_cyberattack/</link>
+      <description><![CDATA[同時，美國顯然正在考慮進一步實施人工智慧硬體制裁 德國政府已將中國控制的參與者列為2021 年對聯邦製圖和大地測量局(BKG)（官方地圖）進行網路攻擊的肇事者機構。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/germany_accuses_china_of_cyberattack/</guid>
+      <pubDate>Thu, 01 Aug 2024 05:59:59 GMT</pubDate>
+    </item>
     <item>
       <title>Xen 虛擬機器管理程式在 4.19 版本中將其可能的核心數量增加了四倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/xen_4_19/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 01 Aug 2024 04:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 將 Llama 4 的培訓基礎設施提升十倍，並可能在明年交付</title>
+      <title>Meta 將 Llama 4 的訓練基礎設施提升十倍，可能在明年交付</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</link>
       <description><![CDATA[甜美的GenAI 資金尚未流動，Zuck 認為其他ML 努力正在獲得回報 Meta 告訴投資者，生成式AI 今年不會為其帶來收入，但其計劃的大規模投資將帶來回報隨著時間的推移，並進行配置，使其不與訓練工作負載相關。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[使用者和開發人員警告說，要為人力資源成為「高風險」類別的重點做好準備 隨著世界上第一個專門針對人工智慧的立法於週四生效，該技術的開發人員，那些將其整合到他們的軟體產品中的人以及部署它的人正在試圖弄清楚它的含義以及他們需要如何回應。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/eu_ai_act/</guid>
       <pubDate>Wed, 31 Jul 2024 12:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空船首次拍攝月球特寫已有 60 年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ranger_7_60_years/</link>
-      <description><![CDATA[Ranger 7 終於出手了。五年後，人類也將追隨 距離美國太空船首次拍攝月球表面特寫影像已有 60 年，距太空人踏上月球僅五年。 Ranger 7 終於在 1964 年 7 月實現了這項壯舉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ranger_7_60_years/</guid>
-      <pubDate>Wed, 31 Jul 2024 11:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
