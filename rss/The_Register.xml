@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 20:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 21:11:59 GMT</lastBuildDate>
+    <item>
+      <title>英特爾將裁員 15% 以節省成本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_to_ax_headcount/</link>
+      <description><![CDATA[股價下跌 20% 重大消息 英特爾計劃裁員 16,000 多名員工，即 15%，其中大部分裁員將在今年年底前進行，作為 x86 巨頭努力控制其財務狀況。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_to_ax_headcount/</guid>
+      <pubDate>Thu, 01 Aug 2024 20:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們再次為警務領域提供更多人工智慧犯罪預測</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/argentina_crime_prediction/</link>
+      <description><![CDATA[公民，請保持這種想法 阿根廷總統哈維爾·米萊(Javier Milei) 的政府上周宣佈在該國網絡犯罪和網絡事務局內創建一個人工智能小組，該小組將使用統計軟體進行預測犯罪…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/argentina_crime_prediction/</guid>
+      <pubDate>Thu, 01 Aug 2024 20:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧會為此付出代價嗎？華爾街希望科技界向它展示資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/is_ai_going_to_pay/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>甲蟲狂熱：蟲子如何激發下一代機器人飛行員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</link>
-      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方很有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
+      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</guid>
       <pubDate>Thu, 01 Aug 2024 09:30:12 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 黯淡的第二季前景掩蓋了第一季強勁的營收成長</title>
+      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
       <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[Taxman 不同意建立稅務入口網站的機構 IT 服務巨頭 Infosys 正面臨印度卡納塔克邦近 40 億美元的稅收要求，與其海外分支機構產生的費用有關。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/infosys_india_tax_dispute/</guid>
       <pubDate>Thu, 01 Aug 2024 04:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 將 Llama 4 的訓練基礎設施提升十倍，可能在明年交付</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</link>
-      <description><![CDATA[甜美的GenAI 資金尚未流動，Zuck 認為其他ML 努力正在獲得回報 Meta 告訴投資者，生成式AI 今年不會為其帶來收入，但其計劃的大規模投資將帶來回報隨著時間的推移，並進行配置，使其不與訓練工作負載相關。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/meta_q2_2024/</guid>
-      <pubDate>Thu, 01 Aug 2024 03:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
-      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對針對中等規模人工智能訓練和推理工作負載的出租人工智能基礎設施選項- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.... ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</guid>
-      <pubDate>Thu, 01 Aug 2024 01:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
