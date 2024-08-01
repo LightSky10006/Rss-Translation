@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 00:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 02:08:10 GMT</lastBuildDate>
+    <item>
+      <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
+      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對針對中等規模人工智能訓練和推理工作負載的出租人工智能基礎設施選項- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.... ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</guid>
+      <pubDate>Thu, 01 Aug 2024 01:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體感染導致 250 多家醫院的血液供應中斷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ransomware_blood_supply_hospital/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[花了 13 個月才注意到 4000 萬選民的資料遭到洩露 英國選舉委員會因一系列安全漏洞導致個人資料被盜而受到正式警告大約4000 萬選民... ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/uk_electoral_commission_ico/</guid>
       <pubDate>Wed, 31 Jul 2024 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Dynamics 365 呼籲“工人監控”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_dynamics_365_surveillance/</link>
-      <description><![CDATA[雷蒙德對Cracked Labs 調查中的一些說法提出異議 Insight Microsoft Dynamics 365 提供“現場服務管理”，允許客戶透過智慧型手機應用監控行動服務人員- 據稱損害他們的自主權和尊嚴......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_dynamics_365_surveillance/</guid>
-      <pubDate>Wed, 31 Jul 2024 07:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
