@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 14:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 15:12:02 GMT</lastBuildDate>
+    <item>
+      <title>FBI、CISA 提醒美國選民 DDoS 攻擊無法觸及選舉系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/fbi_cisa_election_ddos/</link>
+      <description><![CDATA[最近幾天，PSA 正面臨多起IT 服務危機 美國執法和網路安全機構提醒公眾，該國的投票系統將不會受到分散式拒絕服務(DDoS) 攻擊的影響，因為下一次攻擊將導致該國的投票系統受到分散式拒絕服務(DDoS) 攻擊的影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/fbi_cisa_election_ddos/</guid>
+      <pubDate>Thu, 01 Aug 2024 15:07:07 GMT</pubDate>
+    </item>
     <item>
       <title>Uber 與中國比亞迪達成協議，推出 10 萬輛電動車隊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uber_byd_deal/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>紐西蘭用戶的微軟服務部分下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/microsoft_services_nz_outage/</link>
-      <description><![CDATA[也許是時候玩一下雲端騙局了？您投入工作量。在應對之前停電的影響。]]></description>
+      <description><![CDATA[也許是時候玩一下雲端騙局了？您投入工作量。在處理先前停電影響的員工來說，工作日的大塊時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/microsoft_services_nz_outage/</guid>
       <pubDate>Thu, 01 Aug 2024 10:39:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[員工討厭這個簡單的技巧來修復失敗的商業帝國 據說英特爾正在考慮解僱數千名員工，以緩解這家x86 巨頭不穩定的財務狀況。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/intel_layoff_rumors/</guid>
       <pubDate>Wed, 31 Jul 2024 19:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>還記得諾基亞嗎？亞馬遜律師在專利侵權訴訟中這樣做</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/amazon_nokia_lawsuit/</link>
-      <description><![CDATA[芬蘭公司發起了網路和雲端大戰，亞馬遜可以完成它 亞馬遜已對諾基亞提起訴訟，指控這家芬蘭科技公司侵犯了其十多項專利。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/amazon_nokia_lawsuit/</guid>
-      <pubDate>Wed, 31 Jul 2024 18:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
