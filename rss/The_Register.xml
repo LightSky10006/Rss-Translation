@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 13:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 14:11:58 GMT</lastBuildDate>
+    <item>
+      <title>Uber 與中國比亞迪達成協議，推出 10 萬輛電動車隊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uber_byd_deal/</link>
+      <description><![CDATA[尚無時間表，但司機們要注意：計劃包括在自動駕駛汽車方面進行合作 Uber 和比亞迪已達成協議，將在Uber 平台上引入100,000 輛比亞迪電動汽車，首先從歐洲和拉丁美洲開始...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uber_byd_deal/</guid>
+      <pubDate>Thu, 01 Aug 2024 14:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>高通看好人工智慧，預告將於 10 月推出旗艦平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/qualcomm_q3_2024/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>甲蟲狂熱：蟲子如何激發下一代機器人飛行員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</link>
-      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方很有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
+      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</guid>
       <pubDate>Thu, 01 Aug 2024 09:30:12 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 黯淡的第二季前景掩蓋了第一季強勁的營收成長</title>
+      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
       <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
-      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對針對中等規模人工智能訓練和推理工作負載的出租人工智能基礎設施選項- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.... ..]]></description>
+      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對出租人工智能基礎設施選項，旨在中等規模的人工智能訓練和推理工作負載- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.. ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</guid>
       <pubDate>Thu, 01 Aug 2024 01:13:13 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>來自近 7K DigiCert 客戶的超過 83K 證書必須立即換出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</link>
-      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解- 借助該組織的資安老闆承認 SSL/TLS 憑證撤銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短暫的通知可能會產生現實世界的安全影響並擾亂關鍵服務。]]></description>
+      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解– 借助該組織的資安老闆承認SSL/TLS 憑證吊銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短時間內的通知可能會產生現實世界的安全影響並擾亂關鍵服務。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</guid>
       <pubDate>Wed, 31 Jul 2024 21:15:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[芬蘭公司發起了網路和雲端大戰，亞馬遜可以完成它 亞馬遜已對諾基亞提起訴訟，指控這家芬蘭科技公司侵犯了其十多項專利。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/amazon_nokia_lawsuit/</guid>
       <pubDate>Wed, 31 Jul 2024 18:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國即將推出的晶片製造工具出口規則不適用於友好國家</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</link>
-      <description><![CDATA[報告稱，與山姆大叔關係良好的37 個國家免受傳入限制 據說美國正在收緊晶片製造設備的出口規則，但將為盟國和友好國家提供例外。 ..&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</guid>
-      <pubDate>Wed, 31 Jul 2024 18:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
