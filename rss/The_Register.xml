@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 04:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 05:35:41 GMT</lastBuildDate>
+    <item>
+      <title>Xen 虛擬機器管理程式在 4.19 版本中將其可能的核心數量增加了四倍</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/xen_4_19/</link>
+      <description><![CDATA[令人討厭的測試基礎架構問題似乎也得到了解決 Xen 專案已經交付了其開源虛擬機管理程式的新版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/xen_4_19/</guid>
+      <pubDate>Thu, 01 Aug 2024 05:25:59 GMT</pubDate>
+    </item>
     <item>
       <title>Infosys 否認欠印度 40 億美元稅款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/infosys_india_tax_dispute/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
-      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對針對中等規模人工智能訓練和推理工作負載的出租人工智能基礎設施選項- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.... ..]]></description>
+      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對出租人工智能基礎設施選項，旨在中等規模的人工智能訓練和推理工作負載- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.. ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</guid>
       <pubDate>Thu, 01 Aug 2024 01:13:13 GMT</pubDate>
     </item>
@@ -71,12 +78,12 @@
     <item>
       <title>美國即將推出的晶片製造工具出口規則不適用於友好國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</link>
-      <description><![CDATA[報告稱，與山姆大叔關係良好的37 個國家免受入境限制 據說美國正在收緊晶片製造設備的出口規則，但將為盟國和友好國家提供例外。 .&lt; /p&gt;]]></description>
+      <description><![CDATA[報告稱，與山姆大叔關係良好的37 個國家免受傳入限制 據說美國正在收緊晶片製造設備的出口規則，但將為盟國和友好國家提供例外。 ..&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/us_export_rules_chipmaking/</guid>
       <pubDate>Wed, 31 Jul 2024 18:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>新任執行長的任命提振了波音公司第二季的業績暴跌</title>
+      <title>新任執行長的任命提振了波音第二季業績暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</link>
       <description><![CDATA[它損失了數十億美元，未達到預期，但高層的新鮮血液讓股東感到高興 波音公司第二季度幾乎沒有達到所有分析師的預期，因為該公司仍在努力從一系列毀滅性的災難中恢復過來工程失敗......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Chrome 採用應用程式綁定加密來阻止竊取 cookie 的惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/chrome_appbound_encryption/</link>
-      <description><![CDATA[Windows 用戶現在可以獲得macOS 級的秘密安全性 Google 表示，它正在為Windows 用戶增強Chrome 管理的敏感資料的安全性，以對抗針對Cookie 的資訊竊取惡意軟體的禍害。 ... &lt; p&gt;]]></description>
+      <description><![CDATA[Windows 用戶現在可以獲得macOS 級秘密安全性 Google 表示，它正在為Windows 用戶增強Chrome 管理的敏感資料的安全性，以對抗針對Cookie 的資訊竊取惡意軟體的禍害。 .. &lt; p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/chrome_appbound_encryption/</guid>
       <pubDate>Wed, 31 Jul 2024 16:35:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ranger 7 終於出手了。五年後，人類也將追隨 距離美國太空船首次拍攝月球表面特寫影像已有 60 年，距太空人踏上月球僅五年。 Ranger 7 終於在 1964 年 7 月實現了這項壯舉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/ranger_7_60_years/</guid>
       <pubDate>Wed, 31 Jul 2024 11:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenTofu 推出 1.8 版本，具有更多受歡迎的功能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/opentofu_version_18/</link>
-      <description><![CDATA[開源TerraForm 競爭對手引入了新的檔案副檔名，以便用戶可以「保留舊程式碼以實現相容性」 Terraform 替代品OpenTofu 已達到版本1.8，但碎片化跡象進一步顯現。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/opentofu_version_18/</guid>
-      <pubDate>Wed, 31 Jul 2024 10:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
