@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 01 Aug 2024 06:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 07:35:26 GMT</lastBuildDate>
     <item>
-      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
+      <title>英國法院在 R2 Semi power 專利案中做出對英特爾有利的裁決</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uk_intel_patent/</link>
+      <description><![CDATA[義大利、法國和德國的法律糾紛仍在繼續 在R2 Semiconductor 提起的跨國專利糾紛中，英國高等法院站在英特爾一邊，指控這家x86 巨頭侵犯了其電壓調節技術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uk_intel_patent/</guid>
+      <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arm 黯淡的第二季前景掩蓋了第一季強勁的營收成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
       <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>超級叢集太大，但單一伺服器太小？ Oracle 提供 AI Goldilocks 區域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</link>
-      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對出租人工智能基礎設施選項，旨在中等規模的人工智能訓練和推理工作負載- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.. ....]]></description>
+      <description><![CDATA[為 O-Cloud 新增 L40 裸機選項，以及 A100 和 H100 虛擬機器。並嘲笑GH200 野獸 甲骨文創建了一對針對中等規模人工智能訓練和推理工作負載的出租人工智能基礎設施選項- 並嘲笑Nvidia GH200 超級芯片在其云中的到來.... ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/oracle_l40s_clusters/</guid>
       <pubDate>Thu, 01 Aug 2024 01:13:13 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>來自近 7K DigiCert 客戶的超過 83K 證書必須立即換出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</link>
-      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解– 借助該組織的資安老闆承認SSL/TLS 憑證吊銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短時間內的通知可能會產生現實世界的安全影響並擾亂關鍵服務。 &gt;]]></description>
+      <description><![CDATA[隨著訴訟開始，承諾在「特殊情況」下小幅暫停執行 隨著DigiCert 事件的繼續，我們現在對問題的規模和範圍有了更好的了解- 借助該組織的資安老闆承認 SSL/TLS 憑證撤銷掃描將影響數以萬計的客戶，其中一些客戶警告說，短暫的通知可能會產生現實世界的安全影響並擾亂關鍵服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/digicert_certificates_extension/</guid>
       <pubDate>Wed, 31 Jul 2024 21:15:13 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 31 Jul 2024 18:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>新任執行長的任命提振了波音第二季業績暴跌</title>
+      <title>新任執行長的任命提振了波音公司第二季的急轉直下</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</link>
       <description><![CDATA[它損失了數十億美元，未達到預期，但高層的新鮮血液讓股東感到高興 波音公司第二季度幾乎沒有達到所有分析師的預期，因為該公司仍在努力從一系列毀滅性的災難中恢復過來工程失敗......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/boeing_q2_2024/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>Chrome 採用應用程式綁定加密來阻止竊取 cookie 的惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/chrome_appbound_encryption/</link>
-      <description><![CDATA[Windows 用戶現在可以獲得macOS 級秘密安全性 Google 表示，它正在為Windows 用戶增強Chrome 管理的敏感資料的安全性，以對抗針對Cookie 的資訊竊取惡意軟體的禍害。 .. &lt; p&gt;]]></description>
+      <description><![CDATA[Windows 用戶現在可以獲得macOS 級的秘密安全性 Google 表示，它正在為Windows 用戶增強Chrome 管理的敏感資料的安全性，以對抗針對Cookie 的資訊竊取惡意軟體的禍害。 ... &lt; p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/chrome_appbound_encryption/</guid>
       <pubDate>Wed, 31 Jul 2024 16:35:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[優先考慮回饋，除非是客戶真正錯過的功能 Microsoft 已宣布推出 Skype 的無廣告更新，現已向公司 Insider 計畫的測試人員提供。然而，此更新不太可能安撫那些仍然缺少先前從曾經的頂級聊天應用程式中刪除的功能的用戶。 html&#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/skype_adfree/</guid>
       <pubDate>Wed, 31 Jul 2024 13:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟 DDoS 防禦中的「錯誤」加劇了 Azure 8 小時中斷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_ddos_azure/</link>
-      <description><![CDATA[一本充滿策略的劇本，但有人在實作過程中犯了錯誤 您在設定 Microsoft Defender 時遇到問題嗎？您可能並不孤單：微軟承認，無論其用於防禦性實施的方式，都加劇了昨天 Azure 的不穩定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/07/31/microsoft_ddos_azure/</guid>
-      <pubDate>Wed, 31 Jul 2024 12:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
