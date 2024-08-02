@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 02 Aug 2024 17:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:14:54 GMT</lastBuildDate>
+    <item>
+      <title>FLUX：這款新的人工智慧影像產生器非常擅長創造人手</title>
+      <link>https://arstechnica.com/?p=2040748</link>
+      <description><![CDATA[FLUX.1 是穩定擴散的開放權重繼承者，將文字轉換為影像。]]></description>
+      <guid>https://arstechnica.com/?p=2040748</guid>
+      <pubDate>Fri, 02 Aug 2024 17:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>美國調查英偉達收購以色列人工智慧新創公司</title>
       <link>https://arstechnica.com/?p=2040841</link>
@@ -29,7 +36,7 @@
     <item>
       <title>英特爾為崩潰的第 13 代和第 14 代桌上型電腦 CPU 提供延長保修</title>
       <link>https://arstechnica.com/?p=2040742</link>
-      <description><![CDATA[英特爾的微程式碼修復對已經損壞的 CPU 沒有幫助。]]></description>
+      <description><![CDATA[英特爾的微碼修復對已經損壞的 CPU 沒有幫助。]]></description>
       <guid>https://arstechnica.com/?p=2040742</guid>
       <pubDate>Fri, 02 Aug 2024 14:38:26 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[農場工人的一小部分樣本就足以證實對 H5N1 疫情爆發的擔憂。]]></description>
       <guid>https://arstechnica.com/?p=2040675</guid>
       <pubDate>Thu, 01 Aug 2024 23:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國宇航局表示正在「評估所有選項」以確保星際客機機組人員安全返回</title>
-      <link>https://arstechnica.com/?p=2040615</link>
-      <description><![CDATA[SpaceX 正在積極制定一項將 Starliner 機組人員送回家的計劃。]]></description>
-      <guid>https://arstechnica.com/?p=2040615</guid>
-      <pubDate>Thu, 01 Aug 2024 22:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
