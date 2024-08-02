@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 05:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 06:17:19 GMT</lastBuildDate>
+    <item>
+      <title>日本強制要求應用程式確保國民身分證不會被偽造</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/japan_smartcard_verification_app/</link>
+      <description><![CDATA[首先是延遲，然後是數據洩露- 現在需要在使用時進行欺詐檢測 日本政府發布了一款應用程序的詳細信息，該應用程序可驗證其陷入困境的個人編號卡片（國民身分證件）的合法性...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/japan_smartcard_verification_app/</guid>
+      <pubDate>Fri, 02 Aug 2024 06:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜：我們的雲端成長剛剛加速。您知道我們也是相當大的零售商嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</link>
-      <description><![CDATA[Kuiper 寬頻將於今年稍後試飛 Amazon.com 採取了不同尋常的舉措，在其季度業績網絡廣播中討論了Amazon Web Services 的業績。 &gt;]]></description>
+      <description><![CDATA[透露Kuiper 寬頻衛星將在今年稍後起飛，第二季的銷售也將保持穩健 Amazon.com 採取了不同尋常的舉措，在其季度業績網絡廣播中討論了Amazon Web Services 的表現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</guid>
       <pubDate>Fri, 02 Aug 2024 05:30:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[也許是時候玩一下雲端騙局了？您投入工作量。在處理先前停電影響的員工來說，工作日的大塊時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/microsoft_services_nz_outage/</guid>
       <pubDate>Thu, 01 Aug 2024 10:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲蟲狂熱：蟲子如何激發下一代機器人飛行員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</link>
-      <description><![CDATA[在沒有動力的情況下展開和折疊翅膀可能在狹窄的地方有用 事實證明，犀牛甲蟲不太可能成為小型飛行機器人的工程靈感來源，這些機器人可以在休息時或飛行後折疊翅膀。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/rhino_beetle_robot_design/</guid>
-      <pubDate>Thu, 01 Aug 2024 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
