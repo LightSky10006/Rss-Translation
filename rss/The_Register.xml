@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 03:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 03:36:26 GMT</lastBuildDate>
+    <item>
+      <title>印度考慮對數位支付實施強制性動態 2FA</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/india_contemplates_compulsory_dynamic_2fa/</link>
+      <description><![CDATA[短信OTP 已被過度使用，因此請使用令牌和生物識別技術 印度央行週三提出了為大多數數字支付動態生成第二個身份驗證因素的要求。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/india_contemplates_compulsory_dynamic_2fa/</guid>
+      <pubDate>Fri, 02 Aug 2024 03:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>上訴法院進一步決定美國網路中立的命運</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/fcc_net_neutrality/</link>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 01 Aug 2024 20:10:07 GMT</pubDate>
     </item>
     <item>
-      <title>起訴 CrowdStrike 的退休基金表示，現在發布金絲雀更新為時已晚</title>
+      <title>起訴 CrowdStrike 的退休基金表示，現在更新金絲雀測試為時已晚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/crowdstrike_lawsuit/</link>
       <description><![CDATA[那匹馬不僅逃跑了，而且還踐踏了整個核心空間 CrowdStrike 在建議進行金絲雀測試以確保避免未來出現導致全球電腦中斷的錯誤後，已在聯邦法院被起訴投資人一開始就沒有採用分階段的方法向客戶推出更新。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/crowdstrike_lawsuit/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[義大利、法國和德國的法律糾紛仍在繼續 在 R2 Semiconductor 提起的跨國專利糾紛中，英格蘭和威爾斯高等法院站在英特爾一邊，指控這家 x86 巨頭侵犯了其電壓監管技術... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/uk_intel_patent/</guid>
       <pubDate>Thu, 01 Aug 2024 07:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 第二季前景黯淡，掩蓋了第一季強勁的營收成長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</link>
-      <description><![CDATA[高層將失去動力歸咎於授權收入差距，同時兜售人工智慧 英國晶片設計冠軍Arm 週三公佈連續第四個季度增長，第一季營收年增39% 至939美元百萬美元和利潤 2.33 億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/arm_q2_outlook/</guid>
-      <pubDate>Thu, 01 Aug 2024 06:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
