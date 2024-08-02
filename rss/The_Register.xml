@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 07:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 08:38:05 GMT</lastBuildDate>
+    <item>
+      <title>微軟高手揭露藍幕死亡的多彩過去</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</link>
+      <description><![CDATA[CrowdStrike 提醒大眾 BSOD 仍然存在。它們的起源可以追溯到幾十年前 資深微軟工程師Raymond Chen 在他的Old New Thing 博客上澄清了有關臭名昭著的Windows 藍屏死機(BSOD) 起源的明顯謎團。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</guid>
+      <pubDate>Fri, 02 Aug 2024 08:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>是的，我實在是太自鳴得意了——因為我忽略了你並保存了項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/on_call/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>亞馬遜：我們的雲端成長剛剛加速。您知道我們也是相當大的零售商嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</link>
-      <description><![CDATA[透露Kuiper 寬頻衛星將在今年稍後起飛，並且第二季度銷售強勁 Amazon.com 採取了不同尋常的舉措，在季度業績網絡廣播中討論了Amazon Web Services 的業績。]]></description>
+      <description><![CDATA[透露Kuiper 寬頻衛星將在今年稍後起飛，第二季的銷售也將保持穩健 Amazon.com 採取了不同尋常的舉措，在其季度業績網絡廣播中討論了Amazon Web Services 的表現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</guid>
       <pubDate>Fri, 02 Aug 2024 05:30:15 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>高通看好人工智慧，預告將於 10 月推出旗艦平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/qualcomm_q3_2024/</link>
-      <description><![CDATA[晶片裝備受到中國市場的提振，但智慧型手機和個人電腦的目標雄心勃勃 高通公司相信，在收入增長超過50% 的推動下，其在手機和Arm PC 人工智慧領域的押注將獲得回報來自中國手機製造商的 Copilot+ 個人電腦承諾明年推出，價格為 700 美元。]]></description>
+      <description><![CDATA[晶片裝備受到中國市場的提振，但智慧型手機和個人電腦的目標雄心勃勃 高通公司相信，在收入增長超過50% 的推動下，其在手機和Arm 個人電腦人工智慧的押注將獲得回報來自中國手機製造商的 Copilot+ 個人電腦承諾明年推出，價格為 700 美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/qualcomm_q3_2024/</guid>
       <pubDate>Thu, 01 Aug 2024 13:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 的 Mozilla 效仿 Google 失去對 Entrust TLS 憑證的信任</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/mozilla_entrust/</link>
-      <description><![CDATA[長期的證書頒發機構不斷出現合規性失敗和不滿意的響應 Mozilla 追隨Google Chrome 的腳步，正式不信任Entrust 作為根證書頒發機構(CA)，此前據稱已經有很長一段時間了合規性失敗。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/mozilla_entrust/</guid>
-      <pubDate>Thu, 01 Aug 2024 12:28:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
