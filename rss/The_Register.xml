@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 14:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 15:12:12 GMT</lastBuildDate>
+    <item>
+      <title>打破信任經濟：破壞如何影響惡意軟體集團</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/malware_economy_of_trust/</link>
+      <description><![CDATA[追蹤個人很困難，那麼為什麼不擾亂地下市場本身呢？部門的努力，RaaS/MaaS）運營商在過去12 個月裡紛紛關門歇業，但僅僅因為Conti、LockBit 和ALPHV/BlackCat 等家喻戶曉的名字陷入困境，並不意味著我們就可以擺脫困境商品惡意軟體的威脅......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/malware_economy_of_trust/</guid>
+      <pubDate>Fri, 02 Aug 2024 14:44:13 GMT</pubDate>
+    </item>
     <item>
       <title>Azure Linux 3 全面上市 - 但不要期待任何花俏的東西</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[那匹馬不僅逃跑了，而且還踐踏了整個核心空間 CrowdStrike 在建議進行金絲雀測試以確保避免未來出現導致全球電腦中斷的錯誤後，已在聯邦法院被起訴投資人一開始就沒有採用分階段的方法向客戶推出更新。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/crowdstrike_lawsuit/</guid>
       <pubDate>Thu, 01 Aug 2024 18:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國進步組織和反壟斷組織敦促聯準會嚴厲打擊英偉達</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/nvidia_doj/</link>
-      <description><![CDATA[遊說者希望有關對GPU 巨頭進行壟斷調查的傳言成為現實 隨著美國司法部繼續考慮對Nvidia 進行反壟斷調查，許多倡導團體正在敦促美聯儲繼續調查。 &lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/nvidia_doj/</guid>
-      <pubDate>Thu, 01 Aug 2024 17:46:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
