@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 12:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 14:10:51 GMT</lastBuildDate>
+    <item>
+      <title>Azure Linux 3 全面上市 - 但不要期待任何花俏的東西</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</link>
+      <description><![CDATA[微軟的發行版獲得了新的 LTS 核心 考慮到最近的 Windows 問題，微軟以無可挑剔的時機全面推出了 Azure Linux 3.0。它包括 Linux 核心的更新和各種軟體包的新版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</guid>
+      <pubDate>Fri, 02 Aug 2024 13:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>隨著人工智慧反壟斷風暴烏雲籠罩英偉達，美國司法部啟動調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/antritrust_storm_doj_nvidia/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[遊說者希望有關對GPU 巨頭進行壟斷調查的傳言成為現實 隨著美國司法部繼續考慮對Nvidia 進行反壟斷調查，許多倡導團體正在敦促美聯儲繼續調查。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/nvidia_doj/</guid>
       <pubDate>Thu, 01 Aug 2024 17:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>法律之鷹針對英特爾針對煮熟的 Raptor Lake CPU 提起集體訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_raptor_lake_lawsuit/</link>
-      <description><![CDATA[如果您或親人被診斷出電壓升高，您可能有權獲得賠償 一家律師事務所正在邀請第13 代和第14 代Intel Raptor Lake CPU 的所有者參加即將舉行的一項調查集體訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/intel_raptor_lake_lawsuit/</guid>
-      <pubDate>Thu, 01 Aug 2024 17:03:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
