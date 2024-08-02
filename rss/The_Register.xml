@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 02 Aug 2024 06:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 07:11:58 GMT</lastBuildDate>
+    <item>
+      <title>英國打擊犯罪部門關閉了導致超過 17 萬名受害者的全球電話詐騙組織</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/russian_coms_phone_spoofing_service_shutdown/</link>
+      <description><![CDATA[Russian Coms 背後的可疑開發人員被戴上手銬- 現在正在尋找該惡意軟體的用戶 英國國家犯罪局(NCA) 已關閉了一家名為Russian Coms 的機構- 據信這是一項電話欺騙服務欺騙了數十萬受害者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/russian_coms_phone_spoofing_service_shutdown/</guid>
+      <pubDate>Fri, 02 Aug 2024 06:40:10 GMT</pubDate>
+    </item>
     <item>
       <title>日本強制要求應用程式確保國民身分證不會被偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/japan_smartcard_verification_app/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[即將進行的太空行走應該可以幫助NICER 看得更清楚 美國國家航空暨太空總署(NASA) 正準備向國際太空站(ISS) 發射一個維修套件，用於維修一架從未設計用於太空人修理的望遠鏡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/nicer_repair_kit_iss/</guid>
       <pubDate>Thu, 01 Aug 2024 11:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>紐西蘭用戶的微軟服務部分下降</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/01/microsoft_services_nz_outage/</link>
-      <description><![CDATA[也許是時候玩一下雲端騙局了？您投入工作量。在處理先前停電影響的員工來說，工作日的大塊時間。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/01/microsoft_services_nz_outage/</guid>
-      <pubDate>Thu, 01 Aug 2024 10:39:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
