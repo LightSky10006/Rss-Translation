@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 02 Aug 2024 16:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 16:40:41 GMT</lastBuildDate>
+    <item>
+      <title>承包商不安全的資料庫暴露敏感的伊利諾州選民數據</title>
+      <link>https://www.wired.com/story/illinois-voter-databases-exposed/</link>
+      <description><![CDATA[社會安全號碼、死亡證明、選民申請和其他個人資訊都可以在開放的網路上獲取，這凸顯了選舉安全方面持續存在的挑戰。]]></description>
+      <guid>https://www.wired.com/story/illinois-voter-databases-exposed/</guid>
+      <pubDate>Fri, 02 Aug 2024 16:34:03 GMT</pubDate>
+    </item>
     <item>
       <title>一種新技巧可以阻止開源人工智慧的濫用</title>
       <link>https://www.wired.com/story/center-for-ai-safety-open-source-llm-safeguards/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[約書亞·卡萊布·薩特 (Joshua Caleb Sutter) 作為聯邦調查局 (FBI) 機密線人滲透到極右極端組織中，同時宣揚影響網路上一些最暴力團體的仇恨意識形態。]]></description>
       <guid>https://www.wired.com/story/the-dangerous-exploits-of-an-extremist-fbi-informant/</guid>
       <pubDate>Thu, 01 Aug 2024 14:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASUS Chromebook CM14 評測：超便宜的筆電</title>
-      <link>https://www.wired.com/review/asus-chromebook-cm14/</link>
-      <description><![CDATA[這是一款不錯的基本預算筆記型電腦，但激進的 Chromebook Plus 銷售可能會讓您三思而後行。]]></description>
-      <guid>https://www.wired.com/review/asus-chromebook-cm14/</guid>
-      <pubDate>Thu, 01 Aug 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
