@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 03 Aug 2024 19:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 11:10:36 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧熱潮正在重塑雲端基礎設施的面貌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ai_cloud_infrastructure/</link>
+      <description><![CDATA[隨著供應商優先考慮新的閃亮技術而不是傳統伺服器升級，資本支出激增 分析 雲端基礎架構正在經歷一場劇變，服務提供商急於部署為AI 模型訓練配置的伺服器，通常在推遲標準伺服器硬體的通常刷新周期的成本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ai_cloud_infrastructure/</guid>
+      <pubDate>Sun, 04 Aug 2024 11:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>走出困境：人類首次在月球上駕駛電動車已有 53 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/03/moon_buggy_feature/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>日本強制要求應用程式確保國民身分證不會被偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/japan_smartcard_verification_app/</link>
-      <description><![CDATA[首先是延遲，然後是數據洩露- 現在需要在使用時進行欺詐檢測 日本政府發布了一款應用程序的詳細信息，該應用程序可驗證其陷入困境的個人編號卡片（國民身分證件）的合法性...]]></description>
+      <description><![CDATA[首先是延遲，然後是數據洩露- 現在需要在使用時進行欺詐檢測 日本政府發布了一款應用程序的詳細信息，該應用程序可驗證其陷入困境的個人號碼卡片（國民身分證）的合法性...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/japan_smartcard_verification_app/</guid>
       <pubDate>Fri, 02 Aug 2024 06:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜：我們的雲端成長剛剛加速。您知道我們也是相當大的零售商嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</link>
-      <description><![CDATA[透露Kuiper 寬頻衛星將在今年稍後起飛，第二季的銷售也將保持穩健 Amazon.com 採取了不同尋常的舉措，在其季度業績網絡廣播中討論了Amazon Web Services 的表現。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/amazon_q2_2024/</guid>
-      <pubDate>Fri, 02 Aug 2024 05:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
