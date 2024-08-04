@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 04 Aug 2024 17:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 19:09:31 GMT</lastBuildDate>
+    <item>
+      <title>燈光、相機、人工智慧！ DEF CON 上的即時深度偽造</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</link>
+      <description><![CDATA[Red teamer 發現它們很容易製作，歡迎為檢測機器人製作素材 DEF CON  今年 DEF CON 黑客大會上 AI 村的訪客只要站在Brandon Kovacs 的鏡頭前，觀看他將他們變成其他與會者的數位肖像，就有機會在他們自己的Deepfake 影片中擔任主角——這是出於善意。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</guid>
+      <pubDate>Sun, 04 Aug 2024 18:42:13 GMT</pubDate>
+    </item>
     <item>
       <title>IBM 加拿大公司無法迴避通路高階主管的系統性年齡歧視指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 02 Aug 2024 20:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>說「啊啊」－人工智慧機器人正在攻擊你的牙齦</title>
+      <title>說「啊啊」——人工智慧機器人正在攻擊你的牙齦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/perceptive_robot_dentist/</link>
       <description><![CDATA[Perceptive 將其自動牙科發電機轉向人類，扎克的爸爸認為這很棒 那些害怕牙醫椅子的人現在可能應該把目光移開，因為有一天機器人可能會做這項工作- 在至少如果 Perceptive 有自己的方式的話…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/perceptive_robot_dentist/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>山姆大叔起訴 TikTok 收集數百萬兒童的「大量」數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</link>
-      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式濫用了數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
+      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式隨意濫用數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</guid>
       <pubDate>Fri, 02 Aug 2024 19:12:27 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 02 Aug 2024 09:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>微軟高手揭露藍幕死亡的多彩過去</title>
+      <title>微軟高手揭露藍幕死亡多彩的過去</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</link>
       <description><![CDATA[CrowdStrike 提醒大眾 BSOD 仍然存在。它們的起源可以追溯到幾十年前 資深微軟工程師Raymond Chen 在他的Old New Thing 博客上澄清了有關臭名昭著的Windows 藍屏死機(BSOD) 起源的明顯謎團。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[維護時段關閉前的幾分鐘可能不是重新學習晦澀的路由器語法的最佳時間 隨叫隨到 週五下午 5:00 的操作說明很明確：放下工具，準備玩兩天。但是，由於許多註冊讀者需要整個週末都可以修復問題，因此我們的團隊被要求利用周五發布新一期的“On Call”，這是一個由讀者投稿的專欄，描述遇到危險和災難時如何躲避危險和災難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/on_call/</guid>
       <pubDate>Fri, 02 Aug 2024 07:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國打擊犯罪部門關閉了導致超過 17 萬名受害者的全球電話詐騙組織</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/russian_coms_phone_spoofing_service_shutdown/</link>
-      <description><![CDATA[Russian Coms 背後的可疑開發人員被戴上手銬- 現在正在尋找該惡意軟體的用戶 英國國家犯罪局(NCA) 已關閉了一家名為Russian Coms 的機構- 據信這是一項電話欺騙服務欺騙了數十萬受害者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/russian_coms_phone_spoofing_service_shutdown/</guid>
-      <pubDate>Fri, 02 Aug 2024 06:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
