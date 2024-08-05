@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 16:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 17:11:02 GMT</lastBuildDate>
+    <item>
+      <title>前往國際太空站的貨機引擎中止</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/freighter_bound_for_iss_engine_abort/</link>
+      <description><![CDATA[災難太空艙的困境是否被抓住？  美國宇航局最新的國際太空站 (ISS) 貨運任務在前往軌道前哨站的途中遇到了問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/freighter_bound_for_iss_engine_abort/</guid>
+      <pubDate>Mon, 05 Aug 2024 16:37:44 GMT</pubDate>
+    </item>
     <item>
       <title>第三季業績令人失望，英飛凌宣布裁員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/infineon_announces_layoffs_as_q3/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>CrowdStrike 對達美航空的“訴訟威脅”感到不滿，聲稱航空公司拒絕“免費現場幫助”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</link>
-      <description><![CDATA[供應商計劃在列出航空公司的缺陷清單之前積極為其案件辯護 CrowdStrike 表示“非常失望”，並拒絕達美航空及其律師關於供應商在以下方面表現出重大過失的說法：兩週多前導致全球 IT 中斷的事件...]]></description>
+      <description><![CDATA[供應商計劃在列出航空公司的缺陷目錄之前積極為其案件辯護 CrowdStrike 表示“非常失望”，並拒絕了達美航空及其律師關於供應商在以下方面表現出重大過失的說法：兩週多前導致全球 IT 中斷的事件...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</guid>
       <pubDate>Mon, 05 Aug 2024 12:32:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>網路安全品質檢查的三重失敗可能會毀掉世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</link>
-      <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術所損害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
+      <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術傷害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</guid>
       <pubDate>Mon, 05 Aug 2024 08:32:05 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 05 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>燈光、相機、人工智慧！實時 Deepfakes 即將亮相 DEF CON</title>
+      <title>燈光、相機、人工智慧！ DEF CON 上的即時深度偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</link>
       <description><![CDATA[Red teamer 發現它們很容易製作，歡迎為檢測機器人製作素材 DEF CON  今年 DEF CON 黑客大會上 AI 村的訪客只要站在Brandon Kovacs 的鏡頭前，觀看他將他們變成其他與會者的數位肖像，就有機會在他們自己的Deepfake 影片中擔任主角——這是出於善意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[您認為自己患有里程焦慮 功能 電動車在過去十年左右的時間裡引起了廣泛的討論。然而，53 年前的本週，其中一台電池驅動的機器首次載人繞月飛行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/03/moon_buggy_feature/</guid>
       <pubDate>Sat, 03 Aug 2024 19:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>DARPA 建議將舊的 C 代碼自動轉換為 Rust——當然是使用 AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/03/darpa_c_to_rust/</link>
-      <description><![CDATA[誰想要提出 TRACTOR Pull 請求？車輛...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/03/darpa_c_to_rust/</guid>
-      <pubDate>Sat, 03 Aug 2024 10:03:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
