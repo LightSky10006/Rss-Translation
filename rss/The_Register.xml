@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 07:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 07:34:48 GMT</lastBuildDate>
     <item>
-      <title>騰訊雲端自主研發的流量馴服器將延遲減半</title>
+      <title>你好？緊急服務？我想檢舉錯誤的號碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</link>
+      <description><![CDATA[911 不是玩笑 誰，我？ The Reg 的這一部分，我們用技術違規的故事來減輕工作週回歸帶來的毀滅性打擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</guid>
+      <pubDate>Mon, 05 Aug 2024 07:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>騰訊雲端自主研發的流量馴服器將 WAN 延遲減半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</link>
-      <description><![CDATA[MegaTE 可以安排事情，以便每個端點獲得所需的網路 Sigcomm 2024 中國網路巨頭騰訊推出了MegaTE – 一種在自己的雲端上使用的流量工程系統它聲稱透過根據個人流量的需求客製化網路效能來超越競爭對手。]]></description>
+      <description><![CDATA[MegaTE 可以安排事情，以便每個端點獲得所需的網絡 Sigcomm 2024 中國網絡巨頭騰訊推出了“MegaTE”，這是一種流量工程( TE) 系統在自己的雲端上使用，並聲稱透過根據虛擬機器或容器產生的單一串流的需求客製化網路配置，其效能優於競爭對手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</guid>
       <pubDate>Mon, 05 Aug 2024 06:45:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟的發行版獲得了新的 LTS 核心 考慮到最近的 Windows 問題，微軟以無可挑剔的時機全面推出了 Azure Linux 3.0。它包括 Linux 核心的更新和各種軟體包的新版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</guid>
       <pubDate>Fri, 02 Aug 2024 13:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著人工智慧反壟斷風暴烏雲籠罩英偉達，美國司法部啟動調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/antritrust_storm_doj_nvidia/</link>
-      <description><![CDATA[據報道，美國監管機構對Run:ai 的收購並不滿意…也不滿意行業主導地位 美國司法部已開始對Nvidia 收購Run:ai 的交易進行調查，Run :ai 是一家為人工智慧提供編排工具的新創公司工作負載...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/antritrust_storm_doj_nvidia/</guid>
-      <pubDate>Fri, 02 Aug 2024 12:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
