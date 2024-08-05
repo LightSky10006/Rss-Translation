@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 08:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 08:38:16 GMT</lastBuildDate>
     <item>
-      <title>你好？緊急服務？我想報告錯誤的號碼</title>
+      <title>網路安全品質檢查的三重失敗可能會毀掉世界</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</link>
+      <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術傷害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</guid>
+      <pubDate>Mon, 05 Aug 2024 08:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好？緊急服務？我想檢舉錯誤的號碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</link>
       <description><![CDATA[911 不是玩笑 誰，我？ The Reg 的這一部分，我們用技術違規的故事來減輕工作週回歸帶來的毀滅性打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 05 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>燈光、相機、人工智慧！實時 Deepfakes 即將亮相 DEF CON</title>
+      <title>燈光、相機、人工智慧！ DEF CON 上的即時深度偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</link>
       <description><![CDATA[Red teamer 發現它們很容易製作，歡迎為檢測機器人製作素材 DEF CON  今年 DEF CON 黑客大會上 AI 村的訪客只要站在Brandon Kovacs 的鏡頭前，觀看他將他們變成其他與會者的數位肖像，就有機會在他們自己的Deepfake 影片中擔任主角——這是出於善意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>IBM 加拿大公司無法迴避通路高階主管的系統性年齡歧視指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</link>
-      <description><![CDATA[「他們實際上用一名年輕員工取代了我」 三年前，IBM 通路行銷全球總裁 Bruce Maule 被老闆告知他的職位將被取消。 &gt; ]]></description>
+      <description><![CDATA[「他們實際上用一名年輕員工取代了我」 三年前，IBM 管道行銷全球總裁 Bruce Maule 被老闆告知他的職位將被取消。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</guid>
       <pubDate>Sun, 04 Aug 2024 17:20:07 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>山姆大叔起訴 TikTok 收集數百萬兒童的「大量」數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</link>
-      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式濫用了數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
+      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式隨意濫用數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</guid>
       <pubDate>Fri, 02 Aug 2024 19:12:27 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[追蹤個人很困難，那麼為什麼不擾亂地下市場本身呢？部門的努力，RaaS/MaaS）運營商在過去12 個月裡紛紛關門歇業，但僅僅因為Conti、LockBit 和ALPHV/BlackCat 等家喻戶曉的名字陷入困境，並不意味著我們就可以擺脫困境商品惡意軟體的威脅......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/malware_economy_of_trust/</guid>
       <pubDate>Fri, 02 Aug 2024 14:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure Linux 3 全面上市 - 但不要期待任何花俏的東西</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</link>
-      <description><![CDATA[微軟的發行版獲得了新的 LTS 核心 考慮到最近的 Windows 問題，微軟以無可挑剔的時機全面推出了 Azure Linux 3.0。它包括 Linux 核心的更新和各種軟體包的新版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/azure_linux_3_ga/</guid>
-      <pubDate>Fri, 02 Aug 2024 13:40:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
