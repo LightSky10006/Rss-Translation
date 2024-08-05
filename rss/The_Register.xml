@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 02:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 04:14:02 GMT</lastBuildDate>
+    <item>
+      <title>Atlassian 為剩餘的本地客戶軟化了雲端優先方法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/atlassian_q4_2024/</link>
+      <description><![CDATA[很高興讓它們成為混合動力，因為它對企業明智 剛剛將其小型客戶從基於伺服器的產品轉移到雲端中，Atlassian 已經軟化了其雲端優先方法在認識到其大客戶不能或不會匆忙去那裡之後——如果有的話…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/atlassian_q4_2024/</guid>
+      <pubDate>Mon, 05 Aug 2024 04:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌為惡意版本的 Authenticator 做廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/security_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[工作旨在以 NCSC 2016 年計畫的成功為基礎，私營部門將發揮作用 英國國家網路安全中心 (NCSC) 表示，它正在規劃階段，推出一套新的為其現有的主動網路防禦（ACD）計畫提供服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/uk_ncscs_plans_to_revamp/</guid>
       <pubDate>Fri, 02 Aug 2024 10:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>50年前，CP/M開啟了微電腦革命</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/cpm_50th_anniversary/</link>
-      <description><![CDATA[1974 年，Gary Kildall 推出了第一個版本，並改變了作業系統的世界 1974 年夏末，CP/M 首次開始在硬體上運行。它成為第一個跨平台微型電腦作業系統之一，徹底改變了硬體和軟體產業。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/cpm_50th_anniversary/</guid>
-      <pubDate>Fri, 02 Aug 2024 09:34:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
