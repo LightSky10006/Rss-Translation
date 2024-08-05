@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 17:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:15:47 GMT</lastBuildDate>
+    <item>
+      <title>2.9B 個人記錄的網路竊盜？集體訴訟迫在眉睫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/national_public_data_lawsuit/</link>
+      <description><![CDATA[背景調查公司被指控疏忽 一項訴訟指控佛羅裡達州的一家資料經紀人粗心地未能保護數十億條人們的私人資訊記錄，這些記錄隨後被從該公司竊取並出售給網路犯罪分子市場... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/national_public_data_lawsuit/</guid>
+      <pubDate>Mon, 05 Aug 2024 17:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anaconda 的 Python-for-Excel 逃離 Azure 雲，轉向您的 PC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/anaconda_excel_python/</link>
+      <description><![CDATA[獾，獾，獾你的 CIO 讓你使用這個，也許 數據科學工具的製造商和分銷商 Anaconda 已經發布了 Anaconda Code 的公開測試版，可以運行 Python 代碼本地在在 Microsoft Excel 中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/anaconda_excel_python/</guid>
+      <pubDate>Mon, 05 Aug 2024 17:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>前往國際太空站的貨機引擎中止</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/freighter_bound_for_iss_engine_abort/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[「他們實際上用一名年輕員工取代了我」 三年前，IBM 管道行銷全球總裁 Bruce Maule 被老闆告知他的職位將被取消。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</guid>
       <pubDate>Sun, 04 Aug 2024 17:20:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧熱潮正在重塑雲端基礎設施的面貌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ai_cloud_infrastructure/</link>
-      <description><![CDATA[隨著供應商優先考慮新的閃亮技術而不是傳統伺服器升級，資本支出激增 分析 雲端基礎架構正在經歷一場劇變，服務提供商急於部署為AI 模型訓練配置的伺服器，通常在推遲標準伺服器硬體的通常刷新周期的成本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ai_cloud_infrastructure/</guid>
-      <pubDate>Sun, 04 Aug 2024 11:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>走出困境：人類首次在月球上駕駛電動車已有 53 年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/03/moon_buggy_feature/</link>
-      <description><![CDATA[您認為自己患有里程焦慮 功能 電動車在過去十年左右的時間裡引起了廣泛的討論。然而，53 年前的本週，其中一台電池驅動的機器首次載人繞月飛行。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/03/moon_buggy_feature/</guid>
-      <pubDate>Sat, 03 Aug 2024 19:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
