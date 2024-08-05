@@ -4,9 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 04 Aug 2024 23:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 02:03:47 GMT</lastBuildDate>
     <item>
-      <title>燈光、相機、人工智慧！實時 Deepfakes 即將亮相 DEF CON</title>
+      <title>谷歌為惡意版本的 Authenticator 做廣告</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/security_in_brief/</link>
+      <description><![CDATA[加上：CISA 的人工智慧招募；和Canuck SIM 交換器被破獲 資訊安全簡介 詐騙者一直在使用Google 自己的廣告系統來欺騙人們下載巧克力工廠身份驗證器軟體的盜版副本。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/security_in_brief/</guid>
+      <pubDate>Mon, 05 Aug 2024 02:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度在短短五個月內將 25,000 家小型貸方遷移至 ERP</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/asia_tech_news_in_brief_/</link>
+      <description><![CDATA[加：位元組跳動新加坡發生食物中毒事件；印尼禁止 DuckDuckGo；以及更多 亞洲簡介 印度政府在短短五個月內成功將25,904 個初級農業信用社(PACS) 遷移到統一的ERP 系統，作為其更廣泛的現代化舉措的一部分並簡化農村貸款業務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/asia_tech_news_in_brief_/</guid>
+      <pubDate>Mon, 05 Aug 2024 01:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>燈光、相機、人工智慧！ DEF CON 上的即時深度偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</link>
       <description><![CDATA[Red teamer 發現它們很容易製作，歡迎為檢測機器人製作素材 DEF CON  今年 DEF CON 黑客大會上 AI 村的訪客只要站在Brandon Kovacs 的鏡頭前，觀看他將他們變成其他與會者的數位肖像，就有機會在他們自己的Deepfake 影片中擔任主角——這是出於善意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>山姆大叔起訴 TikTok 收集數百萬兒童的「大量」數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</link>
-      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式濫用了數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
+      <description><![CDATA[還記得友善的承諾嗎？檢察官說，你違反了規定 美國政府正在起訴TikTok，聲稱這款超級流行的應用程式隨意濫用數百萬兒童的數據和隱私，從而違反了法律。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/us_doj_sues_tiktok/</guid>
       <pubDate>Fri, 02 Aug 2024 19:12:27 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[1974 年，Gary Kildall 推出了第一個版本，並改變了作業系統的世界 1974 年夏末，CP/M 首次開始在硬體上運行。它成為第一個跨平台微型電腦作業系統之一，徹底改變了硬體和軟體產業。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/cpm_50th_anniversary/</guid>
       <pubDate>Fri, 02 Aug 2024 09:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟高手揭露藍幕死亡的多彩過去</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</link>
-      <description><![CDATA[CrowdStrike 提醒大眾 BSOD 仍然存在。它們的起源可以追溯到幾十年前 資深微軟工程師Raymond Chen 在他的Old New Thing 博客上澄清了有關臭名昭著的Windows 藍屏死機(BSOD) 起源的明顯謎團。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/who_wrote_windows_bsod/</guid>
-      <pubDate>Fri, 02 Aug 2024 08:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，我實在是太自鳴得意了——因為我忽略了你並保存了項目</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/on_call/</link>
-      <description><![CDATA[維護時段關閉前的幾分鐘可能不是重新學習晦澀的路由器語法的最佳時間 隨叫隨到 週五下午 5:00 的操作說明很明確：放下工具，準備玩兩天。但是，由於許多註冊讀者需要整個週末都可以修復問題，因此我們的團隊被要求利用周五發布新一期的“On Call”，這是一個由讀者投稿的專欄，描述遇到危險和災難時如何躲避危險和災難。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/on_call/</guid>
-      <pubDate>Fri, 02 Aug 2024 07:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
