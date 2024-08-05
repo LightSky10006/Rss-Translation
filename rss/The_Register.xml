@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 13:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 14:36:14 GMT</lastBuildDate>
+    <item>
+      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
+      <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
+      <pubDate>Mon, 05 Aug 2024 14:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，Nvidia 由於包裝問題將 Blackwell GPU 推遲到 2025 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/nvidia_delays_blackwell_gpus_until/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>谷歌為惡意版本的 Authenticator 做廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/security_in_brief/</link>
-      <description><![CDATA[加上：CISA 的人工智慧招募；和Canuck SIM 交換器被破獲 資訊安全簡介 詐騙者一直在使用Google 自己的廣告系統來欺騙人們下載巧克力工廠身份驗證器軟體的盜版副本。 .]]></description>
+      <description><![CDATA[另外：CISA 聘用人工智慧，加納克警察向可疑的SIM 交換者收費 資訊安全簡介 詐騙者一直在使用Google 自己的廣告系統來愚弄人們下載盜版副本巧克力工廠的驗證器軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/security_in_brief/</guid>
       <pubDate>Mon, 05 Aug 2024 02:00:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[自動定價軟體欺騙租戶？霧散！高額租金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/san_francisco_rent_software_ban/</guid>
       <pubDate>Fri, 02 Aug 2024 21:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>電壓崩潰慘敗後，英特爾將 Raptor Lake CPU 保固期延長兩年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/intel_tacks_two_years_onto/</link>
-      <description><![CDATA[Chipzilla 開始意識到它正在失去一些可信度 英特爾第13 代和第14 代酷睿台式處理器的所有者將獲得額外兩年的保固 ... &lt; p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/intel_tacks_two_years_onto/</guid>
-      <pubDate>Fri, 02 Aug 2024 20:14:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
