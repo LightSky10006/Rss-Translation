@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 21:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 22:10:47 GMT</lastBuildDate>
+    <item>
+      <title>法官裁定谷歌支付手機預設搜尋費用完全違法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</link>
+      <description><![CDATA[在司法部勝訴後，網路巨頭將尋求第二意見 一名聯邦法官裁定，Google為其搜尋引擎成為智慧型手機瀏覽器和其他地方的預設搜尋引擎而支付的費用違反了美國反壟斷法星期一。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:58:36 GMT</pubDate>
+    </item>
     <item>
       <title>什麼人工智慧泡沫？ Groq 籌集 6.4 億美元發展推理雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/groq_ai_funding/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 05 Aug 2024 19:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>隨著投訴聲越來越大，另一家律師事務所就 Raptor Lake CPU 故障向英特爾發動攻擊</title>
+      <title>隨著投訴聲越來越大，另一家律師事務所因 Raptor Lake CPU 故障而指責英特爾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</link>
       <description><![CDATA[與此同時，一家精品PC 製造商表示英特爾甚至不需要追求高時脈速度 另一家律師事務所表示正在調查針對英特爾的潛在集體訴訟，因為Raptor Lake CPU 所有者越來越多抱怨晶片不穩定和故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 05 Aug 2024 15:47:58 GMT</pubDate>
     </item>
     <item>
-      <title>Snakeky SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
+      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
       <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>第二位患者接受 Neuralink 植入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</link>
-      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作。]]></description>
+      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</guid>
       <pubDate>Mon, 05 Aug 2024 12:03:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 05 Aug 2024 08:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>你好？緊急服務？我想報告錯誤的號碼</title>
+      <title>你好？緊急服務？我想檢舉錯誤的號碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</link>
       <description><![CDATA[911 不是玩笑 誰，我？ The Reg 的這一部分，我們用技術違規的故事來減輕工作週回歸帶來的毀滅性打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[MegaTE 可以安排事情，以便每個端點獲得所需的網絡 Sigcomm 2024 中國網絡巨頭騰訊推出了“MegaTE”，這是一種流量工程( TE) 系統在自己的雲端上使用，並聲稱透過根據虛擬機器或容器產生的單一串流的需求客製化網路配置，其效能優於競爭對手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/tencent_clouds_homegrown_traffictamer_halves/</guid>
       <pubDate>Mon, 05 Aug 2024 06:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國在想法諮詢結束前開始測試國家網路身份</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/china_cyber_id_pilot/</link>
-      <description><![CDATA[81 個應用程式簽署試點臉部辨識和實名 ID 系統 中國應用程式開發人員已簽約測試國家網路空間 ID 系統，該系統將使用臉部辨識技術和實名制據中國媒體報道，使用者... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/china_cyber_id_pilot/</guid>
-      <pubDate>Mon, 05 Aug 2024 05:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
