@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 05 Aug 2024 15:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 16:14:27 GMT</lastBuildDate>
     <item>
-      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
+      <title>第三季業績令人失望，英飛凌宣布裁員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/infineon_announces_layoffs_as_q3/</link>
+      <description><![CDATA[繼晶片巨頭英特爾裁員15%，執行長將其歸咎於經濟疲軟 英飛凌已成為另一家在報告銷售額萎縮後裁員以削減成本的晶片製造商。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/infineon_announces_layoffs_as_q3/</guid>
+      <pubDate>Mon, 05 Aug 2024 15:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snakeky SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
       <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
@@ -15,21 +22,21 @@
     <item>
       <title>據報道，Nvidia 由於包裝問題將 Blackwell GPU 推遲到 2025 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/nvidia_delays_blackwell_gpus_until/</link>
-      <description><![CDATA[支援人工智慧服務的數十億美元訂單的背景，但不太可能損害NVDA 的長期 據了解，Nvidia 將其Blackwell GPU 的發貨推遲到2025 年第一季度，而且看起來這些問題可能是由於台積電用於製造下一代硬體的晶圓上晶片（CoWoS）封裝技術的複雜性所造成的。]]></description>
+      <description><![CDATA[支援人工智慧服務的數十億美元訂單背景，但不太可能損害NVDA 的長期利益 更新 據了解，Nvidia 將推遲其Blackwell GPU 的發貨，直到2025 年第一季度，問題似乎可能是由於台積電用於製造下一代硬體的晶圓上晶片 (CoWoS) 封裝技術的複雜性造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/nvidia_delays_blackwell_gpus_until/</guid>
       <pubDate>Mon, 05 Aug 2024 13:23:03 GMT</pubDate>
     </item>
     <item>
       <title>CrowdStrike 對達美航空的“訴訟威脅”感到不滿，聲稱航空公司拒絕“免費現場幫助”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</link>
-      <description><![CDATA[供應商計劃在列出航空公司的缺陷目錄之前積極為其案件辯護 CrowdStrike 表示“非常失望”，並拒絕了達美航空及其律師關於供應商在以下方面表現出重大過失的說法：兩週多前導致全球 IT 中斷的事件...]]></description>
+      <description><![CDATA[供應商計劃在列出航空公司的缺陷清單之前積極為其案件辯護 CrowdStrike 表示“非常失望”，並拒絕達美航空及其律師關於供應商在以下方面表現出重大過失的說法：兩週多前導致全球 IT 中斷的事件...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</guid>
       <pubDate>Mon, 05 Aug 2024 12:32:11 GMT</pubDate>
     </item>
     <item>
       <title>第二位患者接受 Neuralink 植入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</link>
-      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作…]]></description>
+      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</guid>
       <pubDate>Mon, 05 Aug 2024 12:03:09 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>網路安全品質檢查的三重失敗可能會毀掉世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</link>
-      <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術傷害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
+      <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術所損害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</guid>
       <pubDate>Mon, 05 Aug 2024 08:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>你好？緊急服務？我想檢舉錯誤的號碼</title>
+      <title>你好？緊急服務？我想報告錯誤的號碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</link>
       <description><![CDATA[911 不是玩笑 誰，我？ The Reg 的這一部分，我們用技術違規的故事來減輕工作週回歸帶來的毀滅性打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 05 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>燈光、相機、人工智慧！ DEF CON 上的即時深度偽造</title>
+      <title>燈光、相機、人工智慧！實時 Deepfakes 即將亮相 DEF CON</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</link>
       <description><![CDATA[Red teamer 發現它們很容易製作，歡迎為檢測機器人製作素材 DEF CON  今年 DEF CON 黑客大會上 AI 村的訪客只要站在Brandon Kovacs 的鏡頭前，觀看他將他們變成其他與會者的數位肖像，就有機會在他們自己的Deepfake 影片中擔任主角——這是出於善意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/realtime_deepfakes_defcon/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>IBM 加拿大公司無法迴避通路高階主管的系統性年齡歧視指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</link>
-      <description><![CDATA[「他們實際上用一名年輕員工取代了我」 三年前，IBM 管道行銷全球總裁 Bruce Maule 被老闆告知他的職位將被取消。 &gt; ]]></description>
+      <description><![CDATA[「他們實際上用一名年輕員工取代了我」 三年前，IBM 通路行銷全球總裁 Bruce Maule 被老闆告知他的職位將被取消。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/04/ibm_canada_cant_duck_systematic/</guid>
       <pubDate>Sun, 04 Aug 2024 17:20:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[誰想要提出 TRACTOR Pull 請求？車輛...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/03/darpa_c_to_rust/</guid>
       <pubDate>Sat, 03 Aug 2024 10:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>舊金山將禁止房東使用租金上漲演算法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/02/san_francisco_rent_software_ban/</link>
-      <description><![CDATA[自動定價軟體欺騙租戶？霧散！高額租金。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/02/san_francisco_rent_software_ban/</guid>
-      <pubDate>Fri, 02 Aug 2024 21:57:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
