@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 18:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 18:39:41 GMT</lastBuildDate>
+    <item>
+      <title>谷歌揭露了 Android 核心漏洞等裝置劫持漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</link>
+      <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個針對Android 的修復程序，其中一個針對行動作業系統中的Linux 核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</guid>
+      <pubDate>Tue, 06 Aug 2024 18:23:57 GMT</pubDate>
+    </item>
     <item>
       <title>研究人員表示，SAP Core AI 漏洞允許存取內部網路伺服器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sap_core_ai_bugs_granted/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在司法部勝訴後，網路巨頭尋求第二意見 一位聯邦法官裁定，Google為其搜尋引擎成為智慧型手機瀏覽器和其他地方的預設搜尋引擎而支付的費用違反了美國反壟斷法星期一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</guid>
       <pubDate>Mon, 05 Aug 2024 21:58:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>什麼人工智慧泡沫？ Groq 籌集 6.4 億美元發展推理雲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/groq_ai_funding/</link>
-      <description><![CDATA[在淘金熱中，成為揮舞鏟子的人 儘管至少有一些投資者開始質疑人工智慧基礎設施和服務的投資回報率，但創投似乎正在加倍下注。週一，人工智慧晶片新創公司Groq（不要與xAI 的Grok 聊天機器人混淆）宣布已獲得6.4 億美元的D 輪融資，以支援其推理雲。 include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/groq_ai_funding/</guid>
-      <pubDate>Mon, 05 Aug 2024 20:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
