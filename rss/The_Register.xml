@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 18:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 19:34:46 GMT</lastBuildDate>
+    <item>
+      <title>威瑞信因每年提高 .com 價格而受到批評</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/verisign_well_talk_about_limiting/</link>
+      <description><![CDATA[註冊管理機構很樂意討論上限問題，只是不要將其視為實際採取任何行動的承諾 美國政府的國家電信和資訊管理局(NTIA) 表示將續簽與威瑞信的合作協議監督 .com 網域註冊和其他職責 - 同時表達對價格上漲的一些擔憂。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/verisign_well_talk_about_limiting/</guid>
+      <pubDate>Tue, 06 Aug 2024 19:20:36 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌揭露了 Android 核心漏洞等裝置劫持漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</link>
-      <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個針對Android 的修復程序，其中一個針對行動作業系統中的Linux 核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
+      <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個Android 修復程序，其中一個針對行動作業系統中的Linux核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</guid>
       <pubDate>Tue, 06 Aug 2024 18:23:57 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 06 Aug 2024 17:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>Sonic Automotive 稱與勒索軟體相關的 CDK 軟體中斷造成 3,000 萬美元損失</title>
+      <title>Sonic Automotive 表示與勒索軟體相關的 CDK 軟體中斷造成 3,000 萬美元損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sonic_automotive_says_cdk_disruption/</link>
       <description><![CDATA[苦難愛公司- 所有競爭對手也都受到了負面影響 美國最大的汽車經銷商之一表示，CDK Global 6 月份的勒索軟體攻擊造成IT 中斷，造成其損失約3000萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sonic_automotive_says_cdk_disruption/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>Backblaze 發現硬碟故障率上升，詢問人工智慧是否可以提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/backblaze_sees_drive_failure_rates/</link>
-      <description><![CDATA[專注於驅動器模型，以評估其在使用壽命內發生故障的頻率 Backblaze 發布了最新報告，詳細介紹了為其儲存和備份服務提供支援的多種驅動器的故障率，並正在尋找了解最近的數據趨勢，並考慮人工智慧是否可以降低這些故障率。]]></description>
+      <description><![CDATA[專注於驅動器模型，以評估其在使用壽命內發生故障的頻率 Backblaze 發布了最新報告，詳細介紹了為其儲存和備份服務提供支援的多種驅動器的故障率，並正在尋找查看最近的數據趨勢，並考慮人工智慧是否可以降低這些故障率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/backblaze_sees_drive_failure_rates/</guid>
       <pubDate>Tue, 06 Aug 2024 15:25:12 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>使用者呼籲微軟更新 Outlook 的友善名稱功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</link>
-      <description><![CDATA[Outlook 中存在一個奇怪的現象，它讓網路釣魚者和詐騙者能夠進入收件匣 用戶敦促Microsoft 重新考慮如何在Outlook 中顯示寄件者電子郵件地址，因為網絡釣魚犯罪分子正在利用這些有用的、友善的名稱來提供帶有惡意意圖的電子郵件。]]></description>
+      <description><![CDATA[Outlook 中存在一個奇怪的現象，它讓網路釣魚者和詐騙者能夠進入收件匣 用戶敦促Microsoft 重新考慮如何在Outlook 中顯示寄件者電子郵件地址，因為網絡釣魚犯罪分子正在利用這些有用的、友好的名稱來提供帶有惡意意圖的電子郵件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</guid>
       <pubDate>Tue, 06 Aug 2024 12:18:10 GMT</pubDate>
     </item>
@@ -78,21 +85,21 @@
     <item>
       <title>戴爾進行新一輪裁員，同時尋求解鎖現代人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</link>
-      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已經進行了另一輪裁員，The Register 了解到，裁員規模已經很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
+      <description><![CDATA[人力資源部門顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已進行了另一輪裁員，據The Register了解，裁員範圍很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</guid>
       <pubDate>Tue, 06 Aug 2024 08:33:14 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 網路應用程式商店警告 uBlock Origin 即將終結</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</link>
-      <description><![CDATA[您會看到Lite 嗎？可能很快就會停止工作。]]></description>
+      <description><![CDATA[您會看到Lite 版嗎？程式可能很快就會停止工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</guid>
       <pubDate>Tue, 06 Aug 2024 07:30:10 GMT</pubDate>
     </item>
     <item>
       <title>國際組織關閉 Cryptonator 錢包，損失數十億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</link>
-      <description><![CDATA[名為「Roman Boss」的小伙子被指控在加密貨幣洗錢機構工作 Cryptonator（線上數位錢包和加密貨幣交易所）的用戶上週末在該服務被關閉後收到了一個不愉快的驚喜。]]></description>
+      <description><![CDATA[名為「Roman Boss」的小伙子被指控為加密貨幣洗錢機構的成員 Cryptonator（線上數位錢包和加密貨幣交易所）的用戶上週末在該服務被關閉後收到了一個不愉快的驚喜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</guid>
       <pubDate>Tue, 06 Aug 2024 06:30:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這兩個人正在經歷一次非常非常糟糕的分手  Elon Musk 決定將Sam Altman 和OpenAI 告上法庭，畢竟這是一場關於OpenAI 是否真正開放和開放的全新訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/musk_new_lawsuit_openai/</guid>
       <pubDate>Mon, 05 Aug 2024 23:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官裁定谷歌付費成為手機默認搜尋完全違反反壟斷法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</link>
-      <description><![CDATA[在司法部勝訴後，網路巨頭尋求第二意見 一位聯邦法官裁定，Google為其搜尋引擎成為智慧型手機瀏覽器和其他地方的預設搜尋引擎而支付的費用違反了美國反壟斷法星期一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</guid>
-      <pubDate>Mon, 05 Aug 2024 21:58:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
