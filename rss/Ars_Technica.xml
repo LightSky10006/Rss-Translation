@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 06 Aug 2024 16:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 17:35:35 GMT</lastBuildDate>
+    <item>
+      <title>伊利諾州修改生物辨識隱私法以幫助企業避免巨額支出</title>
+      <link>https://arstechnica.com/?p=2041322</link>
+      <description><![CDATA[2008 年伊利諾伊州法律的修改大大降低了可能的損害賠償。]]></description>
+      <guid>https://arstechnica.com/?p=2041322</guid>
+      <pubDate>Tue, 06 Aug 2024 17:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>調查顯示，重返辦公室的規定會損害員工的留任率和生產力</title>
+      <link>https://arstechnica.com/?p=2041221</link>
+      <description><![CDATA[對 4,400 名年滿 18 歲的美國員工進行的調查。]]></description>
+      <guid>https://arstechnica.com/?p=2041221</guid>
+      <pubDate>Tue, 06 Aug 2024 16:43:19 GMT</pubDate>
+    </item>
     <item>
       <title>這個人工智慧人形機器人幫助在美國工廠組裝寶馬</title>
       <link>https://arstechnica.com/?p=2041292</link>
-      <description><![CDATA[BMW還沒有將人形機器人整合到其生產線的時間表。]]></description>
+      <description><![CDATA[BMW沒有將人形機器人整合到其生產線的時間表。]]></description>
       <guid>https://arstechnica.com/?p=2041292</guid>
       <pubDate>Tue, 06 Aug 2024 15:59:44 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 06 Aug 2024 15:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>蘭博基尼最大的電動車挑戰？首席技術官表示，不會被視為「假貨」。</title>
+      <title>蘭博基尼最大的電動車挑戰？首席技術官表示，不會被視為「假的」。</title>
       <link>https://arstechnica.com/?p=2041226</link>
       <description><![CDATA[蘭博基尼的技術長告訴我們混合動力車、電動車和人工智慧將如何「創造驚喜」。]]></description>
       <guid>https://arstechnica.com/?p=2041226</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[加入我們，討論人工智慧的未來幾年。存儲以及需要注意的事項。]]></description>
       <guid>https://arstechnica.com/?p=2037812</guid>
       <pubDate>Tue, 06 Aug 2024 12:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆馬斯克表示，特斯拉現在是一家人工智慧公司。這就是它的合理性。</title>
-      <link>https://arstechnica.com/?p=2040824</link>
-      <description><![CDATA[隨著特斯拉的核心業務開始衰退，執行長馬斯克對機器人產生了狂熱。]]></description>
-      <guid>https://arstechnica.com/?p=2040824</guid>
-      <pubDate>Tue, 06 Aug 2024 11:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 和 Windows 使用者受到透過被駭 ISP 提供的軟體更新的感染</title>
-      <link>https://arstechnica.com/?p=2041175</link>
-      <description><![CDATA[即使目標使用 Google 和 Cloudflare 的 DNS，DNS 中毒攻擊也會發揮作用。]]></description>
-      <guid>https://arstechnica.com/?p=2041175</guid>
-      <pubDate>Mon, 05 Aug 2024 23:43:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
