@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 07:34:26 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 網路應用程式商店警告 uBlock Origin 即將終結</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</link>
+      <description><![CDATA[您會看到Lite 嗎？可能很快就會停止工作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>國際組織關閉 Cryptonator 錢包，損失數十億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[支援人工智慧服務的數十億美元訂單背景，但不太可能損害NVDA 的長期利益 更新 據了解，Nvidia 將推遲其Blackwell GPU 的發貨，直到2025 年第一季度，問題似乎可能是由於台積電用於製造下一代硬體的晶圓上晶片 (CoWoS) 封裝技術的複雜性造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/nvidia_delays_blackwell_gpus_until/</guid>
       <pubDate>Mon, 05 Aug 2024 13:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 對達美航空的“訴訟威脅”感到不滿，聲稱航空公司拒絕“免費現場幫助”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</link>
-      <description><![CDATA[供應商計劃在列出航空公司的缺陷清單之前積極為其案件辯護 CrowdStrike 表示“非常失望”，並拒絕達美航空及其律師關於供應商在以下方面表現出重大過失的說法：兩週多前導致全球 IT 中斷的事件...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/crowdstrike_is_not_at_all/</guid>
-      <pubDate>Mon, 05 Aug 2024 12:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
