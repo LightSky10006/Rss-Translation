@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 00:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 02:01:35 GMT</lastBuildDate>
+    <item>
+      <title>NFL 開始在其所有體育場使用臉部掃描技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/nfl_face_scanning_tech/</link>
+      <description><![CDATA[微笑讓攝影機進入，或者不用排隊就買啤酒 美國國家橄欖球聯盟及其所有 32 支球隊將使用面部識別軟體供應商 Wicket 的技術來驗證數千人的身份作為其認證計劃的一部分，員工、媒體和粉絲的參與。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/nfl_face_scanning_tech/</guid>
+      <pubDate>Tue, 06 Aug 2024 01:43:57 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆馬斯克再次起訴 OpenAI，聲稱執行長山姆奧爾特曼「背叛」了他</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/musk_new_lawsuit_openai/</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 05 Aug 2024 19:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>隨著投訴聲越來越大，另一家律師事務所就 Raptor Lake CPU 故障向英特爾發動攻擊</title>
+      <title>隨著投訴聲越來越大，另一家律師事務所因 Raptor Lake CPU 故障而指責英特爾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</link>
       <description><![CDATA[與此同時，一家精品PC 製造商表示英特爾甚至不需要追求高時脈速度 另一家律師事務所表示正在調查針對英特爾的潛在集體訴訟，因為Raptor Lake CPU 所有者越來越多抱怨晶片不穩定和故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 05 Aug 2024 15:47:58 GMT</pubDate>
     </item>
     <item>
-      <title>Snakeky SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
+      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
       <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>第二位患者接受 Neuralink 植入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</link>
-      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作。]]></description>
+      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</guid>
       <pubDate>Mon, 05 Aug 2024 12:03:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[惡意軟體通常被描述為生物學。情況應該是相反的 觀點 在 Neal Stephenson 1992 年的小說《Snow Crash》中，他發明了可以將物種從矽跳躍到人腦的惡意軟體。對於我們大部分的線上生活來說，這是一個很好的比喻，但它提出了一個特別有趣的問題。如果人類可能被我們自己的技術所損害，我們是否應該透過網路安全不僅保護我們的數據，還保護我們自己？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/opinion_ml_social_media_cybersecurity/</guid>
       <pubDate>Mon, 05 Aug 2024 08:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好？緊急服務？我想報告錯誤的號碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</link>
-      <description><![CDATA[911 不是玩笑 誰，我？ The Reg 的這一部分，我們用技術違規的故事來減輕工作週回歸帶來的毀滅性打擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/who_me/</guid>
-      <pubDate>Mon, 05 Aug 2024 07:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
