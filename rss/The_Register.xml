@@ -4,25 +4,32 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 08:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 10:12:45 GMT</lastBuildDate>
+    <item>
+      <title>WordStar 7，最後一個 DOS 版本，免費重新發布</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/wordstar_7_the_last_ever/</link>
+      <description><![CDATA[Arthur C Clarke、Anne Rice 和 George R R Martin 的首選工具 在 WordPerfect 之前，最受歡迎的工作處理器是 WordStar。現在，最後一個 DOS 版本已被其最大的粉絲之一捆綁並免費釋放。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/wordstar_7_the_last_ever/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>戴爾進行新一輪裁員，同時尋求解鎖現代人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</link>
-      <description><![CDATA[人力資源部門顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已進行了另一輪裁員，據The Register了解，裁員範圍很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
+      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已經進行了另一輪裁員，The Register 了解到，裁員規模已經很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</guid>
       <pubDate>Tue, 06 Aug 2024 08:33:14 GMT</pubDate>
     </item>
     <item>
       <title>Chrome 網路應用程式商店警告 uBlock Origin 即將終結</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</link>
-      <description><![CDATA[您會看到Lite 版嗎？程式可能很快就會停止工作。]]></description>
+      <description><![CDATA[您會看到Lite 嗎？可能很快就會停止工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</guid>
       <pubDate>Tue, 06 Aug 2024 07:30:10 GMT</pubDate>
     </item>
     <item>
       <title>國際組織關閉 Cryptonator 錢包，損失數十億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</link>
-      <description><![CDATA[名為「Roman Boss」的小伙子被指控為加密貨幣洗錢機構的成員 Cryptonator（線上數位錢包和加密貨幣交易所）的用戶上週末在該服務被關閉後收到了一個不愉快的驚喜。]]></description>
+      <description><![CDATA[名為「Roman Boss」的小伙子被指控在加密貨幣洗錢機構工作 Cryptonator（線上數位錢包和加密貨幣交易所）的用戶上週末在該服務被關閉後收到了一個不愉快的驚喜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</guid>
       <pubDate>Tue, 06 Aug 2024 06:30:08 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>MDM 供應商 Mobile Guardian 遭到攻擊，導致 13,000 台裝置被遠端擦除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</link>
-      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS設備由其工具管理，但目前不可用。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
+      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除該軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS 裝置由其工具管理，但目前無法使用。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</guid>
       <pubDate>Tue, 06 Aug 2024 04:25:45 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>法官裁定谷歌付費成為手機默認搜尋完全違反反壟斷法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</link>
-      <description><![CDATA[在司法部獲勝後，網路巨頭將尋求第二意見 一位聯邦法官裁定，Google為其搜尋引擎成為智慧型手機瀏覽器和其他地方的預設搜尋引擎而支付的費用違反了美國反壟斷法星期一。]]></description>
+      <description><![CDATA[在司法部勝訴後，網路巨頭將尋求第二意見 一名聯邦法官裁定，Google為其搜尋引擎成為智慧型手機瀏覽器和其他地方的預設搜尋引擎而支付的費用違反了美國反壟斷法星期一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/google_default_search_deals_violate/</guid>
       <pubDate>Mon, 05 Aug 2024 21:58:36 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 05 Aug 2024 19:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>隨著投訴聲越來越大，另一家律師事務所因 Raptor Lake CPU 故障而指責英特爾</title>
+      <title>隨著投訴聲越來越大，另一家律師事務所就 Raptor Lake CPU 故障向英特爾發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</link>
       <description><![CDATA[與此同時，一家精品PC 製造商表示英特爾甚至不需要追求高時脈速度 另一家律師事務所表示正在調查針對英特爾的潛在集體訴訟，因為Raptor Lake CPU 所有者越來越多抱怨晶片不穩定和故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>股票交易應用程式被驚慌失措的投資者踩在腳下</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/stock_market_outages/</link>
-      <description><![CDATA[他們在幫你一個忙，今天可能最好不要看 由於今天股市出現了一些波動，股票交易應用程式和網站隨著投資者蜂擁而至，看看如何下跌。他們的投資組合受到嚴重打擊。]]></description>
+      <description><![CDATA[他們在幫你一個忙，今天可能最好不要看 由於今天股市出現了一些波動，股票交易應用程式和網站隨著投資者蜂擁而至，看看如何下跌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/stock_market_outages/</guid>
       <pubDate>Mon, 05 Aug 2024 18:39:30 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>前往國際太空站的貨機引擎中止</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/freighter_bound_for_iss_engine_abort/</link>
-      <description><![CDATA[災難太空艙的困境是否被抓住？  美國宇航局最新的國際太空站 (ISS) 貨運任務在前往軌道前哨站的途中遇到了問題。]]></description>
+      <description><![CDATA[災難太空艙的麻煩是否被抓住了？  美國宇航局最新的國際太空站(ISS) 貨運任務在前往軌道前哨站的途中遇到了問題。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/freighter_bound_for_iss_engine_abort/</guid>
       <pubDate>Mon, 05 Aug 2024 16:37:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[繼晶片巨頭英特爾裁員15%，執行長將其歸咎於經濟疲軟 英飛凌已成為另一家在報告銷售額萎縮後裁員以削減成本的晶片製造商。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/infineon_announces_layoffs_as_q3/</guid>
       <pubDate>Mon, 05 Aug 2024 15:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
-      <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
-      <pubDate>Mon, 05 Aug 2024 14:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
