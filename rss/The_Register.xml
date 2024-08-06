@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 19:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 21:10:47 GMT</lastBuildDate>
+    <item>
+      <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
+      <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
+    </item>
     <item>
       <title>威瑞信因每年提高 .com 價格而受到批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/verisign_well_talk_about_limiting/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[微笑讓攝影機進入，或者不用排隊就買啤酒 美國國家橄欖球聯盟及其所有 32 支球隊將使用面部識別軟體供應商 Wicket 的技術來驗證數千人的身份作為其認證計劃的一部分，員工、媒體和粉絲的參與。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/nfl_face_scanning_tech/</guid>
       <pubDate>Tue, 06 Aug 2024 01:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆馬斯克再次起訴 OpenAI，聲稱執行長山姆奧爾特曼「背叛」了他</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/musk_new_lawsuit_openai/</link>
-      <description><![CDATA[這兩個人正在經歷一次非常非常糟糕的分手  Elon Musk 決定將Sam Altman 和OpenAI 告上法庭，畢竟這是一場關於OpenAI 是否真正開放和開放的全新訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/musk_new_lawsuit_openai/</guid>
-      <pubDate>Mon, 05 Aug 2024 23:25:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
