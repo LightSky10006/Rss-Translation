@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 17:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 18:16:08 GMT</lastBuildDate>
+    <item>
+      <title>研究人員表示，SAP Core AI 漏洞允許存取內部網路伺服器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sap_core_ai_bugs_granted/</link>
+      <description><![CDATA[Wiz infoseccers 能夠將自己從卑微的客戶提升為成熟的管理員 黑帽  SAP 核心AI 服務中的缺陷創建了通往客戶私人資料的門戶，包括程式碼和培訓材料，直到今年早些時候修補它們。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sap_core_ai_bugs_granted/</guid>
+      <pubDate>Tue, 06 Aug 2024 17:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>Sonic Automotive 稱與勒索軟體相關的 CDK 軟體中斷造成 3,000 萬美元損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sonic_automotive_says_cdk_disruption/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在淘金熱中，成為揮舞鏟子的人 儘管至少有一些投資者開始質疑人工智慧基礎設施和服務的投資回報率，但創投似乎正在加倍下注。週一，人工智慧晶片新創公司Groq（不要與xAI 的Grok 聊天機器人混淆）宣布已獲得6.4 億美元的D 輪融資，以支援其推理雲。 include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/groq_ai_funding/</guid>
       <pubDate>Mon, 05 Aug 2024 20:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>密西根州調查了馬斯克支持的 PAC 網站，該網站奇怪地嘗試幫助人們登記投票，但未能成功</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/michigan_election_officials_probe_website/</link>
-      <description><![CDATA[它聲稱自己有一份工作，但做不到 密西根州國務卿辦公室已對美國PAC 展開調查，這是一個由億萬富翁埃隆馬斯克支持的政治行動委員會。 ....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/michigan_election_officials_probe_website/</guid>
-      <pubDate>Mon, 05 Aug 2024 19:55:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
