@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 11:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 12:52:35 GMT</lastBuildDate>
+    <item>
+      <title>使用者呼籲微軟更新 Outlook 的友善名稱功能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</link>
+      <description><![CDATA[Outlook 中存在一個奇怪的現象，它讓網路釣魚者和詐騙者能夠進入收件匣 用戶敦促Microsoft 重新考慮如何在Outlook 中顯示寄件者電子郵件地址，因為網絡釣魚犯罪分子正在利用這些有用的、友善的名稱來提供帶有惡意意圖的電子郵件。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</guid>
+      <pubDate>Tue, 06 Aug 2024 12:18:10 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia的訂閱軟體帝國正在形成</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/nvidia_software_empire/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[背景調查公司被指控疏忽 一項訴訟指控佛羅裡達州的一家資料經紀人粗心地未能保護數十億條人們的私人資訊記錄，這些記錄隨後被從該公司竊取並出售給網路犯罪分子市場... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/national_public_data_lawsuit/</guid>
       <pubDate>Mon, 05 Aug 2024 17:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anaconda 的 Python-for-Excel 逃離 Azure 雲，轉向您的 PC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/anaconda_excel_python/</link>
-      <description><![CDATA[獾，獾，獾你的 CIO 讓你使用這個，也許 數據科學工具的製造商和分銷商 Anaconda 已經發布了 Anaconda Code 的公開測試版，可以運行 Python 代碼本地在在 Microsoft Excel 中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/anaconda_excel_python/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:40:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
