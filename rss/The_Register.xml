@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 04:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:35:39 GMT</lastBuildDate>
+    <item>
+      <title>日本停止透過報紙讀者的輕鬆程度來衡量火車擁擠程度</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/japan_train_crowding_measurement/</link>
+      <description><![CDATA[智慧型手機再來襲！在您的幫助下，監管標準局也可能如此 日本國土交通省改變了衡量火車擁擠程度的方式，放棄了數十年來基於報紙和雜誌的衡量標準...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/japan_train_crowding_measurement/</guid>
+      <pubDate>Tue, 06 Aug 2024 05:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Mobile Guardian 遭到攻擊，導致 13,000 台裝置被遠端擦除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</link>
-      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除該軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS 裝置由其工具管理。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
+      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS設備由其工具管理。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</guid>
       <pubDate>Tue, 06 Aug 2024 04:25:45 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 05 Aug 2024 19:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>隨著投訴聲越來越大，另一家律師事務所就 Raptor Lake CPU 故障向英特爾發動攻擊</title>
+      <title>隨著投訴聲越來越大，另一家律師事務所因 Raptor Lake CPU 故障而指責英特爾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</link>
       <description><![CDATA[與此同時，一家精品PC 製造商表示英特爾甚至不需要追求高時脈速度 另一家律師事務所表示正在調查針對英特爾的潛在集體訴訟，因為Raptor Lake CPU 所有者越來越多抱怨晶片不穩定和故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/another_law_firm_piles_on/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 05 Aug 2024 15:47:58 GMT</pubDate>
     </item>
     <item>
-      <title>Snakeky SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
+      <title>Snakey SnakeKeylogger 潛入 Windows 收件匣竊取敏感機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</link>
       <description><![CDATA[惡意軟體會記錄使用者的按鍵、竊取憑證、竊取資料 犯罪分子再次對Windows 用戶進行攻擊，這次是為了使用鍵盤記錄器攻擊他們，該鍵盤記錄器還可以竊取憑證並截取螢幕截圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/snakekeylogger_malware_windows/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>第二位患者接受 Neuralink 植入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</link>
-      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作。]]></description>
+      <description><![CDATA[目前，幾乎一半的電極正在工作 根據公司老闆 Elon Musk 的說法，其Neuralink 植入物現已在第二名患者身上發揮作用，而這一次，該設備的電極幾乎一半正在工作…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/second_patient_receives_the_neuralink/</guid>
       <pubDate>Mon, 05 Aug 2024 12:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Punkt MC02：與瑞士銀行帳戶一樣私密且昂貴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/mc02_swiss_private_phone/</link>
-      <description><![CDATA[一款具有額外安全性的去谷歌Android 手機- 以及訂閱 Punkt 在其極簡技術套件陣容中添加了一個fondleslab，具有非常不尋常的Android 構建- 以及高昂的價格標籤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/mc02_swiss_private_phone/</guid>
-      <pubDate>Mon, 05 Aug 2024 11:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
