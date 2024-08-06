@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 12:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 13:34:52 GMT</lastBuildDate>
+    <item>
+      <title>每天需要在全球移動 1.2 艾字節嗎？只是埃芬戈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_effingo/</link>
+      <description><![CDATA[這就是Google 所稱的在數十個叢集上運行的大規模平行資料複製服務 Sigcomm 2024 Google 公佈了其內部資料傳輸工具Effingo 的技術細節，並吹噓它使用該項目平均每天移動 1.2 艾字節。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_effingo/</guid>
+      <pubDate>Tue, 06 Aug 2024 13:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>使用者呼籲微軟更新 Outlook 的友善名稱功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：Oracle 躋身第二梯隊供應商 企業在雲端基礎設施服務上的支出持續成長，目前每季接近800 億美元，三巨頭繼續佔據主導地位，Oracle 成為雲端基礎設施服務的領導者第二層提供者......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/cloud_market_grows_22_percent/</guid>
       <pubDate>Mon, 05 Aug 2024 18:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>2.9B 個人記錄的網路竊盜？集體訴訟迫在眉睫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/05/national_public_data_lawsuit/</link>
-      <description><![CDATA[背景調查公司被指控疏忽 一項訴訟指控佛羅裡達州的一家資料經紀人粗心地未能保護數十億條人們的私人資訊記錄，這些記錄隨後被從該公司竊取並出售給網路犯罪分子市場... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/05/national_public_data_lawsuit/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
