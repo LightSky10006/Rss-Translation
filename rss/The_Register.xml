@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 08:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 10:12:07 GMT</lastBuildDate>
+    <item>
+      <title>EQT 收購瑞士網路安全公司 Acronis 的多數股權</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/eqt_buys_shares_acronis/</link>
+      <description><![CDATA[整個公司的估值相當於3.5B+ 美元，儘管出售的部分未具體說明 Acronis 是一家由瑞士災難復原公司轉變為網路安全公司和託管服務提供商的包羅萬象的公司，其大部分股權已被歐洲公司收購最大的私募股權公司 EQT...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/eqt_buys_shares_acronis/</guid>
+      <pubDate>Wed, 07 Aug 2024 10:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究支持者：敏捷的災難性後果過於強調新功能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/agile_catastrophes_risk_undermining_the/</link>
+      <description><![CDATA[使用者只想要有用的東西。這有多難？但在裁員和重組的時代同時實現這兩個目標，往好裡說是具有挑戰性，往壞了說是不可能的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/agile_catastrophes_risk_undermining_the/</guid>
+      <pubDate>Wed, 07 Aug 2024 09:35:15 GMT</pubDate>
+    </item>
     <item>
       <title>英國醫療服務呼叫處理供應商因 2022 年勒索軟體攻擊面臨 770 萬美元罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/ico_plans_to_fine_nhs/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[專注於驅動器模型，以評估其在使用壽命內發生故障的頻率 Backblaze 發布了最新報告，詳細介紹了為其儲存和備份服務提供支援的多種驅動器的故障率，並正在尋找了解最近的數據趨勢，並考慮人工智慧是否可以降低這些故障率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/backblaze_sees_drive_failure_rates/</guid>
       <pubDate>Tue, 06 Aug 2024 15:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>不良應用程式使用新公佈的技巧繞過 Windows 安全警報六年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/bad_apps_bypass_windows_security/</link>
-      <description><![CDATA[Windows SmartScreen 和智慧型應用程式控制都有需要警惕的弱點 Elastic Security Labs 揭露了攻擊者可以使用的一系列方法，這些攻擊者可以在不觸發Windows 安全性的情況下運行惡意應用程式警告，其中一個已使用六年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/bad_apps_bypass_windows_security/</guid>
-      <pubDate>Tue, 06 Aug 2024 14:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>每天需要在全球移動 1.2 艾字節嗎？只是埃芬戈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_effingo/</link>
-      <description><![CDATA[這就是Google 所稱的在數十個叢集上運行的大規模平行資料複製服務 Sigcomm 2024 Google 公佈了其內部資料傳輸工具Effingo 的技術細節，並吹噓它使用該項目平均每天移動 1.2 艾字節。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_effingo/</guid>
-      <pubDate>Tue, 06 Aug 2024 13:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
