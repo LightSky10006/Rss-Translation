@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 06:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:41:03 GMT</lastBuildDate>
+    <item>
+      <title>Supermicro 執行長透露六個月內建置或升級資料中心的服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/supermicro_q4_2024/</link>
+      <description><![CDATA[年收入翻倍，但警告說，等到Nvidia Blackwell 3 月再實現這一目標將很困難 Supermicro 已經提出了一種資料中心建設方法，執行長梁見後聲稱可以在六個月內建造一個小型穀倉，或者將建造更大房屋的時間從三年縮短到兩年。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/supermicro_q4_2024/</guid>
+      <pubDate>Wed, 07 Aug 2024 06:26:13 GMT</pubDate>
+    </item>
     <item>
       <title>韓國迫使電子商務市場更快地向供應商付款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/korea_ecommerce_payment_policy/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>SharpRhino 惡意軟體以 IT 管理員為目標——獵人國際幫派懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</link>
-      <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
+      <description><![CDATA[Fake Angry IP Scanner 會讓您憤怒- 或者可能會提醒您Hive 團夥是如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</guid>
       <pubDate>Wed, 07 Aug 2024 05:29:14 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>微軟反擊達美航空及其法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[每個GPU 每年4,500 美元加起來很快- 如果按小時付費的話，速度會更快 評價 隨著人工智慧的蓬勃發展，Nvidia 的收入猛增以至於它短暫地成為世界上最有價值的公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/nvidia_software_empire/</guid>
       <pubDate>Tue, 06 Aug 2024 11:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽車貿易數據顯示，電動車持續成長，但私人買家正在轉向</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/evs_up_car_regs_uk/</link>
-      <description><![CDATA[混合動力車在英國追趕純電池車，但目前汽油仍是王道 汽車製造商和貿易商協會 (SMMT) 發布的英國數據顯示，儘管銷量新型電動車的數量正在增加，私人買家卻敬而遠之。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/evs_up_car_regs_uk/</guid>
-      <pubDate>Tue, 06 Aug 2024 10:42:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
