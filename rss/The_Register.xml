@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 04:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 04:38:14 GMT</lastBuildDate>
+    <item>
+      <title>華為雲端建構了一個非常敏感的網路監視器，可以發現單一故障晶片的影響</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/huawei_cloud_rd_probe/</link>
+      <description><![CDATA[專注於實體連接埠幫助發現了100,000 台交換器和100 萬台伺服器的問題 Sigcomm 2024  華為雲端開發了一種網路監控工具，當在生產中使用時，該工具在三個交換機上使用它自己的區域，能夠比現有工具觀察更多的基礎設施，並揭示以前逃避人類努力的問題。 -#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/huawei_cloud_rd_probe/</guid>
+      <pubDate>Wed, 07 Aug 2024 04:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>喬治亞州的選民入口網站接受了客戶與後端輸入驗證的速成課程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/security_flaw_and_data_leak/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>微軟反擊達美航空及其法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>你們都喜歡人工智慧，對吧？為 Nest 相機、Google Assistant 中的 Gemini 做好準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_upgrades_nest_cameras_and/</link>
-      <description><![CDATA[您打算用 TV Streamer 取代 Chromecast 嗎？偉大的！對於不斷發展的格局來說，這是合乎邏輯的一步… Google的Gemini AI 正在進入Nest 攝影機和Google Assistant，這家網路巨頭聲稱此次升級將使其智慧型裝置變得更加智慧。]]></description>
+      <description><![CDATA[您打算用 TV Streamer 取代 Chromecast 嗎？偉大的！對於不斷發展的格局來說，這是合乎邏輯的一步... Google的Gemini AI 正在進入Nest 相機和Google Assistant，這家網路巨頭聲稱此次升級將使其智慧型裝置變得更智能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_upgrades_nest_cameras_and/</guid>
       <pubDate>Tue, 06 Aug 2024 22:13:58 GMT</pubDate>
     </item>
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>谷歌揭露了 Android 核心漏洞等裝置劫持漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</link>
-      <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個Android 修復程序，其中一個針對行動作業系統中的Linux核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
+      <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個針對Android 的修復程序，其中一個針對行動作業系統中的Linux 核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</guid>
       <pubDate>Tue, 06 Aug 2024 18:23:57 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 06 Aug 2024 17:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>Sonic Automotive 表示與勒索軟體相關的 CDK 軟體中斷造成 3,000 萬美元損失</title>
+      <title>Sonic Automotive 稱與勒索軟體相關的 CDK 軟體中斷造成 3,000 萬美元損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sonic_automotive_says_cdk_disruption/</link>
       <description><![CDATA[苦難愛公司- 所有競爭對手也都受到了負面影響 美國最大的汽車經銷商之一表示，CDK Global 6 月份的勒索軟體攻擊造成IT 中斷，造成其損失約3000萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sonic_automotive_says_cdk_disruption/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Backblaze 發現硬碟故障率上升，詢問人工智慧是否可以提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/backblaze_sees_drive_failure_rates/</link>
-      <description><![CDATA[專注於驅動器模型，以評估其在使用壽命內發生故障的頻率 Backblaze 發布了最新報告，詳細介紹了為其儲存和備份服務提供支援的多種驅動器的故障率，並正在尋找查看最近的數據趨勢，並考慮人工智慧是否可以降低這些故障率。]]></description>
+      <description><![CDATA[專注於驅動器模型，以評估其在使用壽命內發生故障的頻率 Backblaze 發布了最新報告，詳細介紹了為其儲存和備份服務提供支援的多種驅動器的故障率，並正在尋找了解最近的數據趨勢，並考慮人工智慧是否可以降低這些故障率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/backblaze_sees_drive_failure_rates/</guid>
       <pubDate>Tue, 06 Aug 2024 15:25:12 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>使用者呼籲微軟更新 Outlook 的友善名稱功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</link>
-      <description><![CDATA[Outlook 中存在一個奇怪的現象，它讓網路釣魚者和詐騙者能夠進入收件匣 用戶敦促Microsoft 重新考慮如何在Outlook 中顯示寄件者電子郵件地址，因為網絡釣魚犯罪分子正在利用這些有用的、友好的名稱來提供帶有惡意意圖的電子郵件。]]></description>
+      <description><![CDATA[Outlook 中存在一個奇怪的現象，它讓網路釣魚者和詐騙者能夠進入收件匣 用戶敦促Microsoft 重新考慮如何在Outlook 中顯示寄件者電子郵件地址，因為網絡釣魚犯罪分子正在利用這些有用的、友善的名稱來提供帶有惡意意圖的電子郵件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/users_call_for_microsoft_to/</guid>
       <pubDate>Tue, 06 Aug 2024 12:18:10 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>戴爾進行新一輪裁員，同時尋求解鎖現代人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</link>
-      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已進行了另一輪裁員，The Register 了解到，裁員規模已經很深，甚至連公司資深人士都受到了影響放手...... ]]></description>
+      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已進行了另一輪裁員，據The Register了解，裁員規模已經很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</guid>
       <pubDate>Tue, 06 Aug 2024 08:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 網路應用程式商店警告 uBlock Origin 即將終結</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</link>
-      <description><![CDATA[您會看到Lite 版嗎？程式可能很快就會停止工作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/chrome_web_store_warns_end/</guid>
-      <pubDate>Tue, 06 Aug 2024 07:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
