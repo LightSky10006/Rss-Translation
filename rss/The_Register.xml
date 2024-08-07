@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 05:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 06:16:04 GMT</lastBuildDate>
+    <item>
+      <title>韓國迫使電子商務市場更快地向供應商付款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/korea_ecommerce_payment_policy/</link>
+      <description><![CDATA[平台停止付款後欠下數十億美元，導致數千家中小企業陷入現金流緊縮 韓國政府將縮短電子商務市場平台必須清算的期限（從60 天縮短到40天），以確保小賣家不會陷入現金短缺。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/korea_ecommerce_payment_policy/</guid>
+      <pubDate>Wed, 07 Aug 2024 05:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>SharpRhino 惡意軟體以 IT 管理員為目標——獵人國際幫派懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</link>
-      <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用攻擊代碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
+      <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</guid>
       <pubDate>Wed, 07 Aug 2024 05:29:14 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>CrowdStrike 聘請外部安全機構來審查有問題的 Falcon 代碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</link>
-      <description><![CDATA[並揭示了導致850 萬個Windows 盒子變磚的小錯誤 CrowdStrike 已聘請兩家外部安全公司來審查上個月引發全球IT 中斷的Falcon 功能- 但可能不會有太多問題找到，因為 CrowdStrike 已經發現了導致崩潰的簡單錯誤。]]></description>
+      <description><![CDATA[並揭示了導致850 萬個Windows 盒子變磚的小錯誤 CrowdStrike 已聘請兩家外部安全公司來審查其威脅檢測套件Falcon，該套件上個月引發了全球IT 中斷- 儘管它可能沒有有很多東西需要找到，因為 CrowdStrike 已經發現了導致崩潰的簡單錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</guid>
       <pubDate>Wed, 07 Aug 2024 00:18:49 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[混合動力車在英國追趕純電池車，但目前汽油仍是王道 汽車製造商和貿易商協會 (SMMT) 發布的英國數據顯示，儘管銷量新型電動車的數量正在增加，私人買家卻敬而遠之。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/evs_up_car_regs_uk/</guid>
       <pubDate>Tue, 06 Aug 2024 10:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordStar 7，最後一個 DOS 版本，免費重新發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/wordstar_7_the_last_ever/</link>
-      <description><![CDATA[Arthur C Clarke、Anne Rice 和 George R R Martin 的首選工具 在 WordPerfect 之前，最受歡迎的工作處理器是 WordStar。現在，最後一個 DOS 版本已被其最大的粉絲之一捆綁並免費釋放。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/wordstar_7_the_last_ever/</guid>
-      <pubDate>Tue, 06 Aug 2024 09:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
