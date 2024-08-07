@@ -4,16 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 18:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:39:10 GMT</lastBuildDate>
     <item>
       <title>AWS「桶壟斷」攻擊可能導致帳戶完全被接管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</link>
-      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 至少六種 AWS 雲端服務中的關鍵缺陷可能允許攻擊者執行遠端程式碼、竊取資料甚至接管用戶帳戶根據今天在Black Hat 上發表的研究，在他們不知情的情況下...]]></description>
+      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六項AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，在用戶不知情的情況下竊取資料甚至接管用戶的帳戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</guid>
       <pubDate>Wed, 07 Aug 2024 18:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>安全研究人員表示，你的 Windows 更新都可以撤銷</title>
+      <title>安全研究人員表示，你的 Windows 更新都可以降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/your_windows_updates_can_all/</link>
       <description><![CDATA[您認為BlackLotus 是令人頭痛的事情 黑帽  SafeBreach 的安全研究人員發現，他們所說的Windows 降級攻擊是隱形的、持久的、不可逆轉的，也許比去年的 BlackLotus UEFI bootkit 更危險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/your_windows_updates_can_all/</guid>
