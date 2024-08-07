@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 02:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:12:59 GMT</lastBuildDate>
     <item>
-      <title>微軟反擊達美航空的法律威脅</title>
+      <title>日本 Fugaku 超級電腦以虛擬版本發布，在 AWS 中運行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</link>
+      <description><![CDATA[Graviton 處理器幫助 RIKEN 實現 HPC 世界統治 日本 RIKEN 計算科學中心推出了可以部署在 AWS 中的 Fugaku 超級電腦的虛擬版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riken_offers_virtual_fugaku_supercomputer/</guid>
+      <pubDate>Wed, 07 Aug 2024 02:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟反擊達美航空及其法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[名為「Roman Boss」的小伙子被指控在加密貨幣洗錢機構工作 Cryptonator（線上數位錢包和加密貨幣交易所）的用戶上週末在該服務被關閉後收到了一個不愉快的驚喜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/cryptonator_closure_international_operation/</guid>
       <pubDate>Tue, 06 Aug 2024 06:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本停止透過報紙讀者的輕鬆程度來衡量火車擁擠程度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/japan_train_crowding_measurement/</link>
-      <description><![CDATA[智慧型手機再來襲！在您的幫助下，監管標準局也可能如此 日本國土交通省改變了衡量火車擁擠程度的方式，放棄了數十年來基於報紙和雜誌的衡量標準...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/japan_train_crowding_measurement/</guid>
-      <pubDate>Tue, 06 Aug 2024 05:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
