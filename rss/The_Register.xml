@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 06 Aug 2024 23:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 00:52:55 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 聘請外部安全公司來審查 Falcon 代碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</link>
+      <description><![CDATA[並揭示了導致850 萬個Windows 盒子變磚的小錯誤 CrowdStrike 已聘請兩家外部安全公司來審查上個月引發全球IT 中斷的Falcon 傳感器代碼- 但它可能不會造成可怕的後果有很多東西可以找到，因為 CrowdStrike 已經確定了導致該事件的簡單錯誤。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:18:49 GMT</pubDate>
+    </item>
     <item>
       <title>Twitter 告訴廣告商自己去 fsck，現在起訴他們關閉 fsck</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/twitter_rumble_wfa_musk/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>戴爾進行新一輪裁員，同時尋求解鎖現代人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</link>
-      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已經進行了另一輪裁員，The Register 了解到，裁員規模已經很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
+      <description><![CDATA[人力資源部顯然因試圖在一天內解僱12,500 名員工而不知所措 戴爾已進行了另一輪裁員，據The Register了解，裁員規模已經很深，甚至連公司資深人士都看到了裁員的情況放手...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/dell_layoffs/</guid>
       <pubDate>Tue, 06 Aug 2024 08:33:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>MDM 供應商 Mobile Guardian 遭到攻擊，導致 13,000 台裝置被遠端擦除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</link>
-      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除該軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS 裝置由其工具管理，但目前無法使用。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
+      <description><![CDATA[新加坡教育部在發生一系列混亂後下令刪除軟體 英國行動裝置管理供應商Mobile Guardian 承認，8 月4 日遭遇了一次安全事件，涉及未經授權存取iOS 和ChromeOS設備由其工具管理，但目前不可用。在新加坡，該事件導致 13,000 台設備被遠端擦除，並導致該國教育部切斷了與供應商的聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/mobile_guardian_mdm_attack/</guid>
       <pubDate>Tue, 06 Aug 2024 04:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星工會命令會員重返工作崗位，並從「戰術過渡」到持續行動</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/samsung_union_rto/</link>
-      <description><![CDATA[行動並沒有阻止財閥開始大規模生產新型行動記憶體 韓國工會三星工人無限期罷工（該公司有史以來第一次罷工）大約四個星期後，工會指示會員從週一開始返回工作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/samsung_union_rto/</guid>
-      <pubDate>Tue, 06 Aug 2024 03:35:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
