@@ -4,11 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 17:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 18:14:42 GMT</lastBuildDate>
+    <item>
+      <title>AWS「桶壟斷」攻擊可能導致帳戶完全被接管</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</link>
+      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 至少六種 AWS 雲端服務中的關鍵缺陷可能允許攻擊者執行遠端程式碼、竊取資料甚至接管用戶帳戶根據今天在Black Hat 上發表的研究，在他們不知情的情況下...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全研究人員表示，你的 Windows 更新都可以撤銷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/your_windows_updates_can_all/</link>
+      <description><![CDATA[您認為BlackLotus 是令人頭痛的事情 黑帽  SafeBreach 的安全研究人員發現，他們所說的Windows 降級攻擊是隱形的、持久的、不可逆轉的，也許比去年的 BlackLotus UEFI bootkit 更危險。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/your_windows_updates_can_all/</guid>
+      <pubDate>Wed, 07 Aug 2024 18:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴 T-Head C910 RISC-V CPU 中的錯誤指令破壞了所有安全性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
-      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員已經在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 html&#39; --&gt;]]></description>
+      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
       <pubDate>Wed, 07 Aug 2024 17:00:15 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>英國監管機構否決了 HPE 對瞻博網路 14B 美元的收購報價</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/hpes_14b_bid_for_juinper/</link>
-      <description><![CDATA[調查於6 月開始，8 月結束，無需企業遊說（您聽說過微軟嗎？） 英國競爭監管機構— — 通常是擬議中的全球科技收購的美中不足— —已批准惠普企業 (Hewlett Packard Enterprise) 以 140 億美元收購競爭對手瞻博網路 (Juniper Networks)。]]></description>
+      <description><![CDATA[調查於6 月開始，8 月結束，無需企業遊說（您聽說過微軟嗎？） 英國的競爭監管機構— — 通常是擬議中的全球科技收購的美中不足— — 已批准惠普企業 (Hewlett Packard Enterprise) 以 140 億美元收購競爭對手瞻博網路 (Juniper Networks)。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/hpes_14b_bid_for_juinper/</guid>
       <pubDate>Wed, 07 Aug 2024 14:31:01 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 07 Aug 2024 08:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾：我們的資產負債表已是一片廢墟，但我們認為我們的新晶片有效</title>
+      <title>英特爾：我們的資產負債表已是冒煙的廢墟，但我們認為我們的新晶片有效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/intel_boots_18a_chips/</link>
       <description><![CDATA[18A 製程提供可啟動的Panther Lake AI PC 處理器和Clearwater Forest 伺服器晶片 英特爾已經告訴世界，其引以為傲的18A 製造工藝是有效的- 至少在早期測試中....但宣布的細節很少。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/intel_boots_18a_chips/</guid>
@@ -99,7 +113,7 @@
     <item>
       <title>SharpRhino 惡意軟體以 IT 管理員為目標——獵人國際幫派懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</link>
-      <description><![CDATA[Fake Angry IP Scanner 會讓您憤怒- 或者可能會提醒您Hive 團夥是如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
+      <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</guid>
       <pubDate>Wed, 07 Aug 2024 05:29:14 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>微軟反擊達美航空及其法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 聘請外部安全機構來審查有問題的 Falcon 代碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</link>
-      <description><![CDATA[並揭示了導致850 萬個Windows 盒子變磚的小錯誤 CrowdStrike 已聘請兩家外部安全公司來審查其威脅檢測套件Falcon，該套件上個月引發了全球IT 中斷- 儘管它可能沒有有很多東西需要找到，因為 CrowdStrike 已經發現了導致崩潰的簡單錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</guid>
-      <pubDate>Wed, 07 Aug 2024 00:18:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 告訴廣告商自己去 fsck，現在起訴他們關閉 fsck</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/twitter_rumble_wfa_musk/</link>
-      <description><![CDATA[執行長聲稱「非法抵制」是對馬斯克版本的言論自由的攻擊 Twitter 今天起訴世界廣告商聯合會削減開支，據稱該聯合會的成員控制著全球約90% 的行銷支出他們在社交網路上的廣告- 或在大多數情況下完全拉動它們。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/twitter_rumble_wfa_musk/</guid>
-      <pubDate>Tue, 06 Aug 2024 23:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
