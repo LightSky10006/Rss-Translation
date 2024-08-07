@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 12:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 13:35:01 GMT</lastBuildDate>
+    <item>
+      <title>CSS 的小調整可以幫助惡意電子郵件穿過 Outlook 的反網絡釣魚網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/small_css_tweaks_can_help/</link>
+      <description><![CDATA[簡單的HTML 更改，警告就會消失！  研究人員表示，網路犯罪分子可以透過一些簡單的CSS 調整來繞過Microsoft 在Outlook 中的反網路釣魚措施之一。 ..  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/small_css_tweaks_can_help/</guid>
+      <pubDate>Wed, 07 Aug 2024 13:23:07 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署延後國際太空站任務，為星際客機分析爭取時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/nasa_pushes_back_iss_missions/</link>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 07 Aug 2024 08:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾：我們的資產負債表已是一片廢墟，但我們認為我們的新晶片有效</title>
+      <title>英特爾：我們的資產負債表已是冒煙的廢墟，但我們認為我們的新晶片有效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/intel_boots_18a_chips/</link>
       <description><![CDATA[18A 製程提供可啟動的Panther Lake AI PC 處理器和Clearwater Forest 伺服器晶片 英特爾已經告訴世界，其引以為傲的18A 製造工藝是有效的- 至少在早期測試中....但宣布的細節很少。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/intel_boots_18a_chips/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>SharpRhino 惡意軟體以 IT 管理員為目標——獵人國際幫派懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</link>
-      <description><![CDATA[Fake Angry IP Scanner 會讓您憤怒- 或者可能會提醒您Hive 團夥是如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
+      <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</guid>
       <pubDate>Wed, 07 Aug 2024 05:29:14 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>微軟反擊達美航空及其法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[高通解決了其產品中的「永久拒絕服務」缺陷 Google在8 月的安全修補程式批次中發布了46 個針對Android 的修復程序，其中一個針對行動作業系統中的Linux 核心缺陷，該缺陷可能導致遠端程式碼執行（RCE）......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/google_fixes_linux_kernal_rce/</guid>
       <pubDate>Tue, 06 Aug 2024 18:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員表示，SAP Core AI 漏洞允許存取內部網路伺服器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sap_core_ai_bugs_granted/</link>
-      <description><![CDATA[Wiz infoseccers 能夠將自己從卑微的客戶提升為成熟的管理員 黑帽  SAP 核心AI 服務中的缺陷創建了通往客戶私人資料的門戶，包括程式碼和培訓材料，直到今年早些時候修補它們。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/sap_core_ai_bugs_granted/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:32:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
