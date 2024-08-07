@@ -4,16 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 02:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 02:48:38 GMT</lastBuildDate>
     <item>
       <title>微軟反擊達美航空的法律威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</link>
-      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空公司的指控標記為“錯誤”，達美航空公司對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任」和「誤導」—並侮辱了運營商 IT 基礎設施的狀況。...]]></description>
+      <description><![CDATA[雷德蒙德表示，SatNad 本人曾向CrowdStrike 提供恢復幫助，然後暗示航空公司的IT 一片混亂 微軟已將達美航空的指控標記為“錯誤”，達美航空對CrowdStrike 有缺陷的軟體造成的服務中斷負有部分責任。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/microsoft_delta_fight/</guid>
       <pubDate>Wed, 07 Aug 2024 01:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 聘請外部安全機構來審查 Falcon 代碼</title>
+      <title>CrowdStrike 聘請外部安全機構來審查有問題的 Falcon 代碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</link>
       <description><![CDATA[並揭示了導致850 萬個Windows 盒子變磚的小錯誤 CrowdStrike 已聘請兩家外部安全公司來審查上個月引發全球IT 中斷的Falcon 功能- 但可能不會有太多問題找到，因為 CrowdStrike 已經發現了導致崩潰的簡單錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/crowdstrike_full_incident_root_cause_analysis/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>AMD 希望透過新程式碼釋放 MI300 的全部潛力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</link>
-      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了ROCm 的最新版本，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
+      <description><![CDATA[開發人員受邀使用ROCm，以FP8 精度進行量化，讓他們心滿意足 AMD 今天發布了最新版本的ROCm，聲稱改進後的軟體將為其Instinct GPU 系列帶來強勁的性能提升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/06/amd_unleashes_mi300s_full_potential/</guid>
       <pubDate>Tue, 06 Aug 2024 20:42:15 GMT</pubDate>
     </item>
