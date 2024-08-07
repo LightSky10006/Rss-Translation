@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 07 Aug 2024 22:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 23:11:11 GMT</lastBuildDate>
+    <item>
+      <title>infosec duo 表示，具有不安全 SSH 服務的設備無所不在</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/vulnerable_ssh_implementations_are_everywhere/</link>
+      <description><![CDATA[「偶然」的發現可能會讓您重新猜測您的設備 黑帽 攻擊面管理公司runZero 的安全研究人員在深入研究xz 時發生了一件有趣的事情今年早些時候的後門：他們發現了一大堆由於安全或實施不力的 SSH 服務而產生的漏洞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/vulnerable_ssh_implementations_are_everywhere/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 最新桌上型 CPU 再次降價，英特爾準備反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/amds_latest_desktop_cpus_feature/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Fake Angry IP Scanner 會讓您感到憤怒- 或者可能會提醒您Hive 團夥如何從事其平庸的業務 來自新興犯罪團夥Hunters International 的最新惡意軟體似乎以網絡管理員為目標，使用惡意程式碼偽裝成流行的網路工具 Angry IP Scanner。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/sharprhino_malware_admins/</guid>
       <pubDate>Wed, 07 Aug 2024 05:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為雲端建構了一個非常敏感的網路監視器，可以發現單一故障晶片的影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/huawei_cloud_rd_probe/</link>
-      <description><![CDATA[專注於實體連接埠幫助發現了100,000 台交換器和100 萬台伺服器的問題 Sigcomm 2024  華為雲端開發了一種網路監控工具，當在生產中使用時，該工具在三個交換機上使用它自己的區域，能夠比現有工具觀察更多的基礎設施，並揭示以前逃避人類努力的問題。 -#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/huawei_cloud_rd_probe/</guid>
-      <pubDate>Wed, 07 Aug 2024 04:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
