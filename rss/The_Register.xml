@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 14:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 15:12:19 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi Pico 2 搭載（鼓式）RISC-V 內核</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/pi_pico_2_risc_v/</link>
+      <description><![CDATA[Beefier Arms 緊鄰RV 競爭對手CPU，讓我們一睹未來 對於RISC-V 粉絲來說，這是一個令人興奮的消息：隨著Pico 2 和Pico 2 的推出， Raspberry Pi 正在增加對開放ISA 的支援該公司的新型 RP2350 微控制器... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/pi_pico_2_risc_v/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>中國首選桌面Linux openKylin 2.0版本追趕AI PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/openkylin_2/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果事實證明災難太空艙載人返回的風險太大，官員們可能會求助於Elon 的SpaceX NASA 分享了更多細節，說明希望如何讓波音受損的Starliner 飛船及其兩名試飛員安全返回地球從國際太空站出發，如果災難太空艙被認為不適合載人返回。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/nasa_spacex_starliner/</guid>
       <pubDate>Wed, 07 Aug 2024 21:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>飽受批評的 Elon Musk 敦促他必須掌控 X 和現實——否則就辭職</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/elon_musk_chamber_progress/</link>
-      <description><![CDATA[進步商會撰寫公開信，敦促億萬富翁在英國騷亂中表現得更好 獨家  呼應英國政府和其他國家對社群媒體助長暴力的反對意見，科技商業倡議組織進步商會(Chamber of Progress) 敦促億萬富翁埃隆馬斯克(Elon Musk) 更加認真地對待他在X 的領導角色，如果不能這樣做，就辭職。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/elon_musk_chamber_progress/</guid>
-      <pubDate>Wed, 07 Aug 2024 20:18:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
