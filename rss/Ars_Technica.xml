@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 08 Aug 2024 14:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 16:39:35 GMT</lastBuildDate>
+    <item>
+      <title>一份新報告發現波音公司的火箭是由不合格的勞動力製造的</title>
+      <link>https://arstechnica.com/?p=2041826</link>
+      <description><![CDATA[美國宇航局拒絕因這些缺陷而對波音公司進行處罰。]]></description>
+      <guid>https://arstechnica.com/?p=2041826</guid>
+      <pubDate>Thu, 08 Aug 2024 16:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在 System76 的 Cosmic 上試一試，這是一款新的 Linux 桌面</title>
+      <link>https://arstechnica.com/?p=2041716</link>
+      <description><![CDATA[全新的桌面旨在透過平鋪、主題和更安全的 Rust 核心來吸引人。]]></description>
+      <guid>https://arstechnica.com/?p=2041716</guid>
+      <pubDate>Thu, 08 Aug 2024 15:30:32 GMT</pubDate>
+    </item>
     <item>
       <title>這款新型充電器可讓所有電動車無需轉接器即可充電</title>
       <link>https://arstechnica.com/?p=2041806</link>
-      <description><![CDATA[Omni Port 具有 Tesla 式 J3400 插頭和 CCS1 插頭。]]></description>
+      <description><![CDATA[Omni Port 具有 Tesla 型 J3400 插頭和 CCS1 插頭。]]></description>
       <guid>https://arstechnica.com/?p=2041806</guid>
       <pubDate>Thu, 08 Aug 2024 14:09:30 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[當司法部尋求結束谷歌的壟斷時，搜尋的未來會是什麼樣子。]]></description>
       <guid>https://arstechnica.com/?p=2041575</guid>
       <pubDate>Wed, 07 Aug 2024 18:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 15 Sequoia 讓您跳過更多障礙來停用 Gatekeeper 應用程式檢查</title>
-      <link>https://arstechnica.com/?p=2041568</link>
-      <description><![CDATA[但可以在 Mac 上運行的軟體類型並沒有改變。]]></description>
-      <guid>https://arstechnica.com/?p=2041568</guid>
-      <pubDate>Wed, 07 Aug 2024 18:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 考慮未來的搜尋廣告和付費內容</title>
-      <link>https://arstechnica.com/?p=2041507</link>
-      <description><![CDATA[營運長表示，目前的廣告負載相對「較輕」。]]></description>
-      <guid>https://arstechnica.com/?p=2041507</guid>
-      <pubDate>Wed, 07 Aug 2024 17:26:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
