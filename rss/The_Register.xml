@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 22:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 23:12:11 GMT</lastBuildDate>
+    <item>
+      <title>律師稱美國網路安全法過於模糊，無法保護人工智慧安全研究人員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</link>
+      <description><![CDATA[是否已註入提示來測試大型語言模型的安全性？最好打電話給Saul  黑帽 針對非法破壞電腦系統的現有美國法律不適應現代大語言模型(LLM)，並且可能會使研究人員因應有的行為而受到起訴三位哈佛大學學者表示，應該批准安全測試。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</guid>
+      <pubDate>Thu, 08 Aug 2024 23:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對CEO 打來的「無益且不合時宜」的電話不以為然，獵鷹製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「推卸責任」其軟體造成的 IT 崩潰 – CrowdStrike 執行長 George Kurtz 提供的支援太少、太晚了…]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[感謝二進位Brainbox 幫助推高了PC 和智慧型手機的價格 人工智慧基礎設施是一種熱門商品，它所依賴的高頻寬記憶體(HBM) 也是如此，推高了新興技術和技術的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</guid>
       <pubDate>Thu, 08 Aug 2024 06:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>ICANN 保留 .internal 供 DNS 等級的私人使用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/dot_internal_ratified/</link>
-      <description><![CDATA[Vint Cerf 透露 Google 已經使用了該字串，其他許多公司也是如此 互聯網名稱與數字地址分配機構 (ICANN) 已同意保留 .internal 頂級域名，以便它可以成為相當於將10.0.0.0、172.16.0.0 和192.168.0.0 IPv4 位址區塊用於內部網路。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/dot_internal_ratified/</guid>
-      <pubDate>Thu, 08 Aug 2024 05:42:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
