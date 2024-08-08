@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 20:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 21:11:02 GMT</lastBuildDate>
+    <item>
+      <title>美國「筆記型電腦農場」男子被指控將 IT 工作外包給北韓人以籌集武器資金</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/north_korea_laptop_farm_arrest/</link>
+      <description><![CDATA[美國和英國公司認為他們僱用了一名西方人，但據稱事實並非如此 聯邦調查局今天逮捕了一名田納西州男子，他涉嫌經營一家冒充西方人的“筆記型電腦農場”，吸引了朝鮮人，美國和英國公司的 IT 工作。據稱，這一騙局有助於籌集現金來資助平壤的武器計劃。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/north_korea_laptop_farm_arrest/</guid>
+      <pubDate>Thu, 08 Aug 2024 20:55:20 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾終於推出了一款新的汽車 GPU</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_a760a_gpu/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[此人向世界展示瞭如何透過適當的存取等級 黑帽  示範了從Windows 電腦上強制刪除安全性修補程式的技術，以便修復的漏洞再次被利用這週…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/microsoft_windows_updates/</guid>
       <pubDate>Thu, 08 Aug 2024 03:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASML 的高 NA EUV 晶片製造套件提供了安斯特羅姆時代的焦慮</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/imec_asml_na_uev_results/</link>
-      <description><![CDATA[Imec 測試顯示，荷蘭大師蝕刻機顯著提高了晶體管密度 研究組織Imec 聲稱，它已經證明了ASML 的下一代極端紫外線技術在下一代晶片製造中的可行性，展示了它如何創建圖案化的技術比以前更小的結構- 在一次傳遞中。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/imec_asml_na_uev_results/</guid>
-      <pubDate>Thu, 08 Aug 2024 03:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
