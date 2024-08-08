@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 10:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 10:37:22 GMT</lastBuildDate>
+    <item>
+      <title>報告：技術誤解困擾著 IT 世界</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</link>
+      <description><![CDATA[僅僅關閉網路攝影機快門並不能保證用戶的上網安全 新的研究表明，雖然許多英國人會以隱私的名義關閉筆記型電腦攝像頭，但令人擔憂的數量將與高興地將各種個人資訊放入線上遊戲中，以獲得可以與朋友分享的結果。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</guid>
+      <pubDate>Thu, 08 Aug 2024 10:31:15 GMT</pubDate>
+    </item>
     <item>
       <title>英國皇家鑄幣廠在電子廢棄物回收工作中開採多氯聯苯來提取貴金屬</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/uk_royal_mint_metals_pcbs/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>阿里巴巴 T-Head C910 RISC-V CPU 中的錯誤指令破壞了所有安全性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
-      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 &#39; --&gt;]]></description>
+      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員已經在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
       <pubDate>Wed, 07 Aug 2024 17:00:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[論文表明，其輻射度遠高於現有型號 天文學家和其他觀星者對光污染有了新的擔憂，因為有傳言稱，支持電話服務的星鏈最新衛星在天空中的亮度可能是其亮度的五倍現有的...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/low_orbit_satellites_for_phone/</guid>
       <pubDate>Wed, 07 Aug 2024 15:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國監管機構否決了 HPE 對瞻博網路 14B 美元的收購報價</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/hpes_14b_bid_for_juinper/</link>
-      <description><![CDATA[調查於6 月開始，8 月結束，無需企業遊說（您聽說過微軟嗎？） 英國的競爭監管機構— — 通常是擬議中的全球科技收購的美中不足— — 已批准惠普企業 (Hewlett Packard Enterprise) 以 140 億美元收購競爭對手瞻博網路 (Juniper Networks)。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/hpes_14b_bid_for_juinper/</guid>
-      <pubDate>Wed, 07 Aug 2024 14:31:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
