@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 13:34:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 14:10:52 GMT</lastBuildDate>
+    <item>
+      <title>在 Mac 上使用 1Password？如果您不想讓您的避難所遭到攻擊，請進行修補</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/using_1password_on_mac_patch/</link>
+      <description><![CDATA[數十萬用戶可能容易受到攻擊 密碼管理器1Password 警告所有運行8.10.36 之前版本的Mac 用戶都容易受到允許攻擊者竊取保管庫項目的錯誤的影響。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/using_1password_on_mac_patch/</guid>
+      <pubDate>Thu, 08 Aug 2024 13:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>CISA 主席表示，美國選舉從未如此安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/election_tech_is_fine_says/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[壞消息：事實並非如此，Windows 10 即將終止支援 根據對超過 750,000 個 Windows 端點的調查顯示，在 Windows 11 企業採用方面，微軟有一些好消息尚未運行這家科技巨頭最新作業系統的用戶中有88% 已準備好升級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/survey_windows_on_enterprise/</guid>
       <pubDate>Wed, 07 Aug 2024 18:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS「桶壟斷」攻擊可能導致帳戶完全被接管</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</link>
-      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六項AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，竊取數據，甚至在用戶不知情的情況下接管用戶的帳戶。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:05:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
