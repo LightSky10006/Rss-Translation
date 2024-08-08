@@ -4,13 +4,20 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 08 Aug 2024 20:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 20:34:49 GMT</lastBuildDate>
     <item>
       <title>Beyond Meat 在美國陷入停滯。歐洲可能是另一個故事</title>
       <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
       <description><![CDATA[這家曾經大肆宣傳的公司現在成為植物性肉類產業更廣泛低迷的最顯著受害者。]]></description>
       <guid>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</guid>
       <pubDate>Thu, 08 Aug 2024 19:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前 Max（又名 HBO Max）上的 40 部最佳節目（2024 年 8 月）</title>
+      <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
+      <description><![CDATA[《龍之家》、《黑道家族》和《工業》只是本月您需要在 Max 上觀看的幾個節目。]]></description>
+      <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
+      <pubDate>Thu, 08 Aug 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
       <title>微軟的人工智慧可以變成自動網路釣魚機器</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[迪士尼的串流媒體業務終於開始獲利。接下來：價格上漲和付費共享，這可能對迪士尼有利，但對其他人來說卻令人沮喪。]]></description>
       <guid>https://www.wired.com/story/disney-password-sharing-crackdown-coming-in-september/</guid>
       <pubDate>Wed, 07 Aug 2024 18:01:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 更新中的一個缺陷為殭屍漏洞打開了大門</title>
-      <link>https://www.wired.com/story/windows-update-downdate-exploit/</link>
-      <description><![CDATA[一名研究人員發現了一個漏洞，可以讓駭客策略性地降級目標的 Windows 版本，以重新暴露已修補的漏洞。 Microsoft 正在致力於修復該問題。]]></description>
-      <guid>https://www.wired.com/story/windows-update-downdate-exploit/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
