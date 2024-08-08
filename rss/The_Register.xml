@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 21:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 22:11:10 GMT</lastBuildDate>
+    <item>
+      <title>股價暴跌引發另一場法庭訴訟後，英特爾的法律困擾不斷增加</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_legal_trouble_mounts/</link>
+      <description><![CDATA[退休基金聲稱執行長、財務長掩蓋了錢坑代工廠的真相 在過去的幾周里，英特爾發現自己陷入了一系列法律麻煩，從慢慢燒壞的CPU 到指控它誤導了投資者關於晶片製造商的福祉。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_legal_trouble_mounts/</guid>
+      <pubDate>Thu, 08 Aug 2024 21:36:34 GMT</pubDate>
+    </item>
     <item>
       <title>美國「筆記型電腦農場」男子被指控將 IT 工作外包給北韓以資助武器計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/north_korea_laptop_farm_arrest/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學公司 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 08 Aug 2024 07:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧浪潮的興起提升了所有晶片的價格——HBM，當然，但記憶體和儲存的速度也變慢</title>
+      <title>人工智慧浪潮的興起提升了所有晶片的價格——HBM，當然，但記憶體和儲存速度也變慢了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</link>
       <description><![CDATA[感謝二進位Brainbox 幫助推高了PC 和智慧型手機的價格 人工智慧基礎設施是一種熱門商品，它所依賴的高頻寬記憶體(HBM) 也是如此，推高了新興技術和技術的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 08 Aug 2024 05:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>你願意從億萬富翁那裡購買太空寬頻，還是從共產中國購買？</title>
+      <title>您願意從億萬富翁還是共產中國購買太空寬頻？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</link>
       <description><![CDATA[北京首顆星鏈殺手已入軌，防火牆之外的買家已提上日程 中國第一批星鏈衛星－被稱為千帆星座，有時也稱為G60 – 於週二發射進入軌道。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</guid>
       <pubDate>Thu, 08 Aug 2024 03:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>受害者的 Windows PC 已完全打好補丁嗎？只需強制撤消其更新並利用即可</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/microsoft_windows_updates/</link>
-      <description><![CDATA[此人向世界展示瞭如何透過適當的存取等級 黑帽  示範了從Windows 電腦上強制刪除安全性修補程式的技術，以便修復的漏洞再次被利用這週…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/microsoft_windows_updates/</guid>
-      <pubDate>Thu, 08 Aug 2024 03:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
