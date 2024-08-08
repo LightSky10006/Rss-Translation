@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 10:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 12:20:39 GMT</lastBuildDate>
+    <item>
+      <title>諾基亞推出瑞士服務，從手機轉向無人機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</link>
+      <description><![CDATA[沒有透露價格，但該計劃允許用戶在不操作任何設備的情況下訂購不干涉航班 諾基亞已與瑞士電信廣播公司在瑞士各地的“無人機即服務”網絡上建立了聯繫，針對緊急服務和其他需要空中觀測的應用程式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</guid>
+      <pubDate>Thu, 08 Aug 2024 11:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>報告：技術誤解困擾著 IT 世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>阿里巴巴 T-Head C910 RISC-V CPU 中的錯誤指令破壞了所有安全性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
-      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員已經在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 html&#39; --&gt;]]></description>
+      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
       <pubDate>Wed, 07 Aug 2024 17:00:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在中國和美國，已有超過 350 萬輛汽車被召回 特斯拉已在中國召回其四款電動車，影響超過 160 萬輛汽車。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/tesla_recalls_over_16m_electric/</guid>
       <pubDate>Wed, 07 Aug 2024 16:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用於電話服務的低軌道衛星可能會造成更多光污染</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/low_orbit_satellites_for_phone/</link>
-      <description><![CDATA[論文表明，其輻射度遠高於現有型號 天文學家和其他觀星者對光污染有了新的擔憂，因為有傳言稱，支持電話服務的星鏈最新衛星在天空中的亮度可能是其亮度的五倍現有的...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/low_orbit_satellites_for_phone/</guid>
-      <pubDate>Wed, 07 Aug 2024 15:23:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
