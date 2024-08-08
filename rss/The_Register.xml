@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 12:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 12:53:13 GMT</lastBuildDate>
+    <item>
+      <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學公司 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
+      <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>諾基亞推出瑞士服務，從手機轉向無人機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>報告：技術誤解困擾著 IT 世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</link>
-      <description><![CDATA[僅僅關閉網路攝影機快門並不能保證用戶的上網安全 新的研究表明，雖然許多英國人會以隱私的名義關閉筆記型電腦攝像頭，但令人擔憂的數量將與高興地將各種個人資訊放入線上遊戲中，以獲得可以與朋友分享的結果。]]></description>
+      <description><![CDATA[僅僅關閉網路攝影機快門並不能保證用戶的上網安全 新研究表明，雖然許多英國人會以隱私的名義關閉筆記型電腦攝像頭，但令人擔憂的數量也同樣令人高興將各種個人資訊放入線上遊戲中，以獲得可以與朋友分享的結果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</guid>
       <pubDate>Thu, 08 Aug 2024 10:31:15 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 08 Aug 2024 07:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧浪潮的興起提升了所有晶片的價格——HBM，當然，但記憶體和儲存速度也變慢了</title>
+      <title>人工智慧浪潮的興起提升了所有晶片的價格——HBM，當然，但記憶體和儲存的速度也變慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</link>
       <description><![CDATA[感謝二進位Brainbox 幫助推高了PC 和智慧型手機的價格 人工智慧基礎設施是一種熱門商品，它所依賴的高頻寬記憶體(HBM) 也是如此，推高了新興技術和技術的價格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 08 Aug 2024 05:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>您願意從億萬富翁還是共產中國購買太空寬頻？</title>
+      <title>你願意從億萬富翁那裡購買太空寬頻，還是從共產中國購買？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</link>
       <description><![CDATA[北京首顆星鏈殺手已入軌，防火牆之外的買家已提上日程 中國第一批星鏈衛星－被稱為千帆星座，有時也稱為G60 – 於週二發射進入軌道。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 08 Aug 2024 01:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>三星將針對 Knox Vault 子系統漏洞的漏洞賞金提高到百萬美元</title>
+      <title>三星針對 Knox Vault 子系統的漏洞將漏洞賞金提高到百萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/samsung_microsoft_big_bug_bounty/</link>
       <description><![CDATA[祝你好運，破解者：這是一個孤立的處理器和存儲飛地，最高的收入僅來自遠程攻擊 三星已向成功攻破Knox Vault 的任何人懸賞其第一個100 萬美元的漏洞賞金 -這家韓國巨頭在其智慧型手機中內建了一個隔離子系統，用於存儲憑證等資訊並運行身份驗證例程。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/samsung_microsoft_big_bug_bounty/</guid>
@@ -120,30 +127,23 @@
     <item>
       <title>調查發現五分之四的企業端點可以執行 Windows 11</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/survey_windows_on_enterprise/</link>
-      <description><![CDATA[壞消息：事實並非如此，Windows 10 即將終止支援 根據對超過 750,000 個 Windows 端點的調查顯示，在 Windows 11 企業採用方面，微軟有一些好消息尚未運行這家科技巨頭最新作業系統的用戶中有88% 已準備好升級。]]></description>
+      <description><![CDATA[壞消息：事實並非如此，Windows 10 即將終止支援 根據對超過 750,000 個 Windows 端點的調查顯示，在 Windows 11 企業採用方面，微軟有一些好消息尚未運行這家科技巨頭最新作業系統的用戶中有88% 已做好升級準備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/survey_windows_on_enterprise/</guid>
       <pubDate>Wed, 07 Aug 2024 18:44:14 GMT</pubDate>
     </item>
     <item>
       <title>AWS「桶壟斷」攻擊可能導致帳戶完全被接管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</link>
-      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六項AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，竊取數據，甚至在用戶不知情的情況下接管用戶的帳戶。]]></description>
+      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六種AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，竊取數據，甚至在用戶不知情的情況下接管用戶的帳戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</guid>
       <pubDate>Wed, 07 Aug 2024 18:05:05 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴 T-Head C910 RISC-V CPU 中的錯誤指令破壞了所有安全性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</link>
-      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 &#39; --&gt;]]></description>
+      <description><![CDATA[讓我們開始物理、物理......我不想聽你的MMU 談話 黑帽 德國CISPA 亥姆霍茲資訊安全中心的電腦安全研究人員已經在阿里巴巴子公司T-Head Semiconductor 的一些RISC-V 處理器中發現嚴重的安全漏洞。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/riscv_business_thead_c910_vulnerable/</guid>
       <pubDate>Wed, 07 Aug 2024 17:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉因引擎蓋鎖故障在中國召回超過 160 萬輛電動車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/tesla_recalls_over_16m_electric/</link>
-      <description><![CDATA[在中國和美國，已有超過 350 萬輛汽車被召回 特斯拉已在中國召回其四款電動車，影響超過 160 萬輛汽車。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/tesla_recalls_over_16m_electric/</guid>
-      <pubDate>Wed, 07 Aug 2024 16:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
