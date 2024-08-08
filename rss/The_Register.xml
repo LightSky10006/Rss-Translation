@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 15:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 16:14:10 GMT</lastBuildDate>
+    <item>
+      <title>80 年前，IBM 向哈佛大學贈送了世界上最早的電腦之一</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/harvard_mark_1/</link>
+      <description><![CDATA[為了慶祝美國海軍資助的電磁奇蹟，即自動序列控制計算器 功能，八十年前，IBM 向哈佛大學贈送了世界上最早的計算機之一：自動序列控制計算器 (ASCC)，後來稱為哈佛 Mark I。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/harvard_mark_1/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:57:14 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi Pico 2 搭載（鼓式）RISC-V 內核</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/pi_pico_2_risc_v/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[全新 Ryzen 9000 處理器比 Ryzen 7000 同類產品便宜約 10% AMD 的下一代桌面 CPU 將於明天推出，並且價格將低於上一個系列。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/amds_latest_desktop_cpus_feature/</guid>
       <pubDate>Wed, 07 Aug 2024 21:58:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starliner最新消息：美國太空總署概述了營救被困在太空站的波音飛行員的方案</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/nasa_spacex_starliner/</link>
-      <description><![CDATA[如果事實證明災難太空艙載人返回的風險太大，官員們可能會求助於Elon 的SpaceX NASA 分享了更多細節，說明希望如何讓波音受損的Starliner 飛船及其兩名試飛員安全返回地球從國際太空站出發，如果災難太空艙被認為不適合載人返回。 html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/nasa_spacex_starliner/</guid>
-      <pubDate>Wed, 07 Aug 2024 21:22:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
