@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 04:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:16:42 GMT</lastBuildDate>
     <item>
-      <title>你願意從億萬富翁那裡購買太空寬頻，還是從共產中國購買？</title>
+      <title>ICANN 保留 .internal 供 DNS 等級的私人使用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/dot_internal_ratified/</link>
+      <description><![CDATA[Vint Cerf 透露 Google 已經使用了該字串，其他許多公司也是如此 互聯網名稱與數字地址分配機構 (ICANN) 已同意保留 .internal 頂級域名，以便它可以成為相當於將10.0.0.0、172.16.0.0 和192.168.0.0 IPv4 位址區塊用於內部網路。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/dot_internal_ratified/</guid>
+      <pubDate>Thu, 08 Aug 2024 05:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您願意從億萬富翁還是共產中國購買太空寬頻？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</link>
       <description><![CDATA[北京首顆星鏈殺手已入軌，防火牆之外的買家已提上日程 中國第一批星鏈衛星－被稱為千帆星座，有時也稱為G60 – 於週二發射進入軌道。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/china_qianfan_launch/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 08 Aug 2024 01:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>三星針對 Knox Vault 子系統的漏洞將漏洞賞金提高到百萬美元</title>
+      <title>三星將針對 Knox Vault 子系統漏洞的漏洞賞金提高到百萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/samsung_microsoft_big_bug_bounty/</link>
       <description><![CDATA[祝你好運，破解者：這是一個孤立的處理器和存儲飛地，最高的收入僅來自遠程攻擊 三星已向成功攻破Knox Vault 的任何人懸賞其第一個100 萬美元的漏洞賞金 -這家韓國巨頭在其智慧型手機中內建了一個隔離子系統，用於存儲憑證等資訊並運行身份驗證例程。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/samsung_microsoft_big_bug_bounty/</guid>
@@ -71,14 +78,14 @@
     <item>
       <title>調查發現五分之四的企業端點可以執行 Windows 11</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/survey_windows_on_enterprise/</link>
-      <description><![CDATA[壞消息：事實並非如此，Windows 10 即將終止支援 根據對超過 750,000 個 Windows 端點的調查顯示，在 Windows 11 企業採用方面，微軟有一些好消息尚未運行這家科技巨頭最新作業系統的用戶中有88% 已做好升級準備。]]></description>
+      <description><![CDATA[壞消息：事實並非如此，Windows 10 即將終止支援 根據對超過 750,000 個 Windows 端點的調查顯示，在 Windows 11 企業採用方面，微軟有一些好消息尚未運行這家科技巨頭最新作業系統的用戶中有88% 已準備好升級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/survey_windows_on_enterprise/</guid>
       <pubDate>Wed, 07 Aug 2024 18:44:14 GMT</pubDate>
     </item>
     <item>
       <title>AWS「桶壟斷」攻擊可能導致帳戶完全被接管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</link>
-      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六種AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，竊取數據，甚至在用戶不知情的情況下接管用戶的帳戶。]]></description>
+      <description><![CDATA[雲端業務已修復易受攻擊的服務，但開源專案仍面臨風險 黑帽 至少六項AWS 雲端服務中存在嚴重缺陷，可能允許攻擊者執行遠端程式碼根據今天在 Black Hat 上發布的研究，竊取數據，甚至在用戶不知情的情況下接管用戶的帳戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/aws_bucket_monopoly_attacks_could/</guid>
       <pubDate>Wed, 07 Aug 2024 18:05:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[整個公司的估值相當於3.5B+ 美元，儘管出售的部分未具體說明 Acronis 是一家由瑞士災難復原公司轉變為網路安全公司和託管服務提供商的包羅萬象的公司，其大部分股權已被歐洲公司收購最大的私募股權公司 EQT...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/eqt_buys_shares_acronis/</guid>
       <pubDate>Wed, 07 Aug 2024 10:06:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究支持者：敏捷的災難性後果過於強調新功能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/07/agile_catastrophes_risk_undermining_the/</link>
-      <description><![CDATA[使用者只想要有用的東西。這有多難？但在裁員和重組的時代同時實現這兩個目標，往好裡說是具有挑戰性，往壞了說是不可能的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/07/agile_catastrophes_risk_undermining_the/</guid>
-      <pubDate>Wed, 07 Aug 2024 09:35:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
