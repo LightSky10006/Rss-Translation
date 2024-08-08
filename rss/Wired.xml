@@ -4,11 +4,18 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 08 Aug 2024 10:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 11:10:51 GMT</lastBuildDate>
+    <item>
+      <title>觀看駭客的紅外線雷射如何監視您筆記型電腦的按鍵</title>
+      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
+      <description><![CDATA[駭客 Samy Kamkar 首次推出了他自己的開源版本雷射麥克風，這是一種間諜工具，可以透過窗戶無形地拾取家中的聲音，甚至是你正在輸入的文字。]]></description>
+      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
+      <pubDate>Thu, 08 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智慧存在「入店行竊」問題。這家新創公司的執行長有一個解決這個問題的計劃</title>
       <link>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</link>
-      <description><![CDATA[Bill Gross 的 ProRata 已與《時代》雜誌和環球音樂集團等合作夥伴達成了協議，該公司製定了一項讓人工智慧巨頭為內容付費的策略。]]></description>
+      <description><![CDATA[Bill Gross 的 ProRata 已與《時代》雜誌和環球音樂集團等合作夥伴達成協議，制定了讓人工智慧巨頭為內容付費的策略。]]></description>
       <guid>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</guid>
       <pubDate>Thu, 08 Aug 2024 10:30:00 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 06 Aug 2024 18:30:34 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克 (Elon Musk) 的 X 起訴廣告商涉嫌抵制</title>
+      <title>伊隆馬斯克 (Elon Musk) 的 X 起訴廣告商涉嫌抵制</title>
       <link>https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/</link>
       <description><![CDATA[該平台的反壟斷訴訟稱其涉嫌串謀扣留廣告費。右翼影片網站 Rumble 今天也提起了類似訴訟。]]></description>
       <guid>https://www.wired.com/story/elon-musk-x-twitter-rumble-sue-advertisers/</guid>
       <pubDate>Tue, 06 Aug 2024 17:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>打破破壞性關鍵基礎設施駭客循環的新計劃</title>
-      <link>https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/</link>
-      <description><![CDATA[隨著美國水、食品、醫療保健和其他重要部門面臨的數位威脅日益凸顯，一個名為 UnDisruptable27 的新計畫旨在幫助修復其他努力失敗的網路安全弱點。]]></description>
-      <guid>https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
