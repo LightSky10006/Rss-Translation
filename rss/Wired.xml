@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 08 Aug 2024 23:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 23:34:57 GMT</lastBuildDate>
+    <item>
+      <title>電腦崩潰報告是一個未開發的黑客金礦</title>
+      <link>https://www.wired.com/story/crash-reports-vulnerability-data/</link>
+      <description><![CDATA[一名駭客透過簡單的崩潰報告解決了 CrowdStrike 中斷之謎，並說明了有關這些關鍵文件所包含的潛在錯誤和漏洞的大量詳細資訊。]]></description>
+      <guid>https://www.wired.com/story/crash-reports-vulnerability-data/</guid>
+      <pubDate>Thu, 08 Aug 2024 23:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署尚未決定如何讓波音星際客機太空人回家</title>
       <link>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[倡導組織 PIRG 要求美國政府對商業網路衛星進行環境審查。該組織的新報告警告說，太空垃圾問題會對地球造成影響。]]></description>
       <guid>https://www.wired.com/story/pirg-starlink-environmental-review-space-garbage/</guid>
       <pubDate>Thu, 08 Aug 2024 07:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palmer Luckey 的國防新創公司 Anduril 籌集 15 億美元用於生產人工智慧武器</title>
-      <link>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</link>
-      <description><![CDATA[該公司計劃建造一座特斯拉式的軟體優化工廠，用於製造自主無人機和其他戰場技術。]]></description>
-      <guid>https://www.wired.com/story/anduril-palmer-luckey-funding-ai-drones-arsenal-factory/</guid>
-      <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 23:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 23:34:49 GMT</lastBuildDate>
+    <item>
+      <title>研究人員表示，勒索軟體組織在網路應用程式安全方面比你更好</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/ransomware_groups_are_better_at/</link>
+      <description><![CDATA[我們可以請開始認真對待這一問題嗎？  黑帽 人們希望，在多年來告訴企業保護其係統安全之後，企業將會比網路犯罪分子擁有更好的網路應用程式安全性。但本週在黑帽大會上發表的研究表明事實並非如此。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/ransomware_groups_are_better_at/</guid>
+      <pubDate>Thu, 08 Aug 2024 23:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>律師稱美國網路安全法過於模糊，無法保護人工智慧安全研究人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chipzilla 仍然有辦法阻止這些處理器自食其果 英特爾聲稱，它為不穩定的第 13 代和第 14 代 Raptor Lake CPU 提供的微代碼更新不會損害晶片的高端時脈速度... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/raptor_lake_microcode_fix_speed_impact/</guid>
       <pubDate>Thu, 08 Aug 2024 07:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧浪潮的興起提升了所有晶片的價格——HBM，當然，但記憶體和儲存速度也變慢了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</link>
-      <description><![CDATA[感謝二進位Brainbox 幫助推高了PC 和智慧型手機的價格 人工智慧基礎設施是一種熱門商品，它所依賴的高頻寬記憶體(HBM) 也是如此，推高了新興技術和技術的價格。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/memory_prices_rising/</guid>
-      <pubDate>Thu, 08 Aug 2024 06:24:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
