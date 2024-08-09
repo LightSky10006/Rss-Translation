@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 12:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:52:40 GMT</lastBuildDate>
+    <item>
+      <title>NASA NEOWISE 小行星觀測器最後一次關閉</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/nasas_asteroid_spotter_turned_off/</link>
+      <description><![CDATA[一項原本應該持續不到一年的任務卻持續了十多年 NASA 的東山再起，NEOWISE 航天器，本週最後一次關閉，因為它的發射器被關閉在今年稍後重返地球大氣層之前關閉。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/nasas_asteroid_spotter_turned_off/</guid>
+      <pubDate>Fri, 09 Aug 2024 12:32:14 GMT</pubDate>
+    </item>
     <item>
       <title>核心Python開發人員被停職三個月</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/core_python_developer_suspended_coc/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <description><![CDATA[無法從外部存取本機上某人的私人伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[MSI 甚至聲稱其所有LGA 1700 主機板將在月底前進行更新 英特爾兩家最大的主機板合作夥伴表示，他們的用戶接下來將開始接收新的BIOS 更新，其中包含Raptor Lake CPU 的關鍵微代碼補丁一週…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/raptor_lake_microcode_patch_arrives/</guid>
       <pubDate>Thu, 08 Aug 2024 17:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>80 年前，IBM 向哈佛大學贈送了世界上最早的電腦之一</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/harvard_mark_1/</link>
-      <description><![CDATA[為了慶祝美國海軍資助的電磁奇蹟，即自動序列控制計算器 功能，八十年前，IBM 向哈佛大學贈送了世界上最早的計算機之一：自動序列控制計算器 (ASCC)，後來稱為哈佛 Mark I。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/harvard_mark_1/</guid>
-      <pubDate>Thu, 08 Aug 2024 15:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
