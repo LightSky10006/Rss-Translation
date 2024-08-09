@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 22:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 23:11:31 GMT</lastBuildDate>
+    <item>
+      <title>谷歌研究人員在流行的高通行動 GPU 軟體中發現了近十二個缺陷</title>
+      <link>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</link>
+      <description><![CDATA[這些已修復的漏洞可能對攻擊者俱有新的吸引力，成為破壞手機的一種途徑。]]></description>
+      <guid>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA 剛剛拒絕了 MDMA 治療 PTSD 的申請</title>
+      <link>https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/</link>
+      <description><![CDATA[該機構已要求製藥商 Lykos Therapeutics 進行一項關於在創傷後壓力症候群患者中使用迷幻藥物的額外研究，從而將其下一項提案推遲了數年。]]></description>
+      <guid>https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:50:32 GMT</pubDate>
+    </item>
     <item>
       <title>諾亞·萊爾斯（Noah Lyles）的奧運跑步是新冠生活的新常態</title>
       <link>https://www.wired.com/story/noah-lyles-covid-olympics-new-normal/</link>
@@ -13,7 +27,7 @@
       <pubDate>Fri, 09 Aug 2024 22:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>ATM 軟體缺陷給那些知道查看的人留下了成堆的現金</title>
+      <title>ATM 軟體缺陷給任何知道查看的人留下了成堆的現金</title>
       <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
       <description><![CDATA[ATM 製造商 Diebold Nixdorf 廣受歡迎的 Vynamic 安全套件中的六個漏洞可能被利用，透過「相對簡單的攻擊」來控制 ATM。]]></description>
       <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
@@ -120,7 +134,7 @@
     <item>
       <title>他們如何評判 2024 年夏季奧運會的突破？與其說它是科學，不如說是藝術</title>
       <link>https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/</link>
-      <description><![CDATA[突破作為奧運項目首次在巴黎奧運會上亮相。為了實現這一目標，Breaking 社群必須找到一種方法來客觀地判斷主觀，同時讓舞蹈仍然是舞蹈。]]></description>
+      <description><![CDATA[打破在巴黎奧運會上首次作為奧運項目。為了實現這一目標，突破社區必須找到一種方法來客觀地判斷主觀，同時讓舞蹈仍然是舞蹈。]]></description>
       <guid>https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/</guid>
       <pubDate>Fri, 09 Aug 2024 07:30:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[自從在巴黎奧運開幕式上表演以來，變裝藝術家尼基·多爾 (Nicky Doll) 就一直受到惡搞者的追捕。現在，她發起反擊，起訴了她認為是他們的頭目的男子：勞倫斯·福克斯(Laurence Fox)。]]></description>
       <guid>https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/</guid>
       <pubDate>Fri, 09 Aug 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>電腦崩潰報告是一個未開發的黑客金礦</title>
-      <link>https://www.wired.com/story/crash-reports-vulnerability-data/</link>
-      <description><![CDATA[一名駭客透過簡單的崩潰報告解決了 CrowdStrike 中斷之謎，並說明了有關這些關鍵文件所包含的潛在錯誤和漏洞的大量詳細資訊。]]></description>
-      <guid>https://www.wired.com/story/crash-reports-vulnerability-data/</guid>
-      <pubDate>Thu, 08 Aug 2024 23:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署尚未決定如何讓波音星際客機太空人回家</title>
-      <link>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</link>
-      <description><![CDATA[一條可能的前進道路是搭乘 SpaceX 的順風車——但要到 2025 年。]]></description>
-      <guid>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</guid>
-      <pubDate>Thu, 08 Aug 2024 22:50:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
