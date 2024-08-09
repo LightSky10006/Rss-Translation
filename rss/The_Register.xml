@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 07:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 07:34:39 GMT</lastBuildDate>
+    <item>
+      <title>技術人員告訴「比爾蓋茲」Excel 是垃圾 - 微軟老闆在 48 小時內修復了它</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</link>
+      <description><![CDATA[我是蘋果機。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</guid>
+      <pubDate>Fri, 09 Aug 2024 07:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 資助 CUDA 轉換層，然後再毀掉它，這是怎麼回事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[選舉技術很好 - 讓 Jen Easterly 擔心的是那些白痴相信宣傳 黑帽 美國網路安全和基礎設施安全局 ( CISA）主任珍·伊斯特利（Jen Easterly）和她的英國和歐盟同行希望世界知道，在確保選舉安全方面，他們的準備從未如此充分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/election_tech_is_fine_says/</guid>
       <pubDate>Thu, 08 Aug 2024 12:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
-      <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
