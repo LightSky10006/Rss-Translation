@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 04:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:16:27 GMT</lastBuildDate>
+    <item>
+      <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
+      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
+      <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>惠普公司熱愛中國——但希望減少中國帶來的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/hp_china_supply_chain/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有透露價格，但該計劃允許用戶在不操作任何設備的情況下訂購不干涉航班 諾基亞已與瑞士電信廣播公司在瑞士各地的“無人機即服務”網絡上建立了聯繫，針對緊急服務和其他需要空中觀測的應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</guid>
       <pubDate>Thu, 08 Aug 2024 11:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>報告：技術誤解困擾著 IT 世界</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</link>
-      <description><![CDATA[僅僅關閉網路攝影機快門並不能保證用戶的上網安全 新研究表明，雖然許多英國人會以隱私的名義關閉筆記型電腦攝像頭，但令人擔憂的數量也同樣令人高興將各種個人資訊放入線上遊戲中，以獲得可以與朋友分享的結果。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/report_tech_misconceptions_plague_the/</guid>
-      <pubDate>Thu, 08 Aug 2024 10:31:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
