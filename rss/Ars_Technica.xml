@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 09 Aug 2024 19:34:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 20:12:24 GMT</lastBuildDate>
+    <item>
+      <title>隨著 BIOS 更新的推出，英特爾詳細修復了第 13 代和第 14 代 CPU 崩潰的問題</title>
+      <link>https://arstechnica.com/?p=2042246</link>
+      <description><![CDATA[此微代碼修復無法在常規軟體更新中推出。]]></description>
+      <guid>https://arstechnica.com/?p=2042246</guid>
+      <pubDate>Fri, 09 Aug 2024 19:21:55 GMT</pubDate>
+    </item>
     <item>
       <title>Nova Launcher，殘破不堪的 Android 手機的救世主，已經命懸一線</title>
       <link>https://arstechnica.com/?p=2042216</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Ars 問：您刻錄的最後一張 CD 或 DVD 是什麼？</title>
       <link>https://arstechnica.com/?p=2042118</link>
-      <description><![CDATA[隨著蘋果 SuperDrive 的消亡，我們回憶起了最後的自製光碟。]]></description>
+      <description><![CDATA[隨著蘋果 SuperDrive 的消亡，我們回憶起最後的自製光碟。]]></description>
       <guid>https://arstechnica.com/?p=2042118</guid>
       <pubDate>Fri, 09 Aug 2024 15:20:06 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Ryan Castellucci 花了 70 美元和 24 小時才獲得 200 MW 的容量。]]></description>
       <guid>https://arstechnica.com/?p=2042026</guid>
       <pubDate>Fri, 09 Aug 2024 13:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國長徵六號甲運載火箭在近地軌道上搞得一團糟</title>
-      <link>https://arstechnica.com/?p=2041957</link>
-      <description><![CDATA[幾乎每次飛行後，這枚火箭的上級都會在軌道上破裂。]]></description>
-      <guid>https://arstechnica.com/?p=2041957</guid>
-      <pubDate>Fri, 09 Aug 2024 12:41:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
