@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 09 Aug 2024 13:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 14:36:12 GMT</lastBuildDate>
     <item>
-      <title>美國軍方追蹤中國發射的300多塊碎片</title>
+      <title>一家新創公司計劃解決人工智慧的「入店行竊」問題</title>
+      <link>https://arstechnica.com/?p=2042108</link>
+      <description><![CDATA[演算法將識別生成式人工智慧使用的資源，並對其使用進行補償。]]></description>
+      <guid>https://arstechnica.com/?p=2042108</guid>
+      <pubDate>Fri, 09 Aug 2024 13:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>家庭能源系統中的 512 位元 RSA 金鑰可控制“虛擬發電廠”</title>
+      <link>https://arstechnica.com/?p=2042026</link>
+      <description><![CDATA[Ryan Castellucci 花了 70 美元和 24 小時才獲得 200 MW 的容量。]]></description>
+      <guid>https://arstechnica.com/?p=2042026</guid>
+      <pubDate>Fri, 09 Aug 2024 13:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國長徵六號甲運載火箭在近地軌道上搞得一團糟</title>
       <link>https://arstechnica.com/?p=2041957</link>
       <description><![CDATA[幾乎每次飛行後，這枚火箭的上級都會在軌道上破裂。]]></description>
       <guid>https://arstechnica.com/?p=2041957</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[由於應用程式的問題，Sonos 推遲了兩款硬體的發布。]]></description>
       <guid>https://arstechnica.com/?p=2041920</guid>
       <pubDate>Thu, 08 Aug 2024 21:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄羅斯西洋棋棋手在對手的棋盤上用水銀中毒，堪稱世界首例</title>
-      <link>https://arstechnica.com/?p=2041958</link>
-      <description><![CDATA[至少不是諾維喬克。]]></description>
-      <guid>https://arstechnica.com/?p=2041958</guid>
-      <pubDate>Thu, 08 Aug 2024 20:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克 (Elon Musk) 的 X 提起訴訟後，廣告業計劃突然關閉</title>
-      <link>https://arstechnica.com/?p=2041956</link>
-      <description><![CDATA[全球負責任媒體聯盟對 X 訴訟提出異議，但停止營運。]]></description>
-      <guid>https://arstechnica.com/?p=2041956</guid>
-      <pubDate>Thu, 08 Aug 2024 19:58:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
