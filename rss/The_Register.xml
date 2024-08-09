@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 08 Aug 2024 23:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 00:53:10 GMT</lastBuildDate>
+    <item>
+      <title>你好？您正在使用 Cisco SPA300 或 SPA500 IP 電話通話嗎？現在是時候把它們丟掉了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cisco_ip_phone_critical_flaws/</link>
+      <description><![CDATA[發現多個嚴重缺陷且無法修復 英國國防承包商BAE 的研究人員在思科小型企業SPA300 和SPA500 IP 電話中發現了三個嚴重缺陷- 以及另外幾個令人討厭的缺陷- 無其中將被修復或減輕。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cisco_ip_phone_critical_flaws/</guid>
+      <pubDate>Fri, 09 Aug 2024 00:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>研究人員表示，勒索軟體組織在網路應用程式安全方面比你更好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/ransomware_groups_are_better_at/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 08 Aug 2024 09:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝地重新贏得瀏覽器的信任</title>
+      <title>競爭對手高層表示，Entrust 多年來一直在卑躬屈膝，以重新贏得瀏覽器的信任</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</link>
       <description><![CDATA[Sectigo 老闆聲稱，微軟和蘋果將Big E 從他們的根商店中刪除只是時間問題 在主要瀏覽器製造商Google 和Mozilla 的評價下降後，Entrust 面臨著一場漫長的鬥爭它正在努力重新獲得行業信任並再次頒發受信任的 TLS 證書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/entrust_faces_years_of_groveling/</guid>
       <pubDate>Thu, 08 Aug 2024 08:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾聲稱，在微代碼藥物治療後，搖搖欲墜的 Raptor Lake CPU 不會失去睿頻加速的速度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/raptor_lake_microcode_fix_speed_impact/</link>
-      <description><![CDATA[Chipzilla 仍然有辦法阻止這些處理器自食其果 英特爾聲稱，它為不穩定的第 13 代和第 14 代 Raptor Lake CPU 提供的微代碼更新不會損害晶片的高端時脈速度... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/raptor_lake_microcode_fix_speed_impact/</guid>
-      <pubDate>Thu, 08 Aug 2024 07:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
