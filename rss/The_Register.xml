@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 14:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 15:12:46 GMT</lastBuildDate>
+    <item>
+      <title>微軟確實希望那些舊的 Exchange 2016 伺服器被淘汰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/microsoft_really_wants_those_old/</link>
+      <description><![CDATA[來到2019 年。的指南已安裝 Exchange 2019 的環境。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/microsoft_really_wants_those_old/</guid>
+      <pubDate>Fri, 09 Aug 2024 15:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>軟體創新今非昔比，Moxie Marlinspike 指責敏捷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/marlinspike/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chipzilla 採用了Arc Alchemist A750，為其提供了更多RAM，並表示它適用於人工智慧驅動的老爺車 英特爾終於抽出時間推出一款新GPU，只不過它是圖形處理器的重新設計已經上市，這次針對的是汽車產業。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_a760a_gpu/</guid>
       <pubDate>Thu, 08 Aug 2024 19:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你把控制權交給副駕駛，當它洩露你的秘密時不要感到驚訝</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/copilot_black_hat_vulns/</link>
-      <description><![CDATA[Zenity 技術長聲稱「所有預設設定都是不安全的」 黑帽 人們希望廣泛使用的企業軟體是安全的。準備好迎接這些希望再次破滅吧，Zenity 技術長 Michael Bargury 今天透露了他在 Black Hat 上的 Microsoft Copilot 功績。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/copilot_black_hat_vulns/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
