@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 18:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 19:35:10 GMT</lastBuildDate>
+    <item>
+      <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
+      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
+      <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>隨著 AMD 的崛起，英特爾的恐怖年景仍在繼續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/intel_amd_market_research/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>技術人員告訴「比爾蓋茲」Excel 是垃圾 - 微軟老闆在 48 小時內修復了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</link>
-      <description><![CDATA[我是蘋果機。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
+      <description><![CDATA[我是蘋果電腦。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</guid>
       <pubDate>Fri, 09 Aug 2024 07:32:10 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <description><![CDATA[無法從外部存取本機上某人的私人伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>股價暴跌引發另一場法庭訴訟後，英特爾的法律困擾不斷增加</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_legal_trouble_mounts/</link>
-      <description><![CDATA[退休基金聲稱執行長、財務長掩蓋了錢坑代工廠的真相 在過去的幾周里，英特爾發現自己陷入了一系列法律麻煩，從慢慢燒壞的CPU 到指控它誤導了投資者關於晶片製造商的福祉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_legal_trouble_mounts/</guid>
-      <pubDate>Thu, 08 Aug 2024 21:36:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
