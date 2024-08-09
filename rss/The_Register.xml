@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 06:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 07:11:16 GMT</lastBuildDate>
     <item>
       <title>AMD 資助 CUDA 轉換層，然後再毀掉它，這是怎麼回事？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</link>
-      <description><![CDATA[我們猜想 House of Zen 希望所有 HIP 孩子都使用自己的運行時 ROCm 分析 AMD 的法律團隊似乎已經奪回了對大部分操作系統的控制權ZLUDA 專案的程式碼庫。今年早些時候，House of Zen 取消了對該專案的支持，該專案使編譯後的CUDA 程式碼能夠在非Nvidia GPU 上本機運行。 virtual=&#39;/data_centre/_whitepaper_textlinks_top。]]></description>
+      <description><![CDATA[我們猜想 House of Zen 希望所有 HIP 孩子都使用自己的運行時 ROCm 分析 AMD 的法律團隊似乎已經奪回了對大部分操作系統的控制權ZLUDA 專案的程式碼庫。 House of Zen 今年稍早取消了對此開源專案的支持，該專案使編譯後的CUDA 程式碼能夠在非Nvidia GPU 上本機運行。 virtual=&#39;/data_centre/ _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</guid>
       <pubDate>Fri, 09 Aug 2024 06:30:14 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 資料科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
     </item>
