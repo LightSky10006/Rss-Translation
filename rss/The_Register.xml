@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 11:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:21:12 GMT</lastBuildDate>
+    <item>
+      <title>核心Python開發人員被停職三個月</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/core_python_developer_suspended_coc/</link>
+      <description><![CDATA[違反行為準則的行為包括指控貼文製造了「FUD 氛圍」 Python 指導委員會已決定因涉嫌違反行為準則而將一名核心Python 開發人員停職三個月。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/core_python_developer_suspended_coc/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:44:11 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果再次試圖讓歐盟 DMA 官員滿意——推出新收費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/apple_eu_compliance/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[為了慶祝美國海軍資助的電磁奇蹟，即自動序列控制計算器 功能，八十年前，IBM 向哈佛大學贈送了世界上最早的計算機之一：自動序列控制計算器 (ASCC)，後來稱為哈佛 Mark I。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/harvard_mark_1/</guid>
       <pubDate>Thu, 08 Aug 2024 15:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Pico 2 搭載（鼓式）RISC-V 內核</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/pi_pico_2_risc_v/</link>
-      <description><![CDATA[Beefier Arms 緊鄰RV 競爭對手CPU，讓我們一睹未來 對於RISC-V 粉絲來說，這是一個令人興奮的消息：隨著Pico 2 和Pico 2 的推出， Raspberry Pi 正在增加對開放ISA 的支援該公司的新型 RP2350 微控制器... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/pi_pico_2_risc_v/</guid>
-      <pubDate>Thu, 08 Aug 2024 15:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
