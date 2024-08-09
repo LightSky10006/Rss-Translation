@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 09:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 10:37:45 GMT</lastBuildDate>
+    <item>
+      <title>CMA 對亞馬遜與 Anthropic 的合作展開全面調查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</link>
+      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</guid>
+      <pubDate>Fri, 09 Aug 2024 10:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾處理器故障：商業與工程的警世故事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/opinion_column_intel/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>技術人員告訴「比爾蓋茲」Excel 是垃圾 - 微軟老闆在 48 小時內修復了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</link>
-      <description><![CDATA[我是蘋果機。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
+      <description><![CDATA[我是蘋果電腦。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</guid>
       <pubDate>Fri, 09 Aug 2024 07:32:10 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[中國網民可以期待 Windows 用戶在 Copilot 上獲得同樣的失望 openKylin（由中國國家工業資訊安全發展研究中心支持的桌面 Linux 發行版）背後的開發人員已決定本地用戶需要利用英特爾的Meteor Lake 晶片及其包含的神經處理單元，將最新版本的作業系統調整為Chipzilla 的AI PC SoC。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/openkylin_2/</guid>
       <pubDate>Thu, 08 Aug 2024 14:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Mac 上使用 1Password？如果您不想讓您的避難所遭到攻擊，請進行修補</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/using_1password_on_mac_patch/</link>
-      <description><![CDATA[數十萬用戶可能容易受到攻擊 密碼管理器1Password 警告所有運行8.10.36 之前版本的Mac 用戶都容易受到允許攻擊者竊取保管庫項目的錯誤的影響。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/using_1password_on_mac_patch/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
