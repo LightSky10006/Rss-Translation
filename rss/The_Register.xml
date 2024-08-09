@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 15:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 16:14:30 GMT</lastBuildDate>
+    <item>
+      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
+      <description><![CDATA[SquareX 創辦人告訴我們，「供應商可以修復」這個架構故障 Defcon 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人們震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
+      <pubDate>Fri, 09 Aug 2024 16:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>微軟確實希望那些舊的 Exchange 2016 伺服器被淘汰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/microsoft_really_wants_those_old/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>技術人員告訴「比爾蓋茲」Excel 是垃圾 - 微軟老闆在 48 小時內修復了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</link>
-      <description><![CDATA[我是蘋果機。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
+      <description><![CDATA[我是蘋果電腦。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</guid>
       <pubDate>Fri, 09 Aug 2024 07:32:10 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <description><![CDATA[無法從外部存取本機上某人的私人伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
+      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖“改變現狀”指責”其軟體造成的 IT 崩潰 - 並且 CrowdStrike 首席執行官 George Kurtz 提供的支持太少、太晚......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
       <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國和英國公司認為他們僱用了一名西方人，但據稱事實並非如此 聯邦調查局今天逮捕了一名田納西州男子，他涉嫌經營一家冒充西方人的“筆記型電腦農場”，吸引了朝鮮人，美國和英國公司的 IT 工作。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/north_korea_laptop_farm_arrest/</guid>
       <pubDate>Thu, 08 Aug 2024 20:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾終於推出了一款新的汽車 GPU</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_a760a_gpu/</link>
-      <description><![CDATA[Chipzilla 採用了Arc Alchemist A750，為其提供了更多RAM，並表示它適用於人工智慧驅動的老爺車 英特爾終於抽出時間推出一款新GPU，只不過它是圖形處理器的重新設計已經上市，這次針對的是汽車產業。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/intel_a760a_gpu/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:40:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
