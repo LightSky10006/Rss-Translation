@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 10:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 11:10:26 GMT</lastBuildDate>
+    <item>
+      <title>迷彩帽如何成為即時迷因</title>
+      <link>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</link>
+      <description><![CDATA[本週，副總統卡馬拉·哈里斯和明尼蘇達州州長蒂姆·沃爾茲用一些迷彩帽鞏固了他們入主白宮的決心。該頭飾即將成為紅色 MAGA 帽子。]]></description>
+      <guid>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>駭客如何提取「王國鑰匙」來複製 HID 鑰匙卡</title>
+      <link>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</link>
+      <description><![CDATA[一組研究人員開發了一種從 HID 編碼器中提取身份驗證金鑰的方法，該方法可以讓駭客複製用於保護全球辦公室和其他區域安全的鑰匙卡類型。]]></description>
+      <guid>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>奧運充滿敵意的建築是未來的預演</title>
       <link>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</link>
@@ -29,12 +43,12 @@
     <item>
       <title>奧運會上的跆拳道評判是一門藝術，而不是一門科學</title>
       <link>https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/</link>
-      <description><![CDATA[突破作為奧運項目首次在巴黎奧運會上亮相。為了實現這一目標，Breaking 社區必須找到一種方法來客觀地判斷主觀，同時讓舞蹈仍然是舞蹈。]]></description>
+      <description><![CDATA[打破在巴黎奧運會上首次作為奧運項目。為了實現這一目標，突破社區必須找到一種方法來客觀地判斷主觀，同時讓舞蹈仍然是舞蹈。]]></description>
       <guid>https://www.wired.com/story/judging-breaking-at-the-olympics-is-an-art-not-a-science/</guid>
       <pubDate>Fri, 09 Aug 2024 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>奧運變裝藝術家 Nicky Doll 回擊網路仇恨暴徒</title>
+      <title>奧運變裝藝術家 Nicky Doll 回擊網路仇恨暴民</title>
       <link>https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/</link>
       <description><![CDATA[自從在巴黎奧運開幕式上表演以來，變裝藝術家尼基·多爾 (Nicky Doll) 就一直受到惡搞者的追捕。現在，她發起反擊，起訴了她認為是他們的頭目的男子：勞倫斯·福克斯(Laurence Fox)。]]></description>
       <guid>https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>美國太空總署尚未決定如何讓波音星際客機太空人回家</title>
       <link>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</link>
-      <description><![CDATA[一條可能的前進道路是搭乘 SpaceX 的順風車——但要到 2025 年。]]></description>
+      <description><![CDATA[一條可能的前進道路是搭乘 SpaceX 的順風車——但要等到 2025 年。]]></description>
       <guid>https://www.wired.com/story/boeing-starliner-astronauts-spacex-2025/</guid>
       <pubDate>Thu, 08 Aug 2024 22:50:17 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Thu, 08 Aug 2024 21:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>Beyond Meat 在美國陷入停滯。歐洲可能是另一個故事</title>
+      <title>Beyond Meat在美國陷入停滯。歐洲可能是另一個故事</title>
       <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
       <description><![CDATA[這家曾經大肆宣傳的公司現在成為植物性肉類產業更廣泛低迷的最顯著受害者。]]></description>
       <guid>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</guid>
@@ -125,25 +139,11 @@
       <pubDate>Thu, 08 Aug 2024 14:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 6 款最佳緩解背痛床墊 (2024)</title>
+      <title>經過測試和審查的 6 種最佳治療背痛床墊 (2024)</title>
       <link>https://www.wired.com/gallery/best-mattresses-for-back-pain/</link>
       <description><![CDATA[當你睡覺或早上醒來時，你是否有背痛？這些床墊可以幫助解決這個問題。]]></description>
       <guid>https://www.wired.com/gallery/best-mattresses-for-back-pain/</guid>
       <pubDate>Thu, 08 Aug 2024 13:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過測試和審查的 30 種最佳能量飲料</title>
-      <link>https://www.wired.com/story/best-energy-drinks/</link>
-      <description><![CDATA[未來已來，而它的基礎是 B 群維生素、紅色染料和牛磺酸。這些是消除疲勞、恢復活力的最佳能量飲料。]]></description>
-      <guid>https://www.wired.com/story/best-energy-drinks/</guid>
-      <pubDate>Thu, 08 Aug 2024 12:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>祝你出售你的人工智慧新創公司好運</title>
-      <link>https://www.wired.com/story/gadget-lab-podcast-654/</link>
-      <description><![CDATA[本週，我們將討論大型科技公司從小型人工智慧公司收購關鍵人才的當前趨勢。]]></description>
-      <guid>https://www.wired.com/story/gadget-lab-podcast-654/</guid>
-      <pubDate>Thu, 08 Aug 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
