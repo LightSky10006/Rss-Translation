@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 06:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 06:41:30 GMT</lastBuildDate>
+    <item>
+      <title>AMD 資助 CUDA 轉換層，然後再毀掉它，這是怎麼回事？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</link>
+      <description><![CDATA[我們猜想 House of Zen 希望所有 HIP 孩子都使用自己的運行時 ROCm 分析 AMD 的法律團隊似乎已經奪回了對大部分操作系統的控制權ZLUDA 專案的程式碼庫。今年早些時候，House of Zen 取消了對該專案的支持，該專案使編譯後的CUDA 程式碼能夠在非Nvidia GPU 上本機運行。 virtual=&#39;/data_centre/_whitepaper_textlinks_top。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</guid>
+      <pubDate>Fri, 09 Aug 2024 06:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <description><![CDATA[無法從外部存取本機上某人的私人伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
     <item>
       <title>惠普公司熱愛中國——但希望減少中國帶來的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/hp_china_supply_chain/</link>
-      <description><![CDATA[有報告指出個人電腦生產將轉移到其他地方，供應鏈老闆強調敏捷性 惠普公司熱愛中國，希望繼續在那裡製造和設計產品，但也喜歡將業務多元化到其他國家的想法萬一地緣政治成為問題…]]></description>
+      <description><![CDATA[有報告指出大量 PC 生產將轉移到其他地方，供應鏈老闆強調敏捷性 惠普公司熱愛中國，希望繼續在那裡製造和設計產品，但也喜歡業務多元化的想法其他國家，以防地緣政治成為問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/hp_china_supply_chain/</guid>
       <pubDate>Fri, 09 Aug 2024 03:45:10 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Anaconda 對被認為違反服務條款的資料科學家進行了壓制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</link>
-      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學公司 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
+      <description><![CDATA[學術、非營利組織現在被告知必須付款，否則 數據科學企業 Anaconda 修改服務條款四年後，一些研究和學術組織現在才發現他們已經為他們以前免費使用的軟體付費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/anaconda_puts_the_squeeze_on/</guid>
       <pubDate>Thu, 08 Aug 2024 12:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>諾基亞推出瑞士服務，從手機轉向無人機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</link>
-      <description><![CDATA[沒有透露價格，但該計劃允許用戶在不操作任何設備的情況下訂購不干涉航班 諾基亞已與瑞士電信廣播公司在瑞士各地的“無人機即服務”網絡上建立了聯繫，針對緊急服務和其他需要空中觀測的應用程式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/nokia_goes_from_phones_to/</guid>
-      <pubDate>Thu, 08 Aug 2024 11:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
