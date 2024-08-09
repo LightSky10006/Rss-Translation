@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 09 Aug 2024 23:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 23:34:38 GMT</lastBuildDate>
+    <item>
+      <title>Twilio 的 Segment SDK 面臨竊聽指控</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/twilio_privacy_lawsuit/</link>
+      <description><![CDATA[據稱行動應用程式分析軟體會暗中竊取資料 通訊服務供應商Twilio 週四被起訴，指控其開發者的Segment 軟體未經同意從行動應用程式中竊取資料。 . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/twilio_privacy_lawsuit/</guid>
+      <pubDate>Fri, 09 Aug 2024 23:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>Raptor Lake 微代碼將英特爾晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關未發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 09 Aug 2024 11:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>CMA 對亞馬遜與 Anthropic 的合作展開全面調查</title>
+      <title>英國壟斷警察對亞馬遜與 Anthropic 的合作展開全面調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</link>
       <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
+      <description><![CDATA[無法從外部存取本機上某人的私人伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[是否已註入提示來測試大型語言模型的安全性？最好打電話給Saul  黑帽 針對非法破壞電腦系統的現有美國法律不適應現代大語言模型(LLM)，並且可能會使研究人員因應有的行為而受到起訴三位哈佛大學學者表示，應該批准安全測試。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</guid>
       <pubDate>Thu, 08 Aug 2024 23:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>達美航空：CrowdStrike 為解決 Falcon 崩潰問題提供的幫助太少、太晚了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</link>
-      <description><![CDATA[航空公司對執行長打來的「無益且不合時宜」的電話不以為意，Falcon 製造商稱這些說法不實 達美航空在一封信中對CrowdStrike 進行了猛烈抨擊，指責這家安全巨頭試圖「改變現狀」指責「其軟體造成的IT 崩潰——CrowdStrike 首席執行官喬治·庫爾茨(George Kurtz) 提供的支持太少、太晚了…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/delta_crowdstrikes_offer_for_help/</guid>
-      <pubDate>Thu, 08 Aug 2024 22:30:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
