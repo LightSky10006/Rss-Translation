@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 18:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 19:10:06 GMT</lastBuildDate>
+    <item>
+      <title>無所不在的 ATM 軟體缺陷可能讓攻擊者接管提款機</title>
+      <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
+      <description><![CDATA[ATM 製造商 Diebold Nixdorf 廣受歡迎的 Vynamic 安全套件中的六個漏洞可能被利用，透過「相對簡單的攻擊」來控制 ATM。]]></description>
+      <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
+      <pubDate>Fri, 09 Aug 2024 18:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>19 款返校最佳優惠 (2024)：背包、充電器、筆記型電腦</title>
       <link>https://www.wired.com/story/back-to-school-deals-2024/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[新的研究表明，用於發現網站弱點的已知技術實際上在發現漏洞方面是實用的，無論是好還是壞。]]></description>
       <guid>https://www.wired.com/story/web-timing-attacks-black-hat-2024/</guid>
       <pubDate>Thu, 08 Aug 2024 21:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beyond Meat 在美國陷入停滯。歐洲可能是另一個故事</title>
-      <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
-      <description><![CDATA[這家曾經大肆宣傳的公司現在成為植物性肉類產業更廣泛低迷的最顯著受害者。]]></description>
-      <guid>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:18:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
