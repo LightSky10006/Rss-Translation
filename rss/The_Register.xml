@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 10 Aug 2024 08:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 19:08:52 GMT</lastBuildDate>
+    <item>
+      <title>如何透過 Google 的快速分享巧妙地將惡意軟體無線注入某人附近的 Windows PC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/10/google_quick_share_rce/</link>
+      <description><![CDATA[或者更確切地說，可以，直到網路巨擘收到訊息 DEF CON  Google Windows 版Quick Share 中現已修復的10 個錯誤可能會被利用來無線寫入新檔案在未經受害者批准的情況下進入受害者的電腦，並最終透過將一些其他漏洞連結在一起在這些受害者的電腦上遠端執行程式碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/10/google_quick_share_rce/</guid>
+      <pubDate>Sat, 10 Aug 2024 19:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Twilio 的 Segment SDK 面臨竊聽指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/twilio_privacy_lawsuit/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 09 Aug 2024 23:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
+      <title>Raptor Lake 微代碼將英特爾晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
       <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>技術人員告訴「比爾蓋茲」Excel 是垃圾 - 微軟老闆在 48 小時內修復了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</link>
-      <description><![CDATA[我是蘋果電腦。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
+      <description><![CDATA[我是蘋果機。我是一台電腦。你們都讓我很煩 On Call  The Register 知道技術支援是一種會讓人感到沮喪的職業，這就是為什麼我們每週五都會提供新版 On Call——讀者貢獻的專欄，詳細介紹了現實生活中的支持故事，這樣你至少可以在公司裡享受痛苦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/on_call/</guid>
       <pubDate>Fri, 09 Aug 2024 07:32:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們可以請開始認真對待這一問題嗎？  黑帽 人們希望，在多年來告訴企業保護其係統安全之後，企業將會比網路犯罪分子擁有更好的網路應用程式安全性。但本週在黑帽大會上發表的研究表明事實並非如此。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/ransomware_groups_are_better_at/</guid>
       <pubDate>Thu, 08 Aug 2024 23:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>律師稱美國網路安全法過於模糊，無法保護人工智慧安全研究人員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</link>
-      <description><![CDATA[是否已註入提示來測試大型語言模型的安全性？最好打電話給Saul  黑帽 針對非法破壞電腦系統的現有美國法律不適應現代大語言模型(LLM)，並且可能會使研究人員因應有的行為而受到起訴三位哈佛大學學者表示，應該批准安全測試。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/08/lawyers_say_us_cybersecurity_law/</guid>
-      <pubDate>Thu, 08 Aug 2024 23:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
