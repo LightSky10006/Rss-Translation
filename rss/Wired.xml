@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 10 Aug 2024 21:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 22:10:47 GMT</lastBuildDate>
+    <item>
+      <title>追捕電玩速通作弊者的駭客</title>
+      <link>https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/</link>
+      <description><![CDATA[艾倫「dwangoAC」以揭露速通騙子為己任。在 Defcon 黑客大會上，他將挑戰一項保持了 15 年的記錄。]]></description>
+      <guid>https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/</guid>
+      <pubDate>Sat, 10 Aug 2024 21:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果原型機和公司機密可在線出售——如果您知道去哪裡尋找</title>
       <link>https://www.wired.com/story/apple-prototypes-corporate-data/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>YouTube 前執行長蘇珊沃西基去世，享年 56 歲</title>
       <link>https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/</link>
-      <description><![CDATA[蘇珊沃西基 (Susan Wojcicki) 是這個時代最偉大的無名高管之一，從谷歌在她的車庫裡誕生之初起，她就對谷歌的發展軌跡至關重要。]]></description>
+      <description><![CDATA[蘇珊沃西基 (Susan Wojcicki) 是這個時代最偉大的無名高管之一，從谷歌在她的車庫裡創立之初起，她就對谷歌的發展軌跡至關重要。]]></description>
       <guid>https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/</guid>
       <pubDate>Sat, 10 Aug 2024 17:47:10 GMT</pubDate>
     </item>
     <item>
       <title>HexClad炊具評論：貴得不合理</title>
       <link>https://www.wired.com/review/hexclad/</link>
-      <description><![CDATA[想要將兩個獨立平底鍋的一些優點合併到一個平底鍋中嗎？ HexClad 可以滿足您的需求。]]></description>
+      <description><![CDATA[想要將兩個獨立平底鍋的一些優點合併到一個平底鍋中嗎？ HexClad 可以滿足您的需求—某種程度上。]]></description>
       <guid>https://www.wired.com/review/hexclad/</guid>
       <pubDate>Sat, 10 Aug 2024 14:07:00 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 09 Aug 2024 22:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>ATM 軟體缺陷給那些知道查看的人留下了成堆的現金</title>
+      <title>ATM 軟體缺陷給任何知道查看的人留下了成堆的現金</title>
       <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
       <description><![CDATA[ATM 製造商 Diebold Nixdorf 廣受歡迎的 Vynamic 安全套件中的六個漏洞可能被利用，透過「相對簡單的攻擊」來控制 ATM。]]></description>
       <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[品嚐這些第三方 Mac 應用程式的甜蜜滋味，以實現更好的編輯、組織、日記等功能。]]></description>
       <guid>https://www.wired.com/story/best-mac-apps/</guid>
       <pubDate>Fri, 09 Aug 2024 14:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何組裝 PC (2024)：硬體建議、說明等</title>
-      <link>https://www.wired.com/story/how-to-build-a-pc/</link>
-      <description><![CDATA[自己組裝電腦是了解電腦運作原理的好方法。]]></description>
-      <guid>https://www.wired.com/story/how-to-build-a-pc/</guid>
-      <pubDate>Fri, 09 Aug 2024 13:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
