@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 11 Aug 2024 10:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 11:09:09 GMT</lastBuildDate>
+    <item>
+      <title>冷水的物理學可能啟動了複雜的生命</title>
+      <link>https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/</link>
+      <description><![CDATA[當海水變冷時，它會變得黏稠。根據實驗，這一事實可以解釋當地球在「雪球地球」期間被凍結時，單細胞海洋生物如何變成多細胞生物。]]></description>
+      <guid>https://www.wired.com/story/the-physics-of-cold-water-may-have-jump-started-complex-life/</guid>
+      <pubDate>Sun, 11 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年如何列印東西</title>
       <link>https://www.wired.com/story/how-to-print/</link>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 09 Aug 2024 22:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>ATM 軟體缺陷給任何知道查看的人留下了成堆的現金</title>
+      <title>ATM 軟體缺陷給那些知道查看的人留下了成堆的現金</title>
       <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
       <description><![CDATA[ATM 製造商 Diebold Nixdorf 廣受歡迎的 Vynamic 安全套件中的六個漏洞可能被利用，透過「相對簡單的攻擊」來控制 ATM。]]></description>
       <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>19 款返校最佳優惠 (2024)：背包、充電器、筆記型電腦</title>
       <link>https://www.wired.com/story/back-to-school-deals-2024/</link>
-      <description><![CDATA[是時候收起泳池麵條並將那些屁股放迴座位上了。節省背包、iPad、筆記型電腦等的費用。]]></description>
+      <description><![CDATA[是時候收起泳池麵條並將那些屁股放迴座位上了。節省背包、iPad、筆記型電腦等物品的費用。]]></description>
       <guid>https://www.wired.com/story/back-to-school-deals-2024/</guid>
       <pubDate>Fri, 09 Aug 2024 18:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>14 款最佳 Amazon Echo 和 Alexa 揚聲器（2024 年）：我們已經對它們進行了全部測試</title>
-      <link>https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/</link>
-      <description><![CDATA[我們收集了我們最喜歡的設備，包括 Sonos Era 和支援語音的 Yamaha soundbar 等第三方設備。]]></description>
-      <guid>https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
