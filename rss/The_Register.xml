@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 10:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 11:10:37 GMT</lastBuildDate>
+    <item>
+      <title>印度巴蒂企業 (Bharti Enterprises) 成為英國 BT 集團最大股東</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/</link>
+      <description><![CDATA[對於印度大型企業來說是“令人驚訝的舉動”，但對於法國賣家Altice 來說則不然 印度的Bharti Enterprises 已從帕特里克·德拉希(Patrick Drahi) 的Altice 手中收購了BT 集團24.5% 的股份，一舉使其成為英國電信巨頭的最大股東...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/indias_bharti_enterprises_now_largest/</guid>
+      <pubDate>Mon, 12 Aug 2024 10:38:23 GMT</pubDate>
+    </item>
     <item>
       <title>慶祝好奇號成功登陸火星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_celebration_of_curiositys_successful/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>LLM 驅動的 C-to-Rust。不只是一個好主意，還是一個渴望逃跑的精靈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</link>
-      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為滿足工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
+      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</guid>
       <pubDate>Mon, 12 Aug 2024 08:33:11 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>YouTube 前執行長蘇珊沃西基 (Susan Wojcicki) 因癌症去世，享年 56 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/former_youtube_ceo_susan_wojcicki/</link>
-      <description><![CDATA[典型的矽谷職業與生活 蘇珊沃西基(Susan Wojcicki) 是YouTube 驚人崛起的締造者，也是矽谷最有影響力的人物之一，在與癌症抗爭了兩年後去世，享年56 歲...]]></description>
+      <description><![CDATA[典型的矽谷職業和生活 Susan Wojcicki，YouTube 驚人崛起的締造者，也是矽谷最具影響力的人物之一，在與癌症抗爭了兩年後去世，享年 56 歲...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/former_youtube_ceo_susan_wojcicki/</guid>
       <pubDate>Mon, 12 Aug 2024 06:30:10 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 12 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>天然氣管道參與者正在洽談推動人工智慧資料中心需求</title>
+      <title>天然氣管道公司正在洽談推動人工智慧資料中心需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</link>
       <description><![CDATA[公用設施耗盡了嗎？為什麼不自己建造呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
-      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障以及0x129 微代碼的更多詳細信息，該微代碼應該可以防止進一步的損壞。]]></description>
+      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
       <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[違反行為準則的行為包括指控貼文製造了「FUD 氛圍」 Python 指導委員會已決定因涉嫌違反行為準則而將一名核心Python 開發人員停職三個月。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/core_python_developer_suspended_coc/</guid>
       <pubDate>Fri, 09 Aug 2024 11:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果再次試圖讓歐盟 DMA 官員滿意——推出新收費</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/apple_eu_compliance/</link>
-      <description><![CDATA[與此同時，英國監管機構考慮打破庫比蒂諾的WebKit 規則 蘋果公司本週修改了在歐盟銷售應用程序的開發者的替代合同條款- 這一修改立即被批評者駁回，因為它更多地“惡意合規。&quot;…  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/apple_eu_compliance/</guid>
-      <pubDate>Fri, 09 Aug 2024 11:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
