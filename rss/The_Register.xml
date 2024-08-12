@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 11:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 12:55:05 GMT</lastBuildDate>
+    <item>
+      <title>谷歌委託發布的報告稱，早期採用者已經享受了人工智慧時代的成果</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/google_ai_roi_report/</link>
+      <description><![CDATA[43% 的時間，45% 的時間確實有效 分析 儘管生成式 AI 有很多承諾，但它可能會很昂貴規模化，投資回報並不總是明確的。可以理解為什麼一些大大小小的企業現階段可能會對投資該技術猶豫不決。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/google_ai_roi_report/</guid>
+      <pubDate>Mon, 12 Aug 2024 12:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 總裁在接受「史詩失敗」Pwnie 獎後歡呼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/crowdstrike_president_cheered_following_acceptance/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>LLM 驅動的 C-to-Rust。不只是一個好主意，還是一個渴望逃跑的精靈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</link>
-      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為滿足工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
+      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</guid>
       <pubDate>Mon, 12 Aug 2024 08:33:11 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>YouTube 前執行長蘇珊沃西基 (Susan Wojcicki) 因癌症去世，享年 56 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/former_youtube_ceo_susan_wojcicki/</link>
-      <description><![CDATA[典型的矽谷職業與生活 蘇珊沃西基(Susan Wojcicki) 是YouTube 驚人崛起的締造者，也是矽谷最有影響力的人物之一，在與癌症抗爭了兩年後去世，享年56 歲...]]></description>
+      <description><![CDATA[典型的矽谷職業和生活 Susan Wojcicki，YouTube 驚人崛起的締造者，也是矽谷最具影響力的人物之一，在與癌症抗爭了兩年後去世，享年 56 歲...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/former_youtube_ceo_susan_wojcicki/</guid>
       <pubDate>Mon, 12 Aug 2024 06:30:10 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 12 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>天然氣管道參與者正在洽談推動人工智慧資料中心需求</title>
+      <title>天然氣管道公司正在洽談推動人工智慧資料中心需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</link>
       <description><![CDATA[公用設施耗盡了嗎？為什麼不自己建造呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
-      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障以及0x129 微代碼的更多詳細信息，該微代碼應該可以防止進一步的損壞。]]></description>
+      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
       <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>隨著美國大選幹預企圖加劇，親伊朗團體為「混亂和暴力」埋下伏筆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/iran_state_groups_lay_groundwork/</link>
-      <description><![CDATA[假新聞網站發表左翼言論，政治官員和顧問成為網路攻擊的目標 微軟表示，伊朗影響 11 月美國總統大選的努力最近加快了步伐，有跡象表明其意圖煽動針對關鍵人物的暴力行為…]]></description>
+      <description><![CDATA[假新聞網站發表左翼言論，政治官員和顧問成為網路攻擊的目標 微軟表示，伊朗影響 11 月美國總統大選的努力最近加快了步伐，有跡象表明其意圖煽動針對關鍵人物的暴力行為......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/iran_state_groups_lay_groundwork/</guid>
       <pubDate>Fri, 09 Aug 2024 13:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA NEOWISE 小行星觀測器最後一次關閉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/nasas_asteroid_spotter_turned_off/</link>
-      <description><![CDATA[一項原本應該持續不到一年的任務卻持續了十多年 NASA 的東山再起，NEOWISE 航天器，本週最後一次關閉，因為它的發射器被關閉在今年稍後重返地球大氣層之前關閉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/nasas_asteroid_spotter_turned_off/</guid>
-      <pubDate>Fri, 09 Aug 2024 12:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
