@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 02:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 04:14:01 GMT</lastBuildDate>
+    <item>
+      <title>阿里雲聲稱 K8s 服務網格可能需要比它們運行的應用程式更多的資源</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/</link>
+      <description><![CDATA[建構了自己的替代品- Canal Mesh - 據稱這讓Google 的Istio 和Ambient 望塵莫及 SIGCOMM 2024  阿里雲已聲稱擁有針對Kubernetes 的本土服務網格 - Canal Mesh – 顯著優於Google 的Istio 和其他競爭對手工具。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/</guid>
+      <pubDate>Mon, 12 Aug 2024 04:01:09 GMT</pubDate>
+    </item>
     <item>
       <title>聯合國一致認為網路犯罪是有害的，好嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_brief_infosec/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
       <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠普公司熱愛中國——但希望減少中國帶來的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/hp_china_supply_chain/</link>
-      <description><![CDATA[有報告指出大量 PC 生產將轉移到其他地方，供應鏈老闆強調敏捷性 惠普公司熱愛中國，希望繼續在那裡製造和設計產品，但也喜歡業務多元化的想法其他國家，以防地緣政治成為問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/hp_china_supply_chain/</guid>
-      <pubDate>Fri, 09 Aug 2024 03:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
