@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 16:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 17:35:02 GMT</lastBuildDate>
+    <item>
+      <title>黑帽 NOC 內部一瞥揭示了資訊安全專家的安全習慣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/black_hat_security/</link>
+      <description><![CDATA[網路流量中的基本驗證？某知名商業 VPN 產品可能有瑕疵？ 「安全必須注意自己的事情」 黑帽 每年黑帽都會與大批資訊安全專業人士一起實現的龐大網絡提供了絕佳的機會來了解安全性如何安全社區言出必行。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/black_hat_security/</guid>
+      <pubDate>Mon, 12 Aug 2024 17:25:14 GMT</pubDate>
+    </item>
     <item>
       <title>攻擊者竊取了超過 20 萬人的個人數據，其中包含亞利桑那州理工學院的鏈接</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/200k_with_links_to_arizona/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
       <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著 AMD 的崛起，英特爾的恐怖年景仍在繼續</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/intel_amd_market_research/</link>
-      <description><![CDATA[競爭對手在伺服器CPU 領域取得最大進展 英特爾的壞消息不斷傳來，競爭對手AMD 正在慢慢削弱其在伺服器、桌面和行動處理器領域的主導地位，儘管這家產業巨頭仍佔據主導地位佔據市場的最大份額，而任何其他公司要想取代它還有很長的路要走。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/intel_amd_market_research/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
