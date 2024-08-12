@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 19:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 20:12:33 GMT</lastBuildDate>
     <item>
-      <title>思科計劃在人工智慧和網路安全推動下再裁員 4,000 人</title>
+      <title>DEF CON Franklin 專案招募駭客來強化關鍵基礎設施</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/def_con_franklin_project_hopes_hackers/</link>
+      <description><![CDATA[投票村報告非常成功，傑夫·莫斯(Jeff Moss) 表示，現在整個DEF CON 都將被納入其中 Def Con 每年平均有30,000 名與會者參加在拉斯維加斯舉行的 DEF CON 安全會議上，可以肯定地假設至少一兩個參加會議的駭客對保護關鍵基礎設施有一些必要的見解。現在，一項名為「富蘭克林」的新舉措希望以政策友好的形式獲得一些資訊安全專業知識。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/def_con_franklin_project_hopes_hackers/</guid>
+      <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>思科計劃在人工智慧和網路安全方面再裁員 4,000 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</link>
       <description><![CDATA[據報道，週三財報發布後將進行裁員 據報道，網路巨頭思科將裁員數千人，因為該公司專注於發展網路安全業務並充分利用人工智慧需求。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>黑帽 NOC 內部一瞥揭示了資訊安全專業人員的安全習慣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/black_hat_security/</link>
-      <description><![CDATA[網路流量中的基本驗證？某知名商業 VPN 產品可能有瑕疵？ 「安全必須注意自己的事情」 黑帽 每年黑帽都會與大批資訊安全專業人士一起實現的龐大網絡提供了絕佳的機會來了解安全性如何安全社區言出必行。 ...]]></description>
+      <description><![CDATA[網路流量中的基本驗證？某知名商業 VPN 產品可能有瑕疵？ 「安全必須注意自己的事情」 黑帽 每年黑帽都會與大批資訊安全專業人士一起實現的大型網路提供了絕佳的機會來了解安全性如何安全社區言出必行。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/black_hat_security/</guid>
       <pubDate>Mon, 12 Aug 2024 17:25:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[或者更確切地說，可以，直到網路巨擘收到訊息 DEF CON  Google Windows 版Quick Share 中現已修復的10 個錯誤可能會被利用來無線寫入新檔案在未經受害者批准的情況下進入受害者的電腦，並最終透過將一些其他漏洞連結在一起在這些受害者的電腦上遠端執行程式碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/10/google_quick_share_rce/</guid>
       <pubDate>Sat, 10 Aug 2024 19:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twilio 的 Segment SDK 面臨竊聽指控</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/twilio_privacy_lawsuit/</link>
-      <description><![CDATA[據稱行動應用程式分析軟體會暗中竊取資料 通訊服務供應商Twilio 週四被起訴，指控其開發者的Segment 軟體未經同意從行動應用程式中竊取資料。 . ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/twilio_privacy_lawsuit/</guid>
-      <pubDate>Fri, 09 Aug 2024 23:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
