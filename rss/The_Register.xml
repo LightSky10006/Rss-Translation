@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 04:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 05:36:51 GMT</lastBuildDate>
+    <item>
+      <title>川普競選團隊引用伊朗選舉網路釣魚指控作為洩漏的文件被盜的證據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/trump_campaign_hacked_iran_claim/</link>
+      <description><![CDATA[點已連接，但確鑿的證據並不明顯 美國前總統唐納德·特朗普的連任競選團隊聲稱自己是網絡攻擊的受害者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/trump_campaign_hacked_iran_claim/</guid>
+      <pubDate>Mon, 12 Aug 2024 05:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>阿里雲聲稱 K8s 服務網格可能需要比它們運行的應用程式更多的資源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 12 Aug 2024 01:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>天然氣管道參與者正在洽談推動人工智慧資料中心需求</title>
+      <title>天然氣管道公司正在洽談推動人工智慧資料中心需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</link>
       <description><![CDATA[公用設施耗盡了嗎？為什麼不自己建造呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
-      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障以及0x129 微代碼的更多詳細信息，該微代碼應該可以防止進一步的損壞。]]></description>
+      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
       <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>英國壟斷警察對亞馬遜與 Anthropic 的合作展開全面調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</link>
-      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
+      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對 Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</guid>
       <pubDate>Fri, 09 Aug 2024 10:21:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們猜想 House of Zen 希望所有 HIP 孩子都使用自己的運行時 ROCm 分析 AMD 的法律團隊似乎已經奪回了對大部分操作系統的控制權ZLUDA 專案的程式碼庫。 House of Zen 今年稍早取消了對此開源專案的支持，該專案使編譯後的CUDA 程式碼能夠在非Nvidia GPU 上本機運行。 virtual=&#39;/data_centre/ _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/amd_zluda_take_down/</guid>
       <pubDate>Fri, 09 Aug 2024 06:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在是 2024 年，我們剛開始阻止瀏覽器不安全地存取 0.0.0.0</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</link>
-      <description><![CDATA[無法從外部存取本機上某人的私有伺服器？沒問題 基本上所有網頁瀏覽器都解決了多年來的安全監督問題- 基於Chromium 的瀏覽器，包括Microsoft Edge 和Google Chrome、Apple 的Safari 等WebKit 瀏覽器和Mozilla 的Firefox。 ....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/0000_day_bug/</guid>
-      <pubDate>Fri, 09 Aug 2024 05:34:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
