@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 09:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 10:12:45 GMT</lastBuildDate>
+    <item>
+      <title>慶祝好奇號成功登陸火星</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_celebration_of_curiositys_successful/</link>
+      <description><![CDATA[忘記Starliner 的困境吧，美國宇航局(NASA) 大膽地在另一顆行星上著陸，這次著陸非常正確 雖然NASA 可能正在努力讓其Starliner 機組人員回家，但值得記住的是，大約12 年前，該機構正在慶祝好奇號火星車在火星表面的成功部署。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_celebration_of_curiositys_successful/</guid>
+      <pubDate>Mon, 12 Aug 2024 09:40:15 GMT</pubDate>
+    </item>
     <item>
       <title>LLM 驅動的 C-to-Rust。不只是一個好主意，還是一個渴望逃跑的精靈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與此同時，英國監管機構考慮打破庫比蒂諾的WebKit 規則 蘋果公司本週修改了在歐盟銷售應用程序的開發者的替代合同條款- 這一修改立即被批評者駁回，因為它更多地“惡意合規。&quot;…  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/apple_eu_compliance/</guid>
       <pubDate>Fri, 09 Aug 2024 11:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國壟斷警察對亞馬遜與 Anthropic 的合作展開全面調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</link>
-      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</guid>
-      <pubDate>Fri, 09 Aug 2024 10:21:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
