@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 11 Aug 2024 21:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 02:05:37 GMT</lastBuildDate>
     <item>
-      <title>天然氣管道公司正在洽談推動人工智慧資料中心需求</title>
+      <title>中國衛星寬頻運載火箭分解成太空垃圾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/asia_tech_news_in_brief/</link>
+      <description><![CDATA[加：越南總理引領籌碼推動；特斯拉退出泰國市場無人機將垃圾從珠穆朗瑪峰上空運走；還有更多 亞洲簡訊 美國太空司令部上週五警告說，8月6日發射的中國長徵六號a火箭在軌道上解體，並產生至少300塊碎片。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/asia_tech_news_in_brief/</guid>
+      <pubDate>Mon, 12 Aug 2024 01:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>天然氣管道參與者正在洽談推動人工智慧資料中心需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</link>
       <description><![CDATA[公用設施耗盡了嗎？為什麼不自己建造呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>Raptor Lake 微程式碼將 Intel 晶片限制在僅 1.55 伏，以防止 CPU 損壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</link>
-      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障的更多詳細信息，以及應該防止發生進一步損壞的0x129 微代碼。 ... ]]></description>
+      <description><![CDATA[很多嗎？取決於上下文。 GHz，沒有。電壓，是的 英特爾透露了有關其Raptor Lake 系列第13 代和第14 代核心處理器故障以及0x129 微代碼的更多詳細信息，該微代碼應該可以防止進一步的損壞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/new_raptor_lake_microcode_limits/</guid>
       <pubDate>Fri, 09 Aug 2024 19:16:53 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 09 Aug 2024 17:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>安全 Web 閘道絕非資安獵犬所發現的數十種繞過方式</title>
+      <title>安全 Web 閘道絕非資安獵人所發現的數十種繞過方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</link>
       <description><![CDATA[SquareX 創辦人告訴我們，「供應商無法修復」這個架構故障 DEF CON 安全Web 閘道(SWG) 是企業安全的重要組成部分，這令人震驚據報道，Gartner SASE 和 SSE 魔力像限中的每個 SWG 都可以被繞過，從而使攻擊者能夠在網關沒有發現的情況下傳播惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/secure_web_gateways_are_anything/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>英國壟斷警察對亞馬遜與 Anthropic 的合作展開全面調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</link>
-      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對 Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
+      <description><![CDATA[可憐的雲端巨頭，只是想向價值數十億美元的人工智慧新創公司伸出援手 英國競爭監管機構正在全面深入調查亞馬遜對Anthropic 的數十億美元投資，以確定交換是否等同於秘密的「合併情況」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cma_launches_full_blown_probe/</guid>
       <pubDate>Fri, 09 Aug 2024 10:21:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[政府調查發現，太空發射系統計畫超支、建設不足且逾期 波音和 NASA 受到聯邦調查人員的嚴厲批評，聯邦調查局檢查了下一代太空發射系統火箭...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/nasa_boeing_sls/</guid>
       <pubDate>Fri, 09 Aug 2024 01:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好？您正在使用 Cisco SPA300 或 SPA500 IP 電話通話嗎？現在是時候把它們丟掉了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cisco_ip_phone_critical_flaws/</link>
-      <description><![CDATA[發現多個嚴重缺陷且無法修復 英國國防承包商BAE 的研究人員在思科小型企業SPA300 和SPA500 IP 電話中發現了三個嚴重缺陷- 以及另外幾個令人討厭的缺陷- 無其中將被修復或減輕。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/09/cisco_ip_phone_critical_flaws/</guid>
-      <pubDate>Fri, 09 Aug 2024 00:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
