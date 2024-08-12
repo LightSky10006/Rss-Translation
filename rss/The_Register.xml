@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 12 Aug 2024 20:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 21:11:32 GMT</lastBuildDate>
+    <item>
+      <title>英特爾為拯救 Raptor Lake 晶片而進行的微代碼修復可能僅適用於預設電源設置</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/raptor_lake_cpu_microcode_patch/</link>
+      <description><![CDATA[所有那些承諾更好效能的 BIOS 選項？啟用它們可能會殺死您的處理器 英特爾第13 代和第14 代酷睿處理器的所有者可能需要遵守晶片巨頭的官方功率限制才能安全使用其CPU。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/raptor_lake_cpu_microcode_patch/</guid>
+      <pubDate>Mon, 12 Aug 2024 20:35:13 GMT</pubDate>
+    </item>
     <item>
       <title>DEF CON Franklin 專案招募駭客來強化關鍵基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/def_con_franklin_project_hopes_hackers/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>思科計劃在人工智慧和網路安全方面再裁員 4,000 人</title>
+      <title>思科計劃在人工智慧和網路安全推動下再裁員 4,000 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</link>
       <description><![CDATA[據報道，週三財報發布後將進行裁員 據報道，網路巨頭思科將裁員數千人，因為該公司專注於發展網路安全業務並充分利用人工智慧需求。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[公用設施耗盡了嗎？為什麼不自己建造呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/11/pipeline_operators_ai_demand/</guid>
       <pubDate>Sun, 11 Aug 2024 17:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何透過 Google 的快速分享巧妙地將惡意軟體無線注入某人附近的 Windows PC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/10/google_quick_share_rce/</link>
-      <description><![CDATA[或者更確切地說，可以，直到網路巨擘收到訊息 DEF CON  Google Windows 版Quick Share 中現已修復的10 個錯誤可能會被利用來無線寫入新檔案在未經受害者批准的情況下進入受害者的電腦，並最終透過將一些其他漏洞連結在一起在這些受害者的電腦上遠端執行程式碼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/10/google_quick_share_rce/</guid>
-      <pubDate>Sat, 10 Aug 2024 19:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
