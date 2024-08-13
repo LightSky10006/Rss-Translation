@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 18:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 18:40:04 GMT</lastBuildDate>
+    <item>
+      <title>洞察號數據顯示火星表面下存在豐富的水</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/study_of_insight_data_suggests/</link>
+      <description><![CDATA[這些山上有水，但很難到達 來自已故火星洞察號著陸器的數據繼續帶來好處，最新的發現表明，這些山上存在豐富的液態水。 （約7 至12 英里深）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/study_of_insight_data_suggests/</guid>
+      <pubDate>Tue, 13 Aug 2024 18:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>美國指控男子是他們多年來追捕的「精英」勒索軟體先驅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/j_p_morgan_suspect_indicted_charged/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[據說 SpaceX「WasteX」星鏈佔環繞地球衛星的 60% 公共利益倡議團體聯盟美國公共利益研究組織 (US PIRG) 已要求 FCC 停止發射衛星低地球軌道（LEO）衛星發射，直到空間污染的環境後果能夠得到更好的管理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/starlink_spacex_environment_review/</guid>
       <pubDate>Mon, 12 Aug 2024 21:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾為拯救 Raptor Lake 晶片而進行的微代碼修復可能僅適用於預設電源設置</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/raptor_lake_cpu_microcode_patch/</link>
-      <description><![CDATA[所有那些承諾更好效能的 BIOS 選項？啟用它們可能會殺死您的處理器 英特爾第13 代和第14 代酷睿處理器的所有者可能需要遵守晶片巨頭的官方功率限制才能安全使用其CPU。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/raptor_lake_cpu_microcode_patch/</guid>
-      <pubDate>Mon, 12 Aug 2024 20:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
