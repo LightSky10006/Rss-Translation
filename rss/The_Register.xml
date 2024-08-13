@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 13:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 14:10:49 GMT</lastBuildDate>
+    <item>
+      <title>報導稱，華為 Ascend 910 今年 10 月推出，挑戰 Nvidia H100</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</link>
+      <description><![CDATA[美國的製裁可能會讓華為的處境變得艱難，但這家科技巨頭仍然對GPU 抱有很大的野心 據報道，華為正在準備一款與Nvidia 廣受歡迎的H100 相媲美的圖形晶片，並將於今年晚些時候推出。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</guid>
+      <pubDate>Tue, 13 Aug 2024 13:57:47 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧伺服器的需求導致企業級SSD搶購，價格上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/demand_for_ai_servers_ssd_pricing/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 13 Aug 2024 13:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>美國標準機構提議在月球軌道上放置原子鐘以保持月球時間</title>
+      <title>美國標準機構提議在月球軌道上運行原子鐘以保持月球時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</link>
       <description><![CDATA[如果我們想要精確的類似GPS 的探索系統，那麼了解衛星上的精確時間至關重要 美國國家標準與技術研究所(NIST) 的研究人員提出了一項跟踪時間的提案在月球上－月球導航工具的必備品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>馬斯克 (Elon Musk) 聲稱 X 上的川普現場採訪因 DDoS 而脫軌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</link>
-      <description><![CDATA[曾經偉大的平台嚴重打擊了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS 」攻擊，與總統候選人唐納德·特朗普…]]></description>
+      <description><![CDATA[曾經偉大的平台重創了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS”攻擊，與總統候選人唐納德·特朗普…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</guid>
       <pubDate>Tue, 13 Aug 2024 04:01:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路犯罪者訪問了近50 個不同的數據點 亞利桑那州一所理工學校將向208,717 名在校生和前任學生、教職員工和家長發送信件，這些學生的數據在1 月的一次闖入事件中被洩露，導致攻擊者竊取近 50 種個人資訊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/200k_with_links_to_arizona/</guid>
       <pubDate>Mon, 12 Aug 2024 16:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切都枯竭了：微軟將從數位商店中刪除 3D Paint</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_memoriam_microsoft_3d_paint/</link>
-      <description><![CDATA[不受歡迎的多維塗鴉遊戲即將迎來人工智慧更新 微軟已經在其混合現實冒險的棺材上敲下了最後一根釘子，並確認Paint 3D 將被拋棄一次，並且對於在不久的將來的所有人。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_memoriam_microsoft_3d_paint/</guid>
-      <pubDate>Mon, 12 Aug 2024 15:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
