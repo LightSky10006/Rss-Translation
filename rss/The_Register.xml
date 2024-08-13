@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 06:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 06:41:54 GMT</lastBuildDate>
+    <item>
+      <title>隨著韌體開發人員從活動舞台上移除，DEF CON 徽章分歧變得明顯</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/defcon_badge_disagreement_gets_physical/</link>
+      <description><![CDATA[我們為了這麼一件小事而遭受如此多的恐懼和懷疑，這難道不是一種奇怪的命運嗎？長期以來一直是對於與會者、修補者和收藏家來說是熱門商品，儘管今年他們因為完全不同的原因而受到關注。 /data_centre/_whitepaper_textlinks_top.html&#39; -- &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/defcon_badge_disagreement_gets_physical/</guid>
+      <pubDate>Tue, 13 Aug 2024 06:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>印度的「數位逮捕」騙局規模很大，並且可能正在蔓延</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/india_digital_arrest_scams/</link>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>思科計劃在人工智慧和網路安全推動下再裁員 4,000 人</title>
+      <title>思科計劃在人工智慧和網路安全方面再裁員 4,000 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</link>
       <description><![CDATA[據報道，週三財報發布後將進行裁員 據報道，網路巨頭思科將裁員數千人，因為該公司專注於發展網路安全業務並充分利用人工智慧需求。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>一切都枯竭了：微軟將從數位商店中刪除 3D Paint</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_memoriam_microsoft_3d_paint/</link>
-      <description><![CDATA[不受歡迎的多維塗鴉遊戲即將迎來人工智慧更新 微軟已經在其混合現實冒險的棺材上敲下了最後一根釘子，並確認Paint 3D 將被拋棄一次，並且對於在不久的將來的所有人。 ...]]></description>
+      <description><![CDATA[不受歡迎的多維塗鴉遊戲即將迎來人工智慧更新 微軟已經在其混合現實冒險的棺材上敲下了最後一根釘子，並確認Paint 3D 將被拋棄一次，並且對於在不久的將來的所有人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_memoriam_microsoft_3d_paint/</guid>
       <pubDate>Mon, 12 Aug 2024 15:33:08 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>LLM 驅動的 C-to-Rust。不只是一個好主意，還是一個渴望逃跑的精靈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</link>
-      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為滿足工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
+      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</guid>
       <pubDate>Mon, 12 Aug 2024 08:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>香菸故障燒毀了非洲網路的一大塊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/who_me/</link>
-      <description><![CDATA[試圖奪取功勞的假駭客也沒有多大幫助 誰，我？ ，這意味著《誰，我？ – 在該專欄中，讀者分享了他們無可置疑的技術實力稍顯不足的故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/who_me/</guid>
-      <pubDate>Mon, 12 Aug 2024 07:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
