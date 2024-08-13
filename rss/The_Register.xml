@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 17:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 17:35:25 GMT</lastBuildDate>
+    <item>
+      <title>美國指控男子是他們多年來追捕的「精英」勒索軟體先驅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/j_p_morgan_suspect_indicted_charged/</link>
+      <description><![CDATA[當局聲稱「J.P.摩根實施「極端操作和網路安全」 美國已指控一名嫌疑人，他們聲稱該嫌疑人是一名白俄羅斯-烏克蘭網路犯罪分子，其犯罪行為可以追溯到2011 年。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/j_p_morgan_suspect_indicted_charged/</guid>
+      <pubDate>Tue, 13 Aug 2024 17:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>隨著開放模式倡議加入 Linux 基金會進軍人工智慧領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/open_model_initiative_linux_foundation/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>SpaceX 試圖洗刷德州污染指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/spacex_snaps_back_over_texas/</link>
-      <description><![CDATA[馬斯克：瞄準火星，但有時最終會到達水星？  伊隆馬斯克的SpaceX 正在反駁有關其火箭污染德克薩斯州水資源的說法，這要歸功於用於阻止星際飛船撕裂地球的雨淋系統。]]></description>
+      <description><![CDATA[馬斯克：瞄準火星，但有時最終會到達水星？  埃隆馬斯克的SpaceX 正在反駁有關其火箭因用於阻止星際飛船撕裂地球的雨淋系統而污染德州水資源的說法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/spacex_snaps_back_over_texas/</guid>
       <pubDate>Tue, 13 Aug 2024 14:32:12 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 13 Aug 2024 13:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>美國標準機構提議在月球軌道上放置原子鐘以保持月球時間</title>
+      <title>美國標準機構提議在月球軌道上運行原子鐘以保持月球時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</link>
       <description><![CDATA[如果我們想要精確的類似GPS 的探索系統，那麼了解衛星上的精確時間至關重要 美國國家標準與技術研究所(NIST) 的研究人員提出了一項跟踪時間的提案在月球上－月球導航工具的必備品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>馬斯克 (Elon Musk) 聲稱 X 上的川普現場採訪因 DDoS 而脫軌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</link>
-      <description><![CDATA[曾經偉大的平台嚴重打擊了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS 」攻擊，與總統候選人唐納德·特朗普…]]></description>
+      <description><![CDATA[曾經偉大的平台重創了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS”攻擊，與總統候選人唐納德·特朗普…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</guid>
       <pubDate>Tue, 13 Aug 2024 04:01:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[所有那些承諾更好效能的 BIOS 選項？啟用它們可能會殺死您的處理器 英特爾第13 代和第14 代酷睿處理器的所有者可能需要遵守晶片巨頭的官方功率限制才能安全使用其CPU。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/raptor_lake_cpu_microcode_patch/</guid>
       <pubDate>Mon, 12 Aug 2024 20:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>DEF CON Franklin 專案招募駭客來強化關鍵基礎設施</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/def_con_franklin_project_hopes_hackers/</link>
-      <description><![CDATA[投票村報告非常成功，傑夫·莫斯(Jeff Moss) 表示，現在整個DEF CON 都將被納入其中 Def Con 每年平均有30,000 名與會者參加在拉斯維加斯舉行的 DEF CON 安全會議上，可以肯定地假設至少一兩個參加會議的駭客對保護關鍵基礎設施有一些必要的見解。現在，一項名為「富蘭克林」的新舉措希望以政策友好的形式獲得一些資訊安全專業知識。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/def_con_franklin_project_hopes_hackers/</guid>
-      <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
