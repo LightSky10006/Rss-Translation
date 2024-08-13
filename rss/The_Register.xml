@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 06:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 07:35:02 GMT</lastBuildDate>
+    <item>
+      <title>研究人員認為，人工智慧聊天機器人會放大錯誤記憶的產生——事實果真如此嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ai_chatbots_amplify_creation_of/</link>
+      <description><![CDATA[我們可能會為你記錯 研究人員聲稱，以產生幻覺的習慣而聞名的人工智慧聊天機器人也可以誘導人們產生幻覺。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ai_chatbots_amplify_creation_of/</guid>
+      <pubDate>Tue, 13 Aug 2024 07:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>隨著韌體開發人員從活動舞台上移除，DEF CON 徽章分歧變得明顯</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/defcon_badge_disagreement_gets_physical/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>馬斯克 (Elon Musk) 聲稱 X 上的川普現場採訪因 DDoS 而脫軌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</link>
-      <description><![CDATA[曾經偉大的平台重創了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS”攻擊，與總統候選人唐納德·特朗普…]]></description>
+      <description><![CDATA[曾經偉大的平台嚴重打擊了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS 」攻擊，與總統候選人唐納德·特朗普…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</guid>
       <pubDate>Tue, 13 Aug 2024 04:01:13 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>思科計劃在人工智慧和網路安全方面再裁員 4,000 人</title>
+      <title>思科計劃在人工智慧和網路安全推動下再裁員 4,000 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</link>
       <description><![CDATA[據報道，週三財報發布後將進行裁員 據報道，網路巨頭思科將裁員數千人，因為該公司專注於發展網路安全業務並充分利用人工智慧需求。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[忘記Starliner 的困境吧，美國宇航局(NASA) 大膽地在另一顆行星上著陸，這次著陸非常正確 雖然NASA 可能正在努力讓其Starliner 機組人員回家，但值得記住的是，大約12 年前，該機構正在慶祝好奇號火星車在火星表面的成功部署。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/in_celebration_of_curiositys_successful/</guid>
       <pubDate>Mon, 12 Aug 2024 09:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 驅動的 C-to-Rust。不只是一個好主意，還是一個渴望逃跑的精靈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</link>
-      <description><![CDATA[自動為人民服務？不要介意我們這樣做 意見  Rust 改變世界。我們為工業時代而開採的鐵礦石始於2十億年前鐵原子溶解在海洋中。然後發生光合作用，將氧氣從水中排出，使鐵生鏽，進入我們今天發現非常有用的固體礦物質。 Rust 這種程式語言也發生了同樣的情況，因為它成為將史前 C 代碼轉變為適合未來的安全、高性能材料的首選機制。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/opinion_column/</guid>
-      <pubDate>Mon, 12 Aug 2024 08:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
