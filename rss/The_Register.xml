@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 19:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 20:13:07 GMT</lastBuildDate>
     <item>
-      <title>FTC 敦促法官對谷歌 Android 應用市場壟斷行為進行紀律處分</title>
+      <title>6 個勒索軟體團夥是 2024 年超過 50% 的攻擊的幕後黑手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</link>
+      <description><![CDATA[還有更多新手在伺機而動 據Palo Alto 稱，儘管六個月前執法部門取締了LockBit 3.0，但至少到目前為止，LockBit 3.0 仍然是今年最多產的加密與勒索集團網路單元 42.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</guid>
+      <pubDate>Tue, 13 Aug 2024 20:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC 敦促法官嚴厲打擊谷歌 Android 應用市場壟斷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ftc_google_android_monopoly/</link>
-      <description><![CDATA[FTC 辯稱，不要理會Google 對合規成本的抱怨 美國聯邦貿易委員會已敦促負責Epic Games 針對Google 反壟斷訴訟的加州法官採取強有力的行動，糾正該公司的違規行為Android應用市場的反競爭管理。在此之前，另一位聯邦法官最近裁定這家科技巨頭違反了美國反壟斷法與其搜尋業務相關的法律。]]></description>
+      <description><![CDATA[監管機構辯稱，不要理會網路巨頭對合規成本的抱怨 美國聯邦貿易委員會已敦促負責監督Epic Games 針對Google 反壟斷訴訟的加州法官採取強有力的行動來糾正這項行為公司對 Android 應用市場的反競爭管理。在此之前，另一位聯邦法官最近裁定這家科技巨頭違反了美國反壟斷法與其搜尋業務相關的法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ftc_google_android_monopoly/</guid>
       <pubDate>Tue, 13 Aug 2024 19:15:15 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 13 Aug 2024 14:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>報導稱，華為 Ascend 910 今年 10 月推出，挑戰 Nvidia H100</title>
+      <title>華為Ascend 910將於今年10月推出，挑戰Nvidia H100</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</link>
       <description><![CDATA[美國的製裁可能會讓華為的處境變得艱難，但這家科技巨頭仍然對GPU 抱有很大的野心 據報道，華為正在準備一款與Nvidia 廣受歡迎的H100 相媲美的圖形晶片，並將於今年晚些時候推出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[科技業被告知要整頓自己的行為，並幫助其他人也這樣做，以實現2035 年「美麗中國」的目標 中國的數位基礎設施提供者被告知，他們需要減少二氧化碳排放和根據昨天宣布的全面“全面綠色轉型”計劃，能源消耗，再加上考慮停止使用小型設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/china_green_policy_tech_elements/</guid>
       <pubDate>Tue, 13 Aug 2024 02:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 將對 iOS 新 Patreon 訂閱者收取 30% 的分成</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/patreon_apple_ios/</link>
-      <description><![CDATA[你不可能透過友善而成為世界上最大的企業 Patreon 今天表示，蘋果很快就會從透過其iOS 應用程式購買的新訂閱中抽取30% 的佣金。 . ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/patreon_apple_ios/</guid>
-      <pubDate>Mon, 12 Aug 2024 23:28:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
