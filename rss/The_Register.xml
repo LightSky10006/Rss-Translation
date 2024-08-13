@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 20:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 21:11:17 GMT</lastBuildDate>
+    <item>
+      <title>另一個 GPU 雲端出現了。這次，新貴Foundry</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</link>
+      <description><![CDATA[Biz 的目標不僅僅是另一個租賃加速器集群提供者 在持續的人工智慧熱潮中，另一個 GPU 雲端已經合併。今天，人工智慧基礎設施新創公司 Foundry 宣布其雲端平台現已提供有限存取。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</guid>
+      <pubDate>Tue, 13 Aug 2024 20:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>6 個勒索軟體團夥是 2024 年超過 50% 的攻擊的幕後黑手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[核心模式對你來說不夠好？也許您會喜歡這個SMM 一些可追溯到2006 年的AMD 處理器存在安全漏洞，這對於特別不法的惡意軟體和流氓內部人員來說是一個福音，儘管晶片設計者只修補了2020 年以來製造的型號。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/amd_sinkclose_patches/</guid>
       <pubDate>Tue, 13 Aug 2024 03:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國新能源政策下小型資料中心面臨砍伐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/china_green_policy_tech_elements/</link>
-      <description><![CDATA[科技業被告知要整頓自己的行為，並幫助其他人也這樣做，以實現2035 年「美麗中國」的目標 中國的數位基礎設施提供者被告知，他們需要減少二氧化碳排放和根據昨天宣布的全面“全面綠色轉型”計劃，能源消耗，再加上考慮停止使用小型設施。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/china_green_policy_tech_elements/</guid>
-      <pubDate>Tue, 13 Aug 2024 02:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
