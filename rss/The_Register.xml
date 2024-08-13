@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 21:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 21:34:26 GMT</lastBuildDate>
+    <item>
+      <title>Akeana 首次推出 RISC-V CPU 設計，預算為 1 億美元，渴望角力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/akeana_riscv_cpus/</link>
+      <description><![CDATA[Marvell ThunderX2 晶片背後的團隊發生了什麼事？哦，你好 Akeana 在過去幾年中獲得了超過1 億美元的融資，現在推出了期待已久的RISC-V CPU 設計系列，這些產品針對從嵌入式到資料中心的應用系統...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/akeana_riscv_cpus/</guid>
+      <pubDate>Tue, 13 Aug 2024 21:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>另一個 GPU 雲端出現了。這次，新貴Foundry</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</link>
-      <description><![CDATA[Biz 的目標不僅僅是另一個租賃加速器集群提供者 在持續的人工智慧熱潮中，另一個 GPU 雲端已經合併。今天，人工智慧基礎設施新創公司 Foundry 宣布其雲端平台現已提供有限存取。]]></description>
+      <description><![CDATA[Biz 的目標不僅僅是另一家租賃加速器集群提供者 在持續的人工智慧熱潮中，另一個 GPU 雲端已經合併。今天，人工智慧基礎設施新創公司 Foundry 宣布其雲端平台現已提供有限存取。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</guid>
       <pubDate>Tue, 13 Aug 2024 20:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>6 個勒索軟體團夥是 2024 年超過 50% 的攻擊的幕後黑手</title>
+      <title>6 個勒索軟體集團是 2024 年超過 50% 的攻擊的幕後黑手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</link>
-      <description><![CDATA[還有更多新手在伺機而動 據Palo Alto 稱，儘管六個月前執法部門取締了LockBit 3.0，但至少到目前為止，LockBit 3.0 仍然是今年最多產的加密與勒索集團網路單元 42.... ]]></description>
+      <description><![CDATA[還有更多新手在伺機而動 據Palo Alto 稱，儘管六個月前執法部門取締了LockBit 3.0，但至少到目前為止，今年LockBit 3.0 仍然是最多產的加密與勒索集團網路單元 42.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</guid>
       <pubDate>Tue, 13 Aug 2024 20:00:15 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>SpaceX 試圖洗刷德州污染指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/spacex_snaps_back_over_texas/</link>
-      <description><![CDATA[伊隆馬斯克：瞄準火星，但有時最終會到達水星？  更新 埃隆馬斯克的SpaceX 正在質疑其火箭因洪水系統污染德克薩斯州水資源的說法用於阻止星艦在升空時撕裂其發射台。]]></description>
+      <description><![CDATA[伊隆馬斯克：瞄準火星，但有時最終會到達水星？  更新 埃隆馬斯克的SpaceX 正在質疑其火箭因洪水系統污染德克薩斯州水的說法用於阻止星艦在升空時撕裂其發射台。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/spacex_snaps_back_over_texas/</guid>
       <pubDate>Tue, 13 Aug 2024 14:32:12 GMT</pubDate>
     </item>
     <item>
       <title>華為Ascend 910將於今年10月推出，挑戰Nvidia H100</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</link>
-      <description><![CDATA[美國的製裁可能會讓華為的處境變得艱難，但這家科技巨頭仍然對GPU 抱有很大的野心 據報道，華為正在準備一款與Nvidia 廣受歡迎的H100 相媲美的圖形晶片，並將於今年晚些時候推出。]]></description>
+      <description><![CDATA[美國的製裁可能會讓華為的處境變得困難，但這家科技巨頭仍然擁有巨大的GPU 野心 據報道，華為正在準備一款與Nvidia 廣受歡迎的H100 相媲美的圖形晶片，並將於今年稍後推出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</guid>
       <pubDate>Tue, 13 Aug 2024 13:57:47 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[曾經偉大的平台重創了另一個主要的政治直播 埃隆·馬斯克(Elon Musk) 將其在X 上主持的直播採訪開始延遲四十分鐘歸咎於“DDoS”攻擊，與總統候選人唐納德·特朗普…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/trump_musk_livestream_ddos_delay/</guid>
       <pubDate>Tue, 13 Aug 2024 04:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 不會修補舊款 Zen CPU 上的 Sinkclose 安全漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/amd_sinkclose_patches/</link>
-      <description><![CDATA[核心模式對你來說不夠好？也許您會喜歡這個SMM 一些可追溯到2006 年的AMD 處理器存在安全漏洞，這對於特別不法的惡意軟體和流氓內部人員來說是一個福音，儘管晶片設計者只修補了2020 年以來製造的型號。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/amd_sinkclose_patches/</guid>
-      <pubDate>Tue, 13 Aug 2024 03:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
