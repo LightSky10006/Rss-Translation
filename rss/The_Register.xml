@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 02:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 03:36:39 GMT</lastBuildDate>
+    <item>
+      <title>AMD 不會修補舊款 Zen CPU 上的 Sinkclose 安全漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/amd_sinkclose_patches/</link>
+      <description><![CDATA[核心模式對你來說不夠好？也許您會喜歡這個SMM 一些可追溯到2006 年的AMD 處理器存在安全漏洞，這對於特別不法的惡意軟體和流氓內部人員來說是一個福音，儘管晶片設計者只修補了2020 年以來製造的型號。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/amd_sinkclose_patches/</guid>
+      <pubDate>Tue, 13 Aug 2024 03:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>中國新能源政策下小型資料中心面臨砍伐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/china_green_policy_tech_elements/</link>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 12 Aug 2024 19:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>思科計劃在人工智慧和網路安全方面再裁員 4,000 人</title>
+      <title>思科計劃在人工智慧和網路安全推動下再裁員 4,000 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</link>
       <description><![CDATA[據報道，週三財報發布後將進行裁員 據報道，網路巨頭思科將裁員數千人，因為該公司專注於發展網路安全業務並充分利用人工智慧需求。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/cisco_job_cuts/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[點已連接，但確鑿的證據並不明顯 美國前總統唐納德·特朗普的連任競選團隊聲稱自己是網絡攻擊的受害者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/trump_campaign_hacked_iran_claim/</guid>
       <pubDate>Mon, 12 Aug 2024 05:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里雲聲稱 K8s 服務網格可能需要比它們運行的應用程式更多的資源</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/</link>
-      <description><![CDATA[建構了自己的替代品- Canal Mesh - 據稱這讓Google 的Istio 和Ambient 望塵莫及 SIGCOMM 2024  阿里雲已聲稱擁有針對Kubernetes 的本土服務網格 - Canal Mesh – 顯著優於Google 的Istio 和其他競爭對手工具。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/alibaba_microservices_mesh_canal/</guid>
-      <pubDate>Mon, 12 Aug 2024 04:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
