@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 13 Aug 2024 10:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 11:09:53 GMT</lastBuildDate>
+    <item>
+      <title>誰使用 LLM 提示注入攻擊 IRL？大多是不擇手段的求職者、開玩笑者和巨魔</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/who_uses_llm_prompt_injection/</link>
+      <description><![CDATA[因為像盜版者一樣說話和創建ASCII 藝術的應用程式永遠不會過時 儘管擔心犯罪分子使用即時注入來欺騙大型語言模型(LLM) 洩露敏感資料或執行其他破壞性操作，但其中大多數據俄羅斯安全公司卡巴斯基稱，人工智慧惡作劇的類型來自於試圖讓自己的簡歷通過自動人力資源篩選器的求職者，以及出於各種原因抗議生成式人工智慧的人們。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/who_uses_llm_prompt_injection/</guid>
+      <pubDate>Tue, 13 Aug 2024 10:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>近距離接觸協和飛機、協和斯基飛機和暴風雪飛機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/geeks_guide_speyer_and_sinsheim/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[43% 的時間，45% 的時間確實有效 分析 儘管生成式 AI 有很多承諾，但它可能會很昂貴規模化，投資回報並不總是明確的。可以理解為什麼一些大大小小的企業現階段可能會對投資該技術猶豫不決。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/google_ai_roi_report/</guid>
       <pubDate>Mon, 12 Aug 2024 12:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 總裁在接受「史詩失敗」Pwnie 獎後歡呼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/12/crowdstrike_president_cheered_following_acceptance/</link>
-      <description><![CDATA[Michael Sentonas 希望獎盃能提醒員工失敗是不可接受的 DEF CON  CrowdStrike 的總裁在接受Pwnie 最具史詩失敗獎後，獲得了DEF CON 與會者的讚揚。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/12/crowdstrike_president_cheered_following_acceptance/</guid>
-      <pubDate>Mon, 12 Aug 2024 11:25:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
