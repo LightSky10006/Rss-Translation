@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 15:34:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 16:15:50 GMT</lastBuildDate>
+    <item>
+      <title>美國太空總署的 VIPER 漫遊者畢竟仍可能到達月球表面</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nasas_viper_moon_rover_might/</link>
+      <description><![CDATA[Intuitive Machines 向 NASA 取消的 trundlebot 致敬 Intuitive Machines 已提交拯救 NASA VIPER 漫遊車的報價，稱美國航天局在將其削減為“一個政府號碼。”...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nasas_viper_moon_rover_might/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:59:05 GMT</pubDate>
+    </item>
     <item>
       <title>冰島集團展示由再生能源驅動的私有雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/iceland_dc_demo/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>印度政府擱置了像真正的廣播公司一樣對待影響者的法案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_government_bins_tech_bill/</link>
-      <description><![CDATA[網路名人可能會覺得這很討人喜歡，但如果這意味著委員會必須批准他們的下一次直播，則不然 印度資訊和廣播部(MIB) 在批評該法案要求在線上直播後撤回了一項旗艦法案內容創作者必須註冊並遵守與廣播公司相同的法律。]]></description>
+      <description><![CDATA[網路名人可能會覺得這很討人喜歡- 但如果這意味著委員會必須批准他們的下一次直播，則不然 印度資訊和廣播部(MIB) 在批評該法案要求在線上直播後撤回了一項旗艦法案內容創作者必須註冊並遵守與廣播公司相同的法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_government_bins_tech_bill/</guid>
       <pubDate>Wed, 14 Aug 2024 03:02:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>另一個 GPU 雲端出現了。這次，新貴Foundry</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</link>
-      <description><![CDATA[Biz 的目標不僅僅是另一個租賃加速器集群提供者 在持續的人工智慧熱潮中，另一個 GPU 雲端已經合併。今天，人工智慧基礎設施新創公司 Foundry 宣布其雲端平台現已提供有限存取。]]></description>
+      <description><![CDATA[Biz 的目標不僅僅是另一家租賃加速器集群提供者 在持續的人工智慧熱潮中，另一個 GPU 雲端已經合併。今天，人工智慧基礎設施新創公司 Foundry 宣布其雲端平台現已提供有限存取。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/foundry_gpu_cloud/</guid>
       <pubDate>Tue, 13 Aug 2024 20:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 個勒索軟體團夥是 2024 年超過 50% 的攻擊的幕後黑手</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</link>
-      <description><![CDATA[還有更多新手在伺機而動 據Palo Alto 稱，儘管六個月前執法部門取締了LockBit 3.0，但至少到目前為止，LockBit 3.0 仍然是今年最多產的加密與勒索集團網路單元 42.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</guid>
-      <pubDate>Tue, 13 Aug 2024 20:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
