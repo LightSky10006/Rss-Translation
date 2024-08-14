@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 08:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 08:38:20 GMT</lastBuildDate>
+    <item>
+      <title>還在等待 Pi 500 並想知道今年夏天會做什麼？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/still_waiting_for_a_pi/</link>
+      <description><![CDATA[團隊知道您想要一個，但同時為什麼不自己製作一個呢？ /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/still_waiting_for_a_pi/</guid>
+      <pubDate>Wed, 14 Aug 2024 08:35:12 GMT</pubDate>
+    </item>
     <item>
       <title>Defender 中的 Microsoft Edge 促銷稱為“深色模式”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_edge_promotion_in_defender/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>NIST 最終確定了三個後量子加密標準</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</link>
-      <description><![CDATA[遠遠領先於我們所有資訊都成為一本打開的書的十年之後的時刻 美國國家標準與技術研究院 (NIST) 今天發布了期待已久的後量子加密標準，旨在保護未來很長一段時間內的電子資訊——屆時量子電腦有望打破現有的加密演算法。]]></description>
+      <description><![CDATA[遠遠領先於我們所有資訊都成為一本打開的書的十年之後的時刻 美國國家標準與技術研究院 (NIST) 今天發布了期待已久的後量子加密標準，旨在保護未來的電子資訊－屆時量子電腦有望打破現有的加密演算法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</guid>
       <pubDate>Wed, 14 Aug 2024 01:44:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您購買個人套件，那麼這是個壞消息，因為消費者快閃記憶體開始漲價 對支援人工智慧的基礎設施的需求導致伺服器買家大幅增加企業固態硬碟(SSD)的訂單，這對基於快閃記憶體的儲存單元的價格產生了通膨影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/demand_for_ai_servers_ssd_pricing/</guid>
       <pubDate>Tue, 13 Aug 2024 13:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國標準機構提議在月球軌道上放置原子鐘以保持月球時間</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</link>
-      <description><![CDATA[如果我們想要精確的類似GPS 的探索系統，那麼了解衛星上的精確時間至關重要 美國國家標準與技術研究所(NIST) 的研究人員提出了一項跟踪時間的提案在月球上－月球導航工具的必備品。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/nist_lunar_orbit_clocks/</guid>
-      <pubDate>Tue, 13 Aug 2024 12:41:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
