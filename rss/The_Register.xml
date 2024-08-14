@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 21:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:35:08 GMT</lastBuildDate>
+    <item>
+      <title>IRS 擁有大量遺留 IT，但仍沒有明確的替代計劃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</link>
+      <description><![CDATA[財政部對技術退休辦公室的退休提出質疑 審計得出結論，應該重新開放專注於退休和更換遺留技術的已關閉的國稅局辦公室，以便美國徵稅機構能夠牢牢控制住更換老化的技術堆疊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</guid>
+      <pubDate>Wed, 14 Aug 2024 21:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟調整細則警告所有人不要認真看待其人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_services_agreement_update_warns/</link>
-      <description><![CDATA[不要將法學碩士用於任何重要的事情，也不要嘗試對其進行逆向工程 微軟正在通知人們，其人工智慧服務不應該被過於認真地對待，這與之前針對特定服務的免責聲明相呼應。]]></description>
+      <description><![CDATA[不要將法學碩士用於任何重要的事情，也不要嘗試對其進行逆向工程 微軟正在通知人們，不應過於認真地對待其人工智能服務，這與之前的特定服務免責聲明相呼應。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_services_agreement_update_warns/</guid>
       <pubDate>Wed, 14 Aug 2024 20:28:07 GMT</pubDate>
     </item>
     <item>
       <title>延誤？富士康堅稱，第四季度我們仍在「少量」運送 Nvidia GB200</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</link>
-      <description><![CDATA[產量提升不會在2025 年第一季開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統在第四季...... ]]></description>
+      <description><![CDATA[產量提升不會在2025 年第一季開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統第四季... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</guid>
       <pubDate>Wed, 14 Aug 2024 19:30:08 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Enzo Biochem 因安全問題導致勒索軟體災難而被勒令賠償 450 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</link>
-      <description><![CDATA[三名州檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
+      <description><![CDATA[三名州總檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州總檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</guid>
       <pubDate>Wed, 14 Aug 2024 17:02:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路名人可能會覺得這很討人喜歡，但如果這意味著委員會必須批准他們的下一次直播，則不然 印度資訊和廣播部(MIB) 在受到批評後撤回了一項旗艦法律法案，該法案要求線上內容創作者必須註冊並遵守與廣播公司相同的法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_government_bins_tech_bill/</guid>
       <pubDate>Wed, 14 Aug 2024 03:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIST 最終確定了三個後量子加密標準</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</link>
-      <description><![CDATA[遠遠領先於我們所有資訊都成為一本打開的書的十年之後的時刻 美國國家標準與技術研究院 (NIST) 今天發布了期待已久的後量子加密標準，旨在保護未來的電子資訊－屆時量子電腦有望打破現有的加密演算法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</guid>
-      <pubDate>Wed, 14 Aug 2024 01:44:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
