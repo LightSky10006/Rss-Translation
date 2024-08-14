@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 17:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 18:14:55 GMT</lastBuildDate>
+    <item>
+      <title>德州起訴通用汽車向分析公司和保險公司出售駕駛員數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/texas_sues_general_motors/</link>
+      <description><![CDATA[孤星州指控通用汽車從銷售中獲得了「數百萬美元的一次性付款」 德州已起訴通用汽車公司，稱該公司實施了長達數年的收集和出售駕駛員資料的計劃未經第三方（包括保險公司）的知情或同意。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/texas_sues_general_motors/</guid>
+      <pubDate>Wed, 14 Aug 2024 18:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>Enzo Biochem 因安全問題導致勒索軟體災難而被勒令賠償 450 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</link>
-      <description><![CDATA[三名州總檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州總檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
+      <description><![CDATA[三名州檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</guid>
       <pubDate>Wed, 14 Aug 2024 17:02:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[還有四支手機。嗚。耶。獨有的手持裝置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/google_gemini_ai_pixel/</guid>
       <pubDate>Tue, 13 Aug 2024 22:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akeana 首次推出 RISC-V CPU 設計，預算為 1 億美元，渴望角力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/akeana_riscv_cpus/</link>
-      <description><![CDATA[Marvell ThunderX2 晶片背後的團隊發生了什麼事？哦，你好 Akeana 在過去幾年中獲得了超過1 億美元的融資，現在推出了期待已久的RISC-V CPU 設計系列，這些產品針對從嵌入式到資料中心的應用系統...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/akeana_riscv_cpus/</guid>
-      <pubDate>Tue, 13 Aug 2024 21:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
