@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 00:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 02:03:20 GMT</lastBuildDate>
+    <item>
+      <title>NIST 最終確定了三個後量子加密標準</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</link>
+      <description><![CDATA[遠遠領先於我們所有資訊都成為一本打開的書的十年之後的時刻 美國國家標準與技術研究院 (NIST) 今天發布了期待已久的後量子加密標準，旨在保護未來的電子資訊－屆時量子電腦有望打破現有的加密演算法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nist_postquantum_standards/</guid>
+      <pubDate>Wed, 14 Aug 2024 01:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>週二補丁帶來 90 個新的 Microsoft CVE，其中 6 個已被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/august_patch_tuesday/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[報告建議政府著手進行適當的所有權結構調查…等等，他們忘記了中部地區嗎？成功培育未來成功的國內半導體生態系。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/uk_semi_industry_exposed_to/</guid>
       <pubDate>Tue, 13 Aug 2024 08:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員認為，人工智慧聊天機器人會放大錯誤記憶的產生——事實果真如此嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ai_chatbots_amplify_creation_of/</link>
-      <description><![CDATA[我們可能會為你記錯 研究人員聲稱，以產生幻覺的習慣而聞名的人工智慧聊天機器人也可以誘導人們產生幻覺。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ai_chatbots_amplify_creation_of/</guid>
-      <pubDate>Tue, 13 Aug 2024 07:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
