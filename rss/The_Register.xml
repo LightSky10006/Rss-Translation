@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 19:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 19:35:10 GMT</lastBuildDate>
+    <item>
+      <title>延誤？富士康堅稱，第四季度我們仍在「少量」運送 Nvidia GB200</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</link>
+      <description><![CDATA[產量提升不會在2025 年第一季開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統在第四季...... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</guid>
+      <pubDate>Wed, 14 Aug 2024 19:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯網路窺探與大規模憑證竊取活動有關</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/russias_fsb_cyber_phishing/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Enzo Biochem 因安全問題導致勒索軟體災難而被勒令賠償 450 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</link>
-      <description><![CDATA[三名州總檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州總檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
+      <description><![CDATA[三名州檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</guid>
       <pubDate>Wed, 14 Aug 2024 17:02:10 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>微軟在 Defender 中不斷推、推、推 Edge 被猛烈抨擊為“黑暗模式”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_edge_promotion_in_defender/</link>
-      <description><![CDATA[這是廣告嗎？或是嚴肅的資訊安全建議？因模糊了兩者之間的界限而受到批評。]]></description>
+      <description><![CDATA[這是廣告嗎？或是嚴肅的資訊安全建議？因模糊界線而受到批評在建議與廣告之間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_edge_promotion_in_defender/</guid>
       <pubDate>Wed, 14 Aug 2024 07:30:08 GMT</pubDate>
     </item>
@@ -133,17 +140,10 @@
     </item>
     <item>
       <title>微軟修補可怕的蠕蟲透過 IPv6 劫持我的盒子安全漏洞和其他漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/august_patch_tuesday/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/august_patch_tuesday_ipv6/</link>
       <description><![CDATA[此外，英特爾修復了43 個錯誤，SAP 和AdAdobe 也採取了行動 週二補丁，微軟披露了其產品中的90 個缺陷，其中6 個缺陷已被修復已經被利用- 以及其他四個被列為公開已知的。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/august_patch_tuesday/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/august_patch_tuesday_ipv6/</guid>
       <pubDate>Wed, 14 Aug 2024 00:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登試圖撥開因故意欺騙客戶服務技巧而造成的混亂迷霧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/biden_administration_time_is_money/</link>
-      <description><![CDATA[針對不可能的取消訂閱、難以捉摸的人工協助和其他耗盡錢包的時間的企業 使用迷宮般的訂閱取消程序、脆弱的客戶服務機器人和其他用來讓客戶逃跑的憤世嫉俗的計劃的企業已經被拜登政府注意到了…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/biden_administration_time_is_money/</guid>
-      <pubDate>Tue, 13 Aug 2024 23:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
