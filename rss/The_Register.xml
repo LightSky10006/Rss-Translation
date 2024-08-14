@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 14:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 15:11:56 GMT</lastBuildDate>
+    <item>
+      <title>冰島集團展示由再生能源驅動的私有雲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/iceland_dc_demo/</link>
+      <description><![CDATA[位於雷克雅未克的資料中心依靠地熱能和水力發電 一個公司聯盟正在對由位於冰島的資料中心提供的統包雲服務進行概念驗證，該服務完全由再生能源供電幫助客戶履行其環境、社會和治理(ESG) 義務。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/iceland_dc_demo/</guid>
+      <pubDate>Wed, 14 Aug 2024 15:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟修復了導致 Windows 裝置進行 BitLocker 復原的錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_bitlocker_bug_security_update/</link>
+      <description><![CDATA[修正導致管理員盜取復原金鑰的修補程式的修補程式 Microsoft 修正了導致受影響的 Windows PC 匆忙進行 BitLocker 復原的問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_bitlocker_bug_security_update/</guid>
+      <pubDate>Wed, 14 Aug 2024 14:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>SiFive 首次推出 Neoverse N2 競爭對手 P870-D RISC-V 資料中心核心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/sifive_debuts_efficiencyfocused_p870d_riscv/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[還有更多新手在伺機而動 據Palo Alto 稱，儘管六個月前執法部門取締了LockBit 3.0，但至少到目前為止，LockBit 3.0 仍然是今年最多產的加密與勒索集團網路單元 42.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/lockbit_ransomware_stats/</guid>
       <pubDate>Tue, 13 Aug 2024 20:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 敦促法官嚴厲打擊谷歌 Android 應用市場壟斷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ftc_google_android_monopoly/</link>
-      <description><![CDATA[監管機構辯稱，不要理會網路巨頭對合規成本的抱怨 美國聯邦貿易委員會已敦促負責監督Epic Games 針對Google 反壟斷訴訟的加州法官採取強有力的行動來糾正這項行為公司對 Android 應用市場的反競爭管理。在此之前，另一位聯邦法官最近裁定這家科技巨頭違反了美國反壟斷法與其搜尋業務相關的法律。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/ftc_google_android_monopoly/</guid>
-      <pubDate>Tue, 13 Aug 2024 19:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>洞察號數據顯示火星表面下存在豐富的水</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/study_of_insight_data_suggests/</link>
-      <description><![CDATA[這些山上有水，但很難到達 來自已故火星洞察號著陸器的數據繼續帶來好處，最新的發現表明，這些山上存在豐富的液態水。 （約7 至12 英里深）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/study_of_insight_data_suggests/</guid>
-      <pubDate>Tue, 13 Aug 2024 18:35:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
