@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 09:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 10:12:47 GMT</lastBuildDate>
+    <item>
+      <title>聯想是美國反華安全措施的盲點嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/opinion_lenovo_jcdc/</link>
+      <description><![CDATA[全球最大的PC 製造商之一加入美國關鍵防禦團隊時提出的問題 意見 聯想參與網路安全計劃，重新引發了有關該公司起源於中國的老問題，尤其是鑑於華盛頓和北京之間對科技的不信任日益加深…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/opinion_lenovo_jcdc/</guid>
+      <pubDate>Wed, 14 Aug 2024 09:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>還在等待 Pi 500 並想知道今年夏天會做什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/still_waiting_for_a_pi/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國的製裁可能會讓華為的處境變得艱難，但這家科技巨頭仍然對GPU 抱有很大的野心 據報道，華為正在準備一款與Nvidia 廣受歡迎的H100 相媲美的圖形晶片，並將於今年晚些時候推出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/huaweis_ascend_910_launches_this/</guid>
       <pubDate>Tue, 13 Aug 2024 13:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧伺服器的需求導致企業級SSD搶購，價格上漲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/13/demand_for_ai_servers_ssd_pricing/</link>
-      <description><![CDATA[如果您購買個人套件，那麼這是個壞消息，因為消費者快閃記憶體開始漲價 對支援人工智慧的基礎設施的需求導致伺服器買家大幅增加企業固態硬碟(SSD)的訂單，這對基於快閃記憶體的儲存單元的價格產生了通膨影響。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/13/demand_for_ai_servers_ssd_pricing/</guid>
-      <pubDate>Tue, 13 Aug 2024 13:28:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
