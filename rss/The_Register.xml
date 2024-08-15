@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 14 Aug 2024 23:47:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 00:49:56 GMT</lastBuildDate>
+    <item>
+      <title>演員可以在工會協議中獲得人工智慧語音克隆的許可</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/actors_union_ai_voice_clone/</link>
+      <description><![CDATA[Thesp 至少對他們的分身會說什麼有最終決定權 由於SAG-AFTRA 和人工智慧克隆新貴之間達成的協議，廣告中人工智慧生成的聲音可能會變得更加普遍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/actors_union_ai_voice_clone/</guid>
+      <pubDate>Thu, 15 Aug 2024 00:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 在自身崩潰後回滾資料庫更改</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/github_rollback/</link>
+      <description><![CDATA[Git 歸咎於基礎設施更新 如果您今天無法或無法訪問 GitHub，那是因為該網站自行崩潰了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/github_rollback/</guid>
+      <pubDate>Wed, 14 Aug 2024 23:52:13 GMT</pubDate>
+    </item>
     <item>
       <title>IRS 擁有大量遺留 IT，但仍沒有明確的替代計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[涉及區塊鏈，因此它完全會阻止您接到這些電話 印度電信監管局(TRAI) 週二指示電信公司停止未註冊電話推銷員的電話，並阻止他們再次使用網路進行電話行銷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_telco_telemarketer_blacklist/</guid>
       <pubDate>Wed, 14 Aug 2024 06:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾，已經漂流了，現在也無手臂了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/intel_sells_arm_shares/</link>
-      <description><![CDATA[出售競爭對手晶片設計公司的股份，保留其MariaDB 股份 英特爾已出售其在晶片設計公司Arm 的股票- 考慮到Arm 股票價格上漲，可能淨賺約1.47 億美元，利潤可觀自恢復公開交易以來的 10 個月內達到 96%。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/intel_sells_arm_shares/</guid>
-      <pubDate>Wed, 14 Aug 2024 05:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度廢除了將影響者視為真正的廣播公司的法律草案</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_government_bins_tech_bill/</link>
-      <description><![CDATA[網路名人可能會覺得這很討人喜歡，但如果這意味著委員會必須批准他們的下一次直播，則不然 印度資訊和廣播部(MIB) 在受到批評後撤回了一項旗艦法律法案，該法案要求線上內容創作者必須註冊並遵守與廣播公司相同的法律。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/indian_government_bins_tech_bill/</guid>
-      <pubDate>Wed, 14 Aug 2024 03:02:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
