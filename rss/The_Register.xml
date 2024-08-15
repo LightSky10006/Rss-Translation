@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 15 Aug 2024 03:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:41:03 GMT</lastBuildDate>
     <item>
-      <title>與中國有關的網路間諜感染俄羅斯政府和資訊科技部門</title>
+      <title>超過 4,000 萬 Kakao Pay 用戶的資料不知何故最終流入了支付寶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/kakao_pay_data_leak/</link>
+      <description><![CDATA[韓國通訊應用程式的支付部門否認有任何非法活動 韓國 WhatsApp 類似 Kakao 的子公司 Kakao Pay 將超過 4,000 萬用戶的資料移交給中國支付平台支付寶的新加坡部門，韓國金融監管機構週二透露，未經用戶同意。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/kakao_pay_data_leak/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>與中國有關的網路間諜感染俄羅斯政府和 IT 部門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/suspected_chinese_attackers_hacked_russia/</link>
       <description><![CDATA[不，不，繼續，不要讓我們阻止你，習近平 涉嫌與中國有聯繫的網絡間諜已經感染了屬於俄羅斯政府機構和 IT 提供商的“數十台”計算機據卡巴斯基稱，自7 月底以來就出現了後門和木馬。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/suspected_chinese_attackers_hacked_russia/</guid>
@@ -29,21 +36,21 @@
     <item>
       <title>IRS 擁有大量遺留 IT，但仍沒有明確的替代計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</link>
-      <description><![CDATA[財政部對技術退休辦公室的退休提出質疑 審計得出結論，應該重新開放專注於退休和更換遺留技術的已關閉的國稅局辦公室，以便美國徵稅機構能夠牢牢控制住更換老化的技術堆疊。]]></description>
+      <description><![CDATA[財政部對技術退休辦公室的退休提出質疑 審計得出結論，應該重新開放專注於退休和更換遺留技術的已關閉的國稅局辦公室，以便美國稅收機構能夠牢牢控制住更換老化的技術堆疊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</guid>
       <pubDate>Wed, 14 Aug 2024 21:33:10 GMT</pubDate>
     </item>
     <item>
       <title>微軟調整細則警告所有人不要認真看待其人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_services_agreement_update_warns/</link>
-      <description><![CDATA[不要將法學碩士用於任何重要的事情，也不要嘗試對其進行逆向工程 微軟正在通知人們，不應過於認真地對待其人工智能服務，這與之前的特定服務免責聲明相呼應。]]></description>
+      <description><![CDATA[不要將法學碩士用於任何重要的事情，也不要嘗試對其進行逆向工程 微軟正在通知人們，其人工智慧服務不應該被過於認真地對待，這與之前針對特定服務的免責聲明相呼應。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_services_agreement_update_warns/</guid>
       <pubDate>Wed, 14 Aug 2024 20:28:07 GMT</pubDate>
     </item>
     <item>
       <title>延誤？富士康堅稱，第四季度我們仍在「少量」運送 Nvidia GB200</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</link>
-      <description><![CDATA[產量提升要到2025 年第一季才會開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統第四季... ]]></description>
+      <description><![CDATA[產量提升要到2025 年第一季才會開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統在第四季...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</guid>
       <pubDate>Wed, 14 Aug 2024 19:30:08 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Enzo Biochem 因安全問題導致勒索軟體災難而被勒令賠償 450 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</link>
-      <description><![CDATA[三名州總檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州總檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
+      <description><![CDATA[三名州檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</guid>
       <pubDate>Wed, 14 Aug 2024 17:02:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[團隊知道您想要一個，但同時為什麼不自己製作一個呢？ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/still_waiting_for_a_pi/</guid>
       <pubDate>Wed, 14 Aug 2024 08:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在 Defender 中不斷推、推、推 Edge 被猛烈抨擊為“黑暗模式”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_edge_promotion_in_defender/</link>
-      <description><![CDATA[這是廣告嗎？或是嚴肅的資訊安全建議？因模糊界線而受到批評在建議與廣告之間。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/microsoft_edge_promotion_in_defender/</guid>
-      <pubDate>Wed, 14 Aug 2024 07:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
