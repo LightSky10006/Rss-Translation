@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 15 Aug 2024 14:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 16:39:29 GMT</lastBuildDate>
+    <item>
+      <title>Sonos因應用程式問題而裁員100人</title>
+      <link>https://arstechnica.com/?p=2043533</link>
+      <description><![CDATA[據報道稱，Sonos 高層正在考慮恢復舊應用程式。]]></description>
+      <guid>https://arstechnica.com/?p=2043533</guid>
+      <pubDate>Thu, 15 Aug 2024 16:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特爾和 Karma 合作開發軟體定義汽車架構</title>
+      <link>https://arstechnica.com/?p=2043501</link>
+      <description><![CDATA[他們也將向其他一級供應商和 OEM 提供該架構。]]></description>
+      <guid>https://arstechnica.com/?p=2043501</guid>
+      <pubDate>Thu, 15 Aug 2024 14:01:20 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 承認無法量化 Starliner 推進問題的風險</title>
       <link>https://arstechnica.com/?p=2043356</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[客戶不確定，因為在公司提交第七章備案後應用程式仍然可以下載。]]></description>
       <guid>https://arstechnica.com/?p=2043269</guid>
       <pubDate>Wed, 14 Aug 2024 20:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署關閉小行星搜尋望遠鏡，但更好的望遠鏡正在開發中</title>
-      <link>https://arstechnica.com/?p=2043082</link>
-      <description><![CDATA[NEOWISE 太空船將在未來幾個月內脫離軌道。]]></description>
-      <guid>https://arstechnica.com/?p=2043082</guid>
-      <pubDate>Wed, 14 Aug 2024 20:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人工智慧模型意外地修改了自己的程式碼以延長運行時間</title>
-      <link>https://arstechnica.com/?p=2043110</link>
-      <description><![CDATA[面對時間限制，Sakana 的「AI 科學家」試圖改變研究人員設定的限制。]]></description>
-      <guid>https://arstechnica.com/?p=2043110</guid>
-      <pubDate>Wed, 14 Aug 2024 20:13:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

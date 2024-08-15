@@ -4,12 +4,19 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 15 Aug 2024 16:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 16:39:45 GMT</lastBuildDate>
+    <item>
+      <title>谷歌譴責伊朗 APT42 發動魚叉式網路釣魚攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/google_raps_irans_apt42_for/</link>
+      <description><![CDATA[美國政界人士和以色列官員是 IRGC 網路部門的首要目標 在近期攻擊增多導致資料外洩後，Google 已與 Microsoft 一起發布有關伊朗網路影響活動的情報。競選活動。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/google_raps_irans_apt42_for/</guid>
+      <pubDate>Thu, 15 Aug 2024 16:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>如果世界上有一個超大規模資料中心之都，那將是…北維吉尼亞州</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hyperscale_capacity_global_geo_research/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hyperscale_capacity_global_research/</link>
       <description><![CDATA[如果您猜到了北京，抱歉，但根據 Synergy Research 的數據，它是第二名 如果可以說互聯網有一個地理位置，那麼也許是北弗吉尼亞州，它擁有存儲全球資料的超大規模資料中心容量的最大份額。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hyperscale_capacity_global_geo_research/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hyperscale_capacity_global_research/</guid>
       <pubDate>Thu, 15 Aug 2024 15:37:06 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[三名州總檢察長對該公司進行了調查，並發現了很多需要懲罰的內容 生物技術公司Enzo Biochem 被迫向三名州總檢察長支付450 萬美元的罰款，原因是2023 年發生勒索軟體攻擊，導致更多人的資料外洩超過 240 萬人...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/enzo_biochem_ransomware_fine/</guid>
       <pubDate>Wed, 14 Aug 2024 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署的 VIPER 漫遊者畢竟仍可能到達月球表面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nasas_viper_moon_rover_might/</link>
-      <description><![CDATA[Intuitive Machines 向 NASA 取消的 trundlebot 致敬 Intuitive Machines 已提交拯救 NASA VIPER 漫遊車的報價，稱美國航天局在將其削減為“一個政府號碼。”...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nasas_viper_moon_rover_might/</guid>
-      <pubDate>Wed, 14 Aug 2024 15:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
