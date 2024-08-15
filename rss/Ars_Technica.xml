@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 15 Aug 2024 20:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 21:11:21 GMT</lastBuildDate>
     <item>
-      <title>各州不斷禁止廉價的小型 Kei 汽車，因為擔心它們是死亡陷阱</title>
+      <title>神秘的“Black Mesa”網站稱其“並非秘密開發《半條命 3》”</title>
+      <link>https://arstechnica.com/?p=2043667</link>
+      <description><![CDATA[它“實際上是波士頓地區的一家真正的公司”——或者這只是一個幌子？]]></description>
+      <guid>https://arstechnica.com/?p=2043667</guid>
+      <pubDate>Thu, 15 Aug 2024 20:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 和 Verizon 要求 FCC 阻止 Starlink 的行動計劃</title>
+      <link>https://arstechnica.com/?p=2043647</link>
+      <description><![CDATA[營運商聲稱 Starlink/T-Mobile 將幹擾現有的行動網路。]]></description>
+      <guid>https://arstechnica.com/?p=2043647</guid>
+      <pubDate>Thu, 15 Aug 2024 20:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>一個可愛又廉價的死亡陷阱？日本 Kei 汽車被美國另一個州禁止</title>
       <link>https://arstechnica.com/?p=2043630</link>
       <description><![CDATA[由於尺寸和動力有限，Kei 汽車在美國道路上就像離開水的魚一樣。]]></description>
       <guid>https://arstechnica.com/?p=2043630</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[他們也將向其他一級供應商和 OEM 提供該架構。]]></description>
       <guid>https://arstechnica.com/?p=2043501</guid>
       <pubDate>Thu, 15 Aug 2024 14:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 承認無法量化 Starliner 推進問題的風險</title>
-      <link>https://arstechnica.com/?p=2043356</link>
-      <description><![CDATA[“我們沒有足夠的洞察力和數據來進行某種簡單的黑白計算。”]]></description>
-      <guid>https://arstechnica.com/?p=2043356</guid>
-      <pubDate>Thu, 15 Aug 2024 13:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Ryzen 9000 評測：令人印象深刻的效率，但有錯誤和馬馬虎虎的速度提升</title>
-      <link>https://arstechnica.com/?p=2041146</link>
-      <description><![CDATA[不過，本已昂貴的 AM5 平台的高價格使其難以銷售。]]></description>
-      <guid>https://arstechnica.com/?p=2041146</guid>
-      <pubDate>Thu, 15 Aug 2024 11:00:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
