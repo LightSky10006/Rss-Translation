@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 15 Aug 2024 20:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 20:34:41 GMT</lastBuildDate>
+    <item>
+      <title>HPE 獲得長期盟友 Morpheus Data</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hpe_morpheus_data/</link>
+      <description><![CDATA[自2022 年以來，CMP 一直是GreenLake 背後的編排平台 惠普企業(Hewlett Packard Enterprise) 宣布收購另一家合作夥伴，這次以未具體說明的金額收購了雲端管理公司Morpheus Data。  ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hpe_morpheus_data/</guid>
+      <pubDate>Thu, 15 Aug 2024 20:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>DARPA、ARPA-H 向 7 名 AIxCC 半決賽入圍者授予 1400 萬美元，其中有一個條件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/darpa_arpah_award_14m_to/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[產量提升要到2025 年第一季才會開始 據富士康高層稱，Nvidia 所謂的Blackwell 供應問題可能並不像最初想像的那麼嚴重，他們聲稱他們將開始發貨少量GB200 系統第四季... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/nvidia_foxconn_blackwell/</guid>
       <pubDate>Wed, 14 Aug 2024 19:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄羅斯網路窺探與大規模憑證竊取活動有關</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/russias_fsb_cyber_phishing/</link>
-      <description><![CDATA[公民實驗室還發現了一條COLDWASTREL 在網路釣魚河流中游泳 俄羅斯聯邦安全局(FSB) 網路間諜與新的數位窺探人員一起，一直在透過網路釣魚進行大規模的線上網路釣魚間諜活動根據多倫多大學公民實驗室的數據，過去兩年針對美國和歐洲的目標...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/russias_fsb_cyber_phishing/</guid>
-      <pubDate>Wed, 14 Aug 2024 18:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
