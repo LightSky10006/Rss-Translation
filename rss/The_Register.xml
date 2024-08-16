@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 16 Aug 2024 11:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 11:34:45 GMT</lastBuildDate>
+    <item>
+      <title>如果一部 80 年代的俗氣電影很好地比喻了你如何運行項目，那麼就有些問題了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_highlander/</link>
+      <description><![CDATA[只能有一種…煩人的管理技術 資深的微軟工程師Raymond Chen 撰寫了一篇博客，進一步深入了解比爾·蓋茨領導下的軟體巨頭的內部運作。 . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_highlander/</guid>
+      <pubDate>Fri, 16 Aug 2024 11:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>Equinix 試點在資料中心外的「貨櫃」中使用燃料電池</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/equinix_shows_off_demo_fuel/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[韓國通訊應用程式的支付部門否認有任何非法活動 韓國 WhatsApp 類似 Kakao 的子公司 Kakao Pay 將超過 4,000 萬用戶的資料移交給中國支付平台支付寶的新加坡部門，韓國金融監管機構週二透露，未經用戶同意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/kakao_pay_data_leak/</guid>
       <pubDate>Thu, 15 Aug 2024 06:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>與中國有關的網路間諜感染俄羅斯政府和 IT 部門</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/suspected_chinese_attackers_hacked_russia/</link>
-      <description><![CDATA[不，不，繼續，不要讓我們阻止你，習近平 涉嫌與中國有聯繫的網絡間諜已經感染了屬於俄羅斯政府機構和 IT 提供商的“數十台”計算機據卡巴斯基稱，自7 月底以來就出現了後門和木馬。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/suspected_chinese_attackers_hacked_russia/</guid>
-      <pubDate>Thu, 15 Aug 2024 02:50:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
