@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 16 Aug 2024 16:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 17:10:23 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 Insider預覽帶來新的沙箱功能和更胖的FAT32</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</link>
+      <description><![CDATA[抵達Canary Channel 並透過Microsoft Store 進行更新 Windows 11 的Build 27686 已面向Canary Channel Windows Insiders 推出，包括Sandbox 用戶端預覽版、針對潛在令人擔憂的註冊表問題的修復以及警告對於 Copilot+ PC 的擁有者... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</guid>
+      <pubDate>Fri, 16 Aug 2024 16:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 和 Verizon 要求 FCC 阻止 Starlink 的直接到手機方案時發生槍聲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/att_verizon_starlink/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Anydesk 是其首選的存取工具 根據 Sophos X 的說法，一個名為 Mad Liberator 的新勒索團夥利用社會工程和遠端存取工具 Anydesk 竊取組織的數據，然後要求支付贖金- Ops.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/mad_liberator_extortion/</guid>
       <pubDate>Thu, 15 Aug 2024 10:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 必須向不公平解僱的愛爾蘭高層支付超過 50 萬美元的賠償金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/twitter_unfair_dismissal/</link>
-      <description><![CDATA[還記得「要嘛硬核，要嘛回家」這封電子郵件嗎？事實證明：與愛爾蘭就業法並不完全相符 Twitter 被勒令向愛爾蘭前高管支付 55 萬歐元（607,000 美元）的不公平解僱賠償，據說這是該國賠償的創紀錄金額在這樣的情況下......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/twitter_unfair_dismissal/</guid>
-      <pubDate>Thu, 15 Aug 2024 09:22:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
