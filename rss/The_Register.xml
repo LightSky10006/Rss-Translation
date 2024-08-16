@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 16 Aug 2024 07:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 08:38:22 GMT</lastBuildDate>
+    <item>
+      <title>從風電場到亞馬遜 Prime，英國計畫遠端測試六種無人機服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/uk_test_drones_bvlos/</link>
+      <description><![CDATA[超視距操作實現空域現代化 英國民航局(CAA) 已批准六項新試驗，以測試無人機在送貨、檢查和緊急服務中的使用，其中包括來自電子商務巨頭亞馬遜的試驗...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/uk_test_drones_bvlos/</guid>
+      <pubDate>Fri, 16 Aug 2024 08:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>客戶告訴技術人員：在這台印表機正常運作之前你不能離開這個國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Git 歸咎於基礎設施更新 如果您今天無法或無法訪問 GitHub，那是因為該網站自行崩潰了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/github_rollback/</guid>
       <pubDate>Wed, 14 Aug 2024 23:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>IRS 擁有大量遺留 IT，但仍沒有明確的替代計劃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</link>
-      <description><![CDATA[財政部對技術退休辦公室的退休提出質疑 審計得出結論，應該重新開放專注於退休和更換遺留技術的已關閉的國稅局辦公室，以便美國稅收機構能夠牢牢控制住更換老化的技術堆疊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/14/irs_legacy_tech/</guid>
-      <pubDate>Wed, 14 Aug 2024 21:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
