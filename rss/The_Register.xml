@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 16 Aug 2024 18:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 20:12:51 GMT</lastBuildDate>
+    <item>
+      <title>Unicoin 暗示 G-Suite 外洩後可能存在資料幹擾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/unicoin_gsuite_compromise/</link>
+      <description><![CDATA[攻擊者將所有員工鎖定四天 真人秀和創業節目《獨角獸獵人》的加密貨幣分支已確認，一名身份不明的攻擊者破壞了其G-Suite，將所有員工的帳戶鎖定。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/unicoin_gsuite_compromise/</guid>
+      <pubDate>Fri, 16 Aug 2024 19:43:15 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 Insider 預覽版帶來新的沙盒功能和更胖的 FAT32</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[業務分拆可能即將到來，但分拆後的情況可能不會更好 評價 在堅持「競爭只需點擊一下」超過 15 年之後，谷歌的反壟斷口號不再讓監管機構望而卻步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/google_monopoly_fix/</guid>
       <pubDate>Thu, 15 Aug 2024 11:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>瘋狂解放者勒索團夥出現在網路騙子現場</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/mad_liberator_extortion/</link>
-      <description><![CDATA[Anydesk 是其首選的存取工具 根據 Sophos X 的說法，一個名為 Mad Liberator 的新勒索團夥利用社會工程和遠端存取工具 Anydesk 竊取組織的數據，然後要求支付贖金- Ops.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/mad_liberator_extortion/</guid>
-      <pubDate>Thu, 15 Aug 2024 10:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
