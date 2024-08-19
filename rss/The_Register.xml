@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 19 Aug 2024 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 19:10:44 GMT</lastBuildDate>
+    <item>
+      <title>儘管存在潛在風險，但 Microsoft macOS 應用程式中的多個缺陷尚未修補</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
+      <description><![CDATA[Windows 巨頭告訴思科Talos，它沒有修復這些漏洞 思科Talos 表示，微軟macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、訪問敏感資料、記錄使用者輸入，並升級權限。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
+      <pubDate>Mon, 19 Aug 2024 19:01:06 GMT</pubDate>
+    </item>
     <item>
       <title>通用汽車在軟體和服務部門裁減了 1,000 多個工作崗位，其中大部分位於美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gm_axes_1000_jobs_in/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>英國科技大亨麥克林奇在西西里島暴風雨中遊艇沉沒後失踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/mike_lynch_missing_yacht/</link>
-      <description><![CDATA[Autonomy 創始人的妻子獲救，但其他六人下落不明 邁克·林奇(Mike Lynch)，通常被稱為英國的比爾·蓋茨(Bill Gates)，據報道今天早上一艘豪華遊艇在西西里島海岸沉沒後失蹤。]]></description>
+      <description><![CDATA[Autonomy 創始人的妻子獲救，但另外六人下落不明 更新  邁克·林奇(Mike Lynch)，通常被稱為英國的比爾·蓋茨(Bill Gates)，據報導在一艘豪華遊艇沉沒後失踪。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/mike_lynch_missing_yacht/</guid>
       <pubDate>Mon, 19 Aug 2024 13:47:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[但是與蘋果和谷歌競爭的成本是多少？收入損失高達10 億美元 Epic Games 四年前因違反App Store 政策而被蘋果從蘋果的圍牆花園中趕出，但現在已經為歐洲客戶建立了自己的數位商店。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/17/epic_games_fortnite_ios_eu/</guid>
       <pubDate>Sat, 17 Aug 2024 07:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>國防部啟動超級電腦以加速生物威脅防禦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/dod_drug_discovery_supercomputer/</link>
-      <description><![CDATA[官員聲稱它將能夠在“幾天甚至幾小時”內開發出防禦解決方案 五角大樓的最新玩具不是一台奇特的作戰機器- 它是一個結合了超級計算機和快速反應實驗室的設備（ RRL）致力於加強美國的生物防禦。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/dod_drug_discovery_supercomputer/</guid>
-      <pubDate>Fri, 16 Aug 2024 23:12:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
