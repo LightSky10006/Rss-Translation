@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 19 Aug 2024 15:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 17:12:00 GMT</lastBuildDate>
+    <item>
+      <title>隨著 Funtoo 分支進入“愛好模式”，Gentoo Linux 將放棄對 Itanium 的支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gentoo_drops_ia64_funtoo_falters/</link>
+      <description><![CDATA[創辦人的副業計畫正在放水 Gentoo 計畫及其後續計畫的消息不斷傳出，「Funtoo」這個名字很明顯——Gentoo 創辦人Daniel Robbins 接下來所做的事情。 ....]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gentoo_drops_ia64_funtoo_falters/</guid>
+      <pubDate>Mon, 19 Aug 2024 16:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 24.04.1 將會遲到，但更新的核心即將到來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ubuntu_240401_will_be_late/</link>
@@ -92,14 +99,14 @@
     <item>
       <title>在野外發現與 RansomHub 相關的 EDR 防毒惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</link>
-      <description><![CDATA[此外：您的面向外部的 NetSuite 網站需要審核；第二季的五種流行惡意軟體變體以及更多簡述 殺死端點檢測和回應(EDR) 軟體的惡意軟體已在現場被發現，並且考慮到它正在部署RansomHub，很快就會多產......]]></description>
+      <description><![CDATA[此外：您的面向外部的 NetSuite 網站需要審核；第二季度的五種流行惡意軟體品種以及更多 Infosec 簡介  現場發現了殺死端點檢測和響應(EDR) 軟體的惡意軟體，並且考慮到它正在部署RansomHub，它很快就會多產......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</guid>
       <pubDate>Mon, 19 Aug 2024 01:52:54 GMT</pubDate>
     </item>
     <item>
       <title>當你可以在家推出自己的 AI 程式碼助理時，誰還需要 GitHub Copilot</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/18/self_hosted_github_copilot/</link>
-      <description><![CDATA[以下是如何開始使用開源工具繼續 動手實踐 代碼助手作為生成式 AI 的早期用例而獲得了相當多的關注，尤其是在發布之後微軟GitHub Copilot 的成員。但是，如果您不喜歡讓 Microsoft 隨意使用您的程式碼或每月支付 10 美元以獲得該特權，您可以隨時建立自己的程式碼。]]></description>
+      <description><![CDATA[以下是如何開始使用開源工具繼續 動手實踐 作為生成式 AI 的早期用例，程式碼助理已經獲得了相當多的關注，尤其是在推出微軟的GitHub Copilot。但是，如果您不喜歡讓 Microsoft 隨意使用您的程式碼或每月支付 10 美元以獲得該特權，您可以隨時建立自己的程式碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/18/self_hosted_github_copilot/</guid>
       <pubDate>Sun, 18 Aug 2024 17:37:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[姓名、地址、社會安全號碼等等都在其中 佛羅裡達州的一家公司幾乎證實，數百萬人的敏感個人信息被網絡犯罪分子竊取並公開洩露。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/national_public_data_theft/</guid>
       <pubDate>Fri, 16 Aug 2024 20:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>德州儀器 (TI) 計算其美國 CHIPS 法案收益為 $1.6B</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/ti_chips_act/</link>
-      <description><![CDATA[另外30 億美元的貸款也將用於支持18B 美元的代工廠擴張 德州儀器(Texas Instruments) 將獲得高達16 億美元的貸款，以及來自老牌山姆大叔的高達30億美元的貸款美國商務部週五宣布了《晶片和科學法案》。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/ti_chips_act/</guid>
-      <pubDate>Fri, 16 Aug 2024 20:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
