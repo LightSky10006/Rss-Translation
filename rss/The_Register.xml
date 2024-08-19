@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 18 Aug 2024 22:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 02:04:53 GMT</lastBuildDate>
+    <item>
+      <title>在野外發現與 RansomHub 相關的 EDR 防毒惡意軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</link>
+      <description><![CDATA[此外：您的面向外部的 NetSuite 網站需要審核；第二季的五種流行惡意軟體變體以及更多簡述 殺死端點檢測和回應(EDR) 軟體的惡意軟體已在現場被發現，並且考慮到它正在部署RansomHub，很快就會多產......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</guid>
+      <pubDate>Mon, 19 Aug 2024 01:52:54 GMT</pubDate>
+    </item>
     <item>
       <title>當你可以在家推出自己的 AI 程式碼助理時，誰還需要 GitHub Copilot</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/18/self_hosted_github_copilot/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 16 Aug 2024 21:19:11 GMT</pubDate>
     </item>
     <item>
-      <title>近 3B 筆個人記錄在網路上洩露後，佛羅裡達州資料經紀人證實遭到網路竊賊洗劫</title>
+      <title>近 3B 條個人記錄在網路上洩露後，佛羅裡達州資料經紀人證實遭到網路竊賊洗劫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/national_public_data_theft/</link>
       <description><![CDATA[姓名、地址、社會安全號碼等等等等 佛羅裡達州的一家公司幾乎證實，數百萬人的敏感個人資訊被網路犯罪分子竊取並公開洩露。 /p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/national_public_data_theft/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Windows 11 Insider 預覽版帶來新的沙盒功能和更胖的 FAT32</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</link>
-      <description><![CDATA[抵達Canary Channel 並透過Microsoft Store 進行更新 Windows 11 的Build 27686 已面向Canary Channel Windows Insiders 推出，其中包括Sandbox 用戶端預覽版、針對潛在令人擔憂的註冊表問題的修復以及警告對於 Copilot+ PC 的擁有者... ]]></description>
+      <description><![CDATA[抵達Canary Channel 並透過Microsoft Store 進行更新 Windows 11 的Build 27686 已面向Canary Channel Windows Insiders 推出，包括Sandbox 用戶端預覽版、針對潛在令人擔憂的註冊表問題的修復以及警告對於 Copilot+ PC 的擁有者... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</guid>
       <pubDate>Fri, 16 Aug 2024 16:44:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[自2022 年以來，CMP 一直是GreenLake 背後的編排平台 惠普企業(Hewlett Packard Enterprise) 宣布收購另一家合作夥伴，這次以未具體說明的金額收購了雲端管理公司Morpheus Data。  ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/hpe_morpheus_data/</guid>
       <pubDate>Thu, 15 Aug 2024 20:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>DARPA、ARPA-H 向 7 名 AIxCC 半決賽入圍者授予 1400 萬美元，其中有一個條件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/15/darpa_arpah_award_14m_to/</link>
-      <description><![CDATA[想要現金的團隊必須承諾在明年的決賽後將他們的模型交給OpenSSF 開始一年後，DARPA 人工智慧網路挑戰賽(AIxCC) 已將參賽者人數減少到七名半決賽入圍者...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/15/darpa_arpah_award_14m_to/</guid>
-      <pubDate>Thu, 15 Aug 2024 19:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
