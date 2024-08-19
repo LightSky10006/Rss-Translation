@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 19 Aug 2024 07:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 08:15:31 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi 5 精簡版推出 2 GB RAM 降價版本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/raspberry_pi_5_2gb/</link>
+      <description><![CDATA[沒有人真正需要更多，對吧？版本GB 只是稍微有點過多......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/raspberry_pi_5_2gb/</guid>
+      <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>開發人員試圖為成功而著裝，但最終卻因昂貴的停機而著裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[備受爭議的支付系統重獲新生 英國政府農業和環境部門將提供高達2700 萬英鎊的資金，以使其備受爭議的傳統農場支付系統再運行三年，因為開發替代品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/uk_farm_ministry_offers_27m/</guid>
       <pubDate>Fri, 16 Aug 2024 09:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>從風電場到亞馬遜 Prime，英國計畫遠端測試六種無人機服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/uk_test_drones_bvlos/</link>
-      <description><![CDATA[超視距操作實現空域現代化 英國民航局(CAA) 已批准六項新試驗，以測試無人機在送貨、檢查和緊急服務中的使用，其中包括來自電子商務巨頭亞馬遜的試驗...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/uk_test_drones_bvlos/</guid>
-      <pubDate>Fri, 16 Aug 2024 08:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
