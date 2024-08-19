@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 19 Aug 2024 15:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 15:35:23 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 24.04.1 將會遲到，但更新的核心即將到來</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ubuntu_240401_will_be_late/</link>
+      <description><![CDATA[對於不耐煩的LTS 用戶來說，壞消息是透過調整策略來平衡的 下一個Ubuntu 單點版本的發布日期被推遲，但還有一線希望：Canonical 承諾在未來的版本中使用更新的核心...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ubuntu_240401_will_be_late/</guid>
+      <pubDate>Mon, 19 Aug 2024 15:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>英國科技大亨麥克林奇在西西里島暴風雨中遊艇沉沒後失踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/mike_lynch_missing_yacht/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外30 億美元的貸款也將用於支持18B 美元的代工廠擴張 德州儀器(Texas Instruments) 將獲得高達16 億美元的貸款，以及來自老牌山姆大叔的高達30億美元的貸款美國商務部週五宣布了《晶片和科學法案》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/ti_chips_act/</guid>
       <pubDate>Fri, 16 Aug 2024 20:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unicoin 暗示 G-Suite 遭到入侵後可能存在資料幹擾</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/unicoin_gsuite_compromise/</link>
-      <description><![CDATA[攻擊者將所有員工鎖定四天 真人秀和創業節目《獨角獸獵人》的加密貨幣分支已確認，一名身份不明的攻擊者破壞了其G-Suite，將所有員工的帳戶鎖定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/unicoin_gsuite_compromise/</guid>
-      <pubDate>Fri, 16 Aug 2024 19:43:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
