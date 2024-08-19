@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 19 Aug 2024 13:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 13:35:13 GMT</lastBuildDate>
+    <item>
+      <title>國家公共數據告訴官員「只有」130 萬人受到入侵影響</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/national_public_data_breach/</link>
+      <description><![CDATA[調查人員先前表示，這個數字要高得多 可能成為今年最嚴重的資料外洩事件之一的資料經紀人告訴官員，只有 130 萬人受到影響。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/national_public_data_breach/</guid>
+      <pubDate>Mon, 19 Aug 2024 13:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>基於資訊自由的報告稱，維吉尼亞州資料中心的耗水量就像沒有明天一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/virginia_datacenter_water_consumption/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[抵達Canary Channel 並透過Microsoft Store 進行更新 Windows 11 的Build 27686 已面向Canary Channel Windows Insiders 推出，包括Sandbox 用戶端預覽版、針對潛在令人擔憂的註冊表問題的修復以及警告對於 Copilot+ PC 的擁有者... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/microsoft_windows_sandbox_preview/</guid>
       <pubDate>Fri, 16 Aug 2024 16:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 和 Verizon 要求 FCC 阻止 Starlink 的直接到手機方案時發生槍聲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/16/att_verizon_starlink/</link>
-      <description><![CDATA[競爭對手聲稱訊號豁免會幹擾地面網路 Starlink 在衛星電話服務競賽中的競爭對手正在要求聯邦通訊委員會 (FCC) 拒絕其有關帶外訊號的豁免請求訊號發射限制，聲稱這會幹擾地面蜂窩網絡。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/16/att_verizon_starlink/</guid>
-      <pubDate>Fri, 16 Aug 2024 15:15:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
