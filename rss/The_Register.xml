@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 08:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 10:12:56 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 呼籲在網路挑戰日益嚴峻的情況下協調監管</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</link>
+      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者的副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</guid>
+      <pubDate>Tue, 20 Aug 2024 09:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>市議會因 Oracle 系統崩潰而面臨 2.165 億英鎊的損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/birmingham_oracle_cost/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>剪刀失蹤導致日本36班機取消</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/missing_scissors_cut_flights_japan/</link>
-      <description><![CDATA[再加上另外200 次延誤，搖滾明星被趕下舞台……所有這些都發生在假日週末 週六，日本新千歲機場的38 趟航班因一把剪刀失踪而被取消。]]></description>
+      <description><![CDATA[再加上另外200 次延誤，搖滾明星被趕下舞台……所有這些都發生在假日週末 週六，日本新千歲機場的36 趟航班因一把剪刀失踪而被取消。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/missing_scissors_cut_flights_japan/</guid>
       <pubDate>Tue, 20 Aug 2024 02:45:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[分散式資料庫業務不喜歡大客戶使用其軟體的免費版本 CockroachDB，一個主要與 PostgreSQL 相容的前端的分散式事務系統，計劃退役其免費的開源「Core」產品有利於自託管用戶的新企業許可結構。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cockroachdb_abandons_open_core/</guid>
       <pubDate>Mon, 19 Aug 2024 11:05:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>B2B ISP Fastnet 在 VMware 事件後搖搖欲墜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/fastnet_vmware_outage/</link>
-      <description><![CDATA[公司繼續調查根本原因 總部位於布萊頓的ISP 和託管提供商Fastnet 已經度過了艱難的一周，該週涉及與VMware/Broadcom 技術問題作鬥爭，這些問題已導致許多客戶的網站癱瘓。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/fastnet_vmware_outage/</guid>
-      <pubDate>Mon, 19 Aug 2024 09:54:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
