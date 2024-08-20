@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 00:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 02:02:12 GMT</lastBuildDate>
+    <item>
+      <title>數位錢包可以使用被盜的信用卡進行購物</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/</link>
+      <description><![CDATA[研究人員發現，可以降低身份驗證檢查的級別，並實施破舊的令牌刷新政策 Apple Pay、Google Pay 和PayPal 等數位錢包可用於使用被盜和取消的支付卡進行交易。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/</guid>
+      <pubDate>Tue, 20 Aug 2024 01:29:47 GMT</pubDate>
+    </item>
     <item>
       <title>英偉達最新人工智慧氣候模式瞄準惡劣天氣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/nvidia_ai_weather/</link>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>開發人員試圖為成功而著裝，但最終卻因昂貴的停機而著裝</title>
+      <title>開發商試圖為成功而著裝，但最終卻因昂貴的停電而著裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</link>
       <description><![CDATA[在海濱調試軟體是一項異常危險的任務 誰，我？  親愛的讀者，再次歡迎來到誰，我？其中Reg讀者喜歡你試著用技術人員不幸遭遇的故事來減輕工作週的打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 19 Aug 2024 06:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>中國晶片設備製造商中微起訴五角大廈刪除實體名單</title>
+      <title>中國晶片設備製造商中微起訴五角大廈刪除實體清單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/asia_in_brief/</link>
       <description><![CDATA[加：中國首富曾在Google工作；新加坡電信利潤大幅成長；大多數亞太地區政府沒有人工智慧治理政策，更多 亞洲簡介 中國半導體設備製造商先進微製造設備 (AMMEC) 正在挑戰將其列入美國黑名單根據大量報導，涉嫌與中國人民解放軍(PLA) 有聯繫。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/asia_in_brief/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外：您的面向外部的 NetSuite 網站需要審核；第二季度的五種流行惡意軟體品種以及更多 Infosec 簡介  現場發現了殺死端點檢測和響應(EDR) 軟體的惡意軟體，並且考慮到它正在部署RansomHub，它很快就會多產......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</guid>
       <pubDate>Mon, 19 Aug 2024 01:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>當你可以在家推出自己的 AI 程式碼助理時，誰還需要 GitHub Copilot</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/18/self_hosted_github_copilot/</link>
-      <description><![CDATA[以下是如何開始使用開源工具繼續 動手實踐 作為生成式 AI 的早期用例，程式碼助理已經獲得了相當多的關注，尤其是在推出微軟的GitHub Copilot。但是，如果您不喜歡讓 Microsoft 隨意使用您的程式碼或每月支付 10 美元以獲得該特權，您可以隨時建立自己的程式碼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/18/self_hosted_github_copilot/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
