@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 05:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:15:49 GMT</lastBuildDate>
+    <item>
+      <title>據稱，由於新的中國式防火牆，巴基斯坦的網路速度減慢到令人不舒服的水平</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/pakistan_minister_denies_firewall/</link>
+      <description><![CDATA[部長否認 – 這只是「網路管理系統」的升級 產業組織巴基斯坦軟體公司 IT 協會 (P@SHA) 上週指責巴基斯坦政府上週晚些時候實施中國式的互聯網防火牆——該國資訊科技部長週末否認了這一說法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/pakistan_minister_denies_firewall/</guid>
+      <pubDate>Tue, 20 Aug 2024 05:57:11 GMT</pubDate>
+    </item>
     <item>
       <title>阿里巴巴與騰訊雲的 CPU 需求趨於平穩，GPU 需求加速</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/tencent_alibaba_cloud_lenovo_results/</link>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>開發商試圖為成功而著裝，但最終卻因昂貴的停電而著裝</title>
+      <title>開發人員試圖為成功而著裝，但最終卻因昂貴的停機而著裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</link>
       <description><![CDATA[在海濱調試軟體是一項異常危險的任務 誰，我？  親愛的讀者，再次歡迎來到誰，我？其中Reg讀者喜歡你試著用技術人員不幸遭遇的故事來減輕工作週的打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</guid>
       <pubDate>Mon, 19 Aug 2024 07:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本 Astroscale 贏得太空垃圾收集機械手臂合約</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/japan_space_junk_retrieval/</link>
-      <description><![CDATA[該計劃是取消 H-IIA 火箭上級 - 並證明這是可能的 日本太空碎片清理公司 Astroscale 週一透露，它將投入 120 億日元（8140 萬美元）與日本宇宙航空研究開發機構簽訂為期五年的合同，使用新開發的衛星將該機構H-IIA 火箭的上級從軌道上移出。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/japan_space_junk_retrieval/</guid>
-      <pubDate>Mon, 19 Aug 2024 06:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
