@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 06:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 07:34:06 GMT</lastBuildDate>
+    <item>
+      <title>歐洲反壟斷警察瑪格麗特·維斯塔格(Margrethe Vestager)在對大型科技公司進行十年控制後離職</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/eu_competition_cop_depart/</link>
+      <description><![CDATA[她的遺產取決於她的繼任者- 他們會加倍努力嗎？一些時候辭職，這一進展肯定會讓她所說的美國科技公司感到高興到地毯上。 -&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/eu_competition_cop_depart/</guid>
+      <pubDate>Tue, 20 Aug 2024 07:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>伊朗被列為川普競選網絡釣魚和洩密的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/iran_trump_phishing_attribution/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>儘管存在潛在風險，但 Microsoft macOS 應用程式中的多個缺陷尚未修補</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
-      <description><![CDATA[Windows 巨頭告訴思科Talos，它沒有修復這些漏洞 思科Talos 表示，微軟macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、訪問敏感資料、記錄使用者輸入，並升級權限。]]></description>
+      <description><![CDATA[Windows 巨頭告訴Cisco Talos 它沒有修復這些漏洞 Cisco Talos 表示Microsoft macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、存取敏感數據、記錄使用者輸入，並升級權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
       <pubDate>Mon, 19 Aug 2024 19:01:06 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>對不起，莫西。將軟體停滯歸咎於敏捷是錯誤的做法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</link>
-      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過美好時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
+      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過一段愉快的時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</guid>
       <pubDate>Mon, 19 Aug 2024 09:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 5 精簡版推出 2 GB RAM 降價版本</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/raspberry_pi_5_2gb/</link>
-      <description><![CDATA[沒有人真正需要更多，對吧？版本GB 只是稍微有點過多......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/raspberry_pi_5_2gb/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
