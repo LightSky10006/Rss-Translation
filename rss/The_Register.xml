@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 14:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 16:13:50 GMT</lastBuildDate>
+    <item>
+      <title>PostgreSQL 預計將在分析領域實現 DuckDB 型成長</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/postgresql_duckdb_extension/</link>
+      <description><![CDATA[微軟支援的擴展旨在解決開源資料庫的已知弱點 微軟支援的開源專案旨在幫助解決 PostgreSQL 作為分析資料庫的弱點。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/postgresql_duckdb_extension/</guid>
+      <pubDate>Tue, 20 Aug 2024 16:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>飛機追蹤應用程式承認用戶密碼、SSN 暴露超過 3 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Cloudflare 呼籲在網路挑戰日益嚴峻的情況下協調監管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</link>
-      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者的副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
+      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</guid>
       <pubDate>Tue, 20 Aug 2024 09:36:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[假裝自己是伺服器並不能阻止硬體警察 微軟終於修補了一個解決方法，該解決方法被尋求Windows 11 升級路徑的用戶所利用，從而規避了公司的硬體要求。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/windows_11_loophole_closed/</guid>
       <pubDate>Mon, 19 Aug 2024 17:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著 Funtoo 分支進入“愛好模式”，Gentoo Linux 將放棄對 Itanium 的支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gentoo_drops_ia64_funtoo_falters/</link>
-      <description><![CDATA[創辦人的副業計畫正在放水 Gentoo 計畫及其後續計畫的消息不斷傳出，「Funtoo」這個名字很明顯——Gentoo 創辦人Daniel Robbins 接下來所做的事情。 ....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gentoo_drops_ia64_funtoo_falters/</guid>
-      <pubDate>Mon, 19 Aug 2024 16:44:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
