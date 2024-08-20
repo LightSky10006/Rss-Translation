@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 02:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 02:49:10 GMT</lastBuildDate>
+    <item>
+      <title>剪刀失蹤導致日本38個航班取消</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/missing_scissors_cut_flights_japan/</link>
+      <description><![CDATA[再加上另外 200 次延誤…全部發生在假日週末 週六，日本新千歲機場因一把剪刀失踪而取消了 38 個航班。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/missing_scissors_cut_flights_japan/</guid>
+      <pubDate>Tue, 20 Aug 2024 02:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>數位錢包可以使用被盜的信用卡進行購物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>儘管存在潛在風險，但 Microsoft macOS 應用程式中的多個缺陷尚未修補</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
-      <description><![CDATA[Windows 巨頭告訴Cisco Talos 它沒有修復這些漏洞 Cisco Talos 表示Microsoft macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、存取敏感數據、記錄使用者輸入，並升級權限。]]></description>
+      <description><![CDATA[Windows 巨頭告訴思科Talos，它沒有修復這些漏洞 思科Talos 表示，微軟macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、訪問敏感資料、記錄使用者輸入，並升級權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
       <pubDate>Mon, 19 Aug 2024 19:01:06 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>對不起，莫西。將軟體停滯歸咎於敏捷是錯誤的做法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</link>
-      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過一段愉快的時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
+      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過美好時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</guid>
       <pubDate>Mon, 19 Aug 2024 09:01:06 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>開發商試圖為成功而著裝，但最終卻因昂貴的停電而著裝</title>
+      <title>開發人員試圖為成功而著裝，但最終卻因昂貴的停機而著裝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</link>
-      <description><![CDATA[在海濱調試軟體是一項異常危險的任務 誰，我？  親愛的讀者，再次歡迎來到誰，我？其中Reg讀者喜歡你試著用技術人員不幸遭遇的故事來減輕工作週的打擊。]]></description>
+      <description><![CDATA[在海濱調試軟體是一項異常危險的任務 誰，我？  親愛的讀者，再次歡迎來到誰，我？其中Reg讀者喜歡你試著用技術人員的不幸遭遇來減輕工作週的打擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</guid>
       <pubDate>Mon, 19 Aug 2024 07:30:11 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 19 Aug 2024 06:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>中國晶片設備製造商中微起訴五角大廈刪除實體清單</title>
+      <title>中國晶片設備製造商中微起訴五角大廈刪除實體名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/asia_in_brief/</link>
       <description><![CDATA[加：中國首富曾在Google工作；新加坡電信利潤大幅成長；大多數亞太地區政府沒有人工智慧治理政策，更多 亞洲簡介 中國半導體設備製造商先進微製造設備 (AMMEC) 正在挑戰將其列入美國黑名單根據大量報導，涉嫌與中國人民解放軍(PLA) 有聯繫。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/asia_in_brief/</guid>
       <pubDate>Mon, 19 Aug 2024 03:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在野外發現與 RansomHub 相關的 EDR 防毒惡意軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</link>
-      <description><![CDATA[此外：您的面向外部的 NetSuite 網站需要審核；第二季度的五種流行惡意軟體品種以及更多 Infosec 簡介  現場發現了殺死端點檢測和響應(EDR) 軟體的惡意軟體，並且考慮到它正在部署RansomHub，它很快就會多產......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ransomhub_edrkilling_malware/</guid>
-      <pubDate>Mon, 19 Aug 2024 01:52:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
