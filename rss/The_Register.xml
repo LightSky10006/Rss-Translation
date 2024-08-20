@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 11:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 12:21:46 GMT</lastBuildDate>
+    <item>
+      <title>Oreon Lime 是帶有桌面風格的 AlmaLinux</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/oreon_lime_desktop_almalinux/</link>
+      <description><![CDATA[企業級長期穩定性，但更友善 Oreon Lime R2 將 AlmaLinux 與一堆額外的工具和儲存庫結合，再加上一些針對 GNOME 桌面的有用調整。它有點類似 Fedora 34 的 LTS 版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/oreon_lime_desktop_almalinux/</guid>
+      <pubDate>Tue, 20 Aug 2024 12:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>奧格斯堡火箭工廠引擎測試在 SaxaVord 航太港發生爆炸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/german_rocket_explodes_scotland/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Cloudflare 呼籲在網路挑戰日益嚴峻的情況下協調監管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</link>
-      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者的副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
+      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</guid>
       <pubDate>Tue, 20 Aug 2024 09:36:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>儘管存在潛在風險，但 Microsoft macOS 應用程式中的多個缺陷尚未修補</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
-      <description><![CDATA[Windows 巨頭告訴思科Talos，它沒有修復這些漏洞 思科Talos 表示，微軟macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、訪問敏感資料、記錄使用者輸入，並升級權限。]]></description>
+      <description><![CDATA[Windows 巨頭告訴Cisco Talos 它沒有修復這些漏洞 Cisco Talos 表示Microsoft macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、存取敏感數據、記錄使用者輸入，並升級權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
       <pubDate>Mon, 19 Aug 2024 19:01:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[調查人員先前表示，這個數字要高得多 可能成為今年最嚴重的資料外洩事件之一的資料經紀人告訴官員，只有 130 萬人受到影響。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/national_public_data_breach/</guid>
       <pubDate>Mon, 19 Aug 2024 13:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>基於資訊自由的報告稱，維吉尼亞州資料中心的耗水量就像沒有明天一樣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/virginia_datacenter_water_consumption/</link>
-      <description><![CDATA[人工智慧對電力的渴望只會讓事情變得更糟 美國維吉尼亞州資料中心的環境影響再次引起人們的關注，因為聲稱自那時以來，資料中心的耗水量增加了近三分之二2019 年，人工智慧可能會讓情況變得更糟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/virginia_datacenter_water_consumption/</guid>
-      <pubDate>Mon, 19 Aug 2024 12:31:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
