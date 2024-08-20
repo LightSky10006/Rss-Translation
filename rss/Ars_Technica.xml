@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 19 Aug 2024 23:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 00:51:54 GMT</lastBuildDate>
+    <item>
+      <title>據報道，在夏季新冠疫情激增之際，FDA 準備批准更新的疫苗</title>
+      <link>https://arstechnica.com/?p=2044101</link>
+      <description><![CDATA[廢水中的 SARS-CoV-2 水平表明夏季峰值很高，目前已達到峰值。]]></description>
+      <guid>https://arstechnica.com/?p=2044101</guid>
+      <pubDate>Mon, 19 Aug 2024 23:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 0-day被北韓利用安裝高級rootkit</title>
+      <link>https://arstechnica.com/?p=2044100</link>
+      <description><![CDATA[FudModule rootkit 深入 Windows，可以繞過關鍵的安全防禦。]]></description>
+      <guid>https://arstechnica.com/?p=2044100</guid>
+      <pubDate>Mon, 19 Aug 2024 23:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>那本書是毒藥：更多維多利亞時代的封面被發現含有有毒染料</title>
       <link>https://arstechnica.com/?p=2043776</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[儘管發生了變化，2GB Pi 5 與其他迭代「功能相同」。]]></description>
       <guid>https://arstechnica.com/?p=2043981</guid>
       <pubDate>Mon, 19 Aug 2024 15:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的電視機已成為數位廣告看板。而且情況只會變得更糟。</title>
-      <link>https://arstechnica.com/?p=2027078</link>
-      <description><![CDATA[電視軟體正在載入廣告，改變了擁有電視機的意義。]]></description>
-      <guid>https://arstechnica.com/?p=2027078</guid>
-      <pubDate>Mon, 19 Aug 2024 11:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>隕石賦予月球極稀薄的大氣層</title>
-      <link>https://arstechnica.com/?p=2043696</link>
-      <description><![CDATA[使月球表面部分蒸發的撞擊維持了月球稀薄的大氣層。]]></description>
-      <guid>https://arstechnica.com/?p=2043696</guid>
-      <pubDate>Sat, 17 Aug 2024 11:05:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
