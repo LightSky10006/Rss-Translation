@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 13:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 14:36:12 GMT</lastBuildDate>
+    <item>
+      <title>飛機追蹤應用程式承認用戶密碼、SSN 暴露超過 3 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</link>
+      <description><![CDATA[通知省略了一些關鍵細節 流行的航班追蹤應用程式 FlightAware 承認它在三年多的時間裡暴露了大量用戶資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</guid>
+      <pubDate>Tue, 20 Aug 2024 14:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克 (Elon Musk) 的 X Corp 因未支付技術費用而面臨 6,100 萬美元的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/x_corp_wiwynn_lawsuit_unpaid_bills/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Cloudflare 呼籲在網路挑戰日益嚴峻的情況下協調監管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</link>
-      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
+      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者的副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</guid>
       <pubDate>Tue, 20 Aug 2024 09:36:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[創辦人的副業計畫正在放水 Gentoo 計畫及其後續計畫的消息不斷傳出，「Funtoo」這個名字很明顯——Gentoo 創辦人Daniel Robbins 接下來所做的事情。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/gentoo_drops_ia64_funtoo_falters/</guid>
       <pubDate>Mon, 19 Aug 2024 16:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 24.04.1 將會遲到，但更新的核心即將到來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ubuntu_240401_will_be_late/</link>
-      <description><![CDATA[對於不耐煩的LTS 用戶來說，壞消息是透過調整策略來平衡的 下一個Ubuntu 單點版本的發布日期被推遲，但還有一線希望：Canonical 承諾在未來的版本中使用更新的核心...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/ubuntu_240401_will_be_late/</guid>
-      <pubDate>Mon, 19 Aug 2024 15:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
