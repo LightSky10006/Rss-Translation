@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 20:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 21:34:48 GMT</lastBuildDate>
+    <item>
+      <title>AMD逆轉路線：Ryzen 3000 CPU畢竟將獲得SinkClose補丁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/amd_sinkclose_ryzen_3000/</link>
+      <description><![CDATA[仍然不喜歡 1000 或 2000 系列 AMD 明顯逆轉，認為 2019 年發布的 Ryzen 3000 系列處理器實際上值得針對最近披露的 SinkClose 漏洞進行修補。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/amd_sinkclose_ryzen_3000/</guid>
+      <pubDate>Tue, 20 Aug 2024 21:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>作家起訴 Anthropic 向克勞德提供「竊取」的版權作品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/anthropic_claude_copyright/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[龍捲風警報不可能是幻覺...對嗎？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/nvidia_ai_weather/</guid>
       <pubDate>Mon, 19 Aug 2024 21:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 殺死使用 ChatGPT 編寫美國選舉虛假資訊的伊朗帳戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/openai_iranian_accounts/</link>
-      <description><![CDATA[X 上有12 個，Instagram 上有一個受到打擊 OpenAI 已禁止與一名涉嫌在社交媒體網站上散佈有關即將舉行的美國總統競選的虛假新聞的伊朗船員相關的ChatGPT 帳戶。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/openai_iranian_accounts/</guid>
-      <pubDate>Mon, 19 Aug 2024 20:10:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
