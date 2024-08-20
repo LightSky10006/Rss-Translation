@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 06:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 06:40:49 GMT</lastBuildDate>
+    <item>
+      <title>伊朗被列為川普競選網絡釣魚和洩密的來源</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/iran_trump_phishing_attribution/</link>
+      <description><![CDATA[政治煽動者羅傑·斯通(Roger Stone)可能是個人電子郵件被破解後的薄弱環節 美國當局已將伊朗列為最近對美國共和黨總統候選人唐納德·特朗普(Donald Trump)競選活動進行攻擊的可能來源...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/iran_trump_phishing_attribution/</guid>
+      <pubDate>Tue, 20 Aug 2024 06:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>據稱，由於新的中國式防火牆，巴基斯坦的網路速度減慢到令人不舒服的水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/pakistan_minister_denies_firewall/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>儘管存在潛在風險，但 Microsoft macOS 應用程式中的多個缺陷尚未修補</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</link>
-      <description><![CDATA[Windows 巨頭告訴Cisco Talos 它沒有修復這些漏洞 Cisco Talos 表示Microsoft macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、存取敏感數據、記錄使用者輸入，並升級權限。]]></description>
+      <description><![CDATA[Windows 巨頭告訴思科Talos，它沒有修復這些漏洞 思科Talos 表示，微軟macOS 應用程式中的八個漏洞可能會被邪惡類型濫用，從用戶設備錄製視訊和聲音、訪問敏感資料、記錄使用者輸入，並升級權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/cisco_talos_microsoft_macos/</guid>
       <pubDate>Mon, 19 Aug 2024 19:01:06 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>對不起，莫西。將軟體停滯歸咎於敏捷是錯誤的做法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</link>
-      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過一段愉快的時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
+      <description><![CDATA[創新已死了二十年？告訴 2004 年 意見 想要在舞台上度過美好時光，但您不是表演藝術家？出奇的簡單。讓大廳擠滿你的同齡人，告訴他們世界已經被推著手推車變成了地獄，然後他們是唯一能解決這個問題的人。你會感受到愛。保證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/sorry_moxie_blaming_agile_for/</guid>
       <pubDate>Mon, 19 Aug 2024 09:01:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有人真正需要更多，對吧？版本GB 只是稍微有點過多......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/raspberry_pi_5_2gb/</guid>
       <pubDate>Mon, 19 Aug 2024 08:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>開發人員試圖為成功而著裝，但最終卻因昂貴的停機而著裝</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</link>
-      <description><![CDATA[在海濱調試軟體是一項異常危險的任務 誰，我？  親愛的讀者，再次歡迎來到誰，我？其中Reg讀者喜歡你試著用技術人員不幸遭遇的故事來減輕工作週的打擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/who_me/</guid>
-      <pubDate>Mon, 19 Aug 2024 07:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
