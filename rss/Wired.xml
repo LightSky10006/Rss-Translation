@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 21 Aug 2024 17:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 17:35:07 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳 Google Pixel 手機，測試並評測了該購買的型號、保護殼和配件、功能下降</title>
+      <link>https://www.wired.com/story/best-google-pixel-phone/</link>
+      <description><![CDATA[這是所有型號的指南，以及 Pixel 案例推薦和可供嘗試的智慧軟體技巧。]]></description>
+      <guid>https://www.wired.com/story/best-google-pixel-phone/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>Google Pixel 9、Pixel 9 Pro 和 Pixel 9 Pro XL 評測：都長大了</title>
       <link>https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/</link>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 21 Aug 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>福特退出電動車並表示混合動力車是未來</title>
+      <title>福特退出電動車並稱混合動力車是未來</title>
       <link>https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/</link>
       <description><![CDATA[該汽車製造商正在淘汰其電動三排SUV，推遲下一代皮卡的推出，並致力於未來的汽油和柴油汽車，理由是消費者對全電動汽車缺乏興趣。]]></description>
       <guid>https://www.wired.com/story/ford-steps-back-from-evs-and-says-hybrids-are-the-future/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>AWS 配置問題可能會暴露數千個 Web 應用程式</title>
       <link>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</link>
-      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
+      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 的流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
       <guid>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</guid>
       <pubDate>Tue, 20 Aug 2024 22:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[該應用程式將從免費工作區中刪除較舊的帖子。以下是如何歸檔所有內容，如果您願意，可以將您的社群移至 Discord。]]></description>
       <guid>https://www.wired.com/story/how-to-move-slack-archive-to-discord/</guid>
       <pubDate>Tue, 20 Aug 2024 13:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過測試和審查的 2024 年 22 款最佳無線充電器</title>
-      <link>https://www.wired.com/gallery/best-wireless-chargers/</link>
-      <description><![CDATA[停止在黑暗中摸索纜線。這些經過有線測試的支架和墊可以省去為手機、無線耳塞和手錶加油的麻煩。]]></description>
-      <guid>https://www.wired.com/gallery/best-wireless-chargers/</guid>
-      <pubDate>Tue, 20 Aug 2024 13:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

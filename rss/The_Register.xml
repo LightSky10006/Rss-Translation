@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 21 Aug 2024 17:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 17:34:59 GMT</lastBuildDate>
+    <item>
+      <title>「複雜」的 AWS 雲端勒索活動針對 11 萬個域名</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/aws_extortion_campaign/</link>
+      <description><![CDATA[如果您需要再次提醒，當安全基礎知識出現問題時會發生什麼 對於那些不公開暴露其AWS 環境文件的組織來說，這是一個好消息，因為資訊安全專家表示，那些這樣做的組織可能會陷入廣泛而複雜的勒索活動中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/aws_extortion_campaign/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:23:07 GMT</pubDate>
+    </item>
     <item>
       <title>微軟推出一款 Teams 應用程式來統治一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_unifies_teams_apps/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>此前英國政府計劃為基於 Palantir 的醫療保健系統提供 4.85 億英鎊的四年預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/conservative_palantir_nhs_budget/</link>
-      <description><![CDATA[英國 NHS 會議的文件揭示了政治支出意圖的範圍 獨家 英國醫療服務有爭議的基於 Palantir 的分析系統的總計劃預算預計將達到 485 英鎊根據The Register 看到的數據，四年內達到100 億美元。]]></description>
+      <description><![CDATA[英格蘭 NHS 會議的文件揭示了政治支出意圖的範圍 獨家 英國醫療服務有爭議的基於 Palantir 的分析系統的總計劃預算預計將達到 485 英鎊根據The Register 看到的數據，四年內達到100 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/conservative_palantir_nhs_budget/</guid>
       <pubDate>Wed, 21 Aug 2024 10:30:10 GMT</pubDate>
     </item>
@@ -71,12 +78,12 @@
     <item>
       <title>遊手好閒的父親透過侵入政府資料庫偽造了自己的死亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/man_jailed_faking_death_online/</link>
-      <description><![CDATA[希望逃避子女撫養費，現在面臨81 個月的監禁，而且賬單比以往任何時候都更大 一名美國男子因通過黑客攻擊政府系統和偽造自己的死亡而被判處81 個月監禁正式將自己標記為已故者。]]></description>
+      <description><![CDATA[希望逃避子女撫養費，現在面臨81 個月的監禁- 以及比以往任何時候都更大的賬單 一名美國男子因通過黑客攻擊政府系統和偽造自己的死亡而被判處81 個月監禁正式將自己標記為已故者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/man_jailed_faking_death_online/</guid>
       <pubDate>Wed, 21 Aug 2024 07:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>Shein 和 Temu 電子商務爭端升級</title>
+      <title>Shein 和 Temu 電子商務糾紛升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/shein_temu_lawsuit/</link>
       <description><![CDATA[中國快時尚品牌獲得蜘蛛人迷因時刻 Shein 是一家著名的極其廉價商品的供應商，在訴訟中對其競爭對手Temu 提出了聳人聽聞的指控。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/shein_temu_lawsuit/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>SpaceX 將透過北極星黎明任務超越雙子座 11 號的高度記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/spacex_polaris_dawn/</link>
-      <description><![CDATA[讓我們希望太空衣能夠承受艙外活動 北極星黎明任務將人類送入1,400 公里的軌道（比1966 年的雙子座11 號更高），並將在不到一周的時間內發射。]]></description>
+      <description><![CDATA[讓我們希望太空衣能夠承受艙外活動 北極星黎明任務將人類送入1,400 公里的軌道——比1966 年的雙子座11 還要高——預計將在不到一周的時間內發射。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/spacex_polaris_dawn/</guid>
       <pubDate>Tue, 20 Aug 2024 17:29:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟支援的擴展旨在解決開源資料庫的已知弱點 微軟支援的開源專案旨在幫助解決 PostgreSQL 作為分析資料庫的弱點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/postgresql_duckdb_extension/</guid>
       <pubDate>Tue, 20 Aug 2024 16:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>飛機追蹤器 FlightAware 承認用戶密碼、SSN 暴露多年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</link>
-      <description><![CDATA[通知省略了一些關鍵細節 流行的航班追蹤應用程式 FlightAware 承認它在三年多的時間裡暴露了大量用戶資料。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</guid>
-      <pubDate>Tue, 20 Aug 2024 14:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
