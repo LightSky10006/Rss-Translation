@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 21 Aug 2024 14:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 15:12:04 GMT</lastBuildDate>
+    <item>
+      <title>美國政府希望你──是的，就是你──追蹤產生人工智慧的缺陷</title>
+      <link>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</link>
+      <description><![CDATA[人工智慧倫理非營利組織 Humane Intelligence 和美國國家標準與技術研究院正在發起一系列競賽，以吸引更多人探索生成人工智慧系統中的問題。]]></description>
+      <guid>https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/</guid>
+      <pubDate>Wed, 21 Aug 2024 15:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>趕飛機嗎？以下有 5 個讓旅行更輕鬆的秘訣</title>
       <link>https://www.wired.com/story/5-tips-air-travel-long-flights/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>AWS 配置問題可能會暴露數千個 Web 應用程式</title>
       <link>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</link>
-      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
+      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 的流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
       <guid>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</guid>
       <pubDate>Tue, 20 Aug 2024 22:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>康泰納仕集團與 OpenAI 簽署協議</title>
       <link>https://www.wired.com/story/conde-nast-openai-deal/</link>
-      <description><![CDATA[該媒體公司加入了 The Atlantic、Axel Springer、Vox Media 以及其他許多與 OpenAI 合作的出版商行列。]]></description>
+      <description><![CDATA[該媒體公司加入了 The Atlantic、Axel Springer、Vox Media 以及許多其他與 OpenAI 合作的出版商行列。]]></description>
       <guid>https://www.wired.com/story/conde-nast-openai-deal/</guid>
       <pubDate>Tue, 20 Aug 2024 18:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[你的小孩子已經不再那麼小了。帶著這些經 WIRED 認可的筆記型電腦、背包等開始步入正軌。]]></description>
       <guid>https://www.wired.com/gallery/back-to-school-high-school-gear/</guid>
       <pubDate>Tue, 20 Aug 2024 12:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳早期勞動節床墊優惠（2024）</title>
-      <link>https://www.wired.com/story/best-early-labor-day-mattress-deals/</link>
-      <description><![CDATA[這是一年中購買新床墊的最佳時機之一。以下是長週末之前可搶購的所有最佳優惠（以及一些獨家促銷代碼）。]]></description>
-      <guid>https://www.wired.com/story/best-early-labor-day-mattress-deals/</guid>
-      <pubDate>Mon, 19 Aug 2024 21:04:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
