@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 21 Aug 2024 12:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 13:15:38 GMT</lastBuildDate>
+    <item>
+      <title>頂尖公司因資料治理問題而取消 Microsoft Copilot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_ai_copilots/</link>
+      <description><![CDATA[Securiti 的Jack Berkowitz 對20 多名CDO 進行了調查，其中一半已經暫停 大型企業試圖在復雜的網路中讓Microsoft Copilot 融入其組織時，安全和公司治理問題給它們帶來了沉重的壓力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_ai_copilots/</guid>
+      <pubDate>Wed, 21 Aug 2024 13:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Juice 探測器在與地球和月球自拍後節省了巨大的燃料</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/esa_juice_gravity_assist/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[企業級長期穩定性，但更友善 Oreon Lime R2 將 AlmaLinux 與一堆額外的工具和儲存庫結合，再加上一些針對 GNOME 桌面的有用調整。它有點類似 Fedora 34 的 LTS 版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/oreon_lime_desktop_almalinux/</guid>
       <pubDate>Tue, 20 Aug 2024 12:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>奧格斯堡火箭工廠引擎測試在 SaxaVord 航太港發生爆炸</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/german_rocket_explodes_scotland/</link>
-      <description><![CDATA[第一級在蘇格蘭的烈火中被毀 奧格斯堡火箭工廠的 RFA One 的熱火測試在蘇格蘭的 SaxaVord 太空港發生爆炸。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/german_rocket_explodes_scotland/</guid>
-      <pubDate>Tue, 20 Aug 2024 11:15:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
