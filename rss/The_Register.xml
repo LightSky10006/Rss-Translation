@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 02:02:18 GMT</lastBuildDate>
+    <item>
+      <title>晶片製造商 Microchip 透露製造能力遭受網路攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microchip_technology_security_incident/</link>
+      <description><![CDATA[國防承包商遭到駭客攻擊- 可能發生的最壞情況是什麼 美國半導體製造公司Microchip Technology 透露，「未經授權的一方擾亂了公司對某些伺服器的使用和部分業務運作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microchip_technology_security_incident/</guid>
+      <pubDate>Wed, 21 Aug 2024 01:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>AMD逆轉路線：Ryzen 3000 CPU畢竟將獲得SinkClose補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/amd_sinkclose_ryzen_3000/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>SpaceX 將透過北極星黎明任務超越雙子座 11 號的高度記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/spacex_polaris_dawn/</link>
-      <description><![CDATA[讓我們希望太空衣能夠承受艙外活動 北極星黎明任務將人類送入1,400 公里的軌道——比1966 年的雙子座11 還要高——預計將在不到一周的時間內發射。]]></description>
+      <description><![CDATA[讓我們希望太空衣能夠承受艙外活動 北極星黎明任務將人類送入1,400 公里的軌道（比1966 年的雙子座11 號還要高），並將在不到一周的時間內發射。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/spacex_polaris_dawn/</guid>
       <pubDate>Tue, 20 Aug 2024 17:29:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>馬斯克 (Elon Musk) 的 X Corp 因未支付技術費用而面臨 6,100 萬美元的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/x_corp_wiwynn_lawsuit_unpaid_bills/</link>
-      <description><![CDATA[台灣IT 基礎設施供應商聲稱平台對其進行了幽靈 X 正面臨另一起法律案件，即IT 基礎設施供應商Wiwynn 因未支付其採購的1.2 億美元組件而提出的違約索賠為埃隆馬斯克擁有的企業......]]></description>
+      <description><![CDATA[台灣IT 基礎設施提供商聲稱平台對其進行了幽靈 X 正面臨另一起法律訴訟，即IT 基礎設施提供商Wiwynn 因未支付其採購的1.2 億美元組件而提出的違約索賠為埃隆馬斯克擁有的企業......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/x_corp_wiwynn_lawsuit_unpaid_bills/</guid>
       <pubDate>Tue, 20 Aug 2024 13:02:10 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Cloudflare 呼籲在網路挑戰日益嚴峻的情況下協調監管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</link>
-      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者的副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
+      <description><![CDATA[刪除安全服務並不總是解決有問題內容的最佳方式 採訪 據該網絡稱，Cloudflare 希望協調世界各地湧現的所有監管和合規框架服務提供者副首席法律長兼公共政策全球主管 Alissa Starzak...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/cloudflare_harmonization/</guid>
       <pubDate>Tue, 20 Aug 2024 09:36:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員發現，可以降低身份驗證檢查的級別，並實施破舊的令牌刷新政策 Apple Pay、Google Pay 和PayPal 等數位錢包可用於使用被盜和取消的支付卡進行交易。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/</guid>
       <pubDate>Tue, 20 Aug 2024 01:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>英偉達最新人工智慧氣候模式瞄準惡劣天氣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/19/nvidia_ai_weather/</link>
-      <description><![CDATA[龍捲風警報不可能是幻覺...對嗎？ ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/19/nvidia_ai_weather/</guid>
-      <pubDate>Mon, 19 Aug 2024 21:10:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
