@@ -4,7 +4,7 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 21 Aug 2024 18:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 19:11:03 GMT</lastBuildDate>
     <item>
       <title>經過測試和評測的 2024 年最佳 Google Pixel 手機：購買哪種型號、保護殼和配件、功能下降</title>
       <link>https://www.wired.com/story/best-google-pixel-phone/</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[來體驗智慧設計和出色的相機。繼續關注現實模糊的影像處理功能和下一級聊天機器人。]]></description>
       <guid>https://www.wired.com/review/google-pixel-9-pixel-9-pro-and-pixel-9-pro-xl/</guid>
       <pubDate>Wed, 21 Aug 2024 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>57 種最佳返校大學宿舍必需品和裝備（2024 年）</title>
+      <link>https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/</link>
+      <description><![CDATA[使用這些經過 WIRED 測試的最愛來裝飾您的房間，讓上課變得輕而易舉。]]></description>
+      <guid>https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:32:00 GMT</pubDate>
     </item>
     <item>
       <title>一位「人工智慧科學家」正在發明並進行自己的實驗</title>
@@ -78,7 +85,7 @@
     <item>
       <title>AWS 配置問題可能會暴露數千個 Web 應用程式</title>
       <link>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</link>
-      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 的流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
+      <description><![CDATA[亞馬遜已經更新了關於客戶如何更安全地實施 AWS 流量路由服務（稱為應用程式負載平衡器）的說明，但尚不清楚每個人都會收到該備忘錄。]]></description>
       <guid>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</guid>
       <pubDate>Tue, 20 Aug 2024 22:00:00 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>康泰納仕集團與 OpenAI 簽署協議</title>
       <link>https://www.wired.com/story/conde-nast-openai-deal/</link>
-      <description><![CDATA[該媒體公司加入了 The Atlantic、Axel Springer、Vox Media 以及許多其他與 OpenAI 合作的出版商行列。]]></description>
+      <description><![CDATA[該媒體公司加入了 The Atlantic、Axel Springer、Vox Media 以及其他許多與 OpenAI 合作的出版商行列。]]></description>
       <guid>https://www.wired.com/story/conde-nast-openai-deal/</guid>
       <pubDate>Tue, 20 Aug 2024 18:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您正在建造桌上型電腦，以下是您需要了解的有關選擇電源裝置的所有資訊。]]></description>
       <guid>https://www.wired.com/story/pc-power-supply-explainer/</guid>
       <pubDate>Tue, 20 Aug 2024 14:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Slack 刪除之前備份 Slack 存檔</title>
-      <link>https://www.wired.com/story/how-to-move-slack-archive-to-discord/</link>
-      <description><![CDATA[該應用程式將從免費工作區中刪除較舊的帖子。以下是如何歸檔所有內容，如果您願意，可以將您的社群移至 Discord。]]></description>
-      <guid>https://www.wired.com/story/how-to-move-slack-archive-to-discord/</guid>
-      <pubDate>Tue, 20 Aug 2024 13:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
