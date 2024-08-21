@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 21 Aug 2024 16:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 16:40:54 GMT</lastBuildDate>
+    <item>
+      <title>微軟推出一款 Teams 應用程式來統治一切</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_unifies_teams_apps/</link>
+      <description><![CDATA[在家庭和工作帳戶之間切換的煩人要求終於消失了 Microsoft 發布了一款統一的Teams 應用程序，取消了一個應用程序用於工作或教育，另一個應用程序用於個人使用的要求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_unifies_teams_apps/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯要求公民關閉家庭監控，因為烏克蘭人即將到來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/russia_memo_ukraine_invasion/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Slack AI 可能會被誘騙透過即時注入從私人管道洩露數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/slack_ai_prompt_injection/</link>
-      <description><![CDATA[Whack yakety-yak 應用程式因安全漏洞而被指 根據安全公司PromptArmor 的說法，Slack AI 是一項為Salesforce 團隊訊息服務使用者提供的附加輔助服務，很容易受到提示注入的攻擊。]]></description>
+      <description><![CDATA[Whack yakety-yak 應用程式因安全漏洞而被指 更新 Slack AI 是一項向Salesforce 團隊訊息服務使用者提供的附加輔助服務，很容易受到提示根據安全公司 PromptArmor 的說法，注入...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/slack_ai_prompt_injection/</guid>
       <pubDate>Wed, 21 Aug 2024 09:23:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[通知省略了一些關鍵細節 流行的航班追蹤應用程式 FlightAware 承認它在三年多的時間裡暴露了大量用戶資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/flightaware_data_exposure/</guid>
       <pubDate>Tue, 20 Aug 2024 14:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克 (Elon Musk) 的 X Corp 因未支付技術費用而面臨 6,100 萬美元的訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/x_corp_wiwynn_lawsuit_unpaid_bills/</link>
-      <description><![CDATA[台灣IT 基礎設施提供商聲稱平台對其進行了幽靈 X 正面臨另一起法律訴訟，即IT 基礎設施提供商Wiwynn 因未支付其採購的1.2 億美元組件而提出的違約索賠為埃隆馬斯克擁有的企業......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/x_corp_wiwynn_lawsuit_unpaid_bills/</guid>
-      <pubDate>Tue, 20 Aug 2024 13:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
