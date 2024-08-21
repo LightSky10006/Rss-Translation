@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 21 Aug 2024 08:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 09:34:32 GMT</lastBuildDate>
+    <item>
+      <title>Slack AI 可能會被誘騙透過即時注入從私人管道洩露數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/slack_ai_prompt_injection/</link>
+      <description><![CDATA[Whack yakety-yak 應用程式因安全漏洞而被指 根據安全公司PromptArmor 的說法，Slack AI 是一項為Salesforce 團隊訊息服務使用者提供的附加輔助服務，很容易受到提示注入的攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/slack_ai_prompt_injection/</guid>
+      <pubDate>Wed, 21 Aug 2024 09:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>英國競爭監管機構的雲端調查補救措施具有全球影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/cma_cloud_market_investigation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐洲最大的地方當局取消了財務計畫中的預期節省 根據一項新的報告，到2026 年4 月，伯明罕市議會Oracle 實施災難的總成本將達到2.165 億英鎊（2.804 億美元）審計報告...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/birmingham_oracle_cost/</guid>
       <pubDate>Tue, 20 Aug 2024 08:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲反壟斷警察瑪格麗特·維斯塔格(Margrethe Vestager)在對大型科技公司進行十年控制後離職</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/eu_competition_cop_depart/</link>
-      <description><![CDATA[她的遺產取決於她的繼任者- 他們會加倍努力嗎？一些時候辭職，這一進展肯定會讓她所說的美國科技公司感到高興到地毯上。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/eu_competition_cop_depart/</guid>
-      <pubDate>Tue, 20 Aug 2024 07:20:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
