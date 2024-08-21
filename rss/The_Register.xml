@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 21 Aug 2024 13:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 14:12:27 GMT</lastBuildDate>
+    <item>
+      <title>談到雲，中國與世界的對抗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/china_cloud_market/</link>
+      <description><![CDATA[亞馬遜、微軟和谷歌主導西方，但中國卻按照自己的規則行事 全球雲端生態系統呈現出明顯的分裂，與中國相比，中國由幾乎完全不同的一組公司主導對於世界其他地區 - 由於政治原因和經濟因素而產生的分歧。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/china_cloud_market/</guid>
+      <pubDate>Wed, 21 Aug 2024 13:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>頂尖公司因資料治理問題而取消 Microsoft Copilot</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_ai_copilots/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在日本的研究中，數位化運動員享有正面影響，但過多的螢幕時間會帶來收益遞減 一項針對日本近10 萬人的研究發現，遊戲可能有利於玩家的心理健康，這與圍繞流行消遣的流行敘事......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/research_gaming_mental_health/</guid>
       <pubDate>Tue, 20 Aug 2024 12:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oreon Lime 是帶有桌面風格的 AlmaLinux</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/20/oreon_lime_desktop_almalinux/</link>
-      <description><![CDATA[企業級長期穩定性，但更友善 Oreon Lime R2 將 AlmaLinux 與一堆額外的工具和儲存庫結合，再加上一些針對 GNOME 桌面的有用調整。它有點類似 Fedora 34 的 LTS 版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/20/oreon_lime_desktop_almalinux/</guid>
-      <pubDate>Tue, 20 Aug 2024 12:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
