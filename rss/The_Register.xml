@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 22 Aug 2024 19:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 19:35:54 GMT</lastBuildDate>
+    <item>
+      <title>華盛頓特區亞馬遜反壟斷案復活</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</link>
+      <description><![CDATA[哥倫比亞特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</guid>
+      <pubDate>Thu, 22 Aug 2024 19:25:09 GMT</pubDate>
+    </item>
     <item>
       <title>儘管執行長對遠距工作心存疑慮，但 Zoom 利潤仍增長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/zoom_q2_2025/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Axiom Space 與諾基亞合作，將月球漫步者連接到 4G</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</link>
-      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯 III 登月任務配備具有 4G 連接的 Axiom Space 宇航服 ...]]></description>
+      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯III 登月任務配備具有4G 連接的Axiom Space 宇航服 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</guid>
       <pubDate>Thu, 22 Aug 2024 14:20:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：三年前ProxyOracle 的缺陷已添加到CISA 的漏洞利用列表中 微軟表示正在調查一個補丁的問題，該補丁旨在修復GRUB 開源引導程式中存在兩年前的缺陷這導致一些同時運行 Windows 和 Linux 的雙啟動電腦崩潰。在那次崩潰中，用戶被恰當地告知：「出現了嚴重錯誤。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_patch_dual_boot/</guid>
       <pubDate>Wed, 21 Aug 2024 21:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國科技先驅麥克林奇去世，享年 59 歲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/mike_lynch_dead_yacht/</link>
-      <description><![CDATA[在與惠普進行多年的法律鬥爭後，美國宣布大亨無罪 Obit 英國軟體大亨邁克·林奇(Mike Lynch) 在一場航行悲劇中失蹤兩天後被發現死亡西西里島海岸......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/mike_lynch_dead_yacht/</guid>
-      <pubDate>Wed, 21 Aug 2024 19:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
