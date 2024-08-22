@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 22 Aug 2024 12:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 14:11:08 GMT</lastBuildDate>
+    <item>
+      <title>Gartner 表示，AGI 已受到客戶關注，但與現實相去甚遠</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/gartner_agi_hype_cycle/</link>
+      <description><![CDATA[有爭議的概念甚至可能不是計算領域的有用目標 Gartner 警告稱，人工智慧 (AGI) 的任何前景至少還需要 10 年時間，而且可能不確定是否會實現。分析師表示，這甚至可能不值得追求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/gartner_agi_hype_cycle/</guid>
+      <pubDate>Thu, 22 Aug 2024 13:33:05 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體重創關鍵產業，但被清除暗示鬆了口氣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/critical_industrial_ransomware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Securiti 的Jack Berkowitz 對20 多名CDO 進行了調查，其中一半已經暫停 大型企業試圖在復雜的網路中讓Microsoft Copilot 融入其組織時，安全和公司治理問題給它們帶來了沉重的壓力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/microsoft_ai_copilots/</guid>
       <pubDate>Wed, 21 Aug 2024 13:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>與地球和月球自拍後，果汁探測器節省了巨大的燃料</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/esa_juice_gravity_assist/</link>
-      <description><![CDATA[前往金星！科學數據。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/esa_juice_gravity_assist/</guid>
-      <pubDate>Wed, 21 Aug 2024 12:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
