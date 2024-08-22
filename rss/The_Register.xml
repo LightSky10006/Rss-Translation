@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 22 Aug 2024 12:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:53:17 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體重創關鍵產業，但被清除暗示鬆了口氣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/critical_industrial_ransomware/</link>
+      <description><![CDATA[攻擊放緩是否持續下降趨勢是安全研究人員無法回答的百萬美元問題 關鍵工業組織在7 月份繼續受到勒索軟體攻擊的打擊，而專家表示犯罪分子的信心正在增強執法部門不會幹預。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/critical_industrial_ransomware/</guid>
+      <pubDate>Thu, 22 Aug 2024 12:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟為即將推出的預覽版恢復了 Windows 召回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</link>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 21 Aug 2024 13:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>Juice 探測器在與地球和月球自拍後節省了巨大的燃料</title>
+      <title>與地球和月球自拍後，果汁探測器節省了巨大的燃料</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/esa_juice_gravity_assist/</link>
       <description><![CDATA[前往金星！科學數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/esa_juice_gravity_assist/</guid>
       <pubDate>Wed, 21 Aug 2024 12:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有新的人工智慧驅動的資料中心空間？是的，這主要是我們的——雲端巨頭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/dc_na_boom/</link>
-      <description><![CDATA[建設量激增70% ...其中80% 已被搶購 隨著人工智慧的蓬勃發展，目前正在建造的比特穀倉數量出現爆炸式增長，在北美頂級市場激增近70%根據 CBRE 新發布的報告，過去一年發電量達到 3.87 吉瓦的歷史新高。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/dc_na_boom/</guid>
-      <pubDate>Wed, 21 Aug 2024 11:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
