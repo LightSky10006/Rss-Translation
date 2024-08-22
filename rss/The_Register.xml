@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 22 Aug 2024 11:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:21:03 GMT</lastBuildDate>
+    <item>
+      <title>微軟為即將推出的預覽版恢復了 Windows 召回</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</link>
+      <description><![CDATA[內部人士為雷蒙德的第二次人工智慧窺探軟體運行做好準備 微軟正在再次測試其備受爭議的Windows Recall 技術，並向Windows 內部人士謹慎發布，希望將另一次安全和隱私方面的強烈抗議消滅在萌芽狀態。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</guid>
+      <pubDate>Thu, 22 Aug 2024 11:36:14 GMT</pubDate>
+    </item>
     <item>
       <title>這所大學認為用假伊波拉恐慌進行網路釣魚測試是個好主意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/ucsc_phishing_test_ebola/</link>
@@ -50,12 +57,12 @@
     <item>
       <title>中國頂級Office克隆再次抄襲微軟——遭遇不便的停機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/kingsoft_wps_office_outage_china/</link>
-      <description><![CDATA[WPS Office 週三吃了一頓豐盛的午餐，就在其開發商發布巨額利潤的第二天 中國頂級個人生產力套件WPS Office 昨天在工作時間經歷了長時間的停機。]]></description>
+      <description><![CDATA[WPS Office 在其開發商發布巨額利潤的第二天，週三吃了一頓豐盛的午餐 中國頂級個人生產力套件WPS Office 昨天在工作時間經歷了長時間的停機。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/kingsoft_wps_office_outage_china/</guid>
       <pubDate>Thu, 22 Aug 2024 02:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>LG電子的目標是透過空調和沈浸式技術成為資料中心冷卻廠商</title>
+      <title>LG 電子致力於透過空調和沈浸式技術成為資料中心冷卻廠商</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/lg_electronics_datacenter_cooling_2030_vision/</link>
       <description><![CDATA[2030 年願景還要求其家電和電視將您變成訂閱搖錢樹 LG 電子計劃擴大其數據中心冷卻業務，以根據人工智能的需求獲利。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/lg_electronics_datacenter_cooling_2030_vision/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[建設量激增70% ...其中80% 已被搶購 隨著人工智慧的蓬勃發展，目前正在建造的比特穀倉數量出現爆炸式增長，在北美頂級市場激增近70%根據 CBRE 新發布的報告，過去一年發電量達到 3.87 吉瓦的歷史新高。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/dc_na_boom/</guid>
       <pubDate>Wed, 21 Aug 2024 11:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>此前英國政府計劃為基於 Palantir 的醫療保健系統提供 4.85 億英鎊的四年預算</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/21/conservative_palantir_nhs_budget/</link>
-      <description><![CDATA[英格蘭 NHS 會議的文件揭示了政治支出意圖的範圍 獨家 英國醫療服務有爭議的基於 Palantir 的分析系統的總計劃預算預計將達到 485 英鎊根據The Register 看到的數據，四年內達到100 億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/21/conservative_palantir_nhs_budget/</guid>
-      <pubDate>Wed, 21 Aug 2024 10:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
