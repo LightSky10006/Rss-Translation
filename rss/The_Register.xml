@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 11:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 11:35:14 GMT</lastBuildDate>
+    <item>
+      <title>CockroachDB 急忙進軍專有軟體領域</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/cockroachdb_opinion/</link>
+      <description><![CDATA[隨著風投旗下的仿冒源公司大喊“給我錢吧”，更多的人可能會陷入社區的危險 觀點 跟我重複一遍：開源不是一種商業模式。它是一種程式設計模型。儘管如此，企業仍在不斷嘗試使其成為一體，但往往會失敗。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/cockroachdb_opinion/</guid>
+      <pubDate>Fri, 23 Aug 2024 11:29:50 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲太空總署的第一顆集群衛星正在為南太平洋上空的激烈結局做準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/esa_cluster_reentry/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與其說是漏洞，不如說是復活節彩蛋，但卻是一個有趣的玩意兒 由於iOS 中新發現的一個雖然良性的錯誤，輸入特殊的四字符字符串會使你的iPhone 崩潰和iPadOS。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/ios_crash_four_characters/</guid>
       <pubDate>Thu, 22 Aug 2024 15:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Axiom Space 與諾基亞合作，將月球漫步者連接到 4G</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</link>
-      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯 III 登月任務配備具有 4G 連接的 Axiom Space 宇航服 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</guid>
-      <pubDate>Thu, 22 Aug 2024 14:20:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
