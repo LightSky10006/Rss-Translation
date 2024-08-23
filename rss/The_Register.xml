@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 06:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 06:40:31 GMT</lastBuildDate>
+    <item>
+      <title>印度將太空站和月球基地計畫推遲五年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/india_space_timeline/</link>
+      <description><![CDATA[2023 年月船3 號任務的結果表明南極月球岩漿 印度航天部已製定計劃，將於明年將第一位宇航員送入太空，到2035 年建立空間站，並在2035 年著陸2045 年印地安人登月。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/india_space_timeline/</guid>
+      <pubDate>Fri, 23 Aug 2024 06:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>開放運算專案在 AWS、Google、Meta 和 Microsoft 的幫助下尋求混凝土標準</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ocp_low_carbon_concrete_tests/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>SolarWinds 在其 Web Help Desk 產品中留下了關鍵的硬編碼憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</link>
-      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料…]]></description>
+      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</guid>
       <pubDate>Thu, 22 Aug 2024 22:36:16 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>華盛頓特區亞馬遜反壟斷案復活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</link>
-      <description><![CDATA[華盛頓特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
+      <description><![CDATA[哥倫比亞特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</guid>
       <pubDate>Thu, 22 Aug 2024 19:25:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>CrowdStrike 似曾相識，「效能問題」導致系統運作緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</link>
-      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模中斷無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺。]]></description>
+      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模宕機無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺影響一些歐洲客戶...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</guid>
       <pubDate>Thu, 22 Aug 2024 18:15:10 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>哈里伯頓調查擾亂業務運營的“問題”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/halliburton_investigates_incident_amid_cyberattack/</link>
-      <description><![CDATA[問題可能是什麼？據報道，一場網路攻擊 美國石油巨頭哈里伯頓正在調查一個“問題”，據報道是一次網路攻擊，該攻擊已經擾亂了一些業務運營和全球網路。 /p&gt; ]]></description>
+      <description><![CDATA[問題可能是什麼？據報道，一次網路攻擊 美國石油巨頭哈里伯頓正在調查一個“問題”，據報道是一次網路攻擊，該攻擊已經擾亂了一些業務運營和全球網路。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/halliburton_investigates_incident_amid_cyberattack/</guid>
       <pubDate>Thu, 22 Aug 2024 16:45:13 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Axiom Space 與諾基亞合作，將月球漫步者連接到 4G</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</link>
-      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯 III 登月任務配備具有 4G 連接的 Axiom Space 宇航服 ...]]></description>
+      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯III 登月任務配備具有4G 連接的Axiom Space 宇航服。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</guid>
       <pubDate>Thu, 22 Aug 2024 14:20:06 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>微軟為即將推出的預覽版恢復了 Windows 召回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</link>
-      <description><![CDATA[內部人士為雷蒙德的第二次人工智慧窺探軟體運行做好準備 微軟正在再次測試其備受爭議的Windows Recall 技術，並向Windows 內部人士謹慎發布，希望將另一次安全和隱私方面的強烈抗議消滅在萌芽狀態。]]></description>
+      <description><![CDATA[內部人士為雷德蒙的第二次AI 窺探軟體做好準備 微軟正在再次測試其備受爭議的Windows Recall 技術，並向Windows 內部人士謹慎發布，希望將另一次安全和隱私的強烈抗議消滅在萌芽狀態。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</guid>
       <pubDate>Thu, 22 Aug 2024 11:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>這所大學認為用假伊波拉恐慌進行網路釣魚測試是個好主意</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/ucsc_phishing_test_ebola/</link>
-      <description><![CDATA[不用說，這會適得其反 加州大學聖克魯斯分校(UCSC) 的學生們可能會鬆一口氣，因為有關工作人員感染伊波拉病毒的電子郵件警告只是一個範例。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/ucsc_phishing_test_ebola/</guid>
-      <pubDate>Thu, 22 Aug 2024 10:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
