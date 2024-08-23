@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 15:37:51 GMT</lastBuildDate>
     <item>
       <title>美國起訴佐治亞理工學院為五角大廈承包商涉嫌網路安全失誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</link>
-      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得主。]]></description>
+      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得獎者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</guid>
       <pubDate>Fri, 23 Aug 2024 14:30:11 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>亞洲頂級訊息應用程式的開發人員淹沒在 Slack 中，用 ChatGPT 馴服了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</link>
-      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來確保其品質保證 (QA) 任務步入正軌。]]></description>
+      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來保持其品質保證 (QA) 任務正常進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</guid>
       <pubDate>Fri, 23 Aug 2024 03:47:14 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>SolarWinds 在其 Web Help Desk 產品中留下了關鍵的硬編碼憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</link>
-      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料…]]></description>
+      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</guid>
       <pubDate>Thu, 22 Aug 2024 22:36:16 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>CrowdStrike 似曾相識，「效能問題」導致系統運作緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</link>
-      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模中斷無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺。]]></description>
+      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模宕機無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺影響一些歐洲客戶...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</guid>
       <pubDate>Thu, 22 Aug 2024 18:15:10 GMT</pubDate>
     </item>
