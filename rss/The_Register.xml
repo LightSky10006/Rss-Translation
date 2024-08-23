@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 06:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 07:36:02 GMT</lastBuildDate>
+    <item>
+      <title>技術支援小伙子透過盯著地板解決了棘手的磁碟故障問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/on_call/</link>
+      <description><![CDATA[復古科技的故事 - 您聽過 Trivector 電腦嗎？ – 以及一次非常麻煩的技術支援之旅 隨時待命 每位IT 專業人員都有一個關於他們被要求在奇怪的情況下提供技術支援的故事，這就是為什麼每個IT 專業人員都被要求提供技術支援。讀者投稿的專欄，慶祝奇怪的情況。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/on_call/</guid>
+      <pubDate>Fri, 23 Aug 2024 07:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>印度將太空站和月球基地計畫推遲五年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/india_space_timeline/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 23 Aug 2024 01:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 表示，認為 Ryzen 9000 速度慢的玩家測試錯誤</title>
+      <title>AMD 表示，那些發現 Ryzen 9000 速度慢得令人失望的玩家是錯誤的測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/amd_ryzen_9000_gaming_test_speed/</link>
       <description><![CDATA[那些使用Windows 11 版本24H2 的使用者應該會看到更好的速度 AMD 回應了社群對其Ryzen 9000 系列桌上型處理器遊戲效能不佳的擔憂，將獨立測試人員記錄的令人失望的結果歸咎於變幻莫測他們的系統和軟體設定。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/amd_ryzen_9000_gaming_test_speed/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>SolarWinds 在其 Web Help Desk 產品中留下了關鍵的硬編碼憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</link>
-      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料......]]></description>
+      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</guid>
       <pubDate>Thu, 22 Aug 2024 22:36:16 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>華盛頓特區亞馬遜反壟斷案復活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</link>
-      <description><![CDATA[哥倫比亞特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
+      <description><![CDATA[華盛頓特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</guid>
       <pubDate>Thu, 22 Aug 2024 19:25:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>CrowdStrike 似曾相識，「效能問題」導致系統運作緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</link>
-      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模宕機無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺影響一些歐洲客戶...]]></description>
+      <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模中斷無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</guid>
       <pubDate>Thu, 22 Aug 2024 18:15:10 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>哈里伯頓調查擾亂業務運營的“問題”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/halliburton_investigates_incident_amid_cyberattack/</link>
-      <description><![CDATA[問題可能是什麼？據報道，一次網路攻擊 美國石油巨頭哈里伯頓正在調查一個“問題”，據報道是一次網路攻擊，該攻擊已經擾亂了一些業務運營和全球網路。 p&gt; ]]></description>
+      <description><![CDATA[問題可能是什麼？據報道，一場網路攻擊 美國石油巨頭哈里伯頓正在調查一個“問題”，據報道是一次網路攻擊，該攻擊已經擾亂了一些業務運營和全球網路。 /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/halliburton_investigates_incident_amid_cyberattack/</guid>
       <pubDate>Thu, 22 Aug 2024 16:45:13 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>Axiom Space 與諾基亞合作，將月球漫步者連接到 4G</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</link>
-      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯III 登月任務配備具有4G 連接的Axiom Space 宇航服。 ...]]></description>
+      <description><![CDATA[在我的花園裡甚至無法獲得良好的信號 諾基亞將為阿耳忒彌斯 III 登月任務配備具有 4G 連接的 Axiom Space 宇航服 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/nokia_axiom_space_4g/</guid>
       <pubDate>Thu, 22 Aug 2024 14:20:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[攻擊放緩是否持續下降趨勢是安全研究人員無法回答的百萬美元問題 關鍵工業組織在7 月份繼續受到勒索軟體攻擊的打擊，而專家表示犯罪分子的信心正在增強執法部門不會幹預。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/critical_industrial_ransomware/</guid>
       <pubDate>Thu, 22 Aug 2024 12:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟為即將推出的預覽版恢復了 Windows 召回</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</link>
-      <description><![CDATA[內部人士為雷德蒙的第二次AI 窺探軟體做好準備 微軟正在再次測試其備受爭議的Windows Recall 技術，並向Windows 內部人士謹慎發布，希望將另一次安全和隱私的強烈抗議消滅在萌芽狀態。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_recall_redux/</guid>
-      <pubDate>Thu, 22 Aug 2024 11:36:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
