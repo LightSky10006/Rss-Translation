@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 02:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 04:14:49 GMT</lastBuildDate>
+    <item>
+      <title>亞洲頂級訊息應用程式的開發人員淹沒在 Slack 中，用 ChatGPT 馴服了它</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</link>
+      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來保持其品質保證 (QA) 任務正常進行。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</guid>
+      <pubDate>Fri, 23 Aug 2024 03:47:14 GMT</pubDate>
+    </item>
     <item>
       <title>中國共乘冠軍滴滴提供用戶檢舉臭車的選項</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/didi_ride_hailing_china_new_features/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[你醒來發現自己在一個黑暗的房間裡......錢包空空 你有一系列選擇你自己的冒險書籍嗎？微軟以訂閱計劃顧問的形式提供了類似的東西，儘管很難避免特定的定價結果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_365_adventure/</guid>
       <pubDate>Thu, 22 Aug 2024 09:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>HMD Skyline：可修復的 Android，讓你以聰明的方式變傻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hmd_skyline_repairable_android/</link>
-      <description><![CDATA[諾基亞託管人努力幫助您對抗愛玩遊戲 HMD 是微軟諾基亞 Android 裝置在製造後的公司。現在它以自己的名字命名 - 並提供更好的可修復性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hmd_skyline_repairable_android/</guid>
-      <pubDate>Thu, 22 Aug 2024 08:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
