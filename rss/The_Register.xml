@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:37:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 16:15:03 GMT</lastBuildDate>
+    <item>
+      <title>給機組人員，還是不給機組人員——這是波音遭受重創的星際客機面臨的問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/starliner_nasa_meeting/</link>
+      <description><![CDATA[NASA 大佬們的決策時間到了 波音公司的 CST-100 Starliner 即將迎來一個重要的周末，因為 NASA 準備決定宇航員是否會按原計劃乘坐飛船返回，或者作為2025 年Crew-9 任務的一部分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/starliner_nasa_meeting/</guid>
+      <pubDate>Fri, 23 Aug 2024 16:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>美國起訴佐治亞理工學院為五角大廈承包商涉嫌網路安全失誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[安全業務發言人告訴我們，這與7 月份的大規模宕機無關 週四早上，CrowdStrike 將效能問題和啟動時間滯後歸咎於雲端服務問題，一些IT 管理員有種似曾相識的感覺影響一些歐洲客戶...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/crowdstrike_deja_vu/</guid>
       <pubDate>Thu, 22 Aug 2024 18:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟將Windows控制面板送入科技墳墓</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/windows_control_panel_deprecation/</link>
-      <description><![CDATA[對舊配置戰馬來說不太可能進行類似畫圖的救援 微軟已經確認，久負盛名的Windows 控制面板最終將被淘汰，取而代之的是閃亮的新設置應用程序。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/windows_control_panel_deprecation/</guid>
-      <pubDate>Thu, 22 Aug 2024 17:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
