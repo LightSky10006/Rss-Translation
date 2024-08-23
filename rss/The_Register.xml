@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 18:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 19:09:46 GMT</lastBuildDate>
+    <item>
+      <title>前微軟工程師從垃圾場零件復活 PDP-11</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/build_your_own_pdp11/</link>
+      <description><![CDATA[因為每個人都有一盒他們根本無法割捨的神秘電腦零件 前微軟工程師Dave Plummer 本週回顧了往事，用找到的零件構建了一台功能正常的PDP-11 小型電腦在硬體桶中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/build_your_own_pdp11/</guid>
+      <pubDate>Fri, 23 Aug 2024 19:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>Linux Deepin 23：來自中國的優秀發行版，西方桌面可以學習</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/deepin_23/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>美國起訴佐治亞理工學院為五角大廈承包商涉嫌網路安全失誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</link>
-      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得主。]]></description>
+      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得獎者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</guid>
       <pubDate>Fri, 23 Aug 2024 14:30:11 GMT</pubDate>
     </item>
     <item>
       <title>中國人工智慧開發者利用雲端服務來應對美國晶片製裁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/china_aws_restricted_technology/</link>
-      <description><![CDATA[組織正在存取受限制的技術，引發了對更多潛在漏洞的擔憂 越來越多的指控稱，中國的開發者正在使用美國的雲端服務來繞過旨在阻止其存取先進晶片和其他產品的措施加速人工智慧發展的技術......]]></description>
+      <description><![CDATA[組織正在存取受限制的技術，引發了對更多潛在漏洞的擔憂 越來越多的指控稱，中國的開發商正在使用美國的雲端服務來繞過旨在阻止其存取先進晶片和其他產品的措施加速人工智慧發展的技術......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/china_aws_restricted_technology/</guid>
       <pubDate>Fri, 23 Aug 2024 13:13:18 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>亞洲頂級訊息應用程式的開發人員淹沒在 Slack 中，用 ChatGPT 馴服了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</link>
-      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來確保其品質保證 (QA) 任務步入正軌。]]></description>
+      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來保持其品質保證 (QA) 任務正常進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</guid>
       <pubDate>Fri, 23 Aug 2024 03:47:14 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>SolarWinds 在其 Web Help Desk 產品中留下了關鍵的硬編碼憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</link>
-      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料…]]></description>
+      <description><![CDATA[既然開發人員基本上都會無意中為你做後門程式碼，那為什麼還要花功夫呢 SolarWinds 在其Web Help Desk 產品中留下了硬編碼的憑證，這些憑證可被遠端、未經身份驗證的攻擊者用來登入易受攻擊的實例、存取內部功能以及修改敏感資料......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/hardcoded_credentials_bug_solarwinds_whd/</guid>
       <pubDate>Thu, 22 Aug 2024 22:36:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[哥倫比亞特區上訴法院推翻駁回，發現足夠的反競爭行為證據以繼續審理 哥倫比亞特區上訴法院週四發現，有足夠的證據證明亞馬遜的反競爭行為，允許華盛頓特區對亞馬遜提起反壟斷訴訟電子商務巨頭繼續前進...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/amazon_antitrust_dc/</guid>
       <pubDate>Thu, 22 Aug 2024 19:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管執行長對遠距工作心存疑慮，但 Zoom 利潤仍增長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/zoom_q2_2025/</link>
-      <description><![CDATA[CFO 休假了，也許是為了找到一個不必到辦公室的職位 Zoom 繼續通過提供遠程協作工具來盈利，儘管要求自己的員工必須每周至少在辦公室工作兩次。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/zoom_q2_2025/</guid>
-      <pubDate>Thu, 22 Aug 2024 19:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
