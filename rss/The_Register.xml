@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 23 Aug 2024 04:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 06:15:47 GMT</lastBuildDate>
+    <item>
+      <title>開放運算專案在 AWS、Google、Meta 和 Microsoft 的幫助下尋求混凝土標準</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ocp_low_carbon_concrete_tests/</link>
+      <description><![CDATA[資料中心中有大量二氧化碳2，大型科技公司承諾實現淨零排放 開放計算項目，該組織以提供超大規模設計而聞名硬件，已召集AWS、Google、Meta 和Microsoft 來幫助其測試混凝土。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ocp_low_carbon_concrete_tests/</guid>
+      <pubDate>Fri, 23 Aug 2024 05:34:16 GMT</pubDate>
+    </item>
     <item>
       <title>亞洲頂級訊息應用程式的開發人員淹沒在 Slack 中，用 ChatGPT 馴服了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不用說，這會適得其反 加州大學聖克魯斯分校(UCSC) 的學生們可能會鬆一口氣，因為有關工作人員感染伊波拉病毒的電子郵件警告只是一個範例。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/ucsc_phishing_test_ebola/</guid>
       <pubDate>Thu, 22 Aug 2024 10:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Microsoft 365 選擇您自己的冒險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_365_adventure/</link>
-      <description><![CDATA[你醒來發現自己在一個黑暗的房間裡......錢包空空 你有一系列選擇你自己的冒險書籍嗎？微軟以訂閱計劃顧問的形式提供了類似的東西，儘管很難避免特定的定價結果。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/microsoft_365_adventure/</guid>
-      <pubDate>Thu, 22 Aug 2024 09:38:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
