@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 24 Aug 2024 09:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 14:09:47 GMT</lastBuildDate>
+    <item>
+      <title>為本地人工智慧購買 PC？這些是真正重要的規格</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/25/ai_pc_buying_guide/</link>
+      <description><![CDATA[如果您猜的是 TOPS 和 FLOPS，那隻猜對了一半 準備好在您的機器上本地使用 AI 了嗎？無論您是想了解所有新的開放模型的出現，還是有興趣在做出重大承諾之前探索如何將人工智慧整合到您的應用程式或業務中，本指南都將幫助您入門...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/25/ai_pc_buying_guide/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>樂高協和式飛機是唯一一款可以用豐盛晚餐的價格建造的超音速噴射機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/24/lego_concorde/</link>
@@ -120,14 +127,14 @@
     <item>
       <title>亞洲頂級訊息應用程式的開發人員淹沒在 Slack 中，用 ChatGPT 馴服了它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</link>
-      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來保持其品質保證 (QA) 任務正常進行。]]></description>
+      <description><![CDATA[LY Corp 的QA 團隊在瀏覽冗長的貼文時難以管理專案 LY Corp 是日本軟銀集團和韓國Naver Corporation 的合資企業，以其旗艦訊息應用程式LINE 聞名，它詳細介紹如何管理專案使用內部 ChatGPT 實施來確保其品質保證 (QA) 任務步入正軌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/ly_corp_chatgpt_genai_usage/</guid>
       <pubDate>Fri, 23 Aug 2024 03:47:14 GMT</pubDate>
     </item>
     <item>
       <title>中國共乘冠軍滴滴提供用戶檢舉臭車的選項</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/didi_ride_hailing_china_new_features/</link>
-      <description><![CDATA[也測試允許女性選擇女性司機 中國拼車服務提供商滴滴出行週四宣布，它已開始測試一項功能，允許乘客點名和羞辱有臭味的汽車運營商，甚至把他們帶離道路。]]></description>
+      <description><![CDATA[也測試允許女性選擇女性司機 中國共乘服務提供商滴滴出行週四宣布，已開始測試一項功能，允許乘客點名和羞辱臭車運營商，甚至把他們帶離道路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/didi_ride_hailing_china_new_features/</guid>
       <pubDate>Fri, 23 Aug 2024 01:29:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[那些使用Windows 11 版本24H2 的使用者應該會看到更好的速度 AMD 回應了社群對其Ryzen 9000 系列桌上型處理器遊戲效能不佳的擔憂，將獨立測試人員記錄的令人失望的結果歸咎於變幻莫測他們的系統和軟體設定。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/amd_ryzen_9000_gaming_test_speed/</guid>
       <pubDate>Fri, 23 Aug 2024 00:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowflake 聲稱 Iceberg 贏得了表格格式之戰，Databricks 剛剛證明了這一點</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/22/snowflake_table_format_databricks/</link>
-      <description><![CDATA[這家數據分析供應商的執行長表示，競爭對手以超過10 億美元的價格收購Tabular 是「平反」 根據競爭對手數據分析的說法，Databricks 以超過10 億美元的價格收購Tabular，表明Iceberg 已經贏得了數據表格式之戰和 ML 供應商 Snowflake。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/22/snowflake_table_format_databricks/</guid>
-      <pubDate>Thu, 22 Aug 2024 23:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
