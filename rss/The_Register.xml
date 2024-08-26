@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 26 Aug 2024 19:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 20:13:29 GMT</lastBuildDate>
+    <item>
+      <title>微軟錯誤用虛假惡意軟體警報炸毀了管理員的收件匣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/microsoft_365_email_malware/</link>
+      <description><![CDATA[合法電子郵件在軟體混亂中被錯誤分類 已更新 許多管理員在收到Microsoft 虛假惡意軟體報告的垃圾郵件後度過了一個艱難的星期一。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/microsoft_365_email_malware/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>VMware為其核心混合雲產品準備統一的SDK</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_vcf_unified_sdk/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[庫比蒂諾不再搞亂預設設定- 對於歐盟國家 分析  Apple 已同意更改其實現網路瀏覽器選擇螢幕和瀏覽器功能的方式，以符合歐洲的要求打破壟斷的數位市場法案…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/24/apple_eu_browser_defaults/</guid>
       <pubDate>Sat, 24 Aug 2024 07:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯準會和美國各州起訴 RealPage 為房東開發租金上漲軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/feds_sue_realpage/</link>
-      <description><![CDATA[檢察官稱，演算法只是一種利用私人資訊進行串通的奇特方式 美國司法部和八個州的總檢察長週五對房地產服務公司 RealPage 提起民事反壟斷訴訟為房東提供軟體，以犧牲租戶的利益為代價最大化租金。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/feds_sue_realpage/</guid>
-      <pubDate>Fri, 23 Aug 2024 21:44:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
