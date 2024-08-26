@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 26 Aug 2024 15:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 16:15:50 GMT</lastBuildDate>
+    <item>
+      <title>荷蘭因歐盟-美國司機資料傳輸不當對 Uber 處以 2.9 億歐元罰款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/uber_fined_eu_us_data/</link>
+      <description><![CDATA[這家共乘服務提供者堅稱，在三年的法律間隙期間，它沒有違反任何規則 荷蘭隱私當局已對共乘巨頭Uber 處以2.9 億歐元（3.24 億美元）的罰款。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/uber_fined_eu_us_data/</guid>
+      <pubDate>Mon, 26 Aug 2024 16:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型語言模型中工具呼叫的快速指南</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/ai_llm_tool_calling/</link>
+      <description><![CDATA[只需幾行 Python 程式碼即可獲得使用計算器的模型，甚至自動化您的虛擬機管理程式 動手實作 假設您的任務是解決一個問題數學問題，例如4,242 x 1,977。你們中的一些人可能能夠在頭腦中做到這一點，但我們大多數人現在可能會使用計算器，不僅因為它更快，而且還可以最大程度地減少出錯的可能性。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/ai_llm_tool_calling/</guid>
+      <pubDate>Mon, 26 Aug 2024 15:37:07 GMT</pubDate>
+    </item>
     <item>
       <title>3150 萬張發票、合約、病患同意書等暴露在網路上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/31m_invoices_business_files_exposed/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得主。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</guid>
       <pubDate>Fri, 23 Aug 2024 14:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國人工智慧開發者利用雲端服務來應對美國晶片製裁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/china_aws_restricted_technology/</link>
-      <description><![CDATA[組織正在存取受限制的技術，引發了對更多潛在漏洞的擔憂 越來越多的指控稱，中國的開發者正在使用美國的雲端服務來繞過旨在阻止其存取先進晶片和其他產品的措施加速人工智慧發展的技術......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/china_aws_restricted_technology/</guid>
-      <pubDate>Fri, 23 Aug 2024 13:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CockroachDB 急忙進軍專有軟體領域</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/cockroachdb_opinion/</link>
-      <description><![CDATA[隨著風投旗下的仿冒源公司大喊“給我錢吧”，更多的人可能會陷入社區的危險 觀點 跟我重複一遍：開源不是一種商業模式。它是一種程式設計模型。儘管如此，企業仍在不斷嘗試使其成為一體，但往往會失敗。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/cockroachdb_opinion/</guid>
-      <pubDate>Fri, 23 Aug 2024 11:29:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
