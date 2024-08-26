@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 26 Aug 2024 08:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 11:10:42 GMT</lastBuildDate>
+    <item>
+      <title>Cognizant 指控印孚瑟斯竊取其商業機密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/cognizant_subsidiary_sues_infosys_for/</link>
+      <description><![CDATA[Sueball 認為外包商開發競爭產品越界了 IT 外包商Cognizant 的子公司週五向德克薩斯州聯邦法院提起訴訟，指控競爭對手Infosys 參與竊取商業機密並從事反競爭行為行為...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/cognizant_subsidiary_sues_infosys_for/</guid>
+      <pubDate>Mon, 26 Aug 2024 11:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>討價還價的老闆眼睜睜地看著他的獎金在一陣自作自受的煙霧中上升</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/who_me/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>NASA 將以 SpaceX 搭載波音 Starliner 機組人員回國，災難艙被認為風險太大</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/25/nasa_spacex_starliner/</link>
-      <description><![CDATA[困在軌道空間站上的飛行員八個月後的八天 +Comment  NASA 已決定困在國際太空站上的波音Starliner 飛行員將在2019 年返回地球SpaceX 載人龍飛船吊艙將於明年推出——此前美國機構的工程師無法清理 Starliner 的推進器以進行返程。]]></description>
+      <description><![CDATA[困在軌道空間站上的飛行員八個月後的八天 +Comment  NASA 已決定困在國際太空站上的波音Starliner 飛行員將在2019 年返回地球SpaceX 載人龍飛船吊艙將於明年推出——此前美國機構的工程師無法清理 Starliner 的推進器以進行回程。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/25/nasa_spacex_starliner/</guid>
       <pubDate>Sun, 25 Aug 2024 19:29:09 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>美國起訴佐治亞理工學院為五角大廈承包商涉嫌網路安全失誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</link>
-      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得獎者。]]></description>
+      <description><![CDATA[犯罪記錄表列出了心懷不滿的員工舉報後的主要禁忌 美國正在起訴其一所領先的研究型大學，指控其未能達到國防部製定的網路安全標準（ DoD）為合約得主。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/us_georgia_tech_lawsuit/</guid>
       <pubDate>Fri, 23 Aug 2024 14:30:11 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 23 Aug 2024 11:29:50 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲太空總署的第一顆集群衛星為南太平洋上空的激烈結局做好準備</title>
+      <title>歐洲太空總署的第一顆集群衛星正在為南太平洋上空的激烈結局做準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/esa_cluster_reentry/</link>
-      <description><![CDATA[為期 2 年的任務已經過去了 20 多年，但好事終有盡頭 歐洲太空總署的第一顆集群衛星將在完成極其漫長的任務後於下個月返回地球。該航天器注定會在南太平洋上空燃燒。]]></description>
+      <description><![CDATA[為期 2 年的任務已經過去了 20 多年，但好事終有盡頭 歐洲航天局的第一顆集群衛星在經歷了極其漫長的任務後將於下個月返回地球。該航天器注定會在南太平洋上空燃燒。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/esa_cluster_reentry/</guid>
       <pubDate>Fri, 23 Aug 2024 10:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>LibreOffice 24.8：即使您對 Microsoft 感到滿意，也很方便</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/libreoffice_24_8/</link>
-      <description><![CDATA[成熟、穩定- 可以挽救損壞的文件 2024 年第二個LibreOffice 版本已發布，具有額外的電子表格功能、改進的演示文稿佈局、更好的搜索等等。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/libreoffice_24_8/</guid>
-      <pubDate>Fri, 23 Aug 2024 08:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
