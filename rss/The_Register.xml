@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 26 Aug 2024 18:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 19:34:29 GMT</lastBuildDate>
+    <item>
+      <title>VMware為其核心混合雲產品準備統一的SDK</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_vcf_unified_sdk/</link>
+      <description><![CDATA[也致力於解決 vSphere、vSAN、NSX、SDDC Manager、vRealize 等中 API 不一致和 SSO 缺失的問題 VMware Explore VMware by Broadcom 正在開發一個為其核心產品提供統一的SDK，並將在其旗艦產品Cloud Foundation (VCF) 套件主要發布之前交付，這家虛擬化巨頭此前曾表示，該套件將表達其提供統一混合雲套件的戰略。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_vcf_unified_sdk/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>看門狗警告 FBI 在安全資料儲存和銷毀方面馬虎</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/fbi_data_security/</link>
+      <description><![CDATA[監察長辦公室發現國家安全資料可供爭奪 審計顯示，聯邦調查局在處理和銷毀在調查過程中查獲的電子儲存媒體方面存在嚴重失誤由司法部監察長辦公室負責……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/fbi_data_security/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>西雅圖機場「可能的網路攻擊」再次擾亂旅行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/seattle_airport_cyberattack/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>據報導 AMD 內部數據被出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/amd_internal_data_intelbroker/</link>
-      <description><![CDATA[自6 月以來，同一犯罪團夥聲稱發生了第二起敏感資訊竊盜事件 據報道，數位資料竊賊已侵入AMD 的內部通信，並正在出售據稱被盜的貨物。 ...]]></description>
+      <description><![CDATA[自6 月以來，同一犯罪團夥聲稱發生了第二起敏感資訊盜竊事件 據報道，數位資料竊賊已經破壞了AMD 的內部通信，並正在出售據稱被盜的貨物。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/amd_internal_data_intelbroker/</guid>
       <pubDate>Mon, 26 Aug 2024 16:45:06 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>3150 萬張發票、合約、病患同意書等暴露在網路上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/31m_invoices_business_files_exposed/</link>
-      <description><![CDATA[包含12 年商業記錄的未受保護資料庫被離線刪除 獨家 近2.7 TB 敏感資料- 3150 萬張發票、合約、HIPPA 患者同意書和其他商業文件關於跨行業的眾多公司 - 已在無密碼保護的資料庫中暴露於公共互聯網，時間未知。]]></description>
+      <description><![CDATA[包含12 年商業記錄的未受保護的資料庫被離線刪除 獨家 近2.7 TB 的敏感資料- 3150 萬張發票、合約、HIPPA 患者同意書和其他商業文件關於跨行業的眾多公司 - 已在無密碼保護的資料庫中暴露於公共互聯網，時間未知。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/31m_invoices_business_files_exposed/</guid>
       <pubDate>Mon, 26 Aug 2024 13:00:06 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>NASA 將以 SpaceX 搭載波音 Starliner 機組人員回國，災難艙被認為風險太大</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/25/nasa_spacex_starliner/</link>
-      <description><![CDATA[困在軌道空間站上的飛行員八個月後的八天 +Comment  NASA 已決定困在國際太空站上的波音Starliner 飛行員將在2019 年返回地球SpaceX 載人龍飛船吊艙將於明年推出——此前美國機構的工程師無法清理 Starliner 的推進器以進行返程。]]></description>
+      <description><![CDATA[困在軌道空間站上的飛行員八個月後的八天 +Comment  NASA 已決定困在國際太空站上的波音Starliner 飛行員將在2019 年返回地球SpaceX 載人龍飛船吊艙將於明年推出——此前美國機構的工程師無法清理 Starliner 的推進器以進行回程。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/25/nasa_spacex_starliner/</guid>
       <pubDate>Sun, 25 Aug 2024 19:29:09 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[檢察官稱，演算法只是一種利用私人資訊進行串通的奇特方式 美國司法部和八個州的總檢察長週五對房地產服務公司 RealPage 提起民事反壟斷訴訟為房東提供軟體，以犧牲租戶的利益為代價最大化租金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/feds_sue_realpage/</guid>
       <pubDate>Fri, 23 Aug 2024 21:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>基準測試顯示，即使是舊的 Nvidia RTX 3090 也足以為數千名法學碩士提供服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/3090_ai_benchmark/</link>
-      <description><![CDATA[對於100 個並髮用戶，該卡每秒傳輸12.88 個令牌，僅略快於人類平均閱讀速度 如果您想將大型語言模型(LLM) 擴展到數千個用戶，您可以可能會認為強大的企業級 GPU 是一項硬性要求。然而，至少根據 Backprop 的說法，你真正需要的只是一張使用了四年的顯示卡。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/3090_ai_benchmark/</guid>
-      <pubDate>Fri, 23 Aug 2024 21:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>前微軟工程師從垃圾場零件復活 PDP-11</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/23/build_your_own_pdp11/</link>
-      <description><![CDATA[因為每個人都有一盒他們根本無法割捨的神秘電腦零件 前微軟工程師Dave Plummer 本週回顧了往事，用找到的零件構建了一台功能正常的PDP-11 小型電腦在硬體桶中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/23/build_your_own_pdp11/</guid>
-      <pubDate>Fri, 23 Aug 2024 19:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
