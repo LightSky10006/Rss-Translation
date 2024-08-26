@@ -4,7 +4,7 @@
     <title>科學</title>
     <link>https://www.science.org/journal/science</link>
     <description>跨科學領域最好的新聞和研究。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 11:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 11:35:25 GMT</lastBuildDate>
     <item>
       <title>肌動蛋白-血影蛋白亞膜支架限制沿近端軸突的內吞作用科學</title>
       <link>https://www.science.org/doi/10.1126/science.ado2032</link>
@@ -22,7 +22,7 @@
     <item>
       <title>利用神經網路精確計算量子激發態|科學</title>
       <link>https://www.science.org/doi/10.1126/science.adn0137</link>
-      <description><![CDATA[我們提出了一種透過變分蒙特卡羅估計量子系統激發態的演算法，該演算法沒有自由參數，也不需要狀態的正交化，而是將問題轉化為尋找...的基態的問題。]]></description>
+      <description><![CDATA[我們提出了一種透過變分蒙特卡羅估計量子系統激發態的演算法，該演算法沒有自由參數，不需要狀態正交化，而是將問題轉化為尋找...的基態的問題。]]></description>
       <guid>https://www.science.org/doi/10.1126/science.adn0137</guid>
       <pubDate>Fri, 23 Aug 2024 13:01:00 GMT</pubDate>
     </item>
@@ -36,9 +36,16 @@
     <item>
       <title>分散臨床試驗的價值：包容性、可近性和創新 |科學</title>
       <link>https://www.science.org/doi/10.1126/science.adq4994</link>
-      <description><![CDATA[在這篇綜述中，我們探討了分散臨床試驗（DCT）在解決傳統隨機對照試驗（RCT）限制方面的變革潛力。我們強調 DCT 的優點，可以促進更大的包容性、效率…]]></description>
+      <description><![CDATA[在這篇綜述中，我們探討了分散臨床試驗（DCT）在解決傳統隨機對照試驗（RCT）限制方面的變革潛力。我們強調 DCT 的優點，可促進更大的包容性、效率…]]></description>
       <guid>https://www.science.org/doi/10.1126/science.adq4994</guid>
       <pubDate>Fri, 23 Aug 2024 13:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新聞一覽：破冰船研究憂鬱、虛假資訊數據關閉以及拯救稀有鳥類</title>
+      <link>https://www.science.org/content/article/news-glance-icebreaker-research-blues-disinformation-data-shutdown-and-saving-rare-bird</link>
+      <description><![CDATA[最新的科學和政策]]></description>
+      <guid>https://www.science.org/content/article/news-glance-icebreaker-research-blues-disinformation-data-shutdown-and-saving-rare-bird</guid>
+      <pubDate>Thu, 22 Aug 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智慧存在民主問題。公民大會可以提供協助。 |科學</title>
@@ -101,13 +108,6 @@
       <link>https://www.science.org/doi/10.1126/science.adq0220</link>
       <description><![CDATA[家庭科學卷。 385，第6711期中國潮汐生態系中的紅樹林恢復返回捲。 385，第6711 號完全訪問有關中國潮汐生態系統紅樹林恢復的信件分享Xiaoguang Ouyang [電子郵件受保護]、FenGuo、[...]、Shing Yip Lee 和zhifeng Yang+1 作者更少作者資訊與隸屬關係科學2024年8月22日第385卷，第6711p 。 836DOI：10.1126/science.adq0220 上一篇文章粗體 …]]></description>
       <guid>https://www.science.org/doi/10.1126/science.adq0220</guid>
-      <pubDate>Thu, 22 Aug 2024 13:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不確定時期的大膽決定|科學</title>
-      <link>https://www.science.org/doi/10.1126/science.adr0271</link>
-      <description><![CDATA[一位著名的選舉預測者提出了一個應對風險的框架]]></description>
-      <guid>https://www.science.org/doi/10.1126/science.adr0271</guid>
       <pubDate>Thu, 22 Aug 2024 13:01:00 GMT</pubDate>
     </item>
     </channel>
