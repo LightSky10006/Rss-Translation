@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 27 Aug 2024 16:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 17:10:26 GMT</lastBuildDate>
+    <item>
+      <title>IBM 推出即將推出的晶片，為下一代大鐵上的大規模人工智慧提供支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/ibm_telum_ii_mainframes/</link>
+      <description><![CDATA[Telum II 處理器和Spyre 加速器將提高性能並擴展IO 容量 IBM 為其著名的大型機系統推出了一款功能更強大的處理器，承諾增強片上AI 加速，用於推理和整合資料處理單元（DPU）以提高 IO 處理能力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/ibm_telum_ii_mainframes/</guid>
+      <pubDate>Tue, 27 Aug 2024 16:56:15 GMT</pubDate>
+    </item>
     <item>
       <title>Cerebras 提供晶圓級晶片推理能力，聲稱每秒產生 1,800 個代幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/cerebras_ai_inference/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[監察長辦公室發現國家安全資料可供爭奪 更新 聯邦調查局在處理和銷毀被扣押的電子儲存媒體的方式上犯了嚴重錯誤根據司法部監察長辦公室的審計，這是調查的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/fbi_data_security/</guid>
       <pubDate>Mon, 26 Aug 2024 19:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>西雅圖機場「可能的網路攻擊」再次擾亂旅行</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/seattle_airport_cyberattack/</link>
-      <description><![CDATA[目前尚不清楚勒索軟體是否是罪魁禍首 在電腦中斷擾亂機場運營並導致航班延誤後，運營西雅圖-塔科馬國際機場的西雅圖港正在調查「可能的網路攻擊」 .... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/seattle_airport_cyberattack/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
