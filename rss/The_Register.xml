@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 27 Aug 2024 13:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 14:11:13 GMT</lastBuildDate>
+    <item>
+      <title>微軟安全工具因將員工視為威脅而受到質疑</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/microsoft_workplace_surveillance/</link>
+      <description><![CDATA[Cracked Labs 研究工作場所監控如何將工人變成嫌疑人 根據Cracked 的一份報告，旨在解決對網路安全和合規性的合法商業擔憂的軟體將員工視為威脅，從而使工作場所的侵入性監控正常化實驗室。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/microsoft_workplace_surveillance/</guid>
+      <pubDate>Tue, 27 Aug 2024 14:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>VMware 揭示了它將如何交付 Broadcom 的統一混合雲…不久的將來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/vmware_cloud_foundation_nine_preview/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這家共乘服務提供者堅稱，在三年的法律間隙期間，它沒有違反任何規則 荷蘭隱私當局已對共乘巨頭Uber 處以2.9 億歐元（3.24 億美元）的罰款。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/uber_fined_eu_us_data/</guid>
       <pubDate>Mon, 26 Aug 2024 16:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型語言模型中工具呼叫的快速指南</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/ai_llm_tool_calling/</link>
-      <description><![CDATA[只需幾行 Python 程式碼即可獲得使用計算器的模型，甚至自動化您的虛擬機管理程式 動手實作 假設您的任務是解決一個問題數學問題，例如4,242 x 1,977。你們中的一些人可能能夠在頭腦中做到這一點，但我們大多數人現在可能會使用計算器，不僅因為它更快，而且還可以最大程度地減少出錯的可能性。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/ai_llm_tool_calling/</guid>
-      <pubDate>Mon, 26 Aug 2024 15:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
