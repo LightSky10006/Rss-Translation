@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 27 Aug 2024 08:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 09:34:46 GMT</lastBuildDate>
+    <item>
+      <title>雲端可移植性的難以捉摸的夢想：為什麼遷移工作負載不那麼簡單</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/what_happened_to_cloud_portability/</link>
+      <description><![CDATA[儘管做出了早期承諾，但提供者之間的遷移仍然是一項複雜且成本高昂的工作 分析 公有雲的承諾之一是，如果客戶願意，他們將能夠遷移工作負載希望利用市場自由轉向不同的供應商（如果它提供更低的成本或其他優勢）。那個夢怎麼了？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/what_happened_to_cloud_portability/</guid>
+      <pubDate>Tue, 27 Aug 2024 09:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧/機器學習的未來取決於當今的現實——而且情況並不美好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/opinion_ai_ml/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[它需要 – Virtzilla 的客戶、盟友和敵人都在考慮退出並試圖引誘不滿意的用戶 VMware Explore  採用 – 或增加使用 –像IBM POWER 這樣的專有運算架構在2024 年是一件非常小眾的事情。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_explore_preview/</guid>
       <pubDate>Mon, 26 Aug 2024 06:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 創辦人兼執行長在法國被捕</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/telegram_ceo_pavel_durov_detained/</link>
-      <description><![CDATA[有關缺乏內容審核的謠言激怒了當局 俄羅斯製造的即時通訊應用程式 Telegram 的創始人兼首席執行官 Pavel Durov 於週六在法國被捕，並在法國進一步拘留第二天– 顯然是因為他的公司涉嫌未能遵守內容審核法並協助進行多項刑事調查。 --&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/telegram_ceo_pavel_durov_detained/</guid>
-      <pubDate>Mon, 26 Aug 2024 04:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
