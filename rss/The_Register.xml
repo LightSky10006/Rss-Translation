@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 27 Aug 2024 18:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:39:43 GMT</lastBuildDate>
+    <item>
+      <title>谷歌愛爾蘭穀倉計畫因生態短缺而被拒絕</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/google_data_center_ireland/</link>
+      <description><![CDATA[都柏林議會表示，翡翠島上的數據中心最好是綠色的- 除非你的名字是微軟 Google 擴大都柏林數據中心業務的計劃已被愛爾蘭縣官員擱置，他們表示該項目不足夠可持續。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/google_data_center_ireland/</guid>
+      <pubDate>Tue, 27 Aug 2024 18:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Broadcom 老闆 Hock Tan 表示公有雲為 IT 部門帶來了創傷後壓力症候群 (PTSD)</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/vmware_explore_hock_tan_keynote/</link>
+      <description><![CDATA[雖然資料中心孤島讓您「完蛋了」 VMware Explore Broadcom 執行長Hock Tan 在VMware Explore 會議上宣布執行長們決定將其公司推向上市雲使他們的 IT 部門患上了創傷後壓力症候群，而資料中心技術的孤島則讓技術團隊「陷入困境」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/vmware_explore_hock_tan_keynote/</guid>
+      <pubDate>Tue, 27 Aug 2024 18:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>自 6 月以來，Volt Typhoon 疑似利用 Versa SD-WAN 漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/chinas_volt_typhoon_versa/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[產生幻覺的人工智慧模型擅長誹謗 微軟Bing Copilot 錯誤地將一名德國記者描述為兒童猥褻者、精神病院的逃亡者和掠奪寡婦的欺詐者。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/microsoft_bing_copilot_ai_halluciation/</guid>
       <pubDate>Mon, 26 Aug 2024 20:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟錯誤用虛假惡意軟體警報炸毀了管理員的收件匣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/microsoft_365_email_malware/</link>
-      <description><![CDATA[合法電子郵件在軟體混亂中被錯誤分類 已更新 許多管理員在收到Microsoft 虛假惡意軟體報告的垃圾郵件後度過了一個艱難的星期一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/microsoft_365_email_malware/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>VMware為其核心混合雲產品準備統一的SDK</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_vcf_unified_sdk/</link>
-      <description><![CDATA[也致力於解決 vSphere、vSAN、NSX、SDDC Manager、vRealize 等中 API 不一致和 SSO 缺失的問題 VMware Explore VMware by Broadcom 正在開發一個為其核心產品提供統一的SDK，並將在其旗艦產品Cloud Foundation (VCF) 套件主要發布之前交付，這家虛擬化巨頭此前曾表示，該套件將表達其提供統一混合雲套件的戰略。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/vmware_vcf_unified_sdk/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:17:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
