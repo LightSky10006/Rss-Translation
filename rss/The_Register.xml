@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 27 Aug 2024 15:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 16:14:20 GMT</lastBuildDate>
+    <item>
+      <title>Cerebras 提供晶圓級晶片推理能力，聲稱每秒產生 1,800 個代幣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/cerebras_ai_inference/</link>
+      <description><![CDATA[比你閱讀的速度還快？更像是眨眼，您就會錯過幻覺 熱門晶片 許多現代生成式 AI 工作負載中的推理性能通常取決於內存頻寬，而不是計算能力。在高頻寬記憶體 (HBM) 中傳輸位元的速度越快，模型產生反應的速度就越快。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/cerebras_ai_inference/</guid>
+      <pubDate>Tue, 27 Aug 2024 16:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Boom Supersonic 朝著破解音障邁出一小步</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/boom_supersonic_flight_two/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[目前尚不清楚勒索軟體是否是罪魁禍首 在電腦中斷擾亂機場運營並導致航班延誤後，運營西雅圖-塔科馬國際機場的西雅圖港正在調查「可能的網路攻擊」 .... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/seattle_airport_cyberattack/</guid>
       <pubDate>Mon, 26 Aug 2024 18:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾聘請摩根士丹利抵禦激進投資者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/26/intel_activist_investors/</link>
-      <description><![CDATA[多起訴訟並不意味著投資人會加入董事會，但安全總比後悔好，對吧？已與英特爾會面顧問們制定反激進分子的遊戲計畫。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/26/intel_activist_investors/</guid>
-      <pubDate>Mon, 26 Aug 2024 17:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
