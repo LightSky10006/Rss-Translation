@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 14:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 14:37:44 GMT</lastBuildDate>
+    <item>
+      <title>「不確定性」促使 LinkedIn 從 CentOS 遷移到 Azure Linux</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/linkedin_azure_linux/</link>
+      <description><![CDATA[微軟內部Linux可能會出現重大改進 微軟內部專業網站正在轉向微軟內部Linux。這可能意味著前 CBL-Mariner 發行版即將發生重大變化。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/linkedin_azure_linux/</guid>
+      <pubDate>Wed, 28 Aug 2024 14:28:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟合作夥伴注意：Action Pack 將於 2025 年停用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_action_pack_2025/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>奧格斯堡火箭工廠打破 SaxaVord 井噴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</link>
-      <description><![CDATA[&#39;欣賞鏡頭。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
+      <description><![CDATA[&#39;欣賞影片。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</guid>
       <pubDate>Wed, 28 Aug 2024 08:26:13 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>英特爾的軟體防護擴充損壞了？請勿恐慌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/intel_root_key_xeons/</link>
-      <description><![CDATA[更多的是茶杯裡的風暴 今天有關英特爾軟體防護擴展(SGX) 安全系統容易被濫用的消息可能被誇大了。 !--#包含 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[茶杯裡的風暴 今天有關英特爾軟體保護擴充 (SGX) 安全系統容易被濫用的消息可能被誇大了。包括virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/intel_root_key_xeons/</guid>
       <pubDate>Tue, 27 Aug 2024 19:59:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國聯邦政府稱，北京支持的網路間諜組織潛入了美國關鍵基礎設施 隨著Versa 披露了一名民族國家支持的攻擊者，中國的Volt Typhoon 似乎已經找到了進入美國網路的新途徑利用了一個高嚴重性錯誤，影響了使用 Versa Director 的所有 SD-WAN 客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/chinas_volt_typhoon_versa/</guid>
       <pubDate>Tue, 27 Aug 2024 17:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 推出即將推出的晶片，為下一代大鐵上的大規模人工智慧提供支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/ibm_telum_ii_mainframes/</link>
-      <description><![CDATA[Telum II 處理器和Spyre 加速器將提高性能並擴展IO 容量 IBM 為其著名的大型機系統推出了一款功能更強大的處理器，承諾增強片上AI 加速，用於推理和整合資料處理單元（DPU）以提高 IO 處理能力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/ibm_telum_ii_mainframes/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:56:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
