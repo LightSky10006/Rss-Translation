@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:37:05 GMT</lastBuildDate>
+    <item>
+      <title>臭名昭著的伊朗駭客利用新後門瞄準航太工業</title>
+      <link>https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/</link>
+      <description><![CDATA[微軟表示，除了長期存在的密碼噴射攻擊之外，伊朗支持的駭客組織 Peach Sandstorm（或 APT 33）還開發了名為「Tickler」的客製化惡意軟體。]]></description>
+      <guid>https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:19:42 GMT</pubDate>
+    </item>
     <item>
       <title>經過測試和審查的最佳一體機 (2024)</title>
       <link>https://www.wired.com/gallery/best-all-in-one-computers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[法國當局拘留了杜羅夫，對他進行訊問，作為對洗錢和 CSAM 等一系列涉嫌違法行為調查的一部分，但目前尚不清楚他是否會面臨指控。]]></description>
       <guid>https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/</guid>
       <pubDate>Mon, 26 Aug 2024 21:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>REI 2024 年勞動節促銷中的 32 個超值優惠</title>
-      <link>https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/</link>
-      <description><![CDATA[購買 REI、Nemo、MSR、Coleman 和其他戶外品牌的夏末優惠。]]></description>
-      <guid>https://www.wired.com/story/best-rei-labor-day-sale-deals-2024/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:15:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

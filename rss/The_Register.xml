@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 14:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:36:57 GMT</lastBuildDate>
+    <item>
+      <title>NASA耗資數十億美元的發射器落後於計劃並燒錢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</link>
+      <description><![CDATA[如果您以前聽過這個，請阻止我們 美國國家航空暨太空總署 (NASA) 又受到了與月球有關的打擊。這次是移動發射器 2 (ML-2) 項目，該機構計劃在該項目上組裝和發射更強大的太空發射系統版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:16:11 GMT</pubDate>
+    </item>
     <item>
       <title>「不確定性」促使 LinkedIn 從 CentOS 遷移到 Azure Linux</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/linkedin_azure_linux/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[雖然資料中心孤島讓您「完蛋了」 VMware Explore Broadcom 執行長Hock Tan 在VMware Explore 會議上宣布執行長們決定將其公司推向上市雲使他們的 IT 部門患上了創傷後壓力症候群，而資料中心技術的孤島則讓技術團隊「陷入困境」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/vmware_explore_hock_tan_keynote/</guid>
       <pubDate>Tue, 27 Aug 2024 18:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 6 月以來，Volt Typhoon 疑似利用 Versa SD-WAN 漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/chinas_volt_typhoon_versa/</link>
-      <description><![CDATA[美國聯邦政府稱，北京支持的網路間諜組織潛入了美國關鍵基礎設施 隨著Versa 披露了一名民族國家支持的攻擊者，中國的Volt Typhoon 似乎已經找到了進入美國網路的新途徑利用了一個高嚴重性錯誤，影響了使用 Versa Director 的所有 SD-WAN 客戶。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/chinas_volt_typhoon_versa/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:32:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
