@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 08:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 10:12:33 GMT</lastBuildDate>
+    <item>
+      <title>電腦產業出了問題的地方－早期的熱門產品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</link>
+      <description><![CDATA[令人難忘的失誤和錯誤的個人收藏 第 1 部分：八位時代 您將在下面找到對失誤和失誤的非正式總結從微型電腦產業誕生之初起，這一點就牢記在The Reg FOSS 辦公桌上。我們確信我們錯過了很多 – 讓我們知道您最喜歡的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</guid>
+      <pubDate>Wed, 28 Aug 2024 09:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>奧格斯堡火箭工廠打破 SaxaVord 井噴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</link>
-      <description><![CDATA[&#39;欣賞影片。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
+      <description><![CDATA[&#39;欣賞鏡頭。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</guid>
       <pubDate>Wed, 28 Aug 2024 08:26:13 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>英特爾的軟體防護擴充損壞了？請勿恐慌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/intel_root_key_xeons/</link>
-      <description><![CDATA[茶杯裡的風暴 今天有關英特爾軟體保護擴充 (SGX) 安全系統容易被濫用的消息可能被誇大了。包括virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[更多的是茶杯裡的風暴 今天有關英特爾軟體防護擴展(SGX) 安全系統容易被濫用的消息可能被誇大了。 !--#包含 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/intel_root_key_xeons/</guid>
       <pubDate>Tue, 27 Aug 2024 19:59:33 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Tue, 27 Aug 2024 16:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>Cerebras 為晶圓級晶片提供推理扭曲，聲稱每秒產生 1,800 個代幣</title>
+      <title>Cerebras 提供晶圓級晶片推理能力，聲稱每秒產生 1,800 個代幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/cerebras_ai_inference/</link>
       <description><![CDATA[比你閱讀的速度還快？更像是眨眼，您就會錯過幻覺 熱門晶片 許多現代生成式 AI 工作負載中的推理性能通常取決於內存頻寬，而不是計算能力。在高頻寬記憶體 (HBM) 中傳輸位元的速度越快，模型產生反應的速度就越快。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/cerebras_ai_inference/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟安全工具因將員工視為威脅而受到質疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/microsoft_workplace_surveillance/</link>
-      <description><![CDATA[Cracked Labs 研究工作場所監控如何將工人變成嫌疑人 根據Cracked 的一份報告，旨在解決對網路安全和合規性的合法商業擔憂的軟體將員工視為威脅，從而使工作場所的侵入性監控正常化實驗室。]]></description>
+      <description><![CDATA[Cracked Labs 研究工作場所監視如何將工人變成嫌疑人 根據Cracked 的一份報告，旨在解決對網路安全和合規性的合法商業擔憂的軟體將員工視為威脅，從而使工作場所的侵入性監視正常化實驗室。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/microsoft_workplace_surveillance/</guid>
       <pubDate>Tue, 27 Aug 2024 14:00:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[聲稱只會出現兩台管理控制台 VMware Explore VMware by Broadcom 在其年度用戶大會上預告了其旗艦產品Cloud Foundation (VCF) 套件的第9 版–重大升級被吹捧為兌現了易於使用的混合雲套件的過去承諾，但尚未透露何時到來。 .html&#39;--&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/vmware_cloud_foundation_nine_preview/</guid>
       <pubDate>Tue, 27 Aug 2024 13:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows控制台加入了不死族的行列</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/the_windows_control_panel_joins/</link>
-      <description><![CDATA[隨著用戶的哀嚎，微軟調整了文本，刪除了「已棄用」一詞 在強烈抗議之後，微軟更新了其Windows 系統配置工具文檔，並刪除了所有有關棄用古老的控制面板的內容來自Reg讀者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/the_windows_control_panel_joins/</guid>
-      <pubDate>Tue, 27 Aug 2024 12:16:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
