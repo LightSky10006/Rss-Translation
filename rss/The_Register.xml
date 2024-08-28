@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 20:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 21:36:13 GMT</lastBuildDate>
+    <item>
+      <title>針對零點擊關鍵 Windows 漏洞發布了概念驗證程式碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/proofofconcept_code_released_for_zeroclick/</link>
+      <description><![CDATA[如果您尚未部署 8 月的補丁，請先於其他人開始忙碌 尚未為其作業系統安裝最新補丁的 Windows 用戶將需要繼續前進，如程式碼所示其存在是為了利用雷蒙德兩週前宣布的一個關鍵的微軟漏洞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/proofofconcept_code_released_for_zeroclick/</guid>
+      <pubDate>Wed, 28 Aug 2024 21:20:12 GMT</pubDate>
+    </item>
     <item>
       <title>由於會計問題，Supermicro 推遲了 10-K 填充</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/supermicro_annual_report_delayed/</link>
-      <description><![CDATA[金融研究組織將伺服器製造商標記為“連環累犯”，聲稱產品品質有問題 伺服器製造商超微電腦已警告投資者，由於以下問題，該公司無法按時提交年度報告：其內部財務報告。]]></description>
+      <description><![CDATA[金融研究組織將伺服器製造商標記為“連環累犯”，聲稱產品品質有問題 伺服器製造商超微電腦已警告投資者，由於以下問題，該公司無法按時提交年度報告：其內部財務報告......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/supermicro_annual_report_delayed/</guid>
       <pubDate>Wed, 28 Aug 2024 20:30:15 GMT</pubDate>
     </item>
     <item>
       <title>Google訓練 GenAI 模型來即時模擬《DOOM》的遊戲引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/google_doom_ai/</link>
-      <description><![CDATA[儘管有很大的局限性，但概念驗證仍顯示出希望 來自Google 和特拉維夫大學的團隊開發了一種生成式AI 遊戲引擎，能夠以每秒20 幀以上的速度模擬邪教經典《DOOM》，因為研究.... ]]></description>
+      <description><![CDATA[儘管有很大的局限性，概念驗證仍顯示出希望 來自Google 和特拉維夫大學的團隊開發了一種生成式AI 遊戲引擎，能夠以每秒20 幀以上的速度模擬邪教經典《DOOM》，因為研究.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/google_doom_ai/</guid>
       <pubDate>Wed, 28 Aug 2024 19:45:13 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>NASA耗資數十億美元的發射器落後於計劃並燒錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</link>
-      <description><![CDATA[如果您以前聽過這個，請阻止我們 美國國家航空暨太空總署 (NASA) 又收到了與月球相關的攻擊。這次是移動發射器 2 (ML-2) 項目，該機構計劃在該項目上組裝和發射其太空發射系統的更強大版本。]]></description>
+      <description><![CDATA[如果您以前聽過這個，請阻止我們 美國國家航空暨太空總署 (NASA) 又受到了與月球有關的打擊。這次是移動發射器 2 (ML-2) 項目，該機構計劃在該項目上組裝和發射更強大的太空發射系統版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</guid>
       <pubDate>Wed, 28 Aug 2024 15:16:11 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>從副駕駛到共謀：數據竊賊如何劫持微軟的聊天機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_copilot_copirate/</link>
-      <description><![CDATA[即時注入、ASCII 走私和其他虛張聲勢的攻擊即將出現 Microsoft 修復了Copilot 中的缺陷，這些缺陷允許攻擊者透過將一系列LLM 特定的連結在一起來竊取用戶的電子郵件和其他個人資料攻擊，從即時注入開始...]]></description>
+      <description><![CDATA[即時注入、ASCII 走私和其他虛張聲勢的攻擊即將出現 Microsoft 修復了Copilot 中的缺陷，該缺陷允許攻擊者通過將一系列LLM 特定的鏈接在一起來竊取用戶的電子郵件和其他個人資料攻擊，從即時注入開始...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_copilot_copirate/</guid>
       <pubDate>Wed, 28 Aug 2024 13:05:10 GMT</pubDate>
     </item>
@@ -99,19 +106,19 @@
     <item>
       <title>隨著遷移挑戰迫在眉睫，企業 SAP 使用者在本地端和雲端之間分化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</link>
-      <description><![CDATA[儘管德國供應商的首選升級路徑是這樣的 SAP ERP 系統的大型企業客戶在本地雲和公有雲之間存在均勻分佈，這是德國供應商的首選升級路徑。 NTT Data，全球主要SI 和合作夥伴。]]></description>
+      <description><![CDATA[儘管德國供應商的首選升級路徑是這樣的 SAP ERP 系統的大型企業客戶在本地和公共雲之間的比例是均勻的 - 德國供應商的首選升級路徑 - 根據NTT Data，全球主要SI 和合作夥伴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</guid>
       <pubDate>Wed, 28 Aug 2024 11:33:09 GMT</pubDate>
     </item>
     <item>
       <title>Apple Watch 十週年之際，身心障礙使用者需要真正的無障礙功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/apple_watch_accessibility/</link>
-      <description><![CDATA[忘掉手腕雜技吧，我們需要更聰明的喚醒詞偵測和裝置上語音辨識 意見 Apple 正在為年度秋季活動做準備，屆時新款iPhone 和Apple Watch 將在本次活動中亮相傳統上，模特兒都會首次亮相。今年是一個重要的里程碑：第一代 Apple Watch 推出已經 10 年了。為了紀念這一周年紀念，這家科技巨頭預計將推出一款特別版，非正式命名為 Apple Watch X。]]></description>
+      <description><![CDATA[忘掉手腕雜技吧，我們需要更聰明的喚醒詞偵測和裝置上語音辨識 意見 Apple 正在為年度秋季活動做準備，屆時新款iPhone 和Apple Watch 將在本次活動中亮相傳統上，模特兒都是首次亮相。今年是一個重要的里程碑：第一代 Apple Watch 推出已經 10 年了。為了紀念這一周年紀念，這家科技巨頭預計將推出一款特別版，非正式命名為 Apple Watch X。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/apple_watch_accessibility/</guid>
       <pubDate>Wed, 28 Aug 2024 10:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>電腦產業出了問題的地方——早期的熱門產品</title>
+      <title>電腦產業出了問題的地方－早期的熱門產品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</link>
       <description><![CDATA[令人難忘的失誤和錯誤的個人收藏 第 1 部分：八位時代 您將在下面找到對失誤和失誤的非正式總結從微型電腦產業誕生之初起，這一點就牢記在The Reg FOSS 辦公桌上。我們確信我們錯過了很多 – 讓我們知道您最喜歡的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 28 Aug 2024 07:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Gartner 警告 Omnissa（前 VMware 的最終用戶運算業務）代表新風險</title>
+      <title>Gartner 警告 Omnissa（前 VMware 的最終用戶運算業務）帶來新風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/gartner_omnissa_vmware_euc_strategy/</link>
       <description><![CDATA[薄弱的路線圖、棘手的遷移路徑和博通的依賴性增加了不確定性 分析公司Gartner 已建議Omnissa（該公司從VMware 的最終用戶計算業務中剝離出來）的客戶，他們需要採取以下措施：庫存，因為新組織尚無法提供強大的路線圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/gartner_omnissa_vmware_euc_strategy/</guid>
       <pubDate>Wed, 28 Aug 2024 06:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型科技公司：馬來西亞不允許我們制定自己的規則，這不公平，讓我們脾氣暴躁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/big_tech_wants_to_set_own_rules/</link>
-      <description><![CDATA[亞洲互聯網聯盟要求重新考慮社交媒體許可法，並使用舊的“你會嚇跑投資者”的說法 - AWS 開放區域一周後 亞洲互聯網聯盟 (AIC)，其成員包括Google、Meta、亞馬遜、Twitter（又稱X）、LinkedIn、蘋果和其他大型科技公司的遊說團體呼籲馬來西亞總理重新考慮要求社交媒體和即時通訊提供商獲得營運許可的法律。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/big_tech_wants_to_set_own_rules/</guid>
-      <pubDate>Wed, 28 Aug 2024 05:31:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
