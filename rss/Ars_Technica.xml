@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 28 Aug 2024 17:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:14:57 GMT</lastBuildDate>
+    <item>
+      <title>隨著微軟將 Mono 捐贈給 Wine 項目，一個漫長而奇怪的 FOSS 循環結束了</title>
+      <link>https://arstechnica.com/?p=2045805</link>
+      <description><![CDATA[23 年來，Mono 擁有許多家，但 Wine 的倉庫可能是它的最後一站。]]></description>
+      <guid>https://arstechnica.com/?p=2045805</guid>
+      <pubDate>Wed, 28 Aug 2024 17:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的人工智慧模型可以即時產生 1993 年《毀滅戰士》遊戲的幻覺</title>
+      <link>https://arstechnica.com/?p=2045767</link>
+      <description><![CDATA[“當人工智慧可以為你思考每個像素時，為什麼要手動為軟體編寫規則呢？”]]></description>
+      <guid>https://arstechnica.com/?p=2045767</guid>
+      <pubDate>Wed, 28 Aug 2024 17:06:09 GMT</pubDate>
+    </item>
     <item>
       <title>男子冒充青少年 YouTuber 因可怕的全球性勒索計畫被判 17 年徒刑</title>
       <link>https://arstechnica.com/?p=2045876</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 28 Aug 2024 16:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>Telegram CEO 被警方釋放，移交法庭可能被起訴</title>
+      <title>Telegram 執行長被警方釋放，移交法庭可能被起訴</title>
       <link>https://arstechnica.com/?p=2045841</link>
       <description><![CDATA[杜羅夫被警方釋放，經過幾天的審訊後被帶上法庭。]]></description>
       <guid>https://arstechnica.com/?p=2045841</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[工程師們正在重新設計 Astrobotic 的下一個月球登陸器的部分推進系統。]]></description>
       <guid>https://arstechnica.com/?p=2045535</guid>
       <pubDate>Wed, 28 Aug 2024 13:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>三年多來，SpaceX 首次錯過助推器著陸</title>
-      <link>https://arstechnica.com/?p=2045775</link>
-      <description><![CDATA[艦隊領導者已經滅亡。]]></description>
-      <guid>https://arstechnica.com/?p=2045775</guid>
-      <pubDate>Wed, 28 Aug 2024 13:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>新舊 Ryzen CPU 透過選購的 Windows 更新獲得速度提升</title>
-      <link>https://arstechnica.com/?p=2045537</link>
-      <description><![CDATA[事實證明，舊 Ryzen CPU 的受益幾乎與新 CPU 一樣多。]]></description>
-      <guid>https://arstechnica.com/?p=2045537</guid>
-      <pubDate>Tue, 27 Aug 2024 21:47:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

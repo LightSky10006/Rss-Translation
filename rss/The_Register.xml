@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 17:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:15:15 GMT</lastBuildDate>
+    <item>
+      <title>伊朗的先鋒小貓透過越野車檢查站和帕洛阿爾托設備襲擊美國網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/iran_pioneer_kitten/</link>
+      <description><![CDATA[政府支持的團隊也以勒索軟體為副業 伊朗政府支持的網路犯罪分子最近一直在本月侵入美國和外國網絡，竊取敏感資料並部署勒索軟體，他們根據山姆大叔的說法，他們正在透過來自Check Point、Citrix、Palo Alto Networks 和其他製造商的易受攻擊的VPN 和防火牆設備進行入侵。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/iran_pioneer_kitten/</guid>
+      <pubDate>Wed, 28 Aug 2024 18:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克 (Elon Musk) 控制 Grok AI 機器人以阻止選舉錯誤訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/grok_election_misinformation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[弗朗西斯·豪根(Frances Haugen) 表示，數位世界的導航需要北極星 弗朗西斯·豪根(Frances Haugen) 是一位透明度和問責制倡導者，因在Facebook 上舉報而聞名，他認為科技業需要找到一個北極星來導航道德和隱私風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/facebook_transparency_ai/</guid>
       <pubDate>Tue, 27 Aug 2024 23:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tenstorrent 的 Blackhole 晶片擁有 768 個 RISC-V 核心和幾乎相同的 FLOPS</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/</link>
-      <description><![CDATA[將32 個晶片放入一個盒子中，您將獲得近24 petaFLOPS 的FP8 性能 熱門晶片  RISC-V 冠軍Tenstorrent 提供了迄今為止最接近的外觀本週 Hot Chips 即將推出 Blackhole AI 加速器，他們聲稱該加速器在原始運算和可擴展性方面優於 Nvidia A100。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/tenstorrent_ai_blackhole/</guid>
-      <pubDate>Tue, 27 Aug 2024 21:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
