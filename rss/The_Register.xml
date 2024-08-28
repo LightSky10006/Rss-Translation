@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 28 Aug 2024 18:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 19:09:59 GMT</lastBuildDate>
     <item>
-      <title>伊朗的先鋒小貓透過越野車檢查站和帕洛阿爾托設備襲擊美國網絡</title>
+      <title>華倫巴菲特最喜歡的保險公司 GEICO 放棄 VMware 轉而使用 OpenStack</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/geico_vmware_openstack_migration/</link>
+      <description><![CDATA[尋求可自訂的雲端並減少鎖定 美國汽車保險公司 GEICO 已決定從 VMware 遷移到 OpenStack。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/geico_vmware_openstack_migration/</guid>
+      <pubDate>Wed, 28 Aug 2024 19:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗的先鋒小貓透過越野車檢查點和帕洛阿爾托設備襲擊美國網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/iran_pioneer_kitten/</link>
       <description><![CDATA[政府支持的團隊也以勒索軟體為副業 伊朗政府支持的網路犯罪分子最近一直在本月侵入美國和外國網絡，竊取敏感資料並部署勒索軟體，他們根據山姆大叔的說法，他們正在透過來自Check Point、Citrix、Palo Alto Networks 和其他製造商的易受攻擊的VPN 和防火牆設備進行入侵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/iran_pioneer_kitten/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>10 歲兒童「停電挑戰」死亡事件中 TikTok 不受第 230 條保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/tiktok_blackout_challenge_appeal/</link>
-      <description><![CDATA[想要機器人挑選引人入勝的內容而免於承擔責任嗎？抱歉，不 美國上訴法院發布了一項可能對社交媒體平台產生廣泛影響的意見，認為 TikTok 演算法為用戶選擇的內容不符合第 230 條保護的條件。 p&gt;]]></description>
+      <description><![CDATA[想要機器人挑選引人入勝的內容並且免於承擔責任嗎？抱歉，不 美國上訴法院發布了一項可能對社交媒體平台產生廣泛影響的意見，認為 TikTok 演算法為用戶選擇的內容不符合第 230 條保護的條件。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/tiktok_blackout_challenge_appeal/</guid>
       <pubDate>Wed, 28 Aug 2024 17:00:05 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>NASA耗資數十億美元的發射器落後於計劃並燒錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</link>
-      <description><![CDATA[如果您以前聽過這個，請阻止我們 美國國家航空暨太空總署 (NASA) 又收到了與月球相關的攻擊。這次是移動發射器 2 (ML-2) 項目，該機構計劃在該項目上組裝和發射其太空發射系統的更強大版本。]]></description>
+      <description><![CDATA[如果您以前聽過這個，請阻止我們 美國國家航空暨太空總署 (NASA) 又受到了與月球有關的打擊。這次是移動發射器 2 (ML-2) 項目，該機構計劃在該項目上組裝和發射其太空發射系統的更強大版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/nasa_ml2_oig/</guid>
       <pubDate>Wed, 28 Aug 2024 15:16:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>從副駕駛到共謀：數據竊賊如何劫持微軟的聊天機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_copilot_copirate/</link>
-      <description><![CDATA[即時注入、ASCII 走私和其他虛張聲勢的攻擊即將出現 Microsoft 修復了Copilot 中的缺陷，這些缺陷允許攻擊者透過將一系列LLM 特定的連結在一起來竊取用戶的電子郵件和其他個人資料攻擊，從即時注入開始...]]></description>
+      <description><![CDATA[即時注入、ASCII 走私和其他虛張聲勢的攻擊即將出現 Microsoft 修復了Copilot 中的缺陷，該缺陷允許攻擊者通過將一系列LLM 特定的鏈接在一起來竊取用戶的電子郵件和其他個人資料攻擊，從即時注入開始...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_copilot_copirate/</guid>
       <pubDate>Wed, 28 Aug 2024 13:05:10 GMT</pubDate>
     </item>
@@ -78,19 +85,19 @@
     <item>
       <title>隨著遷移挑戰迫在眉睫，企業 SAP 使用者在本地端和雲端之間分化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</link>
-      <description><![CDATA[儘管德國供應商的首選升級路徑是這樣的 SAP ERP 系統的大型企業客戶在本地雲和公有雲之間存在均勻分佈，這是德國供應商的首選升級路徑。 NTT Data，全球主要SI 和合作夥伴。]]></description>
+      <description><![CDATA[儘管德國供應商的首選升級路徑是這樣的 SAP ERP 系統的大型企業客戶在本地和公共雲之間的比例是均勻的 - 德國供應商的首選升級路徑 - 根據NTT Data，全球主要SI 和合作夥伴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</guid>
       <pubDate>Wed, 28 Aug 2024 11:33:09 GMT</pubDate>
     </item>
     <item>
       <title>Apple Watch 十週年之際，身心障礙使用者需要真正的無障礙功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/apple_watch_accessibility/</link>
-      <description><![CDATA[忘掉手腕雜技吧，我們需要更聰明的喚醒詞偵測和裝置上語音辨識 意見 Apple 正在為年度秋季活動做準備，屆時新款iPhone 和Apple Watch 將在本次活動中亮相傳統上，模特兒都會首次亮相。今年是一個重要的里程碑：第一代 Apple Watch 推出已經 10 年了。為了紀念這一周年紀念，這家科技巨頭預計將推出一款特別版，非正式命名為 Apple Watch X。]]></description>
+      <description><![CDATA[忘掉手腕雜技吧，我們需要更聰明的喚醒詞偵測和裝置上語音辨識 意見 Apple 正在為年度秋季活動做準備，屆時新款iPhone 和Apple Watch 將在本次活動中亮相傳統上，模特兒都是首次亮相。今年是一個重要的里程碑：第一代 Apple Watch 推出已經 10 年了。為了紀念這一周年紀念，這家科技巨頭預計將推出一款特別版，非正式命名為 Apple Watch X。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/apple_watch_accessibility/</guid>
       <pubDate>Wed, 28 Aug 2024 10:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>電腦產業出了問題的地方——早期的熱門產品</title>
+      <title>電腦產業出了問題的地方－早期的熱門產品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</link>
       <description><![CDATA[令人難忘的失誤和錯誤的個人收藏 第 1 部分：八位時代 您將在下面找到對失誤和失誤的非正式總結從微型電腦產業誕生之初起，這一點就牢記在The Reg FOSS 辦公桌上。我們確信我們錯過了很多 – 讓我們知道您最喜歡的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/where_computing_went_wrong_feature_part_1/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>奧格斯堡火箭工廠打破 SaxaVord 井噴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</link>
-      <description><![CDATA[&#39;欣賞影片。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
+      <description><![CDATA[&#39;欣賞鏡頭。我們花了相當多的錢來產生它。異常情況的最新情況，爆炸性地結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/rocket_factory_augsburg_saxavord/</guid>
       <pubDate>Wed, 28 Aug 2024 08:26:13 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 28 Aug 2024 07:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Gartner 警告 Omnissa（前 VMware 的最終用戶運算業務）代表新風險</title>
+      <title>Gartner 警告 Omnissa（前 VMware 的最終用戶運算業務）帶來新風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/gartner_omnissa_vmware_euc_strategy/</link>
       <description><![CDATA[薄弱的路線圖、棘手的遷移路徑和博通的依賴性增加了不確定性 分析公司Gartner 已建議Omnissa（該公司從VMware 的最終用戶計算業務中剝離出來）的客戶，他們需要採取以下措施：庫存，因為新組織尚無法提供強大的路線圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/gartner_omnissa_vmware_euc_strategy/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果無法通過下一個機架，那麼速度快又有什麼好處呢？出於這個原因，Nvidia 和AMD 使用NVLink 和Infinity Fabric 等專門的互連- 但在這些鏈路推動的900+ GB/秒的速度下，銅只能帶你到目前為止。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/broadcom_optics_gpus/</guid>
       <pubDate>Wed, 28 Aug 2024 00:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook舉報人呼籲社群媒體和人工智慧的透明度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/27/facebook_transparency_ai/</link>
-      <description><![CDATA[弗朗西斯·豪根(Frances Haugen) 表示，數位世界的導航需要北極星 弗朗西斯·豪根(Frances Haugen) 是一位透明度和問責制倡導者，因在Facebook 上舉報而聞名，他認為科技業需要找到一個北極星來導航道德和隱私風險。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/27/facebook_transparency_ai/</guid>
-      <pubDate>Tue, 27 Aug 2024 23:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
