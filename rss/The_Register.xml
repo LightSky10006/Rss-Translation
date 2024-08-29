@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 29 Aug 2024 19:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 20:12:48 GMT</lastBuildDate>
+    <item>
+      <title>哦，太好了。間諜軟體供應商開發的攻擊正被俄羅斯的 Cosy Bear 白痴重複使用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</link>
+      <description><![CDATA[Google 研究人員注意到了相似之處，但找不到連結 Google 的威脅分析小組(TAG) 發現商業間諜軟體供應商和與俄羅斯有關的攻擊團夥所使用的攻擊策略存在令人不安的相似之處。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</guid>
+      <pubDate>Thu, 29 Aug 2024 20:03:11 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 的 Victor Peng：人工智慧對功率的渴求凸顯了對高效能晶片的需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/ai_thirst_for_power/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[和解協議宣布之際，服務再次下滑 美國電信巨頭 AT&amp;T 已與聯邦通信委員會達成和解，在去年關閉四個州的 911 緊急呼叫後，將支付近 100 萬美元年...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/att_fcc_outage/</guid>
       <pubDate>Wed, 28 Aug 2024 23:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟舉辦安全高峰會，但不允許媒體報道、民眾開放</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_closed_security_summit/</link>
-      <description><![CDATA[CrowdStrike、其他供應商、友善的政府代表…但沒有任何人會告訴您發生了什麼事 專欄 微軟將於下個月與CrowdStrike 和其他機構舉辦安全高峰會「關鍵」端點安全合作夥伴也加入其中 — 在此期間，CrowdStrike 引發的導致數百萬台 Windows 電腦癱瘓的故障無疑將成為首要議程項目。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/microsoft_closed_security_summit/</guid>
-      <pubDate>Wed, 28 Aug 2024 22:20:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
