@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 29 Aug 2024 13:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 16:13:42 GMT</lastBuildDate>
+    <item>
+      <title>專家稱，聊天機器人為警察提供了編造警方報告的“終極出路”</title>
+      <link>https://arstechnica.com/?p=2046081</link>
+      <description><![CDATA[專家警告說，撰寫警方報告的聊天機器人可能會犯下嚴重錯誤。]]></description>
+      <guid>https://arstechnica.com/?p=2046081</guid>
+      <pubDate>Thu, 29 Aug 2024 14:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>歐盟正在調查 Telegram 是否淡化用戶數量以避免監管</title>
+      <link>https://arstechnica.com/?p=2046110</link>
+      <description><![CDATA[新的調查與法國對該平台的調查是分開的。]]></description>
+      <guid>https://arstechnica.com/?p=2046110</guid>
+      <pubDate>Thu, 29 Aug 2024 13:10:23 GMT</pubDate>
+    </item>
     <item>
       <title>Telegram執行長被控多項罪行並被禁止離開法國</title>
       <link>https://arstechnica.com/?p=2046072</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[無人機無所不在。交通攝影機不在乎。]]></description>
       <guid>https://arstechnica.com/?p=2045936</guid>
       <pubDate>Wed, 28 Aug 2024 17:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 準備星艦發射台捕捉火箭時火花日夜飛舞</title>
-      <link>https://arstechnica.com/?p=2044794</link>
-      <description><![CDATA[目前還不清楚升級需要多長時間，也不清楚美國聯邦航空管理局何時會批准升級。]]></description>
-      <guid>https://arstechnica.com/?p=2044794</guid>
-      <pubDate>Wed, 28 Aug 2024 17:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著微軟將 Mono 捐贈給 Wine 項目，一個漫長而奇怪的 FOSS 循環結束了</title>
-      <link>https://arstechnica.com/?p=2045805</link>
-      <description><![CDATA[23 年來，Mono 擁有許多家，但 Wine 的倉庫可能是它的最後一站。]]></description>
-      <guid>https://arstechnica.com/?p=2045805</guid>
-      <pubDate>Wed, 28 Aug 2024 17:15:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
