@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 29 Aug 2024 04:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:41:49 GMT</lastBuildDate>
+    <item>
+      <title>歐盟試圖在「重要數據」的定義上限制中國</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/eu_china_data_talks/</link>
+      <description><![CDATA[跨國資料傳輸規則讓歐洲企業摸不著頭腦 歐盟和中國發起了一項倡議，旨在解決歐洲企業在中國面臨的與非資料傳輸相關的問題。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/eu_china_data_talks/</guid>
+      <pubDate>Thu, 29 Aug 2024 06:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 的成長放緩至僅 122%，但仍超出預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/nvidias_growth_slows/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[業務去年離開歐洲，但仍在繼續進行 富士通本周宣布推出 16 款新的商用筆記型電腦、桌上型電腦、平板電腦和工作站。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/fujitsu_announces_16_pcs/</guid>
       <pubDate>Wed, 28 Aug 2024 12:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著遷移挑戰迫在眉睫，企業 SAP 使用者在本地端和雲端之間分化</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</link>
-      <description><![CDATA[儘管德國供應商的首選升級路徑是這樣的 SAP ERP 系統的大型企業客戶在本地和公共雲之間的比例是均勻的 - 德國供應商的首選升級路徑 - 根據NTT Data，全球主要SI 和合作夥伴。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/sap_on_prem_cloud_split/</guid>
-      <pubDate>Wed, 28 Aug 2024 11:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
