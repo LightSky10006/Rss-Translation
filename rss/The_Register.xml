@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 22:11:46 GMT</lastBuildDate>
     <item>
       <title>英偉達承認 Blackwell 缺陷，但黃仁勳承諾第四季出貨量如期實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/nvidia_blackwell_manufacturing/</link>
@@ -13,9 +13,9 @@
       <pubDate>Thu, 29 Aug 2024 20:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>哦，太好了。間諜軟體供應商開發的攻擊正被俄羅斯的 Cosy Bear 白痴重複使用</title>
+      <title>真是巧合啊。間諜軟體製造商、俄羅斯的 Cozy Bear 似乎有著相同的漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</link>
-      <description><![CDATA[Google 研究人員注意到了相似之處，但找不到連結 Google 的威脅分析小組(TAG) 發現商業間諜軟體製造商和與俄羅斯有關的團夥所使用的策略存在有趣的相似之處。]]></description>
+      <description><![CDATA[Google 研究人員注意到了相似之處，但找不到確鑿證據的連結 Google 的威脅分析小組(TAG) 發現了一個有趣的模式：與克里姆林宮有聯繫的網路間諜人員和商業間諜軟體製造商利用特定的安全漏洞的方式幾乎相同......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</guid>
       <pubDate>Thu, 29 Aug 2024 20:03:11 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>試圖拯救開始功能表的前 Windows 老闆現在是 Shopify 技術嚮導</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/mikhail_parakhin_shopify_cto/</link>
-      <description><![CDATA[是時候讓電子商務再次變得偉大了嗎？ ”，現在他突然出任電子商務的首席技術官(CTO)。-商業裝備 Shopify。...]]></description>
+      <description><![CDATA[是時候讓電子商務再次變得偉大了嗎？ ”，現在他突然出任e 的首席技術官(CTO)。-商業裝備 Shopify。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/mikhail_parakhin_shopify_cto/</guid>
       <pubDate>Thu, 29 Aug 2024 14:32:08 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 29 Aug 2024 13:32:09 GMT</pubDate>
     </item>
     <item>
-      <title>Brain Cipher 聲稱奧運場館遭到攻擊，並承諾洩漏 300 GB 數據</title>
+      <title>Brain Cipher 聲稱奧運場館遭到攻擊，並承諾洩露 300 GB 數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/brain_cipher_olympic_attack/</link>
       <description><![CDATA[法國警方認為金融系統在夏季奧運會期間成為攻擊目標 在奧運會期間數十家法國國家博物館遭受網絡攻擊近四個星期後，Brain Cipher 勒索軟體組織聲稱對此事件負責，並稱300 GB資料將於今天稍後洩漏。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/brain_cipher_olympic_attack/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>DataVita 宣布英國擁有「國家雲」主權</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/datavita_national_cloud/</link>
-      <description><![CDATA[蘇格蘭供應商承諾無隱藏費用、完全控制和資料安全港 英國託管公司DataVita 推出了所謂的「國家雲端」服務，這是一項為客戶在英國境內提供資料駐保留的服務，並且聲稱成本完全透明，沒有隱藏費用或出口費用 ...]]></description>
+      <description><![CDATA[蘇格蘭提供者承諾無隱藏費用、完全控制和資料安全港 英國託管公司DataVita 推出了所謂的「國家雲端」服務，該服務為客戶提供英國境內的資料駐留，並且聲稱成本完全透明，沒有隱藏費用或出口費用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/datavita_national_cloud/</guid>
       <pubDate>Thu, 29 Aug 2024 11:28:10 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>阿斯達（Asda）正在進行混亂的沃爾瑪技術離婚的宿醉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/asda_it_woes_continue/</link>
-      <description><![CDATA[英國雜貨店在服裝訂單、自助掃描和商店選擇應用程式方面遇到IT 問題 英國第三大雜貨零售商在艱難應對令人擔憂的離婚問題時，其IT 運營仍然受到問題的困擾來自美國零售巨頭沃爾瑪…]]></description>
+      <description><![CDATA[英國雜貨店在服裝訂單、自助掃描和商店選擇應用程式方面遇到IT 問題 英國第三大雜貨零售商在艱難應對令人擔憂的離婚問題時，其IT 運營仍然受到問題的困擾來自美國零售巨頭沃爾瑪......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/asda_it_woes_continue/</guid>
       <pubDate>Thu, 29 Aug 2024 09:35:50 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>Broadcom 執行長 Hock Tan 表示，公有雲對 VMware 本地部署的推動是“骯髒的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/hock_tan_vmware_private_cloud/</link>
-      <description><![CDATA[Virtzilla 的銷售量決定性地轉向Cloud Foundation 捆綁包 VMware Explore Broadcom 執行長Hock Tan 告訴VMware 用戶組成員，公有雲對其私有雲並不完全滿意推… ]]></description>
+      <description><![CDATA[Virtzilla 的銷售決定性轉向 Cloud Foundation 套裝 VMware Explore Broadcom 執行長 Hock Tan 告訴 VMware 用戶組成員，公有雲對其私有雲並不完全滿意推… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/hock_tan_vmware_private_cloud/</guid>
       <pubDate>Thu, 29 Aug 2024 00:26:07 GMT</pubDate>
     </item>
