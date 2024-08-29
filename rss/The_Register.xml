@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 29 Aug 2024 15:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 15:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Verizon 與另一家衛星業者合作，讓在偏僻的地方發送簡訊變得更加容易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/verizon_skylo_satellite_messaging/</link>
+      <description><![CDATA[類似iPhone 的功能很快就會出現在網路上的其他裝置上 Verizon 已與另一家衛星營運商合作，為美國客戶提供商業直接到設備訊息服務，以便在地面蜂窩網路可用時使用不可用，從今年秋天開始。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/verizon_skylo_satellite_messaging/</guid>
+      <pubDate>Thu, 29 Aug 2024 15:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>試圖拯救開始功能表的前 Windows 老闆現在是 Shopify 技術嚮導</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/mikhail_parakhin_shopify_cto/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>英國教師正在聘請人工智慧助理來幫助評分和製定課程計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/uk_ai_for_teachers/</link>
-      <description><![CDATA[教育系統的麻煩還不夠多嗎？ 英國政府準備為教師配備人工智慧工具，幫助他們「標記和規劃課程」。]]></description>
+      <description><![CDATA[教育系統的麻煩還不夠多嗎？ 已更新 英國政府準備為教師配備人工智慧工具，幫助他們「批改和規劃課程」。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/uk_ai_for_teachers/</guid>
       <pubDate>Thu, 29 Aug 2024 10:35:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[政府支持的團隊也以勒索軟體為副業 伊朗政府支持的網路犯罪分子最近一直在本月侵入美國和外國網絡，竊取敏感資料並部署勒索軟體，他們根據山姆大叔的說法，他們正在透過來自Check Point、Citrix、Palo Alto Networks 和其他製造商的易受攻擊的VPN 和防火牆設備進行入侵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/iran_pioneer_kitten/</guid>
       <pubDate>Wed, 28 Aug 2024 18:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克 (Elon Musk) 控制 Grok AI 機器人以阻止選舉錯誤訊息</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/grok_election_misinformation/</link>
-      <description><![CDATA[因為誰還需要另一場訴訟？ 2024 年總統大選的錯誤訊息。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/grok_election_misinformation/</guid>
-      <pubDate>Wed, 28 Aug 2024 17:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
