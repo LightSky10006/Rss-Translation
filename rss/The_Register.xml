@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 29 Aug 2024 20:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:11:17 GMT</lastBuildDate>
+    <item>
+      <title>英偉達承認 Blackwell 缺陷，但黃仁勳承諾第四季出貨量如期實現</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/nvidia_blackwell_manufacturing/</link>
+      <description><![CDATA[財務長堅稱，這次挫折不會阻止我們獲得數十億美元的資金 Nvidia 已證實先前的報道，即其Blackwell 一代GPU 存在設計缺陷，對備受期待的加速器的產量產生了不利影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/nvidia_blackwell_manufacturing/</guid>
+      <pubDate>Thu, 29 Aug 2024 20:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>哦，太好了。間諜軟體供應商開發的攻擊正被俄羅斯的 Cosy Bear 白痴重複使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</link>
-      <description><![CDATA[Google 研究人員注意到了相似之處，但找不到連結 Google 的威脅分析小組(TAG) 發現商業間諜軟體供應商和與俄羅斯有關的攻擊團夥所使用的攻擊策略存在令人不安的相似之處。]]></description>
+      <description><![CDATA[Google 研究人員注意到了相似之處，但找不到連結 Google 的威脅分析小組(TAG) 發現商業間諜軟體製造商和與俄羅斯有關的團夥所使用的策略存在有趣的相似之處。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</guid>
       <pubDate>Thu, 29 Aug 2024 20:03:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Virtzilla 的銷售量決定性地轉向Cloud Foundation 捆綁包 VMware Explore Broadcom 執行長Hock Tan 告訴VMware 用戶組成員，公有雲對其私有雲並不完全滿意推… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/hock_tan_vmware_private_cloud/</guid>
       <pubDate>Thu, 29 Aug 2024 00:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 將在四州 911 故障後支付 95 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/28/att_fcc_outage/</link>
-      <description><![CDATA[和解協議宣布之際，服務再次下滑 美國電信巨頭 AT&amp;T 已與聯邦通信委員會達成和解，在去年關閉四個州的 911 緊急呼叫後，將支付近 100 萬美元年...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/28/att_fcc_outage/</guid>
-      <pubDate>Wed, 28 Aug 2024 23:48:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
