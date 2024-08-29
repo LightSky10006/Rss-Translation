@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 29 Aug 2024 10:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 11:11:40 GMT</lastBuildDate>
+    <item>
+      <title>主要網站對蘋果的人工智慧抓取說不</title>
+      <link>https://www.wired.com/story/applebot-extended-apple-ai-scraping/</link>
+      <description><![CDATA[今年夏天，蘋果公司賦予網站更多控制權，決定該公司是否可以根據其資料訓練人工智慧模型。 《紐約時報》和 Facebook 等主要出版商和平台已經選擇退出。]]></description>
+      <guid>https://www.wired.com/story/applebot-extended-apple-ai-scraping/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最佳瑜珈墊（2024 年）：經過測試和審查</title>
       <link>https://www.wired.com/gallery/the-best-yoga-mats/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Google、蘋果和 Discord 讓有害的人工智慧「脫衣」網站使用他們的登入系統</title>
       <link>https://www.wired.com/story/undress-app-ai-harm-google-apple-login/</link>
-      <description><![CDATA[《連線》發現，幾家大型科技公司的單一登入系統正在被納入 Deepfake 生成器中。 Discord 和蘋果已經開始終止一些開發者的帳號。]]></description>
+      <description><![CDATA[《連線》雜誌發現，幾家大型科技公司的單一登入系統正在被納入 Deepfake 生成器中。 Discord 和蘋果已經開始終止一些開發者的帳號。]]></description>
       <guid>https://www.wired.com/story/undress-app-ai-harm-google-apple-login/</guid>
       <pubDate>Thu, 29 Aug 2024 10:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[你會得到一個粉紅色的電池、粉紅色的充電線，以及一長串閃亮的附加物——粘貼寶石、吊飾和串珠掛繩——來裝飾 HMD 的新芭比主題手機。]]></description>
       <guid>https://www.wired.com/story/hmd-barbie-phone/</guid>
       <pubDate>Tue, 27 Aug 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>參觀徹底改變飛機世界的空中巴士工廠</title>
-      <link>https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/</link>
-      <description><![CDATA[在漢堡，航空巨頭空中巴士正在其飛機上採用最先進的機器人技術來改造飛機生產。我們對 A321neo 交付進行幕後參觀。]]></description>
-      <guid>https://www.wired.com/story/heres-what-the-inside-of-an-airbus-factory-looks-like/</guid>
-      <pubDate>Tue, 27 Aug 2024 21:36:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
