@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 30 Aug 2024 19:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 20:35:56 GMT</lastBuildDate>
+    <item>
+      <title>星際客機的不那麼盛大的結局是下週在沙漠中的重擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/starliner_return_date/</link>
+      <description><![CDATA[波音失火事件以不光彩、無人載人的方式結束 波音陷入困境的Starliner 太空船將於一周多後返回地球，管理人員設定的日期不早於9 月6 日從國際客機脫離對接太空站(ISS) 將於9 月7 日降落在新墨西哥州的白沙。 --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/starliner_return_date/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>戴爾對人工智慧的全力押注在最新財報中得到了回報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/dells_q2_results_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[財務長堅稱，這次挫折不會阻止我們獲得數十億美元的資金 Nvidia 已證實先前的報道，即其Blackwell 一代GPU 存在設計缺陷，對備受期待的加速器的產量產生了不利影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/nvidia_blackwell_manufacturing/</guid>
       <pubDate>Thu, 29 Aug 2024 20:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>真是巧合啊。間諜軟體製造商、俄羅斯 Cozy Bear 似乎有著相同的漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</link>
-      <description><![CDATA[Google 研究人員注意到相似之處，但找不到確鑿證據的連結 Google 的威脅分析小組(TAG) 發現了一個有趣的模式：與克里姆林宮有聯繫的網路間諜人員和商業間諜軟體製造商利用特定的安全漏洞的方式幾乎相同......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/commercial_spyware_russia_mongolia/</guid>
-      <pubDate>Thu, 29 Aug 2024 20:03:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
