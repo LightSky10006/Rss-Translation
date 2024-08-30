@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 30 Aug 2024 13:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 15:12:30 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 因獵鷹 9 號多年來首次著陸失敗而停飛</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/spacex_falcon_9_failure/</link>
+      <description><![CDATA[故障已經變得罕見，但無論如何，FAA 都需要對其進行調查 SpaceX 的獵鷹9 號火箭在老牌助推器著陸過程中發生罕見事故後已被停飛。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/spacex_falcon_9_failure/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>厭倦了機場安檢排隊？研究人員聲稱 SQL 將自己注入駕駛艙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/sql_injection_known_crewmember/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chocolate Factory 聲稱競爭對手正試圖重振其已敗訴的案件 Yelp 已透過自己的訴訟涉過司法部反壟斷勝利打開的法律閘門，指控 Google 壟斷本地搜尋和服務廣告市場...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/google_antitrust_yelp/</guid>
       <pubDate>Thu, 29 Aug 2024 18:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於投資者擔心席位減少，Salesforce 考慮按人工智慧聊天收費</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/29/salesforce_pricing_per_ai_conversation/</link>
-      <description><![CDATA[Benioff 看到了“非常高的利潤機會”，旨在將生產力提升“貨幣化” Salesforce 正在考慮一種基於AI 代理對話的新收費模式，因為它試圖減輕投資者對提高用戶生產力的擔憂將導致他們購買更少的許可證席位。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/29/salesforce_pricing_per_ai_conversation/</guid>
-      <pubDate>Thu, 29 Aug 2024 17:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
