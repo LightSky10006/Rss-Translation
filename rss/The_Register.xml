@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Sep 2024 05:37:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 06:43:03 GMT</lastBuildDate>
+    <item>
+      <title>Rust for Linux 維護者因「非技術廢話」感到沮喪而辭職</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/rust_for_linux_maintainer_steps_down/</link>
+      <description><![CDATA[社群對C Rust 來說更像是一種負擔，而不是一種好處 上週四，當Rust for Linux 專案的一位維護者辭職時，將Rust 程式碼新增到Linux 核心的努力遭遇了挫折–引用「非技術廢話」的挫敗感。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/rust_for_linux_maintainer_steps_down/</guid>
+      <pubDate>Mon, 02 Sep 2024 06:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>Veeam 推出 Proxmox 備份工具，並透露使用該工具退出 VMware 的公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/veeam_proxmox_support_arrives/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Incase 恢復了Windows 巨頭廢棄的周邊系列 微軟的PC 週邊系列在即將到來的節日期間及時恢復，並以「Microsoft 設計」品牌重新推出了一系列產品。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/incase_designed_by_microsoft/</guid>
       <pubDate>Fri, 30 Aug 2024 10:44:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>閥門故障導致 Astrobotic 的 Peregrine 登陸器直接返回地球大氣層</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/astrobotic_peregrine_postmortem/</link>
-      <description><![CDATA[水漲船高，但並不總是在月球上 Astrobotic 繼續其透明政策，對導致其遊隼著陸器在地球大氣層中燃燒而不是製造故障的故障進行了報告月球軟著陸... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/astrobotic_peregrine_postmortem/</guid>
-      <pubDate>Fri, 30 Aug 2024 09:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
