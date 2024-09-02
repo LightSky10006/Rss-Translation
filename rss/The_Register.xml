@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Sep 2024 15:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:35:27 GMT</lastBuildDate>
+    <item>
+      <title>NASA 確認誰在飛行、誰不在 SpaceX Crew Dragon 上</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/nasa_confirms_crew_dragon/</link>
+      <description><![CDATA[與此同時，Starliner 發出奇怪的聲音 NASA 已確認將在下一次 SpaceX 任務中飛往國際太空站 (ISS) 的兩名機組人員的名字：NASA 太空人 Nick Hague 和俄羅斯航太局太空人亞歷山大‧戈爾布諾夫… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/nasa_confirms_crew_dragon/</guid>
+      <pubDate>Mon, 02 Sep 2024 15:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>Zen 瀏覽器是一個無 Google 區域，提供平鋪必殺技</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/zen_firefox_fork_alpha/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 02 Sep 2024 14:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 繼續向 Windows 10 的山峰艱難攀登</title>
+      <title>Windows 11 繼續艱難地向 Windows 10 攀登</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</link>
       <description><![CDATA[近三年過去了，許多客戶尚未採取行動 Windows 11 繼續蠶食 Windows 10 的市場份額，儘管距離最終超越其前身還有很長的路要走。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>中國科學家主張用核武攻擊附近的小行星——這是確定的唯一方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/asia_pacific_tech_news_roundup/</link>
-      <description><![CDATA[加：阿里巴巴擺脫監管煉獄；印度放慢了 CBDC 的推出；中國創建了八個新的資料中心中心 亞洲簡介 中國學者表示，核武是摧毀威脅與地球相撞的小行星的唯一有效方法- 如果它在短時間內被發現注意...]]></description>
+      <description><![CDATA[加：阿里巴巴擺脫監理困境；印度放慢了 CBDC 的推出；中國創建了八個新的資料中心中心 亞洲簡介 中國學者表示，核武是摧毀威脅與地球相撞的小行星的唯一有效方法- 如果它在短時間內被發現注意...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/asia_pacific_tech_news_roundup/</guid>
       <pubDate>Mon, 02 Sep 2024 00:31:52 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Sat, 31 Aug 2024 13:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>研究發現 GPT 應用程式未能揭露資料收集情況</title>
+      <title>研究發現 GPT 應用程式未能揭露資料收集</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/31/gpt_apps_data_collection/</link>
       <description><![CDATA[研究人員表示，實施Actions 會忽略隱私詳細資訊並暴露資訊 研究人員聲稱，OpenAI 的GPT 商店中的許多GPT 應用程式都會收集資料並促進線上跟踪，這違反了OpenAI政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/31/gpt_apps_data_collection/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[放鬆，這只是一次演習。至少這一次。 。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/green_berets_wifi_hacking/</guid>
       <pubDate>Fri, 30 Aug 2024 21:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>星際客機的不那麼盛大的結局是下週在沙漠中的重擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/starliner_return_date/</link>
-      <description><![CDATA[波音失火事件以不光彩、無人載人的方式結束 波音陷入困境的Starliner 太空船將於一周多後返回地球，管理人員設定的日期不早於9 月6 日從國際客機脫離對接太空站(ISS) 將於9 月7 日降落在新墨西哥州的白沙。 --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/starliner_return_date/</guid>
-      <pubDate>Fri, 30 Aug 2024 20:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
