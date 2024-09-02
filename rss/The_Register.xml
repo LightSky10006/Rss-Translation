@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Sep 2024 11:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 13:18:45 GMT</lastBuildDate>
+    <item>
+      <title>HPE 將就收購 Autonomy 向 Mike Lynch 的遺產提出 40 億美元索賠</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</link>
+      <description><![CDATA[儘管這位大亨在美國被無罪釋放並且最近去世，但IT 巨頭仍將關注英國欺詐案的“結論” HPE 將向邁克·林奇(Mike Lynch) 的遺孀追討40 億美元的損失賠償金英國科技大亨最近在西西里島海岸的航行悲劇中喪生後，自治合併。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</guid>
+      <pubDate>Mon, 02 Sep 2024 12:58:23 GMT</pubDate>
+    </item>
     <item>
       <title>黑馬落下：勞埃德網路銀行服務黑了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/black_horse_down_lloyds_online/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>中國科學家主張用核武攻擊附近的小行星——這是確定的唯一方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/asia_pacific_tech_news_roundup/</link>
-      <description><![CDATA[加：阿里巴巴擺脫監理困境；印度放慢了 CBDC 的推出；中國創建了八個新的資料中心中心 亞洲簡介 中國學者表示，核武是摧毀威脅與地球相撞的小行星的唯一有效方法- 如果它在短時間內被發現注意...]]></description>
+      <description><![CDATA[加：阿里巴巴擺脫監管煉獄；印度放慢了 CBDC 的推出；中國創建了八個新的資料中心中心 亞洲簡介 中國學者表示，核武是摧毀威脅與地球相撞的小行星的唯一有效方法- 如果它在短時間內被發現注意...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/asia_pacific_tech_news_roundup/</guid>
       <pubDate>Mon, 02 Sep 2024 00:31:52 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 31 Aug 2024 13:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>研究發現 GPT 應用程式未能揭露資料收集</title>
+      <title>研究發現 GPT 應用程式未能揭露資料收集情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/31/gpt_apps_data_collection/</link>
       <description><![CDATA[研究人員表示，實施Actions 會忽略隱私詳細資訊並暴露資訊 研究人員聲稱，OpenAI 的GPT 商店中的許多GPT 應用程式都會收集資料並促進線上跟踪，這違反了OpenAI政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/31/gpt_apps_data_collection/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>MongoDB 在擊敗競爭對手後向 PostgreSQL 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/mongodb_postgresql/</link>
-      <description><![CDATA[儘管如此，開源競爭對手仍然是開發人員中最受歡迎的資料庫 NoSQL 資料庫供應商MongoDB 表示，它在與開源關係型競爭對手PostgreSQL 的競爭中取得了顯著的進步，這說法似乎與最近的研究......]]></description>
+      <description><![CDATA[開源競爭對手仍然是開發人員中最受歡迎的資料庫 NoSQL 資料庫供應商MongoDB 表示，它在與開源關係型競爭對手PostgreSQL 的競爭中取得了顯著的進步，這一個說法似乎與最近的研究......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/mongodb_postgresql/</guid>
       <pubDate>Fri, 30 Aug 2024 17:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基辛格在談論可能的分拆時談到了英特爾的麻煩</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/gelsinger_discusses_intel_troubles/</link>
-      <description><![CDATA[從分拆到裁員，再到董事會的反抗，2024 年對Chipzilla 來說並不順利 英特爾執行長 Pat Gelsinger 承認這家晶片巨頭的財務困境，並表示他正在努力解決投資者的擔憂。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/gelsinger_discusses_intel_troubles/</guid>
-      <pubDate>Fri, 30 Aug 2024 16:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
