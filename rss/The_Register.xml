@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Sep 2024 13:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 13:36:16 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 繼續向 Windows 10 的山峰艱難攀登</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</link>
+      <description><![CDATA[近三年過去了，許多客戶尚未採取行動 Windows 11 繼續蠶食 Windows 10 的市場份額，儘管距離最終超越其前身還有很長的路要走。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</guid>
+      <pubDate>Mon, 02 Sep 2024 13:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>HPE 將就收購 Autonomy 向 Mike Lynch 的遺產提出 40 億美元索賠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這個術語在財報電話會議中被提及超過140 次 很少有公司像戴爾科技公司那樣將自己的財富與人工智慧聯繫在一起，這家科技巨頭的伺服器和網路收入成長了80% % 得益於人工智慧基礎設施的銷售，同時關注潛在的人工智慧 PC 紅利的下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/dells_q2_results_ai/</guid>
       <pubDate>Fri, 30 Aug 2024 19:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>MongoDB 在擊敗競爭對手後向 PostgreSQL 發動攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/mongodb_postgresql/</link>
-      <description><![CDATA[開源競爭對手仍然是開發人員中最受歡迎的資料庫 NoSQL 資料庫供應商MongoDB 表示，它在與開源關係型競爭對手PostgreSQL 的競爭中取得了顯著的進步，這一個說法似乎與最近的研究......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/mongodb_postgresql/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
