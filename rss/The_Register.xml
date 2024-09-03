@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 16:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 16:42:18 GMT</lastBuildDate>
+    <item>
+      <title>道氏螺旋：英特爾股價下跌可能導致其從藍籌股指數中退市</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/intel_share_price_drop/</link>
+      <description><![CDATA[2024 年市值暴跌50%，迫使執行長 Pat Gelsinger 重新審視策略 由於股價暴跌，英特爾可能會失去道瓊工業指數的長期席位，這將增加這家晶片製造商的收入現有的麻煩。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/intel_share_price_drop/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>資料監管機構因「非法」資料收集對 Clearview AI 罰款 3,300 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/clearview_ai_dutch_fine/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>雲端運算在能源危機中按下核子按鈕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</link>
-      <description><![CDATA[隨著電網用電量持續有增無減，也考慮了其他選項 分析 雲端運算是科技業中少數顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
+      <description><![CDATA[隨著電網的用電量持續有增無減，還要考慮其他選項 分析 雲端運算是科技業中少數幾個顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</guid>
       <pubDate>Tue, 03 Sep 2024 12:30:07 GMT</pubDate>
     </item>
@@ -85,28 +92,28 @@
     <item>
       <title>阿里雲利用日誌檔時間戳記增強故障預測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</link>
-      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的故障- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
+      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的錯誤- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</guid>
       <pubDate>Tue, 03 Sep 2024 04:01:15 GMT</pubDate>
     </item>
     <item>
       <title>中國最優秀的 GPU 前景之一承認失敗並裁員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/xiangdixian_computing_technology_layoffs_restructure/</link>
-      <description><![CDATA[需要新的投資者來超越當前的普通產品 中國GPU 製造商像地先計算技術公司承認，它沒有達到其發展目標，並作為重組計劃的一部分解雇了一些員工。]]></description>
+      <description><![CDATA[需要新的投資者來超越當前的普通產品 中國GPU 製造商像地顯計算技術公司承認，它沒有達到其發展目標，並作為重組計劃的一部分解雇了一些員工。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/xiangdixian_computing_technology_layoffs_restructure/</guid>
       <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
     </item>
     <item>
       <title>眾議院將就史詩般的 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
-      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會進行聽證，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
+      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會接受質詢，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</guid>
       <pubDate>Mon, 02 Sep 2024 17:47:14 GMT</pubDate>
     </item>
     <item>
       <title>俄羅斯部長稱 Telegram 首席執行官在內容審核方面“過於自由”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/russias_foreign_minister_claims_telegram/</link>
-      <description><![CDATA[執行長 Pavel Durov 在法國受到指控，在消息平台堅稱遵守歐盟法律 Telegram 執行長 Pavel Durov 上週被法國警方戴上手銬並受到指控，他的做法「過於自由」俄羅斯外交部長表示，管理全球資訊平台。]]></description>
+      <description><![CDATA[執行長帕維爾·杜羅夫在法國受到指控，訊息平台堅稱遵守歐盟法律 Telegram 執行長帕維爾·杜羅夫上週被法國警方戴上手銬並受到指控，他的做法「過於自由」俄羅斯外交部長表示，管理全球資訊平台。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/russias_foreign_minister_claims_telegram/</guid>
       <pubDate>Mon, 02 Sep 2024 16:35:14 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 02 Sep 2024 14:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 繼續向 Windows 10 的山峰艱難攀登</title>
+      <title>Windows 11 繼續艱難地向 Windows 10 攀登</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</link>
       <description><![CDATA[近三年過去了，許多客戶尚未採取行動 Windows 11 繼續蠶食 Windows 10 的市場份額，儘管距離最終超越其前身還有很長的路要走。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[儘管這位大亨在美國被無罪釋放並且最近去世，但IT 巨頭仍將關注英國欺詐案的“結論” HPE 將向邁克·林奇(Mike Lynch) 的遺孀追討40 億美元的損失賠償金英國科技大亨最近在西西里島海岸的航行悲劇中喪生後，自治合併。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</guid>
       <pubDate>Mon, 02 Sep 2024 12:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑馬落下：勞埃德網路銀行服務黑了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/black_horse_down_lloyds_online/</link>
-      <description><![CDATA[客戶報告無法查看交易 已更新 英國銀行業巨頭勞埃德銀行(Lloyds) 今天正在努力解決線上服務故障的問題，因為客戶報告無法通過應用程式或網站查看交易...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/black_horse_down_lloyds_online/</guid>
-      <pubDate>Mon, 02 Sep 2024 11:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
