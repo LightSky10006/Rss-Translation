@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Sep 2024 18:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 02:06:57 GMT</lastBuildDate>
+    <item>
+      <title>中國最優秀的 GPU 前景之一承認失敗並裁員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/xiangdixian_computing_technology_layoffs_restructure/</link>
+      <description><![CDATA[需要新的投資者來超越當前的普通產品 中國GPU 製造商像地顯計算技術公司承認，它沒有達到其發展目標，並作為重組計劃的一部分解雇了一些員工。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/xiangdixian_computing_technology_layoffs_restructure/</guid>
+      <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>眾議院就史詩級 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員表示，實施Actions 會忽略隱私詳細資訊並暴露資訊 研究人員聲稱，OpenAI 的GPT 商店中的許多GPT 應用程式都會收集資料並促進線上跟踪，這違反了OpenAI政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/31/gpt_apps_data_collection/</guid>
       <pubDate>Sat, 31 Aug 2024 05:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>RansomHub 在短短 6 個月內攻擊了 210 名受害者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/08/30/ransomhub/</link>
-      <description><![CDATA[勒索軟體集團從LockBit 和ALPHV 招募高調的附屬機構 RansomHub 繼續從倒閉的LockBit 和ALPHV 業務中挖來頂尖人才，同時在以下地區積累了大量受害者、安全和執法機構美國認為是時候對勒索軟體霸主的組織發出正式警告了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/08/30/ransomhub/</guid>
-      <pubDate>Fri, 30 Aug 2024 23:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
