@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Sep 2024 20:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 21:34:41 GMT</lastBuildDate>
+    <item>
+      <title>DirecTV 上的迪士尼頻道被屏蔽，電視觀眾再次陷入困境</title>
+      <link>https://arstechnica.com/?p=2046976</link>
+      <description><![CDATA[停電兩天后，DirecTV 將「只要需要」就與迪士尼對抗。]]></description>
+      <guid>https://arstechnica.com/?p=2046976</guid>
+      <pubDate>Tue, 03 Sep 2024 20:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>金屬球棒對於年輕球員來說有優勢，但最終還是取決於技巧</title>
+      <link>https://arstechnica.com/?p=2046697</link>
+      <description><![CDATA[擊球手的技術仍然是球擊球速度的最大因素。]]></description>
+      <guid>https://arstechnica.com/?p=2046697</guid>
+      <pubDate>Tue, 03 Sep 2024 20:37:39 GMT</pubDate>
+    </item>
     <item>
       <title>歐普拉即將推出的人工智慧電視特別節目引發科技評論家的憤怒</title>
       <link>https://arstechnica.com/?p=2046747</link>
@@ -15,12 +29,12 @@
     <item>
       <title>Linux 中的 Rust 領導者退休了，而不是處理更多“非技術廢話”</title>
       <link>https://arstechnica.com/?p=2046763</link>
-      <description><![CDATA[C語言在內核中的霸主地位還能維持多久？]]></description>
+      <description><![CDATA[C 語言在內核中的霸主地位還能維持多久？]]></description>
       <guid>https://arstechnica.com/?p=2046763</guid>
       <pubDate>Tue, 03 Sep 2024 19:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾酷睿 Ultra 200V 預計將超越 Arm 的電池壽命，且不存在相容性問題</title>
+      <title>英特爾酷睿 Ultra 200V 承諾超越 Arm 的電池壽命，且不存在相容性問題</title>
       <link>https://arstechnica.com/?p=2046729</link>
       <description><![CDATA[CPU 速度又是喜憂參半的一年，但電池和顯示卡升級值得歡迎。]]></description>
       <guid>https://arstechnica.com/?p=2046729</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[還有一款專注於越野的變體，稱為 Ioniq 5 XRT。]]></description>
       <guid>https://arstechnica.com/?p=2046798</guid>
       <pubDate>Tue, 03 Sep 2024 17:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink 告訴巴西，在政府解凍其資產之前，不會阻止 X</title>
-      <link>https://arstechnica.com/?p=2046765</link>
-      <description><![CDATA[不只一家馬斯克公司捲入了與強大的巴西法官的鬥爭。]]></description>
-      <guid>https://arstechnica.com/?p=2046765</guid>
-      <pubDate>Tue, 03 Sep 2024 17:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>缺陷、效能問題阻礙了華為人工智慧晶片的發展</title>
-      <link>https://arstechnica.com/?p=2046709</link>
-      <description><![CDATA[出口管制禁止進口英偉達晶片，但本土替代品卻舉步維艱。]]></description>
-      <guid>https://arstechnica.com/?p=2046709</guid>
-      <pubDate>Tue, 03 Sep 2024 13:34:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
