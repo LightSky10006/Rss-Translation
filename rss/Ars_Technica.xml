@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Sep 2024 21:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 23:12:26 GMT</lastBuildDate>
+    <item>
+      <title>禽流感感染了美國最大牛奶生產國加州的乳牛</title>
+      <link>https://arstechnica.com/?p=2047019</link>
+      <description><![CDATA[這種高致病性菌株現已傳播到 14 個州的 197 個牛群。]]></description>
+      <guid>https://arstechnica.com/?p=2047019</guid>
+      <pubDate>Tue, 03 Sep 2024 22:12:41 GMT</pubDate>
+    </item>
     <item>
       <title>DirecTV 上的迪士尼頻道被屏蔽，電視觀眾再次陷入困境</title>
       <link>https://arstechnica.com/?p=2046976</link>
@@ -29,12 +36,12 @@
     <item>
       <title>Linux 中的 Rust 領導者退休了，而不是處理更多“非技術廢話”</title>
       <link>https://arstechnica.com/?p=2046763</link>
-      <description><![CDATA[C 語言在內核中的霸主地位還能維持多久？]]></description>
+      <description><![CDATA[C語言在內核中的霸主地位還能維持多久？]]></description>
       <guid>https://arstechnica.com/?p=2046763</guid>
       <pubDate>Tue, 03 Sep 2024 19:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾酷睿 Ultra 200V 承諾超越 Arm 的電池壽命，且不存在相容性問題</title>
+      <title>英特爾酷睿 Ultra 200V 預計將超越 Arm 的電池壽命，且不存在相容性問題</title>
       <link>https://arstechnica.com/?p=2046729</link>
       <description><![CDATA[CPU 速度又是喜憂參半的一年，但電池和顯示卡升級值得歡迎。]]></description>
       <guid>https://arstechnica.com/?p=2046729</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[複雜的攻擊破壞了最受歡迎的 FIDO 金鑰的安全保證。]]></description>
       <guid>https://arstechnica.com/?p=2046777</guid>
       <pubDate>Tue, 03 Sep 2024 17:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>現代更新了 Ioniq 5，配備更大的電池、特斯拉風格的端口</title>
-      <link>https://arstechnica.com/?p=2046798</link>
-      <description><![CDATA[還有一款專注於越野的變體，稱為 Ioniq 5 XRT。]]></description>
-      <guid>https://arstechnica.com/?p=2046798</guid>
-      <pubDate>Tue, 03 Sep 2024 17:48:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
