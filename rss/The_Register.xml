@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 13:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 14:37:42 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 24.04.1 登陸時請做好應對故障和 GRUB 抱怨的準備</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ubuntu_24041/</link>
+      <description><![CDATA[現在 Numbat 已經整理，你可以更換你的 Jellyfish - 如果你敢的話 Ubuntu 24.04.1 已經到來，這意味著之前的 LTS 版本 22.04「Jammy Jellyfish」的用戶將會提供更新。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ubuntu_24041/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:07:06 GMT</pubDate>
+    </item>
     <item>
       <title>中國在晶片製造套件上的支出超過美國、台灣和韓國的總和</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/china_spending_big_on_chipmaking/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>雲端運算在能源危機中按下核子按鈕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</link>
-      <description><![CDATA[隨著電網用電量持續有增無減，也考慮了其他選項 分析 雲端運算是科技業中少數顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
+      <description><![CDATA[隨著電網的用電量持續有增無減，還要考慮其他選項 分析 雲端運算是科技業中少數幾個顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</guid>
       <pubDate>Tue, 03 Sep 2024 12:30:07 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>根據法院命令的要求，馬斯克的 Starlink 不會在巴西阻止伊隆馬斯克的 X</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</link>
-      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為這位億萬富翁和南美洲國家不斷擴大。]]></description>
+      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為億萬富翁與億萬富翁之間的糾紛南美洲國家不斷擴大。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</guid>
       <pubDate>Tue, 03 Sep 2024 07:31:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>阿里雲利用日誌檔時間戳記增強故障預測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</link>
-      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的故障- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
+      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的錯誤- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</guid>
       <pubDate>Tue, 03 Sep 2024 04:01:15 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>眾議院就史詩級 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
+      <title>眾議院將就史詩般的 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
-      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會進行聽證，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
+      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會接受質詢，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</guid>
       <pubDate>Mon, 02 Sep 2024 17:47:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[由於倉庫遷移技術故障，發貨被擱置，也無法取消訂單 如果從一些 O2* 客戶的體驗來看，Google 的 Pixel 9 手機似乎是由純 unobtainium 製成的。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/o2_google_pixel_9_delays/</guid>
       <pubDate>Mon, 02 Sep 2024 09:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟認為現在是消滅糟糕使用者介面的好時機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/microsoft_control_panel_opinion/</link>
-      <description><![CDATA[將控制面板設定為太陽的核心 意見我們可能不知道確切的時間或方式，但我們確實知道 Windows 控制面板正在喘息。萬歲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/microsoft_control_panel_opinion/</guid>
-      <pubDate>Mon, 02 Sep 2024 08:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
