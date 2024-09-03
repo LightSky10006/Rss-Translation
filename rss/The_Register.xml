@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 21:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 22:38:07 GMT</lastBuildDate>
+    <item>
+      <title>白宮認為是時候解決網路不安全的問題了：是的，BGP</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/white_house_bgp_security/</link>
+      <description><![CDATA[遲到總比不到好 白宮週二表示，希望加強網際網路路由薄弱的安全性，特別是邊界網關協定 (BGP)。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/white_house_bgp_security/</guid>
+      <pubDate>Tue, 03 Sep 2024 22:34:09 GMT</pubDate>
+    </item>
     <item>
       <title>英國三人承認經營價值 1,000 萬美元的 MFA 繞行業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/uk_trio_pleads_guilty_mfa_bypass/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[需要新的投資者來超越當前的普通產品 中國GPU 製造商像地顯計算技術公司承認，它沒有達到其發展目標，並作為重組計劃的一部分解雇了一些員工。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/xiangdixian_computing_technology_layoffs_restructure/</guid>
       <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>眾議院將就史詩般的 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
-      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會接受質詢，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:47:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
