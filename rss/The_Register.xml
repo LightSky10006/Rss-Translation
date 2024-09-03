@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 16:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 17:11:51 GMT</lastBuildDate>
+    <item>
+      <title>截止日期臨近：Google Workspace 將於 9 月 30 日強制實施 OAuth</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/google_workspace_third_party_apps/</link>
+      <description><![CDATA[27 天後即可讓使用者的第三方應用程式登入 Google Google Workspace 管理員請注意：在不到一個月的時間內，許多第三方應用程式（郵件、行事曆等）將停止連接到Workspace 帳戶。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/google_workspace_third_party_apps/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>道氏螺旋：英特爾股價下跌可能導致其從藍籌股指數中退市</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/intel_share_price_drop/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>雲端運算在能源危機中按下核子按鈕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</link>
-      <description><![CDATA[隨著電網的用電量持續有增無減，還要考慮其他選項 分析 雲端運算是科技業中少數幾個顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
+      <description><![CDATA[隨著電網用電量持續有增無減，也考慮了其他選項 分析 雲端運算是科技業中少數顯示出持續成長的領域之一，即使在大流行以及隨後的通膨驅動的支出限制。然而，可能阻礙雲端不可阻擋的擴張的一件事是為其所依賴的基礎設施尋找動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/cloud_growth_energy_challenges/</guid>
       <pubDate>Tue, 03 Sep 2024 12:30:07 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>根據法院命令的要求，馬斯克的 Starlink 不會在巴西阻止伊隆馬斯克的 X</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</link>
-      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為億萬富翁與億萬富翁之間的糾紛南美洲國家不斷擴大。]]></description>
+      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為這位億萬富翁和南美洲國家不斷擴大。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</guid>
       <pubDate>Tue, 03 Sep 2024 07:31:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>阿里雲利用日誌檔時間戳記增強故障預測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</link>
-      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的錯誤- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
+      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的故障- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</guid>
       <pubDate>Tue, 03 Sep 2024 04:01:15 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>眾議院將就史詩般的 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
+      <title>眾議院就史詩級 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
-      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會接受質詢，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
+      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會進行聽證，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</guid>
       <pubDate>Mon, 02 Sep 2024 17:47:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[近三年過去了，許多客戶尚未採取行動 Windows 11 繼續蠶食 Windows 10 的市場份額，儘管距離最終超越其前身還有很長的路要走。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/windows_11_market_share/</guid>
       <pubDate>Mon, 02 Sep 2024 13:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE 將就收購 Autonomy 向 Mike Lynch 的遺產提出 40 億美元索賠</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</link>
-      <description><![CDATA[儘管這位大亨在美國被無罪釋放並且最近去世，但IT 巨頭仍將關注英國欺詐案的“結論” HPE 將向邁克·林奇(Mike Lynch) 的遺孀追討40 億美元的損失賠償金英國科技大亨最近在西西里島海岸的航行悲劇中喪生後，自治合併。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/hpe_mike_lynch_damages/</guid>
-      <pubDate>Mon, 02 Sep 2024 12:58:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
