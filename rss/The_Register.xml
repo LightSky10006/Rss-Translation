@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 10:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 10:38:54 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧公司提出「人格憑證」…以對抗人工智慧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ai_personhood_credentials/</link>
+      <description><![CDATA[需要的不僅僅是驗證碼來證明你是真實的 微軟和OpenAI 等公司的研究人員提出了“人格憑證”，以對抗由銷售的人工智能模型引發的在線欺騙。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ai_personhood_credentials/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>倫敦交通局確認網路攻擊，向我們保證一切都好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/tfl_cyberattack/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>根據法院命令的要求，馬斯克的 Starlink 不會在巴西阻止伊隆馬斯克的 X</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</link>
-      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為億萬富翁與億萬富翁之間的糾紛南美洲國家不斷擴大。]]></description>
+      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為這位億萬富翁和南美洲國家不斷擴大。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</guid>
       <pubDate>Tue, 03 Sep 2024 07:31:11 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>阿里雲利用日誌檔時間戳記增強故障預測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</link>
-      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的錯誤- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
+      <description><![CDATA[機器學習有幫助，但更多的數據會發現更多的故障- 因此中國冠軍分享了其數據 阿里雲公佈了用於改進伺服器故障預測和檢測的自製技術，據稱該技術看到了其能力檢測問題的能力比同類技術高出百分之十。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/aliaba_cloud_taat_fault_detection/</guid>
       <pubDate>Tue, 03 Sep 2024 04:01:15 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Tue, 03 Sep 2024 01:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>眾議院將就史詩般的 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
+      <title>眾議院就史詩級 IT 崩潰問題拷問 CrowdStrike 高層…不，不是首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</link>
-      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會接受質詢，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
+      <description><![CDATA[副總裁Adam Meyers 就導致7 月和8 月部分時間毀於一旦的錯誤軟體更新作證 Crowdstrike 將於本月在美國眾議院國土安全委員會進行聽證，解釋其錯誤軟體更新的原因 -導致全球數百萬台電腦系統癱瘓的事件——曾經發生過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/crowdstrike_vp_house_subcommittee/</guid>
       <pubDate>Mon, 02 Sep 2024 17:47:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[為Nutanix 提供更多幫助 資料保護軟體供應商Veeam 已承諾支援開源虛擬化競爭者Proxmox。 &#39; /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/veeam_proxmox_support_arrives/</guid>
       <pubDate>Mon, 02 Sep 2024 04:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在網路釣魚活動中發現針對 Windows 的新型攻擊，該攻擊來自中國並針對中國</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/securonix_china_slowtempest_campaign/</link>
-      <description><![CDATA[參與Cobalt Strike 活動的騰訊雲端託管資源 中國網路冠軍騰訊雲正被未知攻擊者用作網路釣魚活動的一部分，旨在實現對中國實體的持久網路存取。 .&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/securonix_china_slowtempest_campaign/</guid>
-      <pubDate>Mon, 02 Sep 2024 03:06:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
