@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Sep 2024 14:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:12:46 GMT</lastBuildDate>
+    <item>
+      <title>GNU screen 5 證明即使 37 年後它仍然有遊戲性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/gnu_screen_5/</link>
+      <description><![CDATA[二十年來的第一個主要版本值得了解 GNU screen 包含在大多數Linux 發行版中，但更新、更高級的工具（例如tmux）通常比它更出色。 .. ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/gnu_screen_5/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 24.04.1 登陸時請做好應對故障和 GRUB 抱怨的準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ubuntu_24041/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[小工具角鬥士排隊為世界上最大的醫療保健組織供貨 NHS 發起了一項價值高達15 億英鎊的競賽，要求供應商為世界上最大的醫療保健組織提供各種電腦硬件，包括個人電腦、印表機和周邊設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/nhs_hardware_procurement/</guid>
       <pubDate>Mon, 02 Sep 2024 10:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>O2 玩家因 Google Pixel 9 延遲而失去冷靜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/02/o2_google_pixel_9_delays/</link>
-      <description><![CDATA[由於倉庫遷移技術故障，發貨被擱置，也無法取消訂單 如果從一些 O2* 客戶的體驗來看，Google 的 Pixel 9 手機似乎是由純 unobtainium 製成的。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/02/o2_google_pixel_9_delays/</guid>
-      <pubDate>Mon, 02 Sep 2024 09:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
