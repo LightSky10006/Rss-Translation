@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Sep 2024 21:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 22:36:34 GMT</lastBuildDate>
+    <item>
+      <title>Palo Alto 大力削弱 IBM QRadar 安全性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/</link>
+      <description><![CDATA[藍色巨人也轉向Prisma SASE，以確保其25 萬名員工的安全 Palo Alto Networks 已完成對IBM QRadar SaaS 服務的收購，斥資5 億美元購買PAN 下一代人工智慧安全的客戶份額Cortex 平台。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/</guid>
+      <pubDate>Wed, 04 Sep 2024 22:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>如果您能順利度過合規性雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 04 Sep 2024 21:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>RansomHub 威脅洩露數據，計劃生育協會確認遭受網路攻擊</title>
+      <title>RansomHub 威脅洩露數據，計劃生育協會確認網路攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</link>
       <description><![CDATA[蒙大拿州93GB 資訊擔心被無情的騙子竊取 蒙大拿州計劃生育協會首席執行官表示，該組織正在應對對其係統的網路攻擊，並已招募了聯邦執法和資訊安全專業人員協助調查和重建其 IT 環境。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[去年的 €43B 是個不錯的點心。現在是一場監管捕獲的盛宴 歐盟簽署了價值430 億歐元的《晶片法案》，希望能夠刺激歐盟的半導體製造業，16 個月後，半導體貿易組織歐洲半導體工業協會( European Semiconductor Industry Association) ( ESIA）要求更多公共資金，並要求對影響當地晶片製造商的政策決策有更多發言權。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/esia_eu_semiconductor_wishlist/</guid>
       <pubDate>Wed, 04 Sep 2024 06:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 向韓國道歉並下架了骯髒的 Deepfakes</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/telegram_south_korea_deepfake_apology/</link>
-      <description><![CDATA[不清楚這是否是一個有爭議的服務正在整頓其各地行為的跡象 有爭議的社交網絡Telegram 已與韓國當局合作，刪除了25 個描述性犯罪的視頻。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/telegram_south_korea_deepfake_apology/</guid>
-      <pubDate>Wed, 04 Sep 2024 04:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
