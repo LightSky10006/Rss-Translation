@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Sep 2024 11:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 11:34:45 GMT</lastBuildDate>
+    <item>
+      <title>Debian 雙重更新：11.11 和 12.7 同時發布</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/double_debian_update/</link>
+      <description><![CDATA[但 Bullseye 的日子已經屈指可數了，是時候考慮升級了 Debian “Bookworm” 的最新更新與 “Bullseye” 的最後一次更新同時到來，並且前方有麻煩Nvidia 舊用戶...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/double_debian_update/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>一定要抬頭看！美國太空總署在軌道上展開巨大閃亮的太陽帆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Selfie-scraper 再次聲稱歐洲法律對其不適用 荷蘭資料保護局(DPA) 因「非法」行為對備受爭議的面部識別公司Clearview AI 處以3050 萬歐元（3300 萬美元）的罰款圖像整理...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/clearview_ai_dutch_fine/</guid>
       <pubDate>Tue, 03 Sep 2024 15:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU screen 5 證明即使 37 年後它仍然有遊戲性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/gnu_screen_5/</link>
-      <description><![CDATA[二十年來的第一個主要版本值得了解 GNU screen 包含在大多數Linux 發行版中，但更新、更高級的工具（例如tmux）通常比它更出色。 ..  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/gnu_screen_5/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
