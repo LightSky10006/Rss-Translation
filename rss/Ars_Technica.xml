@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 04 Sep 2024 14:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 14:37:39 GMT</lastBuildDate>
+    <item>
+      <title>中世紀洞穴居住社區的 DNA 秘密</title>
+      <link>https://arstechnica.com/?p=2047094</link>
+      <description><![CDATA[孤立的社區以近親繁殖、暴力和虔誠的崇拜為特徵。]]></description>
+      <guid>https://arstechnica.com/?p=2047094</guid>
+      <pubDate>Wed, 04 Sep 2024 14:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特開始交付增程型 E-Transit 電動貨車</title>
+      <link>https://arstechnica.com/?p=2047080</link>
+      <description><![CDATA[新電池的充電速度更高，並且可以在運動中使用板載電源。]]></description>
+      <guid>https://arstechnica.com/?p=2047080</guid>
+      <pubDate>Wed, 04 Sep 2024 13:46:50 GMT</pubDate>
+    </item>
     <item>
       <title>高通全新 8 核心 Snapdragon 晶片瞄準更便宜的 Arm Windows PC</title>
       <link>https://arstechnica.com/?p=2046929</link>
@@ -50,7 +64,7 @@
     <item>
       <title>Linux 中的 Rust 領導者退休了，而不是處理更多“非技術廢話”</title>
       <link>https://arstechnica.com/?p=2046763</link>
-      <description><![CDATA[C 語言在內核中的霸主地位還能維持多久？]]></description>
+      <description><![CDATA[C語言在內核中的霸主地位還能維持多久？]]></description>
       <guid>https://arstechnica.com/?p=2046763</guid>
       <pubDate>Tue, 03 Sep 2024 19:38:06 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[CPU 速度又是喜憂參半的一年，但電池和顯示卡升級值得歡迎。]]></description>
       <guid>https://arstechnica.com/?p=2046729</guid>
       <pubDate>Tue, 03 Sep 2024 19:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>自然壓電效應可能形成金礦床</title>
-      <link>https://arstechnica.com/?p=2046817</link>
-      <description><![CDATA[一種不活潑、幾乎不溶的金屬最終是如何形成巨大塊的？]]></description>
-      <guid>https://arstechnica.com/?p=2046817</guid>
-      <pubDate>Tue, 03 Sep 2024 18:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼將關閉 Concord，並在兩週後向玩家退款</title>
-      <link>https://arstechnica.com/?p=2046849</link>
-      <description><![CDATA[製作八年的團隊射擊遊戲預計銷量僅 25,000 份。]]></description>
-      <guid>https://arstechnica.com/?p=2046849</guid>
-      <pubDate>Tue, 03 Sep 2024 18:26:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
