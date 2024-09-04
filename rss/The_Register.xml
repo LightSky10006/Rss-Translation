@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Sep 2024 10:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 11:09:54 GMT</lastBuildDate>
+    <item>
+      <title>一定要抬頭看！美國太空總署在軌道上展開巨大閃亮的太陽帆</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</link>
+      <description><![CDATA[亞瑟·C·克拉克(Arthur C Clarke) 撰寫Sunjammer 文章60 年後，航天局迎頭趕上 NASA 已成功將一塊80 m2（860 平方英尺）的帆送入軌道，該帆旨在捕獲太陽的排放並將其轉化為太空探索的推進力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</guid>
+      <pubDate>Wed, 04 Sep 2024 10:42:07 GMT</pubDate>
+    </item>
     <item>
       <title>管理員想知道雲端究竟是不是一個好主意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cloud_buyers_regret/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[二十年來的第一個主要版本值得了解 GNU screen 包含在大多數Linux 發行版中，但更新、更高級的工具（例如tmux）通常比它更出色。 ..  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/gnu_screen_5/</guid>
       <pubDate>Tue, 03 Sep 2024 14:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 24.04.1 登陸時請做好應對故障和 GRUB 抱怨的準備</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ubuntu_24041/</link>
-      <description><![CDATA[現在 Numbat 已經整理，你可以更換你的 Jellyfish - 如果你敢的話 Ubuntu 24.04.1 已經到來，這意味著之前的 LTS 版本 22.04「Jammy Jellyfish」的用戶將會提供更新。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/ubuntu_24041/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:07:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
