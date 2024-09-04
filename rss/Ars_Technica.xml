@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 04 Sep 2024 14:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 16:14:24 GMT</lastBuildDate>
+    <item>
+      <title>Starlink向巴西讓步，同意封鎖伊隆馬斯克的X平台</title>
+      <link>https://arstechnica.com/?p=2047158</link>
+      <description><![CDATA[Starlink：“我們正在遵守阻止訪問巴西 X 的命令。”]]></description>
+      <guid>https://arstechnica.com/?p=2047158</guid>
+      <pubDate>Wed, 04 Sep 2024 15:24:02 GMT</pubDate>
+    </item>
     <item>
       <title>中世紀洞穴居住社區的 DNA 秘密</title>
       <link>https://arstechnica.com/?p=2047094</link>
@@ -64,16 +71,9 @@
     <item>
       <title>Linux 中的 Rust 領導者退休了，而不是處理更多“非技術廢話”</title>
       <link>https://arstechnica.com/?p=2046763</link>
-      <description><![CDATA[C語言在內核中的霸主地位還能維持多久？]]></description>
+      <description><![CDATA[C 語言在內核中的霸主地位還能維持多久？]]></description>
       <guid>https://arstechnica.com/?p=2046763</guid>
       <pubDate>Tue, 03 Sep 2024 19:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾酷睿 Ultra 200V 承諾超越 Arm 的電池壽命，且不存在相容性問題</title>
-      <link>https://arstechnica.com/?p=2046729</link>
-      <description><![CDATA[CPU 速度又是喜憂參半的一年，但電池和顯示卡升級值得歡迎。]]></description>
-      <guid>https://arstechnica.com/?p=2046729</guid>
-      <pubDate>Tue, 03 Sep 2024 19:26:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
