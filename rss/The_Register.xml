@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Sep 2024 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 17:38:07 GMT</lastBuildDate>
+    <item>
+      <title>Firefox 130 帶著哈欠登陸，但 131 beta 卻帶來了期待已久的功能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/firefox_130_release/</link>
+      <description><![CDATA[即將推出的版本可能會帶來選項卡預覽、Cookie 橫幅塊和垂直選項卡 Firefox 130 即將登陸用戶的計算機，而版本131 則進入測試版- 具有我們一直在等待的功能...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/firefox_130_release/</guid>
+      <pubDate>Wed, 04 Sep 2024 17:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>「錯誤」導致 Alexa 支持卡瑪拉·哈里斯，拒絕討論川普</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/error_amazon_alexa_k/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[困擾美國外交官的是什麼- 等等，那是一架黑色直升機...... 美國政府國立衛生研究院(NIH) 對哈瓦那綜合症- 一種看似神秘的疾病進行的調查在古巴以及世界各地襲擊美國和加拿大外交官的行動在發現該研究的參與者被強迫參與後已被停止。 include virtual=&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/us_halts_havana_syndrome/</guid>
       <pubDate>Wed, 04 Sep 2024 00:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宮認為是時候解決網路不安全的問題了：是的，BGP</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/white_house_bgp_security/</link>
-      <description><![CDATA[遲到總比不到好 白宮週二表示，希望加強網際網路路由薄弱的安全性，特別是邊界網關協定 (BGP)。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/white_house_bgp_security/</guid>
-      <pubDate>Tue, 03 Sep 2024 22:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
