@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Sep 2024 02:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 02:53:08 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 據稱希望台積電 1.6nm 首次亮相</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/openai_ai_chips_tsmc/</link>
+      <description><![CDATA[博通的另一項工作，然後 OpenAI 的第一款客製化設計的矽晶片據稱將由台積電 (TSMC) 製造，該公司為 Nvidia、Apple、AMD、Intel 生產處理器，以及其他。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/openai_ai_chips_tsmc/</guid>
+      <pubDate>Wed, 04 Sep 2024 02:29:19 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，美國司法部透過新的傳票進一步推進英偉達反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nvidia_doj_subpoena/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[聚變業務希望將超導技術打入其他領域 英國核融合公司託卡馬克能源公司已成立一個獨立部門，將其為可再生能源或運輸等其他市場的反應器開發的超導磁鐵技術商業化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/tokamak_energy_magnet_spinoff/</guid>
       <pubDate>Tue, 03 Sep 2024 08:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>根據法院命令的要求，馬斯克的 Starlink 不會在巴西阻止伊隆馬斯克的 X</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</link>
-      <description><![CDATA[上訴小組維持禁令，因為Musk Xeets 引發了憤怒的風暴 巴西最高法院支持了先前的一項決定，迫使當地運營商屏蔽埃隆·馬斯克的社交網絡X，因為這位億萬富翁和南美洲國家不斷擴大。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/03/brazil_vs_x_update/</guid>
-      <pubDate>Tue, 03 Sep 2024 07:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
