@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 11:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 11:35:14 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜祝賀自己的 AI 代碼基本上有效</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/amazon_q_developer_gartner/</link>
+      <description><![CDATA[Web 服務慶祝Q Developer 被授予“領導者”稱號 週二，Amazon Web Services 花了一點時間來表揚自己，因為它被認為是在方框內，特別是右上角的方塊這是 Gartner 商標魔力像限的一部分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/amazon_q_developer_gartner/</guid>
+      <pubDate>Thu, 05 Sep 2024 11:31:15 GMT</pubDate>
+    </item>
     <item>
       <title>如果每台電腦都將成為人工智慧電腦，那麼它們最好能做到傳統電腦所能做的所有事情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ai_pc_gaming/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>隨著倫敦交通機構的網路事件持續不斷，相互指責開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/the_fingerpointing_starts_as_the/</link>
-      <description><![CDATA[網路管理員乘坐 Fright Bus 倫敦交通局 (TfL) 的「網路事件」已進入第三天，據稱一種流行的設備可能是犯罪分子的門戶獲得對組織網絡的存取權限。]]></description>
+      <description><![CDATA[網路管理員乘坐 Fright Bus 倫敦交通局 (TfL) 的「網路事件」已進入第三天，據稱一種流行的設備可能成為犯罪分子的門戶獲得對組織網絡的存取權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/the_fingerpointing_starts_as_the/</guid>
       <pubDate>Thu, 05 Sep 2024 10:00:11 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 05 Sep 2024 01:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否會以不公平的方式結束它</title>
+      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否沒有不公平地結束它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</link>
       <description><![CDATA[科技收購後的大規模裁員可能會引起更嚴格的審查 科技公司永遠會互相收購，但在四家美國聯邦監管機構決定分享他們的數據後，未來的收購可能會面臨更多審查希望能幫助反壟斷調查人員評估收購是否影響勞動市場—而不僅僅是科技市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 04 Sep 2024 21:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>RansomHub 威脅洩露數據，計劃生育協會確認遭受網路攻擊</title>
+      <title>RansomHub 威脅洩露數據，計劃生育協會確認網路攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</link>
       <description><![CDATA[蒙大拿州93GB 資訊擔心被無情的騙子竊取 蒙大拿州計劃生育協會首席執行官表示，該組織正在應對對其係統的網路攻擊，並已招募了聯邦執法和資訊安全專業人員協助調查和重建其 IT 環境。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果 AI Minnow 不是太大的競爭對手，交易就不會減少競爭 微軟對 Inflection AI 的「收購」今天被英國當局批准，理由是該新創公司不夠大因為它被微軟吸收影響了企業人工智慧領域的競爭。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/microsoft_inflection_acquihire_cma/</guid>
       <pubDate>Wed, 04 Sep 2024 15:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cicada 勒索軟體可能是 BlackCat/ALPHV 的品牌重塑和升級</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cicada_ransomware_blackcat_links/</link>
-      <description><![CDATA[研究人員發現了許多相似之處，以及令人討厭的新自訂內容，例如嵌入式受損的用戶憑證 Cicada3301 勒索軟體自6 月被發現以來已造成至少20名受害者，與據以色列端點安全公司 Morphisec 的安全研究人員稱，臭名昭著的 BlackCat 勒索軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cicada_ransomware_blackcat_links/</guid>
-      <pubDate>Wed, 04 Sep 2024 14:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
