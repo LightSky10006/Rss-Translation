@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 06:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 08:15:48 GMT</lastBuildDate>
+    <item>
+      <title>蘋果被指控欺騙英國反壟斷警察</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/apple_safari_uk_cma/</link>
+      <description><![CDATA[Mac 製造商否認 OWA 指責 Safari 的自我偏好 根據 Open 報道，蘋果公司似乎在一份試圖淡化競爭擔憂的監管文件中誤導了英國競爭和市場管理局 (CMA)網絡倡導（OWA）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/apple_safari_uk_cma/</guid>
+      <pubDate>Thu, 05 Sep 2024 07:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 起訴博通違反 VMware 支持延期合約</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/att_sues_broadcom_vmware_support/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 05 Sep 2024 06:25:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全公司 Verkada 將根據協議支付 300 萬美元罰款，該協議還強制執行資訊安全升級</title>
+      <title>安全公司 Verkada 將根據協議支付 300 萬美元罰款，該協議還強制實施資訊安全升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verkada_ftc_settlement/</link>
       <description><![CDATA[允許存取15 萬個攝像頭，其中一些位於敏感地點，但已用於發送垃圾郵件 在美國聯邦貿易委員會(FTC) 進行調查後，物理安全公司Verkada 同意支付295 萬美元– 但這筆付款並不能彌補過去的安全缺陷，包括導致特斯拉、Cloudflare 和其他公司的閉路電視錄像被窺探的錯誤。相反，罰款是針對垃圾郵件的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verkada_ftc_settlement/</guid>
@@ -48,14 +55,14 @@
       <pubDate>Wed, 04 Sep 2024 22:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>如果您能順利度過合規雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
+      <title>如果您能順利度過合規性雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</link>
-      <description><![CDATA[需要擔心的大量治理問題，以及它可能會噴出完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
+      <description><![CDATA[需要擔心的大量治理問題，以及它可能會產生完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</guid>
       <pubDate>Wed, 04 Sep 2024 21:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>RansomHub 威脅洩露數據，計劃生育協會確認遭受網路攻擊</title>
+      <title>RansomHub 威脅洩露數據，計劃生育協會確認網路攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</link>
       <description><![CDATA[蒙大拿州93GB 資訊擔心被無情的騙子竊取 蒙大拿州計劃生育協會首席執行官表示，該組織正在應對對其係統的網路攻擊，並已招募了聯邦執法和資訊安全專業人員協助調查和重建其 IT 環境。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/planned_parenthood_cybersecurity_incident/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 04 Sep 2024 16:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>atNorth 計劃建造大型資料中心，幫助種植蔬菜和為房屋供暖</title>
+      <title>atNorth 計劃大型資料中心，幫助種植蔬菜和為房屋供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</link>
       <description><![CDATA[它也將做電腦方面的工作 北歐資料中心營運商atNorth 表示，其下一個設施（迄今為止最大的設施）將為大型溫室和當地住房提供熱再利用計劃。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[但 Bullseye 的日子已經屈指可數了，是時候考慮升級了 Debian “Bookworm” 的最新更新與 “Bullseye” 的最後一次更新同時到來，並且前方有麻煩Nvidia 舊用戶...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/double_debian_update/</guid>
       <pubDate>Wed, 04 Sep 2024 11:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>一定要抬頭看！美國太空總署在軌道上展開巨大閃亮的太陽帆</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</link>
-      <description><![CDATA[亞瑟·C·克拉克(Arthur C Clarke) 撰寫Sunjammer 文章60 年後，航天局迎頭趕上 NASA 已成功將一塊80 m2（860 平方英尺）的帆送入軌道，該帆旨在捕獲太陽的排放並將其轉化為太空探索的推進力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</guid>
-      <pubDate>Wed, 04 Sep 2024 10:42:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
