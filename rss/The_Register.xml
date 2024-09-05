@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 04:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 06:41:56 GMT</lastBuildDate>
+    <item>
+      <title>AT&T 起訴博通違反 VMware 支持延期合約</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/att_sues_broadcom_vmware_support/</link>
+      <description><![CDATA[電信巨頭猛烈抨擊晶片和軟體商店試圖以高價脅迫其購買自己不想要或不需要的軟體 美國電信巨頭 AT&amp;T 聲稱 Broadcom 食言了它與VMware 達成了一項延長支持協議，並警告稱，其後果可能是客戶支援業務甚至美國總統辦公室的大規模中斷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/att_sues_broadcom_vmware_support/</guid>
+      <pubDate>Thu, 05 Sep 2024 06:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>安全公司 Verkada 將根據協議支付 300 萬美元罰款，該協議還強制執行資訊安全升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verkada_ftc_settlement/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 05 Sep 2024 01:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否會以不公平的方式結束它</title>
+      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否沒有不公平地結束它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</link>
       <description><![CDATA[科技收購後的大規模裁員可能會引起更嚴格的審查 科技公司永遠會互相收購，但在四家美國聯邦監管機構決定分享他們的數據後，未來的收購可能會面臨更多審查希望能幫助反壟斷調查人員評估收購是否影響勞動市場—而不僅僅是科技市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</guid>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 04 Sep 2024 22:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>如果您能順利度過合規性雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
+      <title>如果您能順利度過合規雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</link>
-      <description><![CDATA[需要擔心的大量治理問題，以及它可能會產生完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
+      <description><![CDATA[需要擔心的大量治理問題，以及它可能會噴出完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</guid>
       <pubDate>Wed, 04 Sep 2024 21:15:12 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 04 Sep 2024 16:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>atNorth 計劃大型資料中心，幫助種植蔬菜和為房屋供暖</title>
+      <title>atNorth 計劃建造大型資料中心，幫助種植蔬菜和為房屋供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</link>
       <description><![CDATA[它也將做電腦方面的工作 北歐資料中心營運商atNorth 表示，其下一個設施（迄今為止最大的設施）將為大型溫室和當地住房提供熱再利用計劃。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[亞瑟·C·克拉克(Arthur C Clarke) 撰寫Sunjammer 文章60 年後，航天局迎頭趕上 NASA 已成功將一塊80 m2（860 平方英尺）的帆送入軌道，該帆旨在捕獲太陽的排放並將其轉化為太空探索的推進力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/nasa_acs3_solar_sail/</guid>
       <pubDate>Wed, 04 Sep 2024 10:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理員想知道雲端究竟是不是一個好主意</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cloud_buyers_regret/</link>
-      <description><![CDATA[隨著AWS、Microsoft 和Google 提高一些價格，是時候打開投資回報率計算器了 在最初欣喜若狂地湧向雲端之後，管理員開始質疑這家科技巨頭服務的價值與承諾.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cloud_buyers_regret/</guid>
-      <pubDate>Wed, 04 Sep 2024 10:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
