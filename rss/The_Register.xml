@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 09:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 10:13:18 GMT</lastBuildDate>
+    <item>
+      <title>隨著倫敦交通機構的網路事件持續不斷，相互指責開始</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/the_fingerpointing_starts_as_the/</link>
+      <description><![CDATA[網路管理員乘坐 Fright Bus 倫敦交通局 (TfL) 的「網路事件」已進入第三天，據稱一種流行的設備可能是犯罪分子的門戶獲得對組織網絡的存取權限。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/the_fingerpointing_starts_as_the/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>律師告訴 NHS England，Palantir 聯合數據平台的關鍵方面缺乏法律依據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/fdp_lacks_legal_basis/</link>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 05 Sep 2024 01:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否沒有不公平地結束它</title>
+      <title>你只有一份工作——四名美國監管機構將分享訊息，以檢查合併是否會以不公平的方式結束它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</link>
       <description><![CDATA[科技收購後的大規模裁員可能會引起更嚴格的審查 科技公司永遠會互相收購，但在四家美國聯邦監管機構決定分享他們的數據後，未來的收購可能會面臨更多審查希望能幫助反壟斷調查人員評估收購是否影響勞動市場—而不僅僅是科技市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</guid>
@@ -69,9 +76,9 @@
       <pubDate>Wed, 04 Sep 2024 22:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>如果您能順利度過合規雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
+      <title>如果您能順利度過合規性雷區，Copilot for Microsoft 365 可能會提高工作效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</link>
-      <description><![CDATA[需要擔心的大量治理問題，以及它可能會噴出完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
+      <description><![CDATA[需要擔心的大量治理問題，以及它可能會產生完全垃圾的可能性 Microsoft 發布了 Copilot for Microsoft 365 的透明度說明，警告企業確保在滾動之前正確管理用戶訪問權限技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/copilot_microsoft_365_compliance/</guid>
       <pubDate>Wed, 04 Sep 2024 21:15:12 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 04 Sep 2024 16:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>atNorth 計劃建造大型資料中心，幫助種植蔬菜和為房屋供暖</title>
+      <title>atNorth 計劃大型資料中心，幫助種植蔬菜和為房屋供暖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</link>
       <description><![CDATA[它也將做電腦方面的工作 北歐資料中心營運商atNorth 表示，其下一個設施（迄今為止最大的設施）將為大型溫室和當地住房提供熱再利用計劃。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/atnorth_datacenter_heat_reuse/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[通訊機構現已將命令傳遞給運營商 在華盛頓將卡巴斯基軟體視為國家安全問題幾個月後，美國聯邦通信委員會(FCC) 醒悟並發布了禁止在電信套件中使用卡巴斯基軟體的禁制令風險和未來銷售受阻。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/fcc_kaspersky_ban/</guid>
       <pubDate>Wed, 04 Sep 2024 13:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>GenAI 支出泡沫？ ServiceNow 肯定說“也許”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/servicenow_remains_bullish_on_gen_ai/</link>
-      <description><![CDATA[明天它不會為客戶帶來數億美元的收入，而且科技業也有「很多噪音」 ServiceNow 正試圖向投資者保證，企業 GenAI 投資的回報即將到來，但這可能不會很快，商業客戶不應期望“明天”獲得巨額回報。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/servicenow_remains_bullish_on_gen_ai/</guid>
-      <pubDate>Wed, 04 Sep 2024 13:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
