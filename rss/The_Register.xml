@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 18:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:40:14 GMT</lastBuildDate>
+    <item>
+      <title>思科的智慧許可實用程式缺陷表明它在安全方面相當愚蠢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</link>
+      <description><![CDATA[兩個關鍵漏洞，包括硬編碼的管理員憑證 如果您正在運行思科所謂的智慧許可實用程序，那麼您現在應該修補兩個缺陷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</guid>
+      <pubDate>Thu, 05 Sep 2024 18:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Verizon 收購 Frontier 20B 美元光纖電力業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verizon_acquire_frontier/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[科技收購後的大規模裁員可能會引起更嚴格的審查 科技公司永遠會互相收購，但在四家美國聯邦監管機構決定分享他們的數據後，未來的收購可能會面臨更多審查希望能幫助反壟斷調查人員評估收購是否影響勞動市場—而不僅僅是科技市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/mergers_us_layoffs/</guid>
       <pubDate>Wed, 04 Sep 2024 23:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕洛阿爾托從 IBM QRadar 手中獲得了 5 億美元的巨額收購</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/</link>
-      <description><![CDATA[藍色巨人也轉向Prisma SASE，以確保其250,000 名員工的安全 Palo Alto Networks 已完成對IBM QRadar SaaS 產品的收購，斥資5 億美元收購該服務的客戶，並希望將他們轉移到自己的 Cortex 平台。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/palo_alto_networks_ibm_qradar/</guid>
-      <pubDate>Wed, 04 Sep 2024 22:15:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
