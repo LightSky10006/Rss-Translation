@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Sep 2024 10:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 11:10:52 GMT</lastBuildDate>
+    <item>
+      <title>如果每台電腦都將成為人工智慧電腦，那麼它們最好能做到傳統電腦所能做的所有事情</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ai_pc_gaming/</link>
+      <description><![CDATA[微軟的 Copilot+ 機器在計算最古老的用例之一上表現不佳 評論  大量電腦使用者正在意識到 Microsoft 的第一批 Copilot+ 機器 - 筆記型電腦能夠進行本地人工智慧處理——只是不太擅長沼澤標準用例。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ai_pc_gaming/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:45:15 GMT</pubDate>
+    </item>
     <item>
       <title>隨著倫敦交通機構的網路事件持續不斷，相互指責開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/the_fingerpointing_starts_as_the/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員發現了許多相似之處，以及令人討厭的新自訂內容，例如嵌入式受損的用戶憑證 Cicada3301 勒索軟體自6 月被發現以來已造成至少20名受害者，與據以色列端點安全公司 Morphisec 的安全研究人員稱，臭名昭著的 BlackCat 勒索軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/cicada_ransomware_blackcat_links/</guid>
       <pubDate>Wed, 04 Sep 2024 14:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 終於開始禁止卡巴斯基使用電信套件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/04/fcc_kaspersky_ban/</link>
-      <description><![CDATA[通訊機構現已將命令傳遞給運營商 在華盛頓將卡巴斯基軟體視為國家安全問題幾個月後，美國聯邦通信委員會(FCC) 醒悟並發布了禁止在電信套件中使用卡巴斯基軟體的禁制令風險和未來銷售受阻。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/04/fcc_kaspersky_ban/</guid>
-      <pubDate>Wed, 04 Sep 2024 13:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
