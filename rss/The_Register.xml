@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 14:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:35:58 GMT</lastBuildDate>
+    <item>
+      <title>經過 $1.9B 逢低買進後，Salesforce 現在擁有自己的公司</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/salesforce_own_company/</link>
+      <description><![CDATA[收購 SaaS 備份供應商結束大型合併暫停 採用自己公司的技術後，Salesforce 決定以 19 億美元現金收購 SaaS 資料保護與資料管理公司。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/salesforce_own_company/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>競爭監管機構指控Google濫用廣告主導地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/uks_competition_watchdog_takes_issue/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[兩個關鍵漏洞，包括硬編碼的管理員憑證 如果您正在運行思科所謂的智慧許可實用程序，那麼您現在應該修補兩個缺陷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</guid>
       <pubDate>Thu, 05 Sep 2024 18:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verizon 收購 Frontier 20B 美元光纖電力業務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verizon_acquire_frontier/</link>
-      <description><![CDATA[標誌著又一輪電信整合 Verizon 將以200 億美元的全現金收購Frontier Communications，這家一級營運商表示，該交易將增強其橫跨31 個州和華盛頓特區的光纖網絡，因為該行業正在經歷另一輪電信整合。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verizon_acquire_frontier/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
