@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 19:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 20:13:21 GMT</lastBuildDate>
+    <item>
+      <title>思科商品購物者在 Magecart 攻擊中被刺傷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/cisco_merch_adobe_magento_attack/</link>
+      <description><![CDATA[「安全問題」是由AdAdobe 在6 月修補的Magento 9.8 級缺陷引起的 對於本月初購買思科連帽衫的任何人來說都是壞消息：疑似俄羅斯攻擊者註入了數據 -將 JavaScript 竊取到網路巨頭銷售 Cisco 品牌商品的線上商店。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/cisco_merch_adobe_magento_attack/</guid>
+      <pubDate>Fri, 06 Sep 2024 20:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>ESA 首次在太空中列印 3D 金屬形狀</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/esa_metal_3d_printing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Pi Pico 2 晶片也存在問題 Fedora 41 即將衝刺，但目前受到 Raspberry Pi 支援問題的困擾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/pi_and_pico_problems/</guid>
       <pubDate>Thu, 05 Sep 2024 21:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>上訴法院稱，網路檔案館的數位借閱當然違反了法律</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/appeals_court_internet_archive_copyright/</link>
-      <description><![CDATA[抱歉，不，未經許可，您不能直接數位化、分享受版權保護的書籍 美國第二巡迴上訴法院週三確認了下級法院的一項裁決，即互聯網檔案館對受版權保護的書籍進行數位化和電子分發印刷書籍違反了美國法律。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/appeals_court_internet_archive_copyright/</guid>
-      <pubDate>Thu, 05 Sep 2024 20:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
