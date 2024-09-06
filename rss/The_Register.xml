@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 03:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 04:38:16 GMT</lastBuildDate>
+    <item>
+      <title>NASA 的太陽帆飛船正在翻滾，但這是計劃的一部分</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nasa_solar_sail_acs3/</link>
+      <description><![CDATA[當你可以利用太陽輻射來推動太空船前進時，誰還需要發動機或燃料？按預期工作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nasa_solar_sail_acs3/</guid>
+      <pubDate>Fri, 06 Sep 2024 04:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>博通的VMware營收反彈，晶片有點未成熟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/broadcom_q3_2024/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Web 服務市集慶祝 Q Developer 被授予「領導者」稱號 週二，Amazon Web Services 花了一些時間來表揚自己，因為它被認為是在盒子內部，特別是右上角正方形是Gartner 商標魔力像限的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/amazon_q_developer_gartner/</guid>
       <pubDate>Thu, 05 Sep 2024 11:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果每台電腦都將成為人工智慧電腦，那麼它們最好能做到傳統電腦所能做的所有事情</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ai_pc_gaming/</link>
-      <description><![CDATA[微軟的 Copilot+ 機器在計算最古老的用例之一上表現不佳 評論  大量電腦使用者正在意識到 Microsoft 的第一批 Copilot+ 機器 - 筆記型電腦能夠進行本地人工智慧處理——只是不太擅長沼澤標準用例。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ai_pc_gaming/</guid>
-      <pubDate>Thu, 05 Sep 2024 10:45:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
