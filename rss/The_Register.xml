@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 21:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 22:11:17 GMT</lastBuildDate>
+    <item>
+      <title>谷歌表示用 Rust 取代韌體中的 C/C++ 很容易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/google_rust_c_code_language/</link>
+      <description><![CDATA[當試圖轉變編碼老手時，情況就不那麼嚴重了 Google 最近使用Rust 程式語言重寫了其Android 虛擬化框架中受保護虛擬機的固件，並希望您也這樣做，假設您處理的是韌體...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/google_rust_c_code_language/</guid>
+      <pubDate>Fri, 06 Sep 2024 21:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>川普任命馬斯克領導「政府效率」工作小組</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/musk_government_efficiency_trump/</link>
-      <description><![CDATA[當然，這項職責的執行不會對NHTSA、FAA、DOJ、NLRB 產生偏見 如果共和黨總統候選人唐納德·特朗普(Donald Trump) 贏得11 月份的選舉，他計劃建立一個基於以下基礎的「政府效率委員會」：來自 Tesla、SpaceX 和 X 執行長 Elon Musk 的想法，他也將領導該機構。]]></description>
+      <description><![CDATA[當然，這項職責的履行不會對NHTSA、FAA、DOJ、NLRB 產生偏見 如果共和黨總統候選人唐納德·特朗普(Donald Trump) 贏得11 月份的選舉，他計劃成立一個基於以下原則的「政府效率委員會」：來自 Tesla、SpaceX 和 X 執行長 Elon Musk 的想法，他也將領導該機構。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/musk_government_efficiency_trump/</guid>
       <pubDate>Fri, 06 Sep 2024 21:00:06 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>據報道，高通正在關注英特爾的個人電腦設計業務等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/qualcomm_reportedly_looking_to_strip/</link>
-      <description><![CDATA[Chipzilla 尚未倒閉，但禿鷹正在盤旋 據報道，高通打算通過剝離這家境況不佳的芯片製造商的零部件來從英特爾的財務困境中獲利。  ]]></description>
+      <description><![CDATA[Chipzilla 尚未倒閉，但禿鷹正在盤旋 據報道，高通公司旨在通過剝離陷入困境的芯片製造商的零部件來從英特爾的財務困境中獲利。  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/qualcomm_reportedly_looking_to_strip/</guid>
       <pubDate>Fri, 06 Sep 2024 18:00:08 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>Nvidia 和好友為 Applied Digital 注入 1.6 億美元，以保持 GPU 銷售持續成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</link>
-      <description><![CDATA[資料中心是300 億美元機器學習推動繁榮的生命線 人工智慧使GPU 成為地球上最熱門的商品之一，僅在第二季度就為Nvidia 帶來了超過300 億美元的收入。但是，如果沒有資料中心，晶片巨頭及其客戶就沒有地方放置所有這些技術。 ...]]></description>
+      <description><![CDATA[資料中心是300 億美元機器學習推動繁榮的生命線 人工智慧使GPU 成為地球上最熱門的商品之一，僅在第二季度就為Nvidia 帶來了超過300 億美元的收入。但是，如果沒有資料中心，這家晶片巨頭及其客戶就沒有地方放置所有這些技術。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</guid>
       <pubDate>Fri, 06 Sep 2024 00:56:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[供應鏈、1300 萬個工作崗位和每年 649B 美元面臨風險，因此山姆大叔正在反擊 - 要求提供信息 美國國土安全部正在尋求幫助來評估技術的安全性在海港，以保障國家碼頭創造的1300 萬個就業機會和6,490 億美元的經濟活動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/dhs_maritime_ports_cybersecurity/</guid>
       <pubDate>Thu, 05 Sep 2024 23:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宮針對網路工作缺口的新解決方案：在資訊安全領域為國家服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/white_house_cyber_jobs/</link>
-      <description><![CDATA[現在請履行你的愛國職責，填補這50 萬個空缺職位中的一個嗎？ ：將網路作為一項國家服務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/white_house_cyber_jobs/</guid>
-      <pubDate>Thu, 05 Sep 2024 22:04:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
