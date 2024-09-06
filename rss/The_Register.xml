@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 07:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 08:39:14 GMT</lastBuildDate>
+    <item>
+      <title>橡樹嶺研究人員利用 Quantum Brilliance 讓超級電腦在室溫下閃閃發光</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/ornl_quantum_brilliance/</link>
+      <description><![CDATA[以鑽石為基礎的加速器可以幫助解決科學問題 橡樹嶺國家實驗室(ORNL) 正在與一家名為Quantum Brilliance 的公司合作，致力於量子系統和高性能計算(HPC) 的集成，以解決科學問題......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/ornl_quantum_brilliance/</guid>
+      <pubDate>Fri, 06 Sep 2024 08:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>為了修補這個伺服器，我們需要讓某人喝醉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有產品？沒問題！ Safe Superintelligence (SSI) 剛剛獲得超過 10 億美元的投資者資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/ssi_funding/</guid>
       <pubDate>Thu, 05 Sep 2024 13:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel Arrow Lake 將在其他地方生產，因為 20A 製程節點已被封裝</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/intel_arrow_lake/</link>
-      <description><![CDATA[與此同時，據報道博通對18A 晶圓不滿意 有關英特爾的令人驚訝的消息不斷出現，該晶片製造商誓言使用外部代工廠代替自己的20A 工藝來製造即將推出的Arrow Lake 處理器。 html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/intel_arrow_lake/</guid>
-      <pubDate>Thu, 05 Sep 2024 13:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
