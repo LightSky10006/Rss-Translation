@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 16:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 17:10:31 GMT</lastBuildDate>
+    <item>
+      <title>荷蘭政府取消山姆大叔對 ASML 的出口措施</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/dutch_asml_export_controls/</link>
+      <description><![CDATA[光刻巨頭向客戶保證，它不會受到新的限制 在宣布擴大荷蘭政府在出口管制措施中的作用後，ASML 已採取行動向客戶和投資者保證，它不會受到新的限制...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/dutch_asml_export_controls/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>經過 $1.9B 逢低買進後，Salesforce 現在擁有自己的公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/salesforce_own_company/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 06 Sep 2024 14:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>國防人工智慧模型“存在生命風險”，聲稱遭到科技公司的拒絕</title>
+      <title>國防人工智慧模型“對生命構成威脅”，聲稱遭到科技公司的拒絕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/defense_ai_models_risk/</link>
       <description><![CDATA[Chatterbox Labs 執行長聲稱首席數位和人工智慧辦公室不公平地取消了一份合同，然後指控他勒索 深入  Chatterbox Labs 執行長丹尼·科爾曼(Danny Coleman) 聲稱，在三分之二之後他花了半年的無償工作為美國國防部提供“負責任的人工智能”工具，結果發現自己被指控試圖敲詐政府。 /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/defense_ai_models_risk/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>美國收緊對中國、伊朗、俄羅斯量子套件和晶片的出口管制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/us_rolls_out_new_export/</link>
-      <description><![CDATA[合金也榜上有名，因為盟友試圖確保敵人無法將技術武器化 美國加強了對量子計算和半導體技術的出口管制，以解決敵人提出的國防和外交政策擔憂包括中國、伊朗和俄羅斯。]]></description>
+      <description><![CDATA[合金也榜上有名，因為盟友試圖確保敵人無法將技術武器化 美國加強了對量子計算和半導體技術的出口管制，以解決敵人提出的國防和外交政策問題包括中國、伊朗和俄羅斯。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/us_rolls_out_new_export/</guid>
       <pubDate>Fri, 06 Sep 2024 00:28:11 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 05 Sep 2024 20:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>推動人工智慧的 Adob​​e 表示，如果人工智慧能節省時間，害羞的上班族就會喜歡人工智慧</title>
+      <title>推動人工智慧發展的 Adob​​e 表示，如果人工智慧能夠節省時間，害羞的辦公室職員將會喜歡人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/aishy_office_workers_ignore_concerns/</link>
       <description><![CDATA[知識工作者被知識任務壓得喘不過氣？我們知道您需要什麼 Adobe 最近對1,000 多名美國人進行了調查，了解他們對人工智慧的看法，發現如果人工智慧能為他們節省大量時間，他們就可以克服因人工智慧而失去工作的擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/aishy_office_workers_ignore_concerns/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[聯邦政府懸賞 1000 萬美元追查這六人的行踪 美國今天指控五名俄羅斯軍事情報官員和一名平民涉嫌參與 2022 年 1 月針對烏克蘭進行的數據擦除 WhisperGate 活動在地面入侵開始之前......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/uncle_sam_charges_russian_gru/</guid>
       <pubDate>Thu, 05 Sep 2024 19:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科的智慧許可實用程式缺陷表明它在安全方面相當愚蠢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</link>
-      <description><![CDATA[兩個關鍵漏洞，包括硬編碼的管理員憑證 如果您正在運行思科所謂的智能許可實用程序，那麼您現在應該修補兩個缺陷。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</guid>
-      <pubDate>Thu, 05 Sep 2024 18:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
