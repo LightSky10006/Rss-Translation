@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 06 Sep 2024 10:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 11:11:30 GMT</lastBuildDate>
+    <item>
+      <title>「小子夏天」的結束並不像你想像的那樣</title>
+      <link>https://www.wired.com/story/the-end-of-brat-summer-does-not-mean-what-you-think/</link>
+      <description><![CDATA[是的，這意味著我們正在進入端莊的秋天，甚至是 PSL 時間，但這也表明季節本身正在被迷因文化所扭曲。]]></description>
+      <guid>https://www.wired.com/story/the-end-of-brat-summer-does-not-mean-what-you-think/</guid>
+      <pubDate>Fri, 06 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>心理保健公司不安全資料庫暴露的治療療程</title>
+      <link>https://www.wired.com/story/confidant-health-therapy-records-database-exposure/</link>
+      <description><![CDATA[治療過程的視訊和音訊、文字記錄和其他患者記錄意外暴露在虛擬醫療公司 Confidant Health 運營的可公開存取的資料庫中。]]></description>
+      <guid>https://www.wired.com/story/confidant-health-therapy-records-database-exposure/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧和 Deepfakes 能否影響美國大選？</title>
       <link>https://www.wired.com/story/deepfake-porn-election/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>伊隆馬斯克在巴西已將自己逼入絕境</title>
       <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
-      <description><![CDATA[在就 X 和 Starlink 在該國的運營問題與法官發生公開對峙後，馬斯克 (Elon Musk) 表現出了動搖的跡象。]]></description>
+      <description><![CDATA[在就 X 和 Starlink 在該國的營運問題與法官發生公開對峙後，馬斯克 (Elon Musk) 表現出了動搖的跡象。]]></description>
       <guid>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</guid>
       <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>美國司法部：俄羅斯針對遊戲玩家和少數族裔進行宣傳，以左右 2024 年選舉</title>
       <link>https://www.wired.com/story/project-good-old-usa-russia-2024-election/</link>
-      <description><![CDATA[新近公開的法庭文件以前所未有的細節揭示了一項名為「好舊美國計畫」的活動，俄羅斯當局認為該活動可能會影響美國大選。]]></description>
+      <description><![CDATA[新近啟封的法庭文件以前所未有的細節揭示了一項名為「好舊美國計畫」的活動，俄羅斯當局認為該活動可能會影響美國大選。]]></description>
       <guid>https://www.wired.com/story/project-good-old-usa-russia-2024-election/</guid>
       <pubDate>Thu, 05 Sep 2024 18:10:07 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Thu, 05 Sep 2024 16:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌照片正在註入 Gemini 來增強其搜尋能力</title>
+      <title>谷歌照片正在註入 Gemini 來增強其搜尋功能</title>
       <link>https://www.wired.com/story/google-photos-ask-photos-gemini/</link>
       <description><![CDATA[「詢問照片」是一種在不斷擴大的圖像庫中尋找特定照片的對話方式。]]></description>
       <guid>https://www.wired.com/story/google-photos-ask-photos-gemini/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[該市的短期居留法旨在降低租金並為全職居民開放公寓。批評者聲稱數據顯示它不起作用。]]></description>
       <guid>https://www.wired.com/story/new-york-city-airbnb-law-one-year-results/</guid>
       <pubDate>Thu, 05 Sep 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路驚悚片《紅色房間》如何在發行之前就成為邪教經典</title>
-      <link>https://www.wired.com/story/red-rooms-cult-classic-piracy/</link>
-      <description><![CDATA[《紅色房間》講述的是發生在網路黑暗角落的事。自然地，它在那裡找到了一批盜版粉絲。]]></description>
-      <guid>https://www.wired.com/story/red-rooms-cult-classic-piracy/</guid>
-      <pubDate>Thu, 05 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>選舉否認者終於有了自己的應用程序</title>
-      <link>https://www.wired.com/story/election-deniers-vote-alert-app/</link>
-      <description><![CDATA[競選活動還剩 60 天，否認選舉組織 True the Vote 推出了一款新應用程序，以便支持者可以分享、宣傳和報告選舉陰謀。]]></description>
-      <guid>https://www.wired.com/story/election-deniers-vote-alert-app/</guid>
-      <pubDate>Thu, 05 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
