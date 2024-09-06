@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Sep 2024 12:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 14:11:46 GMT</lastBuildDate>
+    <item>
+      <title>競爭監管機構指控Google濫用廣告主導地位</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/uks_competition_watchdog_takes_issue/</link>
+      <description><![CDATA[臨時調查結果呼應了美國和歐盟對這家搜索巨頭主導地位的擔憂 英國競爭與市場管理局(CMA) 對Google 涉嫌濫用其在搜索領域的主導地位進行了臨時處罰。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/uks_competition_watchdog_takes_issue/</guid>
+      <pubDate>Fri, 06 Sep 2024 14:01:08 GMT</pubDate>
+    </item>
     <item>
       <title>國防人工智慧模型“存在生命風險”，聲稱遭到科技公司的拒絕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/defense_ai_models_risk/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>Nvidia 和好友為 Applied Digital 注入 1.6 億美元，以保持 GPU 銷售持續成長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</link>
-      <description><![CDATA[資料中心是300 億美元機器學習推動繁榮的生命線 人工智慧使GPU 成為地球上最熱門的商品之一，僅在第二季度就為Nvidia 帶來了超過300 億美元的收入。但是，如果沒有資料中心，這家晶片巨頭及其客戶就沒有地方放置所有這些技術。 ...]]></description>
+      <description><![CDATA[資料中心是300 億美元機器學習推動繁榮的生命線 人工智慧使GPU 成為地球上最熱門的商品之一，僅在第二季度就為Nvidia 帶來了超過300 億美元的收入。但是，如果沒有資料中心，晶片巨頭及其客戶就沒有地方放置所有這些技術。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</guid>
       <pubDate>Fri, 06 Sep 2024 00:56:11 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Thu, 05 Sep 2024 20:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>推動人工智慧的 Adob​​e 表示，如果人工智慧能節省時間，害羞的上班族就會喜歡人工智慧</title>
+      <title>推動人工智慧發展的 Adob​​e 表示，如果人工智慧能夠節省時間，害羞的辦公室職員將會喜歡人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/aishy_office_workers_ignore_concerns/</link>
-      <description><![CDATA[知識工作者被知識任務壓得喘不過氣？我們知道您需要什麼 Adobe 最近對1,000 多名美國人進行了調查，了解他們對人工智慧的看法，發現如果人工智慧能為他們節省大量時間，他們就可以克服因人工智慧而失去工作的擔憂。]]></description>
+      <description><![CDATA[知識工作者是否被知識任務壓得喘不過氣？我們知道您需要什麼 Adobe 最近對1,000 多名美國人進行了調查，了解他們對人工智慧的看法，發現如果人工智慧能為他們節省大量時間，他們就可以克服因人工智慧而失去工作的擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/aishy_office_workers_ignore_concerns/</guid>
       <pubDate>Thu, 05 Sep 2024 20:30:07 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>思科的智慧許可實用程式缺陷表明它在安全方面相當愚蠢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</link>
-      <description><![CDATA[兩個關鍵漏洞，包括硬編碼的管理員憑證 如果您正在運行思科所謂的智能許可實用程序，那麼您現在應該修補兩個缺陷。]]></description>
+      <description><![CDATA[兩個關鍵漏洞，包括硬編碼的管理員憑證 如果您正在運行思科所謂的智慧許可實用程序，那麼您現在應該修補兩個缺陷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/cisco_smart_licensing_utility_flaws/</guid>
       <pubDate>Thu, 05 Sep 2024 18:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>Verizon 斥資 20B 美元收購 Frontier 光纖電力業務</title>
+      <title>Verizon 收購 Frontier 20B 美元光纖電力業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verizon_acquire_frontier/</link>
       <description><![CDATA[標誌著又一輪電信整合 Verizon 將以200 億美元的全現金收購Frontier Communications，這家一級營運商表示，該交易將增強其橫跨31 個州和華盛頓特區的光纖網絡，因為該行業正在經歷另一輪電信整合。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/verizon_acquire_frontier/</guid>
       <pubDate>Thu, 05 Sep 2024 17:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>停駛 13 天后，Kaseya 的 Traverse 之旅今天會恢復活力嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/05/traverse_outage_continues/</link>
-      <description><![CDATA[網路監控工具基礎設施中的「潛在問題」導致長時間持續停機 今天就是這樣。或許。經過長時間的“維護”，Kaseya 的 Traverse 平台終於重新啟動並運行。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/05/traverse_outage_continues/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
