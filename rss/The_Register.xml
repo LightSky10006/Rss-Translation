@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 07 Sep 2024 08:37:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:51:18 GMT</lastBuildDate>
+    <item>
+      <title>儘管存在網路攻擊，水安全標準仍然是一個白日夢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/07/us_water_cyberattacks/</link>
+      <description><![CDATA[白宮圍繞著兩項法規進行浮動 這聽起來像是一個糟糕笑話的開始：來自中國、俄羅斯和伊朗的數位入侵者闖入了美國的供水系統。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/07/us_water_cyberattacks/</guid>
+      <pubDate>Sat, 07 Sep 2024 12:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>血液學家製造了數十億個奈米機器人，無需手術即可對抗腦動脈瘤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/07/nanobots_brain_aneurysms/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[執行長表示非 AI 晶片市場已觸底 Broadcom 針對 VMware 的扭虧為盈計畫似乎正在發揮作用，這家晶片和軟體製造商報告收入同比增長 47%，但還公佈了虧損。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/broadcom_q3_2024/</guid>
       <pubDate>Fri, 06 Sep 2024 02:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 和好友為 Applied Digital 注入 1.6 億美元，以保持 GPU 銷售持續成長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</link>
-      <description><![CDATA[資料中心是300 億美元機器學習推動繁榮的生命線 人工智慧使GPU 成為地球上最熱門的商品之一，僅在第二季度就為Nvidia 帶來了超過300 億美元的收入。但是，如果沒有資料中心，晶片巨頭及其客戶就沒有地方放置所有這些技術。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/nvidia_applied_digital_gpu_funding/</guid>
-      <pubDate>Fri, 06 Sep 2024 00:56:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
