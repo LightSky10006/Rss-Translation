@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 07 Sep 2024 23:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 12:20:07 GMT</lastBuildDate>
+    <item>
+      <title>Xockets 飆升 Nvidia：Blackwell 首次亮相受到 DPU 專利索賠的威脅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/08/xockets_dpu_patent_nvidia_microsoft/</link>
+      <description><![CDATA[GPU巨頭被指控與微軟勾結，RPX邊緣化新創公司 Nvidia捲入反壟斷和專利訴訟，指控GPU巨頭與微軟和智慧財產權風險管理公司RPX勾結抄襲資料處理單元( DPU) 開發商Xockets 的設計。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/08/xockets_dpu_patent_nvidia_microsoft/</guid>
+      <pubDate>Sun, 08 Sep 2024 11:53:09 GMT</pubDate>
+    </item>
     <item>
       <title>Uber 司機如何評價 Waymo？ “我們已經煮熟了”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/07/uber_driver_waymo/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當維護窗口難以打開時，一點潤滑會有所幫助 隨叫隨到  The Register 了解飲酒是一種非常流行的排風方式工作週結束後，每個星期五我們都會提前開始聚會，並推出新的、清醒的待命專欄，讀者貢獻專欄，您在其中分享您在提供技術支持時所獲得的情感宿醉的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/on_call/</guid>
       <pubDate>Fri, 06 Sep 2024 07:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL 之王 Larry Ellison 成為繼任蘇丹，並擁有派拉蒙環球 (Paramount Global) 的控股權</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/larry_ellison_paramount_global/</link>
-      <description><![CDATA[哦，太棒了：另一位科技億萬富翁擁有一家媒體公司- 儘管他的兒子可能負責運營 甲骨文創始人兼首席技術官拉里·埃里森(Larry Ellison) 據透露持有美國媒體巨頭派拉蒙環球(Paramount Global) 的控股權。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/larry_ellison_paramount_global/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
