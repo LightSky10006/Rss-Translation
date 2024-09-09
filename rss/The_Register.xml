@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Sep 2024 15:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 15:36:37 GMT</lastBuildDate>
+    <item>
+      <title>Cluster II 太空船重新進入並燃燒，並向其控制器發出了信號</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/esa_cluster_salsa_farewell/</link>
+      <description><![CDATA[Salsa 的最後一幕：提醒我們人類始終都是人類 歐洲航天局 (ESA) 告別了 Cluster II 航天器，並發出了最後一組命令，以表明工程師確實是人類. ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/esa_cluster_salsa_farewell/</guid>
+      <pubDate>Mon, 09 Sep 2024 15:15:54 GMT</pubDate>
+    </item>
     <item>
       <title>Rapidus 資金耗盡，2 奈米晶片工廠需要 7 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/rapidus_government_funding/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 09 Sep 2024 14:46:27 GMT</pubDate>
     </item>
     <item>
-      <title>與克里姆林宮有關聯的 COLDRIVER 騙子利用親民主非政府組織進行網路釣魚</title>
+      <title>與克里姆林宮有聯繫的 COLDRIVER 騙子利用親民主非政府組織進行網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_coldriver_ngo_phishing/</link>
       <description><![CDATA[旨在遏制對普丁政權威脅的眾多嘗試中的最新一項 俄羅斯的一個民主非政府組織表示，看起來與克里姆林宮有關聯的COLDRIVER 組織是上個月黑客洩露事件的幕後黑手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_coldriver_ngo_phishing/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 09 Sep 2024 12:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Noble 更新暫停，20 週年預告片帶來復古風格禮物</title>
+      <title>Ubuntu Noble 更新暫停，20 週年預告片中包含復古風格的禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</link>
       <description><![CDATA[22.04 到 24.04 的升級暫時取消，但將會恢復 Ubuntu 24.04.1 仍然可用，但目前您無法從 Jammy Jellyfish 更新到它，直到 bug 得到解決。作為補償，24.10 會推出一些有趣的好東西。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[對兔子來說是個好消息，也許很快對人類來說也是好消息？手術的方式治療人類腦動脈瘤...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/07/nanobots_brain_aneurysms/</guid>
       <pubDate>Sat, 07 Sep 2024 08:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 敦促阻止科技製造商在購買設備後降級</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/consumer_ftc_software_tethering/</link>
-      <description><![CDATA[他們不想支持一些磚頭設備，終止驅動功能的應用程序，或添加售後訂閱 消費者和數位權利活動人士呼籲美國聯邦貿易委員會阻止設備製造商使用軟體減少產品功能，將不受歡迎的套件變磚，或在購買後增加驚喜費用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/consumer_ftc_software_tethering/</guid>
-      <pubDate>Fri, 06 Sep 2024 23:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
