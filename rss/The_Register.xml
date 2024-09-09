@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Sep 2024 11:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 11:35:45 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu Noble 更新暫停，20 週年預告片中包含復古風格的禮物</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</link>
+      <description><![CDATA[22.04 到 24.04 的升級暫時取消，但將會恢復 Ubuntu 24.04.1 仍然可用，但目前您無法從 Jammy Jellyfish 更新到它，直到 bug 得到解決。作為補償，24.10 會推出一些有趣的好東西。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:25:11 GMT</pubDate>
+    </item>
     <item>
       <title>Ofcom 準備審查寬頻市場規則，Openreach 搭建帳篷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/openreach_review_ofcom_prep/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[技術演示為任務期間生產備件和工具鋪平了道路 歐洲航天局(ESA) 展示了在國際空間站(ISS) 上打印的第一個3D 金屬部件。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/esa_metal_3d_printing/</guid>
       <pubDate>Fri, 06 Sep 2024 19:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，高通正關注英特爾的個人電腦設計業務等</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/06/qualcomm_intel_rumors/</link>
-      <description><![CDATA[Chipzilla 尚未倒閉，但禿鷹正在盤旋 據報道，高通打算通過剝離這家境況不佳的芯片製造商的零部件來從英特爾的財務困境中獲利。  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/06/qualcomm_intel_rumors/</guid>
-      <pubDate>Fri, 06 Sep 2024 18:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
