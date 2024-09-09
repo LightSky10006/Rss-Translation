@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Sep 2024 17:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 18:41:29 GMT</lastBuildDate>
+    <item>
+      <title>為了提高盈利能力，Mobileye 放棄了光達並裁員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/mobileye_cut_lidar_layoff/</link>
+      <description><![CDATA[但是 LiDAR 到 2024 年還會出現在雷達上嗎？敏銳的觀察者來說，它可能正在尋找任何省錢的方法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/mobileye_cut_lidar_layoff/</guid>
+      <pubDate>Mon, 09 Sep 2024 18:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>當企業苦苦思考商業案例時，GenAI 的炒作遇到了嚴酷的現實</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/equinix_ai_business_case/</link>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 09 Sep 2024 14:46:27 GMT</pubDate>
     </item>
     <item>
-      <title>與克里姆林宮有聯繫的 COLDRIVER 騙子利用親民主非政府組織進行網路釣魚</title>
+      <title>與克里姆林宮有關聯的 COLDRIVER 騙子利用親民主非政府組織進行網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_coldriver_ngo_phishing/</link>
       <description><![CDATA[旨在遏制對普丁政權威脅的眾多嘗試中的最新一項 俄羅斯的一個民主非政府組織表示，看起來與克里姆林宮有關聯的COLDRIVER 組織是上個月黑客洩露事件的幕後黑手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_coldriver_ngo_phishing/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 09 Sep 2024 12:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu Noble 更新暫停，20 週年預告片中包含復古風格的禮物</title>
+      <title>Ubuntu Noble 更新暫停，20 週年預告片帶來復古風格禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</link>
       <description><![CDATA[22.04 到 24.04 的升級暫時取消，但將會恢復 Ubuntu 24.04.1 仍然可用，但目前您無法從 Jammy Jellyfish 更新到它，直到 bug 得到解決。作為補償，24.10 會推出一些有趣的好東西。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/ubuntu_noble_updates_on_hold/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[GPU巨頭被指控與微軟勾結，RPX邊緣化新創公司 Nvidia捲入反壟斷和專利訴訟，指控GPU巨頭與微軟和智慧財產權風險管理公司RPX勾結抄襲資料處理單元( DPU) 開發商Xockets 的設計。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/08/xockets_dpu_patent_nvidia_microsoft/</guid>
       <pubDate>Sun, 08 Sep 2024 11:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber 司機如何評價 Waymo？ “我們已經煮熟了”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/07/uber_driver_waymo/</link>
-      <description><![CDATA[機器人計程車，低薪可能是舊金山應用計程車司機的路的盡頭 功能  前幾天接我的Uber 司機認為這趟車不值一提-共享應用程式在舊金山有很大的未來。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/07/uber_driver_waymo/</guid>
-      <pubDate>Sat, 07 Sep 2024 17:14:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
