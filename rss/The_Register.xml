@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Sep 2024 19:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 20:35:45 GMT</lastBuildDate>
+    <item>
+      <title>OneFileLinux：一個小型恢復發行版，非常適合您的 EFI 系統分割區</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</link>
+      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，它完全從UEFI 系統分區運行，不需要可啟動的USB 密鑰或任何其他東西。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</guid>
+      <pubDate>Mon, 09 Sep 2024 20:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>據報道，俄羅斯絕密軍事單位密謀「破壞」海底電纜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_readies_submarine_cable_sabotage/</link>
+      <description><![CDATA[美國對克里姆林宮在全球範圍內的海軍活動加劇感到震驚 據報道，俄羅斯在海底電纜附近的海軍活動正在引起美國官員的密切關注，進一步引發人們對克里姆林宮可能密謀透過秘密的、專門的軍事單位，稱為總參謀部深海研究總局（GUGI）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_readies_submarine_cable_sabotage/</guid>
+      <pubDate>Mon, 09 Sep 2024 20:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>美國能源部投入 2,300 萬美元重振超級運算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/doe_supercomputing_bottlenecks/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[防止這種情況是可行的，但管理人工智慧讓人不安時發生的情況很難 採用人工智慧的組織需要學習如何管理科技造成的情感和金錢成本，同時還要擔心獲得生產力收益，據分析公司 Gartner 稱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/gartner_synmposium_ai_opinion/</guid>
       <pubDate>Mon, 09 Sep 2024 03:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Predator 間諜軟體更新了危險的新功能，現在也更難追蹤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/predator_spyware_trump_crypto/</link>
-      <description><![CDATA[另外：川普家族 X 帳號被劫持以推廣加密貨幣詐騙；霧勒索軟體蔓延；劫持 PyPI 包；以及更多 資訊安全簡介 在激活其變色龍領域並在今年早些時候受到媒體關注後，危險的Predator 商業間諜軟體工具包又回來了- 並進行了升級。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/predator_spyware_trump_crypto/</guid>
-      <pubDate>Mon, 09 Sep 2024 02:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為推出三折式Mate XT智慧型手機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/asia_tech_news_roundup/</link>
-      <description><![CDATA[加：為印度增加 550MW 的 DC；澳洲準備使用解密能力；印尼成立網路戰部隊 亞洲簡訊  華為公佈了全球首款三折疊智慧型手機 Mate XT 的圖片，這顯然足以引發超過 100 萬人的關注該設備的訂單。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/asia_tech_news_roundup/</guid>
-      <pubDate>Mon, 09 Sep 2024 01:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
