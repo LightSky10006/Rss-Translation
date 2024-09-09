@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Sep 2024 18:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 19:34:42 GMT</lastBuildDate>
+    <item>
+      <title>美國能源部投入 2,300 萬美元重振超級運算</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/doe_supercomputing_bottlenecks/</link>
+      <description><![CDATA[挑戰涵蓋能源效率、內存、可編程性和國家安全 美國能源部啟動了一項2300 萬美元的計劃，旨在克服一系列超級計算性能瓶頸。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/doe_supercomputing_bottlenecks/</guid>
+      <pubDate>Mon, 09 Sep 2024 19:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>為了提高盈利能力，Mobileye 放棄了光達並裁員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/mobileye_cut_lidar_layoff/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：為印度增加 550MW 的 DC；澳洲準備使用解密能力；印尼成立網路戰部隊 亞洲簡訊  華為公佈了全球首款三折疊智慧型手機 Mate XT 的圖片，這顯然足以引發超過 100 萬人的關注該設備的訂單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 09 Sep 2024 01:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xockets 飆升 Nvidia：Blackwell 首次亮相受到 DPU 專利索賠的威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/08/xockets_dpu_patent_nvidia_microsoft/</link>
-      <description><![CDATA[GPU巨頭被指控與微軟勾結，RPX邊緣化新創公司 Nvidia捲入反壟斷和專利訴訟，指控GPU巨頭與微軟和智慧財產權風險管理公司RPX勾結抄襲資料處理單元( DPU) 開發商Xockets 的設計。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/08/xockets_dpu_patent_nvidia_microsoft/</guid>
-      <pubDate>Sun, 08 Sep 2024 11:53:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
