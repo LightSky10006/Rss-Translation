@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 09 Sep 2024 10:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 10:40:24 GMT</lastBuildDate>
+    <item>
+      <title>關於 Grok AI 和您的隱私，您需要了解什麼</title>
+      <link>https://www.wired.com/story/grok-ai-privacy-opt-out/</link>
+      <description><![CDATA[xAI 的生成式人工智慧工具 Grok AI 與競爭對手相比顯得有些瘋狂。它還收集了人們在 X 上發布的大量數據。]]></description>
+      <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何購買電動自行車 (2024)：類別、範圍、維修</title>
       <link>https://www.wired.com/story/how-to-buy-an-electric-bike/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[沃爾沃的全電動兄弟公司有了新的執行長、新車型的登陸以及在南卡羅來納州的新工廠——但這足以阻止這個電動車品牌的衰落嗎？]]></description>
       <guid>https://www.wired.com/story/how-do-you-solve-a-problem-like-polestar/</guid>
       <pubDate>Sat, 07 Sep 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音星際客機返航，未來充滿不確定性</title>
-      <link>https://www.wired.com/story/boeing-starliner-return-nasa-contract/</link>
-      <description><![CDATA[美國國家航空暨太空總署 (NASA) 還計劃執行另外三項星際客機任務。它還沒有決定是否會做出更多承諾。]]></description>
-      <guid>https://www.wired.com/story/boeing-starliner-return-nasa-contract/</guid>
-      <pubDate>Fri, 06 Sep 2024 22:24:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
