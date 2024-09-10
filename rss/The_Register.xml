@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 14:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 14:37:57 GMT</lastBuildDate>
+    <item>
+      <title>FBI 稱，加密詐騙每年為網路敗類帶來 5.6B 美元的收入</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/crypto_scams_rake_in_56/</link>
+      <description><![CDATA[老年人報告損失最大 聯邦調查局(FBI) 剛剛放棄了調查加密貨幣相關網路犯罪成本的年度報告，描繪了一幅可以預見的嚴峻景象，因為2023 年美國的總損失超過56 億美元–年成長 45%。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/crypto_scams_rake_in_56/</guid>
+      <pubDate>Tue, 10 Sep 2024 14:29:35 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果因違反愛爾蘭國家援助規則而欠下數十億美元的稅款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/apple_owes_billions_in_back/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，完全從 UEFI 系統分區運行，無需可啟動的 USB 密鑰或任何磁碟上的其他分割區...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</guid>
       <pubDate>Mon, 09 Sep 2024 20:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，俄羅斯絕密軍事單位密謀「破壞」海底電纜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_readies_submarine_cable_sabotage/</link>
-      <description><![CDATA[美國對克里姆林宮在全球範圍內的海軍活動加劇感到震驚 據報道，俄羅斯在海底電纜附近的海軍活動正在引起美國官員的密切關注，進一步引發人們對克里姆林宮可能密謀透過秘密的、專門的軍事單位，稱為總參謀部深海研究總局（GUGI）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/russia_readies_submarine_cable_sabotage/</guid>
-      <pubDate>Mon, 09 Sep 2024 20:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
