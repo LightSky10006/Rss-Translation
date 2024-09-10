@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 12:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 13:20:53 GMT</lastBuildDate>
+    <item>
+      <title>ServiceNow 將其後端從 MariaDB 遷移到自製 Postgres</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/servicenow_xanadu_postgres_raptordb/</link>
+      <description><![CDATA[Xanadu 版本還增加了Pro 層，以及更多人工智慧 SaaSy 工作流程供應商ServiceNow 選擇了不同的資料庫來支援其應用程序，並將於本週與新的「Xanadu 」一起推出「釋放。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/servicenow_xanadu_postgres_raptordb/</guid>
+      <pubDate>Tue, 10 Sep 2024 13:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle 報告稱，由於將資料庫服務連接到 AWS，其收入有所上升</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/oracle_q1/</link>
+      <description><![CDATA[Plus：首席技術長Larry 表示，Big Red 「高效」使用硬件，但「節省勞動力，因為勞動力存在安全風險」 甲骨文第一季收入達到133 億美元，同比增長7 ，超出了投資分析師的預期一位市場觀察人士將這一壯舉歸因於這一時期“簽署了幾筆大型交易”。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/oracle_q1/</guid>
+      <pubDate>Tue, 10 Sep 2024 13:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 的北極星黎明任務目標遠大</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/spacex_polaris_dawn_launches/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>落魄和落魄：全球保險集團的退休金困境和倫敦交通局的神秘“維護”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</link>
-      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是兩個極端的例子。]]></description>
+      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是這兩個極端的例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</guid>
       <pubDate>Tue, 10 Sep 2024 09:32:12 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>谷歌堅稱廣告科技業務並未破產，敦促華盛頓不要修復它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</link>
-      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據目前正在弗吉尼亞州法庭審理。]]></description>
+      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據正在弗吉尼亞州法庭審理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</guid>
       <pubDate>Tue, 10 Sep 2024 00:31:09 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Mon, 09 Sep 2024 22:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
+      <title>蘋果推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</link>
       <description><![CDATA[為即將推出的人工智慧功能奠定基礎，同時增加健康技術投入 Apple 剛剛推出了iPhone 16 系列、Watch Series 10 和各種AirPods，並確定了下週其iOS 的正式發布日期18 和 watchOS 11 軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</guid>
@@ -113,7 +127,7 @@
     <item>
       <title>OneFileLinux：一個小型恢復發行版，非常適合您的 EFI 系統分割區</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</link>
-      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，完全從 UEFI 系統分區運行，無需可啟動的 USB 密鑰或任何磁碟上的其他分割區...]]></description>
+      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，它完全從UEFI 系統分區運行，不需要可啟動的USB 密鑰或任何其他東西。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</guid>
       <pubDate>Mon, 09 Sep 2024 20:16:53 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[挑戰涵蓋能源效率、內存、可編程性和國家安全 美國能源部啟動了一項2300 萬美元的計劃，旨在克服一系列超級計算性能瓶頸。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/doe_supercomputing_bottlenecks/</guid>
       <pubDate>Mon, 09 Sep 2024 19:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>為了提高盈利能力，Mobileye 放棄了光達並裁員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/mobileye_cut_lidar_layoff/</link>
-      <description><![CDATA[但是 LiDAR 到 2024 年還會出現在雷達上嗎？敏銳的觀察者來說，它可能正在尋找任何省錢的方法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/mobileye_cut_lidar_layoff/</guid>
-      <pubDate>Mon, 09 Sep 2024 18:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>當企業苦苦思考商業案例時，GenAI 的炒作遇到了嚴酷的現實</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/equinix_ai_business_case/</link>
-      <description><![CDATA[Nvidia、Equinix 顯然因成本、混亂和臨陣退縮而大賺一筆 在熱潮開始一年多後，企業仍在努力應對生成式 AI 項目的商業案例，我們可能已經等到2025 年底看看它們是否能完成。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/equinix_ai_business_case/</guid>
-      <pubDate>Mon, 09 Sep 2024 17:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
