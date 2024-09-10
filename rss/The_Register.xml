@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 23:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 23:35:22 GMT</lastBuildDate>
+    <item>
+      <title>Digital Realty 新加坡資料中心起火後，阿里雲陷入困境</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/digtal_realty_singapore_datacenter_fire/</link>
+      <description><![CDATA[中國巨頭聲稱鋰電池爆炸，現在一個伺服器大廳被水淹沒 中國網路巨頭阿里巴巴的至少一部分線上服務因新加坡資料中心發生火災而中斷。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/digtal_realty_singapore_datacenter_fire/</guid>
+      <pubDate>Tue, 10 Sep 2024 23:10:03 GMT</pubDate>
+    </item>
     <item>
       <title>每個人都想要的未來 - 為您的旅程和乘客量身定制的車載廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/ford_patent_ads_pii/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>據報道，三星前高層因涉嫌在中國晶片盜竊案中盜竊智慧財產權而被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/samsung_execs_china_chip/</link>
-      <description><![CDATA[Duo 被指控竊取價值3.2B 美元的20nm 技術和機密 據報道，兩名前三星員工因涉嫌竊取超過32 億美元的知識產權以在韓國建立自己的晶片工廠而在韓國被捕。]]></description>
+      <description><![CDATA[Duo 被指控竊取價值3.2B 美元的20nm 技術和機密 據報道，兩名前三星員工因涉嫌竊取超過32 億美元的知識產權以在韓國建立自己的晶片工廠而在韓國被捕中國…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/samsung_execs_china_chip/</guid>
       <pubDate>Tue, 10 Sep 2024 20:30:14 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>我們知道“Linux 是一種癌症”，但 CentOS 的混亂能為微軟帶來機會嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/azure_linux_directions_on_microsoft/</link>
-      <description><![CDATA[分析師表示，雷德蒙德的內部發行版有一天可能會離開公司 Azure Linux 是微軟對開源作業系統的詮釋。它主要用於內部目的，但它可以成為（另一個）分發選項嗎？]]></description>
+      <description><![CDATA[分析師表示，雷德蒙的內部發行版有一天可能會飛出去 Azure Linux 是微軟對開源作業系統的嘗試。它主要用於內部目的，但它可以成為（另一個）分發選項嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/azure_linux_directions_on_microsoft/</guid>
       <pubDate>Tue, 10 Sep 2024 15:15:09 GMT</pubDate>
     </item>
     <item>
       <title>FBI 稱，加密詐騙每年為網路敗類帶來 5.6B 美元的收入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/crypto_scams_rake_in_56/</link>
-      <description><![CDATA[老年人報告損失最大 聯邦調查局(FBI) 剛剛放棄了調查加密貨幣相關網路犯罪成本的年度報告，描繪了一幅可以預見的嚴峻景象，因為2023 年美國的總損失超過56 億美元–年成長 45%。]]></description>
+      <description><![CDATA[老年人報告損失最大 聯邦調查局(FBI) 剛剛放棄了其審查與加密貨幣相關的網路犯罪成本的年度報告，描繪了一幅可以預見的嚴峻景象，因為2023年美國的總損失超過56 億美元–年成長 45%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/crypto_scams_rake_in_56/</guid>
       <pubDate>Tue, 10 Sep 2024 14:29:35 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 10 Sep 2024 11:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>Cassandra 為 5.0 版本重新設計了索引和儲存管理</title>
+      <title>Cassandra 為 5.0 版本重新設計索引和儲存管理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</link>
       <description><![CDATA[隨著支援結束，使用者被警告停止使用3.x 版本 Apache 軟體基金會Cassandra 專案已經發布了寬列儲存資料庫的5.0 版本，該資料庫擁有改進向量搜尋的新功能，這是一種Java更新並增強性能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>英國上議院推動法案遏制公共部門的流氓演算法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/uk_lords_algorithms_bill/</link>
-      <description><![CDATA[同行表示政府需要從郵局醜聞中吸取教訓 英國議會第二議院將推出一項法案，旨在規範公共機構對演算法和自動決策的使用。 &gt; ]]></description>
+      <description><![CDATA[同行表示政府需要從郵局醜聞中吸取教訓 英國議會第二院將推出一項法案，旨在規範公共機構對演算法和自動決策的使用。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/uk_lords_algorithms_bill/</guid>
       <pubDate>Tue, 10 Sep 2024 08:30:57 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[需要75 億美元，這是蘋果不費吹灰之力就賺到的錢 影片 經過六年的海上試驗，環保組織海洋清理組織聲稱，它已經證明了太平洋垃圾帶——一塊漂浮的塑膠垃圾，面積是德克薩斯州的兩倍——使用現有技術可以在十年內清理乾淨，成本僅為 75 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/great_pacific_garbage_patch/</guid>
       <pubDate>Tue, 10 Sep 2024 06:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>謝謝，愛德華·斯諾登：您推動中國取得了量子網路的領導地位</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/china_quantum_innovation_itif_report/</link>
-      <description><![CDATA[北京的研究目標是解決眼前的需求－例如阻止洩密－而美國則尋求抽象知識 中國在量子網路技術方面擁有無可否認的領先地位－這種狀況應該讓美國停下來，儘管它量子計算領域的領導者…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/china_quantum_innovation_itif_report/</guid>
-      <pubDate>Tue, 10 Sep 2024 05:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
