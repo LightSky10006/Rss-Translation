@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 16:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 17:36:12 GMT</lastBuildDate>
+    <item>
+      <title>大型主機並沒有消亡，它們只是在學習人工智慧技巧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/kyndryl_mainframe_survery/</link>
+      <description><![CDATA[Kyndryl 調查顯示大型主機仍有生命力 即使是大型主機也無法逃脫人工智慧缺陷，一份報告發現大型主機正在成為託管和運行人工智慧工作負載的主要候選者，而企業越來越多地將大型主機與現代基礎設施集成，而不是尋求出口。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/kyndryl_mainframe_survery/</guid>
+      <pubDate>Tue, 10 Sep 2024 17:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>私募股權公司承諾進行 MariaDB 交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/maria_db_buyout/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[司法部、ATF 的目標是 MCD，但印表機呢？  美國司法部正在轉向 3D 列印行業，以幫助打擊犯罪分子使用的機槍轉換裝置 (MCD) 的禍害將半自動槍械變成致命的子彈噴射器。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/3d_print_gun_mcd/</guid>
       <pubDate>Mon, 09 Sep 2024 23:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於有缺陷，WhatsApp 的“查看一次”可能會變為“隨時查看”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/whatsapp_view_once_flaw/</link>
-      <description><![CDATA[它承諾訊息會消失，但現在「這是隱私劇場」 影片 據開發者稱，WhatsApp 中流行的隱私功能「完全被破壞，可以輕鬆繞過”在加密錢包新創公司 Zengo...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/whatsapp_view_once_flaw/</guid>
-      <pubDate>Mon, 09 Sep 2024 22:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
