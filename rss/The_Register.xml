@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 09:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 10:39:32 GMT</lastBuildDate>
+    <item>
+      <title>歐盟最高法院駁回谷歌針對 $2.65B 購物反壟斷裁決的上訴</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/eu_denies_google_shopping_appeal/</link>
+      <description><![CDATA[經過多年的法律爭論，法官稱巧克力工廠不法行為 歐盟法院 (ECJ) 駁回了 Google 對 2017 年反壟斷裁決 24 億歐元（合 26.5 億美元）的長期上訴，發現它濫用了自己的主導地位來支持自己的Google 購物服務，從而轉移了原本會流向競爭對手比較服務的流量。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/eu_denies_google_shopping_appeal/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>落魄和落魄：全球保險集團的退休金困境和倫敦交通局的神秘“維護”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</link>
-      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是兩個極端的例子。]]></description>
+      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是這兩個極端的例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</guid>
       <pubDate>Tue, 10 Sep 2024 09:32:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>谷歌堅稱廣告科技業務並未破產，敦促華盛頓不要修復它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</link>
-      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據目前正在弗吉尼亞州法庭審理。]]></description>
+      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據正在弗吉尼亞州法庭審理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</guid>
       <pubDate>Tue, 10 Sep 2024 00:31:09 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 09 Sep 2024 22:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
+      <title>蘋果推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</link>
       <description><![CDATA[為即將推出的人工智慧功能奠定基礎，同時增加健康技術投入 Apple 剛剛推出了iPhone 16 系列、Watch Series 10 和各種AirPods，並確定了下週其iOS 的正式發布日期18 和 watchOS 11 軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>OneFileLinux：一個小型恢復發行版，非常適合您的 EFI 系統分割區</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</link>
-      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，完全從 UEFI 系統分區運行，無需可啟動的 USB 密鑰或任何磁碟上的其他分割區...]]></description>
+      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，它完全從UEFI 系統分區運行，不需要可啟動的USB 密鑰或任何其他東西。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</guid>
       <pubDate>Mon, 09 Sep 2024 20:16:53 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[手頭上有充裕時間的犯罪分子現在可能擁有信用卡詳細資料 在該公司發現之後，大約170 萬人將收到來自佛羅裡達州Slim CD 的信件（如果他們還沒有收到的話）一次入侵可以追溯到近一年前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/slim_cd_breach/</guid>
       <pubDate>Mon, 09 Sep 2024 16:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cluster II 太空船重新進入並燃燒，並向其控制器發出了信號</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/esa_cluster_salsa_farewell/</link>
-      <description><![CDATA[Salsa 的最後一幕：提醒我們人類始終都是人類 歐洲航天局 (ESA) 告別了 Cluster II 航天器，並發出了最後一組命令，以表明工程師確實是人類. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/esa_cluster_salsa_farewell/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:15:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
