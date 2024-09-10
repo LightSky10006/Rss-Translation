@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 02:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 02:57:01 GMT</lastBuildDate>
+    <item>
+      <title>馬來西亞封鎖海外DNS的計畫一天後就夭折了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/malaysias_dns_blocking_plan_paused/</link>
+      <description><![CDATA[部長在立即強烈反對後命令監管機構放慢腳步 馬來西亞電信監管機構在宣布這一計劃一天后放棄了阻止海外DNS 服務的計劃，此前遭到強烈反對並指責政府越權。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/malaysias_dns_blocking_plan_paused/</guid>
+      <pubDate>Tue, 10 Sep 2024 02:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>美國對人工智慧模型、基礎設施營運商提出報告要求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/us_ai_reporting/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[國家占主導地位的寬頻水管工熱衷於抵制任何限制它的努力 Openreach 希望 Reg 讀者知道英國的固定電信市場進展順利，並且正在發展懇求監管機構不要通過聽取競爭對手的言論等方式破壞它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/openreach_review_ofcom_prep/</guid>
       <pubDate>Mon, 09 Sep 2024 10:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 希望法律威脅會隨著時間的推移而消失，因為它打破了世界</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/crowdstrike_legal_threats/</link>
-      <description><![CDATA[CFO 表示公司尚未受到任何客戶的起訴 - 據 CFO Burt Podbere 稱，CrowdStrike 尚未因 7 月份的全球 IT 崩潰而面臨訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/crowdstrike_legal_threats/</guid>
-      <pubDate>Mon, 09 Sep 2024 09:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
