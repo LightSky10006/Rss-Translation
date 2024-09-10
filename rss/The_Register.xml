@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 10:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 11:11:18 GMT</lastBuildDate>
+    <item>
+      <title>Cassandra 為 5.0 版本重新設計了索引和儲存管理</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</link>
+      <description><![CDATA[隨著支援結束，使用者被警告停止使用3.x 版本 Apache 軟體基金會Cassandra 專案已經發布了寬列儲存資料庫的5.0 版本，該資料庫擁有改進向量搜尋的新功能，這是一種Java更新並增強性能。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟最高法院駁回谷歌針對 $2.65B 購物反壟斷裁決的上訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/eu_denies_google_shopping_appeal/</link>
-      <description><![CDATA[經過多年的法律爭論，法官稱巧克力工廠不法行為 歐盟法院 (ECJ) 駁回了 Google 對 2017 年反壟斷裁決 24 億歐元（合 26.5 億美元）的長期上訴，發現它濫用了自己的主導地位來支持自己的Google 購物服務，從而轉移了原本會流向競爭對手比較服務的流量。]]></description>
+      <description><![CDATA[經過多年的法律爭論，法官稱巧克力工廠不法行為 歐盟法院 (ECJ) 駁回了 Google 對 2017 年 24 億歐元（26.5 億美元）反壟斷裁決的上訴，認為濫用其主導地位支持自己的Google 購物服務，轉移了原本會流向競爭對手比較服務的流量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/eu_denies_google_shopping_appeal/</guid>
       <pubDate>Tue, 10 Sep 2024 10:15:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此次洩露歸咎於「內部不當行為」 安飛士租車系統已向美國多個州的299,006 名客戶發出警報，稱他們的個人資訊在8 月份的一次資料洩露中被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/avis_data_breach_car_rental/</guid>
       <pubDate>Mon, 09 Sep 2024 16:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>支付服務提供者一年後才注意到入侵，170 萬人可能被盜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/slim_cd_breach/</link>
-      <description><![CDATA[手頭上有充裕時間的犯罪分子現在可能擁有信用卡詳細資料 在該公司發現之後，大約170 萬人將收到來自佛羅裡達州Slim CD 的信件（如果他們還沒有收到的話）一次入侵可以追溯到近一年前。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/slim_cd_breach/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
