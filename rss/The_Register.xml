@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 11:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 12:24:22 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 的北極星黎明任務目標遠大</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/spacex_polaris_dawn_launches/</link>
+      <description><![CDATA[高度記錄觸手可及，內部太空衣即將通過測試 SpaceX 已啟動北極星黎明任務，該任務將超越雙子座 11 號創下的高度記錄，並進行商業太空行走使用SpaceX 設計的艙外活動(EVA) 太空衣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/spacex_polaris_dawn_launches/</guid>
+      <pubDate>Tue, 10 Sep 2024 11:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>Cassandra 為 5.0 版本重新設計了索引和儲存管理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Nvidia、Equinix 顯然因成本、混亂和臨陣退縮而大賺一筆 在熱潮開始一年多後，企業仍在努力應對生成式 AI 項目的商業案例，我們可能已經等到2025 年底看看它們是否能完成。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/equinix_ai_business_case/</guid>
       <pubDate>Mon, 09 Sep 2024 17:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avis 警告近 30 萬名汽車租賃者，騙子竊取了他們的訊息</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/avis_data_breach_car_rental/</link>
-      <description><![CDATA[此次洩露歸咎於「內部不當行為」 安飛士租車系統已向美國多個州的299,006 名客戶發出警報，稱他們的個人資訊在8 月份的一次資料洩露中被盜。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/avis_data_breach_car_rental/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
