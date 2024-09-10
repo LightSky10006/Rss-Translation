@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 11:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 11:35:23 GMT</lastBuildDate>
     <item>
       <title>Cassandra 為 5.0 版本重新設計了索引和儲存管理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>落魄和落魄：全球保險集團的退休金困境和倫敦交通局的神秘“維護”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</link>
-      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是這兩個極端的例子。]]></description>
+      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是兩個極端的例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</guid>
       <pubDate>Tue, 10 Sep 2024 09:32:12 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>谷歌堅稱廣告科技業務並未破產，敦促華盛頓不要修復它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</link>
-      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據正在弗吉尼亞州法庭審理。]]></description>
+      <description><![CDATA[隨著其另一項壟斷審判（由司法部和八個州提起的審判）在弗吉尼亞州開始 週日，谷歌在輿論法庭上為其廣告技術業務進行了辯護，正如其律師準備類似的那樣針對美國反壟斷指控的論據目前正在弗吉尼亞州法庭審理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/google_ad_tech_antitrust_trial/</guid>
       <pubDate>Tue, 10 Sep 2024 00:31:09 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Mon, 09 Sep 2024 22:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
+      <title>Apple 推出 iPhone 16、Watch Series 10 和各種 AirPods</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</link>
       <description><![CDATA[為即將推出的人工智慧功能奠定基礎，同時增加健康技術投入 Apple 剛剛推出了iPhone 16 系列、Watch Series 10 和各種AirPods，並確定了下週其iOS 的正式發布日期18 和 watchOS 11 軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/apple_phone_16_watch_10_intelligence/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>OneFileLinux：一個小型恢復發行版，非常適合您的 EFI 系統分割區</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</link>
-      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，它完全從UEFI 系統分區運行，不需要可啟動的USB 密鑰或任何其他東西。]]></description>
+      <description><![CDATA[大牌應該做的事情，而不是與專有供應商合作 OneFileLinux 是一種非常不同的發行版，完全從 UEFI 系統分區運行，無需可啟動的 USB 密鑰或任何磁碟上的其他分割區...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/09/onefilelinux_esp_distro/</guid>
       <pubDate>Mon, 09 Sep 2024 20:16:53 GMT</pubDate>
     </item>
