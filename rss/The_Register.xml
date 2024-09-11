@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Sep 2024 08:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 09:37:00 GMT</lastBuildDate>
+    <item>
+      <title>迫不及待想把它帶回家嗎？私有雲設備注重合規性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_flexcore/</link>
+      <description><![CDATA[具有無限可擴展性的服務，至少這是計劃 隨著Civo 以其FlexCore 私有雲解決方案進入設備遊戲，需要擔心合規性的企業又有了另一個新選擇。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_flexcore/</guid>
+      <pubDate>Wed, 11 Sep 2024 09:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>英國線上媒體首次超過電視成為新聞來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/online_media_outstrips_tv_news_source/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐盟法院做出最終判決 經過八年的法律糾紛，歐洲最高法院在一項「最終判決」中裁定，蘋果公司在愛爾蘭之後受益於大規模稅收減免違反了歐盟國家援助規則。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/apple_owes_billions_in_back/</guid>
       <pubDate>Tue, 10 Sep 2024 13:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow 將其後端從 MariaDB 遷移到自製 Postgres</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/servicenow_xanadu_postgres_raptordb/</link>
-      <description><![CDATA[Xanadu 版本還增加了Pro 層，以及更多人工智慧 SaaSy 工作流程供應商ServiceNow 選擇了不同的資料庫來支援其應用程序，並將於本週與新的「Xanadu 」一起推出「釋放。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/servicenow_xanadu_postgres_raptordb/</guid>
-      <pubDate>Tue, 10 Sep 2024 13:03:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
