@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 22:36:44 GMT</lastBuildDate>
+    <item>
+      <title>Android 應用程式正在阻止側載並強制使用 Google Play 版本</title>
+      <link>https://arstechnica.com/?p=2049138</link>
+      <description><![CDATA[「選擇 Play 合作夥伴」可以阻止非官方安裝其應用程式。]]></description>
+      <guid>https://arstechnica.com/?p=2049138</guid>
+      <pubDate>Wed, 11 Sep 2024 21:31:37 GMT</pubDate>
+    </item>
     <item>
       <title>泰勒絲 (Taylor Swift) 在為卡瑪拉哈里斯 (Kamala Harris) 代言時引用了人工智慧深度偽造技術</title>
       <link>https://arstechnica.com/?p=2049045</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 11 Sep 2024 17:09:13 GMT</pubDate>
     </item>
     <item>
-      <title>星際客機返回後，波音載人太空計畫的未來一片混亂</title>
+      <title>星際客機回歸後，波音載人太空計畫的未來一片混亂</title>
       <link>https://arstechnica.com/?p=2048972</link>
       <description><![CDATA[“星際航線的最後一章還沒寫完。”]]></description>
       <guid>https://arstechnica.com/?p=2048972</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[新創公司 NetworkOcean 希望將 GPU 沉入舊金山灣。]]></description>
       <guid>https://arstechnica.com/?p=2048979</guid>
       <pubDate>Wed, 11 Sep 2024 13:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>流氓 WHOIS 伺服器為研究人員提供了任何人都不應該擁有的超能力</title>
-      <link>https://arstechnica.com/?p=2048683</link>
-      <description><![CDATA[.mobi 頂級網域管理者更改了其 WHOIS 伺服器的位置。沒有人收到備忘錄。]]></description>
-      <guid>https://arstechnica.com/?p=2048683</guid>
-      <pubDate>Wed, 11 Sep 2024 10:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
