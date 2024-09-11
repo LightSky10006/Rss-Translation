@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Sep 2024 05:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 06:42:11 GMT</lastBuildDate>
     <item>
-      <title>機器人進入福島核芯取回熔化的遺骸</title>
+      <title>醫用大麻技術長表示，當他打電話尋找交易時，供應商會掛斷電話</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/medical_cannabis_vendor_worries/</link>
+      <description><![CDATA[Alternaleaf 現在擁有龐大的技術團隊、一種「建造而不是購買」的心態以及對FOSS 的熱愛 當Myles Lawlor 接任澳洲最大的線上替代健康診所Alternaleaf 的首席技術官時，他開始打電話給行業聯絡人討論新創公司的技術需求- 他們會掛斷他的電話。 html&#39; --&gt;&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/medical_cannabis_vendor_worries/</guid>
+      <pubDate>Wed, 11 Sep 2024 06:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>機器人進入福島核堆取回熔化的遺骸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/robot_enters_fukushimas_nuclear_core/</link>
       <description><![CDATA[試試 3 克，只剩下 880 噸！的一小塊燃料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/robot_enters_fukushimas_nuclear_core/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 11 Sep 2024 01:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>甲骨文將利用三個微型核反應器為 1GW 資料中心提供電力</title>
+      <title>甲骨文將利用三座微型核反應器為 1GW 資料中心提供電力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_1gw_datacenter_smr_plan/</link>
       <description><![CDATA[並沒有說明它們的成本是多少，或者什麼時候啟動 甲骨文正在對人工智慧資料中心不斷增長的需求進行核攻擊，這並不是拉里·埃里森(Larry Ellison )心情的隱喻。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_1gw_datacenter_smr_plan/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>我們知道“Linux 是一種癌症”，但 CentOS 的混亂能為微軟帶來機會嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/azure_linux_directions_on_microsoft/</link>
-      <description><![CDATA[分析師表示，雷德蒙德的內部發行版有一天可能會離開公司 Azure Linux 是微軟對開源作業系統的詮釋。它主要用於內部目的，但它可以成為（另一個）分發選項嗎？]]></description>
+      <description><![CDATA[分析師表示，雷德蒙的內部發行版有一天可能會離開公司 Azure Linux 是微軟對開源作業系統的嘗試。它主要用於內部目的，但它可以成為（另一個）分發選項嗎？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/azure_linux_directions_on_microsoft/</guid>
       <pubDate>Tue, 10 Sep 2024 15:15:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[高度記錄觸手可及，內部太空衣即將通過測試 SpaceX 已啟動北極星黎明任務，該任務將超越雙子座 11 號創下的高度記錄，並進行商業太空行走使用SpaceX 設計的艙外活動(EVA) 太空衣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/spacex_polaris_dawn_launches/</guid>
       <pubDate>Tue, 10 Sep 2024 11:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cassandra 為 5.0 版本重新設計了索引和儲存管理</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</link>
-      <description><![CDATA[隨著支援結束，使用者被警告停止使用3.x 版本 Apache 軟體基金會Cassandra 專案已經發布了寬列儲存資料庫的5.0 版本，該資料庫擁有改進向量搜尋的新功能，這是一種Java更新並增強性能。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/cassandra_5_point_zero/</guid>
-      <pubDate>Tue, 10 Sep 2024 10:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
