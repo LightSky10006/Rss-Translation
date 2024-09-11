@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Sep 2024 23:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:55:20 GMT</lastBuildDate>
+    <item>
+      <title>甲骨文將利用三座微型核反應器為 1GW 資料中心提供電力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_1gw_datacenter_smr_plan/</link>
+      <description><![CDATA[並沒有說明它們的成本是多少，或者什麼時候啟動 甲骨文正在對人工智慧資料中心不斷增長的需求進行核攻擊，這並不是拉里·埃里森(Larry Ellison )心情的隱喻。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_1gw_datacenter_smr_plan/</guid>
+      <pubDate>Wed, 11 Sep 2024 00:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>Digital Realty 新加坡資料中心起火後，阿里雲陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/digtal_realty_singapore_datacenter_fire/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>每個人都想要的未來 - 為您的旅程和乘客量身定制的車載廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/ford_patent_ads_pii/</link>
-      <description><![CDATA[更正，沒有人想要- 好吧，除了福特的這些專利申請者 不久的將來，如果福特如願以償，駕駛員和乘客可能會受到針對其個人和車輛數據量身客製化的資訊娛樂廣告的轟炸。 ...]]></description>
+      <description><![CDATA[更正，沒有人想要- 好吧，也許除了福特的這些專利申請者 不久的將來，如果福特如願以償，駕駛員和乘客可能會受到針對其個人和車輛數據量身定制的信息娛樂廣告的轟炸。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/ford_patent_ads_pii/</guid>
       <pubDate>Tue, 10 Sep 2024 21:55:06 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>據報道，三星前高層因涉嫌在中國晶片盜竊案中盜竊智慧財產權而被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/samsung_execs_china_chip/</link>
-      <description><![CDATA[Duo 被指控竊取價值3.2B 美元的20nm 技術和機密 據報道，兩名前三星員工因涉嫌竊取超過32 億美元的知識產權以在韓國建立自己的晶片工廠而在韓國被捕中國…]]></description>
+      <description><![CDATA[Duo 被指控竊取價值3.2B 美元的20nm 技術和機密 據報道，兩名前三星員工因涉嫌竊取超過32 億美元的知識產權以在韓國建立自己的晶片工廠而在韓國被捕。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/samsung_execs_china_chip/</guid>
       <pubDate>Tue, 10 Sep 2024 20:30:14 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 10 Sep 2024 17:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>私募股權公司承諾進行 MariaDB 交易</title>
+      <title>私募股權公司承諾收購 MariaDB</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/maria_db_buyout/</link>
       <description><![CDATA[在SQL 企業裁員和產品尋找買家後，IPO 後的篇章結束了 在災難性的IPO 18 個月後，一家私募股權企業成功收購了MariaDB。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/maria_db_buyout/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>落魄和落魄：全球保險集團的退休金困境和倫敦交通局的神秘“維護”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</link>
-      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是這兩個極端的例子。]]></description>
+      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是兩個極端的例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</guid>
       <pubDate>Tue, 10 Sep 2024 09:32:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Gartner 認為生成式 AI 只適合 5% 的工作負載 分析公司 Gartner 的 AI 研究主管 Erick Brethenoux 表示，需要專業硬體的 AI 技術“注定會失敗”，他將 GPU 納入其中他對瀕危套件的定義......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/brute_force_ai_era_gartner/</guid>
       <pubDate>Tue, 10 Sep 2024 07:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>太平洋大垃圾帶可能在十年內消失——只為了一點零錢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/great_pacific_garbage_patch/</link>
-      <description><![CDATA[需要75 億美元，這是蘋果不費吹灰之力就賺到的錢 影片 經過六年的海上試驗，環保組織海洋清理組織聲稱，它已經證明了太平洋垃圾帶——一塊漂浮的塑膠垃圾，面積是德克薩斯州的兩倍——使用現有技術可以在十年內清理乾淨，成本僅為 75 億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/great_pacific_garbage_patch/</guid>
-      <pubDate>Tue, 10 Sep 2024 06:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
