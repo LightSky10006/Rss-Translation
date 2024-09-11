@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 11:11:58 GMT</lastBuildDate>
+    <item>
+      <title>流氓 WHOIS 伺服器為研究人員提供了任何人都不應該擁有的超能力</title>
+      <link>https://arstechnica.com/?p=2048683</link>
+      <description><![CDATA[.mobi 頂級網域管理者更改了其 WHOIS 伺服器的位置。沒有人收到備忘錄。]]></description>
+      <guid>https://arstechnica.com/?p=2048683</guid>
+      <pubDate>Wed, 11 Sep 2024 10:00:40 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 表示監管機構將讓 Starship 停飛至少到 11 月</title>
       <link>https://arstechnica.com/?p=2048838</link>
@@ -43,7 +50,7 @@
     <item>
       <title>X射線鏡頭顯示日本鰻魚如何從捕食者的胃中逃脫</title>
       <link>https://arstechnica.com/?p=2048599</link>
-      <description><![CDATA[逃脫的鰻魚平均需要 56 秒才能逃脫死亡。]]></description>
+      <description><![CDATA[逃脫的鰻魚平均需要 56 秒才能擺脫死亡。]]></description>
       <guid>https://arstechnica.com/?p=2048599</guid>
       <pubDate>Tue, 10 Sep 2024 18:37:43 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>《滿意》正式發布，正式令人恐怖的美好時光沉沒</title>
       <link>https://arstechnica.com/?p=2048711</link>
-      <description><![CDATA[即使是玩了 1000 個小時的遊戲的人仍然在學習它。]]></description>
+      <description><![CDATA[即使是玩了 1000 小時的人仍然在學習它。]]></description>
       <guid>https://arstechnica.com/?p=2048711</guid>
       <pubDate>Tue, 10 Sep 2024 15:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟使用多個糾錯量子位元執行操作</title>
-      <link>https://arstechnica.com/?p=2048754</link>
-      <description><![CDATA[微軟與 AtomComputing 合作，提升了 Quantinuum 機器的糾錯能力。]]></description>
-      <guid>https://arstechnica.com/?p=2048754</guid>
-      <pubDate>Tue, 10 Sep 2024 14:46:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
