@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Sep 2024 19:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 19:36:30 GMT</lastBuildDate>
+    <item>
+      <title>谷歌押注於碳捕獲技術來清理 2030 年代的混亂局面</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</link>
+      <description><![CDATA[Mountain View 支持新創公司Holocene，希望削減排放成本 Google 打算從直接空氣捕獲提供者購買碳清除額度，以幫助抵消其溫室氣體(GHG) 排放，儘管該舉措並未獲批准預計要到下一個十年才會開始。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>重大銷售和營運改革導致 Meow 勒索軟體團伙的活動大幅增加</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/meow_ransomware_ops_revamp_more_attacks/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>甲骨文擁有 zettascale 的“人工智慧超級電腦”，但不要問精度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</link>
-      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍”超級電腦。”...]]></description>
+      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍」超級電腦。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</guid>
       <pubDate>Wed, 11 Sep 2024 16:30:15 GMT</pubDate>
     </item>
     <item>
       <title>HPE 希望投資者購買股票以幫助融資 14B 美元收購 Juniper Networks</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</link>
-      <description><![CDATA[2,700 萬股C 輪優先股將於13 日星期五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網路(Juniper) 收購提供資金。]]></description>
+      <description><![CDATA[2,700 萬股C 輪優先股將於13 日週五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網絡(Juniper) 收購提供資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</guid>
       <pubDate>Wed, 11 Sep 2024 15:45:10 GMT</pubDate>
     </item>
@@ -50,12 +57,12 @@
     <item>
       <title>所以你付了贖金…但現在解密器不起作用了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</link>
-      <description><![CDATA[這確實是一個非常重大的時刻 對於高階主管和安全領導者來說，發現您的組織已被破壞，您的關鍵系統被鎖定，您的資料被盜，然後收到勒索贖金，可能是你職業生涯中最糟糕的一天…]]></description>
+      <description><![CDATA[這確實是一個非常重大的時刻 對於首席高階主管和安全領導者來說，發現您的組織已被破壞，您的關鍵系統被鎖定，您的資料被盜，然後收到勒索贖金，可能是你職業生涯中最糟糕的一天…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</guid>
       <pubDate>Wed, 11 Sep 2024 13:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>研究表明，超過一半的 VMware 客戶正在尋求遷移</title>
+      <title>研究顯示超過一半的 VMware 客戶正在尋求遷移</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</link>
       <description><![CDATA[價格上漲，Broadcom 收購後的不確定性迫使用戶轉向其他地方來滿足虛擬化需求 Civo 發布的研究表明，超過一半的VMware 客戶正在考慮將該平台留在Broadcom 的所有權之下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 11 Sep 2024 12:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>英國國家醫療服務體系 (NHS) 宣布，「IT 故障」影響血液檢測，成為另一個重大事件</title>
+      <title>NHS 宣布的另一起重大事件是「IT 故障」影響了血液檢測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</link>
       <description><![CDATA[與倫敦不同，不存在謀殺嫌疑 英國國家醫療服務體系 (NHS) 提供病理學服務的能力再次受到打擊，英格蘭兩家醫院今天早上宣布發生一起嚴重事件... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>亞馬遜將在 2028 年之前向英國資料中心投入 80 億英鎊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/amazon_uk_datacenter_investment/</link>
-      <description><![CDATA[真好。現在看看公司稅法案怎麼樣... 亞馬遜網路服務(AWS) 的那些仁慈的慈善家計劃從現在到2028 年投資80 億英鎊（104 億美元）在英國的數據中心，此舉受到英國財政部長的歡迎，他試圖將其歸功於國家經濟復興的一部分。]]></description>
+      <description><![CDATA[真好。現在看看公司稅法案怎麼樣... 亞馬遜網路服務(AWS) 的那些仁慈的慈善家計劃從現在到2028 年在英國的數據中心投資80 億英鎊（104 億美元） ，此舉受到英國財政部長的歡迎，他試圖將其歸功於國家經濟復興的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/amazon_uk_datacenter_investment/</guid>
       <pubDate>Wed, 11 Sep 2024 10:36:46 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>迫不及待想把它帶回家嗎？私有雲設備注重合規性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_flexcore/</link>
-      <description><![CDATA[具有無限可擴展性的服務，至少這是計劃 隨著Civo 以其FlexCore 私有雲解決方案進入設備遊戲，需要擔心合規性的企業還有另一個新選擇。 ....]]></description>
+      <description><![CDATA[具有無限可擴展性的服務，至少這是計劃 隨著Civo 以其FlexCore 私有雲解決方案進入設備遊戲，需要擔心合規性的企業又有了另一個新選擇。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_flexcore/</guid>
       <pubDate>Wed, 11 Sep 2024 09:25:20 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[部長認為保護數位交易需要專門的警察 印度已宣布計劃在未來五年內培訓一支由 5000 名「網路突擊隊」組成的專業隊伍，作為解決網路犯罪努力的一部分...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/india_cyber_commandos/</guid>
       <pubDate>Wed, 11 Sep 2024 04:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>想看電影嗎？當然！讓我把休息室停好</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/foxconn_sharp_ldk_plus/</link>
-      <description><![CDATA[富士康和夏普想像一輛連網電動貨車中配有沙發和電視 日本電子巨頭夏普及其大股東富士康推出了一款電動汽車，除其他現代化設施外，還配備了「擴充客廳。」...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/foxconn_sharp_ldk_plus/</guid>
-      <pubDate>Wed, 11 Sep 2024 02:59:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
