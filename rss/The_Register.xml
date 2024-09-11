@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 02:08:52 GMT</lastBuildDate>
+    <item>
+      <title>微軟表示，它破壞了一些 Windows 10 修補程式——修復了受到攻擊的缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/patch_tuesday_september_2024/</link>
+      <description><![CDATA[CISA 希望您能夠解決 Citrix 和 Ivanti 問題。 Adobe、英特爾、SAP 也競標補丁優先 週二補丁 另一個週二補丁已經到來，像往常一樣，有一些令人不快的消息，即存在緊迫的安全漏洞和錯誤需要解決。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/patch_tuesday_september_2024/</guid>
+      <pubDate>Wed, 11 Sep 2024 01:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>甲骨文將利用三座微型核反應器為 1GW 資料中心提供電力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_1gw_datacenter_smr_plan/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>每個人都想要的未來 - 為您的旅程和乘客量身定制的車載廣告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/ford_patent_ads_pii/</link>
-      <description><![CDATA[更正，沒有人想要- 好吧，也許除了福特的這些專利申請者 不久的將來，如果福特如願以償，駕駛員和乘客可能會受到針對其個人和車輛數據量身定制的信息娛樂廣告的轟炸。 ...]]></description>
+      <description><![CDATA[更正，沒有人想要- 好吧，除了福特的這些專利申請者 不久的將來，如果福特如願以償，駕駛員和乘客可能會受到針對其個人和車輛數據量身客製化的資訊娛樂廣告的轟炸。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/ford_patent_ads_pii/</guid>
       <pubDate>Tue, 10 Sep 2024 21:55:06 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>落魄和落魄：全球保險集團的退休金困境和倫敦交通局的神秘“維護”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</link>
-      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是兩個極端的例子。]]></description>
+      <description><![CDATA[什麼時候進行維護，什麼時候「我們被攻擊了」？其他時候，這可能意味著 IT 團隊正在努力讓一個系統與另一個系統進行通訊。倫敦交通局 (TfL) 和退休金管理公司 Aegon 的困境就是這兩個極端的例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/aegon_tfl_maintenance/</guid>
       <pubDate>Tue, 10 Sep 2024 09:32:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[同行表示政府需要從郵局醜聞中吸取教訓 英國議會第二院將推出一項法案，旨在規範公共機構對演算法和自動決策的使用。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/uk_lords_algorithms_bill/</guid>
       <pubDate>Tue, 10 Sep 2024 08:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們正處於人工智慧的強力階段——一旦結束，對 GPU 的需求也將隨之而來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/10/brute_force_ai_era_gartner/</link>
-      <description><![CDATA[Gartner 認為生成式 AI 只適合 5% 的工作負載 分析公司 Gartner 的 AI 研究主管 Erick Brethenoux 表示，需要專業硬體的 AI 技術“注定會失敗”，他將 GPU 納入其中他對瀕危套件的定義......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/10/brute_force_ai_era_gartner/</guid>
-      <pubDate>Tue, 10 Sep 2024 07:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
