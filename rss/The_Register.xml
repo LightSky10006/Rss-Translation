@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 16:14:51 GMT</lastBuildDate>
+    <item>
+      <title>谷歌瀏覽器對一些安全修復有自己的想法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_chrome_safety_check/</link>
+      <description><![CDATA[瀏覽器變得更主動地修剪不需要的權限和欺騙性通知 Google 增強了Chrome 的安全檢查，以便它可以代表使用者做出一些安全決策。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_chrome_safety_check/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>倫敦交通局確認 5,000 名用戶的銀行資料遭到洩露，導致大量 IT 基礎設施下線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/transport_for_londons_cyber_attack/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>主要 ISP 設定錯誤，導致 Microsoft 365、Azure 中斷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</link>
-      <description><![CDATA[AT&amp;T 確認存在“短暫中斷”，沒有任何謀殺跡象 更新 如果您今天早上登入 Azure 時遇到問題，不，這不僅僅是您的問題：微軟已經確認了一個問題。 … ]]></description>
+      <description><![CDATA[AT&amp;T 確認“短暫中斷”，沒有任何謀殺跡象 已更新 如果您今天早上登入 Azure 時遇到問題，不，這不僅僅是您的問題：微軟已經確認了一個問題。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</guid>
       <pubDate>Thu, 12 Sep 2024 14:25:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mountain View 支持新創公司Holocene，希望削減排放成本 Google 打算從直接空氣捕獲提供者購買碳清除額度，以幫助抵消其溫室氣體(GHG) 排放，儘管該舉措並未獲批准預計要到下一個十年才會開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</guid>
       <pubDate>Wed, 11 Sep 2024 19:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>重大銷售和營運改革導致 Meow 勒索軟體團伙的活動大幅增加</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/meow_ransomware_ops_revamp_more_attacks/</link>
-      <description><![CDATA[你不想看到它 Meow 勒索軟體團夥在重大品牌改革後意外激增的活動中佔據了第二個最活躍的幫派位置。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/meow_ransomware_ops_revamp_more_attacks/</guid>
-      <pubDate>Wed, 11 Sep 2024 18:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
