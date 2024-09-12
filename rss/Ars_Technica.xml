@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Sep 2024 19:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 20:35:59 GMT</lastBuildDate>
     <item>
-      <title>「有眼袋的臉」為新的 Unicode 16.0 表情符號更新定下基調</title>
+      <title>Unity 正在放棄不受歡迎的每次安裝運行時費用</title>
+      <link>https://arstechnica.com/?p=2049485</link>
+      <description><![CDATA[跨平台遊戲引擎看到了「新穎且有爭議」計劃的缺點。]]></description>
+      <guid>https://arstechnica.com/?p=2049485</guid>
+      <pubDate>Thu, 12 Sep 2024 19:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的新「推理」人工智慧模型在這裡：o1-preview 和 o1-mini</title>
+      <link>https://arstechnica.com/?p=2049445</link>
+      <description><![CDATA[新的 o1 語言模型可以迭代地解決複雜的任務，將 R 算作「草莓」。]]></description>
+      <guid>https://arstechnica.com/?p=2049445</guid>
+      <pubDate>Thu, 12 Sep 2024 19:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unicode 16.0 發布，新增表情符號，字元數達到 154,998</title>
       <link>https://arstechnica.com/?p=2049432</link>
       <description><![CDATA[新設計將在未來幾個月內推廣到手機、平板電腦和個人電腦。]]></description>
       <guid>https://arstechnica.com/?p=2049432</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[由於同樣的擔憂，Meta 和 X 已經暫停了一些人工智慧訓練。]]></description>
       <guid>https://arstechnica.com/?p=2049305</guid>
       <pubDate>Thu, 12 Sep 2024 13:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽車與現代汽車聯手削減新車和清潔技術的成本</title>
-      <link>https://arstechnica.com/?p=2049289</link>
-      <description><![CDATA[希望有更好的產品和更有效率的公司。]]></description>
-      <guid>https://arstechnica.com/?p=2049289</guid>
-      <pubDate>Thu, 12 Sep 2024 13:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>iFixit 的 FixHub 工具希望將焊接從牆壁插座上移除</title>
-      <link>https://arstechnica.com/?p=2049257</link>
-      <description><![CDATA[電池供電的 USB-C 烙鐵旨在改進現有產品。]]></description>
-      <guid>https://arstechnica.com/?p=2049257</guid>
-      <pubDate>Thu, 12 Sep 2024 13:27:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
