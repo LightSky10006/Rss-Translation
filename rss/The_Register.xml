@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 22:12:42 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克的星鏈主導地位引發 FCC 對競爭的擔憂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</link>
+      <description><![CDATA[SpaceX 目前擁有在軌所有活躍衛星的近三分之二 當 Elon Musk 的Starlink 達到其第7,000 顆衛星里程碑時，他不太可能期望FCC 主席表示他的太空主導地位可能會受到抑制競爭——但我們來了… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</guid>
+      <pubDate>Thu, 12 Sep 2024 22:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>Unity 取消了令人討厭的運行費用，轉而透過提高訂閱費來打擊開發者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/unity_cancel_runtime_fees/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Redis 透過新硬體、LLM 成本節省功能證明開源轉變的合理性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</link>
-      <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的便捷現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
+      <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的方便的現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</guid>
       <pubDate>Thu, 12 Sep 2024 13:00:15 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>注意你的標題！網路釣魚者的最新策略並沒有什麼令人耳目一新的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</link>
-      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業的注意，網絡釣魚者為獲取受害者憑證而使用的一種日益常見的策略。]]></description>
+      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業對網絡釣魚者用來獲取受害者憑證的日益常見策略的關注。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</guid>
       <pubDate>Thu, 12 Sep 2024 09:15:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在付費技術規範中找出漏洞的學術上有趣的技術 保護線上視訊串流免遭未經授權複製的反盜版系統存在缺陷，並且可以被破解以允許來自Amazon、 Netflix 和我們被告知，其他內容可以隨意保存、重播和傳播。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/cenc_encryption_stream_attack/</guid>
       <pubDate>Thu, 12 Sep 2024 07:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>白俄羅斯軍方官員稱《精靈寶可夢 GO》是一種情報工具</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pokemon_go_spying_belarus_claims/</link>
-      <description><![CDATA[擴增實境遇到扭曲現實 白俄羅斯國防部官員聲稱擴增實境遊戲《精靈寶可夢 GO》是西方情報機構的工具。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pokemon_go_spying_belarus_claims/</guid>
-      <pubDate>Thu, 12 Sep 2024 06:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
