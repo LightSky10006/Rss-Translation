@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:42:07 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 修補了 Acrobat 錯誤，忽略提及整個零日漏洞、漏洞利用事件</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/adobe_acrobat_0day/</link>
+      <description><![CDATA[SaaS 賣家將嚴重性設為「嚴重」 Adobe 針對Acrobat 中的遠端程式碼執行(RCE) 錯誤的修補程式沒有提及該漏洞被視為零日漏洞，也沒有提及該漏洞的證明- 研究人員警告稱，概念（PoC）漏洞存在。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/adobe_acrobat_0day/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱，基礎設施提供商在GPU 上每花1 美元就能賺5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</guid>
       <pubDate>Thu, 12 Sep 2024 00:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路騙子關閉了英國和美國的學校，數千名兒童受到影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/uk_us_school_ransomware/</link>
-      <description><![CDATA[無類：Black Suit 勒索軟體團夥在一次突襲中獲得了200GB 的數據 網路犯罪分子本週關閉了美國和英國的一些學校，導致華盛頓州的幼兒園學生無法參加他們的第一個上學日並關閉在接下來的三週內關閉英格蘭比金山地區學生的所有基於互聯網的系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/uk_us_school_ransomware/</guid>
-      <pubDate>Wed, 11 Sep 2024 22:43:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
