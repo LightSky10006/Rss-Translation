@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 14:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 14:39:33 GMT</lastBuildDate>
+    <item>
+      <title>AMD磨礪矽劍，挑戰晶片和人工智慧競爭對手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/amd_conference_comments/</link>
+      <description><![CDATA[執行長蘇姿豐(Lisa Su) 的目標是在GPU、CPU、FPGA 等所有領域做到最好...而英特爾卻在苦苦掙扎 評論  AMD 曾經是晶片行業的小魚在主要競爭對手英特爾犯下一系列失誤後，公司感受到了水里的血腥味，而首席執行官Lisa Su 則立即向投資者談論其遊戲計劃。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/amd_conference_comments/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>主要 ISP 設定錯誤，導致 Microsoft 365、Azure 中斷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</link>
+      <description><![CDATA[不，這不僅僅是您的問題 如果您今天早上登入 Azure 時遇到問題，不 - 這不僅僅是您的問題：Microsoft 已確認有問題。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:25:11 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 北極星黎明任務完成首次商業 EVA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/polaris_dawn_eva/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[據稱竊取了超過 520 萬個文件，並威脅要公開這些文件 據報道，勒索軟體團夥 Hunters International 聲稱竊取了屬於中國工商銀行倫敦分行的超過 520 萬個文件中國工商銀行（ICBC）是一家中國國有銀行和金融服務公司，並設定截止日期為9 月13 日，除非滿足要求，否則將公佈所有數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hunters_ransom_icbc_london/</guid>
       <pubDate>Wed, 11 Sep 2024 18:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴爾表示，業務轉型仍在持續。翻譯：更多裁員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/dell_layoff_sec/</link>
-      <description><![CDATA[在此之前，這家科技巨頭計劃在8 月份裁員12,500 人 戴爾公佈了一個出色的季度業績，員工應該為這意味著裁員做好準備。 p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/dell_layoff_sec/</guid>
-      <pubDate>Wed, 11 Sep 2024 17:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲骨文擁有 zettascale 的“人工智慧超級電腦”，但不要問精度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</link>
-      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍」超級電腦。」...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
