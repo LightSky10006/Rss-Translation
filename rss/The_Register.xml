@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 11:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:22:06 GMT</lastBuildDate>
+    <item>
+      <title>歐盟啟動對谷歌人工智慧模型的調查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_ai_model_inquiry_eu/</link>
+      <description><![CDATA[隱私監管機構仔細研究資料隱私和 PaLM 2 歐盟資料隱私的主要監管機構愛爾蘭資料保護委員會 (DPC) 已對 Google 的 AI 模型發起跨境調查以確定它是否符合歐盟的規則。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_ai_model_inquiry_eu/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>關於 Windows Installer「讓我成為管理員」安全漏洞。下面是它的利用方式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/worried_about_that_microsoft_installer/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>注意你的標題！網路釣魚者的最新策略並沒有什麼令人耳目一新的地方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</link>
-      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業對網絡釣魚者用來獲取受害者憑證的日益常見策略的關注。 ....]]></description>
+      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業的注意，網絡釣魚者為獲取受害者憑證而使用的一種日益常見的策略。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</guid>
       <pubDate>Thu, 12 Sep 2024 09:15:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>全球裁員報道稱三星在印度面臨罷工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</link>
-      <description><![CDATA[工會聲稱泰米爾納德邦工廠的工作條件就像單獨監禁，暴力行為很常見 印度泰米爾納德邦三星電子工廠的工人自周一以來一直在罷工，生產中斷，因為他們爭取加薪、改善工作時間和結束無工會政策…]]></description>
+      <description><![CDATA[工會聲稱泰米爾納德邦工廠的工作條件就像單獨監禁，暴力行為很常見 印度泰米爾納德邦三星電子工廠的工人自周一以來一直在罷工，生產中斷，因為他們爭取加薪、改善工作時間、結束無工會政策…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</guid>
       <pubDate>Thu, 12 Sep 2024 03:46:07 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 11 Sep 2024 22:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌押注於碳捕獲技術來清理 2030 年代的爛攤子</title>
+      <title>谷歌押注於碳捕獲技術來清理 2030 年代的混亂局面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</link>
       <description><![CDATA[Mountain View 支持新創公司Holocene，希望削減排放成本 Google 打算從直接空氣捕獲提供者購買碳清除額度，以幫助抵消其溫室氣體(GHG) 排放，儘管該舉措並未獲批准預計要到下一個十年才會開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[玩具從嬰兒車發射，馬斯克的火箭專家在文書工作上跺腳 面對等待下一次星艦發射批准數月的時間，SpaceX 對圍繞這一過程的繁文縟節和正在進行的項目發動了攻勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/spacex_starship_red_tape/</guid>
       <pubDate>Wed, 11 Sep 2024 14:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以你付了贖金…但現在解密器不起作用了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</link>
-      <description><![CDATA[這確實是一個非常重大的時刻 對於首席高階主管和安全領導者來說，發現您的組織已被網路入侵者入侵、您的關鍵系統被鎖定、您的數據被盜，然後收到贖金要求，可能是您職業生涯中最糟糕的一天。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
