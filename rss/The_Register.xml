@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 08:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 09:35:53 GMT</lastBuildDate>
+    <item>
+      <title>注意你的標題！網路釣魚者的最新策略並沒有什麼令人耳目一新的地方</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</link>
+      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業的注意，網絡釣魚者為獲取受害者憑證而使用的一種日益常見的策略。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</guid>
+      <pubDate>Thu, 12 Sep 2024 09:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>Pop!_OS 24.04 和新的 COSMIC 桌面達到 alpha</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>英偉達執行長致緊張的買家和投資者：冷靜點，Blackwell 生產正在升溫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</link>
-      <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱，基礎設施提供商在GPU 上每花1 美元就能賺5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
+      <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱基礎設施提供商在GPU 上每花費1 美元就能賺取5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</guid>
       <pubDate>Thu, 12 Sep 2024 00:16:50 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>獵人國際網路集團敲詐中國大型銀行倫敦總部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hunters_ransom_icbc_london/</link>
-      <description><![CDATA[據稱竊取了超過 520 萬個文件，並威脅要公開這些文件 據報道，勒索軟體團夥 Hunters International 聲稱竊取了屬於中國工商銀行倫敦分行的超過 520 萬個文件中國工商銀行（ICBC）是一家中國國有銀行和金融服務公司，並設定截止日期為9 月13 日，除非滿足要求，否則將公佈所有數據。]]></description>
+      <description><![CDATA[據稱竊取了超過 520 萬個文件，並威脅要公開這些文件 據報道，勒索軟體團夥 Hunters International 聲稱竊取了屬於中國工商銀行倫敦分行的超過 520 萬個文件中國工商銀行（ICBC）是一家中國國有銀行和金融服務公司，並設定截止日期為9 月13 日，除非滿足要求，否則將發布所有數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hunters_ransom_icbc_london/</guid>
       <pubDate>Wed, 11 Sep 2024 18:00:09 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>甲骨文擁有 zettascale 的“人工智慧超級電腦”，但不要問精度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</link>
-      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍」超級電腦。」...]]></description>
+      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍”超級電腦。”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</guid>
       <pubDate>Wed, 11 Sep 2024 16:30:15 GMT</pubDate>
     </item>
     <item>
       <title>HPE 希望投資者購買股票以幫助融資 14B 美元收購 Juniper Networks</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</link>
-      <description><![CDATA[2,700 萬股C 輪優先股將於13 日週五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網絡(Juniper) 收購提供資金。]]></description>
+      <description><![CDATA[2,700 萬股C 輪優先股將於13 日星期五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網路(Juniper) 收購提供資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</guid>
       <pubDate>Wed, 11 Sep 2024 15:45:10 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 11 Sep 2024 13:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>研究顯示超過一半的 VMware 客戶正在尋求遷移</title>
+      <title>研究表明，超過一半的 VMware 客戶正在尋求遷移</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</link>
       <description><![CDATA[價格上漲，Broadcom 收購後的不確定性迫使用戶轉向其他地方來滿足虛擬化需求 Civo 發布的研究表明，超過一半的VMware 客戶正在考慮將該平台留在Broadcom 的所有權之下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 11 Sep 2024 12:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>NHS 宣布的另一起重大事件是「IT 故障」影響了血液檢測</title>
+      <title>英國國家醫療服務體系 (NHS) 宣布，「IT 故障」影響血液檢測，成為另一個重大事件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</link>
       <description><![CDATA[與倫敦不同，不存在謀殺嫌疑 英國國家醫療服務體系 (NHS) 提供病理學服務的能力再次受到打擊，英格蘭兩家醫院今天早上宣布發生一起嚴重事件... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</guid>
       <pubDate>Wed, 11 Sep 2024 11:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>$20 和一個失效的網域名稱如何讓安全專家破壞網路的完整性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</link>
-      <description><![CDATA[黑帽大會上發生了什麼事... 在上個月黑帽大會期間試圖逃離拉斯維加斯的炎熱天氣時，watchTowr Labs 研究人員決定尋找WHOIS協議中的弱點。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</guid>
-      <pubDate>Wed, 11 Sep 2024 11:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
