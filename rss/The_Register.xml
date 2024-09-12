@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Sep 2024 23:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:55:08 GMT</lastBuildDate>
+    <item>
+      <title>英偉達執行長致緊張的買家和投資者：冷靜點，Blackwell 生產正在升溫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</link>
+      <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱，基礎設施提供商在GPU 上每花1 美元就能賺5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:16:50 GMT</pubDate>
+    </item>
     <item>
       <title>網路騙子關閉了英國和美國的學校，數千名兒童受到影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/uk_us_school_ransomware/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 11 Sep 2024 22:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌押注於碳捕獲技術來清理 2030 年代的爛攤子</title>
+      <title>谷歌押注於碳捕獲技術來清理 2030 年代的混亂局面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</link>
       <description><![CDATA[Mountain View 支持新創公司Holocene，希望削減排放成本 Google 打算從直接空氣捕獲提供者購買碳清除額度，以幫助抵消其溫室氣體(GHG) 排放，儘管該舉措並未獲批准預計要到下一個十年才會開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>所以你付了贖金…但現在解密器不起作用了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</link>
-      <description><![CDATA[這確實是一個非常重大的時刻 對於首席高階主管和安全領導者來說，發現您的組織已被破壞，您的關鍵系統被鎖定，您的資料被盜，然後收到勒索贖金，可能是你職業生涯中最糟糕的一天…]]></description>
+      <description><![CDATA[這確實是一個非常重大的時刻 對於首席高階主管和安全領導者來說，發現您的組織已被網路入侵者入侵、您的關鍵系統被鎖定、您的數據被盜，然後收到贖金要求，可能是您職業生涯中最糟糕的一天。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/ransomware_decryptor_not_working/</guid>
       <pubDate>Wed, 11 Sep 2024 13:30:13 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 11 Sep 2024 12:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>英國國家醫療服務體系 (NHS) 宣布，「IT 故障」影響血液檢測，成為另一個重大事件</title>
+      <title>NHS 宣布的另一起重大事件是「IT 故障」影響了血液檢測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</link>
       <description><![CDATA[與倫敦不同，不存在謀殺嫌疑 英國國家醫療服務體系 (NHS) 提供病理學服務的能力再次受到打擊，英格蘭兩家醫院今天早上宣布發生一起嚴重事件... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>$20 和一個失效的網域名稱如何讓安全專家破壞網路的完整性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</link>
-      <description><![CDATA[黑帽大會上發生了什麼事… 上個月，在試圖逃離拉斯維加斯黑帽大會期間的炎熱天氣時，watchTowr Labs 的研究人員決定尋找WHOIS 協議中的弱點。他們聲稱已經找到了一種破壞憑證授權單位的方法，全世界都相信憑證授權單位可以透過驗證網站的身份來確保網路的安全。]]></description>
+      <description><![CDATA[黑帽大會上發生了什麼事... 在上個月黑帽大會期間試圖逃離拉斯維加斯的炎熱天氣時，watchTowr Labs 研究人員決定尋找WHOIS協議中的弱點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</guid>
       <pubDate>Wed, 11 Sep 2024 11:00:14 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>人工智慧已經殖民了我們的世界——所以是時候學習我們新霸主的語言了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/delvish_llm_language/</link>
-      <description><![CDATA[複習一下你的「Delvish」－這是一種奉承法學碩士的行話，讓他們屈服於某種提交 儘管越來越多的證據表明生成式人工智慧為人類創造的工作多於它節省的工作，但組織仍在將其部署到一線角色例如客戶服務聊天機器人和簡歷篩選器。]]></description>
+      <description><![CDATA[複習一下你的「Delvish」——這是一種奉承法學碩士的行話，讓他們投稿 專欄 ，組織正在將其部署在一線角色中，例如客戶服務聊天機器人和簡歷篩選器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/delvish_llm_language/</guid>
       <pubDate>Wed, 11 Sep 2024 07:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>醫用大麻技術長表示，當他打電話尋求交易時，供應商會掛斷電話</title>
+      <title>醫用大麻技術長表示，當他打電話尋找交易時，供應商會掛斷電話</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/medical_cannabis_vendor_worries/</link>
       <description><![CDATA[Alternaleaf 現在擁有龐大的技術團隊、一種「建造而不是購買」的心態以及對FOSS 的熱愛 當Myles Lawlor 接任澳洲最大的線上替代健康診所Alternaleaf 的首席技術官時，他開始打電話給行業聯絡人討論新創公司的技術需求- 他們會掛斷他的電話。 html&#39; --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/medical_cannabis_vendor_worries/</guid>
       <pubDate>Wed, 11 Sep 2024 06:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>機器人進入福島核芯取回熔化的遺骸</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/robot_enters_fukushimas_nuclear_core/</link>
-      <description><![CDATA[試試 3 克，只剩下 880 噸！的一小塊燃料。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/robot_enters_fukushimas_nuclear_core/</guid>
-      <pubDate>Wed, 11 Sep 2024 05:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
