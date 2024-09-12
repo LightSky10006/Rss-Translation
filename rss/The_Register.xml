@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 20:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 21:11:15 GMT</lastBuildDate>
+    <item>
+      <title>網路騙子稱，我從凱捷公司竊取了 20GB 數據，現在我正在洩露這些數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</link>
+      <description><![CDATA[據稱被盜的資料庫包含原始碼、私鑰、員工資訊、T-Mobile VM 日誌等 一名不法分子聲稱已闖入凱捷並洩露了從該技術中竊取的大量敏感資料服務巨頭 - 包括原始碼、憑證和 T-Mobile 的虛擬機器日誌。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:48:01 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌因在人工智慧服務中使用 Gemini 商標名稱而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_gemini_ai_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[新幹線已經運營了60 年，沒有發生任何死亡事故- 這有多難？投入使用...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/japan_automated_bullet_train/</guid>
       <pubDate>Thu, 12 Sep 2024 05:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球裁員報道稱三星在印度面臨罷工</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</link>
-      <description><![CDATA[工會聲稱泰米爾納德邦工廠的工作條件就像單獨監禁，暴力行為很常見 印度泰米爾納德邦三星電子工廠的工人自周一以來一直在罷工，生產中斷，因為他們爭取加薪、改善工作時間、結束無工會政策…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</guid>
-      <pubDate>Thu, 12 Sep 2024 03:46:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
