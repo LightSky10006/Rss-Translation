@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 10:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 11:10:22 GMT</lastBuildDate>
+    <item>
+      <title>英國將資料中心提升為重要的國家基礎設施地位</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/uk_datacenters_cni/</link>
+      <description><![CDATA[整合專門支持，防止網路攻擊、IT 中斷和惡劣天氣影響可用性 從今天開始，英國將資料中心指定為關鍵國家基礎設施 (CNI)。因此，該行業預計將獲得政府的特殊支持，旨在防止CrowdStrike、網路攻擊和極端天氣事件等IT 中斷造成的負面經濟影響。 &#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/uk_datacenters_cni/</guid>
+      <pubDate>Thu, 12 Sep 2024 10:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 工程師飾演太空外科醫生，試圖疏通航行者 1 號的動脈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/voyager_power_issues/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>英偉達執行長致緊張的買家和投資者：冷靜點，Blackwell 生產正在升溫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</link>
-      <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱，基礎設施提供商在GPU 上每花1 美元就能賺5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
+      <description><![CDATA[人工智慧投資報酬率？黃仁勳(Jensen Huang) 聲稱基礎設施提供商在GPU 上每花費1 美元就能賺取5 美元 Nvidia 首席執行官黃仁勳(Jensen Huang) 試圖平息人們對Blackwell GPU 架構遲到的報道以及人工智慧投資缺乏投資報酬率的擔憂。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/jensen_huang_blackwell_shipping_prediction/</guid>
       <pubDate>Thu, 12 Sep 2024 00:16:50 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>獵人國際網路集團敲詐中國大型銀行倫敦總部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hunters_ransom_icbc_london/</link>
-      <description><![CDATA[據稱竊取了超過 520 萬個文件，並威脅要公開這些文件 據報道，勒索軟體團夥 Hunters International 聲稱竊取了屬於中國工商銀行倫敦分行的超過 520 萬個文件中國工商銀行（ICBC）是一家中國國有銀行和金融服務公司，並設定截止日期為9 月13 日，除非滿足要求，否則將公佈所有數據。]]></description>
+      <description><![CDATA[據稱竊取了超過 520 萬個文件，並威脅要公開這些文件 據報道，勒索軟體團夥 Hunters International 聲稱竊取了屬於中國工商銀行倫敦分行的超過 520 萬個文件中國工商銀行（ICBC）是一家中國國有銀行和金融服務公司，並設定截止日期為9 月13 日，除非滿足要求，否則將發布所有數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hunters_ransom_icbc_london/</guid>
       <pubDate>Wed, 11 Sep 2024 18:00:09 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>甲骨文擁有 zettascale 的“人工智慧超級電腦”，但不要問精度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</link>
-      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍」超級電腦。」...]]></description>
+      <description><![CDATA[從2025 年上半年開始，包含131,072 個Blackwell GPU 的集群可供搶購 評論 Oracle 表示，它已經接受了2.4 zettaFLOPS 集群的訂單，其“ GPU 數量是Frontier 的三倍”超級電腦。”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/oracle_zettascale_supercluster/</guid>
       <pubDate>Wed, 11 Sep 2024 16:30:15 GMT</pubDate>
     </item>
     <item>
       <title>HPE 希望投資者購買股票以幫助融資 14B 美元收購 Juniper Networks</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</link>
-      <description><![CDATA[2,700 萬股C 輪優先股將於13 日週五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網絡(Juniper) 收購提供資金。]]></description>
+      <description><![CDATA[2,700 萬股C 輪優先股將於13 日星期五發行 惠普企業(Hewlett Packard Enterprise) 正在尋求投資者幫助籌集超過10 億美元，為其昂貴的網絡競爭對手瞻博網路(Juniper) 收購提供資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/hpe_shares_juniper_funding/</guid>
       <pubDate>Wed, 11 Sep 2024 15:45:10 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 11 Sep 2024 13:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>研究顯示超過一半的 VMware 客戶正在尋求遷移</title>
+      <title>研究表明，超過一半的 VMware 客戶正在尋求遷移</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</link>
       <description><![CDATA[價格上漲，Broadcom 收購後的不確定性迫使用戶轉向其他地方來滿足虛擬化需求 Civo 發布的研究表明，超過一半的VMware 客戶正在考慮將該平台留在Broadcom 的所有權之下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/civo_vmware_research/</guid>
       <pubDate>Wed, 11 Sep 2024 12:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>仍生活在過去的Windows 11用戶面臨強制更新，不管你喜歡與否</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/microsoft_23h2_forced_update/</link>
-      <description><![CDATA[22H2 和21H2 的頑固者即將被拖到23H2 微軟警告說，對於仍然堅持過去的Windows 11 21H2 和22H2 用戶來說，強制更新即將到來。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/microsoft_23h2_forced_update/</guid>
-      <pubDate>Wed, 11 Sep 2024 12:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
