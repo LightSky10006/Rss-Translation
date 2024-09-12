@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Sep 2024 07:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 08:40:47 GMT</lastBuildDate>
+    <item>
+      <title>Pop!_OS 24.04 和新的 COSMIC 桌面達到 alpha</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/</link>
+      <description><![CDATA[距離準備就緒還有很長的路要走 - 但在遠處清晰可見 System76 的 Ubuntu remix 的最新版本已經可用，但無論如何還沒有完成。不過，基於 Rust 的新桌面還是有點用的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/</guid>
+      <pubDate>Thu, 12 Sep 2024 08:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>如果 HDMI 螢幕撕裂對盜版者來說還不夠好，DeCENC 是擊敗網路視訊 DRM 的另一種方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/cenc_encryption_stream_attack/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>全球裁員報道稱三星在印度面臨罷工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</link>
-      <description><![CDATA[工會聲稱泰米爾納德邦工廠的工作條件就像單獨監禁，暴力行為很常見 印度泰米爾納德邦三星電子工廠的工人自周一以來一直在罷工，生產中斷，因為他們爭取加薪、改善工作時間和結束無工會政策…]]></description>
+      <description><![CDATA[工會聲稱泰米爾納德邦工廠的工作條件就像單獨監禁，暴力行為很常見 印度泰米爾納德邦三星電子工廠的工人自周一以來一直在罷工，生產中斷，因為他們爭取加薪、改善工作時間、結束無工會政策…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/samsung_india_strikes/</guid>
       <pubDate>Thu, 12 Sep 2024 03:46:07 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 11 Sep 2024 22:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌押注於碳捕獲技術來清理 2030 年代的爛攤子</title>
+      <title>谷歌押注於碳捕獲技術來清理 2030 年代的混亂局面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</link>
       <description><![CDATA[Mountain View 支持新創公司Holocene，希望削減排放成本 Google 打算從直接空氣捕獲提供者購買碳清除額度，以幫助抵消其溫室氣體(GHG) 排放，儘管該舉措並未獲批准預計要到下一個十年才會開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/google_carbon_removal_credits/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 11 Sep 2024 12:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>英國國家醫療服務體系 (NHS) 宣布，「IT 故障」影響血液檢測，成為另一個重大事件</title>
+      <title>NHS 宣布的另一起重大事件是「IT 故障」影響了血液檢測</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</link>
       <description><![CDATA[與倫敦不同，不存在謀殺嫌疑 英國國家醫療服務體系 (NHS) 提供病理學服務的能力再次受到打擊，英格蘭兩家醫院今天早上宣布發生一起嚴重事件... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/nhs_pathology_services_battered_again/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[黑帽大會上發生了什麼事... 在上個月黑帽大會期間試圖逃離拉斯維加斯的炎熱天氣時，watchTowr Labs 研究人員決定尋找WHOIS協議中的弱點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/watchtowr_black_hat_whois/</guid>
       <pubDate>Wed, 11 Sep 2024 11:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜將在 2028 年之前向英國資料中心投入 80 億英鎊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/11/amazon_uk_datacenter_investment/</link>
-      <description><![CDATA[真好。現在看看公司稅法案怎麼樣... 亞馬遜網路服務(AWS) 的那些仁慈的慈善家計劃從現在到2028 年在英國的數據中心投資80 億英鎊（104 億美元） ，此舉受到英國財政部長的歡迎，他試圖將其歸功於國家經濟復興的一部分。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/11/amazon_uk_datacenter_investment/</guid>
-      <pubDate>Wed, 11 Sep 2024 10:36:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
