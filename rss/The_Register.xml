@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 13:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 14:37:42 GMT</lastBuildDate>
+    <item>
+      <title>MongoDB 執行長表示，如果人工智慧炒作是網路泡沫，那是 1996 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/</link>
+      <description><![CDATA[NoSQL 資料庫攻擊者試圖安撫投資者，有點 分析 根據人工智慧的商業採用情況，如果將其放在網路時代的時間線上，那是1996 年MongoDB 執行長 Dev Ittycheria... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:33:14 GMT</pubDate>
+    </item>
     <item>
       <title>微軟正在更新 Windows 以避免重蹈 CrowdStrike 災難的覆轍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[SaaS 賣家將嚴重性設定為「嚴重」 Adobe 本週針對Acrobat 中的遠端程式碼執行(RCE) 錯誤發布的修補程式沒有提及該漏洞被視為零日漏洞，也沒有提及該漏洞的證據研究人員警告稱，存在概念（PoC）漏洞......  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/adobe_acrobat_0day/</guid>
       <pubDate>Thu, 12 Sep 2024 18:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
-      <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
