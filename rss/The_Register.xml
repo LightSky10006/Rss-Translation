@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 06:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 07:34:32 GMT</lastBuildDate>
+    <item>
+      <title>木偶每天都以自己的方式破壞資料中心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</link>
+      <description><![CDATA[事實證明，Snuffleupagus 先生太真實了，而且不擅長資料庫復原能力 隨時待命到週五，世界的重擔甚至壓在了最熱情的IT 專業人士身上，這就是為什麼The Register利用每週工作的最後一天，透過新一期的「On Call」來減輕負擔——這是一個由讀者投稿的專欄，我們將在其中講述您在技術支援下掙扎的故事負擔…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</guid>
+      <pubDate>Fri, 13 Sep 2024 07:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 最新的 o1 模型系列可以模擬「推理」——但可能有點想太多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
+      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的前沿——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
       <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[比1960 年代的努力更加謹慎，EVA 順利進行 SpaceX 的首次商業太空行走- 以及首次使用宇航服的艙外活動(EVA) - 已經發生，幾乎打破了昨天的高度記錄...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/polaris_dawn_eva/</guid>
       <pubDate>Thu, 12 Sep 2024 13:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis 透過新硬體、LLM 成本節省功能證明開源轉變的合理性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</link>
-      <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的方便的現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
