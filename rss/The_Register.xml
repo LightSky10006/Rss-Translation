@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 10:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 11:11:10 GMT</lastBuildDate>
+    <item>
+      <title>英國監管機構擔心 Voda 與 Three 的合併將增加客戶的電話費</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</link>
+      <description><![CDATA[分析師稱，儘管如此，這對競爭來說會更好 英國競爭監管機構擔心沃達豐和3 UK 之間的擬議合併可能會導致客戶承擔更大的費用，但這一觀點遭到了公司的拒絕，他們認為合併是透過新的投資改變當地行動市場的機會。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</guid>
+      <pubDate>Fri, 13 Sep 2024 10:48:49 GMT</pubDate>
+    </item>
     <item>
       <title>「超大規模客戶」將在倫敦附近建立大型資料中心站點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hyperscale_customer_to_take_massive/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的前沿——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
+      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
       <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[執行長蘇姿豐(Lisa Su) 的目標是在GPU、CPU、FPGA 等所有領域做到最好...而英特爾卻在苦苦掙扎 評論  AMD 曾經是晶片行業的小魚在主要競爭對手英特爾犯下一系列失誤後，公司感受到了水里的血腥味，而首席執行官蘇姿豐則不失時機地向投資者談論其遊戲計劃。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/amd_conference_comments/</guid>
       <pubDate>Thu, 12 Sep 2024 14:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>主要 ISP 設定錯誤，導致 Microsoft 365、Azure 中斷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</link>
-      <description><![CDATA[AT&amp;T 確認“短暫中斷”，沒有任何謀殺跡象 已更新 如果您今天早上登入 Azure 時遇到問題，不，這不僅僅是您的問題：微軟已經確認了一個問題。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</guid>
-      <pubDate>Thu, 12 Sep 2024 14:25:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
