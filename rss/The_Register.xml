@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 14:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 15:12:42 GMT</lastBuildDate>
+    <item>
+      <title>PC 製造商稱 Win 11 更新延遲 - 原因如下</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/win_11_refreshes_delayed_pc_makers/</link>
+      <description><![CDATA[哦，關於那些人工智慧電腦...分析師認為，仍然沒有殺手級應用程式或令人信服的用例 如果戴爾和惠普的更新浪潮是正確的，那麼管理員最好重新審視他們的Windows 遷移技能「老化」的商用 PC 產業正在加速發展 - 儘管這一過程的發生速度似乎比任何一家公司預期的都要慢。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/win_11_refreshes_delayed_pc_makers/</guid>
+      <pubDate>Fri, 13 Sep 2024 15:09:51 GMT</pubDate>
+    </item>
     <item>
       <title>MongoDB 執行長表示，如果人工智慧炒作是網路泡沫，那是 1996 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[哦，原來有些東西是錢可以買到的 萬事達卡在其不斷增長的投資組合中增加了另一項安全資產，為威脅情報巨頭Recorded Future 投入了26.5 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/mastercard_recorded_future/</guid>
       <pubDate>Thu, 12 Sep 2024 19:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 修正了 Acrobat 錯誤，但忽略了整個零日漏洞事件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/adobe_acrobat_0day/</link>
-      <description><![CDATA[SaaS 賣家將嚴重性設定為「嚴重」 Adobe 本週針對Acrobat 中的遠端程式碼執行(RCE) 錯誤發布的修補程式沒有提及該漏洞被視為零日漏洞，也沒有提及該漏洞的證據研究人員警告稱，存在概念（PoC）漏洞......  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/adobe_acrobat_0day/</guid>
-      <pubDate>Thu, 12 Sep 2024 18:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
