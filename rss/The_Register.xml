@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 06:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 06:42:49 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 最新的 o1 模型系列可以模擬「推理」——但可能有點想太多</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</link>
+      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士能夠更好地應對複雜的挑戰 OpenAI 週四推出了o1，其最新的大型語言模型系列，據稱能夠模擬複雜的推理。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</guid>
+      <pubDate>Fri, 13 Sep 2024 06:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>日本將在月球上建造一座瑞典紅色小房子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/japan_ispace_moonhouse/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的方便的現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</guid>
       <pubDate>Thu, 12 Sep 2024 13:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟啟動對谷歌人工智慧模型的調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_ai_model_inquiry_eu/</link>
-      <description><![CDATA[隱私監管機構仔細研究資料隱私和 PaLM 2 歐盟資料隱私的主要監管機構愛爾蘭資料保護委員會 (DPC) 已對 Google 的 AI 模型發起跨境調查以確定它是否符合歐盟的規則。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_ai_model_inquiry_eu/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
