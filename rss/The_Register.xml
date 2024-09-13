@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 11:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 11:35:15 GMT</lastBuildDate>
+    <item>
+      <title>隨著甲骨文與 AWS 的交易完成三大巨頭的爭奪，許可方面的問題仍然存在</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</link>
+      <description><![CDATA[有些用戶會看到Big Red 將其硬體堆疊在Amazon 資料中心的吸引力 分析 在Big Red 最近於拉斯維加斯舉行的CloudWorld 盛會上，AWS 首席執行官Matt Garman 表示：由主要競爭對手甲骨文主持，看起來很舒適和輕鬆。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</guid>
+      <pubDate>Fri, 13 Sep 2024 11:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>英國監管機構擔心 Voda 與 Three 的合併將增加客戶的電話費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
+      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的前沿——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
       <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[NCA 確認逮捕了一名17 歲的男子，“因涉嫌計算機濫用法犯罪”，現已保釋 倫敦交通局正在進行的網絡事件發生了黑暗的轉變，因為該組織確認了一些數據，包括銀行詳細資訊可能已被訪問，並且 30,000 名員工的密碼需要透過親自預約重置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/transport_for_londons_cyber_attack/</guid>
       <pubDate>Thu, 12 Sep 2024 14:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD磨礪矽劍，挑戰晶片和人工智慧競爭對手</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/amd_conference_comments/</link>
-      <description><![CDATA[執行長蘇姿豐(Lisa Su) 的目標是在GPU、CPU、FPGA 等所有領域做到最好...而英特爾卻在苦苦掙扎 評論  AMD 曾經是晶片行業的小魚在主要競爭對手英特爾犯下一系列失誤後，公司感受到了水里的血腥味，而首席執行官蘇姿豐則不失時機地向投資者談論其遊戲計劃。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/amd_conference_comments/</guid>
-      <pubDate>Thu, 12 Sep 2024 14:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
