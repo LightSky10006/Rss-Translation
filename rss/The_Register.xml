@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 12:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 13:36:47 GMT</lastBuildDate>
+    <item>
+      <title>微軟正在更新 Windows 以避免重蹈 CrowdStrike 災難的覆轍</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</link>
+      <description><![CDATA[安全解決方案的現有低階核心存取將進行重新設計 微軟表示，它正在Windows 上工作，允許端點安全解決方案在作業系統核心之外運行，所有這些都是為了防止任何未來會出現 CrowdStrike 式的大規模停電…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</guid>
+      <pubDate>Fri, 13 Sep 2024 13:33:05 GMT</pubDate>
+    </item>
     <item>
       <title>美國波音工會工人拒絕合約：96%投票支持罷工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/boeing_hit_by_strike_action/</link>
-      <description><![CDATA[可疑的流程、危險的太空船，還有什麼可能出錯的地方？喔...30,000名員工下班 在國際機械師和航空航天工人協會751區成員投票支持罷工行動後，航空航天巨頭波音公司的工業困難可能會被添加到困境中。 .. ]]></description>
+      <description><![CDATA[可疑的流程、危險的太空船，還有什麼可能出錯的地方？喔...30,000名員工下班 在國際機械師和航空航太工人協會751區成員投票支持罷工行動後，航空航太巨頭波音公司的工業困難可能會被添加到困境清單中。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/boeing_hit_by_strike_action/</guid>
       <pubDate>Fri, 13 Sep 2024 12:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Oracle 的 AWS 交易完成三大巨頭的交易，授權問題仍然存在</title>
+      <title>隨著甲骨文與 AWS 的交易完成三大巨頭的爭奪，許可方面的問題仍然存在</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</link>
-      <description><![CDATA[有些用戶會看到Big Red 在Amazon 資料中心堆疊硬體的吸引力 分析 在Big Red 最近於拉斯維加斯舉行的CloudWorld 盛會上， AWS 執行長 Matt Garman 表示：由主要競爭對手甲骨文主持，看起來很舒服又輕鬆。]]></description>
+      <description><![CDATA[有些用戶會看到Big Red 將其硬體堆疊在Amazon 資料中心的吸引力 分析 在Big Red 最近於拉斯維加斯舉行的CloudWorld 盛會上，AWS 首席執行官Matt Garman 表示：由主要競爭對手甲骨文主持，看起來很舒適和輕鬆。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</guid>
       <pubDate>Fri, 13 Sep 2024 11:28:09 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 13 Sep 2024 09:39:37 GMT</pubDate>
     </item>
     <item>
-      <title>布偶每天都以自己的方式破壞資料中心</title>
+      <title>木偶每天都以自己的方式破壞資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</link>
       <description><![CDATA[事實證明，Snuffleupagus 先生太真實了，而且不擅長資料庫復原能力 隨時待命到週五，世界的重擔甚至壓在了最熱情的IT 專業人士身上，這就是為什麼The Register利用每週工作的最後一天，透過新一期的「On Call」來減輕負擔——這是一個由讀者投稿的專欄，我們將在其中講述您在技術支援下掙扎的故事負擔…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>OpenAI 最新的 o1 模型系列可以模擬「推理」——但可能有點想太多</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</link>
-      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士能夠更好地應對複雜的挑戰 OpenAI 週四推出了o1，其最新的大型語言模型系列，聲稱能夠模擬複雜的推理。]]></description>
+      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士能夠更好地應對複雜的挑戰 OpenAI 週四推出了o1，其最新的大型語言模型系列，據稱能夠模擬複雜的推理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</guid>
       <pubDate>Fri, 13 Sep 2024 06:32:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>聯邦調查局取消了與進口中國槍支轉換設備相關的域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/gun_switch_domains_seized/</link>
-      <description><![CDATA[涉嫌運往美國的非法商品貼有玩具或珠寶標籤 美國馬薩諸塞州檢察官辦公室查獲了350 多個互聯網域名，據稱這些域名被中國公司用來銷售美國居民套件，這些套件可轉換成玩具或珠寶。]]></description>
+      <description><![CDATA[涉嫌運往美國的非法貨物貼有玩具或珠寶標籤 美國馬薩諸塞州檢察官辦公室查獲了350 多個互聯網域名，據稱這些域名被中國公司用來銷售美國居民套件，這些套件可將將半自動手槍變成全自動槍 - 並在開火時使其靜音。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/gun_switch_domains_seized/</guid>
       <pubDate>Fri, 13 Sep 2024 01:58:06 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>“Hadooken”Linux 惡意軟體瞄準 Oracle WebLogic 伺服器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</link>
-      <description><![CDATA[Nastyware 尋求信用、挖掘加密貨幣並植入目前尚未部署的勒索軟體？惡意軟體來自雲端安全機構 Aqua 的研究人員…]]></description>
+      <description><![CDATA[Nastyware 尋求信用、挖掘加密貨幣，並植入目前尚未部署的勒索軟體？ Linux 惡意軟體來自雲端安全機構 Aqua 的研究人員…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</guid>
       <pubDate>Fri, 13 Sep 2024 00:31:12 GMT</pubDate>
     </item>
     <item>
       <title>FCC 老闆開始提出馬斯克的星鏈主導地位和反壟斷擔憂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</link>
-      <description><![CDATA[SpaceX 寬頻網路目前佔所有在軌活躍衛星的近三分之二 當 Elon Musk 的Starlink 達到其第7,000 顆寬頻衛星里程碑時，他不太可能期望FCC 主席暗示他的太空主導地位可能會抑制競爭，但我們在這裡...... &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <description><![CDATA[SpaceX 寬頻網路目前佔在軌所有活躍衛星的近三分之二 當 Elon Musk 的Starlink 達到其第7,000 顆寬頻衛星里程碑時，他不太可能期望FCC 主席會暗示他的太空主導地位可能會抑制競爭，但我們在這裡...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</guid>
       <pubDate>Thu, 12 Sep 2024 22:00:15 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 12 Sep 2024 21:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>網路騙子稱，我從凱捷公司竊取了 20 GB 數據，現在我正在洩露這些數據</title>
+      <title>網路騙子稱，我從凱捷公司竊取了 20 GB 數據，現在又將其洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</link>
       <description><![CDATA[據稱被盜的資料庫包含原始碼、私鑰、員工資訊、T-Mobile VM 日誌等 一名不法分子聲稱已闖入凱捷並洩露了從該技術中竊取的大量敏感資料服務巨頭 - 包括原始碼、憑證和 T-Mobile 的虛擬機器日誌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的前沿——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
+      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
       <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌瀏覽器對一些安全修復有自己的想法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_chrome_safety_check/</link>
-      <description><![CDATA[瀏覽器變得更主動地修剪不需要的權限和欺騙性通知 Google 增強了Chrome 的安全檢查，以便它可以代表使用者做出一些安全決策。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_chrome_safety_check/</guid>
-      <pubDate>Thu, 12 Sep 2024 16:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
