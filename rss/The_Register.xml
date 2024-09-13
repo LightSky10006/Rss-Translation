@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 16:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 16:40:50 GMT</lastBuildDate>
+    <item>
+      <title>隨著發射將近，歐羅巴快船展開翅膀</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/the_europa_clipper_stretches_its/</link>
+      <description><![CDATA[太陽能電池陣列規模龐大…但旁觀者真正擔心的是電晶體 美國太空總署(NASA) 的歐羅巴快艇(Europa Clipper) 距離10 月10 日發射還有不到一個月的時間，美國太空總署已經展示了太空船的巨型太陽能電池陣。然而，人們仍然擔心探測器的電子設備在惡劣的木星環境中的表現如何。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/the_europa_clipper_stretches_its/</guid>
+      <pubDate>Fri, 13 Sep 2024 16:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>PC 製造商稱 Win 11 更新延遲 - 原因如下</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/win_11_refreshes_delayed_pc_makers/</link>
@@ -20,9 +27,9 @@
       <pubDate>Fri, 13 Sep 2024 14:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>微軟正在更新 Windows 以避免重蹈 CrowdStrike 災難的覆轍</title>
+      <title>CrowdStrike 災難發生後，微軟認為將防毒軟體移出 Windows 核心模式是個好主意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</link>
-      <description><![CDATA[安全解決方案的現有低階核心存取將進行重新設計 微軟表示，它正在Windows 上工作，允許端點安全解決方案在作業系統核心之外運行，所有這些都是為了防止任何未來會出現 CrowdStrike 式的大規模停電…]]></description>
+      <description><![CDATA[安全解決方案的現有低階存取將進行重新設計 微軟表示，它正在Windows 上工作，以允許端點安全解決方案在作業系統核心之外有效運行，所有這些都是為了防止任何未來會出現 CrowdStrike 式的大規模停電…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</guid>
       <pubDate>Fri, 13 Sep 2024 13:33:05 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 13 Sep 2024 11:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>英國監管機構擔心 Voda 與 Three 的合併將增加客戶的電話費</title>
+      <title>英國監管機構擔心 Voda-Three 合併將增加客戶的電話費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</link>
       <description><![CDATA[分析師稱，儘管如此，這對競爭來說會更好 英國競爭監管機構擔心沃達豐和3 UK 之間的擬議合併可能會導致客戶承擔更大的費用，但這一觀點遭到了公司的拒絕，他們認為合併是透過新的投資改變當地行動市場的機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</guid>
@@ -62,9 +69,9 @@
       <pubDate>Fri, 13 Sep 2024 07:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 最新的 o1 模型系列可以模擬「推理」——但可能有點想太多</title>
+      <title>OpenAI 最新的 o1 模型系列試圖模擬「推理」——但可能有點想太多了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</link>
-      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士能夠更好地應對複雜的挑戰 OpenAI 週四推出了o1，其最新的大型語言模型系列，據稱能夠模擬複雜的推理。]]></description>
+      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士「更好」地應對複雜的挑戰 OpenAI 週四推出了其最新的大型語言模型系列o1，聲稱該模型能夠模擬複雜的推理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</guid>
       <pubDate>Fri, 13 Sep 2024 06:32:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[就連聊天機器人也據稱承認侵權 提供企業人工智慧平台的Gemini Data已起訴Google以相同的名稱調用自己的人工智慧服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/google_gemini_ai_lawsuit/</guid>
       <pubDate>Thu, 12 Sep 2024 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>萬事達卡斥資 2.65B 美元進行另一筆大型網路收購 – Recorded Future</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/mastercard_recorded_future/</link>
-      <description><![CDATA[哦，原來有些東西是錢可以買到的 萬事達卡在其不斷增長的投資組合中增加了另一項安全資產，為威脅情報巨頭Recorded Future 投入了26.5 億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/mastercard_recorded_future/</guid>
-      <pubDate>Thu, 12 Sep 2024 19:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
