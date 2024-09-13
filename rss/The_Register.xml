@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 08:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 10:13:01 GMT</lastBuildDate>
+    <item>
+      <title>「超大規模客戶」將在倫敦附近建立大型資料中心站點</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hyperscale_customer_to_take_massive/</link>
+      <description><![CDATA[「商業敏感」隱身買家比上一個試圖在M25 附近建造小型穀倉的團體獲得了更多支持 獨家 歐洲最大的資料中心園區之一個計劃將在英國赫特福德郡M25 高速公路附近建造，正在等待許可，尚未確定的超大規模客戶將取得所有權。 /data_centre/_whitepaper_textlinks_top .html&#39;--&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hyperscale_customer_to_take_massive/</guid>
+      <pubDate>Fri, 13 Sep 2024 09:39:37 GMT</pubDate>
+    </item>
     <item>
       <title>木偶每天都以自己的方式破壞資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 12 Sep 2024 21:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>網路騙子稱，我從凱捷公司竊取了 20GB 數據，現在我正在洩露這些數據</title>
+      <title>網路騙子稱，我從凱捷公司竊取了 20 GB 數據，現在又將其洩露</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</link>
       <description><![CDATA[據稱被盜的資料庫包含原始碼、私鑰、員工資訊、T-Mobile VM 日誌等 一名不法分子聲稱已闖入凱捷並洩露了從該技術中竊取的大量敏感資料服務巨頭 - 包括原始碼、憑證和 T-Mobile 的虛擬機器日誌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/capgemini_breach_data_dump/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[AT&amp;T 確認“短暫中斷”，沒有任何謀殺跡象 已更新 如果您今天早上登入 Azure 時遇到問題，不，這不僅僅是您的問題：微軟已經確認了一個問題。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/att_microsoft_365_outage/</guid>
       <pubDate>Thu, 12 Sep 2024 14:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 北極星黎明任務完成首次商業太空行走</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/polaris_dawn_eva/</link>
-      <description><![CDATA[比1960 年代的努力更加謹慎，EVA 順利進行 SpaceX 的首次商業太空行走- 以及首次使用宇航服的艙外活動(EVA) - 已經發生，幾乎打破了昨天的高度記錄...... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/polaris_dawn_eva/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
