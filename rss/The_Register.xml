@@ -4,18 +4,32 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Sep 2024 00:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 02:10:21 GMT</lastBuildDate>
+    <item>
+      <title>聯邦調查局取消了與進口中國槍支轉換設備相關的域名</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/gun_switch_domains_seized/</link>
+      <description><![CDATA[涉嫌運往美國的非法商品貼有玩具或珠寶標籤 美國馬薩諸塞州檢察官辦公室查獲了350 多個互聯網域名，據稱這些域名被中國公司用來銷售美國居民套件，這些套件可轉換成玩具或珠寶。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/gun_switch_domains_seized/</guid>
+      <pubDate>Fri, 13 Sep 2024 01:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fortinet 承認不法分子在雲端竊取了客戶數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fortinet_data_loss/</link>
+      <description><![CDATA[這可以解釋這個 440GB 的洩漏，然後 Fortinet 承認不良行為者訪問了有關其客戶的雲端託管數據，但堅稱這是「數量有限」的文件。問題是：「有限」到什麼程度？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fortinet_data_loss/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>“Hadooken”Linux 惡意軟體瞄準 Oracle WebLogic 伺服器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</link>
-      <description><![CDATA[Nastyware 尋求信用、挖掘加密貨幣，並植入目前尚未部署的勒索軟體？ Linux 惡意軟體來自雲端安全機構 Aqua 的研究人員…]]></description>
+      <description><![CDATA[Nastyware 尋求信用、挖掘加密貨幣並植入目前尚未部署的勒索軟體？惡意軟體來自雲端安全機構 Aqua 的研究人員…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</guid>
       <pubDate>Fri, 13 Sep 2024 00:31:12 GMT</pubDate>
     </item>
     <item>
       <title>FCC 老闆開始提出馬斯克的星鏈主導地位和反壟斷擔憂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</link>
-      <description><![CDATA[SpaceX 寬頻網路目前佔在軌所有活躍衛星的近三分之二 當 Elon Musk 的Starlink 達到其第7,000 顆寬頻衛星里程碑時，他不太可能期望FCC 主席會暗示他的太空主導地位可能會抑制競爭，但我們在這裡...... ]]></description>
+      <description><![CDATA[SpaceX 寬頻網路目前佔所有在軌活躍衛星的近三分之二 當 Elon Musk 的Starlink 達到其第7,000 顆寬頻衛星里程碑時，他不太可能期望FCC 主席暗示他的太空主導地位可能會抑制競爭，但我們在這裡...... &lt;!--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/starlink_satellite_dominance_fcc/</guid>
       <pubDate>Thu, 12 Sep 2024 22:00:15 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>波音公司將於 2026 年推出量子通訊衛星測試台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</link>
-      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的領域——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
+      <description><![CDATA[在Starliner 遭遇挫折後，這家航空航天巨頭將目光投向了新的前沿——太空中的糾纏交換 波音公司並沒有被Starliner 載人太空艙的問題嚇倒，而是計劃進行一些無人駕駛科學——發射它將在一顆衛星上運行量子糾纏交換演示，這有助於實現安全通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/boeing_quantum_satellite/</guid>
       <pubDate>Thu, 12 Sep 2024 17:30:13 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
     <item>
       <title>Redis 透過新硬體、LLM 成本節省功能證明開源轉變的合理性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</link>
-      <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的方便的現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
+      <description><![CDATA[執行長認為更嚴格的授權是資料庫更新的關鍵，並表示團隊「預期」會發生分叉 訪談 Redis 是AWS 上最受歡迎的資料庫，其中當然是最受歡迎的雲。事實上，這個相對鮮為人知的資料庫於 2009 年推出，能夠在與成熟競爭對手的競爭中脫穎而出，這可能很大程度上歸功於它作為開發人員了解和喜愛的便捷現成快取的聲譽。然而在過去的幾年裡，它一直渴望做得更多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/redis_justifies_open_source_shift/</guid>
       <pubDate>Thu, 12 Sep 2024 13:00:15 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[「Brilliant」團隊執行電氣平衡操作，以保持探測器指向地球 老航海者1 號太空船上的電力狀況脆弱，要求工程師在推進器和燃料管線之間切換時執行微妙的平衡操作逐漸堵塞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/voyager_power_issues/</guid>
       <pubDate>Thu, 12 Sep 2024 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>注意你的標題！網路釣魚者的最新策略並沒有什麼令人耳目一新的地方</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</link>
-      <description><![CDATA[這可能會導致代價高昂的BEC 情況 帕洛阿爾託的Unit 42 威脅情報團隊希望引起安全行業的注意，網絡釣魚者為獲取受害者憑證而使用的一種日益常見的策略。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/http_headers/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pop!_OS 24.04 和新的 COSMIC 桌面達到 alpha</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/</link>
-      <description><![CDATA[距離準備就緒還有很長的路要走 - 但在遠處清晰可見 System76 的 Ubuntu remix 的最新版本已經可用，但無論如何還沒有完成。不過，基於 Rust 的新桌面還是有點用的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/12/pop_os_2404_cosmic_desktop/</guid>
-      <pubDate>Thu, 12 Sep 2024 08:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
