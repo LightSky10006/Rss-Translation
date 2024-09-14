@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 14 Sep 2024 07:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:34:12 GMT</lastBuildDate>
+    <item>
+      <title>開源人工智慧戰爭已經開始</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</link>
+      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與它有任何關係。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</guid>
+      <pubDate>Sat, 14 Sep 2024 09:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 回來了，收集英國人的公開 Facebook、Insta 供稿用於人工智慧訓練</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/uk_meta_ai_facebook/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[涉嫌運往美國的非法貨物貼有玩具或珠寶標籤 美國馬薩諸塞州檢察官辦公室查獲了350 多個互聯網域名，據稱這些域名被中國公司用來銷售美國居民套件，這些套件可將將半自動手槍變成全自動槍 - 並在開火時使其靜音。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/gun_switch_domains_seized/</guid>
       <pubDate>Fri, 13 Sep 2024 01:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fortinet 承認不法分子在雲端竊取了客戶數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fortinet_data_loss/</link>
-      <description><![CDATA[這可以解釋這個 440GB 的洩漏，然後 Fortinet 承認不良行為者訪問了有關其客戶的雲端託管數據，但堅稱這是「數量有限」的文件。問題是：「有限」到什麼程度？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fortinet_data_loss/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
