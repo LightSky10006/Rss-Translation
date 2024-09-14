@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 14 Sep 2024 02:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 07:34:30 GMT</lastBuildDate>
+    <item>
+      <title>Meta 回來了，收集英國人的公開 Facebook、Insta 供稿用於人工智慧訓練</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/uk_meta_ai_facebook/</link>
+      <description><![CDATA[我想知道🎵你的感受🎵告訴我你在想什麼 Meta 將在與英國達成協議後恢復抓取英國 Facebook 和 Instagram 用戶的個人公開信息，用於訓練人工智能英國資訊專員辦公室（ICO）......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/14/uk_meta_ai_facebook/</guid>
+      <pubDate>Sat, 14 Sep 2024 07:20:11 GMT</pubDate>
+    </item>
     <item>
       <title>FDA稱蘋果AirPods Pro 2可以作為助聽器出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fda_airpod_hearing_aid/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這可以解釋這個 440GB 的洩漏，然後 Fortinet 承認不良行為者訪問了有關其客戶的雲端託管數據，但堅稱這是「數量有限」的文件。問題是：「有限」到什麼程度？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/fortinet_data_loss/</guid>
       <pubDate>Fri, 13 Sep 2024 00:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Hadooken”Linux 惡意軟體瞄準 Oracle WebLogic 伺服器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</link>
-      <description><![CDATA[Nastyware 尋求信用、挖掘加密貨幣，並植入目前尚未部署的勒索軟體？ Linux 惡意軟體來自雲端安全機構 Aqua 的研究人員…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/hadooken_attacks_oracle_weblogic/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
