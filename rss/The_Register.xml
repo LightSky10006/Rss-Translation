@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Sep 2024 19:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 20:13:30 GMT</lastBuildDate>
+    <item>
+      <title>C++ 帝國以安全 C++ 藍圖反擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/safe_c_plusplus/</link>
+      <description><![CDATA[你們這些小東西想要記憶體安全嗎？我們將向您展示記憶體安全！我們將藉用借用檢查器 在遭受記憶體安全棒打擊兩年後，C++ 社群發布了一項提案，幫助開發人員編寫不易受攻擊的程式碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/safe_c_plusplus/</guid>
+      <pubDate>Mon, 16 Sep 2024 20:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>艾里森宣布甲骨文「全力以赴」人工智慧大規模監控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/oracle_ai_mass_surveillance_cloud/</link>
-      <description><![CDATA[關注每個人：從警察到公眾 甲骨文聯合創始人拉里·埃里森(Larry Ellison) 表示，人工智慧即將迎來大規模監控的新時代，他的主宰正在咆哮，準備好作為此類人工智慧應用的技術支柱。 … ]]></description>
+      <description><![CDATA[關注所有人：從警察到公眾 甲骨文聯合創始人拉里·埃里森(Larry Ellison) 表示，人工智慧即將迎來大規模監控的新時代，他的主宰正在咆哮，準備好作為此類人工智慧應用的技術支柱。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/oracle_ai_mass_surveillance_cloud/</guid>
       <pubDate>Mon, 16 Sep 2024 18:34:14 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 16 Sep 2024 15:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>六月網路攻擊發生數月後，德國基民盟仍在努力恢復數據</title>
+      <title>德國基民盟 (CDU) 在 6 月網路攻擊發生數月後仍在努力恢復數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/nein_luck_for_germanys_cdu/</link>
       <description><![CDATA[阻礙反對黨在明年選舉期間捲土重來的計劃 在 6 月份針對德國的網絡攻擊發生三個多月後，德國一個主要政黨仍在努力恢復成員數據它的系統... ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/nein_luck_for_germanys_cdu/</guid>
@@ -71,14 +78,14 @@
     <item>
       <title>軟體的未來？想像一個機器人永遠踩在人臉上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/the_future_of_software_part_one/</link>
-      <description><![CDATA[自動化正在推動下一波商品化浪潮，有可能取代熟練工人 第 1 部分 正如我們之前所說，軟體產業有著數十年的成本歷史-切割、商品化以及「高堆高賣」的成功銷售模式。如果你的技能是下一個商品化的技能，這會產生令人擔憂的後果。但也許有辦法擺脫這個日益縮小的商業瓶頸。]]></description>
+      <description><![CDATA[自動化正在推動下一波商品化浪潮，有可能取代熟練工人 第 1 部分 正如我們之前所說，軟體產業有著數十年的成本歷史- 削減、商品化以及「高堆低賣」的成功銷售模式。如果你的技能是下一個商品化的技能，這會產生令人擔憂的後果。但也許有辦法擺脫這個日益縮小的商業瓶頸。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/the_future_of_software_part_one/</guid>
       <pubDate>Mon, 16 Sep 2024 10:45:13 GMT</pubDate>
     </item>
     <item>
       <title>電信公司因在英國佈線競賽中不必要地豎起電線桿而受到譴責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/uk_telegraph_poles/</link>
-      <description><![CDATA[電信部長懇求運營商合作 英國增加電線桿的問題再次出現，電信部長Chris Bryant 與運營商就共享基礎設施問題進行會面，並在安裝前諮詢居民。  ]]></description>
+      <description><![CDATA[電信部長懇求運營商共同合作 英國增加電線桿的問題再次出現，電信部長Chris Bryant 與運營商會面，討論共享基礎設施並在安裝前諮詢居民。 /p &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/uk_telegraph_poles/</guid>
       <pubDate>Mon, 16 Sep 2024 10:15:53 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>印表機銷量暴跌日本理光計畫裁員2000人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</link>
-      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼連通性翻倍；阿里巴巴25歲了；等等！]]></description>
+      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼的連通性翻倍；阿里巴巴25歲了；等等！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</guid>
       <pubDate>Mon, 16 Sep 2024 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>謝謝<i>Reg</i>讀者：On Call 已滿 500 人！</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/15/on_call_500_columns_celebration/</link>
-      <description><![CDATA[一時興起，它已在近十年後成為固定節目 - 並精彩地展示了您的智慧和才智 不久前，The Register 出版了第 500 期On-Call，讀者貢獻的專欄，您可以在其中分享您的技術支援故事。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/15/on_call_500_columns_celebration/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:11:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
