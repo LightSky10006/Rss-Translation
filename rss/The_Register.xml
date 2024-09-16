@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Sep 2024 03:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 04:40:20 GMT</lastBuildDate>
+    <item>
+      <title>中國希望對所有線上發布的人工智慧生成內容發出危險信號</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/china_ai_content_draft_regulations/</link>
+      <description><![CDATA[視覺和聽覺警告，加上元數據，沒有信息被視為可疑 中國互聯網監管機構週六提出了一項嚴格的製度，如果採用該制度，將要求數字平台對人工智慧創建的內容進行標記。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/china_ai_content_draft_regulations/</guid>
+      <pubDate>Mon, 16 Sep 2024 04:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>23andMe 以 3000 萬美元和解集體訴訟違規訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/security_in_brief/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>印表機銷量暴跌日本理光計畫裁員2000人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</link>
-      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼的連通性翻倍；阿里巴巴25歲了；等等！]]></description>
+      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼連通性翻倍；阿里巴巴25歲了；等等！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</guid>
       <pubDate>Mon, 16 Sep 2024 01:03:06 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>開源人工智慧戰爭已經開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</link>
-      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與它有任何關係。]]></description>
+      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與之有任何關係。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</guid>
       <pubDate>Sat, 14 Sep 2024 09:30:09 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>歐盟同意為英特爾波蘭工廠提供 1.9B 美元援助，前提是 x86 巨頭最終不會削減援助金額</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/intel_foundry_poland/</link>
-      <description><![CDATA[那是茲羅提錢，但它太少、太晚了嗎？製造商的運氣正在好轉。]]></description>
+      <description><![CDATA[那是茲羅提錢，但它太少、太晚了嗎？運氣正在好轉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/intel_foundry_poland/</guid>
       <pubDate>Fri, 13 Sep 2024 19:42:07 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>英國監管機構擔心 Voda-Three 合併將增加客戶的電話費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</link>
-      <description><![CDATA[分析師稱，儘管如此，這對競爭來說會更好 英國競爭監管機構擔心沃達豐和3 UK 之間的擬議合併可能會導致客戶承擔更多費用，這一觀點遭到了公司的拒絕，他們認為合併是透過新的投資改變當地行動市場的機會。]]></description>
+      <description><![CDATA[分析師稱，儘管如此，這對競爭來說會更好 英國競爭監管機構擔心沃達豐和3 UK 之間的擬議合併可能會導致客戶承擔更大的費用，但這一觀點遭到了公司的拒絕，他們認為合併是透過新的投資改變當地行動市場的機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/uk_cma_fears_vodathree_merger/</guid>
       <pubDate>Fri, 13 Sep 2024 10:48:49 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 13 Sep 2024 09:39:37 GMT</pubDate>
     </item>
     <item>
-      <title>木偶每天都以自己的方式破壞資料中心</title>
+      <title>布偶每天都以自己的方式破壞資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</link>
-      <description><![CDATA[事實證明，Snuffleupagus 先生太真實了，而且不擅長資料庫復原能力 隨時待命到週五，世界的重擔甚至壓在了最熱情的IT 專業人士身上，這就是為什麼The Register利用每週工作的最後一天，透過新一期的「On Call」來減輕負擔——這是一個由讀者投稿的專欄，我們將在其中講述您在技術支援下掙扎的故事負擔…]]></description>
+      <description><![CDATA[事實證明，Snuffleupagus 先生太真實了，而且不擅長數據庫恢復能力 隨叫隨到到週五，世界的重擔甚至壓在了最熱情的IT 專業人士身上，這就是為什麼The Register利用每週工作的最後一天，透過新一期的「On Call」來減輕負擔——這是一個由讀者投稿的專欄，我們將在其中講述您在技術支援下掙扎的故事負擔…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/on_call/</guid>
       <pubDate>Fri, 13 Sep 2024 07:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 最新的 o1 模型系列試圖模擬「推理」——但可能有點想太多了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</link>
-      <description><![CDATA[「思想鏈」技術意味著最新的法學碩士「更好」地應對複雜的挑戰 OpenAI 週四推出了其最新的大型語言模型系列o1，聲稱該模型能夠模擬複雜的推理。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</guid>
-      <pubDate>Fri, 13 Sep 2024 06:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
