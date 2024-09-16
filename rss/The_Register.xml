@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Sep 2024 08:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 08:41:55 GMT</lastBuildDate>
+    <item>
+      <title>中國的量子*加密技術可能無法破解，但這並不是什麼秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/opinion_column_quantum/</link>
+      <description><![CDATA[* 新科技不太可能有用，夥計 觀點 我們在 21 世紀西方和中國之間的戰場上發出了新的戰鬥號召。中國正在建造基於量子金鑰分發（QKD）的不可破解的國家基礎設施。一個智庫聲稱，物理定律正在被用來對付我們，而我們卻沒有跟上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/opinion_column_quantum/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>我不知道按刪除會做什麼，但看起來足夠安全！</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/who_me/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>印度央行對惠普金融服務部門處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/india_rbi_fines_hp_finance/</link>
-      <description><![CDATA[聲稱其治理是 MIA 及其 KYC 問題 印度儲備銀行因不遵守法規而對 HP Financial Services 處以 12,400 美元的罰款 - 其中一些與了解你的客戶 (KYC) 措施有關 -且沒有必要的IT 委員會......]]></description>
+      <description><![CDATA[聲稱其治理是MIA 及其KYC 問題 印度儲備銀行因不遵守法規而對HP Financial Services 處以相當於12,400 美元的罰款- 其中一些與了解你的客戶(KYC) 措施有關 -並且沒有必要的 IT 委員會......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/india_rbi_fines_hp_finance/</guid>
       <pubDate>Mon, 16 Sep 2024 05:49:05 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>印表機銷量暴跌日本理光計畫裁員2000人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</link>
-      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼連通性翻倍；阿里巴巴25歲了；等等！]]></description>
+      <description><![CDATA[Plus：超級應用程式在亞洲各地陷入困境；印尼的連通性翻倍；阿里巴巴25歲了；等等！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</guid>
       <pubDate>Mon, 16 Sep 2024 01:03:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>開源人工智慧戰爭已經開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</link>
-      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與之有任何關係。]]></description>
+      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與它有任何關係。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</guid>
       <pubDate>Sat, 14 Sep 2024 09:30:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>歐盟同意為英特爾波蘭工廠提供 1.9B 美元援助，前提是 x86 巨頭最終不會削減援助金額</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/intel_foundry_poland/</link>
-      <description><![CDATA[那是茲羅提錢，但它太少、太晚了嗎？運氣正在好轉。]]></description>
+      <description><![CDATA[那是茲羅提錢，但它太少、太晚了嗎？製造商的運氣正在好轉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/intel_foundry_poland/</guid>
       <pubDate>Fri, 13 Sep 2024 19:42:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[可疑的流程、危險的太空船，還有什麼可能出錯的地方？喔...30,000名員工下班 在國際機械師和航空航太工人協會751區成員投票支持罷工行動後，航空航太巨頭波音公司的工業困難可能會被添加到困境清單中。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/boeing_hit_by_strike_action/</guid>
       <pubDate>Fri, 13 Sep 2024 12:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著 Oracle 的 AWS 交易完成三大巨頭的交易，授權問題仍然存在</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</link>
-      <description><![CDATA[有些用戶會看到Big Red 將其硬體堆疊在Amazon 資料中心的吸引力 分析 在Big Red 最近於拉斯維加斯舉行的CloudWorld 盛會上，AWS 首席執行官Matt Garman 表示：由主要競爭對手甲骨文主持，看起來很舒適和輕鬆。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/oracle_embraces_aws_huddle/</guid>
-      <pubDate>Fri, 13 Sep 2024 11:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
