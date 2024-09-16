@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Sep 2024 09:40:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 10:40:40 GMT</lastBuildDate>
+    <item>
+      <title>電信公司因在英國佈線競賽中不必要地豎起電線桿而受到譴責</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/uk_telegraph_poles/</link>
+      <description><![CDATA[電信部長懇求運營商共同合作 英國增加電線桿的問題再次出現，電信部長Chris Bryant 與運營商會面，討論共享基礎設施並在安裝前諮詢居民。 /p &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/uk_telegraph_poles/</guid>
+      <pubDate>Mon, 16 Sep 2024 10:15:53 GMT</pubDate>
+    </item>
     <item>
       <title>SAP 逐年下滑，但崛起</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/gartner_finds_rise_with_sap/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>開源人工智慧戰爭已經開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</link>
-      <description><![CDATA[這會很醜。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與它有任何關係。]]></description>
+      <description><![CDATA[這會很難看。真的很難看 觀點 開源倡議 (OSI) 及其盟友越來越接近開源 AI 的定義。如果一切順利，OSI 執行董事 Stefano Maffulli 預計將於 10 月底在 All Things Open 上宣布 OSI 開源人工智慧定義。但有些開源領導者已經不想與之有任何關係。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/14/opinion_column_osi/</guid>
       <pubDate>Sat, 14 Sep 2024 09:30:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[NoSQL 資料庫攻擊者試圖安撫投資者，有點 分析 根據人工智慧的商業採用情況，如果將其放在網路時代的時間線上，那是1996 年MongoDB 執行長 Dev Ittycheria... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/mongodb_ceo_says_if_ai/</guid>
       <pubDate>Fri, 13 Sep 2024 14:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 災難發生後，微軟認為將防毒軟體移出 Windows 核心模式是個好主意</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</link>
-      <description><![CDATA[安全解決方案的現有低階存取將進行重新設計 微軟表示，它正在Windows 上工作，以允許端點安全解決方案在作業系統核心之外有效運行，所有這些都是為了防止任何未來會出現 CrowdStrike 式的大規模停電…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/microsoft_is_updating_windows_to/</guid>
-      <pubDate>Fri, 13 Sep 2024 13:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
