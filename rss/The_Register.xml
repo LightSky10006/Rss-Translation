@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Sep 2024 02:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 03:04:50 GMT</lastBuildDate>
+    <item>
+      <title>23andMe 以 3000 萬美元和解集體訴訟違規訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/security_in_brief/</link>
+      <description><![CDATA[此外：Apple 將結束 NSO 集團的訴訟；惡意 Python 開發工作機會；暗網頭目被抓獲；等等 Infosec 簡介 基因測試公司 23andMe 已以 3000 萬美元和解了一起與 2023 年資料外洩相關的擬議集體訴訟案。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/security_in_brief/</guid>
+      <pubDate>Mon, 16 Sep 2024 02:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>印表機銷量暴跌日本理光計畫裁員2000人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/asian_tech_news_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[「思想鏈」技術意味著最新的法學碩士「更好」地應對複雜的挑戰 OpenAI 週四推出了其最新的大型語言模型系列o1，聲稱該模型能夠模擬複雜的推理。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/openai_rolls_out_reasoning_o1/</guid>
       <pubDate>Fri, 13 Sep 2024 06:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本將在月球上建造一座瑞典紅色小房子</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/13/japan_ispace_moonhouse/</link>
-      <description><![CDATA[不，你沒看錯 總部位於東京的 ispace 公司週四宣布，它將向月球發射一座紅色的瑞典小房子玩具。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/13/japan_ispace_moonhouse/</guid>
-      <pubDate>Fri, 13 Sep 2024 06:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
