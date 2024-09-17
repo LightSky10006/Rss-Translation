@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 20:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 21:11:47 GMT</lastBuildDate>
+    <item>
+      <title>VMware 針對 vCenter Server、Cloud Foundation 中的遠端 root 漏洞進行修補</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/vmware_vcenter_patch/</link>
+      <description><![CDATA[中國的錯誤報告 Broadcom 已針對 VMware vCenter Server 中的漏洞發布了兩個補丁，透過網路存取該軟體的不法分子可能會利用這些補丁來完全控制系統。這也會影響 Cloud Foundation。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/vmware_vcenter_patch/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:50:24 GMT</pubDate>
+    </item>
     <item>
       <title>沒有一個主要的人工智慧模型是安全的，但有些模型比其他模型做得更好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_models_guardrail_feature/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>黎巴嫩：真主黨尋呼機爆炸，至少九人死亡，數千人受傷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</link>
-      <description><![CDATA[以色列指控受害者中有 8 歲，據說伊朗黎巴嫩大使受傷 黎巴嫩表示，今天至少有 9 人在尋呼機後被殺，其中包括一名 8 歲女孩真主黨成員使用的產品在全國爆炸。以色列受到指責。]]></description>
+      <description><![CDATA[以色列指控受害者中有 8 歲，據說伊朗黎巴嫩大使受傷 黎巴嫩表示，今天至少有 9 人在尋呼機後喪生，其中包括一名 8 歲女孩真主黨成員使用的產品在全國範圍內爆炸。以色列受到指責。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</guid>
       <pubDate>Tue, 17 Sep 2024 18:30:08 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>IBM 在專利爭奪戰中從 Zynga 手中獲得 4,500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</link>
-      <description><![CDATA[來自80 年代的藍色巨人Prodigy 再次困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
+      <description><![CDATA[來自1980 年代的藍色巨人Prodigy 捲土重來，困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</guid>
       <pubDate>Tue, 17 Sep 2024 16:00:15 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Predator 間諜軟體頭目被列入美國制裁名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</link>
-      <description><![CDATA[隨著非洲新基礎設施的啟動，制裁隨之而來 隨著美國加強打擊間諜軟體的力度，與間諜軟體開發商Intellexa 有聯繫的五名個人和一家公司成為最新受到製裁的人。]]></description>
+      <description><![CDATA[隨著非洲新基礎設施的啟動，制裁隨之而來 隨著美國加強打擊間諜軟體的力度，與間諜軟體開發商Intellexa 有聯繫的五名個人和一家公司最新受到製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</guid>
       <pubDate>Tue, 17 Sep 2024 13:44:11 GMT</pubDate>
     </item>
@@ -97,14 +104,14 @@
       <pubDate>Tue, 17 Sep 2024 11:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>由讀者您投票選出的 On Call 最熱門歌曲</title>
+      <title>您投票選出的 On Call 最佳精選</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</link>
       <description><![CDATA[On Call 前 500 期中評論最多的 20 個技術支援專欄 On Call  為了慶祝最近的On-Call 第500 次出現，該專欄介紹您的技術支援酷刑故事，The Register已在檔案中搜尋，找到產生最多評論的20 個欄位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</guid>
       <pubDate>Tue, 17 Sep 2024 10:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>在您的技術堆疊中使用人工智慧嗎？準確性和可靠性是大多數人擔心的問題</title>
+      <title>在您的技術堆疊中使用人工智慧嗎？大多數人擔心準確性和可靠性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</link>
       <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>對數據中心建設的反對可能會被駁回，因為它們是“關鍵的國家基礎設施”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</link>
-      <description><![CDATA[好吧，您不會對供水系統或電網提出強烈抗議，對吧？  英國政府決定將資料中心指定為關鍵國家基礎設施(CNI)，其作用可能不僅僅是提供保護重大事件；它還可能允許開發商推翻當地對建造此類設施的任何反對意見。]]></description>
+      <description><![CDATA[好吧，您不會對供水系統或電網提出強烈抗議，對吧？  英國政府決定將資料中心指定為關鍵國家基礎設施(CNI)，其作用可能不僅僅是提供針對重大事件；它還可能允許開發商推翻當地對建造此類設施的任何反對意見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</guid>
       <pubDate>Tue, 17 Sep 2024 09:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Digital Realty 的新加坡災難一周後仍然使雲端變得複雜 新加坡資料中心發生火災一周後，阿里雲正在等待一些硬體乾涸，然後再恢復服務和客戶資料。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/alibaba_cloud_singapore_fire_recovery/</guid>
       <pubDate>Tue, 17 Sep 2024 06:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面虛擬機器管理程式就像公車：很長時間沒有，然後同時有四個</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</link>
-      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 九月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</guid>
-      <pubDate>Tue, 17 Sep 2024 05:38:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
