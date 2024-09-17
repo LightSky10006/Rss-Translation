@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 19:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 19:35:23 GMT</lastBuildDate>
     <item>
-      <title>真主黨尋呼機發出轟鳴聲而不是蜂鳴聲後，黎巴嫩“九人死亡，數千人受傷”</title>
+      <title>嘿孩子們，想為國際太空站計時嗎？ ESA 的 Astro Pi 挑戰在太空中運行您的程式碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/astro_pi_challenge/</link>
+      <description><![CDATA[向太空人發送漂亮的像素藝術，或嘗試一些更難的東西 歐洲太空總署下一輪的Astro Pi 挑戰賽已經開放，邀請參與者使用國際太空站(ISS) 上的小型計算機）來計算軌道前哨站的速度。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/astro_pi_challenge/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩：真主黨尋呼機爆炸，至少九人死亡，數千人受傷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</link>
-      <description><![CDATA[以色列指責，據報道伊朗駐黎巴嫩大使受傷 黎巴嫩表示，真主黨武裝分子使用的尋呼機在全國各地爆炸後，今天至少有九人死亡。以色列受到指責。]]></description>
+      <description><![CDATA[以色列指控受害者中有 8 歲，據說伊朗黎巴嫩大使受傷 黎巴嫩表示，今天至少有 9 人在尋呼機後被殺，其中包括一名 8 歲女孩真主黨成員使用的產品在全國爆炸。以色列受到指責。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</guid>
       <pubDate>Tue, 17 Sep 2024 18:30:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[可能捲入了與武器開發相關的藍圖 一名中國公民被指控進行了長達數年的魚叉式網絡釣魚活動，旨在竊取美國陸軍和美國宇航局以及其他機構的源代碼用於航空航天工程和軍事應用的高度敏感的軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/chinese_national_nasa_phishing_indictment/</guid>
       <pubDate>Tue, 17 Sep 2024 02:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟確認週二修補程式中修復的 IE 漏洞已被零日漏洞利用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/microsoft_zero_day_spoofing_flaw/</link>
-      <description><![CDATA[這些 CVE 中的 C 代表「Confusing」 分析 Microsoft 在其 9 月修補程式星期二披露的低調更新中確認了剛剛修復的 Internet Explorer 漏洞在修補之前就被用來當作零日漏洞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/microsoft_zero_day_spoofing_flaw/</guid>
-      <pubDate>Tue, 17 Sep 2024 01:29:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
