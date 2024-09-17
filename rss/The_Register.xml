@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 11:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 12:22:28 GMT</lastBuildDate>
+    <item>
+      <title>標準普爾 500 指數的 AI FOMO 失敗：不到一半的人在第二季財報中提到這一點</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_sp_500_q2/</link>
+      <description><![CDATA[炒作已經結束了嗎？收益報告中真正提到了這一點。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_sp_500_q2/</guid>
+      <pubDate>Tue, 17 Sep 2024 12:12:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 即將終結，但微軟仍在不斷推出修復程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</link>
+      <description><![CDATA[發布預覽中解決了DMA 更新後的持續SSO 提示 Microsoft 繼續將電極應用於具有Insider 版本的Windows 10，以處理因歐洲數位市場所做的更改而產生的單點登入問題使用 Internet Explorer 模式時的 Act 和 Edge 凍結。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:33:16 GMT</pubDate>
+    </item>
     <item>
       <title>由讀者您投票選出的 On Call 最熱門歌曲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 17 Sep 2024 10:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>在您的技術堆疊中使用人工智慧嗎？大多數人擔心準確性和可靠性</title>
+      <title>在您的技術堆疊中使用人工智慧嗎？準確性和可靠性是大多數人擔心的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</link>
       <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>桌面虛擬機器管理程式就像公車：很長時間沒有，然後同時有四個</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</link>
-      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 9 月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
+      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 九月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</guid>
       <pubDate>Tue, 17 Sep 2024 05:38:42 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[生產力聊天機器人未來幾個月的發展 更新 微軟的Copilot Wave 2 已經到來，帶來了代理和未解答的問題。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/microsoft_copilot_wave_2/</guid>
       <pubDate>Mon, 16 Sep 2024 15:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>德國基民盟 (CDU) 在 6 月網路攻擊發生數月後仍在努力恢復數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/nein_luck_for_germanys_cdu/</link>
-      <description><![CDATA[阻礙反對黨在明年選舉期間捲土重來的計劃 在 6 月份針對德國的網絡攻擊發生三個多月後，德國一個主要政黨仍在努力恢復成員數據它的系統... ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/nein_luck_for_germanys_cdu/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowflake 的 Unistore 在宣布多年後仍處於冰凍狀態</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_unistore_delay/</link>
-      <description><![CDATA[雲端獨角獸努力打造可以做所有事情「利潤正」的資料庫 在宣布可以在同一系統中進行分析和交易的資料庫兩年後，Snowflake 尚未商業推出 Unistore，其財務長承認。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_unistore_delay/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:44:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
