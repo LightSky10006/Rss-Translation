@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 09:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 10:13:01 GMT</lastBuildDate>
+    <item>
+      <title>在您的技術堆疊中使用人工智慧嗎？準確性和可靠性是大多數人擔心的問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</link>
+      <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
+      <pubDate>Tue, 17 Sep 2024 10:02:12 GMT</pubDate>
+    </item>
     <item>
       <title>對數據中心建設的反對可能會被駁回，因為它們是“關鍵的國家基礎設施”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>桌面虛擬機器管理程式就像公車：很長時間沒有，然後同時有四個</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</link>
-      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 9 月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
+      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 九月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</guid>
       <pubDate>Tue, 17 Sep 2024 05:38:42 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Snowflake 的 Unistore 在宣布多年後仍處於冰凍狀態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_unistore_delay/</link>
-      <description><![CDATA[雲端獨角獸努力打造可以做所有事情「利潤正」的資料庫 在宣布可以在同一系統中進行分析和交易的資料庫兩年後，Snowflake 尚未商業推出 Unistore，其財務長承認。]]></description>
+      <description><![CDATA[雲端獨角獸努力打造可以做所有「利潤正」的資料庫 在宣布可以在同一系統中進行分析和交易的資料庫兩年後，Snowflake 尚未商業推出 Unistore，其首席財務長承認。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_unistore_delay/</guid>
       <pubDate>Mon, 16 Sep 2024 13:44:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[安東尼奧·內裡(Antonio Neri) 表示，「這些都是艱難的決定」 惠普企業(Hewlett Packard Enterprise) 前工程師、現任執行長安東尼奧·內裡(Antonio Neri) 表示，該公司必須對Autonomy 前老闆邁克·林奇(Mike Lynch) 提出40 億美元的索賠遺產，因為它「符合股東的最佳利益」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/hpe_lynch_damages/</guid>
       <pubDate>Mon, 16 Sep 2024 13:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>一群令人髮指的暴力網路犯罪者被判處長期監禁，監獄變得更加殘酷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/prison_just_got_rougher_as/</link>
-      <description><![CDATA[綁架、酷刑、加密貨幣盜竊等行為的策劃者會受到應有的懲罰 一名最暴力的網路犯罪分子將在監獄裡度過他最美好的時光，他的11 名暴徒朋友也將在監獄裡度過他的一生。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/prison_just_got_rougher_as/</guid>
-      <pubDate>Mon, 16 Sep 2024 12:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
