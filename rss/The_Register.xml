@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 20:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 20:36:53 GMT</lastBuildDate>
+    <item>
+      <title>沒有一個主要的人工智慧模型是安全的，但有些模型比其他模型做得更好</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_models_guardrail_feature/</link>
+      <description><![CDATA[Anthropic Claude 3.5 在Chatterbox Labs 安全測試中表現出色 功能  Anthropic 將自己定位為人工智慧安全領域的領導者，Chatterbox Labs 最近的一項分析證明，情況就是這樣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_models_guardrail_feature/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>儘管支付了賞金，但Google雲端文檔人工智慧缺陷（仍然）允許資料被盜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/google_cloud_document_ai_flaw/</link>
+      <description><![CDATA[Chocolate Factory 降低風險等級，理由是需要攻擊者存取 Google Cloud 文件AI 服務中過於寬鬆的設定可能會被資料竊賊濫用，侵入Cloud Storage 儲存桶並竊取敏感資訊。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/google_cloud_document_ai_flaw/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>嘿孩子們，想為國際太空站計時嗎？ ESA 的 Astro Pi 挑戰在太空中運行您的程式碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/astro_pi_challenge/</link>
@@ -27,7 +41,7 @@
       <pubDate>Tue, 17 Sep 2024 17:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Rhysida 勒索軟體團夥以 600 萬美元盜取西雅圖港數據</title>
+      <title>Rhysida 勒索軟體集團以 600 萬美元盜取西雅圖港數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</link>
       <description><![CDATA[拍賣是當局公開拒絕付款後的報復 勒索軟體人員聲稱私下出售被盜數據而不是在網上洩露數據的趨勢仍在繼續，Rhysida 營銷據稱屬於西雅圖港的數據，以獲取更多資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>IBM 在專利爭奪戰中從 Zynga 手中獲得 4,500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</link>
-      <description><![CDATA[來自1980 年代的藍色巨人Prodigy 捲土重來，困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
+      <description><![CDATA[來自80 年代的藍色巨人Prodigy 再次困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</guid>
       <pubDate>Tue, 17 Sep 2024 16:00:15 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>Windows 10 即將終結，但微軟仍在不斷推出修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</link>
-      <description><![CDATA[發布預覽版中解決了DMA 更新後的持續SSO 提示 Microsoft 繼續透過Insider 版本將電極應用於Windows 10，以處理因歐洲數位市場所做的更改而產生的單點登入問題使用 Internet Explorer 模式時的 Act 和 Edge 凍結。]]></description>
+      <description><![CDATA[發布預覽中解決了DMA 更新後的持續SSO 提示 Microsoft 繼續將電極應用於具有Insider 版本的Windows 10，以處理因歐洲數位市場所做的更改而產生的單點登入問題使用 Internet Explorer 模式時的 Act 和 Edge 凍結。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</guid>
       <pubDate>Tue, 17 Sep 2024 11:33:16 GMT</pubDate>
     </item>
@@ -90,7 +104,7 @@
       <pubDate>Tue, 17 Sep 2024 10:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>在您的技術堆疊中使用人工智慧嗎？大多數人擔心準確性和可靠性</title>
+      <title>在您的技術堆疊中使用人工智慧嗎？準確性和可靠性是大多數人擔心的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</link>
       <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
@@ -127,23 +141,9 @@
     <item>
       <title>桌面虛擬機器管理程式就像公車：很長時間沒有，然後同時有四個</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</link>
-      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 9 月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
+      <description><![CDATA[VirtualBox、Parallels 和VMware 都已升級 九月對於桌面虛擬機管理程式來說是一個重要的月份，該領域的巨頭都提供了重大更新。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/virtualbox_parallels_vmware_workstation_fusion_upgrades/</guid>
       <pubDate>Tue, 17 Sep 2024 05:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國聲稱星鏈訊號可以揭示隱形飛機——這到底意味著什麼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/china_starlink_stealth/</link>
-      <description><![CDATA[如果這真的那麼有用，他們就不會告訴我們 根據中國國家批准的一項研究，來自 SpaceX Starlink 寬頻網路衛星的訊號可用於追蹤美國隱形戰鬥機，例如作為F -22...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/china_starlink_stealth/</guid>
-      <pubDate>Tue, 17 Sep 2024 04:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯準會指控中國公民為美國太空總署和軍事源代碼進行魚叉式網路釣魚</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/chinese_national_nasa_phishing_indictment/</link>
-      <description><![CDATA[可能捲入了與武器開發相關的藍圖 一名中國公民被指控進行了長達數年的魚叉式網絡釣魚活動，旨在竊取美國陸軍和美國宇航局以及其他機構的源代碼用於航空航天工程和軍事應用的高度敏感的軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/chinese_national_nasa_phishing_indictment/</guid>
-      <pubDate>Tue, 17 Sep 2024 02:26:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
