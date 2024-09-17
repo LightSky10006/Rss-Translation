@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Sep 2024 14:11:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 14:37:15 GMT</lastBuildDate>
+    <item>
+      <title>Oracle 醞釀 Java 23 以達到及時交付</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/oracle_java_23/</link>
+      <description><![CDATA[程式語言按照可預測的節奏緩慢前進 Oracle 週二發布了Java 23 (Oracle JDK 23)，與其現已確立的六個月節奏保持一致。 &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/oracle_java_23/</guid>
+      <pubDate>Tue, 17 Sep 2024 14:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Predator 間諜軟體頭目被列入美國制裁名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[警察對公民將「表現出最佳行為，因為我們不斷記錄和報告」 甲骨文聯合創始人拉里·埃里森(Larry Ellison) 表示，人工智慧即將迎來大規模監控的新時代，並補充說，他的主宰已準備好成為此類應用程式的技術支柱。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/oracle_ai_mass_surveillance_cloud/</guid>
       <pubDate>Mon, 16 Sep 2024 18:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowflake 再次按下「更多 MFA」按鈕——在 Ticketmaster 和桑坦德銀行違規數月後</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_mfa_default/</link>
-      <description><![CDATA[現在它是所有新帳戶的預設設定 Snowflake 透過將多重身份驗證設定為所有新帳戶的預設設置，繼續推進加強用戶的網路安全態勢。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/16/snowflake_mfa_default/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
