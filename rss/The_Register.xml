@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 16:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 17:11:12 GMT</lastBuildDate>
+    <item>
+      <title>中國間諜透過傳統 IT 入侵航空航天工程公司的網路數月</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</link>
+      <description><![CDATA[習近平太馬虎了 獨家 中國國家資助的間諜被發現進入一家全球工程公司的網絡，並使用IBM 上管理門戶的默認憑據獲得了初始訪問權限AIX 伺服器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</guid>
+      <pubDate>Wed, 18 Sep 2024 17:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>加州州長繼續簽署人工智慧法，但對重大法案持異議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/california_newsom_ai_bills/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chocolate Factory 降低風險等級，理由是需要攻擊者存取 Google Cloud 文件AI 服務中過於寬鬆的設定可能會被資料竊賊濫用，侵入Cloud Storage 儲存桶並竊取敏感資訊。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/google_cloud_document_ai_flaw/</guid>
       <pubDate>Tue, 17 Sep 2024 20:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿孩子們，想為國際太空站計時嗎？ ESA 的 Astro Pi 挑戰在太空中運行您的程式碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/astro_pi_challenge/</link>
-      <description><![CDATA[向太空人發送漂亮的像素藝術，或嘗試一些更難的東西 歐洲太空總署下一輪的Astro Pi 挑戰賽已經開放，邀請參與者使用國際太空站(ISS) 上的小型計算機）來計算軌道前哨站的速度。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/astro_pi_challenge/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:15:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
