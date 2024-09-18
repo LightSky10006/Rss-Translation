@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 21:34:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 22:12:17 GMT</lastBuildDate>
+    <item>
+      <title>上訴獲勝後，谷歌躲避了 1.5B 歐元的歐盟廣告反壟斷罰款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/google_escapes_15b_eu_antitrust_fine/</link>
+      <description><![CDATA[另一方面，高通就沒那麼幸運了 Google 有一些感謝卡要寄，因為歐盟普通法院 (GC) 已經取消了 14.9 億歐元（16.6 億美元）的賠償）因反競爭廣告行為而對科技巨頭處以罰款。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/google_escapes_15b_eu_antitrust_fine/</guid>
+      <pubDate>Wed, 18 Sep 2024 21:59:07 GMT</pubDate>
+    </item>
     <item>
       <title>FBI 局長稱中國在面對聯邦調查局時「燒毀」了 26 萬台設備的殭屍網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/fbi_flax_typhoon_ransomware/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>似曾相識的憂鬱…LockBit 再次誇耀勒索 IRS 授權的 eFile.com</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lockbit_tax_site_claim/</link>
-      <description><![CDATA[將「勒索軟體」加入生活中的確定性清單？申報表的線上服務服務（國稅局）...]]></description>
+      <description><![CDATA[將「勒索軟體」加入生活中的確定性清單？提供電子提交納稅申報表的線上服務與美國國稅局 (IRS) 合作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lockbit_tax_site_claim/</guid>
       <pubDate>Wed, 18 Sep 2024 20:14:28 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>儘管俄羅斯發出警告，西方關鍵基礎設施仍未做好準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</link>
-      <description><![CDATA[隨著莫斯科加強進攻性網路軍事部隊，「人們將失去生命」 專題 隨著俄羅斯特種部隊更加公開地推進線上行動，網路防禦者應該密切注意對於希望進行網路攻擊並最終造成物理破壞和傷害的數位入侵者。]]></description>
+      <description><![CDATA[隨著莫斯科加強進攻性網路軍事部隊，「生命將會喪失」 專題 隨著俄羅斯特種部隊更加公開地推進線上行動，網路防禦者應該密切注意對於希望進行網路攻擊並最終造成物理破壞和傷害的數位入侵者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</guid>
       <pubDate>Wed, 18 Sep 2024 09:15:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[GoTo 致力於阿里雲，阿里巴巴承諾不會出售其股份 中國科技巨頭阿里巴巴表明，不僅僅是 Meta、谷歌和亞馬遜可以利用其財務實力在該領域獲得立足點與印尼超級應用公司GoTo Group 達成協議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/alibaba_goto_mou/</guid>
       <pubDate>Wed, 18 Sep 2024 05:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲警方對犯罪協作軟體進行供應鏈攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</link>
-      <description><![CDATA[Sting 導致Ghost（一個用於販毒、洗錢和暴力即服務的應用程式）背後的涉嫌操作者被戴上手銬 澳洲聯邦警察(AFP) 昨天逮捕並指控一名男子創建和管理一個名為Ghost 的應用程序，據稱該應用程序是“一個專用的加密通信平台……專為黑社會而構建”，使犯罪分子能夠安排暴力行為、洗錢和販運非法毒品。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</guid>
-      <pubDate>Wed, 18 Sep 2024 02:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
