@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 02:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 02:56:18 GMT</lastBuildDate>
+    <item>
+      <title>澳洲警方對犯罪協作軟體進行供應鏈攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</link>
+      <description><![CDATA[Sting 導致Ghost（一個用於販毒、洗錢和暴力即服務的應用程式）背後的涉嫌操作者被戴上手銬 澳洲聯邦警察(AFP) 昨天逮捕並指控一名男子創建和管理一個名為Ghost 的應用程序，據稱該應用程序是“一個專用的加密通信平台……專為黑社會而構建”，使犯罪分子能夠安排暴力行為、洗錢和販運非法毒品。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>開源組織加強聯盟打擊專利流氓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_orgs_strengthen_alliance/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[好吧，您不會對供水系統或電網提出強烈抗議，對吧？  英國政府決定將資料中心指定為關鍵國家基礎設施(CNI)，其作用可能不僅僅是提供保護重大事件；它還可能允許開發商推翻當地對建造此類設施的任何反對意見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</guid>
       <pubDate>Tue, 17 Sep 2024 09:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sainsbury's 與 SAP 合作獲得 RISE 門票，希望不會像 Asda 那樣絆倒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/sainsburys_rise_with_sap/</link>
-      <description><![CDATA[英國第二大零售商準備透過 AWS、埃森哲和德國軟體巨頭將 ERP 遷移到雲端 Sainsbury&#39;s 已成為第三家加入 SAP 計畫以提升遺留應用程式的英國十大零售商到雲端並將它們遷移到最新的S/4HANA ERP 系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/sainsburys_rise_with_sap/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
