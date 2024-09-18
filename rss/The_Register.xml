@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 06:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 06:42:15 GMT</lastBuildDate>
+    <item>
+      <title>新的 RFC 解釋了協議開發人員如何避免在互聯網中建立侵犯人權行為</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/rfc_9620/</link>
+      <description><![CDATA[有件事告訴我們，Vlad 和Xi 可能不會費心閱讀它 互聯網研究工作組已發布了一份徵求意見文件，其作者希望這意味著通信協議和架構的開發人員會考慮人權他們的努力的影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/rfc_9620/</guid>
+      <pubDate>Wed, 18 Sep 2024 06:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>中國科技巨頭收購印尼——就像美國科技巨頭收購印度一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/alibaba_goto_mou/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[On Call 前 500 期中評論最多的 20 個技術支援專欄 On Call  為了慶祝最近的On-Call 第500 次出現，該專欄介紹您的技術支援酷刑故事，The Register已在檔案中搜尋，找到產生最多評論的20 個欄位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</guid>
       <pubDate>Tue, 17 Sep 2024 10:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在您的技術堆疊中使用人工智慧嗎？大多數人擔心準確性和可靠性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</link>
-      <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
-      <pubDate>Tue, 17 Sep 2024 10:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
