@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 06:42:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 07:36:01 GMT</lastBuildDate>
+    <item>
+      <title>Excel 中的 Python 上線 - 但僅適用於某些 Windows 用戶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</link>
+      <description><![CDATA[Mac 和Android 忠實用戶：您可以查看，但現在無需計算 Office 高級用戶，慶幸的是：Excel 中的Python 現已普遍可用- 前提是您擁有正確的許可證和機器。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</guid>
+      <pubDate>Wed, 18 Sep 2024 07:22:14 GMT</pubDate>
+    </item>
     <item>
       <title>新的 RFC 解釋了協議開發人員如何避免在互聯網中建立侵犯人權行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/rfc_9620/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[發布預覽版中解決了DMA 更新後的持續SSO 提示 Microsoft 繼續透過Insider 版本將電極應用於Windows 10，以處理因歐洲數位市場所做的更改而產生的單點登入問題使用 Internet Explorer 模式時的 Act 和 Edge 凍結。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</guid>
       <pubDate>Tue, 17 Sep 2024 11:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>由讀者您投票選出的 On Call 最熱門歌曲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</link>
-      <description><![CDATA[On Call 前 500 期中評論最多的 20 個技術支援專欄 On Call  為了慶祝最近的On-Call 第500 次出現，該專欄介紹您的技術支援酷刑故事，The Register已在檔案中搜尋，找到產生最多評論的20 個欄位。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/on_call/</guid>
-      <pubDate>Tue, 17 Sep 2024 10:44:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
