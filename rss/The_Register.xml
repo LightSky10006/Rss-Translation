@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 03:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 06:17:25 GMT</lastBuildDate>
+    <item>
+      <title>中國科技巨頭收購印尼——就像美國科技巨頭收購印度一樣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/alibaba_goto_mou/</link>
+      <description><![CDATA[GoTo 致力於阿里雲，阿里巴巴承諾不會出售其股份 中國科技巨頭阿里巴巴表明，不僅僅是 Meta、谷歌和亞馬遜可以利用其財務實力在該領域獲得立足點與印尼超級應用公司GoTo Group 達成協議…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/alibaba_goto_mou/</guid>
+      <pubDate>Wed, 18 Sep 2024 05:57:13 GMT</pubDate>
+    </item>
     <item>
       <title>澳洲警方對犯罪協作軟體進行供應鏈攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大量生產應用程序，但需要進行測試來解決效能問題 研究人員發現，大多數將人工智慧整合到技術堆疊中的公司都陷入了最終應用程式的效能和可靠性問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_is_great_for_churning/</guid>
       <pubDate>Tue, 17 Sep 2024 10:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>對數據中心建設的反對可能會被駁回，因為它們是“關鍵的國家基礎設施”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</link>
-      <description><![CDATA[好吧，您不會對供水系統或電網提出強烈抗議，對吧？  英國政府決定將資料中心指定為關鍵國家基礎設施(CNI)，其作用可能不僅僅是提供保護重大事件；它還可能允許開發商推翻當地對建造此類設施的任何反對意見。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/objections_to_datacenter_builds_cni/</guid>
-      <pubDate>Tue, 17 Sep 2024 09:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
