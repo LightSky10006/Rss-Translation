@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 10:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 11:11:37 GMT</lastBuildDate>
+    <item>
+      <title>英國退休金部門聯合政府 ERP 系統的項目達到 £1.9B</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/dwp_business_processes_procurement/</link>
+      <description><![CDATA[四個分支機構試圖簡化人力資源和業務流程 英國工作和退休金部(DWP) 正在牽頭斥資9.587 億英鎊（12 億美元）尋找供應商，為新ERP 開發業務流程和人力資源系統，將四個中央政府部門整合在一起。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/dwp_business_processes_procurement/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:04:37 GMT</pubDate>
+    </item>
     <item>
       <title>雲巨頭在監管機構聽證會上互相指責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/cma_cloud_hearings/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>儘管俄羅斯發出警告，西方關鍵基礎設施仍未做好準備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</link>
-      <description><![CDATA[隨著莫斯科加強進攻性網路軍事部隊，「人們將失去生命」 專題 隨著俄羅斯特種部隊更加公開地推進線上行動，網路防禦者應該密切注意對於希望進行網路攻擊並最終造成物理破壞和傷害的數位入侵者。]]></description>
+      <description><![CDATA[隨著莫斯科加強進攻性網路軍事部隊，「生命將會喪失」 專題 隨著俄羅斯特種部隊更加公開地推進線上行動，網路防禦者應該密切注意對於希望進行網路攻擊並最終造成物理破壞和傷害的數位入侵者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</guid>
       <pubDate>Wed, 18 Sep 2024 09:15:10 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 17 Sep 2024 17:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Rhysida 勒索軟體團夥以 600 萬美元盜取西雅圖港數據</title>
+      <title>Rhysida 勒索軟體集團以 600 萬美元盜取西雅圖港數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</link>
       <description><![CDATA[拍賣是當局公開拒絕付款後的報復 勒索軟體人員聲稱私下出售被盜數據而不是在網上洩露數據的趨勢仍在繼續，Rhysida 營銷據稱屬於西雅圖港的數據，以獲取更多資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>IBM 在專利爭奪戰中從 Zynga 手中獲得 4,500 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</link>
-      <description><![CDATA[來自1980 年代的藍色巨人Prodigy 捲土重來，困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
+      <description><![CDATA[來自80 年代的藍色巨人Prodigy 再次困擾FarmVille 巨頭 IBM 的專利農場再次獲得豐收，特拉華州陪審團裁定藍色巨人從手機遊戲製造商Zynga 獲得4500 萬美元的賠償。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ibm_patent_win_zynga/</guid>
       <pubDate>Tue, 17 Sep 2024 16:00:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[程式語言按照可預測的節奏緩慢前進 Oracle 週二發布了Java 23 (Oracle JDK 23)，與其現已確立的六個月節奏保持一致。 &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/oracle_java_23/</guid>
       <pubDate>Tue, 17 Sep 2024 14:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Predator 間諜軟體頭目被列入美國制裁名單</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</link>
-      <description><![CDATA[隨著非洲新基礎設施的啟動，制裁隨之而來 隨著美國加強打擊間諜軟體的力度，與間諜軟體開發商Intellexa 有聯繫的五名個人和一家公司成為最新受到製裁的人。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</guid>
-      <pubDate>Tue, 17 Sep 2024 13:44:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
