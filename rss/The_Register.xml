@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 20:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 20:38:04 GMT</lastBuildDate>
+    <item>
+      <title>LockBit 聲稱可以贖回 IRS 授權的 eFile.com</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lockbit_claims_it_ransomed_irsauthorized/</link>
+      <description><![CDATA[將「勒索軟體」加入生活中的確定性清單？報稅表的線上服務（國稅局）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lockbit_claims_it_ransomed_irsauthorized/</guid>
+      <pubDate>Wed, 18 Sep 2024 20:14:28 GMT</pubDate>
+    </item>
     <item>
       <title>普丁確實希望川普重返白宮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_putin_trump_white_house/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>微軟為頑固離線的使用者推出 Office LTSC 2024</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/microsoft_office_ltsc_2024/</link>
-      <description><![CDATA[您不想要 Copilot 和 Microsoft 365 服務是什麼意思？  Microsoft 發布了可能是倒數第二個永久授權版本的 Office。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/microsoft_office_ltsc_2024/</guid>
       <pubDate>Wed, 18 Sep 2024 14:30:14 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 18 Sep 2024 12:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>開源維護者薪水過低，安全問題不堪重負，而且已經灰白了</title>
+      <title>開源維護者薪水過低，安全問題不堪負荷，灰頭土臉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_maintainers_underpaid/</link>
       <description><![CDATA[人工智慧編碼的貢獻？大多數人寧願跳過機器人的工作 大多數開源專案維護者的工作沒有報酬，在安全性上花費的時間是三年前的三倍，並且對根據開源軟體包安全公司Tidelift 的說法，有一些貢獻者追蹤了xz 後門。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_maintainers_underpaid/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[FOSS 越成功，它就越成為目標 專利流氓越來越多地將目標瞄準雲端原生開源項目，導致雲端原生運算基金會和 Linux 基金會努力擴大其法律保護範圍經過這樣的努力......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_orgs_strengthen_alliance/</guid>
       <pubDate>Wed, 18 Sep 2024 00:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 仍在努力讓 View Once 聊天真正對所有人消失</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/whatsapp_view_once_flaw_unfixed/</link>
-      <description><![CDATA[到目前為止，它更像是“View Forever” 已更新  Meta 努力阻止人們重複查看WhatsApp 所謂的“View Once”消息，即從應用程序中消失的照片、視訊和錄音。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/whatsapp_view_once_flaw_unfixed/</guid>
-      <pubDate>Wed, 18 Sep 2024 00:16:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
