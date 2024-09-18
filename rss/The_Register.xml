@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 07:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 08:39:13 GMT</lastBuildDate>
+    <item>
+      <title>大規模生產世界手工軟體的案例</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/the_future_of_software_part_2/</link>
+      <description><![CDATA[隨著人工智慧實現程式自動化，探索客製化程式碼的價值可能是值得的 第2 部分 思想實驗：如果電腦產業像其他製造業一樣應對商品化和全球化產業這樣做了，程式設計師和使用者將何去何從？ ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/the_future_of_software_part_2/</guid>
+      <pubDate>Wed, 18 Sep 2024 08:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>Excel 中的 Python 上線 - 但僅適用於某些 Windows 用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>黎巴嫩：真主黨尋呼機爆炸，至少九人死亡，數千人受傷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</link>
-      <description><![CDATA[以色列指控受害者中有 8 歲，據說伊朗黎巴嫩大使受傷 黎巴嫩表示，今天至少有 9 人在尋呼機後被殺，其中包括一名 8 歲女孩真主黨成員使用的產品在全國爆炸。以色列受到指責。]]></description>
+      <description><![CDATA[以色列指控受害者中有 8 歲，據說伊朗黎巴嫩大使受傷 黎巴嫩表示，今天至少有 9 人在尋呼機後喪生，其中包括一名 8 歲女孩真主黨成員使用的產品在全國範圍內爆炸。以色列受到指責。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/hezbollah_lebanon_explosive_pagers/</guid>
       <pubDate>Tue, 17 Sep 2024 18:30:08 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 17 Sep 2024 17:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Rhysida 勒索軟體團夥以 600 萬美元盜取西雅圖港數據</title>
+      <title>Rhysida 勒索軟體集團以 600 萬美元盜取西雅圖港數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</link>
       <description><![CDATA[拍賣是當局公開拒絕付款後的報復 勒索軟體人員聲稱私下出售被盜數據而不是在網上洩露數據的趨勢仍在繼續，Rhysida 營銷據稱屬於西雅圖港的數據，以獲取更多資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/rhysida_port_of_seattle/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>Predator 間諜軟體頭目被列入美國制裁名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</link>
-      <description><![CDATA[隨著非洲新基礎設施的啟動，制裁隨之而來 隨著美國加強打擊間諜軟體的力度，與間諜軟體開發商Intellexa 有聯繫的五名個人和一家公司成為最新受到製裁的人。]]></description>
+      <description><![CDATA[隨著非洲新基礎設施的啟動，制裁隨之而來 隨著美國加強打擊間諜軟體的力度，與間諜軟體開發商Intellexa 有聯繫的五名個人和一家公司最新受到製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/predator_spyware_sanctions/</guid>
       <pubDate>Tue, 17 Sep 2024 13:44:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[炒作已經結束了嗎？收益報告中真正提到了這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/ai_sp_500_q2/</guid>
       <pubDate>Tue, 17 Sep 2024 12:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 10 即將終結，但微軟仍在不斷推出修復程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</link>
-      <description><![CDATA[發布預覽版中解決了DMA 更新後的持續SSO 提示 Microsoft 繼續透過Insider 版本將電極應用於Windows 10，以處理因歐洲數位市場所做的更改而產生的單點登入問題使用 Internet Explorer 模式時的 Act 和 Edge 凍結。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/17/windows_10_insider_update/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:33:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
