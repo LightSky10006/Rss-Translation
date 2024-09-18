@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Sep 2024 20:38:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 21:11:19 GMT</lastBuildDate>
+    <item>
+      <title>FBI 局長稱中國在面對聯邦調查局時「燒毀」了 26 萬台設備的殭屍網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/fbi_flax_typhoon_ransomware/</link>
+      <description><![CDATA[加上：雷講述了聯邦調查局如何幫助某些受害者與勒索軟體騙子談判 據說，在FBI 及其國際夥伴追捕他們之後，中國支持的間諜已經摧毀了他們自己的、擁有260,000 台設備的殭屍網路。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/fbi_flax_typhoon_ransomware/</guid>
+      <pubDate>Wed, 18 Sep 2024 21:06:46 GMT</pubDate>
+    </item>
     <item>
       <title>LockBit 聲稱可以贖回 IRS 授權的 eFile.com</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lockbit_claims_it_ransomed_irsauthorized/</link>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 18 Sep 2024 17:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>中國間諜透過傳統 IT 進入航空航天工程公司的網路數月</title>
+      <title>中國間諜透過傳統 IT 入侵航空航天工程公司的網路數月</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</link>
       <description><![CDATA[習近平太馬虎了 獨家 中國國家資助的間諜被發現進入一家全球工程公司的網絡，並使用IBM 上管理門戶的默認憑據獲得了初始訪問權限AIX 伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>微軟為頑固離線的使用者推出 Office LTSC 2024</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/microsoft_office_ltsc_2024/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[您不想要 Copilot 和 Microsoft 365 服務是什麼意思？  Microsoft 發布了可能是倒數第二個永久授權版本的 Office。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/microsoft_office_ltsc_2024/</guid>
       <pubDate>Wed, 18 Sep 2024 14:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Sting 導致Ghost（一個用於販毒、洗錢和暴力即服務的應用程式）背後的涉嫌操作者被戴上手銬 澳洲聯邦警察(AFP) 昨天逮捕並指控一名男子創建和管理一個名為Ghost 的應用程序，據稱該應用程序是“一個專用的加密通信平台……專為黑社會而構建”，使犯罪分子能夠安排暴力行為、洗錢和販運非法毒品。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/afp_operation_kraken_ghost_crimeware_app/</guid>
       <pubDate>Wed, 18 Sep 2024 02:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>開源組織加強聯盟打擊專利流氓</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_orgs_strengthen_alliance/</link>
-      <description><![CDATA[FOSS 越成功，它就越成為目標 專利流氓越來越多地將目標瞄準雲端原生開源項目，導致雲端原生運算基金會和 Linux 基金會努力擴大其法律保護範圍經過這樣的努力......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_orgs_strengthen_alliance/</guid>
-      <pubDate>Wed, 18 Sep 2024 00:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
