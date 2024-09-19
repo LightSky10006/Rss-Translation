@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 11:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:22:38 GMT</lastBuildDate>
     <item>
-      <title>Kelsey Hightower：如果政府依賴自由和開放原始碼軟體，他們應該為其提供資金</title>
+      <title>英國活動人士以 Pegasus 間諜軟體為目標，要求警方指控 NSO 集團</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/</link>
+      <description><![CDATA[4 向倫敦大都會警察局提出投訴，指控惡意軟體製造商協助專制國家侵犯其隱私 四位英國人權支持者和中東國家批評者今天向倫敦大都會警察局提交了一份報告，他們希望將導致對 Pegasus 小販 NSO 集團的指控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/</guid>
+      <pubDate>Thu, 19 Sep 2024 12:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kelsey Hightower：如果政府依賴自由和開源軟體，他們應該為其提供資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</link>
       <description><![CDATA[Kubernetes 元老與The Reg 討論如何讓程式設計師繼續編碼 訪談  著名工程師Kelsey Hightower 在2023 年停止為金錢而編碼，但仍是軟體界有影響力的人物，他提出的建議可能會激起開源社群的興趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>英國政府數十億美元的 IT 合約即將到期，讓下一個供應商採取正確的行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</link>
-      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆議會五年期期間終止。]]></description>
+      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆五年議會期間終止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</guid>
       <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室......]]></description>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
       <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>消息人士稱IBM悄悄裁員數千人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</link>
-      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週一直在裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
+      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週已裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</guid>
       <pubDate>Wed, 18 Sep 2024 19:04:14 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 18 Sep 2024 17:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>中國間諜透過傳統 IT 進入航空航天工程公司的網路數月</title>
+      <title>中國間諜透過傳統 IT 入侵航空航天工程公司的網路數月</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</link>
       <description><![CDATA[習近平太馬虎了 獨家 中國國家資助的間諜被發現進入一家全球工程公司的網絡，並使用IBM 上管理門戶的默認憑據獲得了初始訪問權限AIX 伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[科技將需要資料中心和電源，而且需要大量資料中心和電源 微軟正在與BlackRock 和其他私募股權投資者合作成立一個新的人工智慧基金，該基金旨在最終為資料中心籌集1000 億美元及其配套的電力基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/microsoft_and_blackrock_form_fund/</guid>
       <pubDate>Wed, 18 Sep 2024 13:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界各地警察精心策劃搗毀 Ghost 犯罪平台，逮捕 51 人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/51_arrests_ghost_platform/</link>
-      <description><![CDATA[義大利黑手黨暴徒和愛爾蘭犯罪家族被國際警察挫敗 在確認他們已經破解了用於各種有組織犯罪的據稱無法破解的加密訊息平台Ghost 幾個小時後，警方現在已將嫌疑人命名為他們的嫌疑人昨晚被戴上手銬，他被指控為幕後黑手…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/51_arrests_ghost_platform/</guid>
-      <pubDate>Wed, 18 Sep 2024 12:16:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
