@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 03:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 04:15:11 GMT</lastBuildDate>
+    <item>
+      <title>聯想轉向印度作為人工智慧伺服器的來源</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
+      <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
+    </item>
     <item>
       <title>LinkedIn 開始收集人們的貼文來訓練人工智慧，而不要求選擇加入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/linkedin_ai_data_access/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mac 和Android 忠實用戶：您可以查看，但現在無需計算 Office 高級用戶，慶幸的是：Excel 中的Python 現已普遍可用- 前提是您擁有正確的許可證和機器。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</guid>
       <pubDate>Wed, 18 Sep 2024 07:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 RFC 解釋了協議開發人員如何避免在互聯網中建立侵犯人權行為</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/rfc_9620/</link>
-      <description><![CDATA[有件事告訴我們，Vlad 和Xi 可能不會費心閱讀它 互聯網研究工作組已發布了一份徵求意見文件，其作者希望這意味著通信協議和架構的開發人員會考慮人權他們的努力的影響。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/rfc_9620/</guid>
-      <pubDate>Wed, 18 Sep 2024 06:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
