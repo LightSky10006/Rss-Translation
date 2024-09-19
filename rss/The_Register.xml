@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 14:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 15:13:41 GMT</lastBuildDate>
+    <item>
+      <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但他很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
+      <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
+    </item>
     <item>
       <title>數千個組織面臨因 ServiceNow 配置錯誤而導致知識庫資料外洩的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/servicenow_knowledge_base_leaks/</link>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
+      <title>博通執行長預測超大規模企業將建構百萬級加速器集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
       <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
       <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>消息人士稱IBM悄悄裁員數千人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</link>
-      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週已裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
+      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週一直在裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</guid>
       <pubDate>Wed, 18 Sep 2024 19:04:14 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 18 Sep 2024 17:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>中國間諜透過傳統 IT 入侵航空航天工程公司的網路數月</title>
+      <title>中國間諜透過傳統 IT 進入航空航天工程公司的網路數月</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</link>
       <description><![CDATA[習近平太馬虎了 獨家 中國國家資助的間諜被發現進入一家全球工程公司的網絡，並使用IBM 上管理門戶的默認憑據獲得了初始訪問權限AIX 伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</guid>
       <pubDate>Wed, 18 Sep 2024 17:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州州長繼續簽署人工智慧法，但對重大法案持異議</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/california_newsom_ai_bills/</link>
-      <description><![CDATA[Newsom 仍然擔心SB 1047 對該州人工智慧產業稅收創新的「寒蟬效應」 加州州長Gavin Newsom 今年簽署了五項與AI 相關的法案，使其成為法律一周了，但關鍵的一項仍未簽署，民主黨政治家對其未來並不確定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/california_newsom_ai_bills/</guid>
-      <pubDate>Wed, 18 Sep 2024 15:24:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
