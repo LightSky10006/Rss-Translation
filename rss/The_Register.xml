@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 08:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 10:13:37 GMT</lastBuildDate>
+    <item>
+      <title>英國政府數十億美元的 IT 合約即將到期，讓下一個供應商採取正確的行動</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</link>
+      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆五年議會期間終止。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</guid>
+      <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
+    </item>
     <item>
       <title>SiFive從AI晶片的RISC-V核心轉向設計自己的全脂加速器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/sifive_ai_accelerator/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
+      <title>博通執行長預測超大規模企業將建構百萬級加速器集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
       <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[人工智慧編碼的貢獻？大多數人寧願跳過機器人的工作 大多數開源專案維護者的工作沒有報酬，在安全性上花費的時間是三年前的三倍，並且對根據開源軟體包安全公司Tidelift 的說法，有一些貢獻者追蹤了xz 後門。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_maintainers_underpaid/</guid>
       <pubDate>Wed, 18 Sep 2024 11:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國退休金部門聯合政府 ERP 系統的項目達到 £1.9B</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/dwp_business_processes_procurement/</link>
-      <description><![CDATA[四個分支機構試圖簡化人力資源和業務流程 英國工作和退休金部(DWP) 正在牽頭斥資9.587 億英鎊（12 億美元）尋找供應商，為新ERP 開發業務流程和人力資源系統，將四個中央政府部門整合在一起。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/dwp_business_processes_procurement/</guid>
-      <pubDate>Wed, 18 Sep 2024 11:04:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
