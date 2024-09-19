@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 16:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 17:36:22 GMT</lastBuildDate>
+    <item>
+      <title>Starlink 的新衛星發出的無線電幹擾比以前多 30 倍，淹沒了宇宙訊號</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/</link>
+      <description><![CDATA[V2 衛星發出的噪音是原來的1000 萬倍，阻礙瞭望遠鏡 SpaceX 將第二代Starlink 衛星送入軌道，可能不會像舊衛星那樣反射那麼多陽光，但天文學家表示它們正在洩漏高達非預期無線電波的 32 倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>十分之一的組織在 CrowdStrike 中斷後拋棄了安全供應商</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/german_crowdstrike_reaction/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週已裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</guid>
       <pubDate>Wed, 18 Sep 2024 19:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著以色列宣布戰爭進入“新階段”，黎巴嫩現在遭受致命的對講機爆炸襲擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lebanon_walkie_talkie_explosion_isreal_war/</link>
-      <description><![CDATA[第二波爆炸裝置今天造成至少14 人死亡 首先是尋呼機，現在黎巴嫩正因真主黨的對講機在全國各地爆炸而震動，造成十幾人死亡。 / p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/lebanon_walkie_talkie_explosion_isreal_war/</guid>
-      <pubDate>Wed, 18 Sep 2024 17:54:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
