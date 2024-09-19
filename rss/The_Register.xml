@@ -4,7 +4,28 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 06:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 08:17:24 GMT</lastBuildDate>
+    <item>
+      <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
+      <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
+      <pubDate>Thu, 19 Sep 2024 07:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>德國警察將 CSAM 暗網管理員定罪後，Tor 堅稱其網路是安全的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/tor_police_germany/</link>
+      <description><![CDATA[過時的軟體被認為是盔甲破裂的原因 Tor 項目堅稱其隱私保護能力仍然有效，反駁了德國有關其網絡上的用戶匿名可能並且已經受到警方損害的報道。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/tor_police_germany/</guid>
+      <pubDate>Thu, 19 Sep 2024 06:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>NTT Data、IBM、銀行大型主機雲端團隊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</link>
+      <description><![CDATA[SimpliZCloud 目前僅適用於印度，基於 Big Blue 的 LinuxONE 由於日本 IT 服務巨頭 NTT Data 決定建立基於 Big Blue 的混合雲服務，大型主機找到了另一個角色IBM LinuxONE 平台。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</guid>
+      <pubDate>Thu, 19 Sep 2024 06:01:48 GMT</pubDate>
+    </item>
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[這些都是你所遇到的強大的弱者 Google 認為 Microsoft 的軟體授權阻礙了客戶的選擇；微軟稱AWS具有「先發優勢」； AWS 也選擇了微軟的許可——但所有人都反對將補救措施應用於可能影響自身的雲端市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/cma_cloud_hearings/</guid>
       <pubDate>Wed, 18 Sep 2024 10:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管俄羅斯發出警告，西方關鍵基礎設施仍未做好準備</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</link>
-      <description><![CDATA[隨著莫斯科加強進攻性網路軍事部隊，「人們將失去生命」 專題 隨著俄羅斯特種部隊更加公開地推進線上行動，網路防禦者應該密切注意對於希望進行網路攻擊並最終造成物理破壞和傷害的數位入侵者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/russia_west_critical_infrastructure/</guid>
-      <pubDate>Wed, 18 Sep 2024 09:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>大規模生產世界手工軟體的案例</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/the_future_of_software_part_2/</link>
-      <description><![CDATA[隨著人工智慧實現程式自動化，探索客製化程式碼的價值可能是值得的 第2 部分 思想實驗：如果電腦產業像其他製造業一樣應對商品化和全球化產業這樣做了，程式設計師和使用者將何去何從？ ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/the_future_of_software_part_2/</guid>
-      <pubDate>Wed, 18 Sep 2024 08:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Excel 中的 Python 上線 - 但僅適用於某些 Windows 用戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</link>
-      <description><![CDATA[Mac 和Android 忠實用戶：您可以查看，但現在無需計算 Office 高級用戶，慶幸的是：Excel 中的Python 現已普遍可用- 前提是您擁有正確的許可證和機器。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/python_in_excel_general_release/</guid>
-      <pubDate>Wed, 18 Sep 2024 07:22:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
