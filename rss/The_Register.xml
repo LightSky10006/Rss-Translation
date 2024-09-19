@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 10:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 11:11:28 GMT</lastBuildDate>
+    <item>
+      <title>Kelsey Hightower：如果政府依賴自由和開放原始碼軟體，他們應該為其提供資金</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</link>
+      <description><![CDATA[Kubernetes 元老與The Reg 討論如何讓程式設計師繼續編碼 訪談  著名工程師Kelsey Hightower 在2023 年停止為金錢而編碼，但仍是軟體界有影響力的人物，他提出的建議可能會激起開源社群的興趣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</guid>
+      <pubDate>Thu, 19 Sep 2024 10:41:41 GMT</pubDate>
+    </item>
     <item>
       <title>英國政府數十億美元的 IT 合約即將到期，讓下一個供應商採取正確的行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</link>
-      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆五年議會期間終止。]]></description>
+      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆議會五年期期間終止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</guid>
       <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
       <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>消息人士稱IBM悄悄裁員數千人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</link>
-      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週已裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
+      <description><![CDATA[藍色巨人告訴The Reg，我們確實警告過您，因為思科也按照承諾裁員 IBM 本週一直在裁員大量員工，並且正在嘗試為了保持安靜，我們的消息來源說...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/ibm_job_cuts/</guid>
       <pubDate>Wed, 18 Sep 2024 19:04:14 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 18 Sep 2024 17:54:23 GMT</pubDate>
     </item>
     <item>
-      <title>中國間諜透過傳統 IT 入侵航空航天工程公司的網路數月</title>
+      <title>中國間諜透過傳統 IT 進入航空航天工程公司的網路數月</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</link>
       <description><![CDATA[習近平太馬虎了 獨家 中國國家資助的間諜被發現進入一家全球工程公司的網絡，並使用IBM 上管理門戶的默認憑據獲得了初始訪問權限AIX 伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/chinese_spies_found_on_us_hq_firm_network/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[義大利黑手黨暴徒和愛爾蘭犯罪家族被國際警察挫敗 在確認他們已經破解了用於各種有組織犯罪的據稱無法破解的加密訊息平台Ghost 幾個小時後，警方現在已將嫌疑人命名為他們的嫌疑人昨晚被戴上手銬，他被指控為幕後黑手…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/51_arrests_ghost_platform/</guid>
       <pubDate>Wed, 18 Sep 2024 12:16:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>開源維護者薪水過低，安全問題不堪負荷，灰頭土臉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_maintainers_underpaid/</link>
-      <description><![CDATA[人工智慧編碼的貢獻？大多數人寧願跳過機器人的工作 大多數開源專案維護者的工作沒有報酬，在安全性上花費的時間是三年前的三倍，並且對根據開源軟體包安全公司Tidelift 的說法，有一些貢獻者追蹤了xz 後門。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/open_source_maintainers_underpaid/</guid>
-      <pubDate>Wed, 18 Sep 2024 11:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
