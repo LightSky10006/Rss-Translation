@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 08:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 08:41:00 GMT</lastBuildDate>
+    <item>
+      <title>SiFive從AI晶片的RISC-V核心轉向設計自己的全脂加速器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/sifive_ai_accelerator/</link>
+      <description><![CDATA[似乎有人在尋求扳手腕 SiFive 為各種 AI 晶片設計了 RISC-V CPU 內核，現在正在為其自己的本土成熟機器學習加速器提供藍圖許可。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/sifive_ai_accelerator/</guid>
+      <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[四個分支機構試圖簡化人力資源和業務流程 英國工作和退休金部(DWP) 正在牽頭斥資9.587 億英鎊（12 億美元）尋找供應商，為新ERP 開發業務流程和人力資源系統，將四個中央政府部門整合在一起。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/dwp_business_processes_procurement/</guid>
       <pubDate>Wed, 18 Sep 2024 11:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>雲巨頭在監管機構聽證會上互相指責</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/cma_cloud_hearings/</link>
-      <description><![CDATA[這些都是你所遇到的強大的弱者 Google 認為 Microsoft 的軟體授權阻礙了客戶的選擇；微軟稱AWS具有「先發優勢」； AWS 也選擇了微軟的許可——但所有人都反對將補救措施應用於可能影響自身的雲端市場。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/cma_cloud_hearings/</guid>
-      <pubDate>Wed, 18 Sep 2024 10:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
