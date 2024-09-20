@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 04:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 05:12:53 GMT</lastBuildDate>
+    <item>
+      <title>Citrix 增加了遠端 Mac 支援，但一些客戶脾氣暴躁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/gartner_daas_magic_quadrant/</link>
+      <description><![CDATA[Gartner 的 DaaS 魔力像限表示，許可證變更和產品捆綁進展並不順利 Citrix 增加了透過其桌面即服務套件控制遠端 macOS 電腦的功能，但客戶據說該產品對許可做法的改變感到不舒服。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/gartner_daas_magic_quadrant/</guid>
+      <pubDate>Fri, 20 Sep 2024 04:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>阿里雲聲稱其模組化資料中心架構將建置時間縮短了 50%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[SimpliZCloud 目前僅適用於印度，基於 Big Blue 的 LinuxONE 由於日本 IT 服務巨頭 NTT Data 決定建立基於 Big Blue 的混合雲服務，大型主機找到了另一個角色IBM LinuxONE 平台。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</guid>
       <pubDate>Thu, 19 Sep 2024 06:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯想轉向印度作為人工智慧伺服器的來源</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
-      <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
