@@ -4,13 +4,34 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 20 Sep 2024 20:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 21:11:10 GMT</lastBuildDate>
+    <item>
+      <title>谷歌呼籲停止使用 WHOIS 進行 TLS 域名驗證</title>
+      <link>https://arstechnica.com/?p=2051511</link>
+      <description><![CDATA[WHOIS 資料不可靠。那麼為什麼在TLS憑證申請中使用它呢？]]></description>
+      <guid>https://arstechnica.com/?p=2051511</guid>
+      <pubDate>Fri, 20 Sep 2024 20:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>為進階用戶回顧 iOS 18：控制中心、iCloud 等</title>
+      <link>https://arstechnica.com/?p=2050326</link>
+      <description><![CDATA[別介意表情符號——這裡有一些可以讓 iOS 更有效率的東西。]]></description>
+      <guid>https://arstechnica.com/?p=2050326</guid>
+      <pubDate>Fri, 20 Sep 2024 19:53:56 GMT</pubDate>
+    </item>
     <item>
       <title>作為美國宇航局重返月球的一部分，一家公司似乎正在蓬勃發展</title>
       <link>https://arstechnica.com/?p=2051271</link>
       <description><![CDATA[“這對我們來說確實是轉型的一年。”]]></description>
       <guid>https://arstechnica.com/?p=2051271</guid>
       <pubDate>Fri, 20 Sep 2024 18:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>生活模仿 xkcd 漫畫，佛羅裡達幫派破解了退休人員的加密密碼</title>
+      <link>https://arstechnica.com/?p=2051106</link>
+      <description><![CDATA[該團夥策劃入室盜竊以竊取加密貨幣。]]></description>
+      <guid>https://arstechnica.com/?p=2051106</guid>
+      <pubDate>Fri, 20 Sep 2024 18:40:10 GMT</pubDate>
     </item>
     <item>
       <title>卡反人類組織起訴 SpaceX，指控其「入侵」美墨邊境土地</title>
@@ -53,27 +74,6 @@
       <description><![CDATA[續集再次讓你失去人性以某種方式生存……有趣嗎？]]></description>
       <guid>https://arstechnica.com/?p=2051226</guid>
       <pubDate>Fri, 20 Sep 2024 17:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink 對美國部分地區的新用戶徵收 100 美元“擁堵費”</title>
-      <link>https://arstechnica.com/?p=2051360</link>
-      <description><![CDATA[擁堵地區一次性收取 100 美元費用，容量過剩地區一次性收取 100 美元積分。]]></description>
-      <guid>https://arstechnica.com/?p=2051360</guid>
-      <pubDate>Fri, 20 Sep 2024 16:57:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>不會讓迎面而來的駕駛失明的頭燈技術——它在哪裡？</title>
-      <link>https://arstechnica.com/?p=2051356</link>
-      <description><![CDATA[美國的汽車照明技術有點落後。]]></description>
-      <guid>https://arstechnica.com/?p=2051356</guid>
-      <pubDate>Fri, 20 Sep 2024 16:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars 正在尋找一位經驗豐富的高級記者，負責谷歌的所有事務</title>
-      <link>https://arstechnica.com/?p=2038555</link>
-      <description><![CDATA[對人工智慧和/或手機邊框寬度的未來有什麼看法嗎？快來申請吧！]]></description>
-      <guid>https://arstechnica.com/?p=2038555</guid>
-      <pubDate>Fri, 20 Sep 2024 16:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
