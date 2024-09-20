@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 06:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 06:42:57 GMT</lastBuildDate>
+    <item>
+      <title>中國和歐洲都推出了新一代衛星導航系統，這對衛星導航來說是重要的一周</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/galileo_beido_satellite_launches/</link>
+      <description><![CDATA[雙方都在升級，深海服務和可編程衛星即將推出 繼歐洲太空總署和中國衛星之後，世界上的兩個衛星定位服務星座本週達到了重要里程碑導航辦公室各自發射了自己的一對衛星。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/galileo_beido_satellite_launches/</guid>
+      <pubDate>Fri, 20 Sep 2024 06:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>Citrix 增加了遠端 Mac 支援，但一些客戶脾氣暴躁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/gartner_daas_magic_quadrant/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>巴倫西亞勒索軟體當場爆炸，加州時尚巨頭稱更多是受害者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</link>
-      <description><![CDATA[專家告訴 El Reg，「似乎可信」看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
+      <description><![CDATA[專家告訴El Reg自吹自擂「似乎可信」 加州一座城市、一家西班牙時尚巨頭、一家印度造紙製造商和兩家製藥公司是據稱的受害者看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</guid>
       <pubDate>Thu, 19 Sep 2024 23:24:14 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但他很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經有 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但不明白為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>博通執行長預測超大規模企業將建構百萬級加速器集群</title>
+      <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
       <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[過時的軟體被認為是盔甲破裂的原因 Tor 項目堅稱其隱私保護能力仍然有效，反駁了德國有關其網絡上的用戶匿名可能並且已經受到警方損害的報道。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/tor_police_germany/</guid>
       <pubDate>Thu, 19 Sep 2024 06:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NTT Data、IBM 團隊為銀行開發大型機雲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</link>
-      <description><![CDATA[SimpliZCloud 目前僅適用於印度，基於 Big Blue 的 LinuxONE 由於日本 IT 服務巨頭 NTT Data 決定建立基於 Big Blue 的混合雲服務，大型主機找到了另一個角色IBM LinuxONE 平台。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:01:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
