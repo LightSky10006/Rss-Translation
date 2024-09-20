@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 17:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 17:36:27 GMT</lastBuildDate>
+    <item>
+      <title>美國起訴兩人透過社會工程竊盜價值超過 2.3 億美元的加密貨幣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/us_indicts_two_over_socially/</link>
+      <description><![CDATA[僅一名受害者就被榨取了近25 億美元 兩人因從一名受害者身上盜竊價值超過2.3 億美元的加密貨幣而被戴上手銬，並面臨嚴重指控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/us_indicts_two_over_socially/</guid>
+      <pubDate>Fri, 20 Sep 2024 17:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>大多數 Redis 用戶在許可許可減少後考慮替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[V2 衛星發出的噪音是原來的1000 萬倍，阻礙瞭望遠鏡 SpaceX 將第二代Starlink 衛星送入軌道，可能不會像舊衛星那樣反射那麼多陽光，但天文學家表示它們正在洩漏高達非預期無線電波的 32 倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/starlinks_spacex_satellites_radio_interference/</guid>
       <pubDate>Thu, 19 Sep 2024 17:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>十分之一的組織在 CrowdStrike 中斷後拋棄了安全供應商</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/german_crowdstrike_reaction/</link>
-      <description><![CDATA[許多人因7 月的IT 崩潰而感到震驚，但不用擔心，這一切都是不可避免的 德國聯邦資訊安全辦公室(BSI) 表示，該國十分之一的組織受到7 月份CrowdStrike 中斷的影響正在放棄當前供應商的產品。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/german_crowdstrike_reaction/</guid>
-      <pubDate>Thu, 19 Sep 2024 16:13:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
