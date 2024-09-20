@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 07:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 08:40:26 GMT</lastBuildDate>
+    <item>
+      <title>綠色回收目標？待決的歐盟指令可能打擊二手手機市場</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/secondhand_smartphone_demand/</link>
+      <description><![CDATA[Bloc 的USB-C 規則預計將中斷供應，禁止800 萬部進口手機到達歐洲港口 歐盟即將實施的《無線電設備指令》預計將導致800 萬部二手智慧型手機，即五分之二的手機被淘汰單位，不再可供供應，並且——至少在貿易集團中——實際上已經過時了。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/secondhand_smartphone_demand/</guid>
+      <pubDate>Fri, 20 Sep 2024 08:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>由於他的其他才能，高手程式設計師不被允許會見客戶：極度不恰當的侮辱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡一兩場爭論，但很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經有 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但不明白為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 19 Sep 2024 12:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>Kelsey Hightower：如果政府依賴自由和開源軟體，他們應該為其提供資金</title>
+      <title>Kelsey Hightower：如果政府依賴自由和開放原始碼軟體，他們應該為其提供資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</link>
       <description><![CDATA[Kubernetes 元老與The Reg 討論如何讓程式設計師繼續編碼 訪談  著名工程師Kelsey Hightower 在2023 年停止為金錢而編碼，但仍是軟體界有影響力的人物，他提出的建議可能會激起開源社群的興趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>英國政府數十億美元的 IT 合約即將到期，讓下一個供應商採取正確的行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</link>
-      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆五年議會期間終止。]]></description>
+      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆議會五年期期間終止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</guid>
       <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[似乎有人在尋求扳手腕 SiFive 為各種 AI 晶片設計了 RISC-V CPU 內核，現在正在為其自己的本土成熟機器學習加速器提供藍圖許可。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/sifive_ai_accelerator/</guid>
       <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>博通執行長預測超大規模企業將建構百萬級加速器集群</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
-      <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
-      <pubDate>Thu, 19 Sep 2024 07:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
