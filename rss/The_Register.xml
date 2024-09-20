@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 10:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 11:35:37 GMT</lastBuildDate>
+    <item>
+      <title>迪士尼將 Slack 踢到了路邊，期待 Microsoft Teams 從此過著幸福快樂的生活</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/disney_slack_microsoft_teams/</link>
+      <description><![CDATA[絕對不是對洩露內部資料的人進行懲罰 在有報道稱Salesforce 擁有的消息服務將被拋棄，轉而支持Microsoft Teams 後，娛樂巨頭迪士尼的Slack 並沒有童話般的結局。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/disney_slack_microsoft_teams/</guid>
+      <pubDate>Fri, 20 Sep 2024 11:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>當 HashiCorp 玩許可證輪盤賭時，Virter 推出拯救 FOSS VM 測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</link>
-      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 2024 年歐洲開源峰會 如果您經常創建（然後刪除）虛擬機來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 投入 FOSS 池所引發的漣漪所帶動的。]]></description>
+      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 2024 年歐洲開源峰會 如果您經常創建（然後刪除）虛擬機來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 放入 FOSS 池塘所引發的連鎖反應所引發的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</guid>
       <pubDate>Fri, 20 Sep 2024 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>網路騙子大搖大擺地展示 Harvey Nichols 高級時裝數據</title>
+      <title>網路騙子拿著 Harvey Nichols 高級時裝數據大搖大擺地走開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</link>
-      <description><![CDATA[這次外洩事件細節稀疏、宣傳不力，這與高階無關 英國高階百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分資料在最近的網路攻擊中遭到洩漏。]]></description>
+      <description><![CDATA[這次洩露事件細節稀疏、宣傳不力，與高端無關 英國高端百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分數據在最近的網絡攻擊中遭到洩露。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</guid>
       <pubDate>Fri, 20 Sep 2024 09:27:09 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經有 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但不明白為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡一兩場爭論，但很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[4 向倫敦大都會警察局提出投訴，指控惡意軟體製造商協助專制國家侵犯其隱私 四位英國人權支持者和中東國家批評者今天向倫敦大都會警察局提交了一份報告，他們希望將導致對 Pegasus 小販 NSO 集團的指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/</guid>
       <pubDate>Thu, 19 Sep 2024 12:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kelsey Hightower：如果政府依賴自由和開放原始碼軟體，他們應該為其提供資金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</link>
-      <description><![CDATA[Kubernetes 元老與The Reg 討論如何讓程式設計師繼續編碼 訪談  著名工程師Kelsey Hightower 在2023 年停止為金錢而編碼，但仍是軟體界有影響力的人物，他提出的建議可能會激起開源社群的興趣。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</guid>
-      <pubDate>Thu, 19 Sep 2024 10:41:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
