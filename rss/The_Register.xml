@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 14:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 15:36:55 GMT</lastBuildDate>
+    <item>
+      <title>Ivanti 修補程式利用了管理指令執行缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</link>
+      <description><![CDATA[擔心連鎖攻擊會影響EOL 產品 美國網路安全與基礎設施安全局(CISA) 剛剛將最新的Ivanti 漏洞添加到其已知的可利用漏洞(KEV) 目錄中，這種情況肯定會惹惱一些–鑑於這是另一個路徑遍歷缺陷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>微軟透過 Windows App 進行糟糕的品牌重塑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</link>
-      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是從各種來源串流Windows的中心。]]></description>
+      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是一個從各種來源串流Windows的中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</guid>
       <pubDate>Fri, 20 Sep 2024 14:35:44 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>當 HashiCorp 玩許可證輪盤賭時，Virter 推出拯救 FOSS VM 測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</link>
-      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 2024 年歐洲開源峰會 如果您經常創建（然後刪除）虛擬機來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 放入 FOSS 池塘所引發的連鎖反應所引發的。]]></description>
+      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 2024 年歐洲開源峰會 如果您經常創建（然後刪除）虛擬機來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 投入 FOSS 池所引發的漣漪所帶動的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</guid>
       <pubDate>Fri, 20 Sep 2024 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>網路騙子拿著 Harvey Nichols 高級時裝數據大搖大擺地走開</title>
+      <title>網路騙子大搖大擺地展示 Harvey Nichols 高級時裝數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</link>
-      <description><![CDATA[這次洩露事件細節稀疏、宣傳不力，與高端無關 英國高端百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分數據在最近的網絡攻擊中遭到洩露。]]></description>
+      <description><![CDATA[這次外洩事件細節稀疏、宣傳不力，這與高階無關 英國高階百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分資料在最近的網路攻擊中遭到洩漏。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</guid>
       <pubDate>Fri, 20 Sep 2024 09:27:09 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>由於他的其他才能，高手程式設計師不被允許會見客戶：極度不恰當的侮辱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</link>
-      <description><![CDATA[然後，他就不再是程式設計高手了，這就是麻煩開始的時候 On Call 歡迎再次來到On Call，這是一個每週專欄，讀者可以在其中講述他們的故事技術支援的麻煩和勝利。]]></description>
+      <description><![CDATA[然後，他不再是編碼高手，麻煩就從那時開始 On Call 歡迎再次來到On Call，這是一個每週專欄，讀者可以在其中講述他們的故事技術支援的麻煩和勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</guid>
       <pubDate>Fri, 20 Sep 2024 07:32:05 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>巴倫西亞勒索軟體當場爆炸，加州時尚巨頭稱更多是受害者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</link>
-      <description><![CDATA[專家告訴 El Reg，「似乎可信」看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
+      <description><![CDATA[專家告訴El Reg自吹自擂「似乎可信」 加州一座城市、一家西班牙時尚巨頭、一家印度造紙製造商和兩家製藥公司是據稱的受害者看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</guid>
       <pubDate>Thu, 19 Sep 2024 23:24:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但他很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經有 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但不明白為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>數千個組織面臨因 ServiceNow 配置錯誤而導致知識庫資料外洩的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/servicenow_knowledge_base_leaks/</link>
-      <description><![CDATA[人們，請更好地檢查您的小部件 已更新 安全研究人員表示，數千家公司可能會透過ServiceNow 錯誤配置從其內部知識庫(KB) 文章中洩漏機密。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/servicenow_knowledge_base_leaks/</guid>
-      <pubDate>Thu, 19 Sep 2024 14:02:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
