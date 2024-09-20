@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Sep 2024 00:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 02:12:12 GMT</lastBuildDate>
+    <item>
+      <title>阿里雲聲稱其模組化資料中心架構將建置時間縮短了 50%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</link>
+      <description><![CDATA[還揭示了利用率的提高、IaaS 的升級等- 所有這些都以人工智能應用程序的名義 阿里雲發布了模組化數據中心架構，聲稱將通過提高性能來幫助其滿足人工智慧基礎設施的需求以及新設施的建設時間。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:59:12 GMT</pubDate>
+    </item>
     <item>
       <title>CISA老闆：不安全軟體的製造者才是真正的網路惡棍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</link>
-      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你在做這件事時，給犯罪團夥起一個可怕的名字，比如“邪惡雪貂” 根據Jen Easterly 的老闆Jen Easterly 的說法，發布有缺陷、不安全代碼的軟體開發人員才是網路犯罪故事中真正的惡棍。 -&gt;]]></description>
+      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你這樣做時，給犯罪團夥起可怕的名字，比如“邪惡雪貂” 發布有缺陷、不安全代碼的軟體開發人員才是網絡犯罪故事中真正的惡棍，美國老闆Jen Easterly政府的網路安全與基礎設施安全局認為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</guid>
       <pubDate>Fri, 20 Sep 2024 00:33:12 GMT</pubDate>
     </item>
     <item>
       <title>巴倫西亞勒索軟體當場爆炸，加州時尚巨頭稱更多是受害者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</link>
-      <description><![CDATA[專家告訴 El Reg，「似乎可信」看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
+      <description><![CDATA[專家告訴El Reg自吹自擂「似乎可信」 加州一座城市、一家西班牙時尚巨頭、一家印度造紙製造商和兩家製藥公司是據稱的受害者看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</guid>
       <pubDate>Thu, 19 Sep 2024 23:24:14 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但他很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經有 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但不明白為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 19 Sep 2024 08:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>博通執行長預測超大規模企業將建構百萬級加速器集群</title>
+      <title>博通執行長預測超大規模企業將建立數百萬個加速器集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</link>
       <description><![CDATA[Hock Tan 認為晶片銷售週期也即將大幅上升 Broadcom 執行長 Hock Tan 預測，他的超大規模半導體客戶將在未來三到五年內繼續構建 AI 集群，每個集群一代機器的尺寸增加了一倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/hock_tan_ai_infrastructure_predictions/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 19 Sep 2024 06:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>NTT Data、IBM 團隊為銀行開發大型機雲</title>
+      <title>NTT Data、IBM 團隊為銀行開發大型主機雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</link>
       <description><![CDATA[SimpliZCloud 目前僅適用於印度，基於 Big Blue 的 LinuxONE 由於日本 IT 服務巨頭 NTT Data 決定建立基於 Big Blue 的混合雲服務，大型主機找到了另一個角色IBM LinuxONE 平台。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室......]]></description>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
       <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 開始收集人們的貼文來訓練人工智慧，而不要求選擇加入</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/linkedin_ai_data_access/</link>
-      <description><![CDATA[如果您不喜歡它，則必須選擇退出- 歐盟和其他一些國家除外 LinkedIn 開始在未經許可的情況下收集用戶生成的內容來訓練其人工智慧，這激怒了網民。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/linkedin_ai_data_access/</guid>
-      <pubDate>Thu, 19 Sep 2024 02:08:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
