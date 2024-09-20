@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Sep 2024 23:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 00:56:21 GMT</lastBuildDate>
     <item>
-      <title>巴倫西亞勒索軟體團隊在現場爆炸，加州時尚巨頭稱更多是受害者</title>
+      <title>CISA老闆：不安全軟體的製造者才是真正的網路惡棍</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</link>
+      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你在做這件事時，給犯罪團夥起一個可怕的名字，比如“邪惡雪貂” 根據Jen Easterly 的老闆Jen Easterly 的說法，發布有缺陷、不安全代碼的軟體開發人員才是網路犯罪故事中真正的惡棍。 -&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴倫西亞勒索軟體當場爆炸，加州時尚巨頭稱更多是受害者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</link>
-      <description><![CDATA[專家告訴El Reg自吹自擂「似乎可信」 加州一座城市、一家西班牙時尚巨頭、一家印度造紙製造商和兩家製藥公司是據稱的受害者看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
+      <description><![CDATA[專家告訴 El Reg，「似乎可信」看起來像是一個新的勒索軟體團夥本週開始洩露被盜資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/valencia_ransomware_california_city/</guid>
       <pubDate>Thu, 19 Sep 2024 23:24:14 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Torvalds 參與了 Linux 中「令人討厭的」Rust 與 C 的爭論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</link>
-      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡一兩場爭論，但很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
+      <description><![CDATA[這就像是帶有「宗教色彩」的 vi 與 Emacs，專案負責人笑道 Linux 已經 33 歲了。它的創建者 Linus Torvalds 仍然喜歡爭論一兩場，但他很困惑為什麼關於 Rust 的爭論會引起如此大的熱度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/torvalds_talks_rust_in_linux/</guid>
       <pubDate>Thu, 19 Sep 2024 15:07:09 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 19 Sep 2024 12:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>Kelsey Hightower：如果政府依賴自由和開源軟體，他們應該為其提供資金</title>
+      <title>Kelsey Hightower：如果政府依賴自由和開放原始碼軟體，他們應該為其提供資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</link>
       <description><![CDATA[Kubernetes 元老與The Reg 討論如何讓程式設計師繼續編碼 訪談  著名工程師Kelsey Hightower 在2023 年停止為金錢而編碼，但仍是軟體界有影響力的人物，他提出的建議可能會激起開源社群的興趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/kelsey_hightower_civo/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>英國政府數十億美元的 IT 合約即將到期，讓下一個供應商採取正確的行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</link>
-      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆五年議會期間終止。]]></description>
+      <description><![CDATA[研究人員稱，表現不佳的公司將獲得續約，新的小型公司將不願競標 據研究人員警告稱，價值234 億英鎊的英國政府IT 合約將在本屆議會五年期期間終止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/government_it_contracts_expiring/</guid>
       <pubDate>Thu, 19 Sep 2024 09:37:14 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 19 Sep 2024 06:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>NTT Data、IBM 團隊為銀行開發大型主機雲</title>
+      <title>NTT Data、IBM 團隊為銀行開發大型機雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</link>
       <description><![CDATA[SimpliZCloud 目前僅適用於印度，基於 Big Blue 的 LinuxONE 由於日本 IT 服務巨頭 NTT Data 決定建立基於 Big Blue 的混合雲服務，大型主機找到了另一個角色IBM LinuxONE 平台。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/ntt_data_ibm_mainframe/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>聯想轉向印度作為人工智慧伺服器的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</link>
-      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室。]]></description>
+      <description><![CDATA[印度製造政策的另一個勝利，但就產品數量而言，只是一個小胜利 聯想週二透露，將在印度本地治裡的工廠生產人工智能服務器，並已開設了一家工廠班加羅爾的新基礎設施研發實驗室......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/lenovo_india_ai_server_manufacturing/</guid>
       <pubDate>Thu, 19 Sep 2024 03:59:26 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您不喜歡它，則必須選擇退出- 歐盟和其他一些國家除外 LinkedIn 開始在未經許可的情況下收集用戶生成的內容來訓練其人工智慧，這激怒了網民。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/19/linkedin_ai_data_access/</guid>
       <pubDate>Thu, 19 Sep 2024 02:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>上訴獲勝後，谷歌躲避了 1.5B 歐元的歐盟廣告反壟斷罰款</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/18/google_escapes_15b_eu_antitrust_fine/</link>
-      <description><![CDATA[另一方面，高通就沒那麼幸運了 Google 有一些感謝卡要寄，因為歐盟普通法院 (GC) 已經取消了 14.9 億歐元（16.6 億美元）的賠償）因反競爭廣告行為而對科技巨頭處以罰款。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/18/google_escapes_15b_eu_antitrust_fine/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:59:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
