@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 22 Sep 2024 03:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 10:37:37 GMT</lastBuildDate>
+    <item>
+      <title>英特爾正式進入復甦階段</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/22/intel_grin_bear_it/</link>
+      <description><![CDATA[基辛格向全世界推銷他的鑄造廠願景。離開並不容易 評價 週一，英特爾股價飆升，原因是有消息稱英特爾將把代工業務分拆為獨立子公司，並與AWS 和國防部簽約成為客戶.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/22/intel_grin_bear_it/</guid>
+      <pubDate>Sun, 22 Sep 2024 10:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>玻璃之心：人類基因組在 5D 記憶晶體中「永恆」存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</link>
@@ -13,9 +20,9 @@
       <pubDate>Sat, 21 Sep 2024 13:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因為培根而響</title>
+      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因培根而響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</link>
-      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
+      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因最輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</guid>
       <pubDate>Sat, 21 Sep 2024 10:35:08 GMT</pubDate>
     </item>
@@ -48,14 +55,14 @@
       <pubDate>Fri, 20 Sep 2024 17:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>在不太寬鬆的授權措施之後，大多數 Redis 用戶正在考慮替代方案</title>
+      <title>大多數 Redis 用戶在許可許可減少後考慮替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</link>
       <description><![CDATA[資料庫slinger 收緊條款後，Valkey 引發了人們對FOSS 替代方案的興趣 在資料庫公司放棄寬鬆的開源授權之後，大約70% 的Redis 用戶正在考慮替代方案。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</guid>
       <pubDate>Fri, 20 Sep 2024 16:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>Ivanti 補丁利用了管理指令執行缺陷</title>
+      <title>Ivanti 修補程式利用了管理指令執行缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</link>
       <description><![CDATA[擔心連鎖攻擊會影響EOL 產品 美國網路安全與基礎設施安全局(CISA) 剛剛將最新的Ivanti 漏洞添加到其已知的可利用漏洞(KEV) 目錄中，這種情況肯定會惹惱一些–鑑於這是另一個路徑遍歷缺陷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>微軟透過 Windows App 進行糟糕的品牌重塑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</link>
-      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是從各種來源串流Windows的中心。]]></description>
+      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是一個從各種來源串流Windows的中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</guid>
       <pubDate>Fri, 20 Sep 2024 14:35:44 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>當 HashiCorp 玩許可證輪盤賭時，Virter 推出拯救 FOSS VM 測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</link>
-      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 歐洲開源高峰會 如果您經常創建（然後刪除）虛擬機器來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 放入 FOSS 池塘所引發的連鎖反應所引發的。]]></description>
+      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 歐洲開源高峰會 如果您經常創建（然後刪除）虛擬機器來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 投入 FOSS 池所引發的漣漪所帶動的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</guid>
       <pubDate>Fri, 20 Sep 2024 10:15:07 GMT</pubDate>
     </item>
     <item>
       <title>網路騙子拿著 Harvey Nichols 高級時裝數據大搖大擺地走開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</link>
-      <description><![CDATA[這次洩露事件細節稀疏、宣傳不力，與高端無關 英國高端百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分數據在最近的網絡攻擊中遭到洩露。]]></description>
+      <description><![CDATA[這次外洩事件細節稀疏、宣傳不力，這與高階無關 英國高階百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分資料在最近的網路攻擊中遭到洩漏。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</guid>
       <pubDate>Fri, 20 Sep 2024 09:27:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[還揭示了利用率的提高、IaaS 的升級等- 所有這些都以人工智能應用程序的名義 阿里雲發布了模組化數據中心架構，聲稱將通過提高性能來幫助其滿足人工智慧基礎設施的需求以及新設施的建設時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</guid>
       <pubDate>Fri, 20 Sep 2024 01:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>CISA老闆：不安全軟體的製造者才是真正的網路惡棍</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</link>
-      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你這樣做時，給犯罪團夥起可怕的名字，比如“邪惡雪貂” 發布有缺陷、不安全代碼的軟體供應商才是網絡犯罪故事中真正的壞人，美國老闆Jen Easterly政府的網路安全與基礎設施安全局認為。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</guid>
-      <pubDate>Fri, 20 Sep 2024 00:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
