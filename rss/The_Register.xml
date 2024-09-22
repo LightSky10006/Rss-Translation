@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 22 Sep 2024 03:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 03:41:19 GMT</lastBuildDate>
     <item>
       <title>玻璃之心：人類基因組在 5D 記憶晶體中「永恆」存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</link>
@@ -13,9 +13,9 @@
       <pubDate>Sat, 21 Sep 2024 13:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因培根而響</title>
+      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因為培根而響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</link>
-      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因最輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
+      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</guid>
       <pubDate>Sat, 21 Sep 2024 10:35:08 GMT</pubDate>
     </item>
@@ -48,14 +48,14 @@
       <pubDate>Fri, 20 Sep 2024 17:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>大多數 Redis 用戶在許可許可減少後考慮替代方案</title>
+      <title>在不太寬鬆的授權措施之後，大多數 Redis 用戶正在考慮替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</link>
       <description><![CDATA[資料庫slinger 收緊條款後，Valkey 引發了人們對FOSS 替代方案的興趣 在資料庫公司放棄寬鬆的開源授權之後，大約70% 的Redis 用戶正在考慮替代方案。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</guid>
       <pubDate>Fri, 20 Sep 2024 16:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>Ivanti 修補程式利用了管理指令執行缺陷</title>
+      <title>Ivanti 補丁利用了管理指令執行缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</link>
       <description><![CDATA[擔心連鎖攻擊會影響EOL 產品 美國網路安全與基礎設施安全局(CISA) 剛剛將最新的Ivanti 漏洞添加到其已知的可利用漏洞(KEV) 目錄中，這種情況肯定會惹惱一些–鑑於這是另一個路徑遍歷缺陷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>微軟透過 Windows App 進行糟糕的品牌重塑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</link>
-      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是一個從各種來源串流Windows的中心。]]></description>
+      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是從各種來源串流Windows的中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</guid>
       <pubDate>Fri, 20 Sep 2024 14:35:44 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>由於他的其他才能，高手程式設計師不被允許會見客戶：極度不恰當的侮辱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</link>
-      <description><![CDATA[然後，他不再是編碼高手，麻煩就從那時開始 On Call 歡迎再次來到On Call，這是一個每週專欄，讀者可以在其中講述他們的故事技術支援的麻煩和勝利。]]></description>
+      <description><![CDATA[然後，他就不再是程式設計高手了，這就是麻煩開始的時候 On Call 歡迎再次來到On Call，這是一個每週專欄，讀者可以在其中講述他們的故事技術支援的麻煩和勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</guid>
       <pubDate>Fri, 20 Sep 2024 07:32:05 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>CISA老闆：不安全軟體的製造者才是真正的網路惡棍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</link>
-      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你這樣做的時候，給犯罪團夥起一個可怕的名字，比如「邪惡雪貂」 發布有缺陷、不安全代碼的軟體供應商才是網絡犯罪故事中真正的壞人，美國老闆Jen Easterly政府的網路安全與基礎設施安全局認為。]]></description>
+      <description><![CDATA[Jen Easterly 敦促編寫更好的程式碼。當你這樣做時，給犯罪團夥起可怕的名字，比如“邪惡雪貂” 發布有缺陷、不安全代碼的軟體供應商才是網絡犯罪故事中真正的壞人，美國老闆Jen Easterly政府的網路安全與基礎設施安全局認為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/cisa_sloppy_vendors_cybercrime_villains/</guid>
       <pubDate>Fri, 20 Sep 2024 00:33:12 GMT</pubDate>
     </item>
