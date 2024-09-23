@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 20:14:34 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 讓網站一鍵阻止 AI 爬蟲</title>
+      <link>https://arstechnica.com/?p=2051732</link>
+      <description><![CDATA[Cloudflare 可能會為其人工智慧抓取資料市場收取類似應用程式商店的費用。]]></description>
+      <guid>https://arstechnica.com/?p=2051732</guid>
+      <pubDate>Mon, 23 Sep 2024 20:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>漫長的 10 年，終於告別了 Apple iPhone 6 的設計</title>
+      <link>https://arstechnica.com/?p=2051832</link>
+      <description><![CDATA[專欄：談論 iPhone 6 的設計及其缺陷整整十年。]]></description>
+      <guid>https://arstechnica.com/?p=2051832</guid>
+      <pubDate>Mon, 23 Sep 2024 19:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>帶有太陽能屋頂的混合動力房車可以在緊急情況下為您的房屋供電</title>
+      <link>https://arstechnica.com/?p=2051838</link>
+      <description><![CDATA[混合動力系統的續航里程為 500 英里。]]></description>
+      <guid>https://arstechnica.com/?p=2051838</guid>
+      <pubDate>Mon, 23 Sep 2024 19:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 在 Intel 4004 上啟動僅需 4.76 天</title>
+      <link>https://arstechnica.com/?p=2051764</link>
+      <description><![CDATA[1971 年推出的歷史悠久的 4 位元微處理器可以在幾天或幾週內執行 Linux 命令。]]></description>
+      <guid>https://arstechnica.com/?p=2051764</guid>
+      <pubDate>Mon, 23 Sep 2024 18:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 工作人員解釋了為何應用程式更新如此糟糕</title>
+      <link>https://arstechnica.com/?p=2051728</link>
+      <description><![CDATA[根據彭博社報道，在應用程式發布之前，會議上出現了「大喊大叫」、「尖叫」的情況。]]></description>
+      <guid>https://arstechnica.com/?p=2051728</guid>
+      <pubDate>Mon, 23 Sep 2024 18:39:36 GMT</pubDate>
+    </item>
     <item>
       <title>準備好觀賞最新的動感十足的《角鬥士 II》預告片吧</title>
       <link>https://arstechnica.com/?p=2051654</link>
@@ -27,7 +62,7 @@
       <pubDate>Mon, 23 Sep 2024 15:52:14 GMT</pubDate>
     </item>
     <item>
-      <title>假人工智慧「播客」正在評論我的書，這讓我嚇壞了</title>
+      <title>假人工智慧「播客」正在評論我的書，這嚇壞了我</title>
       <link>https://arstechnica.com/?p=2051549</link>
       <description><![CDATA[NotebookLM 的「音訊摘要」展示了人工智慧產生的內容更個人化的未來。]]></description>
       <guid>https://arstechnica.com/?p=2051549</guid>
@@ -36,44 +71,9 @@
     <item>
       <title>我們的達菲庫存能預防禽流感大流行嗎？</title>
       <link>https://arstechnica.com/?p=2051670</link>
-      <description><![CDATA[各國政府在 H5N1 流感爆發時寄望於這種老藥。]]></description>
+      <description><![CDATA[在 H5N1 流感爆發時，各國政府都寄望於這種老藥。]]></description>
       <guid>https://arstechnica.com/?p=2051670</guid>
       <pubDate>Mon, 23 Sep 2024 14:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國以安全風險為由禁止中國連網汽車軟體和硬體</title>
-      <link>https://arstechnica.com/?p=2051655</link>
-      <description><![CDATA[該禁令將於 2027 年開始針對軟體，從 2030 年開始針對硬體。]]></description>
-      <guid>https://arstechnica.com/?p=2051655</guid>
-      <pubDate>Mon, 23 Sep 2024 14:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>週日，一枚中國火箭險些著陸——影片太棒了</title>
-      <link>https://arstechnica.com/?p=2051630</link>
-      <description><![CDATA[深藍宇航只是幾家致力於垂直著陸的中國公司之一。]]></description>
-      <guid>https://arstechnica.com/?p=2051630</guid>
-      <pubDate>Mon, 23 Sep 2024 13:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tandem OLED是OLED對抗MicroLED、QDEL的最新武器</title>
-      <link>https://arstechnica.com/?p=2041081</link>
-      <description><![CDATA[更亮、更堅固的串聯 RGB 堆疊可能有助於 OLED 保持其顯示統治地位。]]></description>
-      <guid>https://arstechnica.com/?p=2041081</guid>
-      <pubDate>Mon, 23 Sep 2024 11:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>當你打電話給餐廳時，你可能正在與人工智慧主持人聊天</title>
-      <link>https://arstechnica.com/?p=2051613</link>
-      <description><![CDATA[語音聊天機器人越來越多地為餐廳接聽電話。]]></description>
-      <guid>https://arstechnica.com/?p=2051613</guid>
-      <pubDate>Sun, 22 Sep 2024 11:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽化塑膠將它們回收成氣體</title>
-      <link>https://arstechnica.com/?p=2051605</link>
-      <description><![CDATA[聚丙烯和聚乙烯可以同時分解。]]></description>
-      <guid>https://arstechnica.com/?p=2051605</guid>
-      <pubDate>Sat, 21 Sep 2024 11:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
