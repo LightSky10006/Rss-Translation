@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 23 Sep 2024 11:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 13:24:05 GMT</lastBuildDate>
+    <item>
+      <title>週日，一枚中國火箭險些著陸——影片太棒了</title>
+      <link>https://arstechnica.com/?p=2051630</link>
+      <description><![CDATA[深藍宇航只是幾家致力於垂直著陸的中國公司之一。]]></description>
+      <guid>https://arstechnica.com/?p=2051630</guid>
+      <pubDate>Mon, 23 Sep 2024 13:04:22 GMT</pubDate>
+    </item>
     <item>
       <title>Tandem OLED是OLED對抗MicroLED、QDEL的最新武器</title>
       <link>https://arstechnica.com/?p=2041081</link>
@@ -43,7 +50,7 @@
     <item>
       <title>電網規模電池：它們不只是鋰</title>
       <link>https://arstechnica.com/?p=2051477</link>
-      <description><![CDATA[當尺寸和重量不重要時，許多其他電池化學成分都可以發揮作用。]]></description>
+      <description><![CDATA[當尺寸和重量無關緊要時，許多其他電池化學成分都可以發揮作用。]]></description>
       <guid>https://arstechnica.com/?p=2051477</guid>
       <pubDate>Fri, 20 Sep 2024 22:15:58 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>拆分谷歌如何降低你的線上購物帳單</title>
       <link>https://arstechnica.com/?p=2051545</link>
-      <description><![CDATA[專家表示，司法部在Google廣告技術壟斷審判中獲勝可能會讓所有人受益。]]></description>
+      <description><![CDATA[專家表示，美國司法部在Google廣告科技壟斷審判中獲勝可能會讓所有人受益。]]></description>
       <guid>https://arstechnica.com/?p=2051545</guid>
       <pubDate>Fri, 20 Sep 2024 21:42:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[TI-84 內部安裝的微型裝置可實現 Wi-Fi 網路、存取 AI 聊天機器人。]]></description>
       <guid>https://arstechnica.com/?p=2051342</guid>
       <pubDate>Fri, 20 Sep 2024 21:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌呼籲停止使用 WHOIS 進行 TLS 域名驗證</title>
-      <link>https://arstechnica.com/?p=2051511</link>
-      <description><![CDATA[WHOIS 資料不可靠。那麼為什麼在TLS憑證申請中使用它呢？]]></description>
-      <guid>https://arstechnica.com/?p=2051511</guid>
-      <pubDate>Fri, 20 Sep 2024 20:53:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
