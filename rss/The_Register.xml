@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 10:15:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 10:42:12 GMT</lastBuildDate>
+    <item>
+      <title>Axiom Space 勇敢面對財務狀況不佳的說法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/axiom_space_finances/</link>
+      <description><![CDATA[任務虧損、太空站延誤，但「我們不會被嚇倒」 Axiom Space 執行長Kam Ghaffarian 博士在一次未完全按計劃進行的採訪後試圖安撫客戶.... ..  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/axiom_space_finances/</guid>
+      <pubDate>Mon, 23 Sep 2024 10:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>NHS 在技術上又投入了 10 億美元，希望最終能數位化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/nhs_tech_procurement/</link>
@@ -76,9 +83,9 @@
       <pubDate>Sat, 21 Sep 2024 13:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因培根而響</title>
+      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因為培根而響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</link>
-      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因最輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
+      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</guid>
       <pubDate>Sat, 21 Sep 2024 10:35:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟透過 Windows App 進行糟糕的品牌重塑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</link>
-      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是一個從各種來源串流Windows的中心。]]></description>
+      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是從各種來源串流Windows的中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</guid>
       <pubDate>Fri, 20 Sep 2024 14:35:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[啟動作業系統級調節器和電源配置文件，將能源使用量減少「25% - 50%」 近年來，隨著公用事業公司努力滿足不斷增長的需求，資料中心功耗已成為一個主要問題運營商被迫尋求替代方法來保持正常運作。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/datacenters_waste_watts_server_power/</guid>
       <pubDate>Fri, 20 Sep 2024 13:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲最大的市議會：Oracle ERP 將 20 億英鎊的交易分配給了錯誤的年份</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/birmingham_oracle_finance_woes/</link>
-      <description><![CDATA[工作人員被迫手動更正設置，在定制後難以生成可審計的賬目 陷入困境的伯明翰市議會實施的Oracle 財務系統將20 億英鎊（26.5 億美元）現金分配給了錯誤的財政年度，讓公共部門工作人員手動清除錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/birmingham_oracle_finance_woes/</guid>
-      <pubDate>Fri, 20 Sep 2024 12:20:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
