@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 20:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:34:58 GMT</lastBuildDate>
+    <item>
+      <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
+      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜、特斯拉、Meta 被認為對民主有害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/amazon_tesla_meta_democracy/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[支持口角的反駁描繪了電信巨頭 IT 產業的不討人喜歡的畫面 Broadcom 聲稱 AT&amp;T 計劃停止使用 VMware 軟體，但遲遲沒有採取行動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/att_vmware_quit_claim_broadcom/</guid>
       <pubDate>Mon, 23 Sep 2024 05:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為將放棄 PC 作業系統 Windows，轉而使用自己的 HarmonyOS</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/asia_tech_news_in_brief/</link>
-      <description><![CDATA[加上：印度政府的事實查核部門裁定非法；福島資料中心繁榮； GoTo 也與騰訊合作 亞洲簡報 華為目前的 PC 是其最後一款運行 Windows 的 PC，未來的機器將運行自己的 HarmonyOS，據主席稱中國巨頭消費者業務集團的餘承東…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/asia_tech_news_in_brief/</guid>
-      <pubDate>Mon, 23 Sep 2024 01:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
