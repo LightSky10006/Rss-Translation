@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 22:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 22:38:49 GMT</lastBuildDate>
+    <item>
+      <title>Telegram 現在將向警方移交嫌疑人的 IP 位址和電話號碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/telegram_tcs_suspect_info/</link>
+      <description><![CDATA[也許在法國牢房裡的一段經歷改變了杜羅夫的想法 Telegram 首席執行官帕維爾·杜羅夫(Pavel Durov) 態度大轉變，宣布俄羅斯製造的消息平台將變得對犯罪分子來說不再那麼舒適。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/telegram_tcs_suspect_info/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:10:14 GMT</pubDate>
+    </item>
     <item>
       <title>「網路安全問題」導致速匯金離線三天——而且還在繼續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[北京對銷量和產能的激增以及能源需求的下降感到高興 中國伺服器製造商和合約製造商浪潮詳細介紹了一種內存冷卻技術，據稱該技術可將傳統風冷的散熱效率提高一倍，且不會使情況複雜化系統維護。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/inspur_sleeper_liquid_cooling_design/</guid>
       <pubDate>Mon, 23 Sep 2024 07:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>移過去，鈷擊。碎片是鎮上新的利用後威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/splinter_red_team_tool/</link>
-      <description><![CDATA[尚無惡意軟體人員與此最新的紅隊工具關聯 攻擊者正在使用Splinter（一種新的後利用工具），在初次滲透後利用以下功能對受害者的IT 環境造成嚴重破壞：執行 Windows 命令、竊取檔案、收集雲端服務帳戶資訊以及將其他惡意軟體下載到受害者的系統上。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/splinter_red_team_tool/</guid>
-      <pubDate>Mon, 23 Sep 2024 06:46:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
