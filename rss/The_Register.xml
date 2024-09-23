@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 12:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:57:58 GMT</lastBuildDate>
+    <item>
+      <title>iPhone 16 被譽為蘋果多年來最容易維修的機型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/iphone_16_teardown_ifixit/</link>
+      <description><![CDATA[當然，門檻較低，但方向正確 Apple 最新 iPhone 已經到貨，iFixit 的拆解人員立即拆解了 iPhone 16，並發現其可修復性...相當不錯。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/iphone_16_teardown_ifixit/</guid>
+      <pubDate>Mon, 23 Sep 2024 12:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>UPS 供應商的密碼政策從無限製到 32 個字符，然後是 64 個字符</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/cyberpower_password_changes/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[資料庫slinger 收緊條款後，Valkey 引發了人們對FOSS 替代方案的興趣 在資料庫公司放棄寬鬆的開源授權之後，大約70% 的Redis 用戶正在考慮替代方案。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</guid>
       <pubDate>Fri, 20 Sep 2024 16:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ivanti 修補程式利用了管理指令執行缺陷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</link>
-      <description><![CDATA[擔心連鎖攻擊會影響EOL 產品 美國網路安全與基礎設施安全局(CISA) 剛剛將最新的Ivanti 漏洞添加到其已知的可利用漏洞(KEV) 目錄中，這種情況肯定會惹惱一些–鑑於這是另一個路徑遍歷缺陷。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
