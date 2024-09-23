@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 08:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 08:43:22 GMT</lastBuildDate>
+    <item>
+      <title>AI 為企業 Windows 11 更新提供動力？沒人買那個</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/windows_11_ai_opinion/</link>
+      <description><![CDATA[微軟應該向蘋果學習「甩掉死馬」的教訓 觀點 在 2010 年代初期，英特爾的公關在科技媒體上發表了一個熱門故事。他們說，我們在晶片製造方面遙遙領先，沒有人能夠趕上。駭客從中得出了兩件事：英特爾的失勢速度快得令人害怕，而且它在這兩方面都是正確的。怎麼又成功了？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/windows_11_ai_opinion/</guid>
+      <pubDate>Mon, 23 Sep 2024 08:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>您聽過有關服務台小伙子濫用特權惡作劇他的伴侶的故事嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/who_we/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[絕對不會對洩漏內部資料的人進行懲罰 已更新 Microsoft Teams 的青睞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/disney_slack_microsoft_teams/</guid>
       <pubDate>Fri, 20 Sep 2024 11:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>當 HashiCorp 玩許可證輪盤賭時，Virter 推出拯救 FOSS VM 測試</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</link>
-      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 歐洲開源高峰會 如果您經常創建（然後刪除）虛擬機器來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 投入 FOSS 池所引發的漣漪所帶動的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
