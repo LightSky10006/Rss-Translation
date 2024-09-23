@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:34:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 22:12:24 GMT</lastBuildDate>
+    <item>
+      <title>「網路安全問題」導致速匯金離線三天——而且還在繼續</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/</link>
+      <description><![CDATA[仍然沒有「R」字樣，但聞起來像勒索軟體 自周五以來，「網路安全問題」已關閉MoneyGram 的系統和支付服務，而這家金融科技領導者尚未向客戶通報最新情況當它期望其全球匯款服務恢復並運行時。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:32:50 GMT</pubDate>
+    </item>
     <item>
       <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[尚無惡意軟體人員與此最新的紅隊工具關聯 攻擊者正在使用Splinter（一種新的後利用工具），在初次滲透後利用以下功能對受害者的IT 環境造成嚴重破壞：執行 Windows 命令、竊取檔案、收集雲端服務帳戶資訊以及將其他惡意軟體下載到受害者的系統上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/splinter_red_team_tool/</guid>
       <pubDate>Mon, 23 Sep 2024 06:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>博通在法律上聲稱 AT&T 打算退出 VMware</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/att_vmware_quit_claim_broadcom/</link>
-      <description><![CDATA[支持口角的反駁描繪了電信巨頭 IT 產業的不討人喜歡的畫面 Broadcom 聲稱 AT&amp;T 計劃停止使用 VMware 軟體，但遲遲沒有採取行動。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/att_vmware_quit_claim_broadcom/</guid>
-      <pubDate>Mon, 23 Sep 2024 05:03:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
