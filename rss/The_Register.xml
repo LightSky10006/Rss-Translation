@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 06:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 07:12:55 GMT</lastBuildDate>
+    <item>
+      <title>移過去，鈷擊。碎片是鎮上新的利用後威脅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/splinter_red_team_tool/</link>
+      <description><![CDATA[尚無惡意軟體人員與此最新的紅隊工具關聯 攻擊者正在使用Splinter（一種新的後利用工具），在初次滲透後利用以下功能對受害者的IT 環境造成嚴重破壞：執行 Windows 命令、竊取檔案、收集雲端服務帳戶資訊以及將其他惡意軟體下載到受害者的系統上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/splinter_red_team_tool/</guid>
+      <pubDate>Mon, 23 Sep 2024 06:46:15 GMT</pubDate>
+    </item>
     <item>
       <title>博通在法律上聲稱 AT&T 打算退出 VMware</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/att_vmware_quit_claim_broadcom/</link>
@@ -29,21 +36,21 @@
     <item>
       <title>英特爾正式進入復甦階段</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/22/intel_grin_bear_it/</link>
-      <description><![CDATA[基辛格向全世界推銷他的鑄造廠願景。離開並不容易 評價 週一，英特爾股價飆升，原因是有消息稱英特爾將把代工業務分拆為獨立子公司，並與AWS 和國防部簽約成為客戶.... ]]></description>
+      <description><![CDATA[基辛格向全世界推銷他的鑄造願景。離開並不容易 評價 週一，英特爾股價飆升，原因是有消息稱英特爾將把代工業務分拆為獨立子公司，並與AWS 和國防部簽約成為客戶.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/22/intel_grin_bear_it/</guid>
       <pubDate>Sun, 22 Sep 2024 10:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>玻璃之心：人類基因組在 5D 記憶晶體中「永恆」存儲</title>
+      <title>玻璃之心：人類基因組「永恆」儲存在 5D 記憶晶體中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</link>
       <description><![CDATA[以防萬一，比如說，十億年後出現一些外星人，並想克隆我們免遭滅絕 未來的某個實體是否會想要在人類最終滅絕後將其帶回來，現在是一個問題多虧了英國南安普敦大學的研究人員，即使是不可能的選擇，理論上也是可行的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</guid>
       <pubDate>Sat, 21 Sep 2024 13:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因為培根而響</title>
+      <title>NIST：新型煙霧警報器更能偵測火災，但仍會因培根而響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</link>
-      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
+      <description><![CDATA[就像幾乎所有其他人一樣，他們仍然喜歡油炸動脈堵塞物的味道 希望增強技術能夠阻止因最輕微的冒煙油味而發出警報的培根油炸者將不得不等待而更長...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/nist_new_smoke_alarms_are/</guid>
       <pubDate>Sat, 21 Sep 2024 10:35:08 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>當 HashiCorp 玩許可證輪盤賭時，Virter 推出拯救 FOSS VM 測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</link>
-      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 歐洲開源高峰會 如果您經常創建（然後刪除）虛擬機器來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 投入 FOSS 池所引發的漣漪所帶動的。]]></description>
+      <description><![CDATA[BSL 惡作劇繼續掀起波瀾 歐洲開源高峰會 如果您經常創建（然後刪除）虛擬機器來嘗試一些東西，Virter 是一個有用的小工具。可以說，它是由 HashiCorp 將 BSL 放入 FOSS 池塘所引發的連鎖反應所引發的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/virter_simpler_test_vms/</guid>
       <pubDate>Fri, 20 Sep 2024 10:15:07 GMT</pubDate>
     </item>
     <item>
       <title>網路騙子大搖大擺地展示 Harvey Nichols 高級時裝數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</link>
-      <description><![CDATA[這次外洩事件細節稀疏、宣傳不力，這與高階無關 英國高階百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分資料在最近的網路攻擊中遭到洩漏。]]></description>
+      <description><![CDATA[這次洩露事件細節稀疏、宣傳不力，與高端無關 英國高端百貨公司Harvey Nichols 正在寫信給客戶，以確認他們的部分數據在最近的網絡攻擊中遭到洩露。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/highstreet_swank_dealer_harvey_nichols/</guid>
       <pubDate>Fri, 20 Sep 2024 09:27:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Bloc 的USB-C 規則預計將中斷供應，禁止800 萬部進口手機到達歐洲港口 歐盟即將實施的《無線電設備指令》預計將導致800 萬部二手智慧型手機，即五分之二的手機被淘汰單位，不再可供供應，並且——至少在貿易集團中——實際上已經過時了。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/secondhand_smartphone_demand/</guid>
       <pubDate>Fri, 20 Sep 2024 08:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於他的其他才能，高手程式設計師不被允許會見客戶：極度不恰當的侮辱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</link>
-      <description><![CDATA[然後，他不再是編碼高手，麻煩就從那時開始 On Call 歡迎再次來到On Call，這是一個每週專欄，讀者可以在其中講述他們的故事技術支援的麻煩和勝利。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/on_call/</guid>
-      <pubDate>Fri, 20 Sep 2024 07:32:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
