@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 11:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:23:42 GMT</lastBuildDate>
+    <item>
+      <title>UPS 供應商的密碼政策從無限製到 32 個字符，然後是 64 個字符</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/cyberpower_password_changes/</link>
+      <description><![CDATA[那個「第三方」肯定要對很多 IT 錯誤負責，是嗎？ 。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/cyberpower_password_changes/</guid>
+      <pubDate>Mon, 23 Sep 2024 12:01:06 GMT</pubDate>
+    </item>
     <item>
       <title>現在請隨意忽略 GenAI——一種新型軟體開發人員正在誕生</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/hightower_interview_part_2/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[擔心連鎖攻擊會影響EOL 產品 美國網路安全與基礎設施安全局(CISA) 剛剛將最新的Ivanti 漏洞添加到其已知的可利用漏洞(KEV) 目錄中，這種情況肯定會惹惱一些–鑑於這是另一個路徑遍歷缺陷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/patch_up_ivanti_fixes_exploited/</guid>
       <pubDate>Fri, 20 Sep 2024 15:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟透過 Windows App 進行糟糕的品牌重塑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</link>
-      <description><![CDATA[如果您沒有猜到，那就是以前稱為“遠端桌面”的藝術家 微軟令人驚嘆的重命名能力在Windows應用程式中得到了很好的體現，Windows應用程式是從各種來源串流Windows的中心。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/microsoft_windows_app/</guid>
-      <pubDate>Fri, 20 Sep 2024 14:35:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
