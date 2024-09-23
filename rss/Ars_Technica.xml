@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 23 Sep 2024 20:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:11:26 GMT</lastBuildDate>
     <item>
-      <title>Cloudflare 讓網站一鍵阻止 AI 爬蟲</title>
+      <title>1,100 萬台裝置感染了 Google Play 中託管的殭屍網路惡意軟體</title>
+      <link>https://arstechnica.com/?p=2051854</link>
+      <description><![CDATA[Necro 在 2019 年滲透到 Google Play，最近又捲土重來。]]></description>
+      <guid>https://arstechnica.com/?p=2051854</guid>
+      <pubDate>Mon, 23 Sep 2024 20:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 透過一鍵阻止來結束免費、無休止的 AI 抓取</title>
       <link>https://arstechnica.com/?p=2051732</link>
       <description><![CDATA[Cloudflare 可能會為其人工智慧抓取資料市場收取類似應用程式商店的費用。]]></description>
       <guid>https://arstechnica.com/?p=2051732</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[NotebookLM 的「音訊摘要」展示了人工智慧產生的內容更個人化的未來。]]></description>
       <guid>https://arstechnica.com/?p=2051549</guid>
       <pubDate>Mon, 23 Sep 2024 15:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們的達菲庫存能預防禽流感大流行嗎？</title>
-      <link>https://arstechnica.com/?p=2051670</link>
-      <description><![CDATA[在 H5N1 流感爆發時，各國政府都寄望於這種老藥。]]></description>
-      <guid>https://arstechnica.com/?p=2051670</guid>
-      <pubDate>Mon, 23 Sep 2024 14:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
