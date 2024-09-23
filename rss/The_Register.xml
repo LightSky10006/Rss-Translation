@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 22 Sep 2024 18:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 00:58:11 GMT</lastBuildDate>
+    <item>
+      <title>蘋果最新的 macOS 版本破壞了安全軟體和網路連接</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/security_in_brief/</link>
+      <description><![CDATA[PLUS：據報導已確定 7,500 萬美元贖金的支付者身分； Craigslist 創辦人成為安全慈善家，等等 Infosec In Brief macOS Sequoia 出現問題，破壞了某些更新的Apple 系統上安裝的安全軟體。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/security_in_brief/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:50:38 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾正式進入復甦階段</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/22/intel_grin_bear_it/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>微軟現金幫助重燃三哩島原子工廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/three_mile_island_nuclear_plant_microsoft_ai/</link>
-      <description><![CDATA[請給我們一些裂變晶片 由於 20- Microsoft 與擁有已關閉設施的Constellation Energy 簽訂了一年的購電協議(PPA)。  ]]></description>
+      <description><![CDATA[請給我們一些裂變晶片 由於 20-微軟與擁有已關閉設施的Constellation Energy 簽訂了一年的購電協議(PPA)。  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/three_mile_island_nuclear_plant_microsoft_ai/</guid>
       <pubDate>Fri, 20 Sep 2024 19:46:36 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Gartner 的 DaaS 魔力像限表示，許可證變更和產品捆綁進展並不順利 Citrix 增加了透過其桌面即服務套件控制遠端 macOS 電腦的功能，但客戶據說該產品對許可做法的改變感到不舒服。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/gartner_daas_magic_quadrant/</guid>
       <pubDate>Fri, 20 Sep 2024 04:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里雲聲稱其模組化資料中心架構將建置時間縮短了 50%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</link>
-      <description><![CDATA[還揭示了利用率的提高、IaaS 的升級等- 所有這些都以人工智能應用程序的名義 阿里雲發布了模組化數據中心架構，聲稱將通過提高性能來幫助其滿足人工智慧基礎設施的需求以及新設施的建設時間。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/alibaba_cloud_modular_datacenter_architecture/</guid>
-      <pubDate>Fri, 20 Sep 2024 01:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
