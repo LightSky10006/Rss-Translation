@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Sep 2024 12:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 13:40:12 GMT</lastBuildDate>
+    <item>
+      <title>由於 Microsoft 棄用該功能，使用 Windows Server 更新服務的管理員感到憤怒</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_wsus_deprecation/</link>
+      <description><![CDATA[還有其他方法可以保持補丁，但這個方法會讓人感到痛苦 微軟給予和微軟拿走，使用Windows Server 更新服務(WSUS) 的管理員很快就會發現。 ...&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_wsus_deprecation/</guid>
+      <pubDate>Mon, 23 Sep 2024 13:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone 16 被譽為蘋果多年來最容易維修的機型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/iphone_16_teardown_ifixit/</link>
@@ -97,7 +104,7 @@
       <pubDate>Sun, 22 Sep 2024 10:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>玻璃之心：人類基因組「永恆」儲存在 5D 記憶晶體中</title>
+      <title>玻璃之心：人類基因組在 5D 記憶晶體中「永恆」存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</link>
       <description><![CDATA[以防萬一，比如說，十億年後出現一些外星人，並想克隆我們免遭滅絕 未來的某個實體是否會想要在人類最終滅絕後將其帶回來，現在是一個問題多虧了英國南安普敦大學的研究人員，即使是不可能的選擇，理論上也是可行的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/21/human_genome_5d_memory_crystal/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[僅一名受害者就被榨取了近25 億美元 兩人因從一名受害者身上盜竊價值超過2.3 億美元的加密貨幣而被戴上手銬，並面臨嚴重指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/us_indicts_two_over_socially/</guid>
       <pubDate>Fri, 20 Sep 2024 17:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多數 Redis 用戶在許可許可減少後考慮替代方案</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</link>
-      <description><![CDATA[資料庫slinger 收緊條款後，Valkey 引發了人們對FOSS 替代方案的興趣 在資料庫公司放棄寬鬆的開源授權之後，大約70% 的Redis 用戶正在考慮替代方案。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/20/redis_users_considering_alternatives/</guid>
-      <pubDate>Fri, 20 Sep 2024 16:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
