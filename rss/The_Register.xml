@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Sep 2024 19:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 20:14:09 GMT</lastBuildDate>
+    <item>
+      <title>誰在網路上最密切地關注你？谷歌，呃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/google_online_tracker/</link>
+      <description><![CDATA[四個巧克力工廠追蹤器在所有地區均躋身前25 名 根據卡巴斯基的年度網路追蹤報告，在監控人們在網路上的行為方面，Google 再次成為「無可爭議的領導者」 .... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/google_online_tracker/</guid>
+      <pubDate>Tue, 24 Sep 2024 19:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯對烏克蘭的數位戰沒有放緩的跡象：惡意軟體數量激增</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/russia_malware_ukraine_attacks/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美國古老的空中交通管制系統在 2030 年之前不會進行技術更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/us_air_traffic_control_system_upgrade/</link>
-      <description><![CDATA[政府審計員表示，如果它們不先墜毀 美國聯邦航空管理局 (FAA) 的空中交通管制 (ATC) 系統已經嚴重過時，但不要指望很快就會更換，美國政府問責辦公室(GAO) 表示…]]></description>
+      <description><![CDATA[政府審計人員表示，如果它們不先墜毀 美國聯邦航空管理局(FAA) 的空中交通管制(ATC) 系統已經嚴重過時，但不要指望很快就會有替代品，美國政府問責辦公室 (GAO) 表示…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/us_air_traffic_control_system_upgrade/</guid>
       <pubDate>Tue, 24 Sep 2024 17:15:36 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>Elon 最新的 X 實驗：被封鎖的用戶仍然可以追蹤你的公開推文</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/x_block_changes/</link>
-      <description><![CDATA[馬斯克表示，「這件事發生的太早了」 埃隆馬斯克已確認對X 進行更改，允許被阻止的用戶查看公共帖子。 p&gt;]]></description>
+      <description><![CDATA[馬斯克表示，「這件事發生的時間到了」 埃隆馬斯克已確認對X 進行更改，允許被阻止的用戶查看公共帖子。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/x_block_changes/</guid>
       <pubDate>Tue, 24 Sep 2024 14:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>熱情擁抱 CHIPS 法案現金包 Polar 半導體</title>
+      <title>Polar Semiconductor 熱烈擁抱 CHIPS 法案現金包裹</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/warm_embrace_of_chips_act/</link>
       <description><![CDATA[Minnow 是政府資助的鯨魚之一，產能翻了一番 總部位於美國的Polar Semiconductor（模擬和功率晶片設備和感測器製造商）已獲得1.23 億美元的CHIPS 和科學法案資助，產能幾乎翻了一番美國的生產能力......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/warm_embrace_of_chips_act/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>科學家證明X射線是一種將小行星趕出地球軌道的方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/asteroid_zapping_x_ray_pulse/</link>
-      <description><![CDATA[基於實驗室的概念驗證展示了輻射如何產生爆炸性羽流來偏轉威脅性的太空岩石 美國科學家已經證明，使用X 射線可以使注定前往地球的潛在危險小行星偏離其軌道...]]></description>
+      <description><![CDATA[基於實驗室的概念驗證顯示了輻射如何產生爆炸性羽流來偏轉威脅性的太空岩石 美國科學家已經證明，可以使用X 射線使注定前往地球的潛在危險小行星偏離其軌道...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/asteroid_zapping_x_ray_pulse/</guid>
       <pubDate>Tue, 24 Sep 2024 08:33:14 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>Xen 到 RISC-V 的移植取得了基礎性的進展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</link>
-      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載競爭者的工作仍在開發人員的待辦事項清單中。]]></description>
+      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載的競爭者的工作仍在開發人員的待辦事項列表中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</guid>
       <pubDate>Tue, 24 Sep 2024 05:34:08 GMT</pubDate>
     </item>
     <item>
       <title>越南找到了一個公式 - <em>C = SET</em> + 1 - 將其半導體產業發展到 1000 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/vietnam_semiconductor_math/</link>
-      <description><![CDATA[到2050 年，它的規模加起來就相當於今天的Nvidia 越南政府聲稱找到了一個神奇的數學公式，到2050 年，該公式將使其半導體行業的年營業金額提升至1000 億美元...]]></description>
+      <description><![CDATA[到2050 年，它的規模加起來就相當於今天的Nvidia 越南政府聲稱找到了一個神奇的數學公式，到2050 年，該公式將使其半導體行業的年營業金額提升到1000 億美元...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/vietnam_semiconductor_math/</guid>
       <pubDate>Tue, 24 Sep 2024 04:39:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[仍然沒有「R」字樣，但聞起來像勒索軟體 自周五以來，「網路安全問題」已關閉MoneyGram 的系統和支付服務，而這家金融科技領導者尚未向客戶通報最新情況當它期望其全球匯款服務恢復並運行時。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/</guid>
       <pubDate>Mon, 23 Sep 2024 21:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
-      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</guid>
-      <pubDate>Mon, 23 Sep 2024 21:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
