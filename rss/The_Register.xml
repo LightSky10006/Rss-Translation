@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Sep 2024 00:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 02:17:14 GMT</lastBuildDate>
+    <item>
+      <title>一些美國卡巴斯基客戶發現他們的安全軟體被「UltraAV」取代</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</link>
+      <description><![CDATA[更換被禁安全應用程式的背景故事並不能讓人非常放心 卡巴斯基防毒產品的一些美國用戶發現他們的軟體被一個名為「UltraAV」的低調實體的產品所取代– 他們沒有要求的改變，這為他們提供了未經測試且很大程度上未知的軟體，其來源記錄有限。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/</guid>
+      <pubDate>Tue, 24 Sep 2024 01:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>Telegram 現在將向警方移交嫌疑人的 IP 位址和電話號碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/telegram_tcs_suspect_info/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
-      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式 ... ]]></description>
+      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</guid>
       <pubDate>Mon, 23 Sep 2024 21:30:10 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 23 Sep 2024 18:25:25 GMT</pubDate>
     </item>
     <item>
-      <title>據報道台積電和三星正在關注阿聯酋的矽田擴建工廠</title>
+      <title>據報道，台積電和三星正在關注阿聯酋的矽田擴建工廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</link>
       <description><![CDATA[不缺沙子，但切片工廠渴望更珍貴的東西：水 儘管發現自己處於美國與中國的貿易戰的中心，但阿拉伯聯合大公國（阿聯酋） ）正在迅速將自己打造成人工智慧開發的溫床，其願景可能很快就會擴展到半導體製造領域。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>那麼微軟的「安全未來計畫」進展如何？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_secure_future_initiative/</link>
-      <description><![CDATA[34,000 名工程師承諾投入這項事業，但沒有透露高管薪酬 微軟今天取得了勝利，吹捧自安全未來計劃 (SFI) 以來，它投入了 34,000 名全職工程師大約一年前推出，並公開了第一份關於提高產品和服務安全性的努力的進度報告。]]></description>
+      <description><![CDATA[34,000 名工程師承諾投入這項事業，但沒有透露高管薪酬 微軟今天取得了勝利，吹捧自安全未來計劃 (SFI) 以來，它投入了 34,000 名全職工程師大約一年前推出，並公開了第一份關於提高其產品和服務安全性的努力的進度報告。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_secure_future_initiative/</guid>
       <pubDate>Mon, 23 Sep 2024 15:00:14 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>AI 為企業 Windows 11 更新提供動力？沒人買那個</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/windows_11_ai_opinion/</link>
-      <description><![CDATA[微軟應該向蘋果學習「甩掉死馬」的教訓 觀點 在 2010 年代初期，英特爾的公關在科技媒體上發表了一個熱門故事。他們說，我們在晶片製造方面遙遙領先，沒有人能夠趕上。駭客從中得出了兩件事：英特爾的失勢速度快得令人害怕，而且它在這兩方面都是正確的。怎麼又成功了？]]></description>
+      <description><![CDATA[微軟應該向蘋果學習「甩掉死馬」的教訓 觀點 在 2010 年代初，英特爾的公關部門在科技媒體上發表了一個熱門故事。他們說，我們在晶片製造方面遙遙領先，沒有人能夠趕上。駭客們從中得出了兩件事：英特爾的失利速度快得令人害怕，而且它在這兩方面都是正確的。怎麼又成功了？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/windows_11_ai_opinion/</guid>
       <pubDate>Mon, 23 Sep 2024 08:30:15 GMT</pubDate>
     </item>
     <item>
       <title>您聽過有關服務台小伙子濫用特權惡作劇他的伴侶的故事嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/who_we/</link>
-      <description><![CDATA[由於 Microsoft 的故障，結果可不是開玩笑 誰，我？  親愛的讀者，歡迎閱讀《誰，我？其中Reg讀者分享了技術人員的不幸故事，以提醒您，您的日子實際上可能會更糟。]]></description>
+      <description><![CDATA[由於 Microsoft 的故障，結果可不是開玩笑 誰，我？  親愛的讀者，歡迎閱讀《誰，我？其中 Reg 讀者分享了技術人員的悲慘故事，以提醒您，您的日子實際上可能會更糟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/who_we/</guid>
       <pubDate>Mon, 23 Sep 2024 07:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國伺服器製造商浪潮聲稱將透過「鐵路臥舖」設計實現更好的液體冷卻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/inspur_sleeper_liquid_cooling_design/</link>
-      <description><![CDATA[北京對銷量和產能的激增以及能源需求的下降感到高興 中國伺服器製造商和合約製造商浪潮詳細介紹了一種內存冷卻技術，據稱該技術可將傳統風冷的散熱效率提高一倍，且不會使情況複雜化系統維護。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/inspur_sleeper_liquid_cooling_design/</guid>
-      <pubDate>Mon, 23 Sep 2024 07:17:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
