@@ -4,23 +4,30 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Sep 2024 17:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 17:38:40 GMT</lastBuildDate>
     <item>
-      <title>Snowflake尋求透過發行20億美元債券籌集資金</title>
+      <title>美國古老的空中交通管制系統在 2030 年之前不會進行技術更新</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/us_air_traffic_control_system_upgrade/</link>
+      <description><![CDATA[政府審計員表示，如果它們不先墜毀 美國聯邦航空管理局 (FAA) 的空中交通管制 (ATC) 系統已經嚴重過時，但不要指望很快就會更換，美國政府問責辦公室(GAO) 表示…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/us_air_traffic_control_system_upgrade/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snowflake 尋求透過發行 20 億美元債券籌集資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/snowflake_seeks_to_raise_funds/</link>
       <description><![CDATA[這些措施在艱難的一年中受到投資者的歡迎 基於雲端的資料倉儲和分析公司 Snowflake 發行了 20 億美元的債券，旨在回購股票並可能啟動收購策略...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/snowflake_seeks_to_raise_funds/</guid>
       <pubDate>Tue, 24 Sep 2024 16:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>10 個嚴重的軟體錯誤使數千個燃料儲存槽面臨網路攻擊的風險</title>
+      <title>10 個令人討厭的軟體錯誤使數千個燃料儲存罐面臨網路攻擊的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</link>
-      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油箱計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
+      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油罐計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐子仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</guid>
       <pubDate>Tue, 24 Sep 2024 15:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>憑藉 Granite Rapids，英特爾重新與 AMD 展開對峙</title>
+      <title>憑藉 Granite Rapids，英特爾再次與 AMD 展開對峙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</link>
       <description><![CDATA[他們甚至不需要一堆微不足道的 E 核心來做到這一點 在過去的幾年裡，我們已經習慣了一代又一代地表現不佳的 Xeon 處理器核心數量、時脈速度、記憶體頻寬或PCIe 連線的某些組合的競爭。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>Xen 到 RISC-V 的移植取得了基礎性的進展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</link>
-      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載的競爭者的工作仍在開發人員的待辦事項列表中。]]></description>
+      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載競爭者的工作仍在開發人員的待辦事項清單中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</guid>
       <pubDate>Tue, 24 Sep 2024 05:34:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
-      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式 ... ]]></description>
+      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</guid>
       <pubDate>Mon, 23 Sep 2024 21:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[國際工會聯盟表示，剝削工人、破壞公共服務、加劇氣候危機 亞馬遜、Meta 和特斯拉贏得了相當可疑的榮譽，被世界上最大的企業評為最嚴重的民主破壞者之一工會聯合會。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/amazon_tesla_meta_democracy/</guid>
       <pubDate>Mon, 23 Sep 2024 20:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow 根憑證錯誤讓使用者陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/servicenow_root_certificate_outage/</link>
-      <description><![CDATA[更像是ServiceNo，或者可能是ServiceNotforawhile 企業雲供應商ServiceNow 的一些客戶在周一早上根認證錯誤導致許多人陷入困境後，已經勃然大怒。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/servicenow_root_certificate_outage/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
