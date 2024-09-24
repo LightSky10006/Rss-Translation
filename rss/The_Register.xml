@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:37:59 GMT</lastBuildDate>
+    <item>
+      <title>10 個令人討厭的錯誤使數千個燃料儲存槽面臨攻擊風險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/critical_bugs_fuel_storage_tanks/</link>
+      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於自動油箱計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐仍然容易受到零日攻擊。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/critical_bugs_fuel_storage_tanks/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>憑藉 Granite Rapids，英特爾重新與 AMD 展開對峙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們的街道上沒有容留間諜手機的空間 美國商務部已決定不再等待不可避免的事情發生，今天宣布了禁止中國聯網汽車技術以及使用該技術的車輛的計劃和俄羅斯來源。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/us_ban_china_russia_car_tech/</guid>
       <pubDate>Mon, 23 Sep 2024 18:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道台積電和三星正在關注阿聯酋的矽田擴建工廠</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</link>
-      <description><![CDATA[不缺沙子，但切片工廠渴望更珍貴的東西：水 儘管發現自己處於美國與中國的貿易戰的中心，但阿拉伯聯合大公國（阿聯酋） ）正在迅速將自己打造成人工智慧開發的溫床，其願景可能很快就會擴展到半導體製造領域。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
