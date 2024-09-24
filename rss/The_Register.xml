@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Sep 2024 11:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 12:24:15 GMT</lastBuildDate>
+    <item>
+      <title>如何在朝鮮特工在工資單中感到滿意之前發現他們</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/mandiant_north_korea_workers/</link>
+      <description><![CDATA[Mandiant 發布備忘單，以清除欺詐性IT 員工 在朝鮮特工尋求（主要）美國IT 職位的風險不斷增加的背景下，各組織現在有了備忘單來幫助發現潛在的特務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/mandiant_north_korea_workers/</guid>
+      <pubDate>Tue, 24 Sep 2024 12:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>Capita 贏得了 1.35 億英鎊的延期，幫助英國推遲了智慧電錶的推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/capita_wins_135_million_extension_smart_meters/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>首次公開募股後的樹莓派結果：這樣你就可以在不添加人工智慧的情況下透過科技賺錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/raspberry_pi_reports_strong_numbers/</link>
-      <description><![CDATA[隨著供應鏈的緩解，小型電腦可能會受益 Raspberry Pi 報告 2024 年上半年收入和利潤大幅增長，儘管銷量略低於預期，但該公司股價仍在飆升. ..]]></description>
+      <description><![CDATA[隨著供應鏈的緩解，小型計算機可能會受益 Raspberry Pi 報告 2024 年上半年收入和利潤大幅增長，儘管銷量略低於預期，但該公司股價仍在飆升. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/raspberry_pi_reports_strong_numbers/</guid>
       <pubDate>Tue, 24 Sep 2024 10:31:50 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>Xen 到 RISC-V 的移植取得了基礎性的進展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</link>
-      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載競爭者的工作仍在開發人員的待辦事項清單中。]]></description>
+      <description><![CDATA[但是使該組合成為競爭者所需的大項目的工作尚未開始 將Xen 虛擬機管理程序引入RISC-V 指令集架構的努力已經取得了進展- 一點- 但很大將使這兩個項目成為更多工作負載的競爭者的工作仍在開發人員的待辦事項列表中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/xen_risc_v_port_progress/</guid>
       <pubDate>Tue, 24 Sep 2024 05:34:08 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Necro 惡意軟體繼續困擾著狡猾的 Android 模組的側載程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</link>
-      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式。 ]]></description>
+      <description><![CDATA[卡巴斯基稱，1100 萬台設備暴露於木馬 Necro 木馬再次針對Android 用戶採取行動，據信有多達1100 萬人暴露於受感染的應用程式 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/necro_malware_android/</guid>
       <pubDate>Mon, 23 Sep 2024 21:30:10 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 23 Sep 2024 18:25:25 GMT</pubDate>
     </item>
     <item>
-      <title>據報道，台積電和三星正在關注阿聯酋的矽田擴建工廠</title>
+      <title>據報道台積電和三星正在關注阿聯酋的矽田擴建工廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</link>
       <description><![CDATA[不缺沙子，但切片工廠渴望更珍貴的東西：水 儘管發現自己處於美國與中國的貿易戰的中心，但阿拉伯聯合大公國（阿聯酋） ）正在迅速將自己打造成人工智慧開發的溫床，其願景可能很快就會擴展到半導體製造領域。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/tsmc_samsung_uae_fab/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[就像機器人計程車、真正的全自動駕駛等，在短短幾年內 我們很遺憾地通知您，馬斯克一直在使用他的社交媒體口X，製作一些令人印象深刻的古怪內容再次聲稱。這次，這位億萬富翁表示，SpaceX 計劃「在兩年內」向火星發射一批無人駕駛星際飛船。 _whitepaper_textlinks_top.html&#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/musk_expects_to_launch_five/</guid>
       <pubDate>Mon, 23 Sep 2024 14:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於 Microsoft 棄用該功能，使用 Windows Server 更新服務的管理員感到憤怒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_wsus_deprecation/</link>
-      <description><![CDATA[還有其他方法可以保持補丁，但這個方法會讓人感到痛苦 微軟給予和微軟拿走，使用Windows Server 更新服務(WSUS) 的管理員很快就會發現。 ...&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/23/microsoft_wsus_deprecation/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
