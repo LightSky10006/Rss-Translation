@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 17:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 17:37:19 GMT</lastBuildDate>
     <item>
-      <title>Google的 Rust 消除了 Android 中的錯誤，有助於消除大量不安全程式碼</title>
+      <title>RansomHub 天才試圖擠壓特拉華州圖書館</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/delaware_libraries_ransomware_attack/</link>
+      <description><![CDATA[向資金不足的公共服務勒索100 萬美元可不太好看 儘管目前處於勒索軟體樹的頂端，但RansomHub（特別是其附屬機構之一）顯然並不像勒索軟體那樣聰明。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/delaware_libraries_ransomware_attack/</guid>
+      <pubDate>Wed, 25 Sep 2024 17:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google的 Rust 消除了 Android 中的錯誤，有助於大幅消除不安全程式碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</link>
-      <description><![CDATA[記憶體安全缺陷曾佔「機器人安全漏洞」的 76%。現在它們佔 24% Google 在過去六年中優先考慮記憶體安全軟體開發，大大減少了 Android 作業系統中記憶體安全漏洞的數量。]]></description>
+      <description><![CDATA[記憶體安全缺陷曾佔「機器人安全漏洞」的 76%。現在它們佔24% Google 表示，在過去六年中，其優先考慮記憶體安全軟體開發的努力已大大減少了Android 作業系統中記憶體安全漏洞的數量。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</guid>
       <pubDate>Wed, 25 Sep 2024 17:00:11 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 25 Sep 2024 16:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>歐空局斥資 1700 萬歐元建造太空船，只是為了看著它起火</title>
+      <title>歐空局斥資 1700 萬歐元購買太空船，只是為了看著它起火</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</link>
       <description><![CDATA[DRACO 將在重返大氣層的大火中消亡 歐洲航天局 (ESA) 已授予西班牙公司 Deimos Space 一份航天器合同，其唯一目的是在大氣層中燃燒地球大氣層，以便工程師可以看到發生了什麼事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</guid>
@@ -36,14 +43,14 @@
     <item>
       <title>活動人士聲稱 Firefox 中的「隱私保護歸因」恰恰相反</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/mozilla_noyb_privacy_complaint/</link>
-      <description><![CDATA[追蹤替代方法比其他方法侵入性較小，但預設會選擇退出 隱私權活動組織 noyb 已就 Firefox 中悄悄啟用的「隱私保護歸因」功能向 Mozilla 提出投訴七月更新後的瀏覽器。]]></description>
+      <description><![CDATA[追蹤替代方法比其他方法侵入性更小，但預設會選擇退出 隱私活動組織 noyb 已就 Firefox 中悄悄啟用的「隱私保護歸因」功能向 Mozilla 提出投訴七月更新後的瀏覽器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/mozilla_noyb_privacy_complaint/</guid>
       <pubDate>Wed, 25 Sep 2024 13:46:11 GMT</pubDate>
     </item>
     <item>
       <title>Apple 拿出 4 GB iPhone 儲存空間來容納 AI 模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/apple_4gb_ai/</link>
-      <description><![CDATA[隨著時間的推移，剝離預計也會變得更大 Apple 的裝置上AI 模型（稱為Apple Intelligence）將需要4 GB 的裝置儲存空間，稍後還會需要更多。目前，這大約是一部高清電影的大小。]]></description>
+      <description><![CDATA[隨著時間的推移，剝離預計也會變得更大 Apple 的裝置上AI 模型（稱為Apple Intelligence）將需要4 GB 的裝置儲存空間，以後還會需要更多。目前，這大約是一部高清電影的大小。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/apple_4gb_ai/</guid>
       <pubDate>Wed, 25 Sep 2024 13:00:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[台灣對此一笑置之，北京也一笑置之，北京稱政治誹謗襲擊了沒人閱讀的網站 台灣駁回了中國關於其軍方支持最近一波反北京網絡攻擊的指控。 ..&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/china_anonymous_64_taiwan_accusations/</guid>
       <pubDate>Wed, 25 Sep 2024 01:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 就導致全球 IT 中斷的「完美風暴」向國會道歉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/crowdstrike_to_congress_perfect_storm/</link>
-      <description><![CDATA[認為如果失去核心存取權限，可能會發生更糟糕的情況 CrowdStrike 對其錯誤的軟體更新導致數百萬台Windows 電腦崩潰、導致「問題完美風暴」「深感抱歉「數千架飛機、旅客滯留在機場、手術取消、緊急服務專線中斷等諸多不便......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/crowdstrike_to_congress_perfect_storm/</guid>
-      <pubDate>Wed, 25 Sep 2024 01:23:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
