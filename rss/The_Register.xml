@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 11:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:23:40 GMT</lastBuildDate>
+    <item>
+      <title>谷歌首次向歐盟委員會投訴微軟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_ms_ec_complaint/</link>
+      <description><![CDATA[Mountain View 與 Redmond：雲端軟體授權政策之爭正式生效 Google Cloud Platform 已向歐盟委員會提出投訴，指控 Microsoft 軟體授權政策具有反競爭性，包括聲稱客戶被收取費用在非Azure 雲端中運行Windows Server 的速度是原來的四倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_ms_ec_complaint/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年資訊外洩的北愛爾蘭警察可能會獲得 2.4 億英鎊以上的損失</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/psni_officers_affected_by_2023/</link>
+      <description><![CDATA[當共和黨持不同政見者掌握警察的姓名和詳細資料時，他們將面臨危險 2023 年錯誤發布一份包含北方警察局成員數據的文件後，受害者尚未獲得任何賠償愛爾蘭 (PSNI)，但有報導稱，此案造成的損失可能高達 2.4 億英鎊（3.209 億美元）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/psni_officers_affected_by_2023/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:44:11 GMT</pubDate>
+    </item>
     <item>
       <title>超大規模企業正在將海底開闢為私人網路高速公路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/aspi_hyperscaler_cables/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>到 2026 年，人工智慧 PC 將主導出貨量，但不是因為需求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</link>
-      <description><![CDATA[分析師表示，隨著晶片製造商爭奪現金，購買沒有技術的電腦變得更加困難 技術市場銷售數據統計機構和諮詢公司Gartner 表示，預計到2025 年，人工智慧PC 將佔PC 的43%，到 2026 年，人工智慧設備實際上可能是大企業可以選擇的唯一筆記型電腦。]]></description>
+      <description><![CDATA[分析師表示，隨著晶片製造商爭奪現金，購買沒有科技的電腦變得更加困難 科技市場銷售資料統計機構和顧問公司Gartner 表示，預計到2025 年，人工智慧PC 將佔PC 的43%，到 2026 年，人工智慧設備實際上可能是大企業可以選擇的唯一筆記型電腦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</guid>
       <pubDate>Wed, 25 Sep 2024 08:30:09 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
     <item>
       <title>FBI 突襲美國政府 IT 巨頭 Carahsoft 總部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</link>
-      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突襲搜查。]]></description>
+      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突擊搜查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</guid>
       <pubDate>Tue, 24 Sep 2024 21:50:33 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[這些措施在艱難的一年中受到投資者的歡迎 基於雲端的資料倉儲和分析公司 Snowflake 發行了 20 億美元的債券，旨在回購股票並可能啟動收購策略...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/snowflake_seeks_to_raise_funds/</guid>
       <pubDate>Tue, 24 Sep 2024 16:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 個令人討厭的軟體錯誤使數千個燃料儲存罐面臨網路攻擊的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</link>
-      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油罐計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐子仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>憑藉 Granite Rapids，英特爾再次與 AMD 展開對峙</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</link>
-      <description><![CDATA[他們甚至不需要一堆微不足道的 E 核心來做到這一點 在過去的幾年裡，我們已經習慣了一代又一代地表現不佳的 Xeon 處理器核心數量、時脈速度、記憶體頻寬或PCIe 連線的某些組合的競爭。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
