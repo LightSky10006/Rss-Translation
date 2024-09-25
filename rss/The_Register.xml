@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 03:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 04:40:36 GMT</lastBuildDate>
+    <item>
+      <title>三星及其夥伴現代、起亞，軟體定義汽車、物聯網整合團隊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/samsung_kia_hyundai_iot_alliance/</link>
+      <description><![CDATA[打開家用空調，也許還可以查看冰箱或烤箱的內部- 一切都在方向盤後面 三星與韓國巨頭起亞和現代已經建立了一個物聯網聯盟，該聯盟將讓汽車驅動家用電器，智慧型手機控制車內的一些操作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/samsung_kia_hyundai_iot_alliance/</guid>
+      <pubDate>Wed, 25 Sep 2024 04:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧聊天機器人獲得綠燈，可以幻化您的投資組合</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ai_stock_picker/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[基於實驗室的概念驗證展示了輻射如何產生爆炸性羽流來偏轉威脅性的太空岩石 美國科學家已經證明，使用X 射線可以使注定前往地球的潛在危險小行星偏離其軌道...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/asteroid_zapping_x_ray_pulse/</guid>
       <pubDate>Tue, 24 Sep 2024 08:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 加強對吞噬網站的 AI 機器人的監管</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/cloudflare_ai_audit/</link>
-      <description><![CDATA[當robots.txt 無法解決問題時 Cloudflare 週一擴大了對人工智慧網路抓取工具黑暗藝術的防禦，為客戶提供了對不受歡迎的內容的更多可見性和控制力內容突襲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/cloudflare_ai_audit/</guid>
-      <pubDate>Tue, 24 Sep 2024 07:25:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
