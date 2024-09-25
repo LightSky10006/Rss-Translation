@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 13:26:51 GMT</lastBuildDate>
+    <item>
+      <title>最強大的開源人工智慧模型可以增強人工智慧代理</title>
+      <link>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</link>
+      <description><![CDATA[緊湊且完全開源的視覺人工智慧模型將使人工智慧更容易控制你的電腦——希望是以一種好的方式。]]></description>
+      <guid>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</guid>
+      <pubDate>Wed, 25 Sep 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微星 Stealth 18 AI Studio A1V 評測：無需 AI</title>
       <link>https://www.wired.com/review/msi-stealth-18-ai-studio-a1v/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>自從 Elon Musk 接管以來 X 的第一份透明度報告終於發布</title>
       <link>https://www.wired.com/story/x-twitter-first-transparency-report-since-elon-musks-takeover-is-finally-here/</link>
-      <description><![CDATA[報導稱，2024 年上半年，X 收到近 6,700 萬份仇恨行為舉報，並對 2,000 多個帳戶採取了行動。]]></description>
+      <description><![CDATA[報告稱，2024 年上半年，X 收到近 6,700 萬份仇恨行為舉報，並對 2,000 多個帳戶採取了行動。]]></description>
       <guid>https://www.wired.com/story/x-twitter-first-transparency-report-since-elon-musks-takeover-is-finally-here/</guid>
       <pubDate>Wed, 25 Sep 2024 11:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國政府表示，RT 等媒體與俄羅斯情報部門密切合作，平台已刪除或禁止其內容。但他們在世界各地仍然具有影響力。]]></description>
       <guid>https://www.wired.com/story/russia-backed-media-outlets-are-under-fire-in-the-us-but-still-trusted-worldwide/</guid>
       <pubDate>Tue, 24 Sep 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我嘗試過這些聲稱可以提高注意力的大腦追蹤耳機</title>
-      <link>https://www.wired.com/story/this-brain-tracking-device-wants-to-help-you-work-smarter/</link>
-      <description><![CDATA[Neurable 的 MW75 Neuro 是一款日常腦機接口，旨在提高您的工作效率。它也引發了有關資料隱私的問題。]]></description>
-      <guid>https://www.wired.com/story/this-brain-tracking-device-wants-to-help-you-work-smarter/</guid>
-      <pubDate>Tue, 24 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
