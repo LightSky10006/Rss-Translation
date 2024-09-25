@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 07:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 08:43:17 GMT</lastBuildDate>
+    <item>
+      <title>到 2026 年，人工智慧 PC 將主導出貨量，但不是因為需求</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</link>
+      <description><![CDATA[分析師表示，隨著晶片製造商爭奪現金，購買沒有科技的電腦變得更加困難 科技市場銷售資料統計機構和顧問公司Gartner 表示，預計到2025 年，人工智慧PC 將佔PC 的43%，到 2026 年，人工智慧設備實際上可能是大企業可以選擇的唯一筆記型電腦。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>NASA、IBM 剛剛開源了人工智慧氣候模型，以便您可以微調自己的氣候模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/nasa_ibm_ai_weather/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>FBI 突襲美國政府 IT 巨頭 Carahsoft 總部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</link>
-      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突襲搜查。]]></description>
+      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突擊搜查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</guid>
       <pubDate>Tue, 24 Sep 2024 21:50:33 GMT</pubDate>
     </item>
@@ -104,14 +111,14 @@
       <pubDate>Tue, 24 Sep 2024 16:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>10 個令人討厭的軟體錯誤使數千個燃料儲存罐面臨網路攻擊的風險</title>
+      <title>10 個嚴重的軟體錯誤使數千個燃料儲存槽面臨網路攻擊的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</link>
-      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油罐計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐子仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
+      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油箱計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</guid>
       <pubDate>Tue, 24 Sep 2024 15:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>憑藉 Granite Rapids，英特爾再次與 AMD 展開對峙</title>
+      <title>憑藉 Granite Rapids，英特爾重新與 AMD 展開對峙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</link>
       <description><![CDATA[他們甚至不需要一堆微不足道的 E 核心來做到這一點 在過去的幾年裡，我們已經習慣了一代又一代地表現不佳的 Xeon 處理器核心數量、時脈速度、記憶體頻寬或PCIe 連線的某些組合的競爭。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們的消息人士如是說，他們警告裁員，外包風險會剝奪企業經驗豐富的技術人才 IBM 用人工智慧取代數千個職位的計劃目前看起來更像是將工作外包給印度，其代價是犧牲組織能力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/ibm_layoffs_ai_talent/</guid>
       <pubDate>Tue, 24 Sep 2024 13:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在朝鮮特工在工資單中感到滿意之前發現他們</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/mandiant_north_korea_workers/</link>
-      <description><![CDATA[Mandiant 發布備忘單，以清除欺詐性IT 員工 在朝鮮特工尋求（主要）美國IT 職位的風險不斷增加的背景下，各組織現在有了備忘單來幫助發現潛在的特務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/mandiant_north_korea_workers/</guid>
-      <pubDate>Tue, 24 Sep 2024 12:01:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
