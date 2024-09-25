@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 05:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:44:24 GMT</lastBuildDate>
+    <item>
+      <title>據報道VMware受到日本反壟斷機構調查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/japan_vmware_broadcom_monopoly_investigation/</link>
+      <description><![CDATA[博通的捆綁軟體可能會激怒富士通，因此受到審查 據報道，日本公平貿易委員會（國家反壟斷機構）已開始對VMware 的軟體許可做法進行調查。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/japan_vmware_broadcom_monopoly_investigation/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:40:34 GMT</pubDate>
+    </item>
     <item>
       <title>印度資助月球著陸器、太空站模組和金星軌道飛行器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/india_moon_venus_space_station_plan/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>FBI 突襲美國政府 IT 巨頭 Carahsoft 總部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</link>
-      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突擊搜查。]]></description>
+      <description><![CDATA[我們被告知一切照舊 總部位於弗吉尼亞州的公共部門 IT 服務巨頭 Carahsoft 週二遭到美國政府特工的突襲搜查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/fbi_raids_carahsoft_headquarters/</guid>
       <pubDate>Tue, 24 Sep 2024 21:50:33 GMT</pubDate>
     </item>
@@ -90,14 +97,14 @@
       <pubDate>Tue, 24 Sep 2024 16:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>10 個嚴重的軟體錯誤使數千個燃料儲存槽面臨網路攻擊的風險</title>
+      <title>10 個令人討厭的軟體錯誤使數千個燃料儲存罐面臨網路攻擊的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</link>
-      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油箱計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
+      <description><![CDATA[數以千計的設備仍然容易受到攻擊，美國最容易受到威脅 由於多個供應商的自動油罐計量系統存在缺陷，關鍵基礎設施中的數萬個燃料儲罐子仍然容易受到零日攻擊，資訊安全研究人員說。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/security_bugs_fuel_storage_tanks/</guid>
       <pubDate>Tue, 24 Sep 2024 15:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>憑藉 Granite Rapids，英特爾重新與 AMD 展開對峙</title>
+      <title>憑藉 Granite Rapids，英特爾再次與 AMD 展開對峙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</link>
       <description><![CDATA[他們甚至不需要一堆微不足道的 E 核心來做到這一點 在過去的幾年裡，我們已經習慣了一代又一代地表現不佳的 Xeon 處理器核心數量、時脈速度、記憶體頻寬或PCIe 連線的某些組合的競爭。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/intel_xeon_6p/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[外包公司建設網絡已有十多年了 - 進展如何？  英國外包的典型代表 Capita 已獲得將其許可證延長兩年以管理交付的服務英國的智能電錶安全通信平台是一個經常出現延遲的系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/capita_wins_135_million_extension_smart_meters/</guid>
       <pubDate>Tue, 24 Sep 2024 11:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次公開募股後的樹莓派結果：這樣你就可以在不添加人工智慧的情況下透過科技賺錢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/raspberry_pi_reports_strong_numbers/</link>
-      <description><![CDATA[隨著供應鏈的緩解，小型計算機可能會受益 Raspberry Pi 報告 2024 年上半年收入和利潤大幅增長，儘管銷量略低於預期，但該公司股價仍在飆升. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/raspberry_pi_reports_strong_numbers/</guid>
-      <pubDate>Tue, 24 Sep 2024 10:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
