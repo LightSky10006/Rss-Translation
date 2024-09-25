@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 16:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 17:11:33 GMT</lastBuildDate>
+    <item>
+      <title>Google的 Rust 消除了 Android 中的錯誤，有助於消除大量不安全程式碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</link>
+      <description><![CDATA[記憶體安全缺陷曾佔「機器人安全漏洞」的 76%。現在它們佔 24% Google 在過去六年中優先考慮記憶體安全軟體開發，大大減少了 Android 作業系統中記憶體安全漏洞的數量。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</guid>
+      <pubDate>Wed, 25 Sep 2024 17:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 24.10 進入測試版，早起的鳥兒有一絲懷舊之情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[認為如果失去核心存取權限，可能會發生更糟糕的情況 CrowdStrike 對其錯誤的軟體更新導致數百萬台Windows 電腦崩潰、導致「問題完美風暴」「深感抱歉「數千架飛機、旅客滯留在機場、手術取消、緊急服務專線中斷等諸多不便......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/crowdstrike_to_congress_perfect_storm/</guid>
       <pubDate>Wed, 25 Sep 2024 01:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automattic 執行長稱 WP Engine 為「癌症」後，WP Engine 進行了反擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/24/wp_engine_claims_automattic_ceo/</link>
-      <description><![CDATA[停止和終止信聲稱最高老闆索要數千萬美元的商標許可 更新 WordPress 託管服務 WP Engine 週一向 WordPress 製造商發送了停止和終止信Automattic ，以迫使後者的首席執行官Matthew Mullenweg 在據稱的商標許可要求後停止對WP Engine 做出涉嫌虛假和誤導性的聲明。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/24/wp_engine_claims_automattic_ceo/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
