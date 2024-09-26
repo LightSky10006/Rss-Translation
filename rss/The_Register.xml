@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 25 Sep 2024 22:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 00:57:35 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 將在版權案中揭露秘密訓練資料－僅供律師參考</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/</link>
+      <description><![CDATA[受害作者的律師將在安全的房間中查看信息，沒有互聯網接入，也沒有任何設備 OpenAI 已同意向針對其提起版權索賠的律師透露用於訓練其生成式AI 模型的資料開發者代表幾位作者...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/</guid>
+      <pubDate>Thu, 26 Sep 2024 00:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國司法部警告說，如果你的人工智慧犯罪，你就會犯罪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/</link>
+      <description><![CDATA[將合規性要求添加到您的人工智慧待辦事項清單中 如果兼顧人工智慧的極端成本和模糊的投資回報率還不夠令人頭疼，美國司法部(DoJ ) 現在期望企業合規官員開始權衡該技術的潛在危害——否則，如果違反法律，將面臨巨額罰款…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/</guid>
+      <pubDate>Wed, 25 Sep 2024 23:53:08 GMT</pubDate>
+    </item>
     <item>
       <title>中國的「鹽颱風」網路間諜深入美國網路服務供應商內部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chinas_salt_typhoon_cyber_spies/</link>
@@ -76,9 +90,9 @@
       <pubDate>Wed, 25 Sep 2024 15:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>美國可能會免除晶片巨頭價值數十億美元的晶圓廠的一些規則，但物理定律仍然適用</title>
+      <title>美國可能會免除最新晶片工廠的生態繁文縟節，但電力仍然是一趟旅程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chip_fabs_us_power/</link>
-      <description><![CDATA[AC/DC：美國電網可能需要做好準備 評價 英特爾和其他半導體行業參與者在美國晶片製造上的數十億美元賭博正在動搖不僅光是科技樹——它似乎會讓美國的電力基礎設施有點頭痛。 &gt; ]]></description>
+      <description><![CDATA[AC/DC：美國電網可能需要做好準備 評論 英特爾和其他半導體行業參與者在美國晶片製造上的數十億美元賭博可能即將結束讓美國的電力基礎設施有點頭痛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chip_fabs_us_power/</guid>
       <pubDate>Wed, 25 Sep 2024 14:31:10 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[郵局醜聞？什麼醜聞？審查。該公司表示，該交易的競標是在向英國政府做出承諾之前進行的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/fujitsu_contract_win_horizon/</guid>
       <pubDate>Wed, 25 Sep 2024 09:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>到 2026 年，人工智慧 PC 將主導出貨量，但不是因為需求</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</link>
-      <description><![CDATA[分析師表示，隨著晶片製造商爭奪現金，購買沒有科技的電腦變得更加困難 科技市場銷售資料統計機構和顧問公司Gartner 表示，預計到2025 年，人工智慧PC 將佔PC 的43%，到 2026 年，人工智慧設備實際上可能是大企業可以選擇的唯一筆記型電腦。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/analysts_ai_pcs_shipments_gartner/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA、IBM 剛剛開源了人工智慧氣候模型，以便您可以微調自己的氣候模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/nasa_ibm_ai_weather/</link>
-      <description><![CDATA[Prithvi，Prithvi，Prithvi 好 IBM 和NASA 的研究人員本週發布了一個開源AI 氣候模型，旨在準確預測天氣模式，同時與傳統的基於物理的模擬相比，消耗更少的運算資源。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/nasa_ibm_ai_weather/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:25:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
