@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 18:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 18:42:26 GMT</lastBuildDate>
+    <item>
+      <title>三星因晶片工廠工人暴露在 X 射線輻射下而被罰款 8,000 美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</link>
+      <description><![CDATA[沒有什麼比懲罰更能表達「哎呀」了，甚至不會減少這家電子巨頭的咖啡預算 兩名三星員工在首爾附近的一家芯片工廠遭受X 射線輻射，而電子巨頭只是因兩次違反韓國原子能安全法而面臨 1,050 萬韓元（不到 8,000 美元）的小額罰款。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</guid>
+      <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>世界末日「9.9 RCE bug」可能會攻擊每個 Linux 系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[將合規性要求添加到您的人工智慧待辦事項清單中 如果兼顧人工智慧的極端成本和模糊的投資回報率還不夠令人頭疼，美國司法部(DoJ ) 現在期望企業合規官員開始權衡該技術的潛在危害——否則，如果違反法律，將面臨巨額罰款…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/</guid>
       <pubDate>Wed, 25 Sep 2024 23:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國的「鹽颱風」網路間諜深入美國網路服務供應商內部</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chinas_salt_typhoon_cyber_spies/</link>
-      <description><![CDATA[預計今年的風暴季節會更長？被發現出現在屬於美國網路服務的網路上秘密資料竊取任務的供應商以及未來網路攻擊的潛在準備。 html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chinas_salt_typhoon_cyber_spies/</guid>
-      <pubDate>Wed, 25 Sep 2024 21:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
