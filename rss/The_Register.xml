@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 10:39:52 GMT</lastBuildDate>
+    <item>
+      <title>公共 Wi-Fi 業者調查英國最繁忙火車站的網路攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/</link>
+      <description><![CDATA[看到它，說出來......尚未排序，因為網路存取仍處於離線狀態 英國非部門公共機構Network Rail 正在調查網路安全事件，該機構負責修復和開發火車基礎設施，在向那些連接到主要電台的免費 Wi-Fi 入口網站的人顯示令人討厭的消息之後…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:29:53 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 的藍屏錯誤：eBPF 能否挽救局面？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有趣的復古調整、App Center 改版等等，隨著 Oraulous Oriole 的出現 Ubuntu 24.10 的測試版剛剛發布，默認桌面為 GNOME 47，並有一些有趣的復古風格。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</guid>
       <pubDate>Wed, 25 Sep 2024 16:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐空局斥資 1700 萬歐元建造太空船，只是為了看著它起火</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</link>
-      <description><![CDATA[DRACO 將在重返大氣層的大火中消亡 歐洲航天局 (ESA) 已授予西班牙公司 Deimos Space 一份航天器合同，其唯一目的是在大氣層中燃燒地球大氣層，以便工程師可以看到發生了什麼事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
