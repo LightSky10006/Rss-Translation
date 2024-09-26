@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 16:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 17:39:15 GMT</lastBuildDate>
+    <item>
+      <title>Doomsday 9.9 RCE 漏洞可能會影響所有 Linux 系統 - 甚至更多</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
+      <description><![CDATA[沒有修復加上POC 漏洞就等於壞消息 根據Bug Hunter 的說法，有關影響所有GNU/Linux 系統（可能還包括其他系統）的9.9 級未經身份驗證的關鍵RCE的詳細資訊很快就會被揭露&lt; a href=&quot;https://www.linkedin.com/in/simonemargaritelli/overlay/about-this-profile/&quot; rel=&quot;nofollow&quot;&gt;Simone Margaritelli，他說這十年來仍然沒有解決辦法-他三週前向開發人員披露的舊缺陷...... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</guid>
+      <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blackstone 投資 10B 英鎊在英國建造歐洲“最大的人工智慧資料中心”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/backstone_ai_datacenter/</link>
+      <description><![CDATA[英國首相基爾表示，美國投資巨頭Blackstone 正斥資100 億英鎊（134 億美元）建設位於英格蘭東北部的大型人工智慧資料中心項目，預計將於明年在失敗的BritishVolt 工廠現場開始建設  Starmer 於週三宣布。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/backstone_ai_datacenter/</guid>
+      <pubDate>Thu, 26 Sep 2024 17:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾認為它已經針對頑固的 Raptor Lake 處理器進行了最終的微程式碼修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/intel_0x12b_raptor_lake/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
+      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[預計今年的風暴季節會更長？被發現出現在屬於美國網路服務的網路上秘密資料竊取任務的供應商以及未來網路攻擊的潛在準備。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chinas_salt_typhoon_cyber_spies/</guid>
       <pubDate>Wed, 25 Sep 2024 21:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unions 2、Apple 0：庫比蒂諾在新的罷工威脅後屈服</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/unions_apple_strike_threat/</link>
-      <description><![CDATA[俄克拉荷馬州，你做得很好！ 蘋果公司的反工會姿態看起來就像是紙老虎：iPhone 巨頭已與俄克拉荷馬州的工會零售工人達成協議，這是第二次達成協議在面臨罷工的前景後，它已向有組織的勞工屈服。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/unions_apple_strike_threat/</guid>
-      <pubDate>Wed, 25 Sep 2024 21:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>91% 的受訪亞馬遜員工對重返辦公室不滿意，四分之三的人希望跳槽</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</link>
-      <description><![CDATA[「像Jassy 那樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，通知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</guid>
-      <pubDate>Wed, 25 Sep 2024 20:41:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
