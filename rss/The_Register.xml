@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 21:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 22:13:09 GMT</lastBuildDate>
+    <item>
+      <title>Starfish Space 與 SSPICY Otter 合作為 NASA 處理軌道垃圾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_sspicy_otter_starfish/</link>
+      <description><![CDATA[這是碎片檢查任務還是Ubuntu 版本？ ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_sspicy_otter_starfish/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>立即修補：關鍵的 Nvidia 錯誤允許容器逃逸、完全接管主機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/critical_nvidia_bug_container_escape/</link>
+      <description><![CDATA[我們獲悉，使用該工具包的雲端環境中有 33% 受到影響 Nvidia 廣泛使用的 Container Toolkit 中的一個嚴重錯誤可能允許惡意用戶或軟體逃脫其容器並最終完全控制底層主機。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/critical_nvidia_bug_container_escape/</guid>
+      <pubDate>Thu, 26 Sep 2024 21:42:46 GMT</pubDate>
+    </item>
     <item>
       <title>Tor 專案搖尾慶祝隱私專案合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[總部位於瑞典，中國製造，在班加羅爾編程，但擁有傳統的離岸品牌 印度科技服務巨頭Infosys 已達成一項協議，為瑞典電動汽車公司Polestar 編寫代碼。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/infosys_polestar_alliance/</guid>
       <pubDate>Thu, 26 Sep 2024 05:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度延長 IT 硬體進口許可證計劃，激怒了大型科技公司</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/india_extends_hardware_import_licenses/</link>
-      <description><![CDATA[並暗示將於今年稍後修訂規則 印度商業和工業部延長了激怒硬體製造商的計劃，要求他們獲得進口許可證，並表示將進一步修訂該計劃。  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/india_extends_hardware_import_licenses/</guid>
-      <pubDate>Thu, 26 Sep 2024 04:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆大叔指責澳洲人工智慧新創公司老闆偽造財務資訊欺騙投資者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/skael_doj_sec_ai/</link>
-      <description><![CDATA[克里奇！據稱，對「數位員工」的4000 萬美元投資下降速度比冷淡的福斯特還要快 一家承諾用「數位員工」取代人類的人工智慧新創公司前執行長已被美國司法部指控和美國證券交易委員會在向包括風險投資家在內的投資者展示故意偽造的財務記錄後，向他們籌集了 4000 萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/skael_doj_sec_ai/</guid>
-      <pubDate>Thu, 26 Sep 2024 02:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
