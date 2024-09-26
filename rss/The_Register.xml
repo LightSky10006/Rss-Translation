@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 20:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:11:10 GMT</lastBuildDate>
     <item>
       <title>Tor 專案搖尾慶祝隱私專案合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</link>
@@ -34,9 +34,9 @@
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>世界末日「9.9 RCE bug」可能會攻擊每個 Linux 系統</title>
+      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
-      <description><![CDATA[尚未修復，加上嚴重性、不確定性，加上談論示例漏洞等於噩夢 有關尚未公開的嚴重性9.9-of-10-嚴重性、未經身份驗證的遠程程式碼執行漏洞的詳細資訊影響所有GNU/Linux 系統的問題可能會在今天揭曉。 /p&gt;]]></description>
+      <description><![CDATA[快速修復：刪除cups-browsed，阻止UDP 連接埠631 已更新 經過幾天的等待和預期，被稱為一個或多個關鍵的未經驗證的遠端程式碼執行今天終於揭露了所有 Linux 系統中的漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</guid>
       <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
     </item>
