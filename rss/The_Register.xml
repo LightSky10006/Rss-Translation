@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 17:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 18:15:57 GMT</lastBuildDate>
     <item>
-      <title>Doomsday 9.9 RCE 漏洞可能會影響所有 Linux 系統 - 甚至更多</title>
+      <title>世界末日「9.9 RCE bug」可能會攻擊每個 Linux 系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
-      <description><![CDATA[沒有修復加上POC 漏洞就等於壞消息 根據Bug Hunter 的說法，有關影響所有GNU/Linux 系統（可能還包括其他系統）的9.9 級未經身份驗證的關鍵RCE的詳細資訊很快就會被揭露&lt; a href=&quot;https://www.linkedin.com/in/simonemargaritelli/overlay/about-this-profile/&quot; rel=&quot;nofollow&quot;&gt;Simone Margaritelli，他說這十年來仍然沒有解決辦法-他三週前向開發人員披露的舊缺陷...... ]]></description>
+      <description><![CDATA[尚未修復，加上嚴重性、不確定性，加上談論示例漏洞等於噩夢 有關尚未公開的嚴重性9.9-of-10-嚴重性、未經身份驗證的遠程程式碼執行漏洞的詳細資訊影響所有GNU/Linux 系統的問題可能會在今天揭曉。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</guid>
       <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）......]]></description>
+      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
