@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 20:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 20:43:56 GMT</lastBuildDate>
     <item>
-      <title>HPE 修正了 Aruba 專有存取協定介面中的三個關鍵缺陷</title>
+      <title>Tor 專案搖尾慶祝隱私專案合併</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</link>
+      <description><![CDATA[洋蔥失憶症：增強你的數位偽裝 Tor 計畫是一個專注於網路匿名的非營利組織，它正在與Tails（一個專注於匿名的Linux 發行版）聯手，以努力做得更好使用財務和技術資源。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</guid>
+      <pubDate>Thu, 26 Sep 2024 20:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>HPE 修補了 Aruba PAPI 中的三個關鍵安全漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/hpe_aruba_patch_papi/</link>
-      <description><![CDATA[更多 9.8 錯誤？ Ai PAPI！  在HPE 針對其網路子公司網路存取點的三個關鍵缺陷發布緊急修復程序後，運行AOS-8 和AOS-10 的Aruba 接入點需要緊急修補。 ..]]></description>
+      <description><![CDATA[更多 9.8 錯誤？哎呀，papi！ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/hpe_aruba_patch_papi/</guid>
       <pubDate>Thu, 26 Sep 2024 19:30:14 GMT</pubDate>
     </item>
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）......]]></description>
+      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[克里奇！據稱，對「數位員工」的4000 萬美元投資下降速度比冷淡的福斯特還要快 一家承諾用「數位員工」取代人類的人工智慧新創公司前執行長已被美國司法部指控和美國證券交易委員會在向包括風險投資家在內的投資者展示故意偽造的財務記錄後，向他們籌集了 4000 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/skael_doj_sec_ai/</guid>
       <pubDate>Thu, 26 Sep 2024 02:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress.org 拒絕向 WP Engine 提供服務，可能使網站面臨風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/wordpressorg_denies_service_to_wp/</link>
-      <description><![CDATA[事態迅速升級 週三，WordPress 與託管提供者 WP Engine 的衝突升級，阻止後者的伺服器存取 WordPress.org 資源，從而阻止潛在的重要軟體更新。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/wordpressorg_denies_service_to_wp/</guid>
-      <pubDate>Thu, 26 Sep 2024 01:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
