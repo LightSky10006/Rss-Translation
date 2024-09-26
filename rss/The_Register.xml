@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 08:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:38:43 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 的藍屏錯誤：eBPF 能否挽救局面？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</link>
+      <description><![CDATA[Grafana Labs CTO 查看選項 訪談  CrowdStrike 混亂是由更新導致程式碼出錯後在 Windows 核心中運行的軟體引起的。 eBPF 是核心追蹤和可觀察性的有用工具，但它可以緩解CrowdStrike 事件嗎？ ... &lt; /p &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>英國政府的銀行資料共享計畫被猛烈抨擊為「金融窺探者」章程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/uk_benefits_bank_accounts/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
@@ -85,21 +92,21 @@
     <item>
       <title>91% 的受訪亞馬遜員工對重返辦公室不滿意，四分之三的人希望跳槽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</link>
-      <description><![CDATA[「像賈西這樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，告知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
+      <description><![CDATA[「像Jassy 那樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，通知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</guid>
       <pubDate>Wed, 25 Sep 2024 20:41:36 GMT</pubDate>
     </item>
     <item>
       <title>據報道，奧特曼要求拜登支援一系列數千兆瓦級人工智慧資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</link>
-      <description><![CDATA[擁有250 萬個Blackwell GPU，將消耗足夠的能源來為數百萬家庭供電 據報道，OpenAI 首席執行官Sam Altman 正試圖說服拜登政府，這是一個龐大的AI 資料中心網絡，每個資料中心消耗多達5 個資料中心千兆瓦的電力對於確保美國國家安全和保持對中國的技術領先地位至關重要。]]></description>
+      <description><![CDATA[擁有250 萬個Blackwell GPU，將消耗足夠的能源來為數百萬個家庭供電 據報道，OpenAI 首席執行官Sam Altman 正試圖說服拜登政府，這是一個龐大的AI 資料中心網絡，每個資料中心消耗多達5 個資料中心千兆瓦的電力對於確保美國國家安全和保持對中國的技術領先地位至關重要。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</guid>
       <pubDate>Wed, 25 Sep 2024 20:00:12 GMT</pubDate>
     </item>
     <item>
       <title>美國陸軍起草人工智慧以解決招募短缺問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/us_army_enlists_ai/</link>
-      <description><![CDATA[不再有推銷電話：Recruit 36​​0 從數以百萬計的人中找出最優秀的候選人 由於招募不足的困擾，美國陸軍正在轉向人工智慧來幫助其篩選新兵。]]></description>
+      <description><![CDATA[不再有推銷電話：Recruit 36​​0 從數以百萬計的人中找出最優秀的候選人 飽受招募不足的困擾，美國陸軍正在轉向人工智慧來幫助其篩選新兵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/us_army_enlists_ai/</guid>
       <pubDate>Wed, 25 Sep 2024 19:00:08 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Wed, 25 Sep 2024 17:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 24.10 進入 Beta 版，早起的鳥兒會感受到一絲懷舊之情</title>
+      <title>Ubuntu 24.10 進入測試版，早起的鳥兒有一絲懷舊之情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</link>
       <description><![CDATA[有趣的復古調整、App Center 改版等等，隨著 Oraulous Oriole 的出現 Ubuntu 24.10 的測試版剛剛發布，默認桌面為 GNOME 47，並有一些有趣的復古風格。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</guid>
       <pubDate>Wed, 25 Sep 2024 16:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>歐空局斥資 1700 萬歐元購買太空船，只是為了看著它起火</title>
+      <title>歐空局斥資 1700 萬歐元建造太空船，只是為了看著它起火</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</link>
       <description><![CDATA[DRACO 將在重返大氣層的大火中消亡 歐洲航天局 (ESA) 已授予西班牙公司 Deimos Space 一份航天器合同，其唯一目的是在大氣層中燃燒地球大氣層，以便工程師可以看到發生了什麼事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</guid>
       <pubDate>Wed, 25 Sep 2024 15:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國可能會免除最新晶片工廠的生態繁文縟節，但電力仍然是一趟旅程</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chip_fabs_us_power/</link>
-      <description><![CDATA[AC/DC：美國電網可能需要做好準備 評論 英特爾和其他半導體行業參與者在美國晶片製造上的數十億美元賭博可能即將結束讓美國的電力基礎設施有點頭痛。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/chip_fabs_us_power/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
