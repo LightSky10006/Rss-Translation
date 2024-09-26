@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 15:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 16:15:15 GMT</lastBuildDate>
+    <item>
+      <title>英特爾針對頑固的 Raptor Lake 處理器推出最終微程式碼修復</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/intel_0x12b_raptor_lake/</link>
+      <description><![CDATA[根本原因已確定，但花了大半年的時間 在經歷了漫長的時光之後，英特爾終於確定了其第13 代和第14 代酷睿系列台式機處理器為何如此不穩定的原因。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/intel_0x12b_raptor_lake/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>SK海力士開始量產36GB 12層HBM3E</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sk_hynix_hbm3e_production/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿註冊讀者，你會如何處理 Honey、Queen 和 Bumble？ （ISS）。]]></description>
+      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「像Jassy 那樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，通知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</guid>
       <pubDate>Wed, 25 Sep 2024 20:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，奧特曼要求拜登支援一系列數千兆瓦級人工智慧資料中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</link>
-      <description><![CDATA[擁有250 萬個Blackwell GPU，將消耗足夠的能源來為數百萬個家庭供電 據報道，OpenAI 首席執行官Sam Altman 正試圖說服拜登政府，這是一個龐大的AI 資料中心網絡，每個資料中心消耗多達5 個資料中心千兆瓦的電力對於確保美國國家安全和保持對中國的技術領先地位至關重要。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</guid>
-      <pubDate>Wed, 25 Sep 2024 20:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
