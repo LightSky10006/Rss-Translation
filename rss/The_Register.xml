@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 04:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 05:38:39 GMT</lastBuildDate>
+    <item>
+      <title>Infosys 達成為電動車製造商 Polestar 編寫程式碼的協議</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/infosys_polestar_alliance/</link>
+      <description><![CDATA[總部位於瑞典，中國製造，在班加羅爾編程，但擁有傳統的離岸品牌 印度科技服務巨頭Infosys 已達成一項協議，為瑞典電動汽車公司Polestar 編寫代碼。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/infosys_polestar_alliance/</guid>
+      <pubDate>Thu, 26 Sep 2024 05:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>印度延長 IT 硬體進口許可證計劃，激怒了大型科技公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/india_extends_hardware_import_licenses/</link>
@@ -57,21 +64,21 @@
     <item>
       <title>91% 的受訪亞馬遜員工對重返辦公室不滿意，四分之三的人希望跳槽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</link>
-      <description><![CDATA[「像Jassy 那樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，通知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
+      <description><![CDATA[「像賈西這樣的決定是我不想要孩子的一個重要原因」 亞馬遜執行長安迪·賈西(Andy Jassy) 上週向員工發送了一份備忘錄，告知他們現在每個人都應該在辦公室待五天從明年開始，每週都會有幾天，對員工的一項民意調查顯示，這種情況進展得併不順利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/amazon_staff_return_office/</guid>
       <pubDate>Wed, 25 Sep 2024 20:41:36 GMT</pubDate>
     </item>
     <item>
       <title>據報道，奧特曼要求拜登支援一系列數千兆瓦級人工智慧資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</link>
-      <description><![CDATA[擁有250 萬個Blackwell GPU，將消耗足夠的能源來為數百萬個家庭供電 據報道，OpenAI 首席執行官Sam Altman 正試圖說服拜登政府，這是一個龐大的AI 資料中心網絡，每個資料中心消耗多達5 個資料中心千兆瓦的電力對於確保美國國家安全和保持對中國的技術領先地位至關重要。]]></description>
+      <description><![CDATA[擁有250 萬個Blackwell GPU，將消耗足夠的能源來為數百萬家庭供電 據報道，OpenAI 首席執行官Sam Altman 正試圖說服拜登政府，這是一個龐大的AI 資料中心網絡，每個資料中心消耗多達5 個資料中心千兆瓦的電力對於確保美國國家安全和保持對中國的技術領先地位至關重要。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/altman_5gw_dc/</guid>
       <pubDate>Wed, 25 Sep 2024 20:00:12 GMT</pubDate>
     </item>
     <item>
       <title>美國陸軍起草人工智慧以解決招募短缺問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/us_army_enlists_ai/</link>
-      <description><![CDATA[不再有推銷電話：Recruit 36​​0 從數以百萬計的人中找出最優秀的候選人 飽受招募不足的困擾，美國陸軍正在轉向人工智慧來幫助其篩選新兵。]]></description>
+      <description><![CDATA[不再有推銷電話：Recruit 36​​0 從數以百萬計的人中找出最優秀的候選人 由於招募不足的困擾，美國陸軍正在轉向人工智慧來幫助其篩選新兵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/us_army_enlists_ai/</guid>
       <pubDate>Wed, 25 Sep 2024 19:00:08 GMT</pubDate>
     </item>
@@ -97,14 +104,14 @@
       <pubDate>Wed, 25 Sep 2024 17:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 24.10 進入測試版，早起的鳥兒有一絲懷舊之情</title>
+      <title>Ubuntu 24.10 進入 Beta 版，早起的鳥兒會感受到一絲懷舊之情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</link>
       <description><![CDATA[有趣的復古調整、App Center 改版等等，隨著 Oraulous Oriole 的出現 Ubuntu 24.10 的測試版剛剛發布，默認桌面為 GNOME 47，並有一些有趣的復古風格。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/ubuntu_2410_beta/</guid>
       <pubDate>Wed, 25 Sep 2024 16:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>歐空局斥資 1700 萬歐元建造太空船，只是為了看著它起火</title>
+      <title>歐空局斥資 1700 萬歐元購買太空船，只是為了看著它起火</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</link>
       <description><![CDATA[DRACO 將在重返大氣層的大火中消亡 歐洲航天局 (ESA) 已授予西班牙公司 Deimos Space 一份航天器合同，其唯一目的是在大氣層中燃燒地球大氣層，以便工程師可以看到發生了什麼事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/esa_draco/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mountain View 與 Redmond：雲端軟體授權政策之爭正式生效 Google Cloud Platform 已向歐盟委員會提出投訴，指控 Microsoft 軟體授權政策具有反競爭性，包括聲稱客戶被收取費用在非Azure 雲端中運行Windows Server 的速度是原來的四倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_ms_ec_complaint/</guid>
       <pubDate>Wed, 25 Sep 2024 12:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年資訊外洩的北愛爾蘭警察可能會獲得 2.4 億英鎊以上的損失</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/psni_officers_affected_by_2023/</link>
-      <description><![CDATA[當共和黨持不同政見者掌握警察的姓名和詳細資料時，他們將面臨危險 2023 年錯誤發布一份包含北方警察局成員數據的文件後，受害者尚未獲得任何賠償然而，愛爾蘭 (PSNI) 最新報道稱，此案造成的損失可能高達 2.4 億英鎊（3.209 億美元）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/psni_officers_affected_by_2023/</guid>
-      <pubDate>Wed, 25 Sep 2024 11:44:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
