@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 12:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:59:18 GMT</lastBuildDate>
+    <item>
+      <title>SAP 支援自動續訂陷阱：現在什麼都不做，直到 2026 年才付費</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sap_support_renewal_deadline/</link>
+      <description><![CDATA[英國和歐洲的價格疑似個位數上漲，其他地方則有兩位數的價格上漲 與汽車保險一樣，軟體支援合約只需什麼都不做就可以每年續約， SAP 使用者應該對這種現象感到滿意太熟悉了…但有時又不熟悉…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sap_support_renewal_deadline/</guid>
+      <pubDate>Thu, 26 Sep 2024 12:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[向資金不足的公共服務勒索100 萬美元可不太好看 儘管目前處於勒索軟體樹的頂端，但RansomHub（特別是其附屬機構之一）顯然並不像勒索軟體那樣聰明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/delaware_libraries_ransomware_attack/</guid>
       <pubDate>Wed, 25 Sep 2024 17:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google的 Rust 消除了 Android 中的錯誤，有助於大幅消除不安全程式碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</link>
-      <description><![CDATA[記憶體安全缺陷曾佔「機器人安全漏洞」的 76%。現在它們佔24% Google 表示，在過去六年中，其優先考慮記憶體安全軟體開發的努力已大大減少了Android 作業系統中記憶體安全漏洞的數量。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/google_rust_safe_code_android/</guid>
-      <pubDate>Wed, 25 Sep 2024 17:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
