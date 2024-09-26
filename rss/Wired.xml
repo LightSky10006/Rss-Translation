@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 26 Sep 2024 13:26:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 13:41:15 GMT</lastBuildDate>
+    <item>
+      <title>小米14T和14T Pro評測：紮實但不時髦</title>
+      <link>https://www.wired.com/review/xiaomi-14t-pro/</link>
+      <description><![CDATA[小米更新的14T手機有很多功能，但缺乏一點個性。]]></description>
+      <guid>https://www.wired.com/review/xiaomi-14t-pro/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>De-Fi Platform Studio 評測：一款不錯的緊湊型錄音台</title>
       <link>https://www.wired.com/review/de-fi-platform-studio/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>如果人工智慧是在水下生成的，它會更永續嗎？</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-660/</link>
-      <description><![CDATA[人工智慧需要大量能源才能運行，但水下資料中心可能不是答案。]]></description>
+      <description><![CDATA[人工智慧需要大量能量才能運行，但水下資料中心可能不是答案。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-660/</guid>
       <pubDate>Thu, 26 Sep 2024 12:00:00 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 26 Sep 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>致命的真主黨尋呼機爆炸後不久，這個人工智慧生成的播客就火了</title>
+      <title>致命的真主黨傳呼機爆炸後不久，這個人工智慧生成的播客就火了</title>
       <link>https://www.wired.com/story/pager-protocol-pager-explosion-ai-podcast/</link>
       <description><![CDATA[上週，黎巴嫩尋呼機和雙向無線電爆炸導致數十人死亡、數百人受傷，數小時後，尋呼機協議播客上線。它是怎麼做到的？很多人工智慧工具。]]></description>
       <guid>https://www.wired.com/story/pager-protocol-pager-explosion-ai-podcast/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 25 Sep 2024 15:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>病毒式「再見 Meta AI」Copypasta 不會保護你</title>
+      <title>病毒式的「再見 Meta AI」Copypasta 不會保護你</title>
       <link>https://www.wired.com/story/viral-facebook-copypasta-will-not-protect-you/</link>
       <description><![CDATA[在 Facebook、Instagram 或其他社群媒體平台上轉發貼文並不是合法保護您的資料或選擇退出任何內容的方式。]]></description>
       <guid>https://www.wired.com/story/viral-facebook-copypasta-will-not-protect-you/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[戴上一副堅固、防汗、防纏結的耳機，震撼您的內心。這是我們的最愛。]]></description>
       <guid>https://www.wired.com/gallery/best-workout-headphones/</guid>
       <pubDate>Wed, 25 Sep 2024 14:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最強大的開源人工智慧模型可以增強人工智慧代理</title>
-      <link>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</link>
-      <description><![CDATA[緊湊且完全開源的視覺人工智慧模型將使人工智慧更容易控制你的電腦——希望是以一種好的方式。]]></description>
-      <guid>https://www.wired.com/story/molmo-open-source-multimodal-ai-model-allen-institute-agents/</guid>
-      <pubDate>Wed, 25 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
