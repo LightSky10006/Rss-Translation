@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 22:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 23:13:24 GMT</lastBuildDate>
+    <item>
+      <title>現在戴爾銷售人員必須每週五天在現場</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_tells_sales_staff_to/</link>
+      <description><![CDATA[返回辦公室任務不可避免地結束 戴爾在 3 月份告訴員工他們預計每週要在辦公室工作三天后，已命令銷售人員在現場上班不與客戶和合作夥伴在一起的整個工作週。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_tells_sales_staff_to/</guid>
+      <pubDate>Thu, 26 Sep 2024 23:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國聯邦貿易委員會 (FTC) 起訴五家人工智慧公司——其中一個案件引發質疑</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/ftc_sues_ai_outfits/</link>
+      <description><![CDATA[從對功能說謊的指控到虛假評論。另外：拜登AI 機器人呼叫器最終被罰款600 萬美元 聯邦貿易委員會兌現了打擊涉嫌欺騙性人工智慧聲明的承諾，宣布對五家被指控謊報軟體功能或利用其進行欺詐行為的機構採取法律行動犯法。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/ftc_sues_ai_outfits/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>Starfish Space 與 SSPICY Otter 合作為 NASA 處理軌道垃圾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_sspicy_otter_starfish/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>那個末日關鍵的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
+      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
       <description><![CDATA[快速修復：刪除cups-browsed，阻止UDP 連接埠631 已更新 經過幾天的等待和預期，被稱為一個或多個關鍵的未經驗證的遠端程式碼執行今天終於揭露了所有 Linux 系統中的漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</guid>
@@ -99,7 +113,7 @@
     <item>
       <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）......]]></description>
+      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員稱蘋果悄悄從俄羅斯應用商店下架了 60 多個 VPN</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/apple_vpn_russia/</link>
-      <description><![CDATA[權利組織認為，iThing-maker 是普丁克里姆林宮對隱私的鎮壓 根據反審查組織GreatFire 的研究，蘋果已從俄羅斯的App Store 下架了60 個VPN。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/apple_vpn_russia/</guid>
-      <pubDate>Thu, 26 Sep 2024 06:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infosys 達成為電動車製造商 Polestar 編寫程式碼的協議</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/infosys_polestar_alliance/</link>
-      <description><![CDATA[總部位於瑞典，中國製造，在班加羅爾編程，但擁有傳統的離岸品牌 印度科技服務巨頭Infosys 已達成一項協議，為瑞典電動汽車公司Polestar 編寫代碼。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/infosys_polestar_alliance/</guid>
-      <pubDate>Thu, 26 Sep 2024 05:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
