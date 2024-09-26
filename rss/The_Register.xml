@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 18:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 19:10:04 GMT</lastBuildDate>
+    <item>
+      <title>賣空者對超微美國司法部調查報告感到高興</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
+      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
+      <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
+    </item>
     <item>
       <title>三星因晶片工廠工人暴露在 X 射線輻射下而被罰款 8,000 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技告訴投資者，預計新一輪的伺服器整合將促進其本已強勁的成長。]]></description>
+      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
       <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[受害作者的律師將在安全的房間中查看信息，沒有互聯網接入，也沒有任何設備 OpenAI 已同意向針對其提起版權索賠的律師透露用於訓練其生成式AI 模型的資料開發者代表幾位作者...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_training_data_author_copyright_case/</guid>
       <pubDate>Thu, 26 Sep 2024 00:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國司法部警告說，如果你的人工智慧犯罪，你就會犯罪</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/</link>
-      <description><![CDATA[將合規性要求添加到您的人工智慧待辦事項清單中 如果兼顧人工智慧的極端成本和模糊的投資回報率還不夠令人頭疼，美國司法部(DoJ ) 現在期望企業合規官員開始權衡該技術的潛在危害——否則，如果違反法律，將面臨巨額罰款…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/25/doj_ai_compliance_guidance_update/</guid>
-      <pubDate>Wed, 25 Sep 2024 23:53:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
