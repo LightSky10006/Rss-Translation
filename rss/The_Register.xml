@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 02:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 05:12:56 GMT</lastBuildDate>
     <item>
-      <title>日本組織現在直接將薪資存入電子錢包</title>
+      <title>印度啟動三台自製超級計算機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/india_rudra_supercomputers_dedicated/</link>
+      <description><![CDATA[Rudra 機器使用本地設計進行伺服器、互連和冷卻，但似乎不是計劃中的96 核Arm CPU 印度總理莫迪(Narendra Modi) 昨天奉獻了三台新的超級計算機，並使這些機器成為一個象徵他的經濟、社會和產業政策。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/india_rudra_supercomputers_dedicated/</guid>
+      <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本組織現在直接將工資支付到電子錢包中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>那個末日關鍵的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
+      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</link>
       <description><![CDATA[尚無補丁，可以緩解，需要用戶互動 最終更新 經過幾天的預期，被稱為一個或多個關鍵的未經身份驗證的遠程程式碼執行漏洞所有 Linux 系統今天終於揭曉了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[看到它，說出來......尚未排序，因為網路存取仍處於離線狀態 已更新 英國非部門公共機構Network Rail 正在調查網路安全事件在向連接主要車站免費 Wi-Fi 入口網站的人顯示令人討厭的訊息後，負責修復和開發火車基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/</guid>
       <pubDate>Thu, 26 Sep 2024 10:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 的藍屏錯誤：eBPF 能否挽救局面？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</link>
-      <description><![CDATA[Grafana Labs CTO 查看選項 訪談  CrowdStrike 混亂是由更新導致程式碼出錯後在 Windows 核心中運行的軟體引起的。 eBPF 是核心追蹤和可觀察性的有用工具，但它可以緩解CrowdStrike 事件嗎？ ... &lt; /p &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
