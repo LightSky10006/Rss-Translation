@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 20:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 21:11:18 GMT</lastBuildDate>
     <item>
-      <title>還記得那個回憶嗎？現在微軟認為它可以讓 Windows 功能更受歡迎</title>
+      <title>尚未提出購買英特爾部分股份的請舉手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/arm_intel_takeover/</link>
+      <description><![CDATA[據報導，現在 Arm 正在接近，但被 Chipzilla 拒絕了。下一個是誰？ MOS 技術？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/arm_intel_takeover/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 功能更受歡迎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</link>
       <description><![CDATA[可選擇加入人工智慧螢幕擷取服務，具有加密、生物辨識、飛地等功能 微軟已修改其Copilot+ PC 的召回功能，並堅稱自我監控系統是安全的。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>使用您自己的出發板將火車延誤的喜悅帶回家</title>
+      <title>用您自己的出發板將火車延誤的喜悅帶回家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</link>
       <description><![CDATA[在家工作，但錯過了 Elinor Hamilton 告訴您所有服務都取消的聲音？現在可以重現每班列車延誤或取消時空蕩蕩的月台的荒涼景象，這要歸功於車站出發板的精確複製品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>Fedora 41 beta 發布，與 Ubuntu 並駕齊驅 - 但重點不同</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</link>
-      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中運行得比以往更好，如果你很好奇想嘗試。]]></description>
+      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中工作得比以往更好，如果你很好奇想嘗試。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</guid>
       <pubDate>Fri, 27 Sep 2024 09:38:14 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>日本組織現在直接將工資支付到電子錢包中</title>
+      <title>日本組織現在直接將薪資存入電子錢包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[洋蔥失憶症：增強你的數位偽裝 Tor 計畫是一個專注於網路匿名的非營利組織，它正在與Tails（一個專注於匿名的Linux 發行版）聯手，以努力做得更好使用財務和技術資源。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</guid>
       <pubDate>Thu, 26 Sep 2024 20:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE 修補了 Aruba PAPI 中的三個關鍵安全漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/hpe_aruba_patch_papi/</link>
-      <description><![CDATA[更多 9.8 錯誤？哎呀，papi！ ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/hpe_aruba_patch_papi/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
