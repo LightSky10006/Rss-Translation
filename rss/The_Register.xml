@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 07:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 07:35:36 GMT</lastBuildDate>
+    <item>
+      <title>OS/2專家發揮更大力量驅散數位末日漩渦</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/on_call/</link>
+      <description><![CDATA[「他坐在椅子上，揉了揉太陽穴，開始背誦語法，就像表演魔術一樣」 隨叫隨到 工作週的結束帶來了神奇的效果樂趣和嬉鬧的可能性，這就是為什麼The Register每週五都會以“On Call”的新鮮咒語來慶祝——讀者貢獻的專欄，講述您的技術支持故事。 ... &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/on_call/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>資料收集超級應用程式承認它在運用資料方面遇到了困難——直到它建立了法學碩士</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>日本組織現在直接將薪資存入電子錢包</title>
+      <title>日本組織現在直接將工資支付到電子錢包中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[看起來從現在開始將是Sam Altman 秀 OpenAI 的三名關鍵員工——首席技術官Mira Murati、首席研究官Bob McGrew 和研究副總裁Barret Zoph——將離開ChatGPT製造商...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_execs_leave/</guid>
       <pubDate>Thu, 26 Sep 2024 13:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 支援自動續訂陷阱：現在什麼都不做，再付一年的錢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sap_support_renewal_deadline/</link>
-      <description><![CDATA[英國和歐洲的價格疑似上漲了個位數，其他地方的價格上漲了兩位數 已更新 像汽車保險一樣，軟體支援合約只需不採取任何措施即可每年續訂， SAP 使用者應該非常熟悉這種現象...但有時卻並非如此。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sap_support_renewal_deadline/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:27:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
