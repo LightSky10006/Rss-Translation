@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 05:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 06:44:42 GMT</lastBuildDate>
+    <item>
+      <title>據報道，在被擊落的俄羅斯無人機殘骸中發現了星鍊品牌的硬體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/starlink_drone_russia_ukraine/</link>
+      <description><![CDATA[伊隆馬斯克不會縱容武器上的太空寬頻 據烏克蘭媒體報道，一架在烏克蘭上空被擊落的俄羅斯無人機似乎配備了埃隆馬斯克的太空寬頻服務Starlink 製造的設備。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/starlink_drone_russia_ukraine/</guid>
+      <pubDate>Fri, 27 Sep 2024 06:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>印度啟動三台自製超級計算機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/india_rudra_supercomputers_dedicated/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
       <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共 Wi-Fi 業者調查英國最繁忙火車站的網路攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/</link>
-      <description><![CDATA[看到它，說出來......尚未排序，因為網路存取仍處於離線狀態 已更新 英國非部門公共機構Network Rail 正在調查網路安全事件在向連接主要車站免費 Wi-Fi 入口網站的人顯示令人討厭的訊息後，負責修復和開發火車基礎設施。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/public_wifi_operator_investigating_cyberattack/</guid>
-      <pubDate>Thu, 26 Sep 2024 10:29:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
