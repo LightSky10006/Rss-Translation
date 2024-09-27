@@ -4,12 +4,19 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 26 Sep 2024 23:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 00:57:51 GMT</lastBuildDate>
+    <item>
+      <title>甲骨文擁有 Arm 晶片公司 Ampere 近三分之一的股份，可能在 2027 年取得控制權</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/oracle_ampere_stake_cpu/</link>
+      <description><![CDATA[似乎優先考慮GPU，而不是多核心CPU 甲骨文可能會選擇控制Ampere 運算公司，這是它支援並在雲端中使用的Arm 處理器設計商。 &gt;  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/oracle_ampere_stake_cpu/</guid>
+      <pubDate>Thu, 26 Sep 2024 23:59:06 GMT</pubDate>
+    </item>
     <item>
       <title>現在戴爾銷售人員必須每週五天在現場</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_tells_sales_staff_to/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_sales_staff_full_rto/</link>
       <description><![CDATA[返回辦公室的任務不可避免地結束 戴爾在三月告訴員工他們預計每週要在辦公室工作三天后，已命令其銷售人員在整個工作時間內都在現場一周不與客戶和合作夥伴一起工作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_tells_sales_staff_to/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_sales_staff_full_rto/</guid>
       <pubDate>Thu, 26 Sep 2024 23:07:30 GMT</pubDate>
     </item>
     <item>
@@ -50,7 +57,7 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -62,10 +69,10 @@
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</link>
-      <description><![CDATA[快速修復：刪除cups-browsed，阻止UDP 連接埠631 已更新 經過幾天的等待和預期，被稱為一個或多個關鍵的未經驗證的遠端程式碼執行今天終於揭露了所有 Linux 系統中的漏洞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/</guid>
+      <title>那個末日關鍵的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</link>
+      <description><![CDATA[尚無補丁，刪除cups-browsed 或阻止UDP 連接埠631，需要使用者互動 最終更新 經過幾天的等待和期待，被稱為一個或多個的內容今天終於揭露了所有Linux 系統中未經身份驗證的關鍵遠端程式碼執行漏洞。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</guid>
       <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[取得解決福利詐欺、最新帳單索賠所需的帳戶資訊 隱私權活動人士批評英國強制銀行共享政府福利申請人帳戶資料的提議，稱這項策略相當於「金融窺探者的章程旨在自動產生懷疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/uk_benefits_bank_accounts/</guid>
       <pubDate>Thu, 26 Sep 2024 08:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>記憶體製造商美光預測新一波伺服器整合浪潮</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</link>
-      <description><![CDATA[人工智慧去年增加了收入，設備中對更多RAM 的需求將有助於2025 年 美光科技已告訴投資者，預計新一輪的伺服器整合將為其本已強勁的成長增添動力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/micron_q4_2024/</guid>
-      <pubDate>Thu, 26 Sep 2024 07:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
