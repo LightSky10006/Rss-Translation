@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 27 Sep 2024 09:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 09:37:01 GMT</lastBuildDate>
+    <item>
+      <title>烏克蘭正在分散能源生產以保護自己免受俄羅斯的侵害</title>
+      <link>https://www.wired.com/story/energy-act-foundation-ukraine-russian-invasion-solar-yuliana-onishchuk/</link>
+      <description><![CDATA[烏克蘭能源法案基金會正在為學校和醫院配備太陽能板和儲能係統，以抵消俄羅斯對該國發電廠的攻擊。]]></description>
+      <guid>https://www.wired.com/story/energy-act-foundation-ukraine-russian-invasion-solar-yuliana-onishchuk/</guid>
+      <pubDate>Fri, 27 Sep 2024 09:14:14 GMT</pubDate>
+    </item>
     <item>
       <title>腸道可能是治療兒童長期新冠病毒的關鍵</title>
       <link>https://www.wired.com/story/the-first-clinical-trials-are-underway-for-kids-with-long-covid/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>如果人工智慧是在水下生成的，它會更永續嗎？</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-660/</link>
-      <description><![CDATA[人工智慧需要大量能量才能運行，但水下資料中心可能不是答案。]]></description>
+      <description><![CDATA[人工智慧需要大量能源才能運行，但水下資料中心可能不是答案。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-660/</guid>
       <pubDate>Thu, 26 Sep 2024 12:00:00 GMT</pubDate>
     </item>
@@ -125,13 +132,6 @@
       <pubDate>Thu, 26 Sep 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>您會用手機投票嗎？</title>
-      <link>https://www.wired.com/story/vote-from-mobile-phone/</link>
-      <description><![CDATA[布拉德利·圖斯克（Bradley Tusk）就該主題出版了一本新書，他認為行動投票可以徹底改變選舉。]]></description>
-      <guid>https://www.wired.com/story/vote-from-mobile-phone/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>由於一個簡單的網站錯誤，數百萬輛車輛可能被駭客攻擊和跟踪</title>
       <link>https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/</link>
       <description><![CDATA[研究人員在起亞門戶網站中發現了一個漏洞，可以讓他們追蹤數百萬輛汽車、解鎖車門並隨意啟動引擎——這是影響十幾家汽車製造商的一系列網路漏洞中的最新一個。]]></description>
@@ -139,11 +139,11 @@
       <pubDate>Thu, 26 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>飛行員快累死了。科技無法拯救他們</title>
-      <link>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</link>
-      <description><![CDATA[疫情後延長的工作時間給印度飛行員帶來了壓力，他們工作時間更長，沒有休息，但幫助遏止過度工作的監控技術卻存在問題，而且很難找到。]]></description>
-      <guid>https://www.wired.com/story/pilots-are-dying-of-tiredness-tech-cant-save-them/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:00:00 GMT</pubDate>
+      <title>你會用手機投票嗎？</title>
+      <link>https://www.wired.com/story/vote-from-mobile-phone/</link>
+      <description><![CDATA[布拉德利·圖斯克（Bradley Tusk）就該主題出版了一本新書，他認為行動投票可以徹底改變選舉。]]></description>
+      <guid>https://www.wired.com/story/vote-from-mobile-phone/</guid>
+      <pubDate>Thu, 26 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
