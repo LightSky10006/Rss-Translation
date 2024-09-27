@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 21:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 22:12:10 GMT</lastBuildDate>
+    <item>
+      <title>聯準會指控 3 名伊朗人「駭客洩露」川普 2024 年競選活動</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/us_charges_iran_trump_campaign_hack/</link>
+      <description><![CDATA[據稱，Snoops 一直在收件匣里扎營，一直持續到9 月 美國司法部指控三名伊朗人參與“大範圍的黑客活動”，據稱他們在此期間竊取了來自美國的大量資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/us_charges_iran_trump_campaign_hack/</guid>
+      <pubDate>Fri, 27 Sep 2024 21:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>尚未提出購買英特爾部分股份的請舉手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/arm_intel_takeover/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們獲悉，使用該工具包的雲端環境中有 33% 受到影響 Nvidia 廣泛使用的 Container Toolkit 中的一個嚴重錯誤可能允許惡意用戶或軟體逃脫其容器並最終完全控制底層主機。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/critical_nvidia_bug_container_escape/</guid>
       <pubDate>Thu, 26 Sep 2024 21:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tor 專案搖尾慶祝隱私專案合併</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</link>
-      <description><![CDATA[洋蔥失憶症：增強你的數位偽裝 Tor 計畫是一個專注於網路匿名的非營利組織，它正在與Tails（一個專注於匿名的Linux 發行版）聯手，以努力做得更好使用財務和技術資源。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/tor_project_tails_merger/</guid>
-      <pubDate>Thu, 26 Sep 2024 20:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
