@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 16:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 16:43:01 GMT</lastBuildDate>
+    <item>
+      <title>Cockroach Labs CEO：隨著應用程式需求激增，多樣化的資料庫模型至關重要</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/cockroach_labs_ceo/</link>
+      <description><![CDATA[也需要混合許可，以免供應商放棄太多 訪談 在 Cockroach Labs 年度會議前夕，執行長 Spencer Kimball 評論了競爭對手資料庫的優點公司。 「MongoDB 的工作方式確實有好處，這就是為什麼很多開發人員喜歡它，」他在紐約 RoachFest 上告訴 The Register。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/cockroach_labs_ceo/</guid>
+      <pubDate>Fri, 27 Sep 2024 16:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>據報道 OpenAI 正在考慮獲利計劃，但這有什麼好處呢？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/opinion_openai/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>IBM 和 Oracle 贏得大型 ERP 政府技術合約後將為 280,000 名用戶提供支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</link>
-      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值高達10 英鎊7.11 億（9.5 億美元）... ]]></description>
+      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值10 英鎊7.11 億（9.5 億美元）... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</guid>
       <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 27 Sep 2024 07:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>數據收集超級應用程式承認它很難利用數據 - 直到它建立了法學碩士</title>
+      <title>資料收集超級應用程式承認它在運用資料方面遇到了困難——直到它建立了法學碩士</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</link>
       <description><![CDATA[Grab 的工程師不再需要互相詢問 亞洲對Uber（新加坡超級應用程式Grab）的回應承認，它收集的數據超出了它可以輕鬆分析的範圍- 直到一種大語言和生成式人工智慧扭轉了局面…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星因晶片工廠工人暴露在 X 射線輻射下而被罰款 8,000 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</link>
-      <description><![CDATA[沒有什麼比懲罰更能表達「哎呀」了，甚至不會減少這家電子巨頭的咖啡預算 兩名三星員工在首爾附近的一家芯片工廠遭受X 射線輻射，而電子巨頭只是因兩次違反韓國原子能安全法而面臨 1,050 萬韓元（不到 8,000 美元）的小額罰款。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
