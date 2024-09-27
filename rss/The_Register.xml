@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 00:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 02:16:44 GMT</lastBuildDate>
+    <item>
+      <title>日本組織現在直接將薪資存入電子錢包</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
+      <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
+      <pubDate>Fri, 27 Sep 2024 02:03:24 GMT</pubDate>
+    </item>
     <item>
       <title>甲骨文擁有 Arm 晶片公司 Ampere 近三分之一的股份，可能在 2027 年取得控制權</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/oracle_ampere_stake_cpu/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>那個末日關鍵的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</link>
-      <description><![CDATA[尚無補丁，刪除cups-browsed 或阻止UDP 連接埠631，需要使用者互動 最終更新 經過幾天的等待和期待，被稱為一個或多個的內容今天終於揭露了所有Linux 系統中未經身份驗證的關鍵遠端程式碼執行漏洞。 &gt;]]></description>
+      <description><![CDATA[尚無補丁，可以緩解，需要用戶互動 最終更新 經過幾天的預期，被稱為一個或多個關鍵的未經身份驗證的遠程程式碼執行漏洞所有 Linux 系統今天終於揭曉了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</guid>
       <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Grafana Labs CTO 查看選項 訪談  CrowdStrike 混亂是由更新導致程式碼出錯後在 Windows 核心中運行的軟體引起的。 eBPF 是核心追蹤和可觀察性的有用工具，但它可以緩解CrowdStrike 事件嗎？ ... &lt; /p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/grafana_labs_interview/</guid>
       <pubDate>Thu, 26 Sep 2024 09:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府的銀行資料共享計畫被猛烈抨擊為「金融窺探者」章程</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/uk_benefits_bank_accounts/</link>
-      <description><![CDATA[取得解決福利詐欺、最新帳單索賠所需的帳戶資訊 隱私權活動人士批評英國強制銀行共享政府福利申請人帳戶資料的提議，稱這項策略相當於「金融窺探者的章程旨在自動產生懷疑。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/uk_benefits_bank_accounts/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
