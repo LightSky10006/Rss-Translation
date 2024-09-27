@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 20:36:30 GMT</lastBuildDate>
+    <item>
+      <title>還記得那個回憶嗎？現在微軟認為它可以讓 Windows 功能更受歡迎</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</link>
+      <description><![CDATA[可選擇加入人工智慧螢幕擷取服務，具有加密、生物辨識、飛地等功能 微軟已修改其Copilot+ PC 的召回功能，並堅稱自我監控系統是安全的。 ...&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:18:09 GMT</pubDate>
+    </item>
     <item>
       <title>Cockroach Labs CEO：隨著應用程式需求激增，多樣化的資料庫模型至關重要</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/cockroach_labs_ceo/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>用您自己的出發板將火車延誤的喜悅帶回家</title>
+      <title>使用您自己的出發板將火車延誤的喜悅帶回家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</link>
       <description><![CDATA[在家工作，但錯過了 Elinor Hamilton 告訴您所有服務都取消的聲音？現在可以重現每班列車延誤或取消時空蕩蕩的月台的荒涼景象，這要歸功於車站出發板的精確複製品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Fedora 41 beta 發布，與 Ubuntu 並駕齊驅 - 但重點不同</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</link>
-      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中工作得比以往更好，如果你很好奇想嘗試。]]></description>
+      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中運行得比以往更好，如果你很好奇想嘗試。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</guid>
       <pubDate>Fri, 27 Sep 2024 09:38:14 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>日本組織現在直接將薪資存入電子錢包</title>
+      <title>日本組織現在直接將工資支付到電子錢包中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[更多 9.8 錯誤？哎呀，papi！ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/hpe_aruba_patch_papi/</guid>
       <pubDate>Thu, 26 Sep 2024 19:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>賣空者對超微美國司法部調查報告感到高興</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
