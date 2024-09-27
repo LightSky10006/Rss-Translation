@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 10:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 10:40:39 GMT</lastBuildDate>
+    <item>
+      <title>用您自己的出發板將火車延誤的喜悅帶回家</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</link>
+      <description><![CDATA[在家工作，但錯過了 Elinor Hamilton 告訴您所有服務都取消的聲音？現在可以重現每班列車延誤或取消時空蕩蕩的月台的荒涼景象，這要歸功於車站出發板的精確複製品。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</guid>
+      <pubDate>Fri, 27 Sep 2024 10:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>Fedora 41 beta 發布，與 Ubuntu 並駕齊驅 - 但重點不同</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 27 Sep 2024 07:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>資料收集超級應用程式承認它在運用資料方面遇到了困難——直到它建立了法學碩士</title>
+      <title>數據收集超級應用程式承認它很難利用數據 - 直到它建立了法學碩士</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</link>
       <description><![CDATA[Grab 的工程師不再需要互相詢問 亞洲對Uber（新加坡超級應用程式Grab）的回應承認，它收集的數據超出了它可以輕鬆分析的範圍- 直到一種大語言和生成式人工智慧扭轉了局面…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
+      <title>那個末日關鍵的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</link>
       <description><![CDATA[尚無補丁，可以緩解，需要用戶互動 最終更新 經過幾天的預期，被稱為一個或多個關鍵的未經身份驗證的遠程程式碼執行漏洞所有 Linux 系統今天終於揭曉了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[應該不到60天就到黃仁勳手中 韓國SK海力士週四透露，它已成為第一家量產36GB 12層HBM3E晶片的晶片製造商。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sk_hynix_hbm3e_production/</guid>
       <pubDate>Thu, 26 Sep 2024 15:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Play 商店中的一款掏空錢包的應用程式導致受害者損失 7 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/victims_lose_70k_to_play/</link>
-      <description><![CDATA[在山景城介入之前，攻擊者讓1 萬人下載了「可信」的web3 品牌作弊 一長串的加密貨幣錢包耗盡攻擊中的最新一例，已從在某個網站下載了可疑應用程式的用戶那裡竊取了70,000 美元單一活動研究人員稱其為世界首創 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/victims_lose_70k_to_play/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:08:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
