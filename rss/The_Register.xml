@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 14:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:12:51 GMT</lastBuildDate>
+    <item>
+      <title>據報道 OpenAI 正在考慮獲利計劃，但這有什麼好處呢？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/opinion_openai/</link>
+      <description><![CDATA[即使是投資者也可能無法從中獲益 意見 曾幾何時，OpenAI 純粹是一個非營利組織。真的。它成立於2015年12月，是一家非營利人工智慧研究組織。現在看來，OpenAI 將會成為營利公司.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/opinion_openai/</guid>
+      <pubDate>Fri, 27 Sep 2024 15:02:15 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體集團利用竊取的 Microsoft Entra ID 憑證侵入雲端</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_storm_0501/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>IBM 和 Oracle 贏得大型 ERP 政府技術合約後將為 280,000 名用戶提供支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</link>
-      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值10 英鎊7.11 億（9.5 億美元）... ]]></description>
+      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值高達10 英鎊7.11 億（9.5 億美元）... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</guid>
       <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 27 Sep 2024 07:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>資料收集超級應用程式承認它在運用資料方面遇到了困難——直到它建立了法學碩士</title>
+      <title>數據收集超級應用程式承認它很難利用數據 - 直到它建立了法學碩士</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</link>
       <description><![CDATA[Grab 的工程師不再需要互相詢問 亞洲對Uber（新加坡超級應用程式Grab）的回應承認，它收集的數據超出了它可以輕鬆分析的範圍- 直到一種大語言和生成式人工智慧扭轉了局面…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>賣空者對超微美國司法部調查報告感到高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</link>
-      <description><![CDATA[據稱伺服器製造商在做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
+      <description><![CDATA[據稱伺服器製造商做假賬，因此展開調查 評論 據報道，美國伺服器供應商Supermicro 因被指控做假賬而受到美國司法部的審查它的書......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/supermicro_doj_investigation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:39:26 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有什麼比懲罰更能表達「哎呀」了，甚至不會減少這家電子巨頭的咖啡預算 兩名三星員工在首爾附近的一家芯片工廠遭受X 射線輻射，而電子巨頭只是因兩次違反韓國原子能安全法而面臨 1,050 萬韓元（不到 8,000 美元）的小額罰款。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/samsung_fined_chip_fab_radiation/</guid>
       <pubDate>Thu, 26 Sep 2024 18:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>那個末日嚴重的 Linux 錯誤：它就是 CUPS。可能導致設備遠端劫持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</link>
-      <description><![CDATA[尚無補丁，可以緩解，需要用戶互動 最終更新 經過幾天的預期，被稱為一個或多個關鍵的未經身份驗證的遠程程式碼執行漏洞所有 Linux 系統今天終於揭曉了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/cups_linux_rce_disclosed/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
