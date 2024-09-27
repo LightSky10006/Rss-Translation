@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 08:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 10:13:43 GMT</lastBuildDate>
+    <item>
+      <title>Fedora 41 beta 發布，與 Ubuntu 並駕齊驅 - 但重點不同</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</link>
+      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中工作得比以往更好，如果你很好奇想嘗試。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</guid>
+      <pubDate>Fri, 27 Sep 2024 09:38:14 GMT</pubDate>
+    </item>
     <item>
       <title>OS/2專家發揮更大力量驅散數位末日漩渦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在山景城介入之前，攻擊者讓1 萬人下載了「可信」的web3 品牌作弊 一長串的加密貨幣錢包耗盡攻擊中的最新一例，已從在某個網站下載了可疑應用程式的用戶那裡竊取了70,000 美元單一活動研究人員稱其為世界首創 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/victims_lose_70k_to_play/</guid>
       <pubDate>Thu, 26 Sep 2024 14:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 面臨高階主管離職的陣痛，三人同時走</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_execs_leave/</link>
-      <description><![CDATA[看起來從現在開始將是Sam Altman 秀 OpenAI 的三名關鍵員工——首席技術官Mira Murati、首席研究官Bob McGrew 和研究副總裁Barret Zoph——將離開ChatGPT製造商...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/openai_execs_leave/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

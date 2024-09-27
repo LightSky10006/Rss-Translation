@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 27 Sep 2024 09:37:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 10:13:51 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉的賽博卡車不可避免地會陷入戰爭</title>
+      <link>https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/</link>
+      <description><![CDATA[作為俄羅斯持續入侵的一部分，在烏克蘭作戰的車臣軍隊手中，有幾輛特斯拉電動皮卡已經武裝起來，準備戰鬥。電動車能承受熱嗎？]]></description>
+      <guid>https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/</guid>
+      <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>網路檔案館的自我拯救之戰</title>
+      <link>https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/</link>
+      <description><![CDATA[網路的集體記憶儲存在網路檔案館的伺服器中。法律鬥爭有可能將這一切抹去。]]></description>
+      <guid>https://www.wired.com/story/internet-archive-memory-wayback-machine-lawsuits/</guid>
+      <pubDate>Fri, 27 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>烏克蘭正在分散能源生產以保護自己免受俄羅斯的侵害</title>
       <link>https://www.wired.com/story/energy-act-foundation-ukraine-russian-invasion-solar-yuliana-onishchuk/</link>
@@ -120,7 +134,7 @@
     <item>
       <title>如果人工智慧是在水下生成的，它會更永續嗎？</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-660/</link>
-      <description><![CDATA[人工智慧需要大量能源才能運行，但水下資料中心可能不是答案。]]></description>
+      <description><![CDATA[人工智慧需要大量能量才能運行，但水下資料中心可能不是答案。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-660/</guid>
       <pubDate>Thu, 26 Sep 2024 12:00:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[歷史悠久的 Chromecast 已發展成為這款即插即用的串流媒體播放器，支援杜比視界和智慧家庭控制。]]></description>
       <guid>https://www.wired.com/review/google-tv-streamer-4k/</guid>
       <pubDate>Thu, 26 Sep 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於一個簡單的網站錯誤，數百萬輛車輛可能被駭客攻擊和跟踪</title>
-      <link>https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/</link>
-      <description><![CDATA[研究人員在起亞門戶網站中發現了一個漏洞，可以讓他們追蹤數百萬輛汽車、解鎖車門並隨意啟動引擎——這是影響十幾家汽車製造商的一系列網路漏洞中的最新一個。]]></description>
-      <guid>https://www.wired.com/story/kia-web-vulnerability-vehicle-hack-track/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你會用手機投票嗎？</title>
-      <link>https://www.wired.com/story/vote-from-mobile-phone/</link>
-      <description><![CDATA[布拉德利·圖斯克（Bradley Tusk）就該主題出版了一本新書，他認為行動投票可以徹底改變選舉。]]></description>
-      <guid>https://www.wired.com/story/vote-from-mobile-phone/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
