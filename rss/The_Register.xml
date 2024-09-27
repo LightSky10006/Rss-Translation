@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Sep 2024 06:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 07:12:44 GMT</lastBuildDate>
+    <item>
+      <title>資料收集超級應用程式承認它在運用資料方面遇到了困難——直到它建立了法學碩士</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</link>
+      <description><![CDATA[Grab 的工程師不再需要互相詢問 亞洲對Uber（新加坡超級應用程式Grab）的回應承認，它收集的數據超出了它可以輕鬆分析的範圍- 直到一種大語言和生成式人工智慧扭轉了局面…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/grab_dataset_llm/</guid>
+      <pubDate>Fri, 27 Sep 2024 06:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，在被擊落的俄羅斯無人機殘骸中發現了星鍊品牌的硬體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/starlink_drone_russia_ukraine/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>日本組織現在直接將工資支付到電子錢包中</title>
+      <title>日本組織現在直接將薪資存入電子錢包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</link>
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[英國和歐洲的價格疑似上漲了個位數，其他地方的價格上漲了兩位數 已更新 像汽車保險一樣，軟體支援合約只需不採取任何措施即可每年續訂， SAP 使用者應該非常熟悉這種現象...但有時卻並非如此。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/sap_support_renewal_deadline/</guid>
       <pubDate>Thu, 26 Sep 2024 12:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 的 Astrobees 需要新的熱潮——對於太空機器人有什麼想法嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</link>
-      <description><![CDATA[嘿 Reg 讀者們，您會如何處理 Honey、Queen 和 Bumble？太空站（ISS）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/nasa_astrobee_applications/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:33:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
