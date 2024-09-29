@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 29 Sep 2024 10:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 17:10:01 GMT</lastBuildDate>
+    <item>
+      <title>紅隊黑客講述她如何“闖入建築物並假裝是壞人”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/interview_with_a_social_engineering/</link>
+      <description><![CDATA[Alethe Denis 揭露了讓您落入重返辦公室調查的陷阱 採訪  週三早上，一名黑客走進一座“非常大城市”的建築，他帶著沒有任何門或電梯的鑰匙，決心透過闖入實體空間和公司 Wi-Fi 網路來竊取敏感資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/interview_with_a_social_engineering/</guid>
+      <pubDate>Sun, 29 Sep 2024 16:39:06 GMT</pubDate>
+    </item>
     <item>
       <title>利用靈活的非矽 32 位元 RISC-V 晶片打破規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 27 Sep 2024 20:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 功能更受歡迎</title>
+      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 的功能更受歡迎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</link>
       <description><![CDATA[可選擇加入人工智慧螢幕擷取服務，具有加密、生物辨識、飛地等功能 微軟已修改其Copilot+ PC 的召回功能，並堅稱自我監控系統是安全的。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>IBM 和 Oracle 贏得大型 ERP 政府技術合約後將為 280,000 名用戶提供支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</link>
-      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值高達10 英鎊7.11 億（9.5 億美元）... ]]></description>
+      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值10 英鎊7.11 億（9.5 億美元）... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</guid>
       <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[返回辦公室的任務不可避免地結束 戴爾在三月告訴員工他們預計每週要在辦公室工作三天后，已命令其銷售人員在整個工作時間內都在現場一周不與客戶和合作夥伴一起工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/dell_sales_staff_full_rto/</guid>
       <pubDate>Thu, 26 Sep 2024 23:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國聯邦貿易委員會 (FTC) 起訴五家人工智慧公司——其中一個案件尤其引發質疑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/ftc_sues_ai_outfits/</link>
-      <description><![CDATA[從對功能說謊的指控到虛假評論。另外：拜登AI 機器人呼叫器最終被罰款600 萬美元 聯邦貿易委員會兌現了打擊涉嫌欺騙性人工智慧聲明的承諾，宣布對五家被指控謊報軟體功能或利用其進行欺詐行為的機構採取法律行動犯法。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/ftc_sues_ai_outfits/</guid>
-      <pubDate>Thu, 26 Sep 2024 22:56:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
