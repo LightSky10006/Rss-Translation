@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 04:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 05:13:39 GMT</lastBuildDate>
+    <item>
+      <title>印度建立第一座晶圓廠，看起來是以日本為代價的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</link>
+      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已達成協議，將在印度建立其第一座半導體工廠，該工廠可能位於日本一個專案的費用......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</guid>
+      <pubDate>Mon, 30 Sep 2024 05:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>AI 代碼助理無法停止發明套件名稱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/ai_code_helpers_invent_packages/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[伊隆馬斯克不會縱容武器上的太空寬頻 據烏克蘭媒體報道，一架在烏克蘭上空被擊落的俄羅斯無人機似乎配備了埃隆馬斯克的太空寬頻服務Starlink 製造的設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/starlink_drone_russia_ukraine/</guid>
       <pubDate>Fri, 27 Sep 2024 06:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度啟動三台自製超級計算機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/india_rudra_supercomputers_dedicated/</link>
-      <description><![CDATA[Rudra 機器使用本地設計進行伺服器、互連和冷卻，但似乎不是計劃中的96 核Arm CPU 印度總理莫迪(Narendra Modi) 昨天奉獻了三台新的超級計算機，並使這些機器成為一個象徵他的經濟、社會和產業政策。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/india_rudra_supercomputers_dedicated/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:45:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
