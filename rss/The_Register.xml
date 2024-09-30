@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 07:34:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 08:18:42 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了一款內建 AI 智慧的相機模組。但所有這些推理的優點都是有代價的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>個性化的彈出視窗大約有一秒鐘很有趣，直到感覺像是在跟踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/who_me/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在家工作，但錯過了 Elinor Hamilton 告訴您所有服務都取消的聲音？現在可以重現每班列車延誤或取消時空蕩蕩的月台的荒涼景象，這要歸功於車站出發板的精確複製品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/departure_boards/</guid>
       <pubDate>Fri, 27 Sep 2024 10:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fedora 41 beta 發布，與 Ubuntu 並駕齊驅 - 但重點不同</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</link>
-      <description><![CDATA[文字編輯出現，加上有色的終端標題欄（當需要巧妙處理時） 對於那些在RPM 方面的人來說，Fedora 41 已經進入測試版，並且在VirtualBox 中工作得比以往更好，如果你很好奇想嘗試。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/fedora_41_beta/</guid>
-      <pubDate>Fri, 27 Sep 2024 09:38:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
