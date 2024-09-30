@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 16:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 17:12:01 GMT</lastBuildDate>
+    <item>
+      <title>Linux 核心 6.11 登陸並支援老式電視</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</link>
+      <description><![CDATA[io_uring 功能越來越強大，PREEMPT_RT 正在成為主流 歐洲開源高峰會  從維也納遠端發布，Linux 核心 6.11 現已發布，改進了單色電視支援。是的，2024 年。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>據報導，隨著颶風恢復的繼續，美國各地 Verizon 出現斷電</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/verizon_outages_report_us/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>巴西法院對馬斯克 X 因禁令後返回而處以更多罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</link>
-      <description><![CDATA[對於被屏蔽的社群媒體平台來說，9 月的兩天費用非常昂貴 根據巴西司法部發布的最新裁決，X 意外再次出現在巴西將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
+      <description><![CDATA[對於被屏蔽的社群媒體平台而言，9 月的兩天費用非常昂貴 根據巴西政府發布的最新裁決，X 意外再次出現在巴西，將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</guid>
       <pubDate>Mon, 30 Sep 2024 14:40:27 GMT</pubDate>
     </item>
@@ -71,21 +78,21 @@
     <item>
       <title>GNOME 47 帶回了一些自訂選項，但我們不要瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</link>
-      <description><![CDATA[代號「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
+      <description><![CDATA[代號為「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</guid>
       <pubDate>Mon, 30 Sep 2024 09:54:06 GMT</pubDate>
     </item>
     <item>
       <title>提取供應商的承諾並不能解決網路安全問題。拔牙可能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</link>
-      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
+      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室裡睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</guid>
       <pubDate>Mon, 30 Sep 2024 08:56:08 GMT</pubDate>
     </item>
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有這些推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>印度建立第一座晶圓廠，看起來是以日本為代價的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</link>
-      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已達成協議，將在印度建立其第一座半導體工廠，該工廠可能位於日本一個專案的費用......]]></description>
+      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已經達成協議，將在印度建立其第一家半導體工廠。一個項目的費用…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</guid>
       <pubDate>Mon, 30 Sep 2024 05:04:05 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>忘記 Kia Boyz：駭客只需要一支智慧型手機就可以劫持你的汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</link>
-      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者挫敗了自己；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
+      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者自我挫敗；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</guid>
       <pubDate>Mon, 30 Sep 2024 03:02:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：SpaceX 計劃在越南投資；雅虎!日本內容審核秘密； LG出售中國顯示器工廠；等等 亞洲簡介 The Register 並不經常報道加密貨幣機構站在詐騙或犯罪的正確一邊，但上週加密貨幣交易所幣安聲稱它幫助印度當局調查詐騙遊戲應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/asia_tech_news_in_brief/</guid>
       <pubDate>Mon, 30 Sep 2024 01:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>紅隊黑客講述她如何“闖入建築物並假裝是壞人”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/interview_with_a_social_engineering/</link>
-      <description><![CDATA[Alethe Denis 揭露了讓您落入重返辦公室調查的陷阱 採訪  週三早上，一名黑客走進一座“非常大城市”的建築，他帶著沒有任何門或電梯的鑰匙，決心透過闖入實體空間和公司 Wi-Fi 網路來竊取敏感資料。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/interview_with_a_social_engineering/</guid>
-      <pubDate>Sun, 29 Sep 2024 16:39:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
