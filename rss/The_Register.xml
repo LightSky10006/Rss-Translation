@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 22:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 22:38:13 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體迫使醫院拒絕救護車</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</link>
+      <description><![CDATA[400 英里範圍內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</guid>
+      <pubDate>Mon, 30 Sep 2024 22:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>在出現一長串安全問題後，T-Mobile US 將支付 3,150 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/tmobile_data_breaches_settlement/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>SpaceX 獵鷹 9 號火箭第二級誤入海洋後再次停飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/spacex_falcon_9_grounded/</link>
-      <description><![CDATA[否則，Crew-9 發射圓滿成功 更新  繼 Crew-9 任務發射後，SpaceX 再次停飛了 Falcon 9 號火箭，原因是第二級脫軌燃燒問題。]]></description>
+      <description><![CDATA[否則，Crew-9 發射圓滿成功 更新  繼 Crew-9 任務發射後，SpaceX 再次停飛了 Falcon 9 號火箭，原因是第二級脫軌燃燒問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/spacex_falcon_9_grounded/</guid>
       <pubDate>Mon, 30 Sep 2024 17:30:06 GMT</pubDate>
     </item>
     <item>
       <title>Linux 核心 6.11 登陸並支援老式電視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</link>
-      <description><![CDATA[io_uring 功能越來越強大，PREEMPT_RT 正在成為主流 歐洲開源高峰會  從維也納遠端發布，Linux 核心 6.11 現已發布，改進了單色電視支援。是的，2024 年。]]></description>
+      <description><![CDATA[io_uring 功能越來越強大，PREEMPT_RT 正在成為主流 歐洲開源高峰會  Linux 核心 6.11 已從維也納遠端發布，改進了單色彩電視支援。是的，2024 年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</guid>
       <pubDate>Mon, 30 Sep 2024 16:45:08 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>GNOME 47 帶回了一些自訂選項，但我們不要瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</link>
-      <description><![CDATA[代號為「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
+      <description><![CDATA[代號「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</guid>
       <pubDate>Mon, 30 Sep 2024 09:54:06 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了一款內建 AI 智慧的相機模組。但所有這些推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[電話是從屋內打來的 誰，我？ 好吧，溫柔的讀者，我們有一些壞消息：週末結束了，還有五天的假期勞動已經開始。好消息是周一意味著是時候喝一劑“誰，我？”了。其中Reg讀者發送了他們的故事......比方說......來之不易的經驗。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/who_me/</guid>
       <pubDate>Mon, 30 Sep 2024 07:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡馬拉·哈里斯競選車隊被混亂的機器人計程車攔住</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</link>
-      <description><![CDATA[這個人工智慧是否向自由世界的潛在領導者展示了誰才是真正的老闆？不是流氓。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</guid>
-      <pubDate>Mon, 30 Sep 2024 06:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
