@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 13:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 13:30:27 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 週二補丁預覽版是一場故障災難</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/windows_11_kb5043145/</link>
+      <description><![CDATA[藍色是可選的KB5043145 更新後某些屏幕的顏色 微軟的周二補丁預覽版KB5043145 於上週發布，由於嚴重的穩定性問題，已經引起了一些頭痛。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/windows_11_kb5043145/</guid>
+      <pubDate>Mon, 30 Sep 2024 13:07:58 GMT</pubDate>
+    </item>
     <item>
       <title>遠端身分驗證技術往往存在偏見、笨拙，而且本身並沒有什麼好處</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/remote_identity_verification_biased/</link>
@@ -36,21 +43,21 @@
     <item>
       <title>GNOME 47 帶回了一些自訂選項，但我們不要瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</link>
-      <description><![CDATA[代號為「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
+      <description><![CDATA[代號「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</guid>
       <pubDate>Mon, 30 Sep 2024 09:54:06 GMT</pubDate>
     </item>
     <item>
       <title>提取供應商的承諾並不能解決網路安全問題。拔牙可能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</link>
-      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室裡睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
+      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</guid>
       <pubDate>Mon, 30 Sep 2024 08:56:08 GMT</pubDate>
     </item>
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有這些推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>印度建立第一座晶圓廠，看起來是以日本為代價的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</link>
-      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已經達成協議，將在印度建立其第一家半導體工廠。一個項目的費用…]]></description>
+      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已達成協議，將在印度建立其第一座半導體工廠，該工廠可能位於日本一個專案的費用......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</guid>
       <pubDate>Mon, 30 Sep 2024 05:04:05 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>忘記 Kia Boyz：駭客只需要一支智慧型手機就可以劫持你的汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</link>
-      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者自我挫敗；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
+      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者挫敗了自己；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</guid>
       <pubDate>Mon, 30 Sep 2024 03:02:09 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>利用靈活的非矽 32 位元 RISC-V 晶片打破規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</link>
-      <description><![CDATA[它不會打破任何基準，但它會去大多數其他公司無法做到的地方 英國晶片製造商Pragmatic Semiconductor 採用「靈活的技術，功能齊全，同時靈活使用」創建了32 位元微處理器。]]></description>
+      <description><![CDATA[它不會打破任何基準，但它會去大多數其他公司無法做到的地方 英國晶片製造商Pragmatic Semiconductor 採用「靈活的技術，功能齊全，同時靈活」創建了32 位元微處理器”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</guid>
       <pubDate>Sun, 29 Sep 2024 09:33:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[據報導，現在 Arm 正在接近，但被 Chipzilla 拒絕了。下一個是誰？ MOS 技術？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/arm_intel_takeover/</guid>
       <pubDate>Fri, 27 Sep 2024 20:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 功能更受歡迎</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</link>
-      <description><![CDATA[可選擇加入人工智慧螢幕擷取服務，具有加密、生物辨識、飛地等功能 微軟已修改其Copilot+ PC 的召回功能，並堅稱自我監控系統是安全的。 ...&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</guid>
-      <pubDate>Fri, 27 Sep 2024 20:18:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
