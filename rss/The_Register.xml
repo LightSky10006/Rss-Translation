@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 22:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 23:13:10 GMT</lastBuildDate>
+    <item>
+      <title>Rackspace 監控系統遭受零時差攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/rackspace_zero_day_attack/</link>
+      <description><![CDATA[入侵者訪問了內部網路伺服器，資訊有限......客戶被告知不要擔心 獨家 Rackspace 告訴客戶入侵者利用了第三方的零日漏洞它正在使用的應用程序，並濫用該漏洞闖入其內部性能監控環境。這次入侵迫使雲端託管公司暫時為客戶關閉其監控儀表板。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/rackspace_zero_day_attack/</guid>
+      <pubDate>Mon, 30 Sep 2024 23:08:37 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體迫使醫院拒絕救護車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</link>
-      <description><![CDATA[400 英里範圍內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
+      <description><![CDATA[400 英里內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</guid>
       <pubDate>Mon, 30 Sep 2024 22:16:18 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>巴西法院對馬斯克 X 因禁令後返回而處以更多罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</link>
-      <description><![CDATA[對於被屏蔽的社群媒體平台而言，9 月的兩天費用非常昂貴 根據巴西政府發布的最新裁決，X 意外再次出現在巴西，將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
+      <description><![CDATA[對於被屏蔽的社群媒體平台來說，9 月的兩天費用非常昂貴 根據巴西司法部發布的最新裁決，X 意外再次出現在巴西將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</guid>
       <pubDate>Mon, 30 Sep 2024 14:40:27 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>提取供應商的承諾並不能解決網路安全問題。拔牙可能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</link>
-      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室裡睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
+      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</guid>
       <pubDate>Mon, 30 Sep 2024 08:56:08 GMT</pubDate>
     </item>
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了一款內建 AI 智慧的相機模組。但所有這些推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有這些推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>個性化的彈出視窗大約有一秒鐘很有趣，直到感覺像是在跟踪</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/who_me/</link>
-      <description><![CDATA[電話是從屋內打來的 誰，我？ 好吧，溫柔的讀者，我們有一些壞消息：週末結束了，還有五天的假期勞動已經開始。好消息是周一意味著是時候喝一劑“誰，我？”了。其中Reg讀者發送了他們的故事......比方說......來之不易的經驗。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/who_me/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
