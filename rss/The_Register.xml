@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 09:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 10:14:35 GMT</lastBuildDate>
+    <item>
+      <title>GNOME 47 帶回了一些自訂選項，但我們不要瘋狂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</link>
+      <description><![CDATA[代號「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</guid>
+      <pubDate>Mon, 30 Sep 2024 09:54:06 GMT</pubDate>
+    </item>
     <item>
       <title>提取供應商的承諾並不能解決網路安全問題。拔牙可能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</link>
-      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室裡睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
+      <description><![CDATA[科技的一個分支已經學會了共同努力來解決幾乎不可能的問題。現在輪到我們了 意見 說網路安全基本上非常好，就像說波音的Starliner 零件大部分都可以運作一樣——確實如此，但你仍然會在辦公室睡覺。此外，兩者是否變得更好也值得懷疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/security_opinion/</guid>
       <pubDate>Mon, 30 Sep 2024 08:56:08 GMT</pubDate>
     </item>
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有這些推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>印度建立第一座晶圓廠，看起來是以日本為代價的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</link>
-      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已經達成協議，將在印度建立其第一家半導體工廠。一個項目的費用…]]></description>
+      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已達成協議，將在印度建立其第一座半導體工廠，該工廠可能位於日本一個專案的費用......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</guid>
       <pubDate>Mon, 30 Sep 2024 05:04:05 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>忘記 Kia Boyz：駭客只需要一支智慧型手機就可以劫持你的汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</link>
-      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者自我挫敗；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
+      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者挫敗了自己；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</guid>
       <pubDate>Mon, 30 Sep 2024 03:02:09 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>利用靈活的非矽 32 位元 RISC-V 晶片打破規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</link>
-      <description><![CDATA[它不會打破任何基準，但它會去大多數其他公司無法做到的地方 英國晶片製造商Pragmatic Semiconductor 採用「靈活的技術，功能齊全，同時靈活使用」創建了32 位元微處理器。]]></description>
+      <description><![CDATA[它不會打破任何基準，但它會去大多數其他公司無法做到的地方 英國晶片製造商Pragmatic Semiconductor 採用「靈活的技術，功能齊全，同時靈活」創建了32 位元微處理器”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</guid>
       <pubDate>Sun, 29 Sep 2024 09:33:09 GMT</pubDate>
     </item>
     <item>
       <title>美國陸軍訂購下一代機器人騾子來拖運大量裝備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/28/us_army_robot_equipment/</link>
-      <description><![CDATA[士兵們的新好朋友承擔了所有繁重的工作 士兵們在為祖國服務的同時承擔著沉重的負擔，這就是為什麼美國陸軍本周向兩家公司授予了新一代裝備合約-牽引機器人。 … ]]></description>
+      <description><![CDATA[士兵們的新好朋友承擔了所有繁重的工作 士兵們在為祖國服務的同時承受著沉重的負擔，這就是為什麼美國陸軍本周向兩家公司授予了新一代裝備合約的原因-牽引機器人。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/28/us_army_robot_equipment/</guid>
       <pubDate>Sat, 28 Sep 2024 11:27:07 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 27 Sep 2024 20:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 功能更受歡迎</title>
+      <title>還記得召回召回嗎？微軟認為它可以讓 Windows 的功能更受歡迎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</link>
       <description><![CDATA[可選擇加入人工智慧螢幕擷取服務，具有加密、生物辨識、飛地等功能 微軟已修改其Copilot+ PC 的召回功能，並堅稱自我監控系統是安全的。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/microsoft_has_some_thoughts_about/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[衛星寬頻巨型星座跨越了巨型里程碑 Starlink 的用戶數量正在加速增長，並已突破400 萬里程碑，高於其2023 年進度報告中聲稱的230 萬。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/starlink_subscribers_top_four_million/</guid>
       <pubDate>Fri, 27 Sep 2024 12:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 和 Oracle 贏得大型 ERP 政府技術合約後將為 280,000 名用戶提供支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</link>
-      <description><![CDATA[兩家產業巨頭將斥資7.11 億英鎊進行升級，為英國四個部門提供支援 IBM 和Oracle 贏得了一項為一組英國中央政府部門提供ERP 升級的競爭，這筆交易價值10 英鎊7.11 億（9.5 億美元）... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/ibm_and_oracle_uk_contract/</guid>
-      <pubDate>Fri, 27 Sep 2024 11:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
