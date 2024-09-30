@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 02:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 03:11:37 GMT</lastBuildDate>
+    <item>
+      <title>忘記 Kia Boyz：駭客只需要一支智慧型手機就可以劫持你的汽車</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</link>
+      <description><![CDATA[PLUS：英國男子被控透過駭客攻擊美國公司取得股票機密；勒索軟體攻擊者自我挫敗；等等 資訊安全簡介 收起螺絲起子和 USB 充電線 - 竊取起亞汽車的最新方法只需要手機和受害者的車牌號碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/infosec_in_brief/</guid>
+      <pubDate>Mon, 30 Sep 2024 03:02:09 GMT</pubDate>
+    </item>
     <item>
       <title>幣安聲稱幫助在印度搗毀了中國加密貨幣詐騙應用程式</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/asia_tech_news_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[從軟銀開始，使用自己的 PayPay 服務 日本科技集團軟銀集團的十家子公司已開始將員工薪資存入軟銀自己的 PayPay 數位錢包。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/27/softbank_digital_salary/</guid>
       <pubDate>Fri, 27 Sep 2024 02:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲骨文擁有 Arm 晶片公司 Ampere 近三分之一的股份，可能在 2027 年取得控制權</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/26/oracle_ampere_stake_cpu/</link>
-      <description><![CDATA[似乎優先考慮GPU，而不是多核心CPU 甲骨文可能會選擇控制Ampere 運算公司，這是它支援並在雲端中使用的Arm 處理器設計商。 &gt;  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/26/oracle_ampere_stake_cpu/</guid>
-      <pubDate>Thu, 26 Sep 2024 23:59:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
