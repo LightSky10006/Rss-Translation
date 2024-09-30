@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 16:16:00 GMT</lastBuildDate>
+    <item>
+      <title>據報導，隨著颶風恢復的繼續，美國各地 Verizon 出現斷電</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/verizon_outages_report_us/</link>
+      <description><![CDATA[加州、亞利桑那州及其他地區也受到影響 美國各地的Verizon 客戶週一早上報告稱出現大範圍停電，這可能會給美國東南部的颶風恢復工作帶來嚴重挫折。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/verizon_outages_report_us/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:10:34 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle 庭外解決客戶 NetSuite 糾紛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/oracle_netsuite_settlement/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>GNOME 47 帶回了一些自訂選項，但我們不要瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</link>
-      <description><![CDATA[代號「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
+      <description><![CDATA[代號為「Denver」的版本將於下個月登陸Fedora 和Ubuntu 大多數Linux 發行版事實上的預設桌面的最新版本帶來了一些新功能- 但GNOME 4x 過渡尚未完成...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/gnome_47/</guid>
       <pubDate>Mon, 30 Sep 2024 09:54:06 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Raspberry Pi AI 相機減輕了 CPU 的推理負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</link>
-      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了一款內建 AI 智慧的相機模組。但所有這些推理的優點都是有代價的。]]></description>
+      <description><![CDATA[自動對焦本來就很好，不過 動手  Raspberry Pi 推出了具有人工智慧智慧功能的相機模組。但所有推理的優點都是有代價的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/raspberry_pi_offloads_ai_inferencing/</guid>
       <pubDate>Mon, 30 Sep 2024 08:00:07 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>卡馬拉·哈里斯競選車隊被混亂的機器人計程車攔住</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</link>
-      <description><![CDATA[這個人工智慧是否向自由世界的潛在領導者展示了誰才是真正的老闆？的負責人？]]></description>
+      <description><![CDATA[這個人工智慧是否向自由世界的潛在領導者展示了誰才是真正的老闆？不是流氓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kamala_harris_motorcade_waymo_delay/</guid>
       <pubDate>Mon, 30 Sep 2024 06:33:11 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>印度建立第一座晶圓廠，看起來是以日本為代價的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</link>
-      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已達成協議，將在印度建立其第一座半導體工廠，該工廠可能位於日本一個專案的費用…]]></description>
+      <description><![CDATA[PSMC 與塔塔達成協議，除了炒作之外，這可能是一個真正的「關鍵里程碑」 印度似乎已經達成協議，將在印度建立其第一家半導體工廠。一個項目的費用…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/psmc_tata_bsi_india_fab/</guid>
       <pubDate>Mon, 30 Sep 2024 05:04:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Alethe Denis 揭露了讓您落入重返辦公室調查的陷阱 採訪  週三早上，一名黑客走進一座“非常大城市”的建築，他帶著沒有任何門或電梯的鑰匙，決心透過闖入實體空間和公司 Wi-Fi 網路來竊取敏感資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/interview_with_a_social_engineering/</guid>
       <pubDate>Sun, 29 Sep 2024 16:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用靈活的非矽 32 位元 RISC-V 晶片打破規則</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</link>
-      <description><![CDATA[它不會打破任何基準，但它會去大多數其他公司無法做到的地方 英國晶片製造商Pragmatic Semiconductor 採用「靈活的技術，功能齊全，同時靈活」創建了32 位元微處理器”...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/29/pragmatic_semiconductor_flexrv_chip/</guid>
-      <pubDate>Sun, 29 Sep 2024 09:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
