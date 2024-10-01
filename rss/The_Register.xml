@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 04:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 04:41:27 GMT</lastBuildDate>
     <item>
       <title>Epic Games 與三星、Google合作推出大逃殺遊戲，反對應用程式商店做法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</link>
@@ -34,9 +34,9 @@
       <pubDate>Mon, 30 Sep 2024 23:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>Rackspace 監控系統受到零日漏洞的影響</title>
+      <title>Rackspace 內部監控 Web 伺服器遭受零時差攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/rackspace_zero_day_attack/</link>
-      <description><![CDATA[入侵者透過與ScienceLogic 捆綁的工具訪問內部網路伺服器，獲取的資訊“有限”，客戶被告知不用擔心 獨家 Rackspace 告訴客戶入侵者利用了一個零日漏洞它正在使用的第三方應用程式中存在錯誤，並濫用該漏洞闖入其內部效能監控環境。 _whitepaper_textlinks_top.html&#39; -- &gt;]]></description>
+      <description><![CDATA[入侵者透過與ScienceLogic 捆綁的工具訪問機器，獲取的資訊“有限”，客戶被告知不用擔心 獨家 Rackspace 告訴客戶入侵者利用了一個零日漏洞它正在使用的第三方應用程序，並濫用該漏洞闖入其內部性能監控環境。 -&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/rackspace_zero_day_attack/</guid>
       <pubDate>Mon, 30 Sep 2024 23:08:37 GMT</pubDate>
     </item>
