@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 16:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:17:11 GMT</lastBuildDate>
+    <item>
+      <title>歐洲警察逮捕了 4 人，其中包括疑似在度假的 LockBit 開發者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/euro_cops_arrest_four_mystery/</link>
+      <description><![CDATA[而且：這看起來像是證據，證明即使支付了贖金，被盜資料也從未被刪除 在2 月份所謂的「LockBit 洩漏週」活動取得成功的基礎上，當局表示他們已經又逮捕了四名與現已崩潰的 LockBit 勒索軟體帝國有聯繫的人。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/euro_cops_arrest_four_mystery/</guid>
+      <pubDate>Tue, 01 Oct 2024 17:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>您有處理空間浪費的想法嗎？ NASA 希望收到您的來信</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nasa_space_waste_competition/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[入侵者透過與ScienceLogic 捆綁的工具訪問機器，獲取的資訊“有限”，客戶被告知不用擔心 獨家 Rackspace 告訴客戶入侵者利用了一個零日漏洞它正在使用的第三方應用程序，並濫用該漏洞闖入其內部性能監控環境。 -&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/rackspace_zero_day_attack/</guid>
       <pubDate>Mon, 30 Sep 2024 23:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體迫使醫院拒絕救護車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</link>
-      <description><![CDATA[400 英里內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</guid>
-      <pubDate>Mon, 30 Sep 2024 22:16:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
