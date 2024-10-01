@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 12:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:59:31 GMT</lastBuildDate>
+    <item>
+      <title>Kyndryl 追隨 IBM 的腳步，滾動裁員可能影響數千人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/kyndryl_layoffs/</link>
+      <description><![CDATA[未充分利用的員工被派往“替補席”，並且很少返回 特別報告 Kyndryl 是一家於2021 年底從IBM 剝離出來的IT 服務公司，一直在關注追隨母公司的腳步，謹慎地解雇了數百名員工，其中大部分在美國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/kyndryl_layoffs/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11用戶因KB5043145更新而受到傷害？微軟提供了一條出路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/microsoft_kb5043145_rollback/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[否則，Crew-9 發射圓滿成功 更新  繼 Crew-9 任務發射後，SpaceX 再次停飛了 Falcon 9 號火箭，原因是第二級脫軌燃燒問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/spacex_falcon_9_grounded/</guid>
       <pubDate>Mon, 30 Sep 2024 17:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 核心 6.11 登陸並支援老式電視</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</link>
-      <description><![CDATA[io_uring 功能越來越強大，PREEMPT_RT 正在成為主流 歐洲開源高峰會  Linux 核心 6.11 已從維也納遠端發布，改進了單色彩電視支援。是的，2024 年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/kernel_611/</guid>
-      <pubDate>Mon, 30 Sep 2024 16:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
