@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 05:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 06:45:54 GMT</lastBuildDate>
+    <item>
+      <title>AT&T 聲稱 Broadcom 向 VMware 提供了 1,050% 的漲價</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</link>
+      <description><![CDATA[博通已阻止供應商向電信巨頭出售產品 AT&amp;T 聲稱博通提出將價格提高 1,050%，並可能影響其他供應商進行遷移更難。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</guid>
+      <pubDate>Tue, 01 Oct 2024 06:27:11 GMT</pubDate>
+    </item>
     <item>
       <title>印度 iPhone 工廠火災導致生產暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/tata_iphone_fire/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 01 Oct 2024 05:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>Epic Games 與三星、Google合作推出大逃殺遊戲，討論應用程式商店的做法</title>
+      <title>Epic Games 與三星、Google合作推出大逃殺遊戲，反對應用程式商店做法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</link>
       <description><![CDATA[聲稱韓國巨頭的應用程式商店關閉並非偶然，且具有反競爭性 Epic Games 已發起另一項訴訟，以實現直接銷售其應用程式而不是透過平台所有者的應用程式商店的目標- 這次將三星瞄準了...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>勒索軟體迫使醫院拒絕救護車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</link>
-      <description><![CDATA[400 英里內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
+      <description><![CDATA[400 英里範圍內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</guid>
       <pubDate>Mon, 30 Sep 2024 22:16:18 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>隨著颶風恢復的持續，Verizon 在美國各地出現斷電</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/verizon_outages_report_us/</link>
-      <description><![CDATA[加州、亞利桑那州以及受影響的州和遭受風暴破壞的州 最終更新 美國各地的Verizon 客戶均報告週一上午出現大範圍停電，可能會造成嚴重的影響美國東南部的颶風復育工作受挫。 ...]]></description>
+      <description><![CDATA[加州、亞利桑那州以及受影響的州和遭受風暴破壞的州 最終更新 美國各地的Verizon 客戶均報告週一上午出現大範圍停電，可能會造成嚴重的影響美國東南部的颶風復育工作遭遇挫折。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/verizon_outages_report_us/</guid>
       <pubDate>Mon, 30 Sep 2024 16:10:34 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>巴西法院對馬斯克 X 因禁令後返回而處以更多罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</link>
-      <description><![CDATA[對於被屏蔽的社群媒體平台來說，9 月的兩天費用非常昂貴 根據巴西司法部發布的最新裁決，X 意外再次出現在巴西將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
+      <description><![CDATA[對於被屏蔽的社群媒體平台而言，9 月的兩天費用非常昂貴 根據巴西政府發布的最新裁決，X 意外再次出現在巴西，將導致該公司損失1000 萬巴西雷亞爾，約合183 萬美元該國的聯邦最高法院。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/x_slapped_with_more_fines/</guid>
       <pubDate>Mon, 30 Sep 2024 14:40:27 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[只有五分之二的測試產品在不同人群中是公平的 美國總務管理局(GSA) 的一項研究表明，五種遠端身份驗證(RiDV) 技術不可靠、不一致且有缺陷由於不同人口群體的偏見......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/remote_identity_verification_biased/</guid>
       <pubDate>Mon, 30 Sep 2024 12:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國國防部涉足晶片製造領域，收購砷化鎵工廠</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/uk_mod_gets_into_chipmaking/</link>
-      <description><![CDATA[國有半導體生產：計畫在那裡生產什麼？這是機密 英國政府已介入購買一家製造工廠，以確保武裝部隊使用的砷化鎵半導體的供應，同時挽救多達 100 名技術工人的工作崗位。 &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/uk_mod_gets_into_chipmaking/</guid>
-      <pubDate>Mon, 30 Sep 2024 12:36:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
