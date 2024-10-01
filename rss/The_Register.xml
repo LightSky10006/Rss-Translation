@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 12:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 13:42:16 GMT</lastBuildDate>
+    <item>
+      <title>台積電準備設施，應對強大的超強颱風“Krathon”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/tsmc_typhoon_krathon/</link>
+      <description><![CDATA[台南和高雄工廠面臨強降雨 台灣台積電週二向The Register透露，該公司正在其工廠做好準備，為超級電腦的到來做好準備。颱風Krathon。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/tsmc_typhoon_krathon/</guid>
+      <pubDate>Tue, 01 Oct 2024 13:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Kyndryl 追隨 IBM 的腳步，滾動裁員可能影響數千人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/kyndryl_layoffs/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>AT&T 聲稱 Broadcom 向 VMware 提供了 1,050% 的漲價</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</link>
-      <description><![CDATA[博通已阻止供應商向電信巨頭出售產品 AT&amp;T 聲稱博通提出將價格提高 1,050%，並可能影響其他供應商進行遷移更難。]]></description>
+      <description><![CDATA[博通已阻止供應商向電信巨頭出售產品 AT&amp;T 聲稱博通提出將價格提高 1,050%，並可能影響其他供應商進行遷移更難...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</guid>
       <pubDate>Tue, 01 Oct 2024 06:27:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Epic Games 與三星、Google就應用程式商店做法展開大逃殺</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</link>
-      <description><![CDATA[聲稱韓國巨頭的應用程式商店被封鎖並非偶然，而且是反競爭的 已更新 Epic Games 已發起另一項訴訟，以實現直接而非通過平台銷售其應用程式的目標業主的應用程式商店 - 這次將三星納入其目標。]]></description>
+      <description><![CDATA[聲稱韓國巨頭的應用程式商店關閉並非偶然，且具有反競爭性 已更新 Epic Games 已發起另一項訴訟，以實現直接而非透過平台銷售其應用程式的目標業主的應用程式商店 - 這次將三星納入其目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</guid>
       <pubDate>Tue, 01 Oct 2024 03:15:58 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>勒索軟體迫使醫院拒絕救護車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</link>
-      <description><![CDATA[400 英里範圍內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
+      <description><![CDATA[400 英里內只有一級創傷單位癱瘓 勒索軟體渣男在用惡意軟體感染一家重要醫院的電腦系統後，導致其拒絕救護車。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/texan_hospital_ransomware/</guid>
       <pubDate>Mon, 30 Sep 2024 22:16:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[誰想加入他如此堅實的團隊？  經過十五年的努力讓網絡更安全、更容易訪問，萬維網基金會即將關閉。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/world_wide_web_foundation_closes/</guid>
       <pubDate>Mon, 30 Sep 2024 19:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 獵鷹 9 號火箭第二級誤入海洋後再次停飛</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/09/30/spacex_falcon_9_grounded/</link>
-      <description><![CDATA[否則，Crew-9 發射圓滿成功 更新  繼 Crew-9 任務發射後，SpaceX 再次停飛了 Falcon 9 號火箭，原因是第二級脫軌燃燒問題......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/09/30/spacex_falcon_9_grounded/</guid>
-      <pubDate>Mon, 30 Sep 2024 17:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
