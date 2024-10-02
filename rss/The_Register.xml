@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 22:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:12:29 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
+      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 WordPress 開發商Automattic 週三公佈了其向競爭對手WP Engine 施壓，要求其簽署耗資數百萬美元的商標許可協議的詳細資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
+      <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
+    </item>
     <item>
       <title>超過 70 萬個 DrayTek 路由器在網路上如魚得水，容易遭受遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/draytek_routers_bugs/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[總理在概述新的數位國家計畫時承諾機構將處理投訴 新加坡總理黃循財表示，新加坡正在製定立法並成立一個專門機構，讓線上服務提供者對網路霸凌承擔更多責任...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/singapore_cyberbully_agency_smart_nation/</guid>
       <pubDate>Wed, 02 Oct 2024 04:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
-      <description><![CDATA[研究機構似乎發現華為可以做到這一點- 可能使用Arm 內核- 儘管受到製裁 中國電信的人工智能研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型 -這一壯舉表明，中國實體並沒有受到遏制西方技術向該國出口的製裁的巨大干擾。 &#39; -- &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
-      <pubDate>Wed, 02 Oct 2024 02:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

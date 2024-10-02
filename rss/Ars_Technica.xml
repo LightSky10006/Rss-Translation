@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 02 Oct 2024 22:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:12:09 GMT</lastBuildDate>
     <item>
-      <title>攻擊者利用 Zimbra 伺服器中最近修補的關鍵漏洞</title>
+      <title>亞馬遜將在 2025 年「加大」Prime Video 廣告力度</title>
+      <link>https://arstechnica.com/gadgets/2024/10/amazon-prime-video-is-getting-more-ads-next-year/</link>
+      <description><![CDATA[訂閱者可以忍受當前的廣告負載，因此亞馬遜正在添加更多廣告。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/amazon-prime-video-is-getting-more-ads-next-year/</guid>
+      <pubDate>Wed, 02 Oct 2024 22:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>攻擊者使用抄送的電子郵件地址利用嚴重的 Zimbra 漏洞</title>
       <link>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</link>
       <description><![CDATA[成功後，攻擊會安裝後門。讓它可靠地工作是另一回事。]]></description>
       <guid>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[充電器仍然可以工作，但沒有應用程式調度或遠端存取。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/if-you-own-a-juicebox-ev-charger-you-need-to-read-this/</guid>
       <pubDate>Wed, 02 Oct 2024 15:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>歡迎使用我們最新的設計更新，Ars 9.0！</title>
-      <link>https://arstechnica.com/staff/2024/10/welcome-to-our-latest-design-update-ars-9-0/</link>
-      <description><![CDATA[好東西多了個人化、響應式設計等等。]]></description>
-      <guid>https://arstechnica.com/staff/2024/10/welcome-to-our-latest-design-update-ars-9-0/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:52:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
