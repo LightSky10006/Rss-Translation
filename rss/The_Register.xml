@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 06:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 07:35:16 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
+      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化的慘痛教訓......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
+      <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>研究人員發現，解決 BGP 弱點的方法本身有重大、可怕的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/rpki_immaturity_study/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>FBI 聲稱腐敗的洛杉磯警察幫助加密貨幣執行長搶奪現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</link>
-      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和這是一個關於腐敗警察和 Facebook 員工的離奇故事的陰謀、被盜的數字現金以及涉嫌價值 3000 萬美元的騙局……]]></description>
+      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和腐敗的警察和 Facebook 員工的離奇故事中的陰謀、被盜的數字現金以及涉嫌 3000 萬美元的騙局…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</guid>
       <pubDate>Wed, 02 Oct 2024 05:19:08 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 02 Oct 2024 04:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>中國在本土基礎建設上訓練千億參數人工智慧模型</title>
+      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
       <description><![CDATA[研究機構似乎發現華為可以做到這一點- 可能使用Arm 內核- 儘管受到製裁 中國電信的人工智能研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型 -這一壯舉表明，中國實體並沒有受到遏制西方技術向該國出口的製裁的巨大干擾。 &#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[無需告別，2024 年 PT5 可能會在 2055 年再次降臨 每個人都保持最佳狀態：地球來了一位訪客。 2024 PT5 是一顆小行星，於週日進入軌道並成為「迷你衛星」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/earth_minimoon_2024/</guid>
       <pubDate>Tue, 01 Oct 2024 08:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>佳能向研發實驗室運送第一台奈米壓印晶片製造機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/canon_nanoimprint_lithography_machine/</link>
-      <description><![CDATA[與ASML 複雜的極紫外線方法不同，光刻技術不需要光源 佳能已將其第一台奈米壓印光刻機運送到德克薩斯電子研究所，用於其研發實驗室。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/canon_nanoimprint_lithography_machine/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
