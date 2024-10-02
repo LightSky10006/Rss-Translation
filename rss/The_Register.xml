@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 05:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 06:43:26 GMT</lastBuildDate>
+    <item>
+      <title>研究人員發現，解決 BGP 弱點的方法本身有重大、可怕的問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/rpki_immaturity_study/</link>
+      <description><![CDATA[麻煩，因為白宮在RPKI 上下了很大的賭注——就像我們都依賴於通常有效的不成熟的互聯網基礎設施 資源公鑰基礎設施(RPKI) 協議存在“軟體漏洞、規範不一致”以及運營挑戰”，三位德國研究人員在印前論文中指出。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/rpki_immaturity_study/</guid>
+      <pubDate>Wed, 02 Oct 2024 06:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>FBI 聲稱腐敗的洛杉磯警察幫助加密貨幣執行長搶奪現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與ASML 複雜的極紫外線方法不同，光刻技術不需要光源 佳能已將其第一台奈米壓印光刻機運送到德克薩斯電子研究所，用於其研發實驗室。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/canon_nanoimprint_lithography_machine/</guid>
       <pubDate>Tue, 01 Oct 2024 07:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 聲稱 Broadcom 向 VMware 提供了 1,050% 的漲價</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</link>
-      <description><![CDATA[博通已阻止供應商向電信巨頭出售產品 AT&amp;T 聲稱博通提出將價格提高 1,050%，並可能影響其他供應商進行遷移更難。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/att_broadcom_filings_update/</guid>
-      <pubDate>Tue, 01 Oct 2024 06:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
