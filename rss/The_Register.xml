@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 13:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 14:12:22 GMT</lastBuildDate>
+    <item>
+      <title>進軍顯卡遊戲兩年後，英特爾卻毫無表現</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/intel_aib_market_share/</link>
+      <description><![CDATA[與Nvidia、AMD 相比，Chipzilla 的AIB 市佔率有捨入誤差 評價  2024 年第2 季的附加板(AIB) 市佔率資料已出爐，儘管市場佔有率有所上升整個行業的出貨量，相對較新的進入者英特爾的出貨量為零。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/intel_aib_market_share/</guid>
+      <pubDate>Wed, 02 Oct 2024 13:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟在 Windows 11 24H2 上繼續推出熱門產品：新功能、錯誤和大量人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/windows_11_24h2/</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
+      <title>NIST 的安全缺陷資料庫仍積壓有超過 17,000 個未處理的錯誤。不太好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
+      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理積壓的安全漏洞報告處理方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
       <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
-      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化上的慘痛教訓......]]></description>
+      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化的慘痛教訓......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
       <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>FBI 聲稱腐敗的洛杉磯警察幫助加密貨幣執行長搶奪現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</link>
-      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和這是一個關於腐敗警察和 Facebook 員工的離奇故事的陰謀、被盜的數字現金以及涉嫌價值 3000 萬美元的騙局……]]></description>
+      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和腐敗的警察和 Facebook 員工的離奇故事中的陰謀、被盜的數字現金以及涉嫌 3000 萬美元的騙局…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</guid>
       <pubDate>Wed, 02 Oct 2024 05:19:08 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 02 Oct 2024 04:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>中國在本土基礎建設上訓練千億參數人工智慧模型</title>
+      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
       <description><![CDATA[研究機構似乎發現華為可以做到這一點- 可能使用Arm 內核- 儘管受到製裁 中國電信的人工智能研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型 -這一壯舉表明，中國實體並沒有受到遏制西方技術向該國出口的製裁的巨大干擾。 &#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Aleksandr Ryzhenkov 據稱向受害者勒索了約1 億美元，發起了60 次LockBit 攻擊 國家犯罪局(NCA) 在2 月份的LockBit 洩漏周中揭露的勒索軟體系列的最新一期於今天揭曉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nca_names_alleged_evil_corp_kingpin/</guid>
       <pubDate>Tue, 01 Oct 2024 14:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電準備設施，應對強大的超強颱風“Krathon”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/tsmc_typhoon_krathon/</link>
-      <description><![CDATA[台南和高雄工廠面臨強降雨 台灣台積電週二向The Register透露，該公司正在其工廠做好準備，為超級電腦的到來做好準備。颱風Krathon。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/tsmc_typhoon_krathon/</guid>
-      <pubDate>Tue, 01 Oct 2024 13:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
