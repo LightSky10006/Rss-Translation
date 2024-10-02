@@ -4,9 +4,16 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 02 Oct 2024 17:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 17:36:57 GMT</lastBuildDate>
     <item>
-      <title>颶風海倫向保險業表明，沒有房屋是安全的</title>
+      <title>Pavel Durov 在用戶騷亂中捍衛 Telegram 的隱私變更</title>
+      <link>https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/</link>
+      <description><![CDATA[Telegram 創始人 Pavel Durov 在法國被捕後，該平台做出了幾項改變，似乎使其對當局更加友好。]]></description>
+      <guid>https://www.wired.com/story/pavel-durov-defends-telegram-privacy-changes/</guid>
+      <pubDate>Wed, 02 Oct 2024 17:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>颶風海倫顯示了美國保險系統的崩潰程度</title>
       <link>https://www.wired.com/story/hurricane-helene-shows-insurance-industry-that-no-homes-are-safe-north-carolina/</link>
       <description><![CDATA[由於災害承保方式分散，北卡羅來納州的許多房主無法獲得洪水或山體滑坡保險。]]></description>
       <guid>https://www.wired.com/story/hurricane-helene-shows-insurance-industry-that-no-homes-are-safe-north-carolina/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>ICE 與間諜軟體製造商 Paragon Solutions 簽署 200 萬美元合約</title>
       <link>https://www.wired.com/story/ice-paragon-solutions-contract/</link>
-      <description><![CDATA[美國移民和海關執法局與 Paragon 美國子公司簽訂的為期一年的合約是在拜登政府多年來對商業間諜軟體供應商進行鎮壓之際簽訂的。]]></description>
+      <description><![CDATA[美國移民和海關執法局與 Paragon 美國子公司簽訂的為期一年的合約是在拜登政府對商業間諜軟體供應商進行長達數年的鎮壓之際簽訂的。]]></description>
       <guid>https://www.wired.com/story/ice-paragon-solutions-contract/</guid>
       <pubDate>Tue, 01 Oct 2024 18:15:53 GMT</pubDate>
     </item>
@@ -136,13 +143,6 @@
       <link>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</link>
       <description><![CDATA[微軟 AI 執行長穆斯塔法·蘇萊曼 (Mustafa Suleyman) 正在監督一項徹底改革，該改革將賦予 Copilot 同情心、洞察力和更高級的推理能力。]]></description>
       <guid>https://www.wired.com/story/mustafa-suleyman-interview-microsoft-ai-ceo-copilot/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟的副駕駛人工智慧擁有聲音、視覺和「炒作人」角色</title>
-      <link>https://www.wired.com/story/microsoft-copilot-vision-voice-emotional-support-windows-office/</link>
-      <description><![CDATA[在 OpenAI 最新模型的支援下，微軟的 Copilot 助理變得更加方便，並希望成為一個「令人鼓舞的」數位同事。]]></description>
-      <guid>https://www.wired.com/story/microsoft-copilot-vision-voice-emotional-support-windows-office/</guid>
       <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
