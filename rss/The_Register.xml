@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 17:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 18:17:26 GMT</lastBuildDate>
+    <item>
+      <title>思科正在放棄 LoRaWAN 領域，物聯網客戶沒有救生艇</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cisco_exiting_lorawan/</link>
+      <description><![CDATA[支援延續至 2029 年底，2026 年後不再進行維護 網路巨頭思科將退出 IoT 設備連接的 LoRaWAN 市場，並宣布終止可用性和生命週期終止日期其網關和相關產品，沒有為客戶規劃遷移路徑。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cisco_exiting_lorawan/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:03:40 GMT</pubDate>
+    </item>
     <item>
       <title>隨著 USB 20 Gbps 控制器的到來，小工具設計人員獲得了豐富的選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/infineon_unveils_first_usb_20gbps/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>微軟在 Windows 11 24H2 上繼續推出熱門產品：新功能、錯誤和大量人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/windows_11_24h2/</link>
-      <description><![CDATA[與Copilot Vision 一起完成- 但雷德蒙德堅持認為會話不會被存儲 微軟已經使Windows 11 24H2 全面可用，並推出了一些新功能- 有些甚至是有用和有趣的- 以及作為大量已知問題......]]></description>
+      <description><![CDATA[完成Copilot Vision - 但雷德蒙德堅持認為會話不會被存儲 微軟已經讓Windows 11 24H2 全面可用，並推出了一些新功能- 有些甚至是有用和有趣的-以及作為大量已知問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/windows_11_24h2/</guid>
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
     </item>
     <item>
       <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
+      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到希望的目標。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
       <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>新的法庭文件指控甲骨文創造“隱藏”在“合約”中的選項“迷宮”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</link>
-      <description><![CDATA[Big Red 稱指控毫無根據，希望駁回案件 甲骨文面臨集體訴訟，指控其未能兌現承諾，其中包括一項新指控，稱其“混淆”了繁重的合同條款“隱藏”檔案...]]></description>
+      <description><![CDATA[Big Red 稱指控毫無根據，希望駁回案件 甲骨文面臨集體訴訟，指控其未能兌現承諾，其中包括一項新指控，稱其“混淆”了繁瑣的合同條款“隱藏”檔案...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</guid>
       <pubDate>Wed, 02 Oct 2024 09:31:06 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
-      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化上的慘痛教訓......]]></description>
+      <description><![CDATA[有趣的實驗，但是，是的，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記本電腦到他的台式機的安全連接時，自動化的慘痛教訓......&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
       <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 02 Oct 2024 04:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>中國在本土基礎建設上訓練千億參數人工智慧模型</title>
+      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
       <description><![CDATA[研究機構似乎發現華為可以做到這一點- 可能使用Arm 內核- 儘管受到製裁 中國電信的人工智能研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型 -這一壯舉表明，中國實體並沒有受到遏制西方技術向該國出口的製裁的巨大干擾。 &#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 01 Oct 2024 19:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>Cruise 因未能立即報告其自動駕駛汽車拖行行人而被罰款 150 萬美元</title>
+      <title>Cruise 因未能立即報告其自動駕駛汽車拖曳行人而被罰款 150 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/cruise_fined_nhtsa/</link>
       <description><![CDATA[受代碼控制的計程車業務在菲尼克斯和達拉斯推出有人監督駕駛，小心翼翼地捲土重來 陷入困境的無人駕駛出租車公司Cruise 因在向美國政府提交的初步報告中遺漏了一些重要細節而被罰款150 萬美元去年發生了一起涉及其中一輛機器人車輛和一名行人的事故。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/cruise_fined_nhtsa/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[看似被盜的資料即使在支付贖金後也從未被刪除 在二月份所謂的 LockBit 洩露週的成功基礎上，當局表示他們又逮捕了四名與現已崩潰的LockBit 勒索軟體帝國有聯繫的個人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/euro_cops_arrest_four_mystery/</guid>
       <pubDate>Tue, 01 Oct 2024 17:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您有處理空間浪費的想法嗎？ NASA 希望收到您的來信</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nasa_space_waste_competition/</link>
-      <description><![CDATA[使用附近的隕石坑作為垃圾掩埋場並不是在月球上可持續生活的方式 美國宇航局(NASA) 為解決月球和深空棲息地廢物問題的創新者發起了一項獎金為300 萬美元的挑戰賽。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nasa_space_waste_competition/</guid>
-      <pubDate>Tue, 01 Oct 2024 16:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
