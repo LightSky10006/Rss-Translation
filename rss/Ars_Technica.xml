@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 02 Oct 2024 20:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 22:13:00 GMT</lastBuildDate>
+    <item>
+      <title>攻擊者利用 Zimbra 伺服器中最近修補的關鍵漏洞</title>
+      <link>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</link>
+      <description><![CDATA[成功後，攻擊會安裝後門。讓它可靠地工作是另一回事。]]></description>
+      <guid>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究發現，元智能眼鏡可以在幾秒鐘內對任何人進行人肉搜索</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/harvard-students-make-auto-doxxing-smart-glasses-to-show-need-for-privacy-regs/</link>
+      <description><![CDATA[將Meta智慧眼鏡與人臉搜尋引擎連接，可以一目了然地識別陌生人。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/harvard-students-make-auto-doxxing-smart-glasses-to-show-need-for-privacy-regs/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:31:44 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 目前估值為 1570 億美元</title>
       <link>https://arstechnica.com/ai/2024/10/openai-is-now-valued-at-157-billion/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[好東西多了個人化、響應式設計等等。]]></description>
       <guid>https://arstechnica.com/staff/2024/10/welcome-to-our-latest-design-update-ars-9-0/</guid>
       <pubDate>Wed, 02 Oct 2024 14:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉扭轉銷量頹勢，第三季實現溫和成長</title>
-      <link>https://arstechnica.com/cars/2024/10/tesla-reverses-sales-slump-sees-modest-growth-in-q3/</link>
-      <description><![CDATA[交付量增加，但不足以達到分析師的預期。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/tesla-reverses-sales-slump-sees-modest-growth-in-q3/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>海倫關閉超純石英礦，威脅科技供應鏈</title>
-      <link>https://arstechnica.com/gadgets/2024/10/helene-takes-ultrapure-quartz-mines-offline-threatens-tech-supply-chains/</link>
-      <description><![CDATA[北卡羅來納州雲杉派恩蘊藏著已知最大的高純度石英床。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/helene-takes-ultrapure-quartz-mines-offline-threatens-tech-supply-chains/</guid>
-      <pubDate>Wed, 02 Oct 2024 13:12:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
