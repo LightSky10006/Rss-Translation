@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 10:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 11:10:59 GMT</lastBuildDate>
+    <item>
+      <title>「昨天的補丁」：Zimbra 郵件伺服器因 RCE 漏洞而受到圍攻</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/mass_exploitation_of_zimbra_rce/</link>
+      <description><![CDATA[攻擊在公開披露後的第二天就開始了 「昨天打補丁」是資訊安全研究人員的建議，因為影響Zimbra 郵件伺服器的最新關鍵漏洞現在正在被大規模利用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/mass_exploitation_of_zimbra_rce/</guid>
+      <pubDate>Wed, 02 Oct 2024 10:50:45 GMT</pubDate>
+    </item>
     <item>
       <title>新的法庭文件指控甲骨文創造“隱藏”在“合約”中的選項“迷宮”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[類似於 Unix 的基礎設施工作，SMB 在「關鍵里程碑」上重新實現 EuroBSDCon 德國主權技術基金 (STF)，由聯邦經濟部支持事務和氣候行動，再次資助開源工作。這次的獲獎者是 FreeBSD 基金會和 SerNet，SerNet 是 Samba 專案的支持者之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/freebsd_and_samba_funding/</guid>
       <pubDate>Tue, 01 Oct 2024 11:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>三、Voda 承諾每月 10 英鎊或以下的移動資費，以影響 CMA 的合併</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/three_and_voda_offer_commitments/</link>
-      <description><![CDATA[合作調查擔心這兩家公司的聯合意味著更高的賬單，損害跨國運營商 沃達豐和3 UK 承諾在擬議合併後至少兩年內將零售移動資費維持在10 英鎊或以下，作為對英國監管機構堅持認為他們的聯盟將減少當地競爭的回應。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/three_and_voda_offer_commitments/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:50:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
