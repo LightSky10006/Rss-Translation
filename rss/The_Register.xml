@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 14:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 14:39:05 GMT</lastBuildDate>
+    <item>
+      <title>微軟對 WoloLens 2 認輸</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</link>
+      <description><![CDATA[五年的混合實境 - 現在只是心情複雜 微軟已經砍掉了 HoloLens 2 混合實境耳機，並且不會有硬體替代品，The Register 可以證實...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</guid>
+      <pubDate>Wed, 02 Oct 2024 14:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>進軍顯卡遊戲兩年後，英特爾卻毫無表現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/intel_aib_market_share/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與前輩相比，微軟最新的作業系統表現不佳 Windows 11 終於佔據了Windows 10 市場份額的一半以上，距離Windows 10 支援結束僅一年多了。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/windows_11_market_share/</guid>
       <pubDate>Tue, 01 Oct 2024 14:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>NCA 揭露了一名疑似「邪惡公司頭目」和 LockBit 附屬公司的男子</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nca_names_alleged_evil_corp_kingpin/</link>
-      <description><![CDATA[Aleksandr Ryzhenkov 據稱向受害者勒索了約1 億美元，發起了60 次LockBit 攻擊 國家犯罪局(NCA) 在2 月份的LockBit 洩漏周中揭露的勒索軟體系列的最新一期於今天揭曉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/nca_names_alleged_evil_corp_kingpin/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
