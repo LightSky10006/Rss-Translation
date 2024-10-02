@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 22:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 22:39:11 GMT</lastBuildDate>
     <item>
       <title>超過 70 萬個 DrayTek 路由器在網路上如魚得水，容易遭受遠端劫持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/draytek_routers_bugs/</link>
-      <description><![CDATA[發現了14 個嚴重的安全缺陷，對於間諜和騙子來說，這真是一份禮物 DrayTek 路由器中存在14 個錯誤，其中包括一個關鍵的遠端程式碼執行缺陷，該缺陷在CVSS 嚴重性評級中獲得了滿分10 的滿分- 可能會被試圖奪取設備控制權的騙子濫用，然後竊取敏感數據、部署勒索軟體並發起拒絕服務攻擊。]]></description>
+      <description><![CDATA[發現了14 個嚴重的安全漏洞，這對間諜和騙子來說是一份多麼好的禮物 DrayTek Vigor 路由器中新發現了14 個漏洞，其中包括一個關鍵的遠程程式碼執行漏洞，滿分10 分，獲得滿分10 分CVSS 嚴重性評級 - 可能會被試圖奪取設備控制權的騙子濫用，然後竊取敏感資料、部署勒索軟體並發起拒絕服務攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/draytek_routers_bugs/</guid>
       <pubDate>Wed, 02 Oct 2024 21:33:09 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 02 Oct 2024 15:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>微軟放棄 HoloLens 2</title>
+      <title>微軟對 WoloLens 2 認輸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</link>
       <description><![CDATA[五年的混合實境 - 現在只是心情複雜 微軟已經砍掉了 HoloLens 2 混合實境耳機，並且不會有硬體替代品，The Register 可以證實...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</guid>
@@ -76,9 +76,9 @@
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
+      <title>NIST 的安全缺陷資料庫仍積壓有超過 17,000 個未處理的錯誤。不太好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
+      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理積壓的安全漏洞報告處理方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
       <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
-      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化上的慘痛教訓......]]></description>
+      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化的慘痛教訓......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
       <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>FBI 聲稱腐敗的洛杉磯警察幫助加密貨幣執行長搶奪現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</link>
-      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和這是一個關於腐敗警察和 Facebook 員工的離奇故事的陰謀、被盜的數字現金以及涉嫌價值 3000 萬美元的騙局……]]></description>
+      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和腐敗的警察和 Facebook 員工的離奇故事中的陰謀、被盜的數字現金以及涉嫌 3000 萬美元的騙局…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</guid>
       <pubDate>Wed, 02 Oct 2024 05:19:08 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 02 Oct 2024 04:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>中國在本土基礎建設上訓練千億參數人工智慧模型</title>
+      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
       <description><![CDATA[研究機構似乎發現華為可以做到這一點- 可能使用Arm 內核- 儘管受到製裁 中國電信的人工智能研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型 -這一壯舉表明，中國實體並沒有受到遏制西方技術向該國出口的製裁的巨大干擾。 &#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
