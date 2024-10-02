@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 02 Oct 2024 20:14:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:13:57 GMT</lastBuildDate>
+    <item>
+      <title>在關鍵製造中使用的 Optigo 網路交換器中發現兩個簡單的「讓我控制」安全漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cisa_optigo_switch_flaws/</link>
+      <description><![CDATA[PHP include() 的不當使用再次出現 Optigo 的Spectra Aggregation Switch 中發現了兩個微不足道但至關重要的安全漏洞，並且到目前為止還沒有可用的補丁。 .  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cisa_optigo_switch_flaws/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:39:50 GMT</pubDate>
+    </item>
     <item>
       <title>美國銀行應用程式故障導致人們的餘額清零</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/bank_of_america_outage/</link>
-      <description><![CDATA[您希望獲得此權力做什麼？沒有心臟病發作就好了 一些使用美國銀行應用程式來監控帳戶的美國客戶週三早上感到震驚，因為他們的支票和儲蓄帳戶意外地空了或過期了。 /p&gt;]]></description>
+      <description><![CDATA[您希望獲得此權力做什麼？沒有心臟病發作就好了 更新了 一些使用美國銀行應用程式來監控帳戶的美國客戶週三早上驚訝地發現他們的支票和儲蓄帳戶意外地空了或過時了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/bank_of_america_outage/</guid>
       <pubDate>Wed, 02 Oct 2024 19:48:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[納稅人資助的數據被鎖在保險公司的付費牆後面 國家海洋和大氣管理局(NOAA) 無法向為美國政府機構付費的公眾透露來自特別準確的颶風預測模型的天氣預報–因為與一家私人保險風險公司達成了一項協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/government_hurricane_forecast_secrecy/</guid>
       <pubDate>Tue, 01 Oct 2024 19:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cruise 因未能立即報告其自動駕駛汽車拖行行人而被罰款 150 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/cruise_fined_nhtsa/</link>
-      <description><![CDATA[受代碼控制的計程車業務在菲尼克斯和達拉斯推出有人監督駕駛，小心翼翼地捲土重來 陷入困境的無人駕駛出租車公司Cruise 因在向美國政府提交的初步報告中遺漏了一些重要細節而被罰款150 萬美元去年發生了一起涉及其中一輛機器人車輛和一名行人的事故。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/cruise_fined_nhtsa/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:23:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
