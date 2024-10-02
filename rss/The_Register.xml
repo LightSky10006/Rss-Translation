@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 01 Oct 2024 23:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 02:16:26 GMT</lastBuildDate>
+    <item>
+      <title>中國在本土基礎建設上訓練1000億參數的人工智慧模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</link>
+      <description><![CDATA[研究機構似乎發現華為可以做到這一點- 也許使用Arm 核心 中國電信的人工智慧研究院聲稱它僅使用國產計算能力訓練了一個1000 億參數的模型- 這一壯舉顯示中王國實體並沒有受到遏制西方技術向該國出口的製裁的巨大幹擾。  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/china_telecom_model_trained_local_tech/</guid>
+      <pubDate>Wed, 02 Oct 2024 02:05:33 GMT</pubDate>
+    </item>
     <item>
       <title>海倫死亡後，美國政府隱藏頂級颶風預報模型引發憤怒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/government_hurricane_forecast_secrecy/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[聲稱韓國巨頭的應用程式商店關閉並非偶然，且具有反競爭性 已更新 Epic Games 已發起另一項訴訟，以實現直接而非透過平台銷售其應用程式的目標業主的應用程式商店 - 這次將三星納入其目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/epic_games_sues_samsung_google/</guid>
       <pubDate>Tue, 01 Oct 2024 03:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>想像一下，政府告訴大型科技公司要提高彈性，然後懲罰失敗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/01/south_korea_naver_kakao_resilience_rules/</link>
-      <description><![CDATA[這件事發生在韓國 據報道，韓國科學和資訊通信技術部在沒有採取適當措施防止服務故障後，要求當地網路巨頭Naver 提高其災難復原能力。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/01/south_korea_naver_kakao_resilience_rules/</guid>
-      <pubDate>Tue, 01 Oct 2024 01:44:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
