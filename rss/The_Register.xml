@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 04:42:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 05:38:51 GMT</lastBuildDate>
+    <item>
+      <title>微軟將 System Center 的價格提高百分之十</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</link>
+      <description><![CDATA[2025 版將於11 月1 日發布，並添加各種現代功能 微軟透露，其System Center 管理工具2025 版將於11 月1 日首次亮相，價格比其定價高出10%對於它的前身......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</guid>
+      <pubDate>Thu, 03 Oct 2024 05:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>“難以消化的變化率”讓供應商超級集團創建“人工智能的開放計算”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Big Red 稱指控毫無根據，希望駁回案件 甲骨文面臨集體訴訟，指控其未能兌現承諾，其中包括一項新指控，稱其“混淆”了繁重的合同條款“隱藏”檔案...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</guid>
       <pubDate>Wed, 02 Oct 2024 09:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國基於 Arm 的 Isambard 2 超級電腦永久關閉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/isambard_2_retired/</link>
-      <description><![CDATA[Isambard 3 和 AI 兄弟將接過火炬 英國的 Isambard 2 是早期基於 Arm 的超級電腦之一，在運行了幾年後就正式退役了。它被更強大的 Isambard 3 和 Isambard-AI 取代，就像英國超級計算進入資金不確定期一樣。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/isambard_2_retired/</guid>
-      <pubDate>Wed, 02 Oct 2024 08:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
