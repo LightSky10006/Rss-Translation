@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 18:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 19:10:21 GMT</lastBuildDate>
     <item>
-      <title>阿拉巴馬州醫院承認網路攻擊導致 61,000 名患者的數據受損</title>
+      <title>告別微軟因 Windows 11 24H2 而放棄的科技夢想</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</link>
+      <description><![CDATA[這是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</guid>
+      <pubDate>Thu, 03 Oct 2024 19:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿拉巴馬州醫院網路攻擊中超過 61,000 名患者的敏感資料被獲取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</link>
-      <description><![CDATA[洩漏的資訊在某些情況下包括醫療記錄、保險詳細資料和社會安全號碼 阿拉巴馬州一家醫院正式通知超過61,000 名患者，他們的個人資料在2023 年10月的網路攻擊後遭到外洩。]]></description>
+      <description><![CDATA[入侵者在某些情況下仔細查看醫療記錄、保險詳細資料、社會安全號碼 阿拉巴馬州一家醫院正式通知超過61,000 名患者，他們的個人資料在2023 年10月的網路攻擊中被不法份子取得...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</guid>
       <pubDate>Thu, 03 Oct 2024 18:14:06 GMT</pubDate>
     </item>
     <item>
       <title>確實，社群媒體管理員確實在追隨保守派</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/social_media_conservative_moderation/</link>
-      <description><![CDATA[因為這是最有可能在網路上分享錯誤訊息的群體 自從伊隆馬斯克(Elon Musk) 近兩年前收購Twitter（他試圖退出這項價值440 億美元的收購）以來，這位大亨一直在推動一種敘事，即適度地該微博網站不成比例地針對保守派、自由主義者和特朗普支持者。]]></description>
+      <description><![CDATA[因為他們最有可能在網路上分享蹩腳的錯誤訊息 自從伊隆馬斯克(Elon Musk) 近兩年前收購Twitter（他試圖退出這項價值440 億美元的收購）以來，這位大亨一直在推動一種溫和的敘事該微博網站不成比例地針對保守派、自由主義者和特朗普支持者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/social_media_conservative_moderation/</guid>
       <pubDate>Thu, 03 Oct 2024 17:44:24 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
+      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
       <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@
       <pubDate>Thu, 03 Oct 2024 07:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>富士通和 Supermicro 團隊開發基於 Arm 的伺服器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro/</link>
-      <description><![CDATA[MONAKA 處理器將於2027 年應用於液冷機架規模硬體 富士通週三宣布與Supermicro 合作，基於這家日本巨頭即將推出的基於Arm 的MONAKA 處理器構建液冷伺服器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro/</guid>
-      <pubDate>Thu, 03 Oct 2024 06:29:13 GMT</pubDate>
-    </item>
-    <item>
       <title>微軟將 System Center 的價格提高百分之十</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</link>
       <description><![CDATA[2025 版將於11 月1 日發布，並添加各種現代功能 微軟透露，其System Center 管理工具2025 版將於11 月1 日首次亮相，價格比其定價高出10%對於它的前身......]]></description>
@@ -134,7 +134,7 @@
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
-      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以看看？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
+      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以檢查一下？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</guid>
       <pubDate>Thu, 03 Oct 2024 02:30:15 GMT</pubDate>
     </item>
