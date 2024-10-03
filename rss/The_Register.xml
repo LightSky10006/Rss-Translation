@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 18:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:43:17 GMT</lastBuildDate>
+    <item>
+      <title>阿拉巴馬州醫院承認網路攻擊導致 61,000 名患者的數據受損</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</link>
+      <description><![CDATA[洩漏的資訊在某些情況下包括醫療記錄、保險詳細資料和社會安全號碼 阿拉巴馬州一家醫院正式通知超過61,000 名患者，他們的個人資料在2023 年10月的網路攻擊後遭到外洩。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</guid>
+      <pubDate>Thu, 03 Oct 2024 18:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>確實，社群媒體管理員確實在追隨保守派</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/social_media_conservative_moderation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[是時候看看行業是否從上次的短缺危機中吸取了教訓 從緬因州到德克薩斯州的美國港口的碼頭工人已經舉行罷工，專家警告說，不久之後科技業就會感到罷工供應鏈緊張很可能會持續到明年初。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/us_port_strike_tech_impact/</guid>
       <pubDate>Thu, 03 Oct 2024 01:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一位 OpenAI 創辦人轉投主要競爭對手 Anthropic</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/anthropic_hires_openai_founder_durk_kingma/</link>
-      <description><![CDATA[由於安全問題，十一個團夥中只剩下兩個人 Anthropic 又聘請了OpenAI 的另一位創始人，這一次讓Durk Kingma 擔任一個未指定的角色。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/anthropic_hires_openai_founder_durk_kingma/</guid>
-      <pubDate>Wed, 02 Oct 2024 23:50:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
