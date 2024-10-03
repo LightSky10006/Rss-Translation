@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 00:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 02:16:52 GMT</lastBuildDate>
+    <item>
+      <title>做好準備：美國港口罷工可能會擾亂科技供應鏈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/us_port_strike_tech_impact/</link>
+      <description><![CDATA[是時候看看行業是否從上次的短缺危機中吸取了教訓 從緬因州到德克薩斯州的美國港口的碼頭工人已經舉行罷工，專家警告說，不久之後科技業就會感到罷工供應鏈緊張很可能會持續到明年初。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/us_port_strike_tech_impact/</guid>
+      <pubDate>Thu, 03 Oct 2024 01:31:38 GMT</pubDate>
+    </item>
     <item>
       <title>另一位 OpenAI 創辦人轉投主要競爭對手 Anthropic</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/anthropic_hires_openai_founder_durk_kingma/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
-      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 WordPress 開發商Automattic 週三公佈了其向競爭對手WP Engine 施壓，要求其簽署耗資數百萬美元的商標許可協議的詳細資訊。]]></description>
+      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其努力向競爭對手WP Engine 施壓以簽署協議的詳細資訊商標許可協議耗資數百萬美元......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
       <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 02 Oct 2024 15:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>微軟對 WoloLens 2 認輸</title>
+      <title>微軟放棄 HoloLens 2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</link>
       <description><![CDATA[五年的混合實境 - 現在只是心情複雜 微軟已經砍掉了 HoloLens 2 混合實境耳機，並且不會有硬體替代品，The Register 可以證實...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</guid>
@@ -90,9 +97,9 @@
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 的安全缺陷資料庫仍積壓有超過 17,000 個未處理的錯誤。不太好</title>
+      <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理積壓的安全漏洞報告處理方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
+      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
       <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
-      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化的慘痛教訓......]]></description>
+      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化上的慘痛教訓......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
       <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[麻煩，因為白宮在RPKI 上下了很大的賭注——就像我們都依賴於通常有效的不成熟的互聯網基礎設施 資源公鑰基礎設施(RPKI) 協議存在“軟體漏洞、規範不一致”以及運營挑戰”，三位德國研究人員在印前論文中指出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/rpki_immaturity_study/</guid>
       <pubDate>Wed, 02 Oct 2024 06:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI 聲稱腐敗的洛杉磯警察幫助加密貨幣執行長搶奪現金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</link>
-      <description><![CDATA[聯邦調查局講述了加密貨幣騙子、Facebook 詐騙、跑車、槍支、背叛…以及腿部延伸的驚心動魄的故事？逃稅和腐敗的警察和 Facebook 員工的離奇故事中的陰謀、被盜的數字現金以及涉嫌 3000 萬美元的騙局…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/fbi_zort_arrest/</guid>
-      <pubDate>Wed, 02 Oct 2024 05:19:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
