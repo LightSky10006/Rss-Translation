@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 08:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 09:37:21 GMT</lastBuildDate>
+    <item>
+      <title>英國人討厭大型科技公司處理他們數據的方式，但又懶得對此做太多事情</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/dsit_web_tracking_survey/</link>
+      <description><![CDATA[管理源源不絕的 Cookie 橫幅幾乎沒有精力做其他事情 不到五分之一的英國人表示對大型科技公司處理其個人資料的方式感到滿意，但最多的人會go 是拒絕網路上的可選cookie。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/dsit_web_tracking_survey/</guid>
+      <pubDate>Thu, 03 Oct 2024 09:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>大型超市ERP系統遷移發現庫存差異數千萬</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/asda_21m_discrepancy_erp/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[完成Copilot Vision - 但雷德蒙德堅持認為會話不會被存儲 微軟已經讓Windows 11 24H2 全面可用，並推出了一些新功能- 有些甚至是有用和有趣的-以及作為大量已知問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/windows_11_24h2/</guid>
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到希望的目標。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
-      <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
