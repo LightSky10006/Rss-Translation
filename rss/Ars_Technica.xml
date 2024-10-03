@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ars Technica - 所有內容</title>
+    <title>技術藝術</title>
     <link>https://arstechnica.com</link>
-    <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 03 Oct 2024 19:10:02 GMT</lastBuildDate>
+    <description>為技術專家服務十多年。 IT 新聞、評論和分析。</description>
+    <lastBuildDate>Thu, 03 Oct 2024 21:11:36 GMT</lastBuildDate>
+    <item>
+      <title>奇怪的「biotwang」被認為是布萊德的鯨魚叫聲</title>
+      <link>https://arstechnica.com/science/2024/10/strange-biotwang-idd-as-brydes-whale-call/</link>
+      <description><![CDATA[多物種機器學習模型可以深入了解新的鯨魚物種。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/strange-biotwang-idd-as-brydes-whale-call/</guid>
+      <pubDate>Thu, 03 Oct 2024 20:36:44 GMT</pubDate>
+    </item>
     <item>
       <title>螞蟻在大滅絕期間學會了種植真菌</title>
       <link>https://arstechnica.com/science/2024/10/ants-fungus-agriculture-traced-back-to-dinosaur-killing-impact/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 03 Oct 2024 17:34:09 GMT</pubDate>
     </item>
     <item>
-      <title>法官阻止加州深度造假法案後，馬斯克宣布獲勝</title>
+      <title>法官阻止加州深度造假法案後，馬斯克 (Elon Musk) 宣布勝訴</title>
       <link>https://arstechnica.com/tech-policy/2024/10/ai-doesnt-abolish-right-to-roast-govt-judge-blocking-calif-deepfake-law-says/</link>
       <description><![CDATA[惡搞影片創作者與馬斯克一起加入“戰爭”，阻止加州深度造假法案。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/ai-doesnt-abolish-right-to-roast-govt-judge-blocking-calif-deepfake-law-says/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 03 Oct 2024 16:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>當我們等待 Valve 的時候，Bazzite 是僅次於 SteamOS 的最佳產品</title>
+      <title>當我們等待 Valve 時，Bazzite 是 SteamOS 的下一個最好的東西</title>
       <link>https://arstechnica.com/gaming/2024/10/bazzite-is-a-wonderful-steamos-ish-port-for-lots-of-non-valve-handhelds/</link>
       <description><![CDATA[Bazzite 已經解決了驅動程式、輸入和更新問題，因此您可以直接玩遊戲。]]></description>
       <guid>https://arstechnica.com/gaming/2024/10/bazzite-is-a-wonderful-steamos-ish-port-for-lots-of-non-valve-handhelds/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>EVgo 獲得 1.05B 美元貸款用於建造 7,500 個直流快速充電器</title>
       <link>https://arstechnica.com/cars/2024/10/evgo-gets-1-05b-loan-to-build-7500-dc-fast-chargers/</link>
-      <description><![CDATA[EVgo 將專注於人們無法在家中充電的服務不足的社區。]]></description>
+      <description><![CDATA[EVgo 將專注於人們無法在家中充電的服務欠缺社區。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/evgo-gets-1-05b-loan-to-build-7500-dc-fast-chargers/</guid>
       <pubDate>Thu, 03 Oct 2024 15:16:19 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[訂閱者可以忍受當前的廣告負載，因此亞馬遜正在添加更多廣告。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/amazon-prime-video-is-getting-more-ads-next-year/</guid>
       <pubDate>Wed, 02 Oct 2024 22:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>攻擊者使用抄送的電子郵件地址利用嚴重的 Zimbra 漏洞</title>
-      <link>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</link>
-      <description><![CDATA[成功後，攻擊會安裝後門。讓它可靠地工作是另一回事。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/</guid>
-      <pubDate>Wed, 02 Oct 2024 21:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
