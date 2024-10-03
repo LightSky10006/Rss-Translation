@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 23:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 23:35:48 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 擊敗了專利流氓，以至於基本上放棄了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/</link>
+      <description><![CDATA[網路巨頭中飽私囊22.5 萬美元，敵人承諾停止起訴並放棄IP Cloudflare 週四慶祝了對Sable Networks 的勝利，前者將Sable Networks 描述為「專利流氓」…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/</guid>
+      <pubDate>Thu, 03 Oct 2024 23:10:06 GMT</pubDate>
+    </item>
     <item>
       <title>多年來，騙子們一直在透過假 iPhone 退貨欺騙蘋果公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/counterfeit_iphone_scammers_prison/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>告別微軟因 Windows 11 24H2 而放棄的科技夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</link>
-      <description><![CDATA[那是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[這是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</guid>
       <pubDate>Thu, 03 Oct 2024 19:01:35 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
+      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
       <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[2025 版將於11 月1 日發布，並添加各種現代功能 微軟透露，其System Center 管理工具2025 版將於11 月1 日首次亮相，價格比其定價高出10%對於它的前身......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</guid>
       <pubDate>Thu, 03 Oct 2024 05:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>“難以消化的變化率”讓供應商超級集團創建“人工智能的開放計算”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</link>
-      <description><![CDATA[它被稱為“Cosmos”，Nvidia、Cisco、X、SuperMicro 和VAST Data 都認為這會對他們和您有所幫助 一群頂級企業供應商認為AI 變化如此之快，“對許多人來說“難以消化”，所以他們創建了一個組織，希望能像開放計算項目一樣運作，這樣你就不會用它來吃飯了。...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</guid>
-      <pubDate>Thu, 03 Oct 2024 04:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
