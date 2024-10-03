@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 05:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 06:43:57 GMT</lastBuildDate>
+    <item>
+      <title>富士通、Supermicro、基於 Arm 的伺服器團隊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro/</link>
+      <description><![CDATA[MONAKA 處理器將於2027 年應用於液冷機架規模硬體 富士通週三宣布與Supermicro 合作，基於這家日本巨頭即將推出的基於Arm 的MONAKA 處理器構建液冷伺服器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro/</guid>
+      <pubDate>Thu, 03 Oct 2024 06:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>微軟將 System Center 的價格提高百分之十</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[攻擊在公開披露後的第二天就開始了 「昨天打補丁」是資訊安全研究人員的建議，因為影響Zimbra 郵件伺服器的最新關鍵漏洞現在正在被大規模利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/mass_exploitation_of_zimbra_rce/</guid>
       <pubDate>Wed, 02 Oct 2024 10:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的法庭文件指控甲骨文創造“隱藏”在“合約”中的選項“迷宮”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</link>
-      <description><![CDATA[Big Red 稱指控毫無根據，希望駁回案件 甲骨文面臨集體訴訟，指控其未能兌現承諾，其中包括一項新指控，稱其“混淆”了繁重的合同條款“隱藏”檔案...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/oracle_netsuite_lawsuit/</guid>
-      <pubDate>Wed, 02 Oct 2024 09:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
