@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 17:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:16:45 GMT</lastBuildDate>
+    <item>
+      <title>確實，社群媒體管理員確實在追隨保守派</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/social_media_conservative_moderation/</link>
+      <description><![CDATA[因為這是最有可能在網路上分享錯誤訊息的群體 自從伊隆馬斯克(Elon Musk) 近兩年前收購Twitter（他試圖退出這項價值440 億美元的收購）以來，這位大亨一直在推動一種敘事，即適度地該微博網站不成比例地針對保守派、自由主義者和特朗普支持者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/social_media_conservative_moderation/</guid>
+      <pubDate>Thu, 03 Oct 2024 17:44:24 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌擴展視覺、音頻搜索，讓人工智慧處理佈局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/google_expands_visual_audio_search/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
+      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
       <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
-      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以檢查一下？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
+      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以看看？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</guid>
       <pubDate>Thu, 03 Oct 2024 02:30:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[由於安全問題，十一個團夥中只剩下兩個人 Anthropic 又聘請了OpenAI 的另一位創始人，這一次讓Durk Kingma 擔任一個未指定的角色。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/anthropic_hires_openai_founder_durk_kingma/</guid>
       <pubDate>Wed, 02 Oct 2024 23:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
-      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其努力向競爭對手WP Engine 施壓以簽署協議的詳細資訊商標許可協議耗資數百萬美元......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
-      <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
