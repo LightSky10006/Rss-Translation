@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 03:41:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 04:42:38 GMT</lastBuildDate>
+    <item>
+      <title>“難以消化的變化率”讓供應商超級集團創建“人工智能的開放計算”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</link>
+      <description><![CDATA[它被稱為“Cosmos”，Nvidia、Cisco、X、SuperMicro 和VAST Data 都認為這會對他們和您有所幫助 一群頂級企業供應商認為AI 變化如此之快，“對許多人來說“難以消化”，所以他們創建了一個組織，希望能像開放計算項目一樣運作，這樣你就不會用它來吃飯了。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</guid>
+      <pubDate>Thu, 03 Oct 2024 04:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Isambard 3 和 AI 兄弟將接過火炬 英國的 Isambard 2 是早期基於 Arm 的超級電腦之一，在運行了幾年後就正式退役了。它被更強大的 Isambard 3 和 Isambard-AI 取代，就像英國超級計算進入資金不確定期一樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/isambard_2_retired/</guid>
       <pubDate>Wed, 02 Oct 2024 08:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代理將自己提升為系統管理員，破壞啟動順序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</link>
-      <description><![CDATA[有趣的實驗，但是，不要將LLM 原始數據導入到/bin/bash Buck Shlegeris，Redwood Research 的首席執行官，Redwood Research 是一家探索AI 帶來的風險的非營利組織，最近學到了一個有趣的知識但當他要求他的法學碩士支持的代理打開從他的筆記型電腦到他的台式機的安全連接時，自動化上的慘痛教訓......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/ai_agent_trashes_pc/</guid>
-      <pubDate>Wed, 02 Oct 2024 07:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
