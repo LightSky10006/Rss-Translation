@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 06:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 07:35:37 GMT</lastBuildDate>
+    <item>
+      <title>MongoDB 反駁其尚未為業務關鍵型工作負載做好準備的說法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/mongodb_business_critical_critics/</link>
+      <description><![CDATA[將久經沙場的系統轉變為文件模型- 您的技能和工具準備好了嗎？ ...&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/mongodb_business_critical_critics/</guid>
+      <pubDate>Thu, 03 Oct 2024 07:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>富士通、Supermicro、基於 Arm 的伺服器團隊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
-      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以檢查一下？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
+      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以看看？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</guid>
       <pubDate>Thu, 03 Oct 2024 02:30:15 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
-      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其努力向競爭對手WP Engine 施壓以簽署協議的詳細資訊商標許可協議耗資數百萬美元......]]></description>
+      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其向競爭對手WP Engine 施壓以簽署協議的詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
       <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 02 Oct 2024 15:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>微軟放棄 HoloLens 2</title>
+      <title>微軟對 WoloLens 2 認輸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</link>
       <description><![CDATA[五年的混合實境 - 現在只是心情複雜 微軟已經砍掉了 HoloLens 2 混合實境耳機，並且不會有硬體替代品，The Register 可以證實...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/microsoft_hololens_2_dead/</guid>
@@ -125,9 +132,9 @@
       <pubDate>Wed, 02 Oct 2024 13:16:32 GMT</pubDate>
     </item>
     <item>
-      <title>NIST 的安全缺陷資料庫仍積壓有超過 17K 個未處理的錯誤。不太好</title>
+      <title>NIST 的安全缺陷資料庫仍積壓有超過 17,000 個未處理的錯誤。不太好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</link>
-      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理待處理的積壓安全漏洞報告方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
+      <description><![CDATA[一位專家告訴我們，隨著美國機構超過了9 月份的最後期限，僵局「損害了全世界的資訊安全流程」 NIST 在清理積壓的安全漏洞報告處理方面取得了一些進展- 儘管還沒有完全完成達到預期目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/</guid>
       <pubDate>Wed, 02 Oct 2024 12:31:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在這就是我們喜歡的穩定性 Tcl/Tk 9.0 已轉向 Unicode 和 64 位元資料結構，現在可以像存取檔案系統一樣存取壓縮檔案。漫長的等待是值得的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/tcltk_version_9/</guid>
       <pubDate>Wed, 02 Oct 2024 11:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>「昨天的補丁」：Zimbra 郵件伺服器因 RCE 漏洞而受到圍攻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/mass_exploitation_of_zimbra_rce/</link>
-      <description><![CDATA[攻擊在公開披露後的第二天就開始了 「昨天打補丁」是資訊安全研究人員的建議，因為影響Zimbra 郵件伺服器的最新關鍵漏洞現在正在被大規模利用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/mass_exploitation_of_zimbra_rce/</guid>
-      <pubDate>Wed, 02 Oct 2024 10:50:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
