@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 16:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 17:11:58 GMT</lastBuildDate>
+    <item>
+      <title>谷歌擴展視覺、音頻搜索，讓人工智慧處理佈局</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/google_expands_visual_audio_search/</link>
+      <description><![CDATA[AI 概述獲取引用網站和廣告的連結 大約二十年前，Google當時新生的企業部門負責人將該公司的搜尋服務稱為「通往世界的超級命令列介面” ”...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/google_expands_visual_audio_search/</guid>
+      <pubDate>Thu, 03 Oct 2024 16:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>美國司法部和微軟查獲了俄羅斯 Star Blizzard 網路釣魚攻擊中使用的 107 個域名</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/russian_phishing_domains_seized/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
+      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
       <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 03 Oct 2024 05:30:21 GMT</pubDate>
     </item>
     <item>
-      <title>“難以消化的變化率”讓供應商超級集團創建“人工智能的開放計算”</title>
+      <title>“難以消化的變化速度”讓供應商超級集團創建了“人工智能的開放計算”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</link>
       <description><![CDATA[它被稱為“Cosmos”，Nvidia、Cisco、X、SuperMicro 和VAST Data 都認為這會對他們和您有所幫助 一群頂級企業供應商認為AI 變化如此之快，“對許多人來說“難以消化”，所以他們創建了一個組織，希望能像開放計算項目一樣運作，這樣你就不會用它來吃飯了。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/cosmos_ai_community_vast_data/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
-      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以看看？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
+      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以檢查一下？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</guid>
       <pubDate>Thu, 03 Oct 2024 02:30:15 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
-      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其向競爭對手WP Engine 施壓以簽署協議的詳細資訊。]]></description>
+      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其努力向競爭對手WP Engine 施壓以簽署協議的詳細資訊商標許可協議耗資數百萬美元......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
       <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>超過 70 萬個 DrayTek 路由器在網路上如魚得水，容易遭受遠端劫持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/draytek_routers_bugs/</link>
-      <description><![CDATA[發現了14 個嚴重的安全漏洞，這對間諜和騙子來說是一份多麼好的禮物 DrayTek Vigor 路由器中新發現了14 個漏洞，其中包括一個關鍵的遠程程式碼執行漏洞，滿分10 分，獲得滿分10 分CVSS 嚴重性評級 - 可能會被試圖奪取設備控制權的騙子濫用，然後竊取敏感資料、部署勒索軟體並發起拒絕服務攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/draytek_routers_bugs/</guid>
-      <pubDate>Wed, 02 Oct 2024 21:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
