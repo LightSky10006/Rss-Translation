@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 14:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 15:13:28 GMT</lastBuildDate>
+    <item>
+      <title>富士通與 Supermicro 合作開發以 Arm 為基礎的伺服器 CPU</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro1/</link>
+      <description><![CDATA[液體冷卻理念 富士通和伺服器製造商Supermicro 正在共同開發一個平台，該平台採用富士通即將推出的基於Arm 的高性能MONAKA 處理器以及液體冷卻系統。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro1/</guid>
+      <pubDate>Thu, 03 Oct 2024 14:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>北美 CISO 平均薪資現在為 56.5 萬美元，主要歸功於一個奇怪的技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/ciso_salary_survey/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
+      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
       <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>OpenStack Dalmatian 首次亮相，提供新的儀表板、更好的安全性和 GPU 處理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</link>
-      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以檢查一下？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
+      <description><![CDATA[如果您認為 VMware 已經陷入困境，也許可以看看？ OpenStack Dalmatian，開源雲端堆疊的第 30 版，已經走出了狗窩。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/openstack_dalmatian/</guid>
       <pubDate>Thu, 03 Oct 2024 02:30:15 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>WordPress 戰爭最新進展：Automattic 表示希望從 WP Engine 收入中抽出 8%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</link>
-      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其努力向競爭對手WP Engine 施壓以簽署協議的詳細資訊商標許可協議耗資數百萬美元......]]></description>
+      <description><![CDATA[我們猜測，商標使用費是強制支持開源的一種方式 已更新 WordPress 開發商Automattic 於週三公佈了其向競爭對手WP Engine 施壓以簽署協議的詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/automattic_wp_engine_wordpress_license/</guid>
       <pubDate>Wed, 02 Oct 2024 22:49:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不明技術問題現已解決 已更新 一些使用美國銀行應用程式監控帳戶的美國客戶週三早上感到震驚，因為他們的支票和儲蓄帳戶意外地空了或過時了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/bank_of_america_outage/</guid>
       <pubDate>Wed, 02 Oct 2024 19:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉痛斥股東指控 Autopilot 都是炒股謊言</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/02/tesla_defeats_shareholders_lawsuit/</link>
-      <description><![CDATA[做伊隆很容易 特斯拉成功說服加州法官駁回一項訴訟，該訴訟聲稱該汽車製造商在其全自動駕駛(FSD) 系統的真實功能方面誤導了股東。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/02/tesla_defeats_shareholders_lawsuit/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:02:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
