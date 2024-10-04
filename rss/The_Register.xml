@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 03 Oct 2024 23:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:57:53 GMT</lastBuildDate>
+    <item>
+      <title>監管機構警告稱，人工智慧的能源需求對於德州電網而言太大</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/texas_dc_power/</link>
+      <description><![CDATA[未來15 個月內上線的資料中心將需要至少提供一些自己的電力 俗話說，德州一切都更大，但隨著資料中心足跡在人工智慧熱潮中爆炸式成長，監管機構擔心，即使是孤星州的公用事業公司也無法維持更長時間。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/texas_dc_power/</guid>
+      <pubDate>Fri, 04 Oct 2024 00:06:11 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare 擊敗了專利流氓，以至於基本上放棄了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/patent_shakedown_fails_as_troll/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[將久經沙場的系統轉變為文件模型- 您的技能和工具準備好了嗎？ ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/mongodb_business_critical_critics/</guid>
       <pubDate>Thu, 03 Oct 2024 07:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟將 System Center 的價格提高百分之十</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</link>
-      <description><![CDATA[2025 版將於11 月1 日發布，並添加各種現代功能 微軟透露，其System Center 管理工具2025 版將於11 月1 日首次亮相，價格比其定價高出10%對於它的前身......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/system_center_2025_price_rise/</guid>
-      <pubDate>Thu, 03 Oct 2024 05:30:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
