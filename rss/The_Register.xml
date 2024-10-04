@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 04 Oct 2024 10:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 12:23:41 GMT</lastBuildDate>
+    <item>
+      <title>蘋果修復了讓 VoiceOver 喊出你的密碼的錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/apple_voiceover_password_bug/</link>
+      <description><![CDATA[iGiant 剛推出首款密碼管理器時，看起來不太好看 Apple 剛剛修復了iOS 18.0.1 和iPadOS 18.0.1 中的兩個安全漏洞，其中一個可能會導致使用者無法儲存需要大聲朗讀的密碼。對於視障人士來說，這並不是一個理想的情況。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/apple_voiceover_password_bug/</guid>
+      <pubDate>Fri, 04 Oct 2024 11:54:16 GMT</pubDate>
+    </item>
     <item>
       <title>ULA即將第二次發射火神半人馬座以尋求美國太空軍的批准</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/ula_vulcan_centaur_launch/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[手持遊戲機背後的發行版宣布企業贊助 Valve 正式贊助為遊戲巨頭 Steam Deck 遊戲機提供支援的 Linux 發行版。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/valve_sponsors_arch/</guid>
       <pubDate>Thu, 03 Oct 2024 15:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士通與 Supermicro 合作開發以 Arm 為基礎的伺服器 CPU</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro1/</link>
-      <description><![CDATA[液體冷卻理念 富士通和伺服器製造商Supermicro 正在共同開發一個平台，該平台採用富士通即將推出的基於Arm 的高性能MONAKA 處理器以及液體冷卻系統。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/fujitsu_arm_supermicro1/</guid>
-      <pubDate>Thu, 03 Oct 2024 14:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
