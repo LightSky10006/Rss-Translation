@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 04 Oct 2024 20:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 20:36:32 GMT</lastBuildDate>
+    <item>
+      <title>大約 25 萬康卡斯特用戶的資料從收債人那裡被盜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/comcast_fcbs_data_breach/</link>
+      <description><![CDATA[有線電視巨頭表示涉及勒索軟體，FBCS 保持沉默 康卡斯特表示，其237,703 名客戶的資料實際上是在對其使用的收債員的網路攻擊中被盜的，這與先前的保證相反它沒有受到該入侵的影響。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/comcast_fcbs_data_breach/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:13:14 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉 Cyber​​truck 再次召回。這次，軟體修復了倒車攝影機故障</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/tesla_cybertruck_recall/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</guid>
       <pubDate>Thu, 03 Oct 2024 19:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉巴馬州醫院網路攻擊中超過 61,000 名患者的敏感資料被獲取</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</link>
-      <description><![CDATA[入侵者在某些情況下仔細查看醫療記錄、保險詳細資料、社會安全號碼 阿拉巴馬州一家醫院正式通知超過61,000 名患者，他們的個人資料在2023 年10月的網路攻擊中被不法份子取得...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/alabama_hospital_cyberattack/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:14:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

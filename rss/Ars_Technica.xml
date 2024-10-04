@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 04 Oct 2024 20:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 20:36:14 GMT</lastBuildDate>
     <item>
-      <title>詐騙者用假 iPhone 冒充 Apple 進行 250 萬美元的維修騙局</title>
+      <title>《暗黑破壞神》中的《折磨大廳》的殺戮次數高達 50,000 次/小時</title>
+      <link>https://arstechnica.com/gaming/2024/10/halls-of-torment-is-diablo-cranked-up-to-50000-kills-hour/</link>
+      <description><![CDATA[有時，你只想盡快殺死大量骷髏。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/halls-of-torment-is-diablo-cranked-up-to-50000-kills-hour/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPad 不再變磚：Apple 修復了 iOS、iPadOS、macOS 更新中的多個錯誤</title>
+      <link>https://arstechnica.com/gadgets/2024/10/no-more-bricked-ipads-apple-fixes-several-bugs-in-ios-ipados-macos-updates/</link>
+      <description><![CDATA[蘋果聲稱它修復了導致 M4 iPad 變磚的嚴重錯誤。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/no-more-bricked-ipads-apple-fixes-several-bugs-in-ios-ipados-macos-updates/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULA 的第二枚火神火箭失去了部分助推器並繼續飛行</title>
+      <link>https://arstechnica.com/space/2024/10/ulas-second-vulcan-rocket-lost-part-of-its-booster-and-kept-going/</link>
+      <description><![CDATA[美國太空部隊表示，這次試飛對於驗證火神號執行軍事任務至關重要。]]></description>
+      <guid>https://arstechnica.com/space/2024/10/ulas-second-vulcan-rocket-lost-part-of-its-booster-and-kept-going/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 的 Canvas 只需點擊一下即可在語言之間翻譯程式碼</title>
+      <link>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</link>
+      <description><![CDATA[新的並排文件和程式碼編輯功能趕上了 Anthropic 的 Artifacts。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果無法分辨真假 iPhone，詐騙者損失了 250 萬美元</title>
       <link>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</link>
       <description><![CDATA[維修計畫促使蘋果用真機更換了 6K 假 iPhone。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[伊隆馬斯克將 Twitter 併入 X 並沒有免除 X 的兒童安全罰款。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/x-loses-appeal-of-400k-australia-child-safety-fine-now-faces-more-fines/</guid>
       <pubDate>Fri, 04 Oct 2024 17:19:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google飾演達斯維達：iA Writer 為何退出 Android 應用程式市場</title>
-      <link>https://arstechnica.com/gadgets/2024/10/ia-pulls-its-writer-app-from-android-citing-red-tape-piracy-and-review-spam/</link>
-      <description><![CDATA[七年 Android 開發過程中的一封非常開放的告別信。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/ia-pulls-its-writer-app-from-android-citing-red-tape-piracy-and-review-spam/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>現代 Ioniq 5 將成為下一個 Waymo 機器人出租車</title>
-      <link>https://arstechnica.com/cars/2024/10/the-hyundai-ioniq-5-will-be-the-next-waymo-robotaxi/</link>
-      <description><![CDATA[兩家公司表示，這應該是眾多合作的第一步。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/the-hyundai-ioniq-5-will-be-the-next-waymo-robotaxi/</guid>
-      <pubDate>Fri, 04 Oct 2024 15:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星更新故障，導致 Galaxy 手機變磚的用戶幾乎沒有選擇</title>
-      <link>https://arstechnica.com/gadgets/2024/10/samsung-update-bricks-phones-giving-harsh-reminder-of-data-backup-importance/</link>
-      <description><![CDATA[“我真的非常想要我的照片。”]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/samsung-update-bricks-phones-giving-harsh-reminder-of-data-backup-importance/</guid>
-      <pubDate>Fri, 04 Oct 2024 14:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>為什麼巨魔、極端分子和其他人會傳播他們不相信的陰謀論</title>
-      <link>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</link>
-      <description><![CDATA[有些人只是想煽動衝突、製造混亂，甚至只是想引起注意。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</guid>
-      <pubDate>Fri, 04 Oct 2024 13:53:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
