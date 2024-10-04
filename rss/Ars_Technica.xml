@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>技術藝術</title>
+    <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
-    <description>為技術專家服務十多年。 IT 新聞、評論和分析。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 13:22:53 GMT</lastBuildDate>
+    <description>所有 Ars Technica 故事</description>
+    <lastBuildDate>Fri, 04 Oct 2024 14:12:25 GMT</lastBuildDate>
+    <item>
+      <title>為什麼巨魔、極端分子和其他人會傳播他們不相信的陰謀論</title>
+      <link>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</link>
+      <description><![CDATA[有些人只是想煽動衝突、製造混亂，甚至只是想引起注意。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</guid>
+      <pubDate>Fri, 04 Oct 2024 13:53:42 GMT</pubDate>
+    </item>
     <item>
       <title>火箭報告：獵鷹 9 號第二級故障；日本火箭接近尾聲</title>
       <link>https://arstechnica.com/space/2024/10/rocket-report-ula-supremely-confident-in-vulcan-impulse-space-rakes-it-in/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[模仿影片創作者與馬斯克一起加入“戰爭”，阻止加州深度造假法案。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/ai-doesnt-abolish-right-to-roast-govt-judge-blocking-calif-deepfake-law-says/</guid>
       <pubDate>Thu, 03 Oct 2024 17:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>ULA 並未放棄開發長壽命低溫太空拖船</title>
-      <link>https://arstechnica.com/space/2024/10/ulas-second-vulcan-launch-will-pave-the-way-for-military-certification/</link>
-      <description><![CDATA[在周五的發射中，聯合發射聯盟將測試其半人馬座上級的極限。]]></description>
-      <guid>https://arstechnica.com/space/2024/10/ulas-second-vulcan-launch-will-pave-the-way-for-military-certification/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:40:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
