@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 04 Oct 2024 16:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 16:44:00 GMT</lastBuildDate>
+    <item>
+      <title>法院規定 Meta 不能在歐盟使用性取向來定位廣告</title>
+      <link>https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/</link>
+      <description><![CDATA[隱私權活動人士 Max Schrems 贏得了另一場針對 Meta 的法律訴訟，這次限制了該公司如何利用平台外活動和公開聲明來定位廣告。]]></description>
+      <guid>https://www.wired.com/story/meta-cant-use-sexual-orientation-to-target-ads-in-the-eu-court-rules/</guid>
+      <pubDate>Fri, 04 Oct 2024 16:27:35 GMT</pubDate>
+    </item>
     <item>
       <title>黑名單顛覆了電影產業。圖書世界是下一個</title>
       <link>https://www.wired.com/story/dial-up-franklin-leonard-the-black-list/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這台機器已經有十年沒有使用了——揭露該機器缺陷的駭客表示，他有信心今年的選舉能夠順利進行。]]></description>
       <guid>https://www.wired.com/story/trump-supporters-hacking-voting-machine/</guid>
       <pubDate>Thu, 03 Oct 2024 17:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 ChatGPT 突破常規，進入畫布</title>
-      <link>https://www.wired.com/story/chatgpt-canvas-openai/</link>
-      <description><![CDATA[ChatGPT 的新畫布介面可以建議改進寫作和程式碼以及進行內聯更改。]]></description>
-      <guid>https://www.wired.com/story/chatgpt-canvas-openai/</guid>
-      <pubDate>Thu, 03 Oct 2024 17:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
