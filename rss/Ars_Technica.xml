@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 04 Oct 2024 18:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 20:13:18 GMT</lastBuildDate>
+    <item>
+      <title>詐騙者用假 iPhone 冒充 Apple 進行 250 萬美元的維修騙局</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</link>
+      <description><![CDATA[維修計畫促使蘋果用真機更換了 6K 假 iPhone。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智慧模型越複雜，說謊的可能性就越大</title>
+      <link>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</link>
+      <description><![CDATA[人類回饋訓練可能會激勵提供任何答案，甚至是錯誤的答案。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>卸載了副駕駛？微軟將允許你重新編程鍵盤的副駕駛鍵</title>
+      <link>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</link>
+      <description><![CDATA[在最新的 Windows Insider Preview 版本中，Copilot 鍵成為「任意」鍵。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta的新“Movie Gen”人工智慧系統可以從單張照片中深度偽造視頻</title>
+      <link>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</link>
+      <description><![CDATA[未來，真實的影片偽造變得容易且大量，這似乎是不可避免的。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>新柯伊伯帶天體潛藏的距離比我們想像的更遠</title>
+      <link>https://arstechnica.com/science/2024/10/new-kuiper-belt-objects-lurk-farther-away-than-we-ever-thought/</link>
+      <description><![CDATA[地球的柯伊伯帶似乎比我們想像的要大得多。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/new-kuiper-belt-objects-lurk-farther-away-than-we-ever-thought/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>X 辯稱 Twitter 不存在，未能避免澳洲兒童安全罰款</title>
       <link>https://arstechnica.com/tech-policy/2024/10/x-loses-appeal-of-400k-australia-child-safety-fine-now-faces-more-fines/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[有些人只是想煽動衝突、製造混亂，甚至只是想引起注意。]]></description>
       <guid>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</guid>
       <pubDate>Fri, 04 Oct 2024 13:53:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報告：獵鷹 9 號第二級故障；日本火箭接近尾聲</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-ula-supremely-confident-in-vulcan-impulse-space-rakes-it-in/</link>
-      <description><![CDATA[“我非常有信心週五會度過美好的一天。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-ula-supremely-confident-in-vulcan-impulse-space-rakes-it-in/</guid>
-      <pubDate>Fri, 04 Oct 2024 11:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 2021 年以來，數千個 Linux 系統感染了隱形惡意軟體</title>
-      <link>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</link>
-      <description><![CDATA[Perfctl 保持安裝且不被發現的能力使其難以對抗。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>前縣書記官蒂娜彼得斯因違反投票系統被判 9 年徒刑</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</link>
-      <description><![CDATA[法官稱蒂娜·彼得斯為江湖騙子，並表示「監獄是她唯一的地方」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</guid>
-      <pubDate>Thu, 03 Oct 2024 22:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>乳製品迅速傳播，加州確診 H5N1 人類病例</title>
-      <link>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</link>
-      <description><![CDATA[CDC 確認了兩例新的禽流感病例，使人類病例總數達到 17 例。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automattic 要求網站主機每年為使用 WordPress 商標支付 3,200 萬美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/automattic-demanded-web-host-pay-32m-annually-for-using-wordpress-trademark/</link>
-      <description><![CDATA[Automattic 創辦人 Matt Mullenweg 稱 WP Engine 是「WordPress 的癌症」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/automattic-demanded-web-host-pay-32m-annually-for-using-wordpress-trademark/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:17:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
