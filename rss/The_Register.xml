@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 04 Oct 2024 13:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 15:37:32 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 指責“meme-stock”競爭對手就星鏈訊號豁免提供“錯誤訊息”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/spacex_ast_spacemobile_dispute/</link>
+      <description><![CDATA[AST SpaceMobile 合作夥伴“為他們的反對派提供零技術支援”，致FCC 的信激怒了 提供衛星電話連接的競爭變得越來越激烈，SpaceX 指責AST SpaceMobile 進行假訊息宣傳。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/spacex_ast_spacemobile_dispute/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:33:22 GMT</pubDate>
+    </item>
     <item>
       <title>TSMC 和 Amkor 聯手將先進封裝引進美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/tsmc_amkor_arizona/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>告別微軟因 Windows 11 24H2 而放棄的科技夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</link>
-      <description><![CDATA[那是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[這是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</guid>
       <pubDate>Thu, 03 Oct 2024 19:01:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[AI 概述獲取引用網站和廣告的連結 大約二十年前，Google當時新生的企業部門負責人將該公司的搜尋服務稱為「通往世界的超級命令列介面” ”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/google_expands_visual_audio_search/</guid>
       <pubDate>Thu, 03 Oct 2024 16:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國司法部和微軟查獲了俄羅斯 Star Blizzard 網路釣魚攻擊中使用的 107 個域名</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/russian_phishing_domains_seized/</link>
-      <description><![CDATA[冬天來了 美國司法部和微軟查獲了俄羅斯網絡間諜在網絡釣魚活動中使用的107 個網站，目的是從美國政府機構、智庫和其他受害者那裡竊取敏感信息。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/russian_phishing_domains_seized/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
