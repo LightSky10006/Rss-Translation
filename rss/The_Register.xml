@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 04 Oct 2024 06:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 06:44:59 GMT</lastBuildDate>
+    <item>
+      <title>哈佛二人組破解 Meta Ray-Ban 眼鏡，在幾秒鐘內對陌生人進行人肉搜索</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/</link>
+      <description><![CDATA[「你可以在幾天內構建這個- 即使作為一個非常天真的開發人員」 一對富有創造力的哈佛大學本科生已經創建了他們認為可能是有史以來最具侵入性的設備之一 -他們告訴 The Register，這為全世界在人工智慧時代認真對待隱私敲響了警鐘。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/</guid>
+      <pubDate>Fri, 04 Oct 2024 06:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌雲端幫助印度出口其數位公共基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/google_assists_to_export_indias/</link>
-      <description><![CDATA[捆綁免費的政府應用程式來幫助數位外交- 也許還能找到一些新客戶 Google Cloud 將幫助印度傳播其數位公共基礎設施- 它提供的旨在幫助其他國家的政府應用程式套件- 透過「DPI in a box」工具的開發。]]></description>
+      <description><![CDATA[捆綁免費的政府應用程式來幫助數位外交- 或許還能找到一些新客戶 Google Cloud 將幫助印度傳播其數位公共基礎設施- 它提供的用於幫助其他國家的政府應用程式套件- 透過「DPI in a box」工具的開發......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/google_assists_to_export_indias/</guid>
       <pubDate>Fri, 04 Oct 2024 05:59:05 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>約翰迪爾被指其修復權承諾充滿糞便</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/john_deere_repair_restrictions_warren/</link>
-      <description><![CDATA[參議員表示，拖拉機製造商只交出了偽劣工具、半生不熟的信息，可能違反了法律 美國參議員伊麗莎白·沃倫(D-MA) 已致函首席執行官約翰梅農業設備製造商迪爾公司公司質疑約翰迪爾是否兌現了支持維修權的承諾。]]></description>
+      <description><![CDATA[參議員表示，拖拉機製造商只交出了偽劣工具、半生不熟的信息，可能違反了法律 美國參議員伊麗莎白·沃倫(D-MA) 已致函首席執行官約翰梅農業設備製造商迪爾公司公司質疑約翰迪爾是否履行了支持維修權的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/john_deere_repair_restrictions_warren/</guid>
       <pubDate>Thu, 03 Oct 2024 20:54:48 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>NASA 關閉 Voyager 2 等離子體儀器以拉伸果汁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/voyager_2_plasma_instrument/</link>
-      <description><![CDATA[老牌探測器將在繼續科學研究的同時獲得半個世紀的時間 工程師們關閉了航海者2 號的等離子體科學儀器，以努力彌補老牌探測器日益減少的電力供應。]]></description>
+      <description><![CDATA[老牌探測器將在繼續科學研究的同時獲得半個世紀的成績 工程師們關閉了航行者2 號的等離子體科學儀器，以努力彌補老牌探測器日益減少的電力供應。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/voyager_2_plasma_instrument/</guid>
       <pubDate>Thu, 03 Oct 2024 11:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>《冰山》實力強勁：表格格式之戰進入最終章了嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</link>
-      <description><![CDATA[前Apple 工程師和Apache PMC 成員Russell Spitzer 介紹了圍繞單一格式進行聯合的努力 採訪 6 月份，Databricks 斥資10 億美元收購了Tabular，這是一家新創公司的支持者。這一舉動震驚了 Iceberg 社區。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/apache_iceberg_russell_spitzer_interview/</guid>
-      <pubDate>Thu, 03 Oct 2024 11:01:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
