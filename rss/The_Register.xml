@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 04 Oct 2024 08:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 10:14:09 GMT</lastBuildDate>
+    <item>
+      <title>Office 2024 針對 Microsoft 365 拒絕者推出</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/office_2024/</link>
+      <description><![CDATA[針對必須在家工作的 IT 專業人員 Microsoft Office 2024 的長期服務管道 (LTSC) 版本即將推出針對希望避免付費的消費者和小型企業的版本訂閱費...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/office_2024/</guid>
+      <pubDate>Fri, 04 Oct 2024 10:10:29 GMT</pubDate>
+    </item>
     <item>
       <title>Busybox 1.37 雖小但功能強大，就像我們喜歡的 Linux 工具一樣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/busybox_137/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>告別微軟因 Windows 11 24H2 而放棄的科技夢想</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</link>
-      <description><![CDATA[這是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[那是混合實境耳機，還是只是一個複雜的紙鎮？哦，再見了寫字板 隨著Windows 11 24H2 的發布，是時候向微軟旗艦操作系統中刪除的特性和功能表示敬意了。 -- #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/whats_gone_from_windows_11/</guid>
       <pubDate>Thu, 03 Oct 2024 19:01:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[提高薪資的最佳方式是離開，或假裝離開 一項針對美國和加拿大近700 名CISO 的調查發現，他們的薪酬在過去一年中平均上漲至565,000 美元，且中位數為 403,000 美元，其中前 10% 的高階主管收入超過 100 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/ciso_salary_survey/</guid>
       <pubDate>Thu, 03 Oct 2024 14:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Submer 投入 5,550 萬美元資金，為熱血沸騰的 AI 資料中心降溫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/03/submer_liquid_cooling_funding/</link>
-      <description><![CDATA[科技對水和能源的消耗推動了人們對液體冷卻的興趣 冷卻專家Submer 在新一輪融資中獲得了5550 萬美元，以推動擴張，並宣傳其技術是更永續的資料中心運作方式的一部分– 人工智慧時代迫切需要的東西......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/03/submer_liquid_cooling_funding/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:35:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
