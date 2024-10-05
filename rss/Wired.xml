@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 05 Oct 2024 13:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 13:35:34 GMT</lastBuildDate>
+    <item>
+      <title>隱形惡意軟體多年來已感染數千個 Linux 系統</title>
+      <link>https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/</link>
+      <description><![CDATA[Perfctl 惡意軟體很難偵測，重新啟動後仍然存在，並且可以執行各種惡意活動。]]></description>
+      <guid>https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/</guid>
+      <pubDate>Sat, 05 Oct 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>經過最佳測試的 Apple 三合一無線充電器（2024 年）</title>
       <link>https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[透過這些連接的顯示器，將您的照片從手機上呈現在您的朋友和家人面前。]]></description>
       <guid>https://www.wired.com/gallery/best-digital-picture-frames/</guid>
       <pubDate>Fri, 04 Oct 2024 14:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜的 Fire 平板電腦經過測試，因此您不必這樣做 (2024)</title>
-      <link>https://www.wired.com/gallery/best-amazon-fire-tablet/</link>
-      <description><![CDATA[無論您需要一款適合旅行的平板電腦還是適合孩子的價格實惠的平板電腦，我們都測試了每種型號，以找到適合每種場合的合適產品。]]></description>
-      <guid>https://www.wired.com/gallery/best-amazon-fire-tablet/</guid>
-      <pubDate>Fri, 04 Oct 2024 14:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
