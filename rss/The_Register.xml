@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 17:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 18:19:26 GMT</lastBuildDate>
+    <item>
+      <title>量子運算夢想家面臨股市現實檢驗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/quantum_firms_risk_being_delisted/</link>
+      <description><![CDATA[人工智慧搶盡風頭，D-Wave 和Rigetti 跌破1 美元 市場逐漸認識到量子生態系統的嚴酷現實，兩家著名的量子供應商承認，在股價下跌後，他們面臨被摘牌的風險低於 1 美元大關…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/quantum_firms_risk_being_delisted/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，中國網路間諜入侵了 Verizon、AT&T、Lumen</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 07 Oct 2024 17:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>不要急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是正確的</title>
+      <title>你不急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是對的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</link>
       <description><![CDATA[他們在單一盒子中投入的風險比我們大多數人能夠承受的還要多 觀點 英特爾最近預告了一款128 核Granite Rapids Xeon 6 處理器，而您的謙虛禿鷹認為你可以忽略它們——事實上，忽略它們可能是你最安全的做法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>Windows 11 遷移？升級引擎加速，企業別無選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</link>
-      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計數據感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數以百萬計」的設備仍在運行 Windows 10，這種熱潮仍在繼續。]]></description>
+      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計數據感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數百萬」設備仍在運行 Windows 10，搶購潮仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</guid>
       <pubDate>Mon, 07 Oct 2024 13:29:09 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>三和沃達豐：我們需要合併，因為我們的網路很垃圾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_vodafone_merger/</link>
-      <description><![CDATA[文件聲稱，在 3G 關閉後，某些地方的 Voda 用戶必須重新使用 2G 沃達豐和 Three UK 正在拼命說服英國競爭監管機構批准他們的合併，甚至詆毀他們自己的網絡服務- 至少在某些地區- 已經過時了。]]></description>
+      <description><![CDATA[文件聲稱，在 3G 關閉後，某些地方的 Voda 用戶必須重新使用 2G Vodafone 和 Three UK 正在拼命說服英國競爭監管機構批准他們的合併，甚至詆毀他們自己的網絡服務——至少在某些地區——已經過時了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_vodafone_merger/</guid>
       <pubDate>Mon, 07 Oct 2024 11:14:41 GMT</pubDate>
     </item>
     <item>
-      <title>Xfce 4.20 逐漸支援 Wayland，而 Mint 22.1 則完善了桌面例程</title>
+      <title>Xfce 4.20 逐步支援 Wayland，而 Mint 22.1 則完善了桌面例程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</link>
-      <description><![CDATA[一些應該為節日做好準備的 FOSS 好東西 Xfce 的下一個版本，最古老的 FOSS Unix 桌面環境，即將準備就緒 - 並且應該具有初步的“最低限度可用”韋蘭支持。]]></description>
+      <description><![CDATA[一些應該為節日做好準備的 FOSS 好東西 Xfce 的下一個版本（最古老的 FOSS Unix 桌面環境）即將準備就緒，並且應該具有初步的“最低限度可用”韋蘭支持。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</guid>
       <pubDate>Mon, 07 Oct 2024 09:32:05 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>如果戴爾採用高通技術的 Copilot+ PC 是該類型的典型，那麼其他 PC 就完蛋了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</link>
-      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。採用高通Snapdragon Elite X 技術的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
+      <description><![CDATA[儘管電池續航時間驚人且速度快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的 30 年來，它們始終讓我擔心電池壽命。由高通Snapdragon Elite X 提供支援的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</guid>
       <pubDate>Mon, 07 Oct 2024 05:35:11 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>瑞安航空因客戶身分檢查而面臨 GDPR 動盪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/05/irish_dpc_ryanair_probe/</link>
-      <description><![CDATA[愛爾蘭資料監管機構在「大量投訴」後展開調查 愛爾蘭資料保護委員會(DPC) 已對瑞安航空透過第三方網站或線上旅行社預訂航班的旅客的客戶驗證流程展開調查（ OTA).... ]]></description>
+      <description><![CDATA[愛爾蘭資料監管機構在「大量投訴」後展開調查 愛爾蘭資料保護委員會(DPC) 已對瑞安航空透過第三方網站或線上旅行社預訂航班的旅客的客戶驗證流程展開調查( OTA).... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/05/irish_dpc_ryanair_probe/</guid>
       <pubDate>Sat, 05 Oct 2024 09:31:10 GMT</pubDate>
     </item>
     <item>
       <title>一台可以工作的圖靈機撞擊了樂高創意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/05/lego_ideas_turing_machine/</link>
-      <description><![CDATA[它現在正在尋求10,000 名支持者進行專家評審 一台工作圖靈機已提交給Lego Ideas，由大約2,900 個零件和一桶極其聰明的零件組成。 /p&gt;]]></description>
+      <description><![CDATA[它現在正在尋求10,000 名支持者進行專家評審 一台工作圖靈機已提交給Lego Ideas，它由大約2,900 個零件和大量極其聰明的零件組成。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/05/lego_ideas_turing_machine/</guid>
       <pubDate>Sat, 05 Oct 2024 08:45:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[放射性危害和網路故障......可能會出現什麼問題？美元）監管 (ONR) 因其在 2019 年至 2023 年間的劣質網路安全實踐。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/05/sellafield_nuclear_site_fined/</guid>
       <pubDate>Sat, 05 Oct 2024 06:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>159 位 Automattic 員工因 WP Engine 不和接受遣散費並辭職</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/automattic_offers_dissident_employees_incentive/</link>
-      <description><![CDATA[WordPress 掌門人Mullenweg 向邱吉爾表示：永遠不要浪費一場好的危機 WordPress 業務Automattic 的執行長兼開源軟體的共同創建者Matthew Mullenweg 表示，在危機發生後他感覺「輕鬆多了」在他試圖向 WP Engine 施壓，要求其競爭對手使用多年的商標獲得許可後，159 名員工離職，此舉頗受爭議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/automattic_offers_dissident_employees_incentive/</guid>
-      <pubDate>Fri, 04 Oct 2024 22:42:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
