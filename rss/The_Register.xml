@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 16:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 16:43:11 GMT</lastBuildDate>
+    <item>
+      <title>不要急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是正確的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</link>
+      <description><![CDATA[他們在單一盒子中投入的風險比我們大多數人能夠承受的還要多 觀點 英特爾最近預告了一款128 核Granite Rapids Xeon 6 處理器，而您的謙虛禿鷹認為你可以忽略它們——事實上，忽略它們可能是你最安全的做法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</guid>
+      <pubDate>Mon, 07 Oct 2024 16:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>隨著貿易戰愈演愈烈，全球半導體銷售額成長 20.6%，達到創紀錄的 $53.1B</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/semiconductor_sales_surge/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Windows 11 遷移？升級引擎加速，企業別無選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</link>
-      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計資料感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數百萬」設備仍在運行 Windows 10，搶購潮仍在繼續。]]></description>
+      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計數據感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數以百萬計」的設備仍在運行 Windows 10，這種熱潮仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</guid>
       <pubDate>Mon, 07 Oct 2024 13:29:09 GMT</pubDate>
     </item>
@@ -56,9 +63,9 @@
     </item>
     <item>
       <title>三和沃達豐：我們需要合併，因為我們的網路很垃圾</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_and_vodafone_we_need/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_vodafone_merger/</link>
       <description><![CDATA[文件聲稱，在 3G 關閉後，某些地方的 Voda 用戶必須重新使用 2G 沃達豐和 Three UK 正在拼命說服英國競爭監管機構批准他們的合併，甚至詆毀他們自己的網絡服務- 至少在某些地區- 已經過時了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_and_vodafone_we_need/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_vodafone_merger/</guid>
       <pubDate>Mon, 07 Oct 2024 11:14:41 GMT</pubDate>
     </item>
     <item>
@@ -85,7 +92,7 @@
     <item>
       <title>如果戴爾採用高通技術的 Copilot+ PC 是該類型的典型，那麼其他 PC 就完蛋了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</link>
-      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。由高通Snapdragon Elite X 提供支援的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
+      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。採用高通Snapdragon Elite X 技術的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</guid>
       <pubDate>Mon, 07 Oct 2024 05:35:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有線電視巨頭稱涉及勒索軟體，FBCS 保持沉默 康卡斯特表示，其237,703 名客戶的資料實際上是在對其使用的收債員的網路攻擊中被盜的，這與先前的保證相反它沒有受到該入侵的影響。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/</guid>
       <pubDate>Fri, 04 Oct 2024 20:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉 Cyber​​truck 再次召回。這次，軟體修復了倒車攝影機故障</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/tesla_cybertruck_recall/</link>
-      <description><![CDATA[10 秒後埃隆將此事歸咎於卡瑪拉或其他什麼 特斯拉已經提交了另一次Cyber​​truck 安全召回，這次是因為其倒車攝像頭的問題- 考慮到笨重車輛幾乎無法使用後視鏡，這是一個基本功能鏡子…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/tesla_cybertruck_recall/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
