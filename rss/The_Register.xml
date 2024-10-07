@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 11:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 12:24:35 GMT</lastBuildDate>
+    <item>
+      <title>易於利用大規模 DDoS 攻擊的「關鍵」CUPS 漏洞鏈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/critical_cups_vulnerability_chain_easy/</link>
+      <description><![CDATA[此外，支援俄羅斯網路犯罪分子、新的DDoS 記錄、狡猾的Linux 伺服器惡意軟體等等 資訊安全簡介 通用Unix 列印系統(CUPS) 中的嚴重漏洞上週報告的漏洞可能需要一些非常特殊的情況才能利用，但 Akamai 研究人員警告說，同樣的漏洞很容易被利用進行大規模 DDoS 攻擊。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/critical_cups_vulnerability_chain_easy/</guid>
+      <pubDate>Mon, 07 Oct 2024 11:49:22 GMT</pubDate>
+    </item>
     <item>
       <title>三和沃達豐：我們需要合併，因為我們的網路很垃圾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_and_vodafone_we_need/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>如果戴爾採用高通技術的 Copilot+ PC 是該類型的典型，那麼其他 PC 就完蛋了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</link>
-      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。由高通Snapdragon Elite X 提供支援的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
+      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。採用高通Snapdragon Elite X 技術的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</guid>
       <pubDate>Mon, 07 Oct 2024 05:35:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[針對必須在家工作的 IT 專業人員 Microsoft Office 2024 的長期服務管道 (LTSC) 版本即將推出針對希望避免付費的消費者和小型企業的版本訂閱費...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/office_2024/</guid>
       <pubDate>Fri, 04 Oct 2024 10:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Busybox 1.37 雖小但功能強大，就像我們喜歡的 Linux 工具一樣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/busybox_137/</link>
-      <description><![CDATA[自稱為嵌入式Linux 瑞士軍刀，行動緩慢，並在最新版本中修復了一些問題 Busybox 很小，不引人注目，並且運行大量路由器和互聯網的其他關鍵部分-有點像Linux 本身曾經是…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/busybox_137/</guid>
-      <pubDate>Fri, 04 Oct 2024 08:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
