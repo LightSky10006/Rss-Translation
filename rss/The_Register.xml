@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 16:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 17:37:19 GMT</lastBuildDate>
+    <item>
+      <title>據報道，中國網路間諜入侵了 Verizon、AT&T、Lumen</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/</link>
+      <description><![CDATA[Salt Typhoon 可能已經訪問了法院命令的竊聽和美國互聯網流量 Verizon、AT&amp;T 和Lumen Technologies 等美國寬頻提供商的網絡據報道遭到中國網絡間諜的黑客攻擊，可能會損害美國的網路安全。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/</guid>
+      <pubDate>Mon, 07 Oct 2024 17:17:54 GMT</pubDate>
+    </item>
     <item>
       <title>不要急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是正確的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[WordPress 掌門人Mullenweg 向邱吉爾表示：永遠不要浪費一場好的危機 WordPress 業務Automattic 的執行長兼開源軟體的共同創建者Matthew Mullenweg 表示，在危機發生後他感覺「輕鬆多了」在他試圖向 WP Engine 施壓，要求其競爭對手使用多年的商標獲得許可後，159 名員工離職，此舉頗受爭議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/automattic_offers_dissident_employees_incentive/</guid>
       <pubDate>Fri, 04 Oct 2024 22:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>大約 25 萬康卡斯特訂戶的資料從收債人那裡被盜</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/</link>
-      <description><![CDATA[有線電視巨頭稱涉及勒索軟體，FBCS 保持沉默 康卡斯特表示，其237,703 名客戶的資料實際上是在對其使用的收債員的網路攻擊中被盜的，這與先前的保證相反它沒有受到該入侵的影響。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/</guid>
-      <pubDate>Fri, 04 Oct 2024 20:13:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
