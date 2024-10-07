@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 08:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 09:38:22 GMT</lastBuildDate>
+    <item>
+      <title>Xfce 4.20 逐漸支援 Wayland，而 Mint 22.1 則完善了桌面例程</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</link>
+      <description><![CDATA[一些應該為節日做好準備的 FOSS 好東西 Xfce 的下一個版本，最古老的 FOSS Unix 桌面環境，即將準備就緒 - 並且應該具有初步的“最低限度可用”韋蘭支持。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</guid>
+      <pubDate>Mon, 07 Oct 2024 09:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>陷入困境的用戶是否因隱私選項而疲憊不堪？讓他們吃代碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/cookie_opinion/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>如果戴爾採用高通技術的 Copilot+ PC 是該類型的典型，那麼其他 PC 就完蛋了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</link>
-      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。採用高通Snapdragon Elite X 技術的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
+      <description><![CDATA[儘管電池續航時間驚人，速度也快，但它也有一些可能令人煩惱的缺陷 桌面旅遊 在我使用筆記型電腦的30 年來，它們始終讓我擔心電池壽命。由高通Snapdragon Elite X 提供支援的戴爾XPS 13 9345 Copilot+ PC 是第一台消除我這種擔憂的Windows PC，讓我可以自信地離開辦公桌一整天，無需攜帶任何充電設備- 但它仍然有不受歡迎的行李。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/dell_qualcomm_powered_copilot_pc/</guid>
       <pubDate>Mon, 07 Oct 2024 05:35:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[為什麼，是的，我會再次幫助您- 只要有價格 隨叫隨到 用勞動力換取貨幣可能是一件嚴峻的事情，這就是為什麼 Register 會以新一期的On Call 結束每個工作週——讀者貢獻的專欄，您可以在其中講述為男人工作的宣洩故事。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/on_call/</guid>
       <pubDate>Fri, 04 Oct 2024 07:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈佛二人組破解 Meta Ray-Ban 眼鏡，在幾秒鐘內對陌生人進行人肉搜索</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/</link>
-      <description><![CDATA[「你可以在幾天內構建這個- 即使作為一個非常天真的開發人員」 一對富有創造力的哈佛大學本科生已經創建了他們認為可能是有史以來最具侵入性的設備之一 -他們告訴 The Register，這為全世界在人工智慧時代認真對待隱私敲響了警鐘。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/</guid>
-      <pubDate>Fri, 04 Oct 2024 06:32:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
