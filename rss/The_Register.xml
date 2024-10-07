@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 13:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 13:41:06 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 遷移？升級引擎加速，企業別無選擇</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</link>
+      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計資料感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數百萬」設備仍在運行 Windows 10，搶購潮仍在繼續。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</guid>
+      <pubDate>Mon, 07 Oct 2024 13:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>法國政府表示「不」救助協議，Atos 再次陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/atos_french_deal_fails/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[亞利桑那州看起來像是美國半導體製造的理想之地 台灣台積電已與美國半導體公司Amkor Technology 簽署協議，以加強美國本土的先進晶片封裝。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/tsmc_amkor_arizona/</guid>
       <pubDate>Fri, 04 Oct 2024 13:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果修復了讓 VoiceOver 喊出你的密碼的錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/04/apple_voiceover_password_bug/</link>
-      <description><![CDATA[iGiant 剛推出首款密碼管理器時，看起來不太好看 Apple 剛剛修復了iOS 18.0.1 和iPadOS 18.0.1 中的兩個安全漏洞，其中一個可能會導致使用者無法儲存需要大聲朗讀的密碼。對於視障人士來說，這並不是一個理想的情況。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/04/apple_voiceover_password_bug/</guid>
-      <pubDate>Fri, 04 Oct 2024 11:54:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
