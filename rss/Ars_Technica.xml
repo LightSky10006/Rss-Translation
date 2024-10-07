@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 07 Oct 2024 12:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 14:39:37 GMT</lastBuildDate>
     <item>
-      <title>藝術家對獲獎人工智慧作品的版權被剝奪提出上訴</title>
+      <title>鄰居因比特幣礦井噪音大而提起訴訟</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/neighbors-sue-over-loud-bitcoin-mine/</link>
+      <description><![CDATA[據稱，300 兆瓦設施發出的嗡嗡聲會造成壓力和睡眠不足。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/neighbors-sue-over-loud-bitcoin-mine/</guid>
+      <pubDate>Mon, 07 Oct 2024 13:42:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>藝術家就獲獎的人工智慧生成作品的版權被剝奪提出上訴</title>
       <link>https://arstechnica.com/tech-policy/2024/10/artist-appeals-copyright-denial-for-prize-winning-ai-generated-work/</link>
       <description><![CDATA[專家警告說，人工智慧藝術可能會創造一個全新的版權流氓世界。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/artist-appeals-copyright-denial-for-prize-winning-ai-generated-work/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 05 Oct 2024 11:00:41 GMT</pubDate>
     </item>
     <item>
-      <title>海倫 (Helene) 摧毀了生產全國 60% 靜脈輸液的 NC 工廠</title>
+      <title>海倫 (Helene) 破壞了生產全國 60% 靜脈輸液的 NC 工廠</title>
       <link>https://arstechnica.com/health/2024/10/helene-ravaged-the-nc-plant-that-makes-60-of-the-countrys-iv-fluid-supply/</link>
       <description><![CDATA[目前還沒有工廠何時能夠重新開業的時間表。]]></description>
       <guid>https://arstechnica.com/health/2024/10/helene-ravaged-the-nc-plant-that-makes-60-of-the-countrys-iv-fluid-supply/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美國太空部隊表示，這次試飛對於驗證火神號執行軍事任務至關重要。]]></description>
       <guid>https://arstechnica.com/space/2024/10/ulas-second-vulcan-rocket-lost-part-of-its-booster-and-kept-going/</guid>
       <pubDate>Fri, 04 Oct 2024 20:08:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 Canvas 只需點擊一下即可在語言之間翻譯程式碼</title>
-      <link>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</link>
-      <description><![CDATA[新的並排文件和程式碼編輯功能趕上了 Anthropic 的 Artifacts。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:55:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
