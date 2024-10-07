@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 07 Oct 2024 03:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 11:34:59 GMT</lastBuildDate>
+    <item>
+      <title>藝術家對獲獎人工智慧作品的版權被剝奪提出上訴</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/artist-appeals-copyright-denial-for-prize-winning-ai-generated-work/</link>
+      <description><![CDATA[專家警告說，人工智慧藝術可能會創造一個全新的版權流氓世界。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/artist-appeals-copyright-denial-for-prize-winning-ai-generated-work/</guid>
+      <pubDate>Mon, 07 Oct 2024 11:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>南極洲的綠化顯示了氣候變遷如何影響這片冰凍大陸</title>
       <link>https://arstechnica.com/science/2024/10/greening-of-antartica-shows-how-climate-change-affects-the-frozen-continent/</link>
@@ -20,9 +27,9 @@
       <pubDate>Sat, 05 Oct 2024 11:00:41 GMT</pubDate>
     </item>
     <item>
-      <title>海倫 (Helene) 破壞了生產全國 60% 靜脈輸液的 NC 工廠</title>
+      <title>海倫 (Helene) 摧毀了生產全國 60% 靜脈輸液的 NC 工廠</title>
       <link>https://arstechnica.com/health/2024/10/helene-ravaged-the-nc-plant-that-makes-60-of-the-countrys-iv-fluid-supply/</link>
-      <description><![CDATA[目前還沒有工廠何時能夠重新開業的時間表。]]></description>
+      <description><![CDATA[目前還沒有該工廠何時能夠重新開放的時間表。]]></description>
       <guid>https://arstechnica.com/health/2024/10/helene-ravaged-the-nc-plant-that-makes-60-of-the-countrys-iv-fluid-supply/</guid>
       <pubDate>Fri, 04 Oct 2024 21:02:12 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[新的並排文件和程式碼編輯功能趕上了 Anthropic 的 Artifacts。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/openais-canvas-eases-collaborations-with-chatgpt/</guid>
       <pubDate>Fri, 04 Oct 2024 19:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果無法分辨真假 iPhone，詐騙者損失了 250 萬美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</link>
-      <description><![CDATA[維修計畫促使蘋果用真機更換了 6K 假 iPhone。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:45:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
