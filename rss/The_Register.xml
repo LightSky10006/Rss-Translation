@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 00:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 02:19:46 GMT</lastBuildDate>
+    <item>
+      <title>據報道，中國告訴當地人工智慧買家不要理睬英偉達</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/asia_in_brief/</link>
+      <description><![CDATA[加上：Google、甲骨文斥資 95 億美元興建亞洲資料中心；菲律賓稅收雲；越南資訊安全受到讚揚；等等 簡述 據報道，中國當局已讓當地組織知道他們應該通過本地採購來滿足對人工智能加速器的需求，而不是從Nvidia 購買。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/asia_in_brief/</guid>
+      <pubDate>Tue, 08 Oct 2024 01:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>聯準會試圖取得被北韓臭名昭著的拉撒路集團竊取的少量加密貨幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>Windows 11 遷移？升級引擎加速，企業別無選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</link>
-      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計數據感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數以百萬計」的設備仍在運行 Windows 10，這種熱潮仍在繼續。]]></description>
+      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計資料感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數百萬」設備仍在運行 Windows 10，搶購潮仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</guid>
       <pubDate>Mon, 07 Oct 2024 13:29:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[文件聲稱，在 3G 關閉後，某些地方的 Voda 用戶必須重新使用 2G 沃達豐和 Three UK 正在拼命說服英國競爭監管機構批准他們的合併，甚至詆毀他們自己的網絡服務- 至少在某些地區- 已經過時了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/three_vodafone_merger/</guid>
       <pubDate>Mon, 07 Oct 2024 11:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xfce 4.20 逐漸支援 Wayland，而 Mint 22.1 則完善了桌面例程</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</link>
-      <description><![CDATA[一些應該為節日做好準備的 FOSS 好東西 Xfce 的下一個版本，最古老的 FOSS Unix 桌面環境，即將準備就緒 - 並且應該具有初步的“最低限度可用”韋蘭支持。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</guid>
-      <pubDate>Mon, 07 Oct 2024 09:32:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
