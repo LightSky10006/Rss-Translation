@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 07:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 08:42:50 GMT</lastBuildDate>
+    <item>
+      <title>微軟資深人士放棄 Team Tabs，將原因歸咎於過去的儲存創傷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/microsoft_engineer_tabs_spaces/</link>
+      <description><![CDATA[如何縮排？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/microsoft_engineer_tabs_spaces/</guid>
+      <pubDate>Tue, 08 Oct 2024 08:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>在挑戰英特爾 NUC 迷你電腦一年後，華碩表示已準備好改進它們</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/asus_nuc_year_one/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[光通訊不僅適合夜貓子 美國太空總署的深空光通訊(DSOC) 技術演示在進入太空一周年之際又創下了性能里程碑。 p&gt;&lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/netflix_on_mars_sure_thanks/</guid>
       <pubDate>Mon, 07 Oct 2024 15:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 提供了將基於 SQL Server 的軟體遷移到雲端的不同方式</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/sap_sql_server_shift/</link>
-      <description><![CDATA[只是不要將其稱為RISE with SAP 的替代方案 SAP 開發了一種替代方法，可將客戶在Microsoft SQL Server 資料庫上運行的遺留系統轉移到雲端，這是一種外部方法它首選 RISE with SAP 計劃。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/sap_sql_server_shift/</guid>
-      <pubDate>Mon, 07 Oct 2024 14:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
