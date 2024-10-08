@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 08 Oct 2024 13:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 14:40:15 GMT</lastBuildDate>
+    <item>
+      <title>三星表示正處於“危機”，為未達到利潤目標道歉</title>
+      <link>https://arstechnica.com/gadgets/2024/10/samsung-says-its-in-crisis-apologizes-for-missing-profit-target/</link>
+      <description><![CDATA[由於公司試圖縮小與台積電的晶圓廠差距，業績未達預期。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/samsung-says-its-in-crisis-apologizes-for-missing-profit-target/</guid>
+      <pubDate>Tue, 08 Oct 2024 13:40:12 GMT</pubDate>
+    </item>
     <item>
       <title>Ars Prime Day 2024 Techstravaganza：最優惠的商品</title>
       <link>https://arstechnica.com/staff/2024/10/ars-prime-day-2024-techstravaganza-the-best-deals-on-the-best-things/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>現在是玩《暗黑破壞神 IV》的最佳時機</title>
       <link>https://arstechnica.com/gaming/2024/10/diablo-iv-is-in-a-great-place-whether-you-buy-vessel-of-hatred-or-not/</link>
-      <description><![CDATA[評論：新的擴充增加了已經大大改進的遊戲。]]></description>
+      <description><![CDATA[評論：仇恨之船擴充增加了已經大大改進的遊戲。]]></description>
       <guid>https://arstechnica.com/gaming/2024/10/diablo-iv-is-in-a-great-place-whether-you-buy-vessel-of-hatred-or-not/</guid>
       <pubDate>Tue, 08 Oct 2024 10:35:39 GMT</pubDate>
     </item>
     <item>
       <title>報導：中國駭客攻擊了 Verizon 和 AT&T，可能侵入了美國竊聽系統</title>
       <link>https://arstechnica.com/tech-policy/2024/10/reports-china-hacked-verizon-and-att-may-have-accessed-us-wiretap-systems/</link>
-      <description><![CDATA[根據《華爾街日報》報道，中國駭客在主要 ISP 的網路中潛入「數月」。]]></description>
+      <description><![CDATA[根據《華爾街日報》報道，中國駭客在主要 ISP 的網路中潛伏了「數月」。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/reports-china-hacked-verizon-and-att-may-have-accessed-us-wiretap-systems/</guid>
       <pubDate>Mon, 07 Oct 2024 21:45:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[最高法院並未對駁回請願書作出任何解釋。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/scotus-denial-ends-saga-of-shkrelis-infamous-5000-drug-price-scheme/</guid>
       <pubDate>Mon, 07 Oct 2024 18:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 允許 Starlink 為颶風襲擊地區的手機提供服務</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/fcc-lets-starlink-provide-service-to-cell-phones-in-areas-hit-by-hurricane/</link>
-      <description><![CDATA[在馬斯克猛烈抨擊 FCC 未向 SpaceX 提供資金後，該機構獲得了臨時授權。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/fcc-lets-starlink-provide-service-to-cell-phones-in-areas-hit-by-hurricane/</guid>
-      <pubDate>Mon, 07 Oct 2024 18:25:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
