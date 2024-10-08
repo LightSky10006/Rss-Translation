@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 12:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 12:56:49 GMT</lastBuildDate>
+    <item>
+      <title>將客戶從 Linux 切換到 BSD，因為無聊是件好事</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</link>
+      <description><![CDATA[穩定性？可預測性？可靠性？這有什麼樂趣呢？  EuroBSDcon 2024  Stefano Marinelli 的 NetBSD 盒子靜靜地服務了十年，因為每個人都忘記了它。這就是 Unix 的本來面目。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</guid>
+      <pubDate>Tue, 08 Oct 2024 12:34:09 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧驅動的電子商務詐欺激增，但您可以透過更多人工智慧進行反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[人工智慧搶盡風頭，D-Wave 和Rigetti 跌破1 美元 市場逐漸認識到量子生態系統的嚴酷現實，兩家著名的量子供應商承認，在股價下跌後，他們面臨被摘牌的風險低於 1 美元大關…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/quantum_firms_risk_being_delisted/</guid>
       <pubDate>Mon, 07 Oct 2024 18:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，中國網路間諜入侵了 Verizon、AT&T、Lumen</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/</link>
-      <description><![CDATA[Salt Typhoon 可能已經訪問了法院命令的竊聽和美國互聯網流量 Verizon、AT&amp;T 和Lumen Technologies 等美國寬頻提供商的網絡據報道遭到中國網絡間諜的黑客攻擊，可能會損害美國的網路安全。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/verizon_att_lumen_salt_typhoon/</guid>
-      <pubDate>Mon, 07 Oct 2024 17:17:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
