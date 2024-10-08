@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 23:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 23:35:55 GMT</lastBuildDate>
+    <item>
+      <title>微軟發布了 117 個補丁——其中一些是針對已經受到攻擊的缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/patch_tuesday_october_2024/</link>
+      <description><![CDATA[另外：SAP 重新修補了嚴重缺陷的失敗補丁 週二補丁 這是本月的第二個週二，這意味著週二補丁，帶來了修復針對主要軟體中的眾多缺陷、錯誤和漏洞。這真是太棒了…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/patch_tuesday_october_2024/</guid>
+      <pubDate>Tue, 08 Oct 2024 23:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧教父變身的毀滅者與神經網路先驅分享諾貝爾獎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ai_godfather_wins_nobel_prize/</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 08 Oct 2024 19:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>在工作中使用 iPhone Mirroring？你可能只是過度分享給你的老闆</title>
+      <title>在工作中使用 iPhone 鏡像？你可能只是過度分享給你的老闆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</link>
       <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您手機上的應用程式清單 - 約會應用程式、追蹤醫療狀況或性史的應用程序，或您可能想保留給自己的任何其他 NSFW 應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>網友們正在折磨Google的AI播客主播</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torturing_google_podcast_hosts/</link>
-      <description><![CDATA[NotebookLM 的音頻概覽功能粗魯地發現其妻子從未存在過 斯坦利·庫布里克(Stanley Kubrick) 的《2001：太空漫遊》中HAL 9000 的消亡在近6年來仍然是一個令人難忘的電影時刻，因為它提出了有關意識的問題，人工智慧控制的倫理、理性的局限性以及許多其他哲學問題......]]></description>
+      <description><![CDATA[NotebookLM 的音頻概覽功能粗魯地發現其妻子從未存在過 斯坦利·庫布里克(Stanley Kubrick) 的《2001：太空漫遊》中HAL 9000 的消亡在近6年來仍然是一個令人難以忘懷的電影時刻，因為它提出了有關意識的問題，人工智慧控制的倫理、理性的局限性以及許多其他哲學問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torturing_google_podcast_hosts/</guid>
       <pubDate>Tue, 08 Oct 2024 14:15:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Workday 在英國「Matrix」ERP 交易中擊敗甲骨文和微軟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/workday_uk_treasury_oracle/</link>
-      <description><![CDATA[純 SaaS 供應商和 Cognizant 在政府軟體重組中獲得 1.443 億英鎊 一批政府部門選擇了 Workday 人力資源和財務軟體，因為 Oracle 和 Microsoft 彌補了損失的供應商僅限SaaS 提供者。]]></description>
+      <description><![CDATA[純 SaaS 供應商和 Cognizant 在政府軟體重組中獲得了 1.443 億英鎊 一批政府部門選擇了 Workday 人力資源和財務軟體，因為 Oracle 和 Microsoft 彌補了損失的供應商僅限SaaS 提供者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/workday_uk_treasury_oracle/</guid>
       <pubDate>Tue, 08 Oct 2024 09:34:08 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>生日快樂，普丁－你已經被打敗了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/russia_state_news_shutdown/</link>
-      <description><![CDATA[親烏克蘭駭客聲稱對俄羅斯國家廣播關閉負責 烏克蘭駭客週一關閉了俄羅斯國家通訊社VGTRK 的線上廣播和串流服務，恰逢俄羅斯總統弗拉基米爾·普丁(Vladimir Putin ) 72 歲生日，克里姆林宮官員誓言要讓俄羅斯國家電視台關閉將那些對「前所未有的」網路攻擊負責的人繩之以法。]]></description>
+      <description><![CDATA[親烏克蘭駭客聲稱對俄羅斯國家廣播關閉負有責任 烏克蘭駭客週一關閉了俄羅斯國家通訊社VGTRK 的線上廣播和串流服務，恰逢俄羅斯總統弗拉基米爾·普丁( Vladimir Putin) 72 歲生日，克里姆林宮官員誓言要讓俄羅斯國家電視台關閉將那些對「前所未有的」網路攻擊負責的人繩之以法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/russia_state_news_shutdown/</guid>
       <pubDate>Tue, 08 Oct 2024 06:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>XCP-NG 感謝 Broadcom 增加的興趣，批評 Citrix 沒有幫助建立替代方案</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</link>
-      <description><![CDATA[XenServer 分支計劃使其下一個版本成為 VMware 遷移的更好目標 Xen Server 分支 XCP-NG 背後的開發者 Vates 感謝 Broadcom 對其工作越來越感興趣，並批評 Citrix對其努力提出挑戰。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</guid>
-      <pubDate>Tue, 08 Oct 2024 05:31:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
