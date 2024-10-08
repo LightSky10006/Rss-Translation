@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 19:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 19:34:50 GMT</lastBuildDate>
+    <item>
+      <title>TensorWave 斥資 4,300 萬美元為其資料中心配備 AMD 加速器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/tensorwave_amd_gpu_cloud/</link>
+      <description><![CDATA[Startup 還計劃在第四季度推出推理服務 TensorWave 週二獲得了4300 萬美元的新資金，將其數據中心裝滿AMD 的Instinct 加速器，並將新的推理平台推向市場。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/tensorwave_amd_gpu_cloud/</guid>
+      <pubDate>Tue, 08 Oct 2024 19:23:59 GMT</pubDate>
+    </item>
     <item>
       <title>在工作中使用 iPhone 鏡像？你可能只是過度分享給你的老闆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</link>
-      <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您的約會應用程式、照片、訊息 - 以及您可能想保留給自己的任何其他內容。]]></description>
+      <description><![CDATA[除了你那小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果你在工作中使用iPhone Mirroring：是時候停止了，以免你讓雇主的IT 部門有能力窺探您的約會應用程式、照片、訊息 - 以及您可能想保留給自己的任何其他內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
       <pubDate>Tue, 08 Oct 2024 18:30:14 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 08 Oct 2024 13:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>將客戶從 Linux 轉向 BSD，因為無聊是件好事</title>
+      <title>將客戶從 Linux 切換到 BSD，因為無聊是件好事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</link>
       <description><![CDATA[穩定性？可預測性？可靠性？這有什麼樂趣呢？  EuroBSDcon 2024  Stefano Marinelli 的 NetBSD 盒子靜靜地服務了十年，因為每個人都忘記了它。這就是 Unix 的本來面目。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>人工智慧驅動的電子商務詐欺激增，但您可以透過更多人工智慧進行反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</link>
-      <description><![CDATA[Juniper Research 認為，擊敗他們的唯一方法就是加入他們 由於人工智慧，電子商務詐欺預計在未來五年內激增，建議商家做出回應......人工智慧. ..]]></description>
+      <description><![CDATA[Juniper Research 認為，擊敗他們的唯一方法就是加入他們 由於人工智慧，電子商務詐欺預計在未來五年內激增，建議商家做出回應......人工智慧. .....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</guid>
       <pubDate>Tue, 08 Oct 2024 11:26:10 GMT</pubDate>
     </item>
@@ -106,21 +113,21 @@
     <item>
       <title>生日快樂，普丁－你已經被打敗了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/russia_state_news_shutdown/</link>
-      <description><![CDATA[親烏克蘭駭客聲稱對俄羅斯國家廣播關閉負責 烏克蘭駭客週一關閉了俄羅斯國家通訊社VGTRK 的線上廣播和串流服務，恰逢俄羅斯總統弗拉基米爾·普丁(Vladimir Putin ) 72 歲生日，克里姆林宮官員誓言要讓俄羅斯國家電視台關閉將那些對「前所未有的」網路攻擊負責的人繩之以法。]]></description>
+      <description><![CDATA[親烏克蘭駭客聲稱對俄羅斯國家廣播關閉負有責任 烏克蘭駭客週一關閉了俄羅斯國家通訊社VGTRK 的線上廣播和串流服務，恰逢俄羅斯總統弗拉基米爾·普丁( Vladimir Putin) 72 歲生日，克里姆林宮官員誓言要讓俄羅斯國家電視台關閉將那些對「前所未有的」網路攻擊負責的人繩之以法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/russia_state_news_shutdown/</guid>
       <pubDate>Tue, 08 Oct 2024 06:30:10 GMT</pubDate>
     </item>
     <item>
       <title>XCP-NG 感謝 Broadcom 增加的興趣，批評 Citrix 沒有幫助建立替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</link>
-      <description><![CDATA[XenServer 分支計劃使其下一個版本成為 VMware 遷移的更好目標 Xen Server 分支 XCP-NG 背後的開發者 Vates 感謝 Broadcom 對其工作日益增長的興趣，並批評 Citrix對其努力提出挑戰。]]></description>
+      <description><![CDATA[XenServer 分支計劃使其下一個版本成為 VMware 遷移的更好目標 Xen Server 分支 XCP-NG 背後的開發者 Vates 感謝 Broadcom 對其工作越來越感興趣，並批評 Citrix對其努力提出挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</guid>
       <pubDate>Tue, 08 Oct 2024 05:31:15 GMT</pubDate>
     </item>
     <item>
       <title>三星為糟糕的財務表現道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/samsung_q3_2024_apology/</link>
-      <description><![CDATA[儘管人工智慧引發的記憶體繁榮，但利潤並未增長，導致高管陷入困境 三星電子在周二發布令人失望的初步業績後，向客戶、投資者和員工道歉。]]></description>
+      <description><![CDATA[儘管受人工智慧啟發的記憶體繁榮，利潤並未增長，導致高管陷入困境 三星電子在周二發布令人失望的初步業績後，向客戶、投資者和員工道歉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/samsung_q3_2024_apology/</guid>
       <pubDate>Tue, 08 Oct 2024 04:38:22 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 08 Oct 2024 02:59:13 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>據報道，中國告訴當地人工智慧買家不要理睬英偉達</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/asia_in_brief/</link>
       <description><![CDATA[加上：Google、甲骨文斥資 95 億美元興建亞洲資料中心；菲律賓稅收雲；越南資訊安全受到讚揚；等等 簡述 據報道，中國當局已讓當地組織知道他們應該通過本地採購來滿足對人工智能加速器的需求，而不是從Nvidia 購買。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/asia_in_brief/</guid>
       <pubDate>Tue, 08 Oct 2024 01:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯準會試圖取得被北韓臭名昭著的拉撒路集團竊取的少量加密貨幣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</link>
-      <description><![CDATA[一開始，幾百萬就夠了…但金正恩的手下涉嫌竊取更多 美國政府正試圖追回朝鮮拉撒路集團(Lazarus Group) 竊取的超過267 萬美元，並提起了兩起訴訟強制沒收數百萬 Tether 和比特幣......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</guid>
-      <pubDate>Tue, 08 Oct 2024 00:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
