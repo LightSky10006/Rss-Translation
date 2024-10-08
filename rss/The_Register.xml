@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 08 Oct 2024 09:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 10:40:51 GMT</lastBuildDate>
+    <item>
+      <title>Linus Torvalds 向被動語態宣戰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torvalds_grammar_complaint/</link>
+      <description><![CDATA[Linux 貢獻者被告知要整理他們的語法，以免被主動糾正 想像一下。一名開發人員提交了一個補丁來提高內核的性能，卻遭到了Linux 領導者Linus Torvalds 的輕蔑目光，他宣稱：「啊，但是你的分詞是懸而未決的！你如何期望內核在這種情況下蓬勃發展？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torvalds_grammar_complaint/</guid>
+      <pubDate>Tue, 08 Oct 2024 10:29:14 GMT</pubDate>
+    </item>
     <item>
       <title>Workday 在英國「Matrix」ERP 交易中擊敗甲骨文和微軟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/workday_uk_treasury_oracle/</link>
-      <description><![CDATA[純 SaaS 供應商和 Cognizant 在政府軟體重組中獲得了 1.443 億英鎊 一批政府部門選擇了 Workday 人力資源和財務軟體，因為 Oracle 和 Microsoft 彌補了損失的供應商僅限SaaS 提供者。]]></description>
+      <description><![CDATA[純 SaaS 供應商和 Cognizant 在政府軟體重組中獲得 1.443 億英鎊 一批政府部門選擇了 Workday 人力資源和財務軟體，因為 Oracle 和 Microsoft 彌補了損失的供應商僅限SaaS 提供者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/workday_uk_treasury_oracle/</guid>
       <pubDate>Tue, 08 Oct 2024 09:34:08 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>XCP-NG 感謝 Broadcom 增加的興趣，批評 Citrix 沒有幫助建立替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</link>
-      <description><![CDATA[XenServer 分支計劃使其下一個版本成為 VMware 遷移的更好目標 Xen Server 分支 XCP-NG 背後的開發者 Vates 感謝 Broadcom 對其工作日益增長的興趣，並批評 Citrix對其努力提出挑戰。]]></description>
+      <description><![CDATA[XenServer 分支計劃使其下一個版本成為 VMware 遷移的更好目標 Xen Server 分支 XCP-NG 背後的開發者 Vates 感謝 Broadcom 對其工作越來越感興趣，並批評 Citrix對其努力提出挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/cxp_ng_8_3_futures/</guid>
       <pubDate>Tue, 08 Oct 2024 05:31:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>聯準會試圖取得被北韓臭名昭著的拉撒路集團竊取的少量加密貨幣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</link>
-      <description><![CDATA[一開始，幾百萬就夠了…但金正恩的手下涉嫌竊取更多 美國政府正試圖追回朝鮮拉撒路集團(Lazarus Group) 竊取的超過267 萬美元，並提起了兩起訴訟強制沒收數百萬 Tether 和比特幣......]]></description>
+      <description><![CDATA[一開始，幾百萬就夠了…但金正恩的手下涉嫌竊取更多 美國政府正試圖追回朝鮮拉撒路集團(Lazarus Group) 竊取的超過267 萬美元，並提起了兩起訴訟強制沒收數百萬 Tether 和比特幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</guid>
       <pubDate>Tue, 08 Oct 2024 00:27:08 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Inflection AI Enterprise 放棄 Nvidia GPU，改用英特爾 Gaudi 3</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/inflection_ai_intel/</link>
-      <description><![CDATA[陷入困境的晶片製造商再獲勝利 在重大趨勢新聞中，Inflection AI 透露其最新的企業平台將放棄Nvidia GPU，轉而使用英特爾的Gaudi 3 加速器。 ...  ]]></description>
+      <description><![CDATA[苦苦掙扎的晶片製造商再獲勝利 在突發趨勢新聞中，Inflection AI 透露其最新的企業平台將放棄Nvidia GPU，轉而使用英特爾的Gaudi 3 加速器。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/inflection_ai_intel/</guid>
       <pubDate>Mon, 07 Oct 2024 22:15:08 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 07 Oct 2024 17:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>你不急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是對的</title>
+      <title>不要急於運行 AMD、英特爾新推出的眾核怪獸 ​​CPU，這是正確的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</link>
       <description><![CDATA[他們在單一盒子中投入的風險比我們大多數人能夠承受的還要多 觀點 英特爾最近預告了一款128 核Granite Rapids Xeon 6 處理器，而您的謙虛禿鷹認為你可以忽略它們——事實上，忽略它們可能是你最安全的做法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/risk_of_manycore_cpus/</guid>
       <pubDate>Mon, 07 Oct 2024 16:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著貿易戰愈演愈烈，全球半導體銷售額成長 20.6%，達到創紀錄的 $53.1B</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/semiconductor_sales_surge/</link>
-      <description><![CDATA[隨著需求激增，晶片繁榮仍在繼續，但挑戰依然存在 據報道，銷售額的大幅增長對於半導體行業來說無疑是個好消息，鑑於供應鏈持續中斷和地緣政治，半導體產業的基礎仍然不穩定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/semiconductor_sales_surge/</guid>
-      <pubDate>Mon, 07 Oct 2024 15:45:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
