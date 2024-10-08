@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 07 Oct 2024 23:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 00:57:47 GMT</lastBuildDate>
+    <item>
+      <title>聯準會試圖取得被北韓臭名昭著的拉撒路集團竊取的少量加密貨幣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</link>
+      <description><![CDATA[一開始，幾百萬就夠了…但金正恩的手下涉嫌竊取更多 美國政府正試圖追回朝鮮拉撒路集團(Lazarus Group) 竊取的超過267 萬美元，並提起了兩起訴訟強制沒收數百萬 Tether 和比特幣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/us_lazarus_group_crypto_seizure/</guid>
+      <pubDate>Tue, 08 Oct 2024 00:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>Epic法官命令谷歌允許競爭對手建立應用程式商店</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/google_android_play_store_epic/</link>
@@ -20,10 +27,10 @@
       <pubDate>Mon, 07 Oct 2024 22:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>由於“網路安全事件”，美國水務公司停止對 H2O 計費</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/american_water_hack/</link>
-      <description><![CDATA[證實水仍然可以安全飲用 為美國超過 1400 萬人和眾多軍事基地供水的美國水務公司 (American Water) 已停止發放賬單，並在調查期間下線了 MyWater 應用程序駭客事件......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/american_water_hack/</guid>
+      <title>美國水務公司遭遇網路攻擊，關閉應用程式</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/american_water_cyberattack/</link>
+      <description><![CDATA[頂級供應商告訴我們，它仍然可以安全飲用 美國水務公司(American Water) 為美國超過1400 萬人和眾多軍事基地供水，該公司已停止發放賬單，並已下線其MyWater 應用程式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/american_water_cyberattack/</guid>
       <pubDate>Mon, 07 Oct 2024 21:30:12 GMT</pubDate>
     </item>
     <item>
@@ -99,7 +106,7 @@
     <item>
       <title>Windows 11 遷移？升級引擎加速，企業別無選擇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</link>
-      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計資料感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數百萬」設備仍在運行 Windows 10，搶購潮仍在繼續。]]></description>
+      <description><![CDATA[Windows 10 支援到期時脈滴答聲 - PC 製造商不會對最新統計數據感到滿意 微軟和 PC 愛好者長期以來所期盼的 Windows 11 遷移專案正在啟動。但資產管理公司 Lansweeper 的一份報告表明，「數以百萬計」的設備仍在運行 Windows 10，這種熱潮仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/enterprise_windows_11_upgrade/</guid>
       <pubDate>Mon, 07 Oct 2024 13:29:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[一些應該為節日做好準備的 FOSS 好東西 Xfce 的下一個版本，最古老的 FOSS Unix 桌面環境，即將準備就緒 - 並且應該具有初步的“最低限度可用”韋蘭支持。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/xfce_420_and_mint_221/</guid>
       <pubDate>Mon, 07 Oct 2024 09:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入困境的用戶是否因隱私選項而疲憊不堪？讓他們吃代碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/07/cookie_opinion/</link>
-      <description><![CDATA[不要與餅乾鬥爭，以免變成餅乾怪物 意見 人民被打敗了。對於一連串關於cookie 和權限的橫幅和彈出視窗感到疲憊、洩氣和冷漠。 &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/07/cookie_opinion/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
