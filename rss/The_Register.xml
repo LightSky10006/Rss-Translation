@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 07:35:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:42:09 GMT</lastBuildDate>
+    <item>
+      <title>Android 版 Thunderbird 已經上線——至少測試版已經上線</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/thunderbird_for_android_beta/</link>
+      <description><![CDATA[傳統風格的豐富電子郵件用戶端- 但適用於平板電腦 MZLA，Thunderbird 電子郵件客戶端背後的公司，終於將其移動電子郵件客戶端應用程序投入Beta 測試- 但它比聽起來…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/thunderbird_for_android_beta/</guid>
+      <pubDate>Wed, 09 Oct 2024 08:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>Copilot 的粗魯讓微軟再次追趕谷歌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/copilot_vs_notebooklm/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>聯發科進軍第四維度 3nm八核心9400智慧型手機大腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</link>
-      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科技推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
+      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</guid>
       <pubDate>Wed, 09 Oct 2024 04:31:06 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 08 Oct 2024 19:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>在工作中使用 iPhone Mirroring？你可能只是過度分享給你的老闆</title>
+      <title>在工作中使用 iPhone 鏡像？你可能只是過度分享給你的老闆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</link>
       <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您手機上的應用程式清單 - 約會應用程式、追蹤醫療狀況或性史的應用程序，或您可能想保留給自己的任何其他 NSFW 應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>網友們正在折磨Google的AI播客主播</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torturing_google_podcast_hosts/</link>
-      <description><![CDATA[NotebookLM 的音頻概覽功能粗魯地發現其妻子從未存在過 斯坦利·庫布里克(Stanley Kubrick) 的《2001：太空漫遊》中HAL 9000 的消亡在近6年來仍然是一個令人難忘的電影時刻，因為它提出了有關意識的問題，人工智慧控制的倫理、理性的局限性以及許多其他哲學問題......]]></description>
+      <description><![CDATA[NotebookLM 的音頻概覽功能粗魯地發現其妻子從未存在過 斯坦利·庫布里克(Stanley Kubrick) 的《2001：太空漫遊》中HAL 9000 的消亡在近6年來仍然是一個令人難以忘懷的電影時刻，因為它提出了有關意識的問題，人工智慧控制的倫理、理性的局限性以及許多其他哲學問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/torturing_google_podcast_hosts/</guid>
       <pubDate>Tue, 08 Oct 2024 14:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[近 10 億美元的農村寬頻補貼不會出錯 美國眾議院監督和問責委員會主席 James Comer 正在調查聯邦通信委員會 (FCC) 撤銷的決定向埃隆·馬斯克(Elon Musk) 的星鏈(Starlink) 提供近9 億美元的農村寬頻補貼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/fcc_starlink_subsidies_probe/</guid>
       <pubDate>Tue, 08 Oct 2024 13:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃里克·施密特：建立更多人工智慧資料中心，我們“無論如何都不會達到氣候目標”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/eric_schmidt_speech/</link>
-      <description><![CDATA[Google前執行長認為，也許耗電技術才是解決方案 Google前執行長 Eric Sc​​hmidt 認為我們不應該讓人工智慧不斷膨脹的功耗讓我們擔心，因為讓人工智慧發揮作用氣候變遷問題將是我們解決這些問題的最佳途徑。 data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/eric_schmidt_speech/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
