@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 05:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 06:44:52 GMT</lastBuildDate>
+    <item>
+      <title>英國花園棚發現失蹤的雷鳥鏡頭</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/missing_thunderbirds_footage/</link>
+      <description><![CDATA[5、4、3、2、1，新的Supermarionation 開始了！  視頻 在花園小屋中發現了英國經典電視節目《雷鳥》中以前未曾見過的片段並在可能的情況下進行修復以供明年觀看。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/missing_thunderbirds_footage/</guid>
+      <pubDate>Wed, 09 Oct 2024 06:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>Supermicro 將 18 個 GPU 塞進 3U AI 伺服器中，設計速度有點慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>聯發科進軍第四維度 3nm八核心9400智慧型手機大腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</link>
-      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
+      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科技推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</guid>
       <pubDate>Wed, 09 Oct 2024 04:31:06 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>星鏈免費提供給遭受颶風海倫襲擊的人們。它不是完全免費的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/free_starlink_hurricane_helene/</link>
-      <description><![CDATA[現在SpaceX 澄清了特別促銷 更新了 埃隆·馬斯克和SpaceX 慷慨地向美國遭受颶風海倫破壞的社區承諾的免費星鏈服務實際上並非完全免費，根據那些生活在災後的人們以及互聯網衛星運營商自己的註冊頁面的說法......]]></description>
+      <description><![CDATA[現在SpaceX 澄清了特別促銷 更新了 埃隆·馬斯克和SpaceX 慷慨地向美國遭受颶風海倫破壞的社區承諾的免費星鏈服務實際上並非完全免費，根據那些生活在災後的人們的說法 - 以及互聯網衛星運營商自己的註冊頁面......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/free_starlink_hurricane_helene/</guid>
       <pubDate>Tue, 08 Oct 2024 17:07:43 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 08 Oct 2024 13:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>將客戶從 Linux 切換到 BSD，因為無聊是件好事</title>
+      <title>將客戶從 Linux 轉向 BSD，因為無聊是件好事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</link>
       <description><![CDATA[穩定性？可預測性？可靠性？這有什麼樂趣呢？  EuroBSDcon 2024  Stefano Marinelli 的 NetBSD 盒子靜靜地服務了十年，因為每個人都忘記了它。這就是 Unix 的本來面目。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/switching_from_linux_to_bsd/</guid>
       <pubDate>Tue, 08 Oct 2024 12:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧驅動的電子商務詐欺激增，但您可以透過更多人工智慧進行反擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</link>
-      <description><![CDATA[Juniper Research 認為，擊敗他們的唯一方法就是加入他們 由於人工智慧，電子商務詐欺預計在未來五年內激增，建議商家做出回應......人工智慧. .....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</guid>
-      <pubDate>Tue, 08 Oct 2024 11:26:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
