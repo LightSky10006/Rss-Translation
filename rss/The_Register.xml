@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 22:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 22:38:22 GMT</lastBuildDate>
+    <item>
+      <title>智慧電視正在監視每個人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</link>
+      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用與互聯網上否認隱私相同的廣告技術的經紀人受益。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</guid>
+      <pubDate>Wed, 09 Oct 2024 22:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>萬豪酒店因一系列影響數百萬人的違規行為而獲得 5,200 萬美元的和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/marriott_settlements_data_breaches/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>CIQ 以 2.5 萬美元收購 Rocky Linux 公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</link>
-      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合那些需要操作系統背後熱情社區支持的企業.. .]]></description>
+      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合需要操作系統背後熱情社區支持的企業... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</guid>
       <pubDate>Wed, 09 Oct 2024 16:02:13 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>山姆大叔可能會迫使谷歌出售 Chrome 瀏覽器或 Android 作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/usa_vs_google_proposed_remedies/</link>
-      <description><![CDATA[科技巨頭迅速反擊，稱司法部關於拆分 Alphabet 的提議以及更多「政府越權行為」 美國政府已確認，正在考慮要求法官迫使 Google 剝離部分業務，作為一部分關於其控制在線搜索的反壟斷案件中的潛在補救措施。]]></description>
+      <description><![CDATA[科技巨頭反擊，稱司法部關於拆分 Alphabet 的提議以及更多「政府越權行為」 美國政府已確認，正在考慮要求法官迫使谷歌剝離部分業務，作為一部分關於其控制在線搜索的反壟斷案件中的潛在補救措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/usa_vs_google_proposed_remedies/</guid>
       <pubDate>Wed, 09 Oct 2024 12:56:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[選擇新加坡作為亞太地區中心，並概述了獲得政府支持的願望 聊天GPT 製造商Open AI 今天宣布任命一位新老闆來領導其國際擴張。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/</guid>
       <pubDate>Wed, 09 Oct 2024 04:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯發科進軍第四維度 3nm八核心9400智慧型手機大腦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</link>
-      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</guid>
-      <pubDate>Wed, 09 Oct 2024 04:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
