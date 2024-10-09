@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 22:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 23:13:42 GMT</lastBuildDate>
+    <item>
+      <title>Deno 2.0 著眼於向後相容以向前發展</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/deno_20_now_plays_nicer/</link>
+      <description><![CDATA[JavaScript 和TypeScript 的現代運行時與Node.js 配合得更好 Deno，JavaScript 和TypeScript 的運行時，於週三發布了2.0 版本，帶來了過去以廣泛Node 形式存在的包袱.js 相容性...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/deno_20_now_plays_nicer/</guid>
+      <pubDate>Wed, 09 Oct 2024 22:35:58 GMT</pubDate>
+    </item>
     <item>
       <title>智慧電視正在監視每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</link>
-      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用與互聯網上否認隱私相同的廣告技術的經紀人受益。]]></description>
+      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用否認網路隱私的相同廣告技術的經紀人受益。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</guid>
       <pubDate>Wed, 09 Oct 2024 22:15:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>山姆大叔可能會迫使谷歌出售 Chrome 瀏覽器或 Android 作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/usa_vs_google_proposed_remedies/</link>
-      <description><![CDATA[科技巨頭反擊，稱司法部關於拆分 Alphabet 的提議以及更多「政府越權行為」 美國政府已確認，正在考慮要求法官迫使谷歌剝離部分業務，作為一部分關於其控制在線搜索的反壟斷案件中的潛在補救措施。]]></description>
+      <description><![CDATA[科技巨頭迅速反擊，稱司法部關於拆分 Alphabet 的提議以及更多「政府越權行為」 美國政府已確認，正在考慮要求法官迫使 Google 剝離部分業務，作為一部分關於其控制在線搜索的反壟斷案件中的潛在補救措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/usa_vs_google_proposed_remedies/</guid>
       <pubDate>Wed, 09 Oct 2024 12:56:09 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>英國監管創新辦公室發誓要削減繁文縟節——但我們以前就聽過這一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</link>
-      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國政府發生了更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
+      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國見證了政府的更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</guid>
       <pubDate>Wed, 09 Oct 2024 10:31:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[可以處理邊緣推理或運行64 個顯示命令中心 GPU 增強伺服器通常可以容納多達8 個加速器，但Supermicro 已經建立了一個盒子，可以將其中18 個加速器安裝在一個盒子內。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</guid>
       <pubDate>Wed, 09 Oct 2024 05:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 任命國際擴張負責人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/</link>
-      <description><![CDATA[選擇新加坡作為亞太地區中心，並概述了獲得政府支持的願望 聊天GPT 製造商Open AI 今天宣布任命一位新老闆來領導其國際擴張。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/</guid>
-      <pubDate>Wed, 09 Oct 2024 04:58:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
