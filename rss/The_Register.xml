@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 14:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:38:24 GMT</lastBuildDate>
+    <item>
+      <title>微軟清理週二補丁預覽版的熱門混亂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/windows_patch_tuesday_fixes/</link>
+      <description><![CDATA[繼續安裝重要的安全修復程式 微軟表示 Windows 11 星期二補丁預覽版的問題現已解決。 /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/windows_patch_tuesday_fixes/</guid>
+      <pubDate>Wed, 09 Oct 2024 15:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>美國陪審團認定 H-1B 簽證案中存在對非印度工人的歧視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>英國監管創新辦公室發誓要削減繁文縟節——但我們以前就聽過這一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</link>
-      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國政府發生了更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
+      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國見證了政府的更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</guid>
       <pubDate>Wed, 09 Oct 2024 10:31:11 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>聯發科進軍第四維度 3nm八核心9400智慧型手機大腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</link>
-      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
+      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科技推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</guid>
       <pubDate>Wed, 09 Oct 2024 04:31:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Startup 還計劃在第四季度推出推理服務 TensorWave 週二獲得了4300 萬美元的新資金，將其數據中心裝滿AMD 的Instinct 加速器，並將新的推理平台推向市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/tensorwave_amd_gpu_cloud/</guid>
       <pubDate>Tue, 08 Oct 2024 19:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工作中使用 iPhone 鏡像？你可能只是過度分享給你的老闆</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</link>
-      <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您手機上的應用程式清單 - 約會應用程式、追蹤醫療狀況或性史的應用程序，或您可能想保留給自己的任何其他 NSFW 應用程式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
-      <pubDate>Tue, 08 Oct 2024 18:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
