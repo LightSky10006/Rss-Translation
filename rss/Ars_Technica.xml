@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 22:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 23:35:39 GMT</lastBuildDate>
+    <item>
+      <title>迷宮般的適配器、軟體補丁讓專用 GPU 在 Raspberry Pi 上運行</title>
+      <link>https://arstechnica.com/gadgets/2024/10/maze-of-adapters-software-patches-gets-a-dedicated-gpu-working-on-a-raspberry-pi/</link>
+      <description><![CDATA[它不是一個遊戲巨頭，但它是一個有趣的概念證明。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/maze-of-adapters-software-patches-gets-a-dedicated-gpu-working-on-a-raspberry-pi/</guid>
+      <pubDate>Wed, 09 Oct 2024 22:48:17 GMT</pubDate>
+    </item>
     <item>
       <title>快速分析發現颶風海倫受氣候變遷影響</title>
       <link>https://arstechnica.com/science/2024/10/helenes-carolina-rainfall-made-70-percent-more-likely-by-climate-change/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>「黏性」轉向系統引發本田大規模召回 170 萬輛汽車受影響</title>
       <link>https://arstechnica.com/cars/2024/10/sticky-steering-sparks-huge-recall-for-honda-1-7m-cars-affected/</link>
-      <description><![CDATA[該問題影響了 2021 年以來生產的多款不同本田汽車。]]></description>
+      <description><![CDATA[這個問題影響了 2021 年以來生產的多款不同本田汽車。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/sticky-steering-sparks-huge-recall-for-honda-1-7m-cars-affected/</guid>
       <pubDate>Wed, 09 Oct 2024 21:04:10 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[X 封鎖了帳戶並支付了 500 萬美元的罰款才能在巴西恢復上線。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/x-reinstated-in-brazil-after-musk-pays-fines-agrees-to-follow-local-laws/</guid>
       <pubDate>Wed, 09 Oct 2024 16:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著電動車銷量飆升，通用汽車放棄了失敗的 Ultium 電池品牌</title>
-      <link>https://arstechnica.com/cars/2024/10/general-motors-is-ditching-ultium-branding-for-its-ev-batteries/</link>
-      <description><![CDATA[通用汽車表示，是時候採用新的細胞形式和化學物質了。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/general-motors-is-ditching-ultium-branding-for-its-ev-batteries/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:26:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

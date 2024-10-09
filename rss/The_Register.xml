@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 23:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 23:35:56 GMT</lastBuildDate>
+    <item>
+      <title>毗鄰莫斯科的 GoldenJackal 團夥利用定制惡意軟體攻擊隔離系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</link>
+      <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
+      <pubDate>Wed, 09 Oct 2024 23:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>Deno 2.0 著眼於向後相容以向前發展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/deno_20_now_plays_nicer/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[5、4、3、2、1，新的Supermarionation 開始了！  視頻 在花園小屋中發現了英國經典電視節目《雷鳥》中以前未曾見過的片段並在可能的情況下進行修復以供明年觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/missing_thunderbirds_footage/</guid>
       <pubDate>Wed, 09 Oct 2024 06:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supermicro 將 18 個 GPU 塞進 3U AI 伺服器中，設計速度有點慢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</link>
-      <description><![CDATA[可以處理邊緣推理或運行64 個顯示命令中心 GPU 增強伺服器通常可以容納多達8 個加速器，但Supermicro 已經建立了一個盒子，可以將其中18 個加速器安裝在一個盒子內。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</guid>
-      <pubDate>Wed, 09 Oct 2024 05:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
