@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 13:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:13:10 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體集團 Trinity 加入針對醫療保健的詐騙集團行列</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/</link>
+      <description><![CDATA[好像醫院和診所沒有足夠的擔心 至少一家美國醫療保健提供者已被Trinity 感染，這是一個新興的網路犯罪團夥，其同名勒索軟體使用雙重勒索和其他「複雜的手段」。據聯邦政府稱，這種策略使其成為「重大威脅」。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/</guid>
+      <pubDate>Wed, 09 Oct 2024 13:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔可能會迫使谷歌出售 Chrome 瀏覽器或 Android 作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/usa_vs_google_proposed_remedies/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>英國監管創新辦公室發誓要削減繁文縟節——但我們以前就聽過這一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</link>
-      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國見證了政府的更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
+      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國政府發生了更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</guid>
       <pubDate>Wed, 09 Oct 2024 10:31:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>聯發科進軍第四維度 3nm八核心9400智慧型手機大腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</link>
-      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科技推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
+      <description><![CDATA[仍堅持使用Arm，不採用RISC-V 無晶圓廠台灣晶片公司聯發科推出了適用於智慧型手機和其他行動裝置的天璣系列片上系統的第四款旗艦產品。對於那些想知道的人來說，它堅持使用密切的合作夥伴 Arm，而不是轉向 RISC-V 的 CPU 核心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/mediatek_dimensity_9400/</guid>
       <pubDate>Wed, 09 Oct 2024 04:31:06 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Tue, 08 Oct 2024 19:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>在工作中使用 iPhone Mirroring？你可能只是過度分享給你的老闆</title>
+      <title>在工作中使用 iPhone 鏡像？你可能只是過度分享給你的老闆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</link>
       <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您手機上的應用程式清單 - 約會應用程式、追蹤醫療狀況或性史的應用程序，或您可能想保留給自己的任何其他 NSFW 應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[幻覺、捏造的事實......而這只是人類政客 生成式人工智慧已經得出了邏輯結論，聊天機器人準備好在辯論中代替國會議員... ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/congressman_ai_bot/</guid>
       <pubDate>Tue, 08 Oct 2024 18:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>星鏈免費提供給遭受颶風海倫襲擊的人們。它不是完全免費的</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/free_starlink_hurricane_helene/</link>
-      <description><![CDATA[現在SpaceX 澄清了特別促銷 更新了 埃隆·馬斯克和SpaceX 慷慨地向美國遭受颶風海倫破壞的社區承諾的免費星鏈服務實際上並非完全免費，根據那些生活在災後的人們以及互聯網衛星運營商自己的註冊頁面的說法......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/free_starlink_hurricane_helene/</guid>
-      <pubDate>Tue, 08 Oct 2024 17:07:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
