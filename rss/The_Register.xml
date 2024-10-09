@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 14:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:40:39 GMT</lastBuildDate>
+    <item>
+      <title>美國陪審團認定 H-1B 簽證案中存在對非印度工人的歧視</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</link>
+      <description><![CDATA[IT 服務巨頭否認索賠，將對判決提出上訴 美國陪審團發現Cognizant 的僱傭做法構成對非印度工人的歧視行為，該案件起源於2013 年，並指控這家科技巨頭與本地工人相比，印度的 H-1B 簽證持有者受到青睞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</guid>
+      <pubDate>Wed, 09 Oct 2024 14:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體集團 Trinity 加入針對醫療保健的詐騙集團行列</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[除了你小小的螢幕上的約會應用程式之外，IT 還能看到什麼 如果您在工作中使用iPhone Mirroring：是時候停止了，以免讓雇主的IT 部門有能力窺探您手機上的應用程式清單 - 約會應用程式、追蹤醫療狀況或性史的應用程序，或您可能想保留給自己的任何其他 NSFW 應用程式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/iphone_mirroring_at_work/</guid>
       <pubDate>Tue, 08 Oct 2024 18:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>現任國會議員不出席辯論？訓練人工智慧閱讀他的新聞稿</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/congressman_ai_bot/</link>
-      <description><![CDATA[幻覺、捏造的事實......而這只是人類政客 生成式人工智慧已經得出了邏輯結論，聊天機器人準備好在辯論中代替國會議員... ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/congressman_ai_bot/</guid>
-      <pubDate>Tue, 08 Oct 2024 18:15:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
