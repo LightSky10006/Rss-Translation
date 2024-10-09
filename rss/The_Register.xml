@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 05:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 05:39:30 GMT</lastBuildDate>
+    <item>
+      <title>Supermicro 將 18 個 GPU 塞進 3U AI 伺服器中，設計速度有點慢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</link>
+      <description><![CDATA[可以處理邊緣推理或運行64 個顯示命令中心 GPU 增強伺服器通常可以容納多達8 個加速器，但Supermicro 已經建立了一個盒子，可以將其中18 個加速器安裝在一個盒子內。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/supermicro_sys_322gb_nr_18_gpu_server/</guid>
+      <pubDate>Wed, 09 Oct 2024 05:32:14 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 任命國際擴張負責人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/openai_appoints_international_expansion_boss/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Juniper Research 認為，擊敗他們的唯一方法就是加入他們 由於人工智慧，電子商務詐欺預計在未來五年內激增，建議商家做出回應......人工智慧. .....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/ecommerce_fraud_ai/</guid>
       <pubDate>Tue, 08 Oct 2024 11:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds 向被動語態宣戰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/08/linus_torvalds_grammar_complaint/</link>
-      <description><![CDATA[Linux 貢獻者被告知要整理他們的語法，以免被主動糾正 想像一下。一名開發人員提交了一個補丁來提高內核的性能，卻遭到了Linux 領導者Linus Torvalds 的輕蔑目光，他宣稱：「啊，但是你的分詞是懸而未決的！你如何期望內核在這種情況下蓬勃發展？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/08/linus_torvalds_grammar_complaint/</guid>
-      <pubDate>Tue, 08 Oct 2024 10:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
