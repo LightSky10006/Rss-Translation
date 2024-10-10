@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 02:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 04:15:20 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 稱中國團夥試圖對其員工進行網路釣魚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/china_phish_openai/</link>
+      <description><![CDATA[聲稱其模型並沒有讓威脅行為者變得更加複雜，而是幫助調試他們的代碼 OpenAI 聲稱該公司破壞了一次魚叉式網絡釣魚活動，該活動中一個中國組織透過以下方式針對其員工他們的個人和公司電子郵件地址。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/china_phish_openai/</guid>
+      <pubDate>Thu, 10 Oct 2024 04:05:39 GMT</pubDate>
+    </item>
     <item>
       <title>網路檔案館洩漏使用者資訊並遭受 DDoS 攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[傳統風格的豐富電子郵件用戶端- 但適用於平板電腦 MZLA，Thunderbird 電子郵件客戶端背後的公司，終於將其移動電子郵件客戶端應用程序投入Beta 測試- 但它比聽起來…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/thunderbird_for_android_beta/</guid>
       <pubDate>Wed, 09 Oct 2024 08:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot 的粗魯讓微軟再次追趕谷歌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/copilot_vs_notebooklm/</link>
-      <description><![CDATA[雷德蒙肯定知道幾乎沒有人能夠馴服非結構化資料嗎？這家軟體巨頭在企業中佔據主導地位，正在追趕陰雲密布的競爭對手，然後成功收購了ChatGPT 創建者OpenAI 的營利性子公司49% 的股份。 #include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/copilot_vs_notebooklm/</guid>
-      <pubDate>Wed, 09 Oct 2024 07:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
