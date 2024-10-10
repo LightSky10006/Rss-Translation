@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 10 Oct 2024 19:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 20:36:45 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜與蘋果達成協議，以 Prime 套餐形式提供 Apple TV+</title>
+      <link>https://arstechnica.com/gadgets/2024/10/amazon-apple-make-a-deal-to-offer-apple-tv-in-a-prime-bundle/</link>
+      <description><![CDATA[亞馬遜和蘋果都希望成為你的核心服務。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/amazon-apple-make-a-deal-to-offer-apple-tv-in-a-prime-bundle/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果前五金主管 Dan Riccio 即將退休</title>
+      <link>https://arstechnica.com/gadgets/2024/10/former-apple-hardware-chief-dan-riccio-is-retiring/</link>
+      <description><![CDATA[他並不是第一位採取多階段退休方式的蘋果高層。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/former-apple-hardware-chief-dan-riccio-is-retiring/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>利用內部訊息，iPhone 竊賊在聯邦快遞之後立即到達您家</title>
       <link>https://arstechnica.com/tech-policy/2024/10/using-inside-info-iphone-thieves-arrive-at-your-house-right-after-fedex/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[討論議程：隱私、合規性和使基礎設施更加智慧。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/join-ars-in-dc-for-infrastructure-cocktails-and-spycraft-on-october-29/</guid>
       <pubDate>Thu, 10 Oct 2024 14:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路歷史儲存庫 Archive.org 發生資料外洩事件</title>
-      <link>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</link>
-      <description><![CDATA[包含電子郵件地址和密碼雜湊值的 3,100 萬筆記錄被揭露。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</guid>
-      <pubDate>Thu, 10 Oct 2024 00:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>迷宮般的適配器、軟體補丁讓專用 GPU 在 Raspberry Pi 上運行</title>
-      <link>https://arstechnica.com/gadgets/2024/10/maze-of-adapters-software-patches-gets-a-dedicated-gpu-working-on-a-raspberry-pi/</link>
-      <description><![CDATA[它不是一個遊戲巨頭，但它是一個有趣的概念證明。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/maze-of-adapters-software-patches-gets-a-dedicated-gpu-working-on-a-raspberry-pi/</guid>
-      <pubDate>Wed, 09 Oct 2024 22:48:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
