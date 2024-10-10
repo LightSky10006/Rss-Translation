@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 14:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 14:38:56 GMT</lastBuildDate>
+    <item>
+      <title>高爾夫科技公司不顧隱私，在球道上留下了 3,200 萬筆數據記錄</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/trackman_unprotected_database/</link>
+      <description><![CDATA[研究人員在未受保護的資料庫中發現了 110 TB 的敏感資訊 屬於 Trackman 技術使用者的近 3,200 萬筆記錄暴露在網路上，位於未受密碼保護的資料庫中，根據研究員Jeremiah Fowler 的說法，時間長度尚未確定。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/trackman_unprotected_database/</guid>
+      <pubDate>Thu, 10 Oct 2024 14:14:10 GMT</pubDate>
+    </item>
     <item>
       <title>CISA 將新的 Ivanti 漏洞和關鍵的 Fortinet 漏洞添加到恥辱堂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cisa_ivanti_fortinet_vulns/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>荷蘭警方透露取締“世界上最大的暗網市場”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</link>
-      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波希米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
+      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波西米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</guid>
       <pubDate>Thu, 10 Oct 2024 06:30:14 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>智慧電視正在監視每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</link>
-      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用與互聯網上否認隱私相同的廣告技術的經紀人受益。]]></description>
+      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用否認網路隱私的相同廣告技術的經紀人受益。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</guid>
       <pubDate>Wed, 09 Oct 2024 22:15:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[無晶圓廠晶片公司被指僱用「訴訟殺手」來打擊競爭對手 台灣晶片公司聯發科技正接受美國司法部(DoJ) 的審查，該公司對與半導體的反壟斷糾紛有興趣同胞瑞昱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/doj_intervenes_realtek_mediatek/</guid>
       <pubDate>Wed, 09 Oct 2024 17:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特幣創造者嫌疑人稱他不是比特幣創造者嫌疑人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/satoshi_nakamoto_suspect_hbo_bitcoin/</link>
-      <description><![CDATA[「如果我是中本聰，我就會摧毀我證明自己是中本聰的能力」 HBO 新紀錄片中被認定為比特幣創造者中本聰的人有話要說：世界又錯了...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/satoshi_nakamoto_suspect_hbo_bitcoin/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
