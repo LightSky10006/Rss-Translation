@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 19:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 20:13:35 GMT</lastBuildDate>
+    <item>
+      <title>微軟承認 Outlook 崩潰，稱影響“減輕”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/microsoft_outlook_outage/</link>
+      <description><![CDATA[用戶只需要「刷新/重新啟動」他們的會話 微軟的Outlook 應用程式因記憶體問題而對歐洲用戶崩潰，雷德蒙德警告說，有證據表明該問題正在蔓延到美國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/microsoft_outlook_outage/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:57:23 GMT</pubDate>
+    </item>
     <item>
       <title>BBC天氣故障顯示倫敦風速13k英里/小時，諾丁漢氣溫404℃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>荷蘭警方透露取締“世界上最大的暗網市場”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</link>
-      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波希米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
+      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波西米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</guid>
       <pubDate>Thu, 10 Oct 2024 06:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[3,100 萬用戶的用戶名、電子郵件地址和加鹽加密密碼都在外面 在遭到DDoS 攻擊並暴露用戶資料後，互聯網檔案館在資訊安全方面經歷了糟糕的一天。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/</guid>
       <pubDate>Thu, 10 Oct 2024 01:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>毗鄰莫斯科的 GoldenJackal 團夥利用定制惡意軟體攻擊隔離系統</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</link>
-      <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
-      <pubDate>Wed, 09 Oct 2024 23:31:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
