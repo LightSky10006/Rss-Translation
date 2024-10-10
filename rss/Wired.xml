@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 10 Oct 2024 00:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 02:16:34 GMT</lastBuildDate>
+    <item>
+      <title>網路檔案外洩導致 3,100 萬用戶暴露</title>
+      <link>https://www.wired.com/story/internet-archive-hacked/</link>
+      <description><![CDATA[這次駭客攻擊暴露了 3,100 萬用戶的數據，這家陷入困境的 Wayback Machine 製造商正努力保持在線狀態並遏制數位攻擊和法律攻擊的影響。]]></description>
+      <guid>https://www.wired.com/story/internet-archive-hacked/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>29 項 30 美元以下最佳 Prime 會員日優惠</title>
       <link>https://www.wired.com/story/26-best-prime-day-deals-under-30-october-2024/</link>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 09 Oct 2024 22:27:44 GMT</pubDate>
     </item>
     <item>
-      <title>我們的 22 款最佳 Prime Day 筆記型電腦優惠只需點擊一下即可 (2024)</title>
+      <title>只需點擊一下即可獲得我們的 22 款最佳 Prime Day 筆記型電腦優惠 (2024)</title>
       <link>https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/</link>
       <description><![CDATA[從 MacBook 到 Chromebook，再到 Copilot+ PC，這些都是我們熟悉且喜愛的品牌推出的 Prime 會員日最佳筆記型電腦優惠。]]></description>
       <guid>https://www.wired.com/story/best-prime-day-laptop-deals-october-2024-1/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論是緊急情況還是露營時充電，現在都是購買行動電源或充電站的好時機。]]></description>
       <guid>https://www.wired.com/story/best-prime-day-portable-power-station-and-charger-deals-october-2024/</guid>
       <pubDate>Wed, 09 Oct 2024 14:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜夢想人工智慧代理為你購物</title>
-      <link>https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/</link>
-      <description><![CDATA[亞馬遜為其大型語言模型提供大量零售數據。它表示，有一天，它的人工智慧代理商可能會夠聰明，甚至不需要你開口就可以買東西給你。]]></description>
-      <guid>https://www.wired.com/story/amazon-ai-agents-shopping-guides-rufus/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

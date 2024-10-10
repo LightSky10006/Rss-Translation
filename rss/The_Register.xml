@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 09 Oct 2024 23:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 02:16:27 GMT</lastBuildDate>
     <item>
-      <title>毗鄰莫斯科的 GoldenJackal 團夥利用定制惡意軟體攻擊隔離系統</title>
+      <title>網路檔案館洩漏使用者資訊並遭受 DDoS 攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/</link>
+      <description><![CDATA[3,100 萬用戶的用戶名、電子郵件地址和加鹽加密密碼都在外面 在遭到DDoS 攻擊並暴露用戶資料後，互聯網檔案館在資訊安全方面經歷了糟糕的一天。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:33:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>毗鄰莫斯科的 GoldenJackal 團夥利用客製化惡意軟體攻擊隔離系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</link>
       <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>CIQ 以 2.5 萬美元收購 Rocky Linux 公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</link>
-      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合需要操作系統背後熱情社區支持的企業... ]]></description>
+      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合那些需要操作系統背後熱情社區支持的企業.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</guid>
       <pubDate>Wed, 09 Oct 2024 16:02:13 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>英國監管創新辦公室發誓要削減繁文縟節——但我們以前就聽過這一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</link>
-      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國見證了政府的更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
+      <description><![CDATA[真正的問題是不願投資 評論 今年夏天，英國政府發生了更迭。然而，即將上任的工黨與其前保守黨分享了一些關於監管和創新的想法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/uk_regulatory_innovation_office/</guid>
       <pubDate>Wed, 09 Oct 2024 10:31:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[雷德蒙肯定知道幾乎沒有人能夠馴服非結構化資料嗎？這家軟體巨頭在企業中佔據主導地位，正在追趕陰雲密布的競爭對手，然後成功收購了ChatGPT 創建者OpenAI 的營利性子公司49% 的股份。 #include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/copilot_vs_notebooklm/</guid>
       <pubDate>Wed, 09 Oct 2024 07:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國花園棚發現失蹤的雷鳥鏡頭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/missing_thunderbirds_footage/</link>
-      <description><![CDATA[5、4、3、2、1，新的Supermarionation 開始了！  視頻 在花園小屋中發現了英國經典電視節目《雷鳥》中以前未曾見過的片段並在可能的情況下進行修復以供明年觀看。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/missing_thunderbirds_footage/</guid>
-      <pubDate>Wed, 09 Oct 2024 06:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
