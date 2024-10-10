@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 10:40:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 11:34:58 GMT</lastBuildDate>
+    <item>
+      <title>Mozilla 修補了攻擊者已經利用的關鍵 Firefox 漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/</link>
+      <description><![CDATA[Firefixed：低複雜性、高影響力的安全漏洞的維護時間 由於Mozilla 針對瀏覽器中的關鍵代碼執行漏洞發布了安全公告，因此Firefox 粉絲的補丁時間到了。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/</guid>
+      <pubDate>Thu, 10 Oct 2024 11:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>版本 7.6 – “忒修斯的 OpenBSD” – 發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>荷蘭警方透露取締“世界上最大的暗網市場”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</link>
-      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波西米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
+      <description><![CDATA[兩人因涉嫌試圖牟取不義之財而被捕 臭名昭著的波希米亞和坎納比亞暗網市場的涉嫌管理員在顯然關閉了這些網站並試圖帶著他們的錢潛逃後被捕。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cannabia_bohemia_darkweb_market_investigation/</guid>
       <pubDate>Thu, 10 Oct 2024 06:30:14 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 10 Oct 2024 01:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>毗鄰莫斯科的 GoldenJackal 團夥利用客製化惡意軟體攻擊隔離系統</title>
+      <title>毗鄰莫斯科的 GoldenJackal 團夥利用定制惡意軟體攻擊隔離系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</link>
       <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>CIQ 以 2.5 萬美元收購 Rocky Linux 公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</link>
-      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合那些需要操作系統背後熱情社區支持的企業.. .]]></description>
+      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合需要操作系統背後熱情社區支持的企業... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</guid>
       <pubDate>Wed, 09 Oct 2024 16:02:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[繼續安裝重要的安全修復程式 微軟表示 Windows 11 星期二補丁預覽版的問題現已解決。 /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/windows_patch_tuesday_fixes/</guid>
       <pubDate>Wed, 09 Oct 2024 15:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國陪審團認定 H-1B 簽證案中存在對非印度工人的歧視</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</link>
-      <description><![CDATA[IT 服務巨頭否認索賠，將對判決提出上訴 美國陪審團發現Cognizant 的僱傭做法構成對非印度工人的歧視行為，該案件起源於2013 年，並指控這家科技巨頭與本地工人相比，印度的 H-1B 簽證持有者受到青睞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
