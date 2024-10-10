@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 10 Oct 2024 14:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:12:57 GMT</lastBuildDate>
     <item>
-      <title>Archive.org，一個儲存整個網路歷史的儲存庫，發生了資料洩露</title>
+      <title>Sunderfolk 是一款透過手機玩的沙發合作戰術角色扮演遊戲。不，真的。</title>
+      <link>https://arstechnica.com/gaming/2024/10/sunderfolk-is-a-couch-co-op-tactical-rpg-you-play-with-a-phone-no-really/</link>
+      <description><![CDATA[暴雪資深人士表示，桌面職業玩家和休閒玩家都可以在沙發上佔有一席之地。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/sunderfolk-is-a-couch-co-op-tactical-rpg-you-play-with-a-phone-no-really/</guid>
+      <pubDate>Thu, 10 Oct 2024 15:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 月 29 日與 Ars 一起在華盛頓特區了解基礎設施、雞尾酒和間諜活動</title>
+      <link>https://arstechnica.com/information-technology/2024/10/join-ars-in-dc-for-infrastructure-cocktails-and-spycraft-on-october-29/</link>
+      <description><![CDATA[討論議程：隱私、合規性和使基礎設施更加智慧。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/join-ars-in-dc-for-infrastructure-cocktails-and-spycraft-on-october-29/</guid>
+      <pubDate>Thu, 10 Oct 2024 14:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>網路歷史儲存庫 Archive.org 發生資料外洩事件</title>
       <link>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</link>
       <description><![CDATA[包含電子郵件地址和密碼雜湊值的 3,100 萬筆記錄被揭露。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[新型黏合系統可能成為水下打撈、救援行動的強大工具。]]></description>
       <guid>https://arstechnica.com/science/2024/10/octopus-suckers-inspire-new-tech-for-gripping-objects-underwater/</guid>
       <pubDate>Wed, 09 Oct 2024 19:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌在其量子處理器中識別出低噪聲“相變”</title>
-      <link>https://arstechnica.com/science/2024/10/google-identifies-low-noise-phase-transition-in-its-quantum-processor/</link>
-      <description><![CDATA[基準測試可以幫助我們了解量子電腦如何以低誤差運行。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/google-identifies-low-noise-phase-transition-in-its-quantum-processor/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:58:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbird Android 用戶端是 K-9 Mail 的重生，並且處於穩定測試階段</title>
-      <link>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</link>
-      <description><![CDATA[Android 長期以來為簡單、快速的電子郵件提供的庇護所幾乎就是 Thunderbird。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:01:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

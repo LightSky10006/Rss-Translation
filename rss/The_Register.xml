@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 14:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:13:26 GMT</lastBuildDate>
+    <item>
+      <title>Arrow Lake 濺落：英特爾寄望於猛龍隊的替代品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/intel_arrow_lake_deep_dive/</link>
+      <description><![CDATA[新晶片、新架構和大量新主機板的出現來支援它，但功耗會下降嗎？ Meteor Lake SoC ，這是第一個使用多重平鋪封裝的行動分解晶片。雖然一致認為 Meteor Lake 失敗了，但它確實為英特爾在消費領域嘗試新事物鋪平了道路。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/intel_arrow_lake_deep_dive/</guid>
+      <pubDate>Thu, 10 Oct 2024 15:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>高爾夫科技公司不顧隱私，在球道上留下了 3,200 萬筆數據記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/trackman_unprotected_database/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們只是希望他們不要把文學獎也頒給機器人 今年的諾貝爾獎將成為人工智慧的勝利。繼昨天將物理獎授予早期人工智慧先驅者之後，化學獎現已授予人工智慧蛋白質預測平台 AlphaFold 和蛋白質設計工具 Rosetta 的創建者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/alphafold_rosetta_nobel_chemistry_prize/</guid>
       <pubDate>Wed, 09 Oct 2024 18:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國司法部介入瑞昱訴訟，指控聯發科濫用專利</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/doj_intervenes_realtek_mediatek/</link>
-      <description><![CDATA[無晶圓廠晶片公司被指僱用「訴訟殺手」來打擊競爭對手 台灣晶片公司聯發科技正接受美國司法部(DoJ) 的審查，該公司對與半導體的反壟斷糾紛有興趣同胞瑞昱...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/doj_intervenes_realtek_mediatek/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
