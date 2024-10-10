@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 15:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 16:15:19 GMT</lastBuildDate>
+    <item>
+      <title>SAP承諾雲端低程式碼環境中的開發人員“融合團隊”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/sap_promise_developer_fusion_teams/</link>
+      <description><![CDATA[但專案必須在舊的桌面IDE 中完成 TechEd 企業軟體巨頭SAP 將在其平台上為開發人員引入一系列功能，包括有前景的AI代理、知識SAP 低程式碼開發環境 Build 中的圖形和基於雲端的整合功能。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/sap_promise_developer_fusion_teams/</guid>
+      <pubDate>Thu, 10 Oct 2024 15:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Arrow Lake 濺落：英特爾寄望於猛龍隊的替代品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/intel_arrow_lake_deep_dive/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[單人樂隊面臨大量訴訟，但資產很少 數據經紀公司 National Public Data 背後的佛羅裡達州業務已申請破產，承認“數億”人可能受到影響今年最大的信息洩露事件之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/national_public_data_bankrupt/</guid>
       <pubDate>Wed, 09 Oct 2024 19:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>諾貝爾化學獎授予 AlphaFold、Rosetta 的創造者——人工智慧的另一場勝利</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/alphafold_rosetta_nobel_chemistry_prize/</link>
-      <description><![CDATA[我們只是希望他們不要把文學獎也頒給機器人 今年的諾貝爾獎將成為人工智慧的勝利。繼昨天將物理獎授予早期人工智慧先驅者之後，化學獎現已授予人工智慧蛋白質預測平台 AlphaFold 和蛋白質設計工具 Rosetta 的創建者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/alphafold_rosetta_nobel_chemistry_prize/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:29:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
