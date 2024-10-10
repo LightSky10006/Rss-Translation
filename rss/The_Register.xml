@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 18:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 19:35:06 GMT</lastBuildDate>
+    <item>
+      <title>BBC天氣故障顯示倫敦風速13k英里/小時，諾丁漢氣溫404℃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</link>
+      <description><![CDATA[我們會知道這是不是真的，而且我們的記者也很好 那些依靠 BBC 在線天氣預報來計劃一天的人如果今天早上醒來並認為世界末日即將來臨，但預計倫敦明天的風速為13,508 英里每小時，諾丁漢的最低氣溫為404℃，這顯然是錯誤的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 在 Turin 首次亮相，將 Epyc 核心數量增至 192 個，時脈高達 5 GHz</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_epyc_turin/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
       <pubDate>Wed, 09 Oct 2024 23:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deno 2.0 著眼於向後相容以向前發展</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/deno_20_now_plays_nicer/</link>
-      <description><![CDATA[JavaScript 和TypeScript 的現代運行時與Node.js 配合得更好 Deno，JavaScript 和TypeScript 的運行時，於週三發布了2.0 版本，帶來了過去以廣泛Node 形式存在的包袱.js 相容性...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/deno_20_now_plays_nicer/</guid>
-      <pubDate>Wed, 09 Oct 2024 22:35:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
