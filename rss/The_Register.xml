@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 04:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 05:38:37 GMT</lastBuildDate>
+    <item>
+      <title>您遇到的問題是“問題”在 Jira 中始終被稱為“問題”，因此 Atlassian 現在允許將它們稱為“任務”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/atlassian_jira_issues/</link>
+      <description><![CDATA[開發人員可以從錯誤報告中獲得自動編碼想法，此外還有更多人工智慧 Atlassian 推出了其專案管理和錯誤追蹤工具 Jira 的新版本，該工具首次允許用戶處理“問題”以外的事情。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/atlassian_jira_issues/</guid>
+      <pubDate>Thu, 10 Oct 2024 05:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 稱中國團夥試圖對其員工進行網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/china_phish_openai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[BT 和一些 MVNO 非常反對工會，VMO2 由於頻譜協議而更加寬鬆 電信業對沃達豐和 Three UK 擬議合併的意見存在分歧，至少有一個競爭對手支持合併這筆交易，而其他人則希望看到英國競爭監管機構完全廢除它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/vodafone_three_merger_remedies/</guid>
       <pubDate>Wed, 09 Oct 2024 09:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 版 Thunderbird 已經上線——至少測試版已經上線</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/thunderbird_for_android_beta/</link>
-      <description><![CDATA[傳統風格的豐富電子郵件用戶端- 但適用於平板電腦 MZLA，Thunderbird 電子郵件客戶端背後的公司，終於將其移動電子郵件客戶端應用程序投入Beta 測試- 但它比聽起來…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/thunderbird_for_android_beta/</guid>
-      <pubDate>Wed, 09 Oct 2024 08:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
