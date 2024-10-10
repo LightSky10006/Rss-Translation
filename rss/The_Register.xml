@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 12:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 13:40:19 GMT</lastBuildDate>
+    <item>
+      <title>CISA 將新的 Ivanti 漏洞和關鍵的 Fortinet 漏洞添加到恥辱堂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cisa_ivanti_fortinet_vulns/</link>
+      <description><![CDATA[解決聯邦機構重大風險的通常三週窗口適用 美國網路安全和基礎設施安全局(CISA) 表示，Fortinet 和Ivanti 產品中的漏洞現在正被利用，從而為它們贏得了安全部門的一席之地。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cisa_ivanti_fortinet_vulns/</guid>
+      <pubDate>Thu, 10 Oct 2024 13:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>儘管人工智慧熱潮不斷，個人電腦出貨量仍處於中立狀態</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/pc_market_gartner_canalys/</link>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 10 Oct 2024 01:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>毗鄰莫斯科的 GoldenJackal 團夥利用客製化惡意軟體攻擊隔離系統</title>
+      <title>毗鄰莫斯科的 GoldenJackal 團夥利用定制惡意軟體攻擊隔離系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</link>
       <description><![CDATA[USB 記憶棒有所幫助，但尚不清楚如何提供從USB 記憶棒中吸取惡意軟體的工具 名為GoldenJackal 的網路間諜APT 人員使用兩組USB 裝置至少兩次入侵屬於政府和外交實體的氣隙PC據防病毒供應商ESET 的研究人員稱，定制惡意軟體。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/goldenjackal_custom_malware/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>智慧電視正在監視每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</link>
-      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用與互聯網上否認隱私相同的廣告技術的經紀人受益。]]></description>
+      <description><![CDATA[監管機構知道這是一場噩夢，但卻沒有採取任何措施來阻止它。隱私倡導組織希望改變這種情況 智慧電視正在監視觀眾並收集他們的數據，以便使用否認網路隱私的相同廣告技術的經紀人受益。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/smart_tv_spy_on_viewers/</guid>
       <pubDate>Wed, 09 Oct 2024 22:15:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「如果我是中本聰，我就會摧毀我證明自己是中本聰的能力」 HBO 新紀錄片中被認定為比特幣創造者中本聰的人有話要說：世界又錯了...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/satoshi_nakamoto_suspect_hbo_bitcoin/</guid>
       <pubDate>Wed, 09 Oct 2024 17:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>CIQ 以 2.5 萬美元收購 Rocky Linux 公司</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</link>
-      <description><![CDATA[透過賠償和更新保證支持 RHEL 相容發行版 CIQ 推出了 Rocky Linux 版本，該版本由服務等級目標和賠償支持，適合需要操作系統背後熱情社區支持的企業... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/rocky_linux_from_ciq/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:02:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
