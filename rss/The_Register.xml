@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 10 Oct 2024 09:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 10:40:44 GMT</lastBuildDate>
+    <item>
+      <title>版本 7.6 – “忒修斯的 OpenBSD” – 發布</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</link>
+      <description><![CDATA[非常適合黑衣超簡約型。您可能不喜歡它 OpenBSD 可以說是通用電腦最安全的通用作業系統。此版本具有更好的筆記型電腦支持，包括更多Arm64 套件，並帶來硬體加速視訊播放。 --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</guid>
+      <pubDate>Thu, 10 Oct 2024 10:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>Advania UK 吞併 IT 服務競爭對手 CCS Media</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/advania_acquires_ccs_media/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[IT 服務巨頭否認索賠，將對判決提出上訴 美國陪審團發現Cognizant 的僱傭做法構成對非印度工人的歧視行為，該案件起源於2013 年，並指控這家科技巨頭與本地工人相比，印度的 H-1B 簽證持有者受到青睞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/us_jury_cognizant_case/</guid>
       <pubDate>Wed, 09 Oct 2024 14:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體集團 Trinity 加入針對醫療保健的詐騙集團行列</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/</link>
-      <description><![CDATA[好像醫院和診所沒有足夠的擔心 至少一家美國醫療保健提供者已被Trinity 感染，這是一個新興的網路犯罪團夥，其同名勒索軟體使用雙重勒索和其他「複雜的手段」。據聯邦政府稱，這種策略使其成為「重大威脅」。...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/09/trinity_ransomware_targets_healthcare_orgs/</guid>
-      <pubDate>Wed, 09 Oct 2024 13:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
