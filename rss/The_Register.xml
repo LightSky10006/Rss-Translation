@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 11:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:25:37 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉重磅揭曉：無方向盤的Robotaxi將實現無線充電</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/tesla_robotaxi_robovan_arrive/</link>
+      <description><![CDATA[WCGW？另外：Automous Robovan 也在Cyber​​cab 的亮相派對上驚喜亮相 配備了回到未來風格的折疊門，特斯拉終於展示了它的Robotaxi，以及一輛自動小巴和Optimus 機器人… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/tesla_robotaxi_robovan_arrive/</guid>
+      <pubDate>Fri, 11 Oct 2024 11:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAC 兩人因竊取和出售事故受害者數據而被捕</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/rac_worker_convictions/</link>
+      <description><![CDATA[道路救援企業因部署安全監控軟體並向警察舉報員工而受到讚揚 道路救援提供者RAC 的兩名前員工本週因非法複製和出售數萬行個人資料而被判處緩刑有關事故人員的數據......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/rac_worker_convictions/</guid>
+      <pubDate>Fri, 11 Oct 2024 11:45:16 GMT</pubDate>
+    </item>
     <item>
       <title>凱爾·斯塔默 (Keir Starmer) 任命前 Darktrace 老闆為投資部長</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/darktrace_investment_minister/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[但專案必須在舊的桌面IDE 中完成 TechEd 企業軟體巨頭SAP 將在其平台上為開發人員引入一系列功能，包括有前景的AI代理、知識SAP 低程式碼開發環境 Build 中的圖形和基於雲端的整合功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/sap_promise_developer_fusion_teams/</guid>
       <pubDate>Thu, 10 Oct 2024 15:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arrow Lake 濺落：英特爾寄望於猛龍隊的替代品</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/intel_arrow_lake_deep_dive/</link>
-      <description><![CDATA[新晶片、新架構和大量新主機板的出現來支援它，但功耗會下降嗎？ Meteor Lake SoC ，這是第一個使用多重平鋪封裝的行動分解晶片。雖然一致認為 Meteor Lake 失敗了，但它確實為英特爾在消費領域嘗試新事物鋪平了道路。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/intel_arrow_lake_deep_dive/</guid>
-      <pubDate>Thu, 10 Oct 2024 15:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>高爾夫科技公司不顧隱私，在球道上留下了 3,200 萬筆數據記錄</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/trackman_unprotected_database/</link>
-      <description><![CDATA[研究人員在未受保護的資料庫中發現了 110 TB 的敏感資訊 屬於 Trackman 技術使用者的近 3,200 萬筆記錄暴露在網路上，位於未受密碼保護的資料庫中，根據研究員Jeremiah Fowler 的說法，時間長度尚未確定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/trackman_unprotected_database/</guid>
-      <pubDate>Thu, 10 Oct 2024 14:14:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
