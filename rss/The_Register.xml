@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 05:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 06:43:59 GMT</lastBuildDate>
+    <item>
+      <title>根據哈伯快照，木星的大紅斑像果凍一樣擺動</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/jupiter_grs_wobbles/</link>
+      <description><![CDATA[科學家尚未確定可能的味道 在用哈伯太空望遠鏡觀察木星大紅斑（GRS）90天后，科學家們確定它的行為就像“一碗明膠”.... ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/jupiter_grs_wobbles/</guid>
+      <pubDate>Fri, 11 Oct 2024 06:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>FBI 創建了一種加密貨幣，以便可以觀察它被濫用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/fbi_nexfundai_crypto_fraud_sting/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Firefixed：低複雜性、高影響力的安全漏洞的維護時間 由於Mozilla 針對瀏覽器中的關鍵代碼執行漏洞發布了安全公告，因此Firefox 粉絲的補丁時間到了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/</guid>
       <pubDate>Thu, 10 Oct 2024 11:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>版本 7.6 – “忒修斯的 OpenBSD” – 發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</link>
-      <description><![CDATA[非常適合黑衣超簡約型。您可能不喜歡它 OpenBSD 可以說是通用電腦最安全的通用作業系統。此版本具有更好的筆記型電腦支持，包括更多Arm64 套件，並帶來硬體加速視訊播放。 --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</guid>
-      <pubDate>Thu, 10 Oct 2024 10:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
