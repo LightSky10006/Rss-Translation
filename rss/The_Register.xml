@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 04:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 05:38:23 GMT</lastBuildDate>
+    <item>
+      <title>FBI 創建了一種加密貨幣，以便可以觀察它被濫用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/fbi_nexfundai_crypto_fraud_sting/</link>
+      <description><![CDATA[它奏效了——本週在英國、美國和葡萄牙逮捕了涉嫌拉高拋售的陰謀者 聯邦調查局創建了自己的加密貨幣，以便可以監視涉嫌欺詐者使用它——這個想法非常有效，以至於產生了在三個國家被捕。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/fbi_nexfundai_crypto_fraud_sting/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>騰訊打造一個NoSQL資料庫統治所有資料模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/tencent_x_store_multi_model_nosql/</link>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 10 Oct 2024 21:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>儘管存在可靠性問題，GSA仍繼續推進人臉匹配技術</title>
+      <title>儘管存在可靠性問題，GSA 仍繼續推進人臉匹配技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/gsa_plows_ahead_with_face/</link>
-      <description><![CDATA[在表示遠端身分驗證技術不可靠一週後，GSA 正在擴大對其他機構的存取範圍 美國政府總務管理局(GSA) 的臉部配對登入服務現已普遍向公眾開放，並且其他聯邦機構，儘管其最近的報告承認該技術遠非完美。]]></description>
+      <description><![CDATA[在表示遠端身分驗證技術不可靠一週後，GSA 正在擴大對其他機構的存取範圍 美國政府總務管理局 (GSA) 的臉部配對登入服務現已向公眾開放，並且其他聯邦機構，儘管其最近的報告承認該技術遠非完美。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/gsa_plows_ahead_with_face/</guid>
       <pubDate>Thu, 10 Oct 2024 20:45:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>AMD 在 Turin 首次亮相，將 Epyc 核心數量增至 192 個，時脈高達 5 GHz</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_epyc_turin/</link>
-      <description><![CDATA[當然，只是不在同一個晶片上 英特爾的128 核Granite Rapids Xeon 推出還不到兩週，AMD 已經推出了第五代Epyc 系列進行反擊，其銷量達到了兩位數IPC 增益高達 192 個核心或高達 5 GHz 的時脈速度。]]></description>
+      <description><![CDATA[當然，只是不在同一個晶片上 Intel 的128 核Granite Rapids Xeon 推出還不到兩週，AMD 已經推出了第五代Epyc 系列進行反擊，其銷量達到了兩位數IPC 增益高達 192 個核心或高達 5 GHz 的時脈速度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_epyc_turin/</guid>
       <pubDate>Thu, 10 Oct 2024 18:03:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[非常適合黑衣超簡約型。您可能不喜歡它 OpenBSD 可以說是通用電腦最安全的通用作業系統。此版本具有更好的筆記型電腦支持，包括更多Arm64 套件，並帶來硬體加速視訊播放。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/</guid>
       <pubDate>Thu, 10 Oct 2024 10:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advania UK 吞併 IT 服務競爭對手 CCS Media</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/advania_acquires_ccs_media/</link>
-      <description><![CDATA[收購標誌著市場整合 獨家 隨著 Advania UK 收購 CCS Media，英國技術服務市場的整合仍在繼續。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/advania_acquires_ccs_media/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
