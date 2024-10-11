@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 14:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 15:37:35 GMT</lastBuildDate>
+    <item>
+      <title>能源公司被要求為人工智慧資料中心激增充電</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/energy_companies_ai_dcs_consultant_report/</link>
+      <description><![CDATA[貝恩警告稱，電力需求很快就會超過供應 美國能源公司必須適應人工智慧驅動的數據中心繁榮，預計未來幾年用電量將超過供應。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/energy_companies_ai_dcs_consultant_report/</guid>
+      <pubDate>Fri, 11 Oct 2024 15:35:05 GMT</pubDate>
+    </item>
     <item>
       <title>當您可以讓您的 Zoom 數位視訊複製來讀取腳本時，為什麼還要發送訊息呢？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/zoom_clips_avatar_scripted_message/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[VRAM 比承諾的要少，但仍然比 Hopper 更多 AMD 在 Advancing AI 活動期間推出下一代 MI325X AI 加速器，將其 Instinct 加速器上的 VRAM 提升至 256 GB HBM3e週四在舊金山。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_mi325x_ai_gpu/</guid>
       <pubDate>Thu, 10 Oct 2024 18:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>無論您是否需要，AMD 的最新處理器都瞄準了 AI</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_ryzen_ai_pro_300_series/</link>
-      <description><![CDATA[Ryzen AI PRO 300 系列很大程度上依賴 Microsoft 的 Copilot+ PC 需求 AMD 推出了專為商業應用程式設計的最新處理器。該系列包括Ryzen AI 9 HX PRO 375、Ryzen AI 9 HX PRO 370 和Ryzen AI 7 HX PRO 360。 ... 這些設備基於AMD Zen 5 微架構構建，旨在為企業提供高性能和先進的AI 功能。 &lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_ryzen_ai_pro_300_series/</guid>
-      <pubDate>Thu, 10 Oct 2024 18:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
