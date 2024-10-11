@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 06:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 07:35:48 GMT</lastBuildDate>
+    <item>
+      <title>技術人員花了五分鐘解決了 Adob​​e 和 Microsoft 兩週內無法解決的問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/on_call/</link>
+      <description><![CDATA[這就是為什麼每個管理員都喜歡討厭Windows On Call  隨著週五的到來，Reg 讀者可以開始考慮按“關機”按鈕工作週。為了讓您在神奇的點擊時刻臨近時感到高興，我們總是提供最新一期的 On Call——我們的讀者貢獻的技術支援任務專欄，這些任務朝著有趣的方向發展。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/on_call/</guid>
+      <pubDate>Fri, 11 Oct 2024 07:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>根據哈伯快照，木星的大紅斑像果凍一樣擺動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/jupiter_grs_wobbles/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[分析師無法就市場是小幅上漲還是小幅下跌達成一致 儘管圍繞人工智慧PC 進行了大肆宣傳，但PC 市場並未顯示出太多反彈跡象，市場觀察人士對於單位出貨量是否上漲有分歧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/pc_market_gartner_canalys/</guid>
       <pubDate>Thu, 10 Oct 2024 12:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla 修補了攻擊者已經利用的關鍵 Firefox 漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/</link>
-      <description><![CDATA[Firefixed：低複雜性、高影響力的安全漏洞的維護時間 由於Mozilla 針對瀏覽器中的關鍵代碼執行漏洞發布了安全公告，因此Firefox 粉絲的補丁時間到了。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/firefixed_mozilla_patches_critical_firefox/</guid>
-      <pubDate>Thu, 10 Oct 2024 11:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
