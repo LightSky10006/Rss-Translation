@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 17:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:42:23 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 24H2 囤積了 8.63 GB 無法刪除的垃圾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</link>
+      <description><![CDATA[當「清理」選項頑固地拒絕時 Windows 11 24H2 使用者發現在安裝最近發布的功能更新後，其裝置上仍然存在不可刪除的資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>烏克蘭網路警察逮捕了一名將公民連接到俄羅斯網路的男子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ukraine_startup_russia_vpn/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們會知道這是不是真的，而且我們的記者也很好 那些依靠 BBC 在線天氣預報來計劃一天的人如果今天早上醒來並認為世界末日即將來臨，但預計倫敦明天的風速為13,508 英里每小時，諾丁漢的最低氣溫為404℃，這顯然是錯誤的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</guid>
       <pubDate>Thu, 10 Oct 2024 19:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 在 Turin 首次亮相，將 Epyc 核心數量增至 192 個，時脈高達 5 GHz</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_epyc_turin/</link>
-      <description><![CDATA[當然，只是不在同一個晶片上 Intel 的128 核Granite Rapids Xeon 推出還不到兩週，AMD 已經推出了第五代Epyc 系列進行反擊，其銷量達到了兩位數IPC 增益高達 192 個核心或高達 5 GHz 的時脈速度。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/amd_epyc_turin/</guid>
-      <pubDate>Thu, 10 Oct 2024 18:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
