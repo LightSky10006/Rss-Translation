@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 11 Oct 2024 18:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 20:13:04 GMT</lastBuildDate>
+    <item>
+      <title>第五巡迴法院規則 ISP 應終止被指控盜版的網路用戶</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/record-labels-win-again-court-says-isp-must-terminate-users-accused-of-piracy/</link>
+      <description><![CDATA[由於第五巡迴法院支持環球、華納和索尼，ISP Grande 失去了吸引力。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/record-labels-win-again-court-says-isp-must-terminate-users-accused-of-piracy/</guid>
+      <pubDate>Fri, 11 Oct 2024 19:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asahi Linux 的客製化 GPU 驅動程式可在 Apple Silicon Mac 上執行 Windows 遊戲</title>
+      <link>https://arstechnica.com/apple/2024/10/asahi-linuxs-bespoke-gpu-driver-is-running-windows-games-on-apple-silicon-macs/</link>
+      <description><![CDATA[Asahi 的 Vulkan GPU 驅動程式和各種轉換層的工作正在取得回報。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/asahi-linuxs-bespoke-gpu-driver-is-running-windows-games-on-apple-silicon-macs/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 增加了一個殘酷的事實：你購買的是“許可證”，而不是遊戲本身</title>
+      <link>https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/</link>
+      <description><![CDATA[嚴酷的事實恰逢加州一項新的打擊虛假廣告的法律出現。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/</guid>
+      <pubDate>Fri, 11 Oct 2024 18:33:58 GMT</pubDate>
+    </item>
     <item>
       <title>根據您的回饋，Ars 9.0.1 重新設計已上線</title>
       <link>https://arstechnica.com/staff/2024/10/ars-9-0-1-redesign-is-now-live-with-density-tweaks-and-visited-link-colors/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[谷歌已經表示，計劃對允許 Xbox 進入的裁決提出上訴。]]></description>
       <guid>https://arstechnica.com/gaming/2024/10/xbox-plans-to-set-up-shop-in-androids-play-store-if-court-order-holds/</guid>
       <pubDate>Fri, 11 Oct 2024 14:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆馬斯克在好萊塢外景地大膽宣稱特斯拉機器人計程車</title>
-      <link>https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/</link>
-      <description><![CDATA[特斯拉重拾了一些十年前關於移動性作為機器人技術未來的想法。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/</guid>
-      <pubDate>Fri, 11 Oct 2024 13:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 2024 更新中需要了解的 11 件事</title>
-      <link>https://arstechnica.com/gadgets/2024/10/eleven-things-to-know-about-in-the-windows-11-2024-update/</link>
-      <description><![CDATA[了解今年 Windows 版本中的一些變化和細節。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/eleven-things-to-know-about-in-the-windows-11-2024-update/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報告：ULA 正在調查 SRB 異常；歐羅巴快艇已準備好起飛</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-europa-clipper-on-hold-for-milton-spanish-startups-big-ambitions/</link>
-      <description><![CDATA[美國太空軍的有效載荷將搭載在脈衝太空公司的低溫太空拖船的首次飛行中。]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-europa-clipper-on-hold-for-milton-spanish-startups-big-ambitions/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:00:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

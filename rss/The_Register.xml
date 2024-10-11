@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 18:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 20:13:23 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 滿 20 歲了：「神諭黃鶯」表明這隻老鳥仍然有足夠的飛行能力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ubuntu_oracular_oriole_released/</link>
+      <description><![CDATA[24.10 版本提供了樂趣和新鮮感，但不是不變性 自有點麻煩的Noble Numbat 以來Ubuntu 的第一個臨時版本是一個平滑的升級- 但並不是所有新的熱點都在這裡。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ubuntu_oracular_oriole_released/</guid>
+      <pubDate>Fri, 11 Oct 2024 19:59:48 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 24H2 囤積了 8.63 GB 無法刪除的垃圾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[用戶只需要「刷新/重新啟動」他們的會話 微軟的Outlook 應用程式因記憶體問題而對歐洲用戶崩潰，雷德蒙德警告說，有證據表明該問題正在蔓延到美國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/microsoft_outlook_outage/</guid>
       <pubDate>Thu, 10 Oct 2024 19:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>BBC天氣故障顯示倫敦風速13k英里/小時，諾丁漢氣溫404℃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</link>
-      <description><![CDATA[我們會知道這是不是真的，而且我們的記者也很好 那些依靠 BBC 在線天氣預報來計劃一天的人如果今天早上醒來並認為世界末日即將來臨，但預計倫敦明天的風速為13,508 英里每小時，諾丁漢的最低氣溫為404℃，這顯然是錯誤的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/</guid>
-      <pubDate>Thu, 10 Oct 2024 19:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
