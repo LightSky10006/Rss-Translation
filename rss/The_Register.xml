@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 12 Oct 2024 03:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 10:39:57 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 的克勞德容易受到“情緒操縱”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/</link>
+      <description><![CDATA[AI 模型安全性僅此而已 Anthropic 的Claude 3.5 Sonnet，儘管被譽為表現較好的生成式AI 模型之一，但仍然可以確信會發出種族主義仇恨言論和惡意軟體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/</guid>
+      <pubDate>Sat, 12 Oct 2024 10:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>美國和英國政府警告：俄羅斯正在掃描您未修補的漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/12/russia_is_targeting_you_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[它還能打字，所以機器人醫生可以為你治療並清晰地書寫 機器人手很常見，但與人類相比，它們的觸覺很粗糙。中國的一群科學家提出的設計可能會改變這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/soft_robot_finger/</guid>
       <pubDate>Fri, 11 Oct 2024 00:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>反人類卡運動鼓勵投票，揭露個人資料濫用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cards_against_humanity_us_election/</link>
-      <description><![CDATA[計劃投票和公開誹謗的罰款最高可達100 美元——這怎麼不違法？敏感個人資訊是多麼容易。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cards_against_humanity_us_election/</guid>
-      <pubDate>Thu, 10 Oct 2024 23:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
