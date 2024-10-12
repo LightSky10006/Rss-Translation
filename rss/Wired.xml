@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 12 Oct 2024 13:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 13:35:22 GMT</lastBuildDate>
+    <item>
+      <title>如何阻止您的資料被用於訓練人工智慧</title>
+      <link>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</link>
+      <description><![CDATA[有些公司允許您選擇不允許您的內容用於生成人工智慧。以下是如何從 ChatGPT、Google 的 Gemini 等奪回（至少一點）控制權。]]></description>
+      <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
+      <pubDate>Sat, 12 Oct 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>聯想 ThinkBook Plus（第 5 代）評測：Windows 與 Android 混合體</title>
       <link>https://www.wired.com/review/lenovo-thinkbook-plus-gen-5/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[OpenAI 承諾向客製化 GPT 創作者支付費用。現在大多數人都轉向外部來源來獲取收入。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-store/</guid>
       <pubDate>Fri, 11 Oct 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Richard Mille 的新款麥克拉倫手錶有一個「快速啟動」按鈕</title>
-      <link>https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/</link>
-      <description><![CDATA[售價 373,000 美元的 RM65-01 McLaren W1 腕錶配備了該品牌有史以來生產的最複雜的自動機芯。]]></description>
-      <guid>https://www.wired.com/story/richard-mille-rm65-01-mclaren-w1-has-a-jump-start-button/</guid>
-      <pubDate>Fri, 11 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
