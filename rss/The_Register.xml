@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 11 Oct 2024 23:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 03:21:41 GMT</lastBuildDate>
+    <item>
+      <title>美國和英國政府警告：俄羅斯正在掃描您未修補的漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/12/russia_is_targeting_you_for/</link>
+      <description><![CDATA[此外，透過電話進行網路釣魚更容易，而且您的F5 Cookie 可能未加密，等等 簡而言之如果您需要一個藉口來改善您的修補習慣，可以聯合使用美國和英國政府關於俄羅斯正在進行的大規模利用已知漏洞的活動的建議應該可以解決問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/12/russia_is_targeting_you_for/</guid>
+      <pubDate>Sat, 12 Oct 2024 03:05:11 GMT</pubDate>
+    </item>
     <item>
       <title>INC 勒索軟體更名為 Lynx – 相同的程式碼、新名稱，但仍然不懷好意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/inc_ransomware_lynx/</link>
-      <description><![CDATA[研究人員指出有證據顯示渣男造訪了策略精品店 帕洛阿爾托Unit 42 的研究人員認為INC 勒索軟體團隊已經不復存在，並且最近在三個月內將自己重新命名為Lynx。]]></description>
+      <description><![CDATA[研究人員指出有證據表明渣男造訪了戰略精品店 帕洛阿爾托Unit 42 的研究人員認為INC 勒索軟體團隊已經不復存在，並且最近在三個月內將自己重新命名為Lynx。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/inc_ransomware_lynx/</guid>
       <pubDate>Fri, 11 Oct 2024 23:00:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[計劃投票和公開誹謗的罰款最高可達100 美元——這怎麼不違法？敏感個人資訊是多麼容易。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/cards_against_humanity_us_election/</guid>
       <pubDate>Thu, 10 Oct 2024 23:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>騙子竊取了 77,000 名富達投資客戶的個人資訊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/10/fidelity_investment_data_breach/</link>
-      <description><![CDATA[但是，嘿，不用擔心，該公司聲稱沒有資料濫用的證據 富達投資已通知 77,099 人，他們的個人資訊在 8 月的資料外洩中被盜。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/10/fidelity_investment_data_breach/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
