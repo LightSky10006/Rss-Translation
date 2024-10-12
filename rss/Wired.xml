@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 10:11:56 GMT</lastBuildDate>
+    <item>
+      <title>殺豬騙局正走向高科技</title>
+      <link>https://www.wired.com/story/pig-butchering-scams-go-high-tech/</link>
+      <description><![CDATA[東南亞的詐騙者越來越多地轉向人工智慧、深度造假和危險的惡意軟體，這使得他們的生豬屠宰行動更加令人信服。]]></description>
+      <guid>https://www.wired.com/story/pig-butchering-scams-go-high-tech/</guid>
+      <pubDate>Sat, 12 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一個神秘的駭客組織有兩種新工具可以從氣隙機器中竊取數據</title>
       <link>https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[《寶貝》、《第一個預兆》和《善良》只是您現在需要在 Hulu 上觀看的幾部電影。]]></description>
       <guid>https://www.wired.com/story/best-movies-hulu-right-now/</guid>
       <pubDate>Thu, 10 Oct 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜的 Rufus AI 購物助手現在可以讓一些購物者檢查價格歷史記錄</title>
-      <link>https://www.wired.com/story/amazon-rufus-price-check/</link>
-      <description><![CDATA[交易真的是交易嗎？亞馬遜的 ChatGPT 競爭對手，一個名為 Rufus 的聊天機器人，現在將回答一些用戶有關價格變化的問題。]]></description>
-      <guid>https://www.wired.com/story/amazon-rufus-price-check/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:39:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
