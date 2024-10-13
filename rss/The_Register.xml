@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 13 Oct 2024 10:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 13:18:30 GMT</lastBuildDate>
+    <item>
+      <title>學校遭到民族國家攻擊、勒索軟體集團以及中間人的轟炸</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/13/schools_nationstate_attacks_ransomware/</link>
+      <description><![CDATA[閱讀、寫作和網路混亂，amirite？ 「有限資源」加上難以保護的 IT 環境，」教育將處於重疊狀態。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/13/schools_nationstate_attacks_ransomware/</guid>
+      <pubDate>Sun, 13 Oct 2024 13:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>絕密 X-37B 太空飛機準備進行大膽的新軌道機動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/12/x37b_space_plane/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[透過「X-Stor」控制資料庫蔓延並節省多雲資源 獨家 中國網路巨頭騰訊透露，它創建了一個NoSQL 資料庫，它相信該資料庫可以處理多種資料模型比其他嘗試更優雅地這樣做，並使用它來整合其資料庫群並提高資源利用率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/tencent_x_store_multi_model_nosql/</guid>
       <pubDate>Fri, 11 Oct 2024 04:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>醫療保健攻擊蔓延到美國以外的地區——問問印度的 Star Health 就知道了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/star_health_breach/</link>
-      <description><![CDATA[承認在Telegram 頻道將其發佈到網上幾週後，大量客戶資料被洩露 印度領先的健康保險公司Star Health 承認自己是網路攻擊的受害者，犯罪分子聲稱他們發布了3000 萬筆記錄-加上線上客戶。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/star_health_breach/</guid>
-      <pubDate>Fri, 11 Oct 2024 02:57:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
