@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 23:11:42 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 推出基於授權內容訓練的 AI 影片產生器</title>
+      <link>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</link>
+      <description><![CDATA[新的文字轉影片工具專注於影片專業人士，在內容所有者許可的情況下製作。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果公司的研究暴露了法學碩士「推理」能力的嚴重缺陷</title>
+      <link>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</link>
+      <description><![CDATA[不相關的轉移注意力會導致邏輯推理的「災難性」失敗。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>專家證人利用副駕駛來彌補虛假損失，惹惱了法官</title>
       <link>https://arstechnica.com/tech-policy/2024/10/judge-confronts-expert-witness-who-used-copilot-to-fake-expertise/</link>
@@ -34,7 +48,7 @@
       <pubDate>Mon, 14 Oct 2024 19:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧聊天機器人能夠理解而人類卻無法理解的隱形文字？是的，這是一件事。</title>
+      <title>人工智慧聊天機器人能理解而人類無法理解的隱形文字？是的，這是一件事。</title>
       <link>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</link>
       <description><![CDATA[Unicode 標準中的一個怪癖隱藏著一個理想的隱寫程式碼通道。]]></description>
       <guid>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“如果你所知道的一切都是真的，那隻是一個彌天大謊怎麼辦？”]]></description>
       <guid>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</guid>
       <pubDate>Mon, 14 Oct 2024 18:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年後，許多 PC 將會從 Windows 10 更新懸崖上掉下來</title>
-      <link>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</link>
-      <description><![CDATA[Windows 10 是迄今為止最常用的 Windows 版本，支援很快就會結束。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</guid>
-      <pubDate>Mon, 14 Oct 2024 17:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>在聽到川普競選團隊的消息後，馬斯克的 X 封鎖了 JD Vance 檔案的鏈接</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</link>
-      <description><![CDATA[報道：川普競選團隊「與X聯繫以防止連結傳播」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</guid>
-      <pubDate>Mon, 14 Oct 2024 16:41:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
