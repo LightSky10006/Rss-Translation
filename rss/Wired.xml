@@ -4,7 +4,7 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 14 Oct 2024 16:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:11:21 GMT</lastBuildDate>
     <item>
       <title>密碼之戰距離結束又更近了一步</title>
       <link>https://www.wired.com/story/passkey-portability-fido-alliance/</link>
@@ -41,17 +41,17 @@
       <pubDate>Mon, 14 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年都柏林最熱門的新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</link>
-      <description><![CDATA[愛爾蘭首都對大型科技的擁抱正在滲透到其新創公司中，這些新創公司正在為 IT 團隊建立更好的工具、人工智慧內容審核工具以及牛群 RNA 篩檢。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年馬德里最熱門新創企業</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/</link>
       <description><![CDATA[西班牙首都正在吸引來自拉丁美洲的人才，其引人注目的新創公司正在致力於智慧支付、老年護理和人工智慧驅動的虛擬護理師。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-madrid-in-2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年都柏林最熱門的新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</link>
+      <description><![CDATA[愛爾蘭首都對大型科技的擁抱正在滲透到其新創公司中，這些新創公司正在為 IT 團隊建立更好的工具、人工智慧內容審核工具以及牛群 RNA 篩檢。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -69,10 +69,10 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年柏林最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</link>
-      <description><![CDATA[德國首都吸引了來自世界各地的人才，其新創公司正在開發無數人工智慧生成的音訊應用程式、虛擬寵物應用程式和用於早期野火檢測的感測器。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</guid>
+      <title>2024 年巴黎最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-paris-in-2024/</link>
+      <description><![CDATA[法國首都已成為歐洲不斷發展的人工智慧產業的發源地，但與米斯特拉爾這樣的巨頭並肩作戰的還有建設電動車充電基礎設施並試圖徹底改變社交媒體的新創公司。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-paris-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -83,13 +83,6 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年巴黎最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-paris-in-2024/</link>
-      <description><![CDATA[法國首都已成為歐洲不斷發展的人工智慧產業的發源地，但與米斯特拉爾這樣的巨頭並肩作戰的還有建設電動車充電基礎設施並試圖徹底改變社交媒體的新創公司。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-paris-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年阿姆斯特丹最熱門新創企業</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/</link>
       <description><![CDATA[阿姆斯特丹約有 4,000 家新創公司，其中最好的 10 家分別致力於解決森林火災、脫碳塑膠和建造機器人瓦工。]]></description>
@@ -97,10 +90,17 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年倫敦最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</link>
-      <description><![CDATA[英國首都最令人興奮的新創公司展示了其在生物技術和人工智慧方面的優勢。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</guid>
+      <title>2024 年柏林最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</link>
+      <description><![CDATA[德國首都吸引了來自世界各地的人才，其新創公司正在開發無數人工智慧生成的音訊應用程式、虛擬寵物應用程式和用於早期野火檢測的感測器。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年蘇黎世最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</link>
+      <description><![CDATA[這座瑞士首都可能與金融科技最為相關，但其新創公司也專注於醫療機器人、人工智慧驅動的語言學習和未來電池。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -111,10 +111,10 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年蘇黎世最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</link>
-      <description><![CDATA[這座瑞士首都可能與金融科技最為相關，但其新創公司也專注於醫療機器人、人工智慧驅動的語言學習和未來電池。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</guid>
+      <title>2024 年倫敦最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</link>
+      <description><![CDATA[英國首都最令人興奮的新創公司展示了其在生物技術和人工智慧方面的優勢。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
