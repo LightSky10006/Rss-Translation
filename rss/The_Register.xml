@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 14 Oct 2024 13:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 14:39:52 GMT</lastBuildDate>
+    <item>
+      <title>伊朗入侵後，川普競選團隊配備了「無法破解」的手機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/trump_unhackable_phones/</link>
+      <description><![CDATA[佛羅裡達州男子獲得了「有史以來最好的」 距離美國選民前往投票站選舉下一任總統還有不到一個月的時間，川普競選團隊一直在投資安全技術確保它不會再被駭客攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/trump_unhackable_phones/</guid>
+      <pubDate>Mon, 14 Oct 2024 14:28:05 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧對電力的渴望讓煤火繼續燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/ai_datacenters_coal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[24.10 版本提供了樂趣和新鮮感，但不是不變性 自有點麻煩的Noble Numbat 以來Ubuntu 的第一個臨時版本是一個平滑的升級- 但並不是所有新的熱點都在這裡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ubuntu_oracular_oriole_released/</guid>
       <pubDate>Fri, 11 Oct 2024 19:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 24H2 囤積了 8.63 GB 無法刪除的垃圾</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</link>
-      <description><![CDATA[當「清理」選項頑固地拒絕時 Windows 11 24H2 使用者發現在安裝最近發布的功能更新後，其裝置上仍然存在不可刪除的資料。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
