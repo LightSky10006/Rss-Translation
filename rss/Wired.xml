@@ -4,7 +4,21 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:58:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 13:27:01 GMT</lastBuildDate>
+    <item>
+      <title>我們測試和審查的 7 款最佳殺蟲劑</title>
+      <link>https://www.wired.com/story/best-bug-sprays/</link>
+      <description><![CDATA[我們的作者在跑步、遠足和晚上嘗試了一些最受歡迎的驅蟲劑。這些是我們推薦的。]]></description>
+      <guid>https://www.wired.com/story/best-bug-sprays/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 戲劇性的火箭捕獲讓星際旅行又更近了一步</title>
+      <link>https://www.wired.com/story/spacex-starship-super-heavy-mechazilla-catch/</link>
+      <description><![CDATA[透過證明其超重型助推器可以返回地球並著陸，SpaceX 距離創建可重複使用的星際運輸系統又近了一步。]]></description>
+      <guid>https://www.wired.com/story/spacex-starship-super-heavy-mechazilla-catch/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:02:22 GMT</pubDate>
+    </item>
     <item>
       <title>掌握「隱喻：ReFantazio」的 7 個技巧</title>
       <link>https://www.wired.com/story/metaphor-refantazio-tips-how-to-level-followers-what-archetypes-to-use/</link>
@@ -48,13 +62,6 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年阿姆斯特丹最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/</link>
-      <description><![CDATA[阿姆斯特丹約有 4,000 家新創公司，其中最好的 10 家分別致力於解決森林火災、脫碳塑膠和建造機器人瓦工。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年巴黎最熱門新創企業</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-paris-in-2024/</link>
       <description><![CDATA[法國首都已成為歐洲不斷發展的人工智慧產業的發源地，但與米斯特拉爾這樣的巨頭並肩作戰的還有建設電動車充電基礎設施並試圖徹底改變社交媒體的新創公司。]]></description>
@@ -83,17 +90,24 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年柏林最熱門新創企業</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</link>
-      <description><![CDATA[德國首都吸引了來自世界各地的人才，其新創公司正在開發無數人工智慧生成的音訊應用程式、虛擬寵物應用程式和用於早期野火檢測的感測器。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年倫敦最熱門新創企業</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</link>
       <description><![CDATA[英國首都最令人興奮的新創公司展示了其在生物技術和人工智慧方面的優勢。]]></description>
       <guid>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年阿姆斯特丹最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/</link>
+      <description><![CDATA[阿姆斯特丹約有 4,000 家新創公司，其中最好的 10 家分別致力於解決森林火災、脫碳塑膠和建造機器人瓦工。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-amsterdam-in-2024/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年柏林最熱門新創企業</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</link>
+      <description><![CDATA[德國首都吸引了來自世界各地的人才，其新創公司正在開發無數人工智慧生成的音訊應用程式、虛擬寵物應用程式和用於早期野火檢測的感測器。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-berlin-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -130,20 +144,6 @@
       <description><![CDATA[早在 2021 年，摩根·內維爾 (Morgan Neville) 就認為使用人工智慧重現已故安東尼·波登 (Anthony Bourdain) 的聲音將成為他的紀錄片中一個有趣的復活節彩蛋。他最終成為好萊塢人工智慧煤礦中的金絲雀。]]></description>
       <guid>https://www.wired.com/story/piece-by-piece-director-morgan-neville-will-never-use-ai-again/</guid>
       <pubDate>Sun, 13 Oct 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>來自不同物種的細胞可以使用 RNA 交換“短信”</title>
-      <link>https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/</link>
-      <description><![CDATA[RNA 長期以來被認為是細胞內的信使，現在越來越被視為生命的分子通訊系統，甚至在因進化而相距甚遠的生物體之間也是如此。]]></description>
-      <guid>https://www.wired.com/story/cells-across-the-tree-of-life-exchange-text-messages-using-rna/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>高端時尚仿冒​​品數量激增，山寨貨永遠無法做到這一點</title>
-      <link>https://www.wired.com/story/high-end-fashion-dupes-are-soaring-where-knock-offs-never-could/</link>
-      <description><![CDATA[奢侈品的高品質仿製品不斷增加，人們不再羞於購買它們。設計師品牌如何保持吸引力？]]></description>
-      <guid>https://www.wired.com/story/high-end-fashion-dupes-are-soaring-where-knock-offs-never-could/</guid>
-      <pubDate>Sun, 13 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

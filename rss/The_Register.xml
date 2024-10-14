@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 13:26:54 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧對電力的渴望讓煤火繼續燃燒</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/ai_datacenters_coal/</link>
+      <description><![CDATA[減少我們對化石燃料的依賴就這麼多了 更多證據表明，人工智慧驅動的資料中心能源需求正在延長美國燃煤電廠的壽命。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/ai_datacenters_coal/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:14:05 GMT</pubDate>
+    </item>
     <item>
       <title>數千個 Fortinet 實例容易受到主動利用的缺陷的影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/fortinet_vulnerability/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當「清理」選項頑固地拒絕時 Windows 11 24H2 使用者發現在安裝最近發布的功能更新後，其裝置上仍然存在不可刪除的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/windows_update_cleanup/</guid>
       <pubDate>Fri, 11 Oct 2024 18:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>烏克蘭網路警察逮捕了一名涉嫌將公民連接到俄羅斯網路的男子</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ukraine_startup_russia_vpn/</link>
-      <description><![CDATA[「自學成才的駭客」可能面臨 15 年監禁 一名 28 歲的烏克蘭人因涉嫌操縱這個飽受戰爭蹂躪的國家的網絡而面臨最高 15 年的監禁警方正在調查一項非法VPN 服務，該服務有助於訪問受制裁的俄羅斯網站。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ukraine_startup_russia_vpn/</guid>
-      <pubDate>Fri, 11 Oct 2024 17:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
