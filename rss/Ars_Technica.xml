@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 14 Oct 2024 03:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:13:05 GMT</lastBuildDate>
+    <item>
+      <title>本月夜空中將可見兩顆彗星</title>
+      <link>https://arstechnica.com/science/2024/10/two-comets-will-be-visible-in-the-night-skies-this-month/</link>
+      <description><![CDATA[來自遙遠奧特雲的萬聖節遊客。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/two-comets-will-be-visible-in-the-night-skies-this-month/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:55:26 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 在半空中捕捉到返回的火箭，將一個奇特的想法變成了現實</title>
       <link>https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>星際飛船即將進行第五次飛行，這次有個陷阱</title>
       <link>https://arstechnica.com/space/2024/10/starship-is-about-to-launch-on-its-fifth-flight-and-this-time-theres-a-catch/</link>
-      <description><![CDATA[“我們會看到助推器飛回來並降落在塔上，然後被武器捕獲，否則我們就會摧毀塔。”]]></description>
+      <description><![CDATA[“我們會看到助推器……被手臂抓住，否則我們會摧毀塔樓。”]]></description>
       <guid>https://arstechnica.com/space/2024/10/starship-is-about-to-launch-on-its-fifth-flight-and-this-time-theres-a-catch/</guid>
       <pubDate>Sun, 13 Oct 2024 07:49:24 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Asahi 的 Vulkan GPU 驅動程式和各種轉換層的工作正在取得回報。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/asahi-linuxs-bespoke-gpu-driver-is-running-windows-games-on-apple-silicon-macs/</guid>
       <pubDate>Fri, 11 Oct 2024 18:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 增加了一個殘酷的事實：你購買的是“許可證”，而不是遊戲本身</title>
-      <link>https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/</link>
-      <description><![CDATA[新文本是根據加州新的反虛假廣告法發布的。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:33:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
