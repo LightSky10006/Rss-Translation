@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 12:58:51 GMT</lastBuildDate>
+    <item>
+      <title>數千個 Fortinet 實例容易受到主動利用的缺陷的影響</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/fortinet_vulnerability/</link>
+      <description><![CDATA[沒有任何藉口不修補這個九個月前的問題 根據Shadowserver 的數據，超過86,000 個Fortinet 實例仍然容易受到攻擊者上週開始利用的嚴重缺陷的影響。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/fortinet_vulnerability/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>這些最新眾核晶片的最佳用途是什麼？伺服器供應商表示，人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/manycore_chips_ai_servers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[「自學成才的駭客」可能面臨 15 年監禁 一名 28 歲的烏克蘭人因涉嫌操縱這個飽受戰爭蹂躪的國家的網絡而面臨最高 15 年的監禁警方正在調查一項非法VPN 服務，該服務有助於訪問受制裁的俄羅斯網站。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/ukraine_startup_russia_vpn/</guid>
       <pubDate>Fri, 11 Oct 2024 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>能源公司被要求為人工智慧資料中心激增充電</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/11/energy_companies_ai_dcs_consultant_report/</link>
-      <description><![CDATA[貝恩警告稱，電力需求很快就會超過供應 美國能源公司必須適應人工智慧驅動的數據中心繁榮，預計未來幾年用電量將超過供應。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/11/energy_companies_ai_dcs_consultant_report/</guid>
-      <pubDate>Fri, 11 Oct 2024 15:35:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
