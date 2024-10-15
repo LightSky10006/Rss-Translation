@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 15 Oct 2024 04:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:18:12 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 禁止 WP Engine 贊助或參與使用者群組</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/wordpress_bans_wpengine_from_events/</link>
+      <description><![CDATA[由於 Matt Mullenweg 和 David Heinemeier Hansson 就 FOSS 問題產生爭執，社區擔心其後果 WordPress 已禁止其用戶組接受 WP Engine 的贊助，甚至禁止其員工參加活動。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/wordpress_bans_wpengine_from_events/</guid>
+      <pubDate>Tue, 15 Oct 2024 06:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>印度儲備銀行行長表示，人工智慧放大了金融部門的系統性風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/india_rbi_ai_risks/</link>
@@ -48,14 +55,14 @@
       <pubDate>Mon, 14 Oct 2024 19:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Windows 10 即將終止支持，「史上最大的 Ctrl-Alt-Delete」倒數一年</title>
+      <title>Windows 10 即將終止支持，「史上最大的 Ctrl-Alt-Delete」倒數一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/final_year_windows_10/</link>
       <description><![CDATA[微軟的硬體相容性賭博仍未獲得回報 Windows 10 現在距離支援結束日期僅一年，很明顯，微軟的硬體相容性賭博尚未獲得回報。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/final_year_windows_10/</guid>
       <pubDate>Mon, 14 Oct 2024 17:27:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署的歐羅巴快艇搭乘獵鷹重型飛船前往木星的衛星</title>
+      <title>美國太空總署的歐羅巴快艇搭乘獵鷹重型太空船前往木星衛星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/spacexs_falcon_heavy_launches_nasas/</link>
       <description><![CDATA[在躲避颶風和偏執擦洗後升空 SpaceX 已將NASA 的歐羅巴快艇(Europa Clipper) 搭載在其獵鷹重型火箭上執行前往木星衛星的任務。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/spacexs_falcon_heavy_launches_nasas/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 14 Oct 2024 12:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>這些最新眾核晶片的最佳用途是什麼？伺服器供應商表示，人工智慧</title>
+      <title>這些最新眾核晶片的最佳用途是什麼？伺服器供應商表示人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/manycore_chips_ai_servers/</link>
       <description><![CDATA[PC 製造商可能無法推銷這個想法- 大鐵有更好的機會 分析 任何想知道多核怪物晶片的目標市場是什麼的人-AMD的新晶片推出第五代 Epyc 處理器 - 不必等待太久：伺服器供應商認為更多、更強大的人工智慧系統只是門票 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/manycore_chips_ai_servers/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 14 Oct 2024 08:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>壓縮？那是什麼？為什麼網路壅塞、電腦當機？</title>
+      <title>壓縮？那是什麼？為什麼會出現網路壅塞、電腦當機的狀況？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/who_me/</link>
       <description><![CDATA[唯一比「全部回覆」風暴更糟糕的是「全部發送」風暴 誰，我？  沒有什麼比幸災樂禍更能減輕重新進入的痛苦了工作週，這就是為什麼The Reg每週一早上都會以《誰，我？其中讀者分享了技術支援不太順利的故事。希望這會讓您自我感覺更好。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/who_me/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 14 Oct 2024 05:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>WP Engine 外掛被強行分叉，法律信件飛揚，WordPress 傳奇升級</title>
+      <title>WordPress 傳奇升級，WP Engine 外掛被強行分叉，法律信件飛揚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/wordpress_forks_wpengine_plugin/</link>
       <description><![CDATA[WP Engine 似乎也被排除在贊助活動之外 WordPress 聯合創始人 Matthew Mullenweg 和 CMS 託管公司 WP Engine 之間的爭斗在週末升級，後者似乎成為了角色WordPress 社群不受歡迎——或至少是由Mullenweg 運作的部分社群。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/wordpress_forks_wpengine_plugin/</guid>
       <pubDate>Mon, 14 Oct 2024 04:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次的魅力：SpaceX 捕獲了正在下降的超重型助推器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/13/first_time_success_spacexs_mechazilla/</link>
-      <description><![CDATA[發射塔上的機械筷子抓住返回的火箭，星艦濺落在目標上 SpaceX 的工程師在周六完成了兩項重大壯舉：用火箭發射塔上的機械臂抓住星艦的超重型助推器，以及實現星艦本身在印度洋的精確著陸。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/13/first_time_success_spacexs_mechazilla/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:46:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
