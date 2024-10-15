@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 22:38:34 GMT</lastBuildDate>
+    <item>
+      <title>隨著 FDA 的退出，藥廠可以繼續生產非品牌減肥藥</title>
+      <link>https://arstechnica.com/health/2024/10/drugmakers-can-keep-making-off-brand-weight-loss-drugs-as-fda-backpedals/</link>
+      <description><![CDATA[FDA 正在審查其將替西帕肽藥物從短缺清單中刪除的決定。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/drugmakers-can-keep-making-off-brand-weight-loss-drugs-as-fda-backpedals/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 共和黨人反對對數據上限進行類比咖啡續杯的監管</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/fcc-republican-opposes-regulation-of-data-caps-with-analogy-to-coffee-refills/</link>
+      <description><![CDATA[共和黨專員：你不會要求免費續杯咖啡，對嗎？]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/fcc-republican-opposes-regulation-of-data-caps-with-analogy-to-coffee-refills/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>北韓駭客利用新發現的 Linux 惡意軟體攻擊 ATM</title>
+      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
+      <description><![CDATA[曾經，FASTCash 只在 Unix 上運行。然後是Windows。現在它也可以針對 Linux。]]></description>
+      <guid>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>木質摩天大樓使永續建築達到新高度</title>
       <link>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</link>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 15 Oct 2024 15:51:05 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果 A17 Pro 晶片是三年來首次 iPad mini 更新的明星</title>
+      <title>Apple A17 Pro 晶片是三年來首次 iPad mini 更新的明星</title>
       <link>https://arstechnica.com/apple/2024/10/first-ipad-mini-update-since-2021-gets-a-faster-chip-and-apple-intelligence/</link>
       <description><![CDATA[更新後的平板電腦支援 Apple Pencil Pro，128GB 售價 499 美元起。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/first-ipad-mini-update-since-2021-gets-a-faster-chip-and-apple-intelligence/</guid>
       <pubDate>Tue, 15 Oct 2024 15:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本車型始終是最好的——我們駕駛 2025 年保時捷 Macan</title>
-      <link>https://arstechnica.com/cars/2024/10/we-drive-the-two-sweet-spots-in-porsches-2025-macan-ev-lineup/</link>
-      <description><![CDATA[我們駕駛 RWD Macan 和雙馬達 Macan 4S。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/we-drive-the-two-sweet-spots-in-porsches-2025-macan-ev-lineup/</guid>
-      <pubDate>Tue, 15 Oct 2024 12:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署啟動任務探索木星衛星歐羅巴的冰凍邊界</title>
-      <link>https://arstechnica.com/space/2024/10/nasa-launches-mission-to-explore-the-frozen-frontier-of-jupiters-moon-europa/</link>
-      <description><![CDATA[“我們感興趣的是木衛二是否能夠支持簡單的生命——單細胞生物。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/nasa-launches-mission-to-explore-the-frozen-frontier-of-jupiters-moon-europa/</guid>
-      <pubDate>Tue, 15 Oct 2024 02:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 推出基於授權內容訓練的 AI 影片產生器</title>
-      <link>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</link>
-      <description><![CDATA[新的文字轉影片工具專注於影片專業人士，在內容所有者許可的情況下製作。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:48:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
