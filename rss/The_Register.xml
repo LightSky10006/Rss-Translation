@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 15 Oct 2024 17:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 18:16:40 GMT</lastBuildDate>
+    <item>
+      <title>英特爾、AMD 與科技巨頭聯手進行 x86 ISA 全面改革</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/</link>
+      <description><![CDATA[Linus Torvalds、Broadcom、Dell、HPE 和 Lenovo 均榜上有名 x86 指令集架構 (ISA) 的形態正在不斷發展。週二，英特爾和 AMD 宣布成立一個生態系統諮詢小組，旨在提高兩個品牌 x86 實施之間的一致性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/</guid>
+      <pubDate>Tue, 15 Oct 2024 17:41:03 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 淡化了爆炸半徑擴大的風險以及多核心晶片的授權費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/amd_risk_cores/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 15 Oct 2024 16:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>儘管產業成長放緩，分析師預測到 2025 年道路上行駛的電動車數量將達到 8,500 萬輛</title>
+      <title>分析師預測，儘管產業發展速度緩慢，但到 2025 年，道路上行駛的電動車數量將達到 8,500 萬輛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/</link>
       <description><![CDATA[中國將領先，北美落後 技術分析師預測，到 2025 年，電動車 (EV) 的使用數量將增長 33%，其中 73% 將由電池驅動（ BEV）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/</guid>
@@ -57,14 +64,14 @@
     <item>
       <title>三星的 HBM3E 是一場災難，但還有回頭路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/samsung_hb3me/</link>
-      <description><![CDATA[274% 的利潤增長掩蓋了錯過最後期限、拙劣的發布和混亂的領導地位 評論 儘管三星電子公佈的2024 年第三季度營業利潤看似令人印象深刻的274% 成長，但正處於危機模式。在這些財務數據的背後，是一個正在瓦解的半導體策略，給這家韓國科技巨頭帶來了嚴峻的挑戰。 _whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
+      <description><![CDATA[274% 的利潤增長掩蓋了錯過最後期限、拙劣的發布和混亂的領導地位 評論 儘管三星電子公佈的2024 年第三季度營業利潤看似令人印象深刻的274% 成長，但正處於危機模式。這些財務資料背後隱藏著正在瓦解的半導體策略，為這家韓國科技巨頭帶來了嚴峻的挑戰。 &#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/samsung_hb3me/</guid>
       <pubDate>Tue, 15 Oct 2024 12:30:10 GMT</pubDate>
     </item>
     <item>
       <title>郵局尋求更多地平線支持，繼續尋找替代品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/post_office_horizon_dc_support/</link>
-      <description><![CDATA[必須有人保持這些後端系統的運作 陷入困境的英國郵局已開始與供應商對話，以幫助支持其有爭議的Horizo​​n 系統，合約金額可能高達1 億英鎊（131 美元）百萬），因為它致力於取代 EPOS 和後端金融技術。]]></description>
+      <description><![CDATA[必須有人保持這些後端系統的運作 陷入困境的英國郵局已開始與供應商對話，以幫助支持其有爭議的Horizo​​n 系統，合約金額可能高達1 億英鎊（131 美元）百萬），因為它正在取代 EPOS 和後端金融技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/post_office_horizon_dc_support/</guid>
       <pubDate>Tue, 15 Oct 2024 11:46:07 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 15 Oct 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>微軟高層凱爾·斯塔默（Keir Starmer）擔任顧問委員會主席後，要求監管機構保持冷靜</title>
+      <title>微軟高層凱爾·斯塔默 (Keir Starmer) 呼籲監管機構保持冷靜，擔任顧問委員會主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/uk_prime_minister_regulators/</link>
       <description><![CDATA[可能會出現什麼問題？國的競爭監管機構更傾向於經濟成長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/uk_prime_minister_regulators/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>歐空局太空人談乘坐聯盟號和駕駛載人龍飛船之間的區別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/esa_astronaut_interview/</link>
-      <description><![CDATA[另外：我們討論登上月球並讓國際太空站再運行幾年 採訪 第一個在太空飛行的丹麥人安德烈亞斯·摩根森(Andreas Mogensen) 認為國際太空站（ISS）有可能再持續幾年並懷抱造訪月球的希望。]]></description>
+      <description><![CDATA[另外：我們討論登上月球並讓國際太空站再運行幾年 採訪 第一個飛入太空的丹麥人安德烈亞斯·摩根森(Andreas Mogensen) 認為國際太空站（ISS）有可能再持續幾年並懷抱造訪月球的希望。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/esa_astronaut_interview/</guid>
       <pubDate>Tue, 15 Oct 2024 08:30:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[它一直等到哥倫布日週末之前才進行強製備案，但別擔心，我們看到了 一家位於休斯敦的醫療保健組織服務提供商表示在不法分子在訪問其中一位客戶的系統後，騙子可能已經獲取了多達400,000 人的信息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/gryphon_healthcare_breach/</guid>
       <pubDate>Mon, 14 Oct 2024 22:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大數據供應商在同一週推出 Apache Iceberg 功能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/14/apache_iceberg_feature_announcements/</link>
-      <description><![CDATA[市場競爭對手選擇了開放表格式，而Microsoft 和Databricks 則各行其是 在資料倉儲和分析領域的領先供應商都宣布了圍繞開放表格式的新功能後，Apache Iceberg 在上週獲得了新的動力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/14/apache_iceberg_feature_announcements/</guid>
-      <pubDate>Mon, 14 Oct 2024 20:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
