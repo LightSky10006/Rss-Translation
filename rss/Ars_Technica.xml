@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 15 Oct 2024 02:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 03:42:25 GMT</lastBuildDate>
+    <item>
+      <title>美國太空總署啟動任務探索木星衛星歐羅巴的冰凍邊界</title>
+      <link>https://arstechnica.com/space/2024/10/nasa-launches-mission-to-explore-the-frozen-frontier-of-jupiters-moon-europa/</link>
+      <description><![CDATA[“我們感興趣的是木衛二是否能夠支持簡單的生命——單細胞生物。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/nasa-launches-mission-to-explore-the-frozen-frontier-of-jupiters-moon-europa/</guid>
+      <pubDate>Tue, 15 Oct 2024 02:25:45 GMT</pubDate>
+    </item>
     <item>
       <title>Adobe 推出基於授權內容訓練的 AI 影片產生器</title>
       <link>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</link>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 14 Oct 2024 19:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧聊天機器人能夠理解而人類卻無法理解的隱形文字？是的，這是一件事。</title>
+      <title>人工智慧聊天機器人能理解而人類無法理解的隱形文字？是的，這是一件事。</title>
       <link>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</link>
       <description><![CDATA[Unicode 標準中的一個怪癖隱藏著一個理想的隱寫程式碼通道。]]></description>
       <guid>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[公司「由於這項業務面臨許多挑戰」而關閉。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/smart-gardening-firms-shutdown-a-reminder-of-internet-of-things-fickle-nature/</guid>
       <pubDate>Mon, 14 Oct 2024 18:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silo S2 預告片中的地下叛亂正在醞釀</title>
-      <link>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</link>
-      <description><![CDATA[“如果你所知道的一切都是真的，那隻是一個彌天大謊怎麼辦？”]]></description>
-      <guid>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</guid>
-      <pubDate>Mon, 14 Oct 2024 18:21:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
