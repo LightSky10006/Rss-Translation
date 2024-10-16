@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 21:36:34 GMT</lastBuildDate>
+    <item>
+      <title>大眾汽車監控來自 8Base 勒索軟體人員的資料轉儲威脅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/</link>
+      <description><![CDATA[這家德國汽車巨頭似乎並不關心 8Base 勒索軟體團隊聲稱竊取了大眾汽車文件的大量數據轉儲，並威脅要公開這些數據，但這家德國汽車巨頭似乎並不關心。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/</guid>
+      <pubDate>Wed, 16 Oct 2024 21:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，萬代南夢宮試圖讓員工辭職，以規避日本勞動法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/bandai_namcos_layoff_technique_is/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大型 C 和 C++ 程式碼庫將在「可預見的未來」出現 Google 透露，其使程式碼更加記憶體安全的方法包括採用記憶體安全語言和使不安全語言更加安全安全- 在可能的範圍內。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/google_legacy_code/</guid>
       <pubDate>Wed, 16 Oct 2024 06:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 收購印度 SaaS 新創公司 Prescinto，開拓再生能源資產</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_aquires_prescinto/</link>
-      <description><![CDATA[此外：加密貨幣中心幣安幫助德里警方打擊太陽能詐騙 IBM 週二宣布已收購Prescinto，這是一家位於班加羅爾的可再生能源資產績效管理軟體提供商。 / p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_aquires_prescinto/</guid>
-      <pubDate>Wed, 16 Oct 2024 05:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
