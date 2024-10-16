@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 06:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 07:36:27 GMT</lastBuildDate>
+    <item>
+      <title>網路檔案館恢復上線，但功能有限</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</link>
+      <description><![CDATA[DDoS 偵探推斷Mirai 曾經使用韓國、中國和巴西的家庭娛樂盒來實施此行為 在擊退10 月9 日的DDoS 攻擊後，互聯網檔案館已以稍微降級的模式重新上線攻擊，然後屈服於對用戶資料的突襲。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</guid>
+      <pubDate>Wed, 16 Oct 2024 07:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌的記憶體安全計畫包括對不安全語言的修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/google_legacy_code/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Operator Stack Infrastructure 致力於減少其設施的範圍 1 排放 資料中心營運商 Stack Infrastructure 已加入改用生物燃料作為備用電源的公司行列，以抵消部分溫室氣體排放其營運產生的氣體排放......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/</guid>
       <pubDate>Tue, 15 Oct 2024 14:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽車人工智慧公司 Cerence 任命前英特爾老闆 Brian Krzanich 為首席執行官</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/cerence_appoints_exintel_ceo_brian_krzanich/</link>
-      <description><![CDATA[公眾輿論對他不利，LinkedIn 上的評論變得暗淡 布萊恩·科再奇 (Brian Krzanich) 重返首席執行官休息室的消息就像鉛氣球一樣墜落。這位前英特爾老闆因與下屬的關係被高度曝光而辭職，更不用說10 奈米晶片的推出失敗了，他在人工智慧驅動的汽車新創公司Cerence 找到了一份新工作。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/cerence_appoints_exintel_ceo_brian_krzanich/</guid>
-      <pubDate>Tue, 15 Oct 2024 13:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
