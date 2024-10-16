@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 10:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 11:11:06 GMT</lastBuildDate>
+    <item>
+      <title>WinAmp 的開源進度很糟糕，因為擁有者刪除了整個儲存庫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/</link>
+      <description><![CDATA[與 WinAmp 本身後來的開發一樣糟糕，真的 WinAmp 的所有者在將原始程式碼上傳到 GitHub 一個月後剛剛刪除了整個儲存庫。很多原始碼，而且很可能不是全部都是他們的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/</guid>
+      <pubDate>Wed, 16 Oct 2024 11:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>如果有人能在垃圾箱裡尋找丟失的比特幣硬碟，“紐波特看起來就像迪拜”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/wales_bitcoin_landfill_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[House of Zen 表示已經完成了分析，並且擔憂「有點」沒有根據 隨著 AMD 努力擴大資料中心 CPU 市場份額，它正在促使 CTO 考慮他們的老化程度英特爾系統可以壓縮為其中一顆多核心晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/amd_risk_cores/</guid>
       <pubDate>Tue, 15 Oct 2024 17:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟表示更多勒索軟體在達到加密之前被阻止</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/microsoft_ransomware_attacks/</link>
-      <description><![CDATA[根據數位防禦報告，攻擊量仍在激增 微軟表示勒索軟體攻擊比去年增加了2.75 倍，但聲稱防禦實際上比以往任何時候都有效。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/microsoft_ransomware_attacks/</guid>
-      <pubDate>Tue, 15 Oct 2024 16:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
