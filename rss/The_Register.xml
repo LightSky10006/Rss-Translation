@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 23:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 23:35:57 GMT</lastBuildDate>
+    <item>
+      <title>美國承包商支付 30 萬美元以和解對其未妥善管理 Medicare 用戶資料的指控</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_contractor_pays_300k_in/</link>
+      <description><![CDATA[解決了對其不當儲存包含PII 的螢幕截圖（後來被盜取）的指控 一家美國政府承包商將解決其在洩露醫療保險受益人個人資料之前違反網路安全規則的指控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_contractor_pays_300k_in/</guid>
+      <pubDate>Wed, 16 Oct 2024 23:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾解雇了俄勒岡州研發基地以及德克薩斯州、亞利桑那州、加州辦事處的 2,000 名員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</link>
-      <description><![CDATA[裁員發生在超過 7,500 名員工自願離職、提前退休 英特爾本周向全美 2,000 多名員工發放了解僱通知書…]]></description>
+      <description><![CDATA[超過 7,500 名員工自願離職、提前退休，隨後進行了裁員 英特爾本周向全美 2,000 多名員工發放了解僱通知書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</guid>
       <pubDate>Wed, 16 Oct 2024 22:31:08 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>FTC 透過「點擊取消」規則打擊不需要的訂閱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</link>
-      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化交易流程結束對產品和服務的不需要的訂閱。]]></description>
+      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化流程結束不需要的產品和服務訂閱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</guid>
       <pubDate>Wed, 16 Oct 2024 19:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在規則改變之前需要進行治理和公眾諮詢 一個監督英國健康數據共享的組織建議政府不要擴大允許訪問新冠大流行期間引入的患者信息的法律規則，直到有正在進一步徵求公眾意見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/nhs_england_covid_data_plans/</guid>
       <pubDate>Wed, 16 Oct 2024 09:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openreach 揭示了面臨銅砍的最新地點</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</link>
-      <description><![CDATA[提醒（最終）獲得光纖，否則就會落後 BT 基礎設施部門 Openreach 披露了最新的交換地點，計劃停止銷售使用銅纜作為其一部分的電話和寬頻服務。個人都使用光纖的雄心......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
