@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 22:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 23:12:47 GMT</lastBuildDate>
     <item>
       <title>英特爾解雇了俄勒岡州研發基地以及德克薩斯州、亞利桑那州、加州辦事處的 2,000 名員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Kubernetes Image Builder 中的嚴重預設憑證錯誤允許 SSH root 存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</link>
-      <description><![CDATA[這就是所謂的敞開大門- 尤其是在Proxmox Kubernetes Image Builder 中的一個嚴重錯誤可能會允許未經授權的SSH 存取虛擬機(VM)，因為在映像建置過程中啟用了預設憑證.... ]]></description>
+      <description><![CDATA[這就是所謂的敞開大門——尤其是在Proxmox 中 由於在映像構建過程中啟用了默認憑據，Kubernetes Image Builder 中的一個嚴重錯誤可能允許未經授權的SSH 訪問虛擬機器(VM) .... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</guid>
       <pubDate>Wed, 16 Oct 2024 21:58:12 GMT</pubDate>
     </item>
