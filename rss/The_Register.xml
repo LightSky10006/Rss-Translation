@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 11:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:23:42 GMT</lastBuildDate>
+    <item>
+      <title>隨著 POSReady 7 開啟收銀機時代，Windows 7 終於面世</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</link>
+      <description><![CDATA[嵌入式版本的壽命更長- 包括Windows 10 LTSC Windows Embedded POSReady 7 是Windows 7 的最後一個受支援版本，在桌面版發布近五年後已經走到了盡頭。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</guid>
+      <pubDate>Wed, 16 Oct 2024 11:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>WinAmp 的開源進度很糟糕，因為擁有者刪除了整個儲存庫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Linus Torvalds、Broadcom、Dell、HPE 和 Lenovo 均榜上有名 x86 指令集架構 (ISA) 的形態正在不斷發展。週二，英特爾和 AMD 宣布成立一個生態系統諮詢小組，旨在提高兩個品牌 x86 實施之間的一致性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/</guid>
       <pubDate>Tue, 15 Oct 2024 17:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 淡化了爆炸半徑擴大的風險以及多核心晶片的授權費用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/amd_risk_cores/</link>
-      <description><![CDATA[House of Zen 表示已經完成了分析，並且擔憂「有點」沒有根據 隨著 AMD 努力擴大資料中心 CPU 市場份額，它正在促使 CTO 考慮他們的老化程度英特爾系統可以壓縮為其中一顆多核心晶片。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/amd_risk_cores/</guid>
-      <pubDate>Tue, 15 Oct 2024 17:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
