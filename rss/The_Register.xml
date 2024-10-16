@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 18:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 18:43:17 GMT</lastBuildDate>
+    <item>
+      <title>中國資訊安全領導指責英特爾存在美國國家安全局後門，並列舉了晶片安全缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/china_intel_chip_security/</link>
+      <description><![CDATA[山姆大叔有進入美國科技的秘密途徑？說事實並非如此 一個中國行業組織指責英特爾在其CPU 中設置後門以及其他可疑的安全做法，同時呼籲對這家芯片製造商進行調查，聲稱其產品“對國家安全構成嚴重風險」。安全性。」… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/china_intel_chip_security/</guid>
+      <pubDate>Wed, 16 Oct 2024 18:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜斥資 5 億美元押注小型核反應堆，為雲端帝國提供動力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/amazon_nuclear_smr/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>亞洲科技部長擔心有效的人工智慧監管將難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</link>
-      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 在周二於新加坡舉行的一次會議上，來自世界各地的部長們沉思道，他們可能錯過了有效監管人工智能的機會。 &gt;]]></description>
+      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 週二在新加坡舉行的一次會議上，來自世界各地的部長們思考，他們可能錯過了有效監管人工智慧的機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</guid>
       <pubDate>Wed, 16 Oct 2024 02:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，山姆大叔正在考慮限制向中東出口人工智慧晶片</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_export_cap_ai_chip_middle_east/</link>
-      <description><![CDATA[同時，由於中國出口限制達到預期，ASML 股價暴跌 由於擔心中東國家被用來向中國輸送人工智慧加速器和其他敏感技術，據報道，拜登政府正在考慮限制產品銷往該地區的某些國家。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_export_cap_ai_chip_middle_east/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
