@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 22:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:38:20 GMT</lastBuildDate>
+    <item>
+      <title>英特爾解雇了俄勒岡州研發基地以及德克薩斯州、亞利桑那州、加州辦事處的 2,000 名員工</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</link>
+      <description><![CDATA[裁員發生在超過 7,500 名員工自願離職、提前退休 英特爾本周向全美 2,000 多名員工發放了解僱通知書…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</guid>
+      <pubDate>Wed, 16 Oct 2024 22:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>Kubernetes Image Builder 中的嚴重預設憑證錯誤允許 SSH root 存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[提醒（最終）獲得光纖，否則就會落後 BT 基礎設施部門 Openreach 披露了最新的交換地點，計劃停止銷售使用銅纜作為其一部分的電話和寬頻服務。個人都使用光纖的雄心......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</guid>
       <pubDate>Wed, 16 Oct 2024 08:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路檔案館恢復上線，但功能有限</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</link>
-      <description><![CDATA[DDoS 偵探推斷Mirai 曾經使用韓國、中國和巴西的家庭娛樂盒來實施此行為 在擊退10 月9 日的DDoS 攻擊後，互聯網檔案館已以稍微降級的模式重新上線攻擊，然後屈服於對用戶資料的突襲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</guid>
-      <pubDate>Wed, 16 Oct 2024 07:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
