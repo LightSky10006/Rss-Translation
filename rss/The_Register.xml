@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:12:07 GMT</lastBuildDate>
+    <item>
+      <title>Kubernetes Image Builder 中的嚴重預設憑證錯誤允許 SSH root 存取</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</link>
+      <description><![CDATA[這就是所謂的敞開大門- 尤其是在Proxmox Kubernetes Image Builder 中的一個嚴重錯誤可能會允許未經授權的SSH 存取虛擬機(VM)，因為在映像建置過程中啟用了預設憑證.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</guid>
+      <pubDate>Wed, 16 Oct 2024 21:58:12 GMT</pubDate>
+    </item>
     <item>
       <title>大眾汽車監控來自 8Base 勒索軟體人員的資料轉儲威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/</link>
@@ -20,9 +27,9 @@
       <pubDate>Wed, 16 Oct 2024 20:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>主動利用下的 SolarWinds 嚴重硬編碼憑證錯誤</title>
+      <title>關鍵的硬編碼 SolarWinds 憑證現已在野外被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/</link>
-      <description><![CDATA[尚無關於攻擊範圍的消息 據美國網路安全和基礎設施安全局稱，犯罪分子已發現並利用了SolarWinds Web Help Desk 產品中的一個關鍵硬編碼憑證漏洞，該機構已將該缺陷添加到其已知的利用漏洞目錄中。]]></description>
+      <description><![CDATA[IT 軟體公司及其客戶的又一打擊 據美國網路安全和基礎設施安全局稱，SolarWinds Web Help Desk 系列中的關鍵硬編碼登錄憑證已被犯罪分子廣泛利用，該公司已將安全錯誤添加到其已知利用的漏洞（KEV）目錄中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/</guid>
       <pubDate>Wed, 16 Oct 2024 20:00:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[DDoS 偵探推斷Mirai 曾經使用韓國、中國和巴西的家庭娛樂盒來實施此行為 在擊退10 月9 日的DDoS 攻擊後，互聯網檔案館已以稍微降級的模式重新上線攻擊，然後屈服於對用戶資料的突襲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</guid>
       <pubDate>Wed, 16 Oct 2024 07:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的記憶體安全計畫包括對不安全語言的修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/google_legacy_code/</link>
-      <description><![CDATA[大型 C 和 C++ 程式碼庫將在「可預見的未來」出現 Google 透露，其使程式碼更加記憶體安全的方法包括採用記憶體安全語言和使不安全語言更加安全安全- 在可能的範圍內。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/google_legacy_code/</guid>
-      <pubDate>Wed, 16 Oct 2024 06:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
