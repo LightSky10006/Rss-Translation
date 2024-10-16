@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 12:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:58:25 GMT</lastBuildDate>
+    <item>
+      <title>SAP 不可阻擋的進步可能會讓使用者落後</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/dsag_sap_innovation_survey/</link>
+      <description><![CDATA[人工智慧並不是一個熱門話題，一些客戶呼籲在本地進行更多創新 歐洲中心地區近四分之一的SAP 用戶表示他們無法跟上技術、社會或經濟的進步。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/dsag_sap_innovation_survey/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:29:05 GMT</pubDate>
+    </item>
     <item>
       <title>隨著 POSReady 7 開啟收銀機時代，Windows 7 終於面世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[2018 年至 2020 年期間進行過股票交易嗎？你可以兌現 關於證券欺詐的舊指控繼續困擾著VMware，這家虛擬化巨頭同意支付1.025 億美元來和解股東訴訟，該訴訟據稱是為了掩蓋銷售放緩而人為製造銷售積壓......  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/vmware_securities_fraud_settle/</guid>
       <pubDate>Tue, 15 Oct 2024 18:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾、AMD 與科技巨頭聯手進行 x86 ISA 全面改革</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/</link>
-      <description><![CDATA[Linus Torvalds、Broadcom、Dell、HPE 和 Lenovo 均榜上有名 x86 指令集架構 (ISA) 的形態正在不斷發展。週二，英特爾和 AMD 宣布成立一個生態系統諮詢小組，旨在提高兩個品牌 x86 實施之間的一致性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/</guid>
-      <pubDate>Tue, 15 Oct 2024 17:41:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
