@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 07:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 08:42:32 GMT</lastBuildDate>
+    <item>
+      <title>Openreach 揭示了面臨銅砍的最新地點</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</link>
+      <description><![CDATA[提醒（最終）獲得光纖，否則就會落後 BT 基礎設施部門 Openreach 披露了最新的交換地點，計劃停止銷售使用銅纜作為其一部分的電話和寬頻服務。個人都使用光纖的雄心......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</guid>
+      <pubDate>Wed, 16 Oct 2024 08:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>網路檔案館恢復上線，但功能有限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>亞洲科技部長擔心有效的人工智慧監管將難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</link>
-      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 週二在新加坡舉行的一次會議上，來自世界各地的部長們思考，他們可能錯過了有效監管人工智慧的機會。]]></description>
+      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 在周二於新加坡舉行的一次會議上，來自世界各地的部長們沉思道，他們可能錯過了有效監管人工智能的機會。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</guid>
       <pubDate>Wed, 16 Oct 2024 02:28:10 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>DARPA 斥資 600 萬美元購買全自動黑鷹直升機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/black_hawk_autonomous_tech/</link>
-      <description><![CDATA[像《決勝時刻》一樣補給？還沒有——目前只計劃建造一架 美國軍方押注未來的黑鷹直升機將不需要飛行員，並且向該鳥的製造商西科斯基公司提供了600 萬美元來證明這一點。 ...]]></description>
+      <description><![CDATA[像《決勝時刻》一樣補給？還沒有 - 目前只計劃一架 美國軍方押注未來的黑鷹直升機將不需要飛行員，並給予該鳥的製造商西科斯基 600 萬美元來證明這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/black_hawk_autonomous_tech/</guid>
       <pubDate>Tue, 15 Oct 2024 21:00:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>系統管理員對蘋果「噩夢般」的 SSL/TLS 憑證壽命縮短感到憤怒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</link>
-      <description><![CDATA[到2027 年，最長有效期從398 天縮短到45 天 Apple 希望縮短SSL/TLS 安全憑證的生命週期，從現在的398 天縮短到2027 年的45 天，系統管理員有一些非常強大的能力對這個「噩夢」計劃的感受。 ...]]></description>
+      <description><![CDATA[到2027 年，最長有效期從398 天縮短到45 天 Apple 希望縮短SSL/TLS 安全憑證的生命週期，從現在的398 天縮短到2027 年的45 天，系統管理員有一些非常強大的能力對這個「惡夢」計畫的感受。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</guid>
       <pubDate>Tue, 15 Oct 2024 19:45:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟在已知問題清單中新增了另一個項目 微軟已確認Windows 11 24H2 裝置上神秘遺失的儲存是由於作業系統清理工具中的「報告錯誤」造成的。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/windows_11_24h2_disk_space/</guid>
       <pubDate>Tue, 15 Oct 2024 15:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>挪威資料中心放棄柴油飲食，以生物燃料作為備用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/</link>
-      <description><![CDATA[Operator Stack Infrastructure 致力於減少其設施的範圍 1 排放 資料中心營運商 Stack Infrastructure 已加入改用生物燃料作為備用電源的公司行列，以抵消部分溫室氣體排放其營運產生的氣體排放......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/</guid>
-      <pubDate>Tue, 15 Oct 2024 14:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
