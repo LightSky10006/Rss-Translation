@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 08:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 09:38:02 GMT</lastBuildDate>
+    <item>
+      <title>英國國家醫療服務體系（NHS England）警告稱，計劃延長新冠病毒時代的病患資料存取規則</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/nhs_england_covid_data_plans/</link>
+      <description><![CDATA[在規則改變之前需要進行治理和公眾諮詢 一個監督英國健康數據共享的組織建議政府不要擴大允許訪問新冠大流行期間引入的患者信息的法律規則，直到有正在進一步徵求公眾意見。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/nhs_england_covid_data_plans/</guid>
+      <pubDate>Wed, 16 Oct 2024 09:27:07 GMT</pubDate>
+    </item>
     <item>
       <title>Openreach 揭示了面臨銅砍的最新地點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[中國將領先，北美落後 技術分析師預測，到 2025 年，電動車 (EV) 的使用數量將增長 33%，其中 73% 將由電池驅動（ BEV）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/</guid>
       <pubDate>Tue, 15 Oct 2024 16:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 24H2磁碟空間囤積“報告錯誤”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/windows_11_24h2_disk_space/</link>
-      <description><![CDATA[微軟在已知問題清單中新增了另一個項目 微軟已確認Windows 11 24H2 裝置上神秘遺失的儲存是由於作業系統清理工具中的「報告錯誤」造成的。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/windows_11_24h2_disk_space/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
