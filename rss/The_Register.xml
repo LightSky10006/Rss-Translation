@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 19:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 20:14:04 GMT</lastBuildDate>
+    <item>
+      <title>主動利用下的 SolarWinds 嚴重硬編碼憑證錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/</link>
+      <description><![CDATA[尚無關於攻擊範圍的消息 據美國網路安全和基礎設施安全局稱，犯罪分子已發現並利用了SolarWinds Web Help Desk 產品中的一個關鍵硬編碼憑證漏洞，該機構已將該缺陷添加到其已知的利用漏洞目錄中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>FTC 透過「點擊取消」規則打擊不需要的訂閱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</link>
-      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化交易流程結束對產品和服務的不需要的訂閱。]]></description>
+      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化流程結束不需要的產品和服務訂閱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</guid>
       <pubDate>Wed, 16 Oct 2024 19:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[訊息服務建立持久的用戶ID，這些ID 在每個裝置上具有不同的品質 對Meta 的WhatsApp 訊息軟體的分析表明，它可能會暴露用戶正在運行的作業系統及其設備設定資訊- 包含連結設備的數量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/whatsapp_privacy_concerns/</guid>
       <pubDate>Wed, 16 Oct 2024 04:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 與博通可能就 VMware 支援案件達成和解</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/att_broadcom_vmware_settlement_possible/</link>
-      <description><![CDATA[新提交的文件顯示，博通承認其大幅打折——為所有合約到期的 Virtzilla 用戶帶來美妙的音樂 AT&amp;T 和博通似乎即將解決有關提供支持服務的法律糾紛適用於VMware 軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/att_broadcom_vmware_settlement_possible/</guid>
-      <pubDate>Wed, 16 Oct 2024 03:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
