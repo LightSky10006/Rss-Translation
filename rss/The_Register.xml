@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 03:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 04:40:37 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp 可能會暴露您用來運行它的作業系統 – 這可能會讓您暴露給騙子</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/whatsapp_privacy_concerns/</link>
+      <description><![CDATA[訊息服務建立持久的用戶ID，這些ID 在每個裝置上具有不同的品質 對Meta 的WhatsApp 訊息軟體的分析表明，它可能會暴露用戶正在運行的作業系統及其設備設定資訊- 包含連結設備的數量。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/whatsapp_privacy_concerns/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 與博通可能就 VMware 支援案件達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/att_broadcom_vmware_settlement_possible/</link>
-      <description><![CDATA[博通在新提交的文件中承認其大幅打折——為所有合約到期的 Virtzilla 用戶帶來美妙的音樂 AT&amp;T 和博通似乎即將解決有關提供支持服務的法律糾紛適用於VMware 軟體。]]></description>
+      <description><![CDATA[新提交的文件顯示，博通承認其大幅打折——為所有合約到期的 Virtzilla 用戶帶來美妙的音樂 AT&amp;T 和博通似乎即將解決有關提供支持服務的法律糾紛適用於VMware 軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/att_broadcom_vmware_settlement_possible/</guid>
       <pubDate>Wed, 16 Oct 2024 03:30:09 GMT</pubDate>
     </item>
     <item>
       <title>亞洲科技部長擔心有效的人工智慧監管將難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</link>
-      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 在周二於新加坡舉行的一次會議上，來自世界各地的部長們沉思道，他們可能錯過了有效監管人工智能的機會。 &gt;]]></description>
+      <description><![CDATA[紐西蘭不會打擾。新加坡擔心傷害是不可避免的 週二在新加坡舉行的一次會議上，來自世界各地的部長們思考，他們可能錯過了有效監管人工智慧的機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/</guid>
       <pubDate>Wed, 16 Oct 2024 02:28:10 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>DARPA 斥資 600 萬美元購買全自動黑鷹直升機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/black_hawk_autonomous_tech/</link>
-      <description><![CDATA[像《決勝時刻》一樣補給？還沒有 - 目前只計劃一架 美國軍方押注未來的黑鷹直升機將不需要飛行員，並給予該鳥的製造商西科斯基 600 萬美元來證明這一點。 ...]]></description>
+      <description><![CDATA[像《決勝時刻》一樣補給？還沒有——目前只計劃建造一架 美國軍方押注未來的黑鷹直升機將不需要飛行員，並且向該鳥的製造商西科斯基公司提供了600 萬美元來證明這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/black_hawk_autonomous_tech/</guid>
       <pubDate>Tue, 15 Oct 2024 21:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>Digital River 枯竭，自 7 月以來就沒有向開發商支付銷售費用</title>
+      <title>Digital River 枯竭，自 7 月以來一直沒有向開發商支付銷售費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/</link>
       <description><![CDATA[供應商告訴El Reg，該公司的律師事務所聲稱商家債務不是有效義務 自仲夏以來，Digital River 尚未向眾多商家支付透過其MyCommerce 平台銷售的軟體和數位產品的費用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>系統管理員對蘋果「噩夢般」的 SSL/TLS 憑證壽命縮短感到憤怒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</link>
-      <description><![CDATA[到2027 年，最長有效期從398 天縮短到45 天 Apple 希望縮短SSL/TLS 安全憑證的生命週期，從現在的398 天縮短到2027 年的45 天，系統管理員有一些非常強大的能力對這個「惡夢」計畫的感受。 ...]]></description>
+      <description><![CDATA[到2027 年，最長有效期從398 天縮短到45 天 Apple 希望縮短SSL/TLS 安全憑證的生命週期，從現在的398 天縮短到2027 年的45 天，系統管理員有一些非常強大的能力對這個「噩夢」計劃的感受。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</guid>
       <pubDate>Tue, 15 Oct 2024 19:45:08 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 15 Oct 2024 16:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>分析師預測，儘管產業發展速度緩慢，但到 2025 年，道路上行駛的電動車數量將達到 8,500 萬輛</title>
+      <title>儘管產業成長放緩，分析師預測到 2025 年道路上行駛的電動車數量將達到 8,500 萬輛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/</link>
       <description><![CDATA[中國將領先，北美落後 技術分析師預測，到 2025 年，電動車 (EV) 的使用數量將增長 33%，其中 73% 將由電池驅動（ BEV）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>三星的 HBM3E 是一場災難，但還有回頭路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/samsung_hb3me/</link>
-      <description><![CDATA[274% 的利潤增長掩蓋了錯過最後期限、拙劣的發布和混亂的領導地位 評論 儘管三星電子公佈的2024 年第三季度營業利潤看似令人印象深刻的274% 成長，但正處於危機模式。這些財務資料背後隱藏著正在瓦解的半導體策略，為這家韓國科技巨頭帶來了嚴峻的挑戰。 &#39; --&gt; ]]></description>
+      <description><![CDATA[274% 的利潤增長掩蓋了錯過最後期限、拙劣的發布和混亂的領導地位 評論 儘管三星電子公佈的2024 年第三季度營業利潤看似令人印象深刻的274% 成長，但正處於危機模式。在這些財務數據的背後，是一個正在瓦解的半導體策略，給這家韓國科技巨頭帶來了嚴峻的挑戰。 _whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/samsung_hb3me/</guid>
       <pubDate>Tue, 15 Oct 2024 12:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>郵局尋求更多地平線支持，繼續尋找替代品</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/post_office_horizon_dc_support/</link>
-      <description><![CDATA[必須有人保持這些後端系統的運作 陷入困境的英國郵局已開始與供應商對話，以幫助支持其有爭議的Horizo​​n 系統，合約金額可能高達1 億英鎊（131 美元）百萬），因為它正在取代 EPOS 和後端金融技術。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/post_office_horizon_dc_support/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:46:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
