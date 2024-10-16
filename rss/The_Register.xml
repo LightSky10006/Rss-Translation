@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 16 Oct 2024 14:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:13:09 GMT</lastBuildDate>
+    <item>
+      <title>IBM：保險業老闆熱衷於人工智慧。顧客，沒那麼多</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_insurance_industry_bosses_keen/</link>
+      <description><![CDATA[不到30% 的客戶願意處理生成式AI 虛擬代理 IBM 的一項研究發現，大多數保險業領導者認為生成式AI 對於跟上競爭對手的步伐至關重要。然而，只有四分之一的客戶希望與該技術有任何關係。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_insurance_industry_bosses_keen/</guid>
+      <pubDate>Wed, 16 Oct 2024 14:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>以桑迪亞方式測試太空船材料：用鏡子點燃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/testing_spacecraft_material_the_sandia/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[供應商告訴El Reg，該公司的律師事務所聲稱商家債務不是有效義務 自仲夏以來，Digital River 尚未向眾多商家支付透過其MyCommerce 平台銷售的軟體和數位產品的費用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/</guid>
       <pubDate>Tue, 15 Oct 2024 20:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>系統管理員對蘋果「噩夢般」的 SSL/TLS 憑證壽命縮短感到憤怒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</link>
-      <description><![CDATA[到2027 年，最長有效期從398 天縮短到45 天 Apple 希望縮短SSL/TLS 安全憑證的生命週期，從現在的398 天縮短到2027 年的45 天，系統管理員有一些非常強大的能力對這個「惡夢」計畫的感受。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/</guid>
-      <pubDate>Tue, 15 Oct 2024 19:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
