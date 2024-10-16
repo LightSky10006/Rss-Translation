@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 16 Oct 2024 14:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:42:33 GMT</lastBuildDate>
     <item>
-      <title>新創公司可以即時識別 Deepfake 視頻</title>
+      <title>在經歷了幾週的艱難時期後，Winamp 刪除了整個 GitHub 原始碼儲存庫</title>
+      <link>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</link>
+      <description><![CDATA[Winamp 希望吸引編碼人員，但不是這樣的。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepfake愛好者在香港人工智慧騙局中騙取受害者4,600萬美元</title>
+      <link>https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/</link>
+      <description><![CDATA[詐騙者使用人工智慧深度偽造工具創建虛假的線上角色，在視訊通話中欺騙受害者。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>250 美元的 Analogue 3D 將於明年初以 4K 格式播放您所有的 N64 磁帶</title>
+      <link>https://arstechnica.com/gaming/2024/10/250-analogue-3d-will-play-all-your-n64-cartridges-in-4k-early-next-year/</link>
+      <description><![CDATA[FPGA 驅動的硬體將透過「客製化的專用升級器」捕捉 CRT 的光芒]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/250-analogue-3d-will-play-all-your-n64-cartridges-in-4k-early-next-year/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>新創公司可以即時識別深度偽造視頻</title>
       <link>https://arstechnica.com/security/2024/10/startup-can-catch-identify-deepfake-video-in-realtime/</link>
       <description><![CDATA[Reality Defender 表示，它有針對人工智慧產生的影片詐騙的解決方案。]]></description>
       <guid>https://arstechnica.com/security/2024/10/startup-can-catch-identify-deepfake-video-in-realtime/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>亞馬遜首款彩色 Kindle 電子閱讀器 Kindle Colorsoft 售價 280 美元</title>
       <link>https://arstechnica.com/gadgets/2024/10/amazons-first-color-kindle-e-reader-the-kindle-colorsoft-will-run-you-280/</link>
-      <description><![CDATA[價格較高，但與亞馬遜對舊款優質 Kindle 的收費一致。]]></description>
+      <description><![CDATA[價格很高，但與亞馬遜對舊款優質 Kindle 的收費一致。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/amazons-first-color-kindle-e-reader-the-kindle-colorsoft-will-run-you-280/</guid>
       <pubDate>Wed, 16 Oct 2024 13:00:44 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[共和黨專員：你不會要求免費續杯咖啡，對嗎？]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/fcc-republican-opposes-regulation-of-data-caps-with-analogy-to-coffee-refills/</guid>
       <pubDate>Tue, 15 Oct 2024 21:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>北韓駭客利用新發現的 Linux 惡意軟體攻擊 ATM</title>
-      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
-      <description><![CDATA[曾經，FASTCash 只在 Unix 上運行。然後是Windows。現在它也可以針對 Linux。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</guid>
-      <pubDate>Tue, 15 Oct 2024 21:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>木質摩天大樓使永續建築達到新高度</title>
-      <link>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</link>
-      <description><![CDATA[木材為建築師提供了碳密集型鋼材和混凝土的替代品。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</guid>
-      <pubDate>Tue, 15 Oct 2024 20:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 告訴 FCC，它計劃將 Starlink 的速度提高約 10 倍</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</link>
-      <description><![CDATA[SpaceX：「小而有意義的更新」可以將速度從大約 100Mbps 提升到 1Gbps。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</guid>
-      <pubDate>Tue, 15 Oct 2024 18:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
