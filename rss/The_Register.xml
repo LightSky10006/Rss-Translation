@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 15:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 15:39:10 GMT</lastBuildDate>
+    <item>
+      <title>Western Digital 發布針對 Windows 11 24H2 BSOD 問題的 SSD 的韌體修復程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/western_digital_releases_a_firmware/</link>
+      <description><![CDATA[微軟告訴我們它正在調查這個問題...唷，沒關係 微軟表示正在調查有關某些 Western Digital SSD 給某些設備上的 Windows 11 24H2 用戶帶來麻煩的報告. ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/western_digital_releases_a_firmware/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>巴西警方聲稱他們抓獲了聯邦調查局和空中巴士襲擊事件背後的連續網路騙子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/brazil_usdod_arrest/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>世界+狗需求人工智慧和智慧型手機晶片，台積電營收成長36%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</link>
-      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度收入較上年同期增長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
+      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</guid>
       <pubDate>Thu, 17 Oct 2024 11:48:08 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 17 Oct 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>英國電子公司希望政府停止對垃圾徵稅，並讓他們解決問題</title>
+      <title>英國電子公司希望政府停止對垃圾徵稅，並讓他們自行修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/clear_vat_electronics_repairs/</link>
       <description><![CDATA[CLEAR 集團呼籲取消備件、維修和人工的增值稅 一個新成立的英國電子公司團體正在倡導取消電子備件、維修和人工的增值稅政府即將推出的秋季預算，聲稱這將鼓勵消費者修理而不是更換套件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/clear_vat_electronics_repairs/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>匿名蘇丹已不復存在：兩名涉嫌操縱者被點名並受到指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</link>
-      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌運營商的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
+      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌操作者的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</guid>
       <pubDate>Thu, 17 Oct 2024 07:27:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[IT 軟體公司及其客戶的又一打擊 據美國網路安全和基礎設施安全局稱，SolarWinds Web Help Desk 系列中的關鍵硬編碼登錄憑證已被犯罪分子廣泛利用，該公司已將安全錯誤添加到其已知利用的漏洞（KEV）目錄中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/</guid>
       <pubDate>Wed, 16 Oct 2024 20:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 透過「點擊取消」規則打擊不需要的訂閱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</link>
-      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化流程結束不需要的產品和服務訂閱。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
