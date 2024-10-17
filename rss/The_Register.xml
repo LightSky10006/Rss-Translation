@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 05:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 05:39:24 GMT</lastBuildDate>
+    <item>
+      <title>哦，多棒的感覺：豐田製造的機器人透過練習變得更好</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/boston_dynamics_lbm/</link>
+      <description><![CDATA[學會剝馬鈴薯的機器人比《黑鏡》簡單得多 波士頓動力公司和豐田研究院 (TRI) 週三宣布，他們正在合作將前者的多關節運動類人機器人、 Atlas，具有TRI 的大型行為模式(LBM)。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/boston_dynamics_lbm/</guid>
+      <pubDate>Thu, 17 Oct 2024 05:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>中國啟動太空探索引領世界計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/china_longterm_space_plan/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[人工智慧並不是一個熱門話題，一些客戶呼籲在本地進行更多創新 歐洲中心地區近四分之一的SAP 用戶表示他們無法跟上技術、社會或經濟的進步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/dsag_sap_innovation_survey/</guid>
       <pubDate>Wed, 16 Oct 2024 12:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著 POSReady 7 開啟收銀機時代，Windows 7 終於面世</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</link>
-      <description><![CDATA[嵌入式版本的壽命更長- 包括Windows 10 LTSC Windows Embedded POSReady 7 是Windows 7 的最後一個受支援版本，在桌面版發布近五年後已經走到了盡頭。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</guid>
-      <pubDate>Wed, 16 Oct 2024 11:45:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
