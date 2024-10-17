@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 18:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 19:36:26 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 打造 Rust 虛擬機器管理程式來為 Azure 工作負載提供支援</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/</link>
+      <description><![CDATA[OpenVMM 宣揚更強大的安全性，但尚未準備好迎接黃金時段 微軟本月稍早發布了用Rust 編寫的新虛擬機器管理程式或虛擬機器監視器(VMM)的程式碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/</guid>
+      <pubDate>Thu, 17 Oct 2024 19:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>基礎設施巨擘施耐德電機簽署 8.5 億美元液體冷卻協議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/schneider_850m_stake_motivair/</link>
@@ -43,14 +50,14 @@
     <item>
       <title>世界+狗需求人工智慧和智慧型手機晶片，台積電營收成長36%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</link>
-      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度收入較上年同期增長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
+      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片公司的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</guid>
       <pubDate>Thu, 17 Oct 2024 11:48:08 GMT</pubDate>
     </item>
     <item>
       <title>儘管有可靠性保證，郵局首席技術官對 Horizo​​​​n 系統仍抱有“揮之不去的疑慮”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/post_office_cto_inquiry/</link>
-      <description><![CDATA[隨著活動人士的「熱度」上升，科技老闆不斷告訴國會議員一切都很好 郵局前首席技術官對位於最重要的城市之一中心的地平線系統產生了“揮之不去的懷疑」英國歷史上影響深遠的誤判，但他繼續簽署向議員發表的聲明，證明其安全性和可靠性。...]]></description>
+      <description><![CDATA[隨著活動人士的「熱度」上升，科技老闆不斷告訴國會議員一切都很好 郵局前首席技術官對位於最重要的城市之一中心的Horizo​​​​n 系統產生了「揮之不去的懷疑」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/post_office_cto_inquiry/</guid>
       <pubDate>Thu, 17 Oct 2024 11:02:30 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這就是所謂的敞開大門——尤其是在Proxmox 中 由於在映像構建過程中啟用了默認憑據，Kubernetes Image Builder 中的一個嚴重錯誤可能允許未經授權的SSH 訪問虛擬機器(VM) .... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</guid>
       <pubDate>Wed, 16 Oct 2024 21:58:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>大眾汽車監控來自 8Base 勒索軟體人員的資料轉儲威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/</link>
-      <description><![CDATA[這家德國汽車巨頭似乎並不關心 8Base 勒索軟體團隊聲稱竊取了大眾汽車文件的大量數據轉儲，並威脅要公開這些數據，但這家德國汽車巨頭似乎並不關心。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
