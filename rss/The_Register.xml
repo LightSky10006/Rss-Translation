@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 08:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 08:42:07 GMT</lastBuildDate>
+    <item>
+      <title>研究人員表示，微信開發人員在修改 TLS 時引入了安全漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/wechat_devs_modded_tls_introducing/</link>
+      <description><![CDATA[不可能發生攻擊，但有足夠多的問題引起關注 消息巨頭微信使用應用程序開發人員修改的網絡協議- 研究人員聲稱，這樣做引入了安全漏洞。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/wechat_devs_modded_tls_introducing/</guid>
+      <pubDate>Thu, 17 Oct 2024 08:31:12 GMT</pubDate>
+    </item>
     <item>
       <title>匿名蘇丹已不復存在：兩名涉嫌操縱者被點名並受到指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</link>
-      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌操作者的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
+      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌運營商的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</guid>
       <pubDate>Thu, 17 Oct 2024 07:27:08 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>FTC 透過「點擊取消」規則打擊不需要的訂閱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</link>
-      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化流程結束對產品和服務的不需要的訂閱。]]></description>
+      <description><![CDATA[它將「結束這些伎倆和陷阱，節省美國人的時間和金錢」 美國聯邦貿易委員會週三宣布了最終的「點擊取消」規則，旨在簡化交易流程結束對產品和服務的不需要的訂閱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/</guid>
       <pubDate>Wed, 16 Oct 2024 19:15:07 GMT</pubDate>
     </item>
     <item>
       <title>中國資訊安全領導指責英特爾存在美國國家安全局後門，並列舉了晶片安全缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/china_intel_chip_security/</link>
-      <description><![CDATA[山姆大叔有進入美國科技的秘密途徑？說不是這樣的 一個中國行業組織指責英特爾在其CPU 中設置後門，以及其他可疑的安全做法，同時呼籲對這家芯片製造商進行調查，聲稱其產品“對國家安全構成嚴重風險」。安全性。」… ]]></description>
+      <description><![CDATA[山姆大叔有進入美國科技的秘密途徑？說事實並非如此 一個中國行業組織指責英特爾在其CPU 中設置後門以及其他可疑的安全做法，同時呼籲對這家芯片製造商進行調查，聲稱其產品“對國家安全構成嚴重風險」。安全性。」… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/china_intel_chip_security/</guid>
       <pubDate>Wed, 16 Oct 2024 18:30:15 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>FCC 調查是否可以突破 ISP 資料上限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/fcc_launches_formal_inquiry_into/</link>
-      <description><![CDATA[主席表示：「我們的網路有能力在沒有這些限制的情況下滿足消費者的需求。」 隨著正式調查的啟動和發布，美國政府對ISP 數據上限必要性的調查已經升級數百名受影響者的證言，為潛在的監管行動爭取支持。 ]]></description>
+      <description><![CDATA[主席表示：「我們的網路有能力在沒有這些限制的情況下滿足消費者的需求。」 隨著正式調查的啟動和出版物的發布，美國政府對ISP 數據上限必要性的調查已經升級數百名受影響者的證言，為潛在的監管行動爭取支持。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/fcc_launches_formal_inquiry_into/</guid>
       <pubDate>Wed, 16 Oct 2024 15:32:02 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不到30% 的客戶願意處理生成式AI 虛擬代理 IBM 的一項研究發現，大多數保險業領導者認為生成式AI 對於跟上競爭對手的步伐至關重要。然而，只有四分之一的客戶希望與該技術有任何關係。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_insurance_industry_bosses_keen/</guid>
       <pubDate>Wed, 16 Oct 2024 14:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>以桑迪亞方式測試太空船材料：用鏡子點燃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/testing_spacecraft_material_the_sandia/</link>
-      <description><![CDATA[誰說阿基米德的死亡射線是一個破滅的神話？研究人員用強烈的阿基米德會臉紅的聚焦陽光照射隔熱罩原型。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/testing_spacecraft_material_the_sandia/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:01:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
