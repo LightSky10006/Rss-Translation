@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 19:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 20:37:03 GMT</lastBuildDate>
+    <item>
+      <title>三星發布 24Gb GDDR7 DRAM 用於在強大的 AI 系統中進行測試</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/samsung_gddr7_dram_chip/</link>
+      <description><![CDATA[不出意外的話，預計將於2025 年第一季量產 三星終於在記憶體市場搶佔了先機，在量產前發布了24 Gb GDDR7 DRAM，用於GPU 客戶在AI 計算系統中的驗證- 預計會提前發布明年 - 開始。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/samsung_gddr7_dram_chip/</guid>
+      <pubDate>Thu, 17 Oct 2024 20:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 打造 Rust 虛擬機器管理程式來為 Azure 工作負載提供支援</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>世界+狗需求人工智慧和智慧型手機晶片，台積電營收成長36%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</link>
-      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片公司的晶片。]]></description>
+      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</guid>
       <pubDate>Thu, 17 Oct 2024 11:48:08 GMT</pubDate>
     </item>
     <item>
       <title>儘管有可靠性保證，郵局首席技術官對 Horizo​​​​n 系統仍抱有“揮之不去的疑慮”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/post_office_cto_inquiry/</link>
-      <description><![CDATA[隨著活動人士的「熱度」上升，科技老闆不斷告訴國會議員一切都很好 郵局前首席技術官對位於最重要的城市之一中心的Horizo​​​​n 系統產生了「揮之不去的懷疑」。]]></description>
+      <description><![CDATA[隨著活動人士的「熱度」上升，科技老闆不斷告訴國會議員一切都很好 郵局前首席技術官對位於最重要的城市之一中心的地平線系統產生了“揮之不去的懷疑」英國歷史上影響深遠的誤判，但他繼續簽署向議員發表的聲明，證明其安全性和可靠性。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/post_office_cto_inquiry/</guid>
       <pubDate>Thu, 17 Oct 2024 11:02:30 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 17 Oct 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>英國電子公司希望政府停止對垃圾徵稅，並讓他們解決問題</title>
+      <title>英國電子公司希望政府停止對垃圾徵稅，並讓他們自行修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/clear_vat_electronics_repairs/</link>
       <description><![CDATA[CLEAR 集團呼籲取消備件、維修和人工的增值稅 一個新成立的英國電子公司團體正在倡導取消電子備件、維修和人工的增值稅政府即將推出的秋季預算，聲稱這將鼓勵消費者修理而不是更換套件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/clear_vat_electronics_repairs/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>匿名蘇丹已不復存在：兩名涉嫌操縱者被點名並受到指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</link>
-      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌運營商的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
+      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌操作者的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</guid>
       <pubDate>Thu, 17 Oct 2024 07:27:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[超過 7,500 名員工自願離職、提前退休，隨後進行了裁員 英特爾本周向全美 2,000 多名員工發放了解僱通知書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/</guid>
       <pubDate>Wed, 16 Oct 2024 22:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubernetes Image Builder 中的嚴重預設憑證錯誤允許 SSH root 存取</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</link>
-      <description><![CDATA[這就是所謂的敞開大門——尤其是在Proxmox 中 由於在映像構建過程中啟用了默認憑據，Kubernetes Image Builder 中的一個嚴重錯誤可能允許未經授權的SSH 訪問虛擬機器(VM) .... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
