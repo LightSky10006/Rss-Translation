@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 17 Oct 2024 02:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 04:15:45 GMT</lastBuildDate>
+    <item>
+      <title>中國啟動太空探索引領世界計劃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/china_longterm_space_plan/</link>
+      <description><![CDATA[長期研究計劃包括建造月球基地、尋找可居住的系外行星以及探測「時空漣漪」 中國昨天公佈了從現在到 2050 年的太空探索計劃，其中之一國家的目標是尋找太陽係以外的宜居行星。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/china_longterm_space_plan/</guid>
+      <pubDate>Thu, 17 Oct 2024 03:45:18 GMT</pubDate>
+    </item>
     <item>
       <title>Wipro 下令混合工作，其他科技巨頭強制要求全職穿褲子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/wipro_hybrid_work/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嵌入式版本的壽命更長- 包括Windows 10 LTSC Windows Embedded POSReady 7 是Windows 7 的最後一個受支援版本，在桌面版發布近五年後已經走到了盡頭。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/</guid>
       <pubDate>Wed, 16 Oct 2024 11:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>WinAmp 的開源進度很糟糕，因為擁有者刪除了整個儲存庫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/</link>
-      <description><![CDATA[與 WinAmp 本身後來的開發一樣糟糕，真的 WinAmp 的所有者在將原始程式碼上傳到 GitHub 一個月後剛剛刪除了整個儲存庫。很多原始碼，而且很可能不是全部都是他們的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/</guid>
-      <pubDate>Wed, 16 Oct 2024 11:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
