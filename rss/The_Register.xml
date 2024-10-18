@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 18 Oct 2024 09:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:37:31 GMT</lastBuildDate>
+    <item>
+      <title>終於有人接受了赫爾市議會 1000 萬英鎊的 ERP 交易來取代 Oracle</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</link>
+      <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>HashiCorp 推出“Terraform 2.0”，同時小心翼翼地繞過房間裡的藍色大象</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Skyline 手機更新帶來了選擇性幹擾屏蔽 發布幾個月後，操作系統更新帶來了諾基亞 HMD Skyline 的主要功能之一。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/hmd_skyline_digital_detox/</guid>
       <pubDate>Thu, 17 Oct 2024 12:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界+狗需求人工智慧和智慧型手機晶片，台積電營收成長36%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</link>
-      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片公司的晶片。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</guid>
-      <pubDate>Thu, 17 Oct 2024 11:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
