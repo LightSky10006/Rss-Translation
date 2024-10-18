@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 18 Oct 2024 03:43:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 04:42:21 GMT</lastBuildDate>
+    <item>
+      <title>Biz 僱用並解雇了一名假冒的朝鮮 IT 工人——然後勒索贖金開始了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</link>
+      <description><![CDATA[「我的網路攝影機今天不工作」是新的「狗吃了我的網路」 這種模式越來越頻繁地出現：一家公司填補了IT 承包商職位，卻沒有意識到它是錯誤地僱用了一名北韓特工。假冒工人幾乎立即開始竊取敏感數據，然後因表現不佳而被解僱。然後六位數的贖金要求 - 伴隨著被盜文件的證據 - 開始出現。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</guid>
+      <pubDate>Fri, 18 Oct 2024 04:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>有人試圖從韓國專利局竊取半導體機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/korea_ip_theft/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>世界+狗需求人工智慧和智慧型手機晶片，台積電營收成長36%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</link>
-      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度收入較上年同期增長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
+      <description><![CDATA[最大的半合約製造商和Nvidia 供應商- 在美國和歐洲建設產能 台灣半導體巨頭台積電(TSMC) 報告稱，由於需求強勁，第三季度營收較上年同期成長36%來自智慧型手機和人工智慧相關晶片的晶片公司。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/</guid>
       <pubDate>Thu, 17 Oct 2024 11:48:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不可能發生攻擊，但有足夠多的問題引起關注 消息巨頭微信使用應用程序開發人員修改的網絡協議- 研究人員聲稱，這樣做引入了安全漏洞。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/wechat_devs_modded_tls_introducing/</guid>
       <pubDate>Thu, 17 Oct 2024 08:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>匿名蘇丹已不復存在：兩名涉嫌操縱者被點名並受到指控</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</link>
-      <description><![CDATA[據說該團夥在GitHub 上開發了其惡意軟體，然後是DDoSed GitHub 在美國檢察官辦公室週三公佈了一份起訴書，指出其兩名涉嫌運營商的身份後，黑客活動團夥Anonymous蘇丹似乎已經失去了匿名性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
