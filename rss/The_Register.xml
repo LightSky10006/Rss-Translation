@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:45:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:38:12 GMT</lastBuildDate>
+    <item>
+      <title>Jetpack 修復了影響數百萬 WordPress 網站的 8 年漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/jetpack_patches_wordpress_vulnerability/</link>
+      <description><![CDATA[此外，新的歐盟網路報告規則已生效，攻擊者踩了油門，為英國學校提供免費 PDNS 等等 簡述 近期的重要安全更新-無所不在的WordPress 外掛程式Jetpack 於上週發布。站點管理員應確保安裝最新版本以確保網站安全。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/jetpack_patches_wordpress_vulnerability/</guid>
+      <pubDate>Fri, 18 Oct 2024 22:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉 FSD 在致命的低能見度事故後面臨另一項調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/tesla_fsd_lowvisibility_accident/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 18 Oct 2024 14:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨頭將斥巨資購買核電，但距離還需要幾年的時間</title>
+      <title>科技巨頭將斥巨資購買核電，而核電的開發還需要數年時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/big_tech_nuclear_power/</link>
       <description><![CDATA[Google、亞馬遜、微軟投入成本高昂的交易，但尚未產生任何成果 超大規模企業簽署的核電合約表明，他們迫切需要可靠的「清潔和綠色」能源來滿足他們的需求-然而，投資銀行傑富瑞警告稱，隨著數據中心規模的擴大，這些科技巨頭最終可能會付出不小的代價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/big_tech_nuclear_power/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>SEC X 帳戶被盜 5 年後，涉嫌比特幣騙子麵臨監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/sec_bitcoin_arrest/</link>
-      <description><![CDATA[SIM 交換器再次罷工，扭曲加密貨幣價格 一名阿拉巴馬州男子因涉嫌在今年早些時候試圖通過盜取美國證券交易委員會的X 帳戶來操縱比特幣價格而面臨五年監禁。]]></description>
+      <description><![CDATA[SIM 交換器再次罷工，扭曲加密貨幣價格 一名阿拉巴馬州男子因涉嫌試圖通過盜取美國證券交易委員會的X 帳戶而在今年早些時候操縱比特幣價格而面臨五年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/sec_bitcoin_arrest/</guid>
       <pubDate>Fri, 18 Oct 2024 12:30:09 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>終於有人接受了赫爾市議會 1000 萬英鎊的 ERP 交易來取代 Oracle</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</link>
-      <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購之後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
+      <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</guid>
       <pubDate>Fri, 18 Oct 2024 09:34:14 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 18 Oct 2024 06:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾反擊中國對其在國家安全局後門中植入的指控</title>
+      <title>英特爾反擊中國對其在美國國家安全局（NSA）後門的指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</link>
       <description><![CDATA[Chipzilla 表示，無論在哪裡，它都遵守法律，這很好 英特爾已經回應了中國關於其晶片在美國國家安全局指導下包含安全後門的說法。 /p&gt;  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>Destiny Robotics 與 SEC 就人工智慧驅動的人類機器人蒸汽軟體案件達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/destiny_robotics_sec_settlement/</link>
-      <description><![CDATA[籌集了超過14.1 萬美元的眾籌資金，但現已關閉 由於新創公司未能生產承諾的產品，投資者損失了所有資金，美國證券交易委員會(SEC) 已與已解散的Destiny Robotics 達成了一項協議。]]></description>
+      <description><![CDATA[籌集了超過141,000 美元的眾籌資金，但現已關閉 由於新創公司未能生產承諾的產品，投資者損失了所有資金，美國證券交易委員會(SEC) 已與已解散的Destiny Robotics 達成協議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/destiny_robotics_sec_settlement/</guid>
       <pubDate>Fri, 18 Oct 2024 00:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Globe Life 聲稱勒索者與賣空者分享被盜資訊 美國保險公司Globe Life 已經在努力解決法律問題，現在又面臨新的頭痛問題：涉及被盜客戶資料的勒索企圖。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/us_insurance_giant_with_a/</guid>
       <pubDate>Thu, 17 Oct 2024 23:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 罰款該死，ESPN 再次濫用緊急警報音</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/espn_fined_emergency_alert_sounds/</link>
-      <description><![CDATA[這是第三次罷工，但他們得到的只是一記耳光？這又是一次...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/espn_fined_emergency_alert_sounds/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
