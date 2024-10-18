@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 13:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 15:37:01 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉 FSD 在霧天和強光下墜毀——聯邦政府啟動新的安全調查</title>
+      <link>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</link>
+      <description><![CDATA[四起事故和一人死亡可能會導致代價高昂的召回或 FSD 被禁止。]]></description>
+      <guid>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</guid>
+      <pubDate>Fri, 18 Oct 2024 14:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 展示用於平面繪圖的 3D 旋轉工具</title>
+      <link>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</link>
+      <description><![CDATA[Project Turntable 使用機器學習從 2D 向量製作可動的 3D 模型。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</guid>
+      <pubDate>Fri, 18 Oct 2024 14:23:29 GMT</pubDate>
+    </item>
     <item>
       <title>簡單的電壓脈衝即可恢復鋰矽電池的容量</title>
       <link>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[破產公司可能看不到任何後果。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/redbox-hard-drive-hacked-to-reveal-customer-information-from-2471-rentals/</guid>
       <pubDate>Thu, 17 Oct 2024 21:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>惡女槌如何助長女巫審判熱潮</title>
-      <link>https://arstechnica.com/science/2024/10/how-the-malleus-maleficarum-fueled-the-witch-trial-craze/</link>
-      <description><![CDATA[印刷機的發明、附近城市的影響為社會傳染創造了完美的條件。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/how-the-malleus-maleficarum-fueled-the-witch-trial-craze/</guid>
-      <pubDate>Thu, 17 Oct 2024 21:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著越來越多的父母拒絕為孩子注射救命疫苗，美國疫苗接種率再次下降</title>
-      <link>https://arstechnica.com/health/2024/10/us-vaccinations-fall-again-as-more-parents-refuse-lifesaving-shots-for-kids/</link>
-      <description><![CDATA[隨著疫苗接種率跌至 92%，美國變得更容易爆發疫情。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/us-vaccinations-fall-again-as-more-parents-refuse-lifesaving-shots-for-kids/</guid>
-      <pubDate>Thu, 17 Oct 2024 20:40:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 18 Oct 2024 14:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 15:37:28 GMT</lastBuildDate>
+    <item>
+      <title>AWS老闆：不想回辦公室？去別的地方工作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/aws_rto/</link>
+      <description><![CDATA[要么走我們的路，要么走高速公路 據報道，AWS 首席執行官馬特·加曼(Matt Garman) 告訴員工，如果他們不喜歡公司每週五天返回辦公室的政策，他們可以看看在其他地方工作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/aws_rto/</guid>
+      <pubDate>Fri, 18 Oct 2024 15:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>隨著研究人員發現新的攻擊方法，Spectre 缺陷繼續困擾英特爾和 AMD</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/spectre_problems_continue_amd_intel/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不出意外的話，預計將於2025 年第一季量產 三星終於在記憶體市場搶佔了先機，在量產前發布了24 Gb GDDR7 DRAM，用於GPU 客戶在AI 計算系統中的驗證- 預計會提前發布明年 - 開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/samsung_gddr7_dram_chip/</guid>
       <pubDate>Thu, 17 Oct 2024 20:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 打造 Rust 虛擬機器管理程式來為 Azure 工作負載提供支援</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/</link>
-      <description><![CDATA[OpenVMM 宣揚更強大的安全性，但尚未準備好迎接黃金時段 微軟本月稍早發布了用Rust 編寫的新虛擬機器管理程式或虛擬機器監視器(VMM)的程式碼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:24:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
