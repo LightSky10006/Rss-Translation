@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 17 Oct 2024 23:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 02:17:32 GMT</lastBuildDate>
+    <item>
+      <title>拜登政府削減對一些太空相關出口的控制</title>
+      <link>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</link>
+      <description><![CDATA[“已經等了很長時間了，我認為這將是非常有意義的。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</guid>
+      <pubDate>Fri, 18 Oct 2024 00:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>高通因「全面」不符合標準而取消 Windows 開發套件 PC</title>
+      <link>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</link>
+      <description><![CDATA[Snapdragon 開發套件原定於 6 月出貨，但一再延後。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:58:08 GMT</pubDate>
+    </item>
     <item>
       <title>廉價的人工智慧「視訊擷取」現在可以從任何螢幕錄製中提取數據</title>
       <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[馬斯克可能面臨 DSA 高達全球收入 6%（包括 SpaceX 銷售額）的罰款。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/</guid>
       <pubDate>Thu, 17 Oct 2024 17:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 15的安全與隱私功能是這次更新的亮點</title>
-      <link>https://arstechnica.com/gadgets/2024/10/android-15s-security-and-privacy-features-are-the-updates-highlight/</link>
-      <description><![CDATA[新工具針對的是電話搶奪者、窺探孩子或伴侶、手機劫持者。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/android-15s-security-and-privacy-features-are-the-updates-highlight/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦調查局測試現有法律是否可以打擊虛假人工智慧兒童色情圖片的激增</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/us-prosecutors-vow-to-step-up-fight-against-fake-ai-child-sex-images/</link>
-      <description><![CDATA[隨著聯邦政府加強打擊力度，孩子們對人工智慧生成的色情圖片毫無防備。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/us-prosecutors-vow-to-step-up-fight-against-fake-ai-child-sex-images/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:18:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
