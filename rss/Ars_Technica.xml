@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 17:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:42:27 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜高層告訴員工，如果不喜歡 RTO 政策，就去其他地方工作</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/amazon-exec-tells-employees-to-work-elsewhere-if-they-dislike-rto-policy/</link>
+      <description><![CDATA[使用 RTO 來推動戒菸可能會導致「一系列法律後果」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/amazon-exec-tells-employees-to-work-elsewhere-if-they-dislike-rto-policy/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>報告指出美國懷疑台積電幫助華為規避出口管制</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/us-suspects-tsmc-helped-huawei-skirt-export-controls-report-says/</link>
+      <description><![CDATA[美國調查台積電是否幫助華為生產人工智慧晶片。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/us-suspects-tsmc-helped-huawei-skirt-export-controls-report-says/</guid>
+      <pubDate>Fri, 18 Oct 2024 17:41:58 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆馬斯克改變了 X 條款，將訴訟轉移到他最喜歡的德克薩斯州法院</title>
       <link>https://arstechnica.com/tech-policy/2024/10/xs-new-terms-steer-lawsuits-to-texas-court-where-judge-owns-tesla-stock/</link>
@@ -48,7 +62,7 @@
       <pubDate>Fri, 18 Oct 2024 11:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>最後，我的家庭實驗室從 isc-dhcp-server 升級到 isc-kea</title>
+      <title>最後為我的家庭實驗室從 isc-dhcp-server 升級到 isc-kea</title>
       <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
       <description><![CDATA[遷移並沒有我想像的那麼嚴重，而且動態 DNS 仍然有效！]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“已經等了很長時間了，我認為這將是非常有意義的。”]]></description>
       <guid>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</guid>
       <pubDate>Fri, 18 Oct 2024 00:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通因「全面」不符合標準而取消 Windows 開發套件 PC</title>
-      <link>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</link>
-      <description><![CDATA[Snapdragon 開發套件原定於 6 月出貨，但一再延後。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>廉價的人工智慧「視訊擷取」現在可以從任何螢幕錄製中提取數據</title>
-      <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
-      <description><![CDATA[研究人員將螢幕錄影輸入 Gemini，輕鬆擷取準確的資訊。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:41:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
