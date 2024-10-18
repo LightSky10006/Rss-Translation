@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 05:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 11:34:54 GMT</lastBuildDate>
+    <item>
+      <title>簡單的電壓脈衝即可恢復鋰矽電池的容量</title>
+      <link>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</link>
+      <description><![CDATA[壞消息是目前使用的純鋰矽電池並不多。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>火箭報道：彭博社呼籲取消 SLS； SpaceX 突破百年大關</title>
+      <link>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</link>
+      <description><![CDATA[“加拿大將首次擁有自己的本土火箭技術。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>最後，我的家庭實驗室從 isc-dhcp-server 升級到 isc-kea</title>
+      <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
+      <description><![CDATA[遷移並沒有我想像的那麼嚴重，而且動態 DNS 仍然有效！]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</guid>
+      <pubDate>Fri, 18 Oct 2024 10:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>拜登政府削減對一些太空相關出口的控制</title>
       <link>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[當疫苗接種率降至 92% 時，美國變得更容易爆發疫情。]]></description>
       <guid>https://arstechnica.com/health/2024/10/us-vaccinations-fall-again-as-more-parents-refuse-lifesaving-shots-for-kids/</guid>
       <pubDate>Thu, 17 Oct 2024 20:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>所謂的比特幣拉高拋售計畫中的 SIM 交換是如何運作的</title>
-      <link>https://arstechnica.com/security/2024/10/how-alleged-sim-swap-and-hacked-x-account-drove-up-price-of-bitcoin-by-1k/</link>
-      <description><![CDATA[SEC 官方帳號發布的假訊息導致貨幣飆升。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/how-alleged-sim-swap-and-hacked-x-account-drove-up-price-of-bitcoin-by-1k/</guid>
-      <pubDate>Thu, 17 Oct 2024 20:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>明年人類繞月飛行的可能性越來越小</title>
-      <link>https://arstechnica.com/space/2024/10/artemis-ii-almost-certainly-will-miss-its-september-2025-launch-date/</link>
-      <description><![CDATA[這不僅是獵戶座的隔熱罩；特派團的地面系統已經沒有時間了。]]></description>
-      <guid>https://arstechnica.com/space/2024/10/artemis-ii-almost-certainly-will-miss-its-september-2025-launch-date/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟考慮將馬斯克其他公司的收入納入X罰款計算中</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/</link>
-      <description><![CDATA[馬斯克可能面臨 DSA 高達全球收入 6%（包括 SpaceX 銷售額）的罰款。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:11:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
