@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 19:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 20:36:25 GMT</lastBuildDate>
+    <item>
+      <title>奇怪的魚有感官“腿”，用於行走和品嚐</title>
+      <link>https://arstechnica.com/science/2024/10/bizarre-fish-has-sensory-legs-it-uses-for-walking-and-tasting/</link>
+      <description><![CDATA[一些海知更鳥可以用腿來感知獵物。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/bizarre-fish-has-sensory-legs-it-uses-for-walking-and-tasting/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官猛烈抨擊佛羅裡達州審查政治廣告：“這是第一修正案，愚蠢的”</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/judge-slams-florida-for-censoring-political-ad-its-the-first-amendment-stupid/</link>
+      <description><![CDATA[佛羅裡達州因批評該州墮胎法的廣告而威脅電視台。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/judge-slams-florida-for-censoring-political-ad-its-the-first-amendment-stupid/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>海水淡化系統自我調整以使用再生能源</title>
       <link>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[壞消息是目前使用的純鋰矽電池並不多。]]></description>
       <guid>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</guid>
       <pubDate>Fri, 18 Oct 2024 11:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報道：彭博社呼籲取消 SLS； SpaceX 突破百年大關</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</link>
-      <description><![CDATA[“加拿大將首次擁有自己的本土火箭技術。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>最後，我的家庭實驗室從 isc-dhcp-server 升級到 isc-kea</title>
-      <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
-      <description><![CDATA[遷移並沒有我想像的那麼嚴重，而且動態 DNS 仍然有效！]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</guid>
-      <pubDate>Fri, 18 Oct 2024 10:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
