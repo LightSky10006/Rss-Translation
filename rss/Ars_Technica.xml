@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 20:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:11:37 GMT</lastBuildDate>
+    <item>
+      <title>《機甲戰士 5》：部落應該對新手友好，我對其進行了測試</title>
+      <link>https://arstechnica.com/gaming/2024/10/i-tried-to-get-into-mechwarrior-5-clans-as-a-newcomer-but-its-for-the-fans/</link>
+      <description><![CDATA[如果你想要的話，你可能想要的所有裝備平衡、小隊領導和知識。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/i-tried-to-get-into-mechwarrior-5-clans-as-a-newcomer-but-its-for-the-fans/</guid>
+      <pubDate>Fri, 18 Oct 2024 21:19:50 GMT</pubDate>
+    </item>
     <item>
       <title>奇怪的魚有感官“腿”，用於行走和品嚐</title>
       <link>https://arstechnica.com/science/2024/10/bizarre-fish-has-sensory-legs-it-uses-for-walking-and-tasting/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>海水淡化系統自我調整以使用再生能源</title>
       <link>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</link>
-      <description><![CDATA[新系統不需要恆定的電源，而是可以調整以使用任何可用的電源。]]></description>
+      <description><![CDATA[新系統不需要恆定功率，而是調整以使用任何可用的功率。]]></description>
       <guid>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</guid>
       <pubDate>Fri, 18 Oct 2024 19:06:13 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 18 Oct 2024 15:42:46 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉 FSD 在霧天和強光下墜毀——聯邦政府啟動新的安全調查</title>
+      <title>特斯拉 FSD 在大霧、強光下墜毀——聯邦政府啟動新的安全調查</title>
       <link>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</link>
       <description><![CDATA[四起事故和一人死亡可能會導致代價高昂的召回或 FSD 被禁止。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Project Turntable 使用機器學習從 2D 向量製作可動的 3D 模型。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</guid>
       <pubDate>Fri, 18 Oct 2024 14:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>簡單的電壓脈衝即可恢復鋰矽電池的容量</title>
-      <link>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</link>
-      <description><![CDATA[壞消息是目前使用的純鋰矽電池並不多。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
