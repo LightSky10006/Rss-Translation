@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 18 Oct 2024 08:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:14:08 GMT</lastBuildDate>
+    <item>
+      <title>美國陸軍 1959 年「明日士兵」對未來戰爭的正確認識</title>
+      <link>https://www.wired.com/story/us-army-soldier-of-tomorrow-1959/</link>
+      <description><![CDATA[六十五年前，陸軍領導人推出了原子戰爭時代的「終極武器」。以下是該服務的願景如何滿足當今的現實。]]></description>
+      <guid>https://www.wired.com/story/us-army-soldier-of-tomorrow-1959/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>戴爾優惠券代碼：部分商品可享 10% 折扣</title>
       <link>https://www.wired.com/story/dell-coupon-code/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[挪威東北部發生瞭如此多的干擾，監管機構不再想知道。]]></description>
       <guid>https://www.wired.com/story/gps-jamming-is-screwing-with-norwegian-planes/</guid>
       <pubDate>Thu, 17 Oct 2024 10:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>此提示可讓人工智慧聊天機器人從您的聊天中識別並提取個人詳細信息</title>
-      <link>https://www.wired.com/story/ai-imprompter-malware-llm/</link>
-      <description><![CDATA[安全研究人員創建了一種演算法，可以將惡意提示轉換為一組隱藏指令，這些指令可以將使用者的個人資訊發送給攻擊者。]]></description>
-      <guid>https://www.wired.com/story/ai-imprompter-malware-llm/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
