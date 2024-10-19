@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 22:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 00:57:17 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX擊敗ULA，贏得價值7.33億美元的軍事發射合約</title>
+      <link>https://arstechnica.com/space/2024/10/spacex-sweeps-latest-round-of-military-launch-contracts/</link>
+      <description><![CDATA[SpaceX 和 ULA 有資格競爭八次發射，最終 SpaceX 贏得了全部勝利。]]></description>
+      <guid>https://arstechnica.com/space/2024/10/spacex-sweeps-latest-round-of-military-launch-contracts/</guid>
+      <pubDate>Fri, 18 Oct 2024 23:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>《機甲戰士 5》：部落應該對新手友好，我對其進行了測試</title>
       <link>https://arstechnica.com/gaming/2024/10/i-tried-to-get-into-mechwarrior-5-clans-as-a-newcomer-but-its-for-the-fans/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>海水淡化系統自我調整以使用再生能源</title>
       <link>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</link>
-      <description><![CDATA[新系統不需要恆定功率，而是調整以使用任何可用的功率。]]></description>
+      <description><![CDATA[新系統不需要恆定的電源，而是可以調整以使用任何可用的電源。]]></description>
       <guid>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</guid>
       <pubDate>Fri, 18 Oct 2024 19:06:13 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[四起事故和一人死亡可能會導致代價高昂的召回或 FSD 被禁止。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</guid>
       <pubDate>Fri, 18 Oct 2024 14:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 展示用於平面繪圖的 3D 旋轉工具</title>
-      <link>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</link>
-      <description><![CDATA[Project Turntable 使用機器學習從 2D 向量製作可動的 3D 模型。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:23:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
