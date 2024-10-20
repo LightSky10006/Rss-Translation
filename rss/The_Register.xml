@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 20 Oct 2024 09:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 13:36:19 GMT</lastBuildDate>
+    <item>
+      <title>WinAmp 的困境將會過去，但它的奇蹟將永遠存在</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/20/opinion_column_winamp/</link>
+      <description><![CDATA[不像實況主那樣笨拙或隨意，而是更文明時代的優雅玩家 意見 是的，我認為這是錯的。二十年前。我告別了首選的 PC 音樂播放器 WinAmp。 Windows Media Player 變得越來越好，WinAmp 的所有者變得無聊，而 iPod 則讓一切都變得不再重要…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/20/opinion_column_winamp/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>開源 LLM 工具準備嗅探 Python 零日漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/20/python_zero_day_tool/</link>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 18 Oct 2024 14:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨頭將斥巨資購買核電，但距離還需要幾年的時間</title>
+      <title>科技巨頭將斥巨資購買核電，而核電的開發還需要數年時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/big_tech_nuclear_power/</link>
       <description><![CDATA[Google、亞馬遜、微軟投入成本高昂的交易，但尚未產生任何成果 超大規模企業簽署的核電合約表明，他們迫切需要可靠的「清潔和綠色」能源來滿足他們的需求-然而，投資銀行傑富瑞警告稱，隨著數據中心規模的擴大，這些科技巨頭最終可能會付出不小的代價。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/big_tech_nuclear_power/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>SEC X 帳戶被盜 5 年後，涉嫌比特幣騙子麵臨監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/sec_bitcoin_arrest/</link>
-      <description><![CDATA[SIM 交換器再次罷工，扭曲加密貨幣價格 一名阿拉巴馬州男子因涉嫌在今年早些時候試圖通過盜取美國證券交易委員會的X 帳戶來操縱比特幣價格而面臨五年監禁。]]></description>
+      <description><![CDATA[SIM 交換器再次罷工，扭曲加密貨幣價格 一名阿拉巴馬州男子因涉嫌試圖通過盜取美國證券交易委員會的X 帳戶而在今年早些時候操縱比特幣價格而面臨五年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/sec_bitcoin_arrest/</guid>
       <pubDate>Fri, 18 Oct 2024 12:30:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>終於有人接受了赫爾市議會 1000 萬英鎊的 ERP 交易來取代 Oracle</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</link>
-      <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購之後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
+      <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</guid>
       <pubDate>Fri, 18 Oct 2024 09:34:14 GMT</pubDate>
     </item>
@@ -118,14 +125,14 @@
       <pubDate>Fri, 18 Oct 2024 06:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾反擊中國對其在國家安全局後門中植入的指控</title>
+      <title>英特爾反擊中國對其在美國國家安全局（NSA）後門的指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</link>
       <description><![CDATA[Chipzilla 表示，無論在哪裡，它都遵守法律，這很好 英特爾已經回應了中國關於其晶片在美國國家安全局指導下包含安全後門的說法。 /p&gt;  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</guid>
       <pubDate>Fri, 18 Oct 2024 05:32:13 GMT</pubDate>
     </item>
     <item>
-      <title>Biz 僱用並解雇了一名假冒的朝鮮 IT 工人 - 然後勒索贖金開始</title>
+      <title>Biz 僱用並解雇了一名假冒的朝鮮 IT 工人——然後勒索贖金開始了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</link>
       <description><![CDATA[「我的網路攝影機今天不工作」是新的「狗吃了我的網路」 這種模式越來越頻繁地出現：一家公司填補了IT 承包商職位，卻沒有意識到它是錯誤地僱用了一名北韓特工。假冒工人幾乎立即開始竊取敏感數據，然後因表現不佳而被解僱。然後六位數的贖金要求 - 伴隨著被盜文件的證據 - 開始出現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>有人試圖從韓國專利局竊取半導體機密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/korea_ip_theft/</link>
-      <description><![CDATA[政府加強資訊安全以阻止這種情況- 就像當三星和SK 海力士成為經濟的重要組成部分時一樣 韓國週四宣布了新措施，以防止未來技術從其專利局洩露，在註意到洩密事件不斷增加並擔心被盜知識產權流向海外時可能會傷害當地公司之後…]]></description>
+      <description><![CDATA[政府加強資訊安全以阻止這種情況- 就像當三星和SK 海力士成為經濟的重要組成部分時一樣 韓國週四宣布了新措施，以防止未來技術從其專利局洩露，在註意到洩密事件不斷增加並擔心當被盜知識產權流向海外時可能會傷害當地公司之後…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/korea_ip_theft/</guid>
       <pubDate>Fri, 18 Oct 2024 03:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>醫療服務集團在 SEC 備案中披露“網路安全事件”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/healthcare_services_group_attack/</link>
-      <description><![CDATA[洗衣和餐飲提供者仍在調查原因和範圍 醫療保健服務集團(HSG) 在證券交易委員會(SEC) 的文件中披露了「其某些系統內未經授權的活動」。...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/healthcare_services_group_attack/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
