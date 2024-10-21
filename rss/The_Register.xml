@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 00:59:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 02:21:24 GMT</lastBuildDate>
+    <item>
+      <title>網路檔案再次曝光——這次是透過 Zendesk</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/</link>
+      <description><![CDATA[Org 將困境轉化為籌款機會 儘管互聯網檔案館保證在最近的資訊安全事件後已重新站穩腳跟，但在未知各方聲稱持有訪問令牌後，該組織似乎仍陷入困境到它的 Zendesk 實現並使用它們發送大量電子郵件......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/</guid>
+      <pubDate>Mon, 21 Oct 2024 01:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>百度CEO稱人工智慧「泡沫」將破滅99%的玩家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/20/asia_tech_news_roundup/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chipzilla 表示，無論在哪裡，它都遵守法律，這很好 英特爾已經回應了中國關於其晶片在美國國家安全局指導下包含安全後門的說法。 /p&gt;  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</guid>
       <pubDate>Fri, 18 Oct 2024 05:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biz 僱用並解雇了一名假冒的朝鮮 IT 工人——然後勒索贖金開始了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</link>
-      <description><![CDATA[「我的網路攝影機今天不工作」是新的「狗吃了我的網路」 這種模式越來越頻繁地出現：一家公司填補了IT 承包商職位，卻沒有意識到它是錯誤地僱用了一名北韓特工。假冒工人幾乎立即開始竊取敏感數據，然後因表現不佳而被解僱。然後六位數的贖金要求 - 伴隨著被盜文件的證據 - 開始出現。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
