@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 06:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 07:36:56 GMT</lastBuildDate>
+    <item>
+      <title>Linux 管理員向精明的科學家尋求 IT 協助，但科學家搞砸了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/who_me/</link>
+      <description><![CDATA[在科學領域，每天都在檢驗假設。例如：「你對網路做了什麼？」 誰，我？  歡迎，溫柔的讀者，來到科技前沿又一個激動人心的一周，因此期待五即將到來的快樂而有成效的日子以及新版的《誰，我？ – The Register 的讀者貢獻的科技出錯故事。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/who_me/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 基於 Arm 的 Cobalt 100 CPU 現已上線並為 Azure VM 提供支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_arm_cobalt_100_cpu/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在為支持22 年前上線的系統而進行的大規模採購後，邁出工作日 在開始與供應商談判兩年半後，英格蘭北部的一個市議會授予了一份合約向 Workday 提供 1070 萬英鎊（1400 萬美元），用於創建財務和人力資源系統，以取代老化的 Oracle ERP 安裝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/</guid>
       <pubDate>Fri, 18 Oct 2024 09:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>HashiCorp 推出“Terraform 2.0”，同時小心翼翼地繞過房間裡的藍色大象</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/</link>
-      <description><![CDATA[HashiConf 盛會奇怪地不願意提及即將到來的IBM 收購 HashiCorp 的年度HashiConf 盛會在波士頓結束，房間裡有一頭藍色大象，並發出嘶嘶的指示：「不要提及IBM！]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
