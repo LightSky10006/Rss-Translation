@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 23:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 23:36:20 GMT</lastBuildDate>
+    <item>
+      <title>美國繼續打擊向六個「關注國家」出售數據的經紀商</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/us_crackdown_data_brokers/</link>
+      <description><![CDATA[拜登的行政命令很快就會迎來曙光 美國聯邦政府準備實施一項行政命令，禁止數據經紀人向六個國家的買家出售大量信息。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/us_crackdown_data_brokers/</guid>
+      <pubDate>Mon, 21 Oct 2024 23:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>選舉日臨近，中國垃圾郵件加大對美國參議員盧比歐的攻擊力度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[聲稱即將推出的晶片將趕上Alder Lake 和Xen 2 中國晶片設計商龍芯上週調侃其產品，聲稱將提供與英特爾和AMD 大約五年前相同的性能。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/loongson_3b6600_desktop_tease/</guid>
       <pubDate>Mon, 21 Oct 2024 03:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路檔案再次曝光——這次是透過 Zendesk</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/</link>
-      <description><![CDATA[Org 將困境轉化為籌款機會 儘管互聯網檔案館保證在最近的資訊安全事件後已重新站穩腳跟，但在未知各方聲稱持有訪問令牌後，該組織似乎仍陷入困境到它的 Zendesk 實現並使用它們發送大量電子郵件......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/</guid>
-      <pubDate>Mon, 21 Oct 2024 01:29:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
