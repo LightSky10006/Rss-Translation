@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 13:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 13:42:48 GMT</lastBuildDate>
+    <item>
+      <title>macOS HM Surf 漏洞可能已被主要惡意軟體家族利用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_macos_hm_surf/</link>
+      <description><![CDATA[喜歡保護您的相機和麥克風的隱私嗎？打補丁 在披露威脅蘋果粉絲隱私的漏洞的詳細資訊時，微軟敦促所有 macOS 用戶更新他們的系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_macos_hm_surf/</guid>
+      <pubDate>Mon, 21 Oct 2024 13:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>大型瀏覽器即將打破你的無廣告天堂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 21 Oct 2024 09:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>太空人穿著普拉達 (Prada) 服裝——邁克爾·布隆伯格 (Michael Bloomberg) 的精彩演繹</title>
+      <title>太空人穿著普拉達 (Prada) 服裝——邁克爾·布隆伯格 (Michael Bloomberg) 的精彩表演</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/axiom_space_prada_spaceuit/</link>
       <description><![CDATA[億萬富翁認為，上周公布的時尚阿耳忒彌斯太空服設計永遠不會飛 私部門太空公司Axion 和義大利時裝品牌Prada 上週公佈了將用於阿耳忒彌斯III 任務的太空服。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/axiom_space_prada_spaceuit/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>百度CEO稱人工智慧「泡沫」將破滅99%的玩家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/20/asia_tech_news_roundup/</link>
-      <description><![CDATA[加上：澳洲銀行故障導致帳戶清空；中國網路俚語打擊；東芝與空中巴士公司合作；等等 亞洲概況 百度執行長李彥宏宣稱大型語言模式產生的幻覺不再是問題，並預測當「泡沫」出現時，人工智慧新創公司將被大規模消滅。]]></description>
+      <description><![CDATA[加上：澳洲銀行故障導致帳戶清空；中國網路俚語打擊；東芝與空中巴士合作；等等 亞洲概況 百度執行長李彥宏宣稱大型語言模式產生的幻覺不再是問題，並預測當「泡沫」出現時，人工智慧新創公司將被大規模消滅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/20/asia_tech_news_roundup/</guid>
       <pubDate>Sun, 20 Oct 2024 23:45:06 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 18 Oct 2024 18:37:21 GMT</pubDate>
     </item>
     <item>
-      <title>X 讓第三方使用社群媒體用戶的資料來訓練他們的人工智慧模型</title>
+      <title>X允許第三方使用社群媒體用戶的資料來訓練他們的人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/x_train_data/</link>
       <description><![CDATA[考慮社群媒體存在的另一個原因 馬斯克的社群媒體代言人X（以前稱為Twitter）已更新其服務條款和隱私權政策，將爭議直接提交給德克薩斯州聯邦法院並允許第三方根據用戶帖子訓練人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/x_train_data/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[要么走我們的路，要么走高速公路 據報道，AWS 首席執行官馬特·加曼(Matt Garman) 告訴員工，如果他們不喜歡公司每週五天返回辦公室的政策，他們可以看看在其他地方工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/aws_rto/</guid>
       <pubDate>Fri, 18 Oct 2024 15:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著研究人員發現新的攻擊方法，Spectre 缺陷繼續困擾英特爾和 AMD</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/spectre_problems_continue_amd_intel/</link>
-      <description><![CDATA[間接分支預測器障礙並不像希望的那樣是障礙 在Spectre 瞬態執行處理器設計缺陷被披露六年後，修補該問題的努力仍然未能實現。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/spectre_problems_continue_amd_intel/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
