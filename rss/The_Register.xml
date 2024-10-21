@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 05:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 06:45:28 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 基於 Arm 的 Cobalt 100 CPU 現已上線並為 Azure VM 提供支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_arm_cobalt_100_cpu/</link>
+      <description><![CDATA[針對通用和記憶體最佳化的工作負載 微軟的Cobalt 100 Arm CPU 已在其Azure 雲中全面上市，為在Redmondian 雲端中運行虛擬機創建了另一個非x86 選項。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_arm_cobalt_100_cpu/</guid>
+      <pubDate>Mon, 21 Oct 2024 06:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉、英特爾否認他們是中國剛被指控製作威脅國家安全地圖的外國公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/tesla_tsmc_china_legal_worries/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[HashiConf 盛會奇怪地不願意提及即將到來的IBM 收購 HashiCorp 的年度HashiConf 盛會在波士頓結束，房間裡有一頭藍色大象，並發出嘶嘶的指示：「不要提及IBM！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/</guid>
       <pubDate>Fri, 18 Oct 2024 08:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，你的網路壞了——你太惹惱我們了，我們把它搞崩潰了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/on_call/</link>
-      <description><![CDATA[如果您透過虛張聲勢擺脫未付帳單，那麼有人可能會打電話給您 隨叫隨到 到工作週結束時，這可能很誘人炸掉你辛苦幾天才馴服的任何技術。這就是為什麼每週五The Register 都會提供一期（希望如此）宣洩性的On Call，這是一個由讀者投稿的專欄，您可以在其中分享您最暴躁的技術支援故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/on_call/</guid>
-      <pubDate>Fri, 18 Oct 2024 07:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
