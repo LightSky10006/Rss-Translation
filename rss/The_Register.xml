@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 18:43:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 19:35:10 GMT</lastBuildDate>
+    <item>
+      <title>川普「無法破解」手機背後的億萬富翁肩負著對抗特斯拉 FSD 的使命</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/</link>
+      <description><![CDATA[Dan O&#39;Dowd 向El Reg 講述了操作系統的秘密以及與Musk 的持續衝突 採訪 本月，總統候選人唐納德·特朗普(Donald Trump) 在他的武器庫中獲得了一個工具，據稱其中一些工具“無法破解”的通信套件，The Register 與該操作系統背後的人進行了交談，他還競選美國參議員，發起了一場讓特斯拉自動駕駛汽車上路的運動，並且正在進行一些工作關於此事的十字軍東徵...... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/</guid>
+      <pubDate>Mon, 21 Oct 2024 19:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>美國出口限制之際中國增加半導體專利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/global_semiconductor_patents_surge/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[靜態分析器使用Claude AI 來識別漏洞並建議利用程式碼 總部位於西雅圖的Protect AI 的研究人員計劃發布一款免費的開源工具，該工具可以透過以下方式找到Python 程式碼庫中的零日漏洞：在 Anthropic 的 Claude AI 模型的幫助下…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/20/python_zero_day_tool/</guid>
       <pubDate>Sun, 20 Oct 2024 09:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州警察對致命無人機協助毒品交易的嫌疑人戴上手銬</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/19/california_drone_drug_deal/</link>
-      <description><![CDATA[「Crany」也被三把「幽靈槍」抓獲 一名加州男子被指控使用 DJI 無人機分發毒品，導致服藥過量致命。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/19/california_drone_drug_deal/</guid>
-      <pubDate>Sat, 19 Oct 2024 15:38:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
