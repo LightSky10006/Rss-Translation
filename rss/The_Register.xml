@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 21 Oct 2024 02:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 03:44:28 GMT</lastBuildDate>
+    <item>
+      <title>中國晶片製造商龍芯目前在桌面領域的步伐僅落後三到五年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/loongson_3b6600_desktop_tease/</link>
+      <description><![CDATA[聲稱即將推出的晶片將趕上Alder Lake 和Xen 2 中國晶片設計商龍芯上週調侃其產品，聲稱將提供與英特爾和AMD 大約五年前相同的性能。 .. ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/loongson_3b6600_desktop_tease/</guid>
+      <pubDate>Mon, 21 Oct 2024 03:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>網路檔案再次曝光——這次是透過 Zendesk</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/internet_archive_zendesk_access_attack/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[又找到了兩個原因，馬斯克應該知道他被資料中心套件纏住了 台灣合約製造商緯穎科技在針對埃隆·馬斯克的社交網絡X 的投訴中又增加了兩項罪名，聲稱尚未付款對於它已簽訂合約購買的硬體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/wiwynn_vs_x/</guid>
       <pubDate>Fri, 18 Oct 2024 06:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾反擊中國對其在美國國家安全局（NSA）後門的指控</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</link>
-      <description><![CDATA[Chipzilla 表示，無論在哪裡，它都遵守法律，這很好 英特爾已經回應了中國關於其晶片在美國國家安全局指導下包含安全後門的說法。 /p&gt;  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/</guid>
-      <pubDate>Fri, 18 Oct 2024 05:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
