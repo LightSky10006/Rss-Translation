@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 03:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 03:42:47 GMT</lastBuildDate>
+    <item>
+      <title>中國電信未來15萬台伺服器將大部分採用國產處理器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/</link>
+      <description><![CDATA[英特爾和AMD 放棄了大約三分之一的交易和許可費 大多數時候，中國電信都會發布新伺服器招標，以幫助其運行為其數百個用戶提供服務所需的應用程式。今年，其超過 15 萬份訂單將主要流向使用本地技術的國內製造商。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/</guid>
+      <pubDate>Tue, 22 Oct 2024 03:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>實習生涉嫌搞亂位元組跳動的LLM培訓集群</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/bytedance_intern_messed_with_llm/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>無人機製造商大疆因「中國軍事公司」標籤起訴五角大廈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</link>
-      <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱其已被添加到與中國軍方有在關聯的公司名單中，並被拒絕有機會抗議其清白。]]></description>
+      <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱該公司已被添加到與中國軍方有關聯的公司名單中，並被拒絕提供機會抗議其清白。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</guid>
       <pubDate>Tue, 22 Oct 2024 00:30:06 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>選舉日臨近，中國垃圾郵件加大對美國參議員盧比歐的攻擊力度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/</link>
-      <description><![CDATA[請習近平注意：Marco 和 Ted Cruz 不是同一個人 過去幾年，中國的 Spamouflage 假訊息團隊一直針對美國參議員 Marco Rubio（佛羅裡達州共和黨）開展虛假新聞活動幾個月來，攻擊這位共和黨議員的官方X 帳戶，並在Reddit 和Medium 上發布有關盧比奧的負面故事。]]></description>
+      <description><![CDATA[請習近平注意：Marco 和 Ted Cruz 不是同一個人 過去幾年，中國的 Spamouflage 假訊息團隊一直針對美國參議員 Marco Rubio（佛羅裡達州共和黨）開展虛假新聞活動幾個月來，他在共和黨議員的官方X 帳戶上進行了攻擊，並在Reddit 和Medium 上發布了有關盧比奧的負面故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/</guid>
       <pubDate>Mon, 21 Oct 2024 22:30:13 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 21 Oct 2024 09:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>太空人穿著普拉達 (Prada) 服裝——邁克爾·布隆伯格 (Michael Bloomberg) 的精彩表演</title>
+      <title>太空人穿著普拉達 (Prada) 服裝——邁克爾·布隆伯格 (Michael Bloomberg) 的精彩演繹</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/axiom_space_prada_spaceuit/</link>
       <description><![CDATA[億萬富翁認為，上周公布的時尚阿耳忒彌斯太空服設計永遠不會飛 私部門太空公司Axion 和義大利時裝品牌Prada 上週公佈了將用於阿耳忒彌斯III 任務的太空服。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/axiom_space_prada_spaceuit/</guid>
       <pubDate>Mon, 21 Oct 2024 08:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 管理員向精明的科學家尋求 IT 協助，但科學家搞砸了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/who_me/</link>
-      <description><![CDATA[在科學領域，每天都在檢驗假設。例如：「你對網路做了什麼？」 誰，我？  歡迎，溫柔的讀者，來到科技前沿又一個激動人心的一周，因此期待五即將到來的快樂而有成效的日子以及新版的《誰，我？ – The Register 的讀者貢獻的科技出錯故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/who_me/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:24:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
