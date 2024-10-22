@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 22:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 23:35:51 GMT</lastBuildDate>
+    <item>
+      <title>山姆大叔將 25% CHIPS 法案稅收抵免範圍擴大到晶圓、太陽能板製造</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_chips_credits/</link>
+      <description><![CDATA[與此同時，英飛朗(Infinera) 從不斷減少的補貼中獲得了高達9300 萬美元 CHIPS 法案資金的大部分已經分配，但山姆大叔仍然有稅收減免，而且甚至還沒有對哪種晶片符合條件很挑剔。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_chips_credits/</guid>
+      <pubDate>Tue, 22 Oct 2024 23:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>美國立法者敦促司法部起訴稅務準備公司向大型科技公司洩露納稅人數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/democrats_demand_doj_prosecute_tax/</link>
-      <description><![CDATA[TaxSlayer、H&amp;R Block、TaxAct 和 Ramsey Solutions 被指控與 Meta 和 Google 共享資訊 四位民主黨議員已致函美國司法部，要求其起訴稅務部門準備公司與Meta 和Google 共享客戶數據，包括報稅表資訊。]]></description>
+      <description><![CDATA[TaxSlayer、H&amp;R Block、TaxAct 和 Ramsey Solutions 被指控與 Meta 和 Google 共享資訊 四位立法者已致函司法部，要求其起訴稅務準備公司用於與Meta 和Google 共享客戶數據，包括報稅表資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/democrats_demand_doj_prosecute_tax/</guid>
       <pubDate>Tue, 22 Oct 2024 22:31:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不法分子將其與同樣棘手的社會工程結合 Ghostpulse 惡意軟體菌株現在透過 PNG 影像檔案的像素檢索其主要有效負載。安全專家表示，這項發展是自2023 年推出以來，背後的騙子所做的「最重大的改變之一」。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/</guid>
       <pubDate>Tue, 22 Oct 2024 05:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度與英偉達討論共同開發人工智慧晶片</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/india_nvidia_collaboration/</link>
-      <description><![CDATA[目前的能力意味著本地製造不太可能- 但適合印度需求的晶片可能會起作用 據報道，印度政府正在與Nvidia 進行談判，共同開發人工智慧晶片。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/india_nvidia_collaboration/</guid>
-      <pubDate>Tue, 22 Oct 2024 04:26:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
