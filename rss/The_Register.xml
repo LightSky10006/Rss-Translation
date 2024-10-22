@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:37:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 16:44:08 GMT</lastBuildDate>
+    <item>
+      <title>科技公司因 SolarWinds 資訊揭露誤導而需向 SEC 支付數百萬美元的罰款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/sec_fines_four_tech_firms/</link>
+      <description><![CDATA[Unisys、Avaya、Check Point 和Mimecast 與該機構達成和解，但未承認或否認不當行為 四家知名科技公司與美國證券交易委員會達成協議，支付數百萬美元的罰款誤導投資者關於 2020 年 SolarWinds 駭客攻擊的風險。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/sec_fines_four_tech_firms/</guid>
+      <pubDate>Tue, 22 Oct 2024 16:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>Akira 勒索軟體在純粹的勒索行為之後再次對受害者進行加密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</link>
-      <description><![CDATA[騙子們重蹈舊路，以提高效率 專家認為Akira 勒索軟體操作再次故技重施，在突破典型的雙重勒索策略後對受害者的文件進行加密。 ]]></description>
+      <description><![CDATA[騙子重蹈舊路，以提高效率 專家認為，Akira 勒索軟體操作再次故技重施，突破典型的雙重勒索策略後，對受害者的文件進行加密。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</guid>
       <pubDate>Tue, 22 Oct 2024 15:31:14 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>PostgreSQL 12 的時鐘在滴答作響，但並不是每個人都準備好說再見</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</link>
-      <description><![CDATA[11% 的資料庫仍處於老化版本，只剩下一個月的支援 PostgreSQL 12 的用戶只有不到一個月的時間來準備資料庫進入生命週期結束並不再受支援。 ... ]]></description>
+      <description><![CDATA[11% 的資料庫仍處於老化版本，只剩下一個月的支援 PostgreSQL 12 的使用者只有不到一個月的時間來準備資料庫進入生命週期結束並不再受支援。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</guid>
       <pubDate>Tue, 22 Oct 2024 10:39:11 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>主要出版商起訴 Perplexity AI 未經付費進行抓取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</link>
-      <description><![CDATA[我們把它賣給 OpenAI——你怎麼敢偷它並捏造東西 美國主要新聞出版商道瓊斯和道瓊斯公司。 Co 和 NYP Holdings 起訴人工智慧搜尋引擎新創公司 Perplexity，稱其在不付費的情況下抓取其內容。]]></description>
+      <description><![CDATA[我們把它賣給 OpenAI——你怎麼敢偷它並捏造東西 美國主要新聞出版商道瓊斯和道瓊斯公司。 Co 和 NYP Holdings 起訴人工智慧搜尋引擎新創公司 Perplexity 未經付費就抓取其內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</guid>
       <pubDate>Tue, 22 Oct 2024 07:30:10 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>中國電信未來15萬台伺服器將大部分採用國產處理器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/</link>
-      <description><![CDATA[英特爾和AMD 放棄了大約三分之一的交易和許可費 大多數時候，中國電信都會發布新伺服器招標，以幫助其運行為其數百個用戶提供服務所需的應用程式。今年，其超過 15 萬個訂單將主要流向使用本地技術的國內製造商。]]></description>
+      <description><![CDATA[英特爾和AMD 放棄了大約三分之一的交易和許可費 大多數時候，中國電信都會發布新伺服器招標，以幫助其運行為其數百個用戶提供服務所需的應用程式。今年，其超過 15 萬份訂單將主要流向使用本地技術的國內製造商。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/</guid>
       <pubDate>Tue, 22 Oct 2024 03:32:09 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>無人機製造商大疆因「中國軍事公司」標籤起訴五角大廈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</link>
-      <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱其已被添加到與中國軍方有在關聯的公司名單中，並被拒絕有機會抗議其清白。]]></description>
+      <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱該公司已被添加到與中國軍方有關聯的公司名單中，並被拒絕提供機會抗議其清白。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</guid>
       <pubDate>Tue, 22 Oct 2024 00:30:06 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>選舉日臨近，中國垃圾郵件加大對美國參議員盧比歐的攻擊力度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/</link>
-      <description><![CDATA[請習近平注意：Marco 和 Ted Cruz 不是同一個人 過去幾年，中國的 Spamouflage 假訊息團隊一直針對美國參議員 Marco Rubio（佛羅裡達州共和黨）開展虛假新聞活動幾個月來，攻擊這位共和黨議員的官方X 帳戶，並在Reddit 和Medium 上發布有關盧比奧的負面故事。]]></description>
+      <description><![CDATA[請習近平注意：Marco 和 Ted Cruz 不是同一個人 過去幾年，中國的 Spamouflage 假訊息團隊一直針對美國參議員 Marco Rubio（佛羅裡達州共和黨）開展虛假新聞活動幾個月來，他在共和黨議員的官方X 帳戶上進行了攻擊，並在Reddit 和Medium 上發布了有關盧比奧的負面故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/</guid>
       <pubDate>Mon, 21 Oct 2024 22:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[私募股權巨頭Thoma Bravo 為其不斷壯大的收藏品再添一座獎杯 英國安全公司Sophos 宣布計劃以8.59 億美元的交易吞併競爭對手Secureworks，這將使戴爾感到高興。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/sophos_buys_secureworks_thoma_bravo/</guid>
       <pubDate>Mon, 21 Oct 2024 21:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟表示其 Copilot AI 代理將於 11 月處理員工任務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_copilot_agents/</link>
-      <description><![CDATA[讓機器人管理您的供應鏈？可能會出現什麼問題？從下個月開始，客戶將能夠測試這些聲明。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_copilot_agents/</guid>
-      <pubDate>Mon, 21 Oct 2024 20:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
