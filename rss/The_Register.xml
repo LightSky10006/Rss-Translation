@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 04:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 05:38:33 GMT</lastBuildDate>
+    <item>
+      <title>像素完美的 Ghostpulse 惡意軟體載入程式隱藏在 PNG 映像檔中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/</link>
+      <description><![CDATA[不法分子將其與同樣棘手的社會工程結合 Ghostpulse 惡意軟體菌株現在透過 PNG 影像檔案的像素檢索其主要有效負載。安全專家表示，這項發展是自2023 年推出以來，背後的騙子所做的「最重大的改變之一」。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/</guid>
+      <pubDate>Tue, 22 Oct 2024 05:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>印度與英偉達討論共同開發人工智慧晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/india_nvidia_collaboration/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[執行長告訴The Reg 客戶面臨同樣的挑戰，不排除全職RTO 獨家  SCC 是歐洲最大的經銷商之一，請員工從下個月開始返回辦公室工作三天，並終止彈性工作時間試用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/scc_rto_3_day_week/</guid>
       <pubDate>Mon, 21 Oct 2024 10:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國當局努力藉助 SAP 崛起，又向該計畫投入 900 萬英鎊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/gloucestershire_rise_with_sap/</link>
-      <description><![CDATA[格洛斯特郡繼續使用舊系統，因為 SaaS 更換推遲了一年多 在議會將項目推遲了一年多之後，西南英格蘭當局繼續遭受 ERP 系統控制缺陷的困擾預期成本增加了一倍以上... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/gloucestershire_rise_with_sap/</guid>
-      <pubDate>Mon, 21 Oct 2024 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
