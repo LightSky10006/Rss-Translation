@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 14:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 15:37:47 GMT</lastBuildDate>
+    <item>
+      <title>Akira 勒索軟體在純粹的勒索行為之後再次對受害者進行加密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</link>
+      <description><![CDATA[騙子們重蹈舊路，以提高效率 專家認為Akira 勒索軟體操作再次故技重施，在突破典型的雙重勒索策略後對受害者的文件進行加密。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:31:14 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾、AMD 是時候放棄 x86 遊戲，轉向真正的威脅了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[讓機器人管理您的供應鏈？可能會出現什麼問題？從下個月開始，客戶將能夠測試這些聲明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_copilot_agents/</guid>
       <pubDate>Mon, 21 Oct 2024 20:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普「無法破解」手機背後的億萬富翁肩負著對抗特斯拉 FSD 的使命</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/</link>
-      <description><![CDATA[Dan O&#39;Dowd 向El Reg 講述了操作系統的秘密以及與Musk 的持續衝突 採訪 本月，總統候選人唐納德·特朗普(Donald Trump) 在他的武器庫中得到了一個工具：據稱有些工具「不可破解」的通訊套件。 《The Register》採訪了該操作系統背後的人，他還曾競選美國參議院議員，發起一項旨在讓特斯拉自動駕駛汽車遠離道路的運動，並且正在就此事進行一場運動。 p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/</guid>
-      <pubDate>Mon, 21 Oct 2024 19:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
