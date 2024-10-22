@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 11:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:58:51 GMT</lastBuildDate>
+    <item>
+      <title>Socket 投入 4000 萬美元加強軟體供應鏈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/</link>
+      <description><![CDATA[Biz 旨在以安全的名義消除 npm 包中不必要的依賴 專注於安全的開發商 Socket 週二宣布，已獲得另外 4000 萬美元的資金，以進一步努力保障軟體供應鏈...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/</guid>
+      <pubDate>Tue, 22 Oct 2024 12:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>當 Arm 競爭對手開發客製化晶片時，聯發科技堅持採用經過驗證的 Cortex 配方</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/arm_custom_silicon_interview/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[來吧，你真的認為老埃隆會日復一日地發放所有現金嗎？美元，該選民賓州州長喬許夏皮羅週末表示，已簽署選舉請願書的人可能會因違反選舉法而受到調查。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/shocking_elon_musks_1m_election/</guid>
       <pubDate>Mon, 21 Oct 2024 17:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>SiFive 推出 Premier P550 RISC-V 開發板搶先體驗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/sifive_premier_p550_board/</link>
-      <description><![CDATA[更廣泛的12 月版本承諾支持Ubuntu 和增強功能 著名的RISC-V 主角SiFive 已宣布搶先體驗其預期的開發板，該開發板圍繞該公司的P550 核心設計構建，並計劃於12 月進行更廣泛的版本...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/sifive_premier_p550_board/</guid>
-      <pubDate>Mon, 21 Oct 2024 16:23:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
