@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 19:36:06 GMT</lastBuildDate>
+    <item>
+      <title>高通推出適用於 Android 手機的客製化內核 Snapdragon 8 Elite</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/qualcomm_snapdragon_8_elite/</link>
+      <description><![CDATA[新旗艦SoC 放棄Arm，並與Oryon 一起發展 在夏威夷毛伊島舉行的高通Snapdragon 峰會的第一天，高通推出了其最新的旗艦SoC，稱為Snapdragon 8 Elite 。這標誌著利用其收購的 Nuvia 團隊的技術實力的關鍵轉變。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/qualcomm_snapdragon_8_elite/</guid>
+      <pubDate>Tue, 22 Oct 2024 19:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>西部數據並不是唯一一家－Windows 24H2更新導致華碩系統藍屏</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</link>
-      <description><![CDATA[微軟阻止更新以避免讓管理員再次頭痛 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新代碼將導致某些華碩系統出現藍屏死機，原因是硬體相容性。]]></description>
+      <description><![CDATA[微軟阻止更新以避免給管理員帶來另一個麻煩 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新程式碼將導致某些華碩系統出現藍色畫面死機，原因是硬體相容性問​​題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</guid>
       <pubDate>Tue, 22 Oct 2024 18:30:10 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>英特爾、AMD 是時候放棄 x86 遊戲，轉向真正的威脅了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</link>
-      <description><![CDATA[最近的麻煩最終讓Chipzilla 屈服了嗎？的情況下保持重要地位。]]></description>
+      <description><![CDATA[最近的麻煩最終讓Chipzilla 黯然失色了嗎？普及的情況下保持重要地位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</guid>
       <pubDate>Tue, 22 Oct 2024 14:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[北京威脅報復，東京陷入兩難的境地 美國和中國之間的「晶片戰爭」出現新的轉折，眾議院特別委員會成員威脅對日本公司採取行動如果該國不採取更多措施限制向中國銷售晶片製造套件…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_pressure_japan_china/</guid>
       <pubDate>Tue, 22 Oct 2024 01:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>無人機製造商大疆因「中國軍事公司」標籤起訴五角大廈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</link>
-      <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱其已被添加到與中國軍方有在關聯的公司名單中，並被拒絕有機會抗議其清白。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</guid>
-      <pubDate>Tue, 22 Oct 2024 00:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
