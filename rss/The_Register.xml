@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 18:43:00 GMT</lastBuildDate>
+    <item>
+      <title>西部數據並不是唯一一家－Windows 24H2更新導致華碩系統藍屏</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</link>
+      <description><![CDATA[微軟阻止更新以避免讓管理員再次頭痛 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新代碼將導致某些華碩系統出現藍屏死機，原因是硬體相容性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</guid>
+      <pubDate>Tue, 22 Oct 2024 18:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>台積電揭發華為可能違反制裁的惡作劇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/tsmc_huawei_sanctions_report/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[懸而未決的中共無人機禁令可能會使訴訟變得無關緊要 中國無人機製造商大疆已起訴美國國防部，聲稱其已被添加到與中國軍方有在關聯的公司名單中，並被拒絕有機會抗議其清白。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/</guid>
       <pubDate>Tue, 22 Oct 2024 00:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國繼續打擊向六個「關注國家」出售數據的經紀商</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/us_crackdown_data_brokers/</link>
-      <description><![CDATA[拜登的行政命令很快就會迎來曙光 美國聯邦政府準備實施一項行政命令，禁止數據經紀人向六個國家的買家出售大量信息。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/us_crackdown_data_brokers/</guid>
-      <pubDate>Mon, 21 Oct 2024 23:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
