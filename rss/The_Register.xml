@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 06:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 07:39:54 GMT</lastBuildDate>
+    <item>
+      <title>主要出版商起訴 Perplexity AI 未經付費進行抓取</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</link>
+      <description><![CDATA[我們把它賣給 OpenAI——你怎麼敢偷它並捏造東西 美國主要新聞出版商道瓊斯和道瓊斯公司。 Co 和 NYP Holdings 起訴人工智慧搜尋引擎新創公司 Perplexity 未經付費就抓取其內容。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</guid>
+      <pubDate>Tue, 22 Oct 2024 07:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>實驗室培養的人腦細胞在模擬中驅動虛擬蝴蝶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/human_brain_tissue_butterfly_simulation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mozilla 和Google 讓uBlock Origin 和uBlock Lite 用戶的生活變得複雜 uBlock Origin 及其較小的兄弟uBlock Origin Lite 都遇到了問題，這要歸功於瀏覽器供應商確實應該更了解...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/ublock_firefox_chrome_issues/</guid>
       <pubDate>Mon, 21 Oct 2024 12:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>開發人員透過無雲化節省了 200 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/21/37signals_aws_savings/</link>
-      <description><![CDATA[37signals 技術長聲稱，由於AWS 退出後合約到期，新硬體的成本已「完全收回」 在支付巨額費用後決定退出雲端的網路軟體公司表示，它已節省了近2 美元切換到本地部署後的第一個「乾淨的一年」就實現了 100 萬美元，並且已經收回了所需的額外硬體的成本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/21/37signals_aws_savings/</guid>
-      <pubDate>Mon, 21 Oct 2024 11:36:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
