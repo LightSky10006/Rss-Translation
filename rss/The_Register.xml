@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 21:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 21:35:12 GMT</lastBuildDate>
+    <item>
+      <title>假評論者面臨可汗的憤怒</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/fake_reviews_ftc/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/fake_reviews_ftc/</guid>
+      <pubDate>Tue, 22 Oct 2024 21:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>抱歉，企業人工智慧的投資報酬率非常低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/genai_roi_appen/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>西部數據並不是唯一一家－Windows 24H2更新導致華碩系統藍屏</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</link>
-      <description><![CDATA[微軟阻止更新以避免給管理員帶來另一個麻煩 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新程式碼將導致某些華碩系統出現藍色畫面死機，原因是硬體相容性問​​題。]]></description>
+      <description><![CDATA[微軟阻止更新以避免讓管理員再次頭痛 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新代碼將導致某些華碩系統出現藍屏死機，原因是硬體相容性問​​題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</guid>
       <pubDate>Tue, 22 Oct 2024 18:30:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>英特爾、AMD 是時候放棄 x86 遊戲，轉向真正的威脅了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</link>
-      <description><![CDATA[最近的麻煩最終讓Chipzilla 黯然失色了嗎？普及的情況下保持重要地位。]]></description>
+      <description><![CDATA[最近的麻煩最終讓Chipzilla 屈服了嗎？的情況下保持重要地位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</guid>
       <pubDate>Tue, 22 Oct 2024 14:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[英特爾和AMD 放棄了大約三分之一的交易和許可費 大多數時候，中國電信都會發布新伺服器招標，以幫助其運行為其數百個用戶提供服務所需的應用程式。今年，其超過 15 萬個訂單將主要流向使用本地技術的國內製造商。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/</guid>
       <pubDate>Tue, 22 Oct 2024 03:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>實習生涉嫌搞亂位元組跳動的LLM培訓集群</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/bytedance_intern_messed_with_llm/</link>
-      <description><![CDATA[TikTok 母公司表示，除實習生的工作外，沒有造成任何損失 位元組跳動因「惡意幹擾」大型語言模型訓練專案而解雇了一名實習生。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/bytedance_intern_messed_with_llm/</guid>
-      <pubDate>Tue, 22 Oct 2024 02:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
