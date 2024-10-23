@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 20:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:34:52 GMT</lastBuildDate>
+    <item>
+      <title>Linus Torvalds 確認驅逐俄羅斯維護者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/</link>
+      <description><![CDATA[因制裁而刪除與俄羅斯有關的內核維護者 Linux 創建者Linus Torvalds 週三證實，上週刪除了大約十幾個與俄羅斯有關的內核維護者。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/</guid>
+      <pubDate>Wed, 23 Oct 2024 21:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>「撒旦」數據竊賊聲稱已竊取 3.5 億熱門話題購物者資訊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/satanic_data_thief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[旨在緩解人工智慧加速器短缺問題的中間件 富士通已開始銷售優化 GPU 使用的中間件，以便那些有幸擁有稀缺加速器的人可以確保他們始終處於良好狀態 -使用過。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fujitsu_gpu_middleware/</guid>
       <pubDate>Wed, 23 Oct 2024 02:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>數百萬 Android 和 iOS 用戶面臨流行應用程式中硬編碼信用的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</link>
-      <description><![CDATA[Azure Blob Storage、AWS 和Twilio 金鑰都可供搶奪 對Google Play 和Apple App Store 上提供的廣泛使用的行動應用程式進行分析發現，存在硬編碼和未加密的雲端服務憑證，導致數以百萬計的資料外洩用戶面臨重大安全問題...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</guid>
-      <pubDate>Wed, 23 Oct 2024 00:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
