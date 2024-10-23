@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 02:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 03:02:15 GMT</lastBuildDate>
+    <item>
+      <title>據報道，Arm 警告高通將取消其許可證</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/arm_warns_qualcomm_on_licenses/</link>
+      <description><![CDATA[高通品牌採取「毫無根據」的現金搶奪 據報道，晶片設計商Arm 已警告晶片製造商高通，它將很快取消使用其IP 生產處理器的許可。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/arm_warns_qualcomm_on_licenses/</guid>
+      <pubDate>Wed, 23 Oct 2024 02:22:14 GMT</pubDate>
+    </item>
     <item>
       <title>富士通推出 GPU 最佳化技術，號稱是伺服器保護者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fujitsu_gpu_middleware/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>數百萬 Android 和 iOS 用戶面臨流行應用程式中硬編碼信用的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</link>
-      <description><![CDATA[Azure Blob Storage、AWS 和Twilio 金鑰都可供搶奪 對Google Play 和Apple App Store 上提供的廣泛使用的行動應用程式進行分析發現，存在硬編碼和未加密的雲端服務憑證，導致數以百萬計的資料外洩用戶面臨重大安全問題...]]></description>
+      <description><![CDATA[Azure Blob Storage、AWS 和Twilio 金鑰都可供取得 對Google Play 和Apple App Store 上提供的廣泛使用的行動應用程式進行分析發現，存在硬編碼和未加密的雲端服務憑證，導致數以百萬計的資料外洩使用者面臨重大安全問題...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</guid>
       <pubDate>Wed, 23 Oct 2024 00:31:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Akira 勒索軟體在純粹的勒索行為之後再次對受害者進行加密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</link>
-      <description><![CDATA[騙子重蹈舊路，以提高效率 專家認為，Akira 勒索軟體操作再次故技重施，突破典型的雙重勒索策略後，對受害者的文件進行加密。 ]]></description>
+      <description><![CDATA[騙子們重蹈舊路，以提高效率 專家認為Akira 勒索軟體操作再次故技重施，在突破典型的雙重勒索策略後對受害者的文件進行加密。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</guid>
       <pubDate>Tue, 22 Oct 2024 15:31:14 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>PostgreSQL 12 的時鐘在滴答作響，但並不是每個人都準備好說再見</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</link>
-      <description><![CDATA[11% 的資料庫仍處於老化版本，只剩下一個月的支援 PostgreSQL 12 的使用者只有不到一個月的時間來準備資料庫進入生命週期結束並不再受支援。 ... ]]></description>
+      <description><![CDATA[11% 的資料庫仍處於老化版本，只剩下一個月的支援 PostgreSQL 12 的用戶只有不到一個月的時間來準備資料庫進入生命週期結束並不再受支援。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</guid>
       <pubDate>Tue, 22 Oct 2024 10:39:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[營運商消耗的雲量還不到他們承諾使用的一半 根據上週稍後發布的一份報告，電信公司僅消耗了他們承諾使用的48% 的雲，但仍在尋求更多的雲端服務由印孚瑟斯公司提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/telcos_consume_less_than_half/</guid>
       <pubDate>Tue, 22 Oct 2024 08:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>主要出版商起訴 Perplexity AI 未經付費進行抓取</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</link>
-      <description><![CDATA[我們把它賣給 OpenAI——你怎麼敢偷它並捏造東西 美國主要新聞出版商道瓊斯和道瓊斯公司。 Co 和 NYP Holdings 起訴人工智慧搜尋引擎新創公司 Perplexity 未經付費就抓取其內容。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/</guid>
-      <pubDate>Tue, 22 Oct 2024 07:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
