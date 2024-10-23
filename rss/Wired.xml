@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 23 Oct 2024 09:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 10:13:58 GMT</lastBuildDate>
+    <item>
+      <title>Meta Quest 3S 評測：VR 新手的最佳耳機</title>
+      <link>https://www.wired.com/review/meta-quest-3s/</link>
+      <description><![CDATA[Meta 最實惠的 VR 耳機價格便宜、輕巧且易於使用。只是不要指望戴它太久，因為電池壽命不太長。]]></description>
+      <guid>https://www.wired.com/review/meta-quest-3s/</guid>
+      <pubDate>Wed, 23 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 和 T-Mobile 聲稱鎖定手機實際上很好</title>
       <link>https://www.wired.com/story/att-tmobile-claim-locked-phones-are-good-actually/</link>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 22 Oct 2024 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apple iPad Mini（A17 Pro，2024 年）評測：便攜式且功能強大</title>
+      <title>Apple iPad Mini（A17 Pro，2024 年）評測：便攜且功能強大</title>
       <link>https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/</link>
       <description><![CDATA[這款微型平板電腦的處理器是其最大的升級。]]></description>
       <guid>https://www.wired.com/review/apple-ipad-mini-a17-pro-2024/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[使用精心挑選的 VistaPrint 促銷代碼購買客製化名片、海報、文具、T 恤等商品，可在全場範圍內享有 10 美元折扣。]]></description>
       <guid>https://www.wired.com/story/vistaprint-coupon-code/</guid>
       <pubDate>Tue, 22 Oct 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>針對困惑的訴訟指出假新聞人工智慧幻覺</title>
-      <link>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</link>
-      <description><![CDATA[在針對人工智慧新創公司 Perplexity 的新版權訴訟中，道瓊斯和《紐約郵報》辯稱，產生幻覺假新聞並將其歸因於真實報紙是非法的。]]></description>
-      <guid>https://www.wired.com/story/dow-jones-new-york-post-sue-perplexity/</guid>
-      <pubDate>Mon, 21 Oct 2024 22:13:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
