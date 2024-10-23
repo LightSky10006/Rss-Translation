@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 06:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 07:37:26 GMT</lastBuildDate>
+    <item>
+      <title>APNIC 首席科學家認為，IPv6 可能已經無關緊要，但放棄 IPv4 也是如此</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ipv6_relevance/</link>
+      <description><![CDATA[總有比遷移更緊迫的工作要做，CDN 改變了規則 亞太網路資訊中心首席科學家對為什麼世界還沒有轉向 IPv6 有一個理論...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ipv6_relevance/</guid>
+      <pubDate>Wed, 23 Oct 2024 07:26:12 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧公司和民間團體呼籲盡快通過聯邦人工智慧法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ai_firms_and_civil_society/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Biz 旨在以安全的名義消除 npm 包中不必要的依賴 專注於安全的開發商 Socket 週二宣布，已獲得另外 4000 萬美元的資金，以進一步努力保障軟體供應鏈...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/</guid>
       <pubDate>Tue, 22 Oct 2024 12:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>當 Arm 競爭對手開發客製化晶片時，聯發科技堅持採用經過驗證的 Cortex 配方</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/arm_custom_silicon_interview/</link>
-      <description><![CDATA[Exec Chris Bergey 告訴我們晶片設計師正在採取哪些措施來保持競爭力 採訪 自從現代智慧型手機出現以來，Arm Holdings 長期以來一直是行動晶片的主要架構–它的皮質在你能想到的幾乎所有手機或平板電腦中都在悄悄地嗡嗡作響。然而，隨著蘋果和高通生產自己的客製化晶片設計，Arm 的市場主導地位似乎不太穩固。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/arm_custom_silicon_interview/</guid>
-      <pubDate>Tue, 22 Oct 2024 11:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
