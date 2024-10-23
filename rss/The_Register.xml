@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 06:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 06:44:03 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧公司和民間團體呼籲盡快通過聯邦人工智慧法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ai_firms_and_civil_society/</link>
+      <description><![CDATA[國會敦促在年底前採取行動，支持美國競爭力 超過 60 個商業組織、非營利組織和學術機構已要求國會通過立法，授權在年內創建美國人工智慧安全研究所美國國家標準與技術研究院(NIST)...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ai_firms_and_civil_society/</guid>
+      <pubDate>Wed, 23 Oct 2024 06:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>華為正式脫離安卓系統，推出HarmonyOS NEXT</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Exec Chris Bergey 告訴我們晶片設計師正在採取哪些措施來保持競爭力 採訪 自從現代智慧型手機出現以來，Arm Holdings 長期以來一直是行動晶片的主要架構–它的皮質在你能想到的幾乎所有手機或平板電腦中都在悄悄地嗡嗡作響。然而，隨著蘋果和高通生產自己的客製化晶片設計，Arm 的市場主導地位似乎不太穩固。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/arm_custom_silicon_interview/</guid>
       <pubDate>Tue, 22 Oct 2024 11:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 12 的時鐘在滴答作響，但並不是每個人都準備好說再見</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</link>
-      <description><![CDATA[11% 的資料庫仍處於老化版本，只剩下一個月的支援 PostgreSQL 12 的用戶只有不到一個月的時間來準備資料庫進入生命週期結束並不再受支援。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/</guid>
-      <pubDate>Tue, 22 Oct 2024 10:39:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
