@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 16:15:32 GMT</lastBuildDate>
+    <item>
+      <title>微軟警告外國假訊息正從各個方向影響美國大選</title>
+      <link>https://www.wired.com/story/microsoft-russia-china-iran-election-disinformation/</link>
+      <description><![CDATA[在競選季節的最後幾天，俄羅斯、伊朗和中國正在針對美國大選採取一系列不斷演變的影響力行動。]]></description>
+      <guid>https://www.wired.com/story/microsoft-russia-china-iran-election-disinformation/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ozempic 的製造商正試圖阻止其重磅藥物的複合版本</title>
       <link>https://www.wired.com/story/novo-nordisk-ozempic-compounded-fda-block-pharmacies/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這個名字可能有點拗口，但這是我聽過的 100 美元以下最好的耳塞。]]></description>
       <guid>https://www.wired.com/review/soundpeats-capsule3-proplus/</guid>
       <pubDate>Tue, 22 Oct 2024 15:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 希望其 AI 代理能夠控制您的計算機</title>
-      <link>https://www.wired.com/story/anthropic-ai-agent/</link>
-      <description><![CDATA[克勞德是第一個能夠控制電腦做有用工作的主要人工智慧模型。]]></description>
-      <guid>https://www.wired.com/story/anthropic-ai-agent/</guid>
-      <pubDate>Tue, 22 Oct 2024 15:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

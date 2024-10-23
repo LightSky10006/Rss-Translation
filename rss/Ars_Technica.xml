@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 23 Oct 2024 14:38:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 16:15:06 GMT</lastBuildDate>
+    <item>
+      <title>麥當勞致命的四分之一磅大腸桿菌爆發可能比我們所知道的還要嚴重</title>
+      <link>https://arstechnica.com/health/2024/10/mcdonalds-e-coli-outbreak-one-dead-49-sickened-across-10-states-so-far/</link>
+      <description><![CDATA[疫情爆發的規模和跨度可能比目前已知的還要大。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/mcdonalds-e-coli-outbreak-one-dead-49-sickened-across-10-states-so-far/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>彼得托德在被「揭露」比特幣創造者身分後躲藏起來</title>
       <link>https://arstechnica.com/tech-policy/2024/10/peter-todd-in-hiding-after-being-unmasked-as-bitcoin-creator/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>「我還活著」：用戶稱T-Mobile必須為殺死「終身」價格鎖定付出代價</title>
       <link>https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/</link>
-      <description><![CDATA[我們收到了 FCC 收到的 900 份關於 T-Mobile 臭名昭著的漲價行為的投訴。]]></description>
+      <description><![CDATA[我們收到了 FCC 收到的 900 份有關 T-Mobile 臭名昭著的漲價行為的投訴。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/</guid>
       <pubDate>Wed, 23 Oct 2024 11:00:17 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 22 Oct 2024 23:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>黑幕藥廠使用暗語銷售仿冒減肥藥：訴訟</title>
+      <title>黑幕藥廠使用暗號銷售仿冒減肥藥：訴訟</title>
       <link>https://arstechnica.com/health/2024/10/shady-drugmaker-sold-diy-weight-loss-drug-marked-for-animal-use-suit-alleges/</link>
       <description><![CDATA[據稱，在發出停止令後，Pivotal Peptides 據稱以「11 毫克」的價格出售自己混合的替西帕肽。]]></description>
       <guid>https://arstechnica.com/health/2024/10/shady-drugmaker-sold-diy-weight-loss-drug-marked-for-animal-use-suit-alleges/</guid>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 22 Oct 2024 21:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>訴訟：城市攝影機讓你無法在不被追蹤的情況下開車到任何地方</title>
+      <title>訴訟：城市攝影機讓你無法在不被追蹤的情況下開車去任何地方</title>
       <link>https://arstechnica.com/tech-policy/2024/10/lawsuit-city-cameras-make-it-impossible-to-drive-anywhere-without-being-tracked/</link>
       <description><![CDATA[針對維吉尼亞州諾福克市的第四修正案訴訟稱，「每輛過往車輛都會被捕獲」。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/lawsuit-city-cameras-make-it-impossible-to-drive-anywhere-without-being-tracked/</guid>
       <pubDate>Tue, 22 Oct 2024 20:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>FortiGate 管理員報告了活躍的 0day 漏洞。賣家不說話。</title>
-      <link>https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/</link>
-      <description><![CDATA[至少從 9 天前就開始討論允許遠端執行程式碼的漏洞。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/</guid>
-      <pubDate>Tue, 22 Oct 2024 19:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
