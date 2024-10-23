@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 22 Oct 2024 23:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 00:58:08 GMT</lastBuildDate>
+    <item>
+      <title>數百萬 Android 和 iOS 用戶面臨流行應用程式中硬編碼信用的風險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</link>
+      <description><![CDATA[Azure Blob Storage、AWS 和Twilio 金鑰都可供取得 對Google Play 和Apple App Store 上提供的廣泛使用的行動應用程式進行分析發現，存在硬編碼和未加密的雲端服務憑證，導致數以百萬計的資料外洩使用者面臨重大安全問題...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/</guid>
+      <pubDate>Wed, 23 Oct 2024 00:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔將 25% CHIPS 法案稅收抵免範圍擴大到晶圓、太陽能板製造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_chips_credits/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[類器官驅動的計算會成為人工智慧的未來嗎？ ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/human_brain_tissue_butterfly_simulation/</guid>
       <pubDate>Tue, 22 Oct 2024 06:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>像素完美的 Ghostpulse 惡意軟體載入程式隱藏在 PNG 映像檔中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/</link>
-      <description><![CDATA[不法分子將其與同樣棘手的社會工程結合 Ghostpulse 惡意軟體菌株現在透過 PNG 影像檔案的像素檢索其主要有效負載。安全專家表示，這項發展是自2023 年推出以來，背後的騙子所做的「最重大的改變之一」。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/</guid>
-      <pubDate>Tue, 22 Oct 2024 05:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
