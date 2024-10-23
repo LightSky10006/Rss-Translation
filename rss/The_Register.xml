@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 11:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 11:35:21 GMT</lastBuildDate>
+    <item>
+      <title>Codasip 開放用於 RISC-V 晶片上 CHERI 保護的 SDK</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/codasip_sdk_riscv_chip/</link>
+      <description><![CDATA[Alliance 致力於將該架構整合到所有高科技產品中 處理器設計公司Codasip 正在向推廣該技術的行業機構捐贈其為CHERI 安全架構開發的SDK，並表示這將允許任何在 RISC-V 上實施 CHERI 的人都可以不受限制地使用它。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/codasip_sdk_riscv_chip/</guid>
+      <pubDate>Wed, 23 Oct 2024 11:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>SuperHTML 可以幫助您避免語法錯誤，而且它是 FOSS</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Unisys、Avaya、Check Point 和Mimecast 與該機構達成和解，但未承認或否認不當行為 四家知名科技公司與美國證券交易委員會達成協議，支付數百萬美元的罰款誤導投資者關於 2020 年 SolarWinds 駭客攻擊的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/sec_fines_four_tech_firms/</guid>
       <pubDate>Tue, 22 Oct 2024 16:31:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akira 勒索軟體在純粹的勒索行為之後再次對受害者進行加密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</link>
-      <description><![CDATA[騙子們重蹈舊路，以提高效率 專家認為Akira 勒索軟體操作再次故技重施，在突破典型的雙重勒索策略後對受害者的文件進行加密。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</guid>
-      <pubDate>Tue, 22 Oct 2024 15:31:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
