@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 07:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 08:42:31 GMT</lastBuildDate>
+    <item>
+      <title>Fivetran 執行長表示，OpenAI 的快速成長充滿了「極端情況」挑戰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fivetran_ceo_interview/</link>
+      <description><![CDATA[GenAI 典型代表是一個100 層樓高的嬰兒，基礎設施簡單，但要求極高 訪談 去年3 月OpenAI 推出GPT-4 時，它對此含糊其辭模型的尺寸以及製作過程。儘管如此，據了解，痴迷於人工智慧的媒體和投資者目前關注的焦點是使用了約 1 PB 的多樣化數據集。除了獲取數據以提供有意義的輸出的挑戰之外，該公司的任務是將數據放在正確的位置。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fivetran_ceo_interview/</guid>
+      <pubDate>Wed, 23 Oct 2024 08:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>APNIC 首席科學家認為，IPv6 可能已經無關緊要，但放棄 IPv4 也是如此</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ipv6_relevance/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[總理表示後福島政策可能轉變 全球人工智慧的激增給能源資源帶來了前所未有的壓力，台積電等晶片製造商消耗大量電力來滿足對先進矽不斷增長的需求。作為回應，台灣政府表示，其長期以來反對核能的立場可能會發生轉變，以解決其日益增長的電力需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/taiwans_ai_chip_boom_sparks/</guid>
       <pubDate>Tue, 22 Oct 2024 13:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Socket 投入 4000 萬美元加強軟體供應鏈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/</link>
-      <description><![CDATA[Biz 旨在以安全的名義消除 npm 包中不必要的依賴 專注於安全的開發商 Socket 週二宣布，已獲得另外 4000 萬美元的資金，以進一步努力保障軟體供應鏈...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/</guid>
-      <pubDate>Tue, 22 Oct 2024 12:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
