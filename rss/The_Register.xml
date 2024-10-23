@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 09:37:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 10:40:27 GMT</lastBuildDate>
+    <item>
+      <title>SuperHTML 可以幫助您避免語法錯誤，而且它是 FOSS</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/</link>
+      <description><![CDATA[作者希望看到切換回純舊的靜態 HTML。我們也是 開發人員 Loris Cro 認為他的 HTML LSP 語言伺服器是世界​​首創，並且迄今為止缺乏此類工具已經對網路產生了嚴重後果。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/</guid>
+      <pubDate>Wed, 23 Oct 2024 10:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>父母試圖保護孩子免受傷害，功能手機風靡一時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/feature_phones_all_the_rage/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[騙子們重蹈舊路，以提高效率 專家認為Akira 勒索軟體操作再次故技重施，在突破典型的雙重勒索策略後對受害者的文件進行加密。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/</guid>
       <pubDate>Tue, 22 Oct 2024 15:31:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾、AMD 是時候放棄 x86 遊戲，轉向真正的威脅了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</link>
-      <description><![CDATA[最近的麻煩最終讓Chipzilla 屈服了嗎？的情況下保持重要地位。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/</guid>
-      <pubDate>Tue, 22 Oct 2024 14:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
