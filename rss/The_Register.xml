@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 13:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 14:38:42 GMT</lastBuildDate>
+    <item>
+      <title>Rackspace 重返 OpenInfra 基金會董事會</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/rackspace_openinfra_board/</link>
+      <description><![CDATA[缺席讓雲端變得更美好 Rackspace 是 OpenStack 的原始創建者之一，已被歡迎重新加入 OpenInfra 基金會的董事會，該基金會負責監督該專案顯然已經失去了幾年的興趣… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/rackspace_openinfra_board/</guid>
+      <pubDate>Wed, 23 Oct 2024 14:34:17 GMT</pubDate>
+    </item>
     <item>
       <title>研究人員探索細胞訊號作為潛在的 GPS 替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/terrestrial_cell_signals_gps/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟阻止更新以避免讓管理員再次頭痛 在本月的Windows 11 24H2 更新的更多問題中，微軟警告說，新代碼將導致某些華碩系統出現藍屏死機，原因是硬體相容性問​​題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/</guid>
       <pubDate>Tue, 22 Oct 2024 18:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電揭發華為可能違反制裁的惡作劇</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/22/tsmc_huawei_sanctions_report/</link>
-      <description><![CDATA[晶片巨頭告訴山姆大叔，有人可能在偷偷下訂單 據報道，台積電已向美國官員通報華為可能試圖規避出口管制並獲取這家台灣公司製造的人工智能芯片。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/22/tsmc_huawei_sanctions_report/</guid>
-      <pubDate>Tue, 22 Oct 2024 17:45:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
