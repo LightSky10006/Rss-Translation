@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 21:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 22:12:47 GMT</lastBuildDate>
+    <item>
+      <title>前英特爾董事會成員為分拆 Foundry 提出了一個考慮不周的理由</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</link>
+      <description><![CDATA[拯救美國最重要的製造商？更像是拯救我們的投資組合，讓山姆大叔收拾殘局 評論 一群前英特爾董事會董事呼籲這家晶片製造商剝離陷入困境的代工業務，同時掩飾自己的處境事實上，一家每季虧損數十億美元的公司不太可能靠自己生存。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</guid>
+      <pubDate>Wed, 23 Oct 2024 22:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Linus Torvalds 確認驅逐俄羅斯維護者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[高通品牌採取「毫無根據」的現金搶奪 據報道，晶片設計商Arm 已警告晶片製造商高通，它將很快取消使用其IP 生產處理器的許可。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/arm_warns_qualcomm_on_licenses/</guid>
       <pubDate>Wed, 23 Oct 2024 02:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士通推出 GPU 最佳化技術，號稱是伺服器保護者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fujitsu_gpu_middleware/</link>
-      <description><![CDATA[旨在緩解人工智慧加速器短缺問題的中間件 富士通已開始銷售優化 GPU 使用的中間件，以便那些有幸擁有稀缺加速器的人可以確保他們始終處於良好狀態 -使用過。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fujitsu_gpu_middleware/</guid>
-      <pubDate>Wed, 23 Oct 2024 02:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
