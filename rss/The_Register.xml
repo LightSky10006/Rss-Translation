@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 23 Oct 2024 23:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:57:50 GMT</lastBuildDate>
+    <item>
+      <title>Google警告三星手機用戶受到攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/samsung_phone_eop_attacks/</link>
+      <description><![CDATA[標籤稱，不要忽視這個令人討厭的零日漏洞 不法分子正在利用三星移動晶片中的一個令人討厭的錯誤作為漏洞利用鏈的一部分來升級權限，然後遠程執行任意程式碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/samsung_phone_eop_attacks/</guid>
+      <pubDate>Thu, 24 Oct 2024 00:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>賓州州立大學向司法部支付 125 萬美元以解決網路安全合規案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[國會敦促在年底前採取行動，支持美國競爭力 超過 60 個商業組織、非營利組織和學術機構已要求國會通過立法，授權在年內創建美國人工智慧安全研究所美國國家標準與技術研究院(NIST)...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/ai_firms_and_civil_society/</guid>
       <pubDate>Wed, 23 Oct 2024 06:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為正式脫離安卓系統，推出HarmonyOS NEXT</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/</link>
-      <description><![CDATA[中國科技獨立又邁出一步——蒂姆·庫克進城那天 週三，華為正式推出自研操作系統 HarmonyOS NEXT，標誌著其正式脫離 Android 生態系統... . ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/</guid>
-      <pubDate>Wed, 23 Oct 2024 05:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
