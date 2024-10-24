@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 16:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 17:37:04 GMT</lastBuildDate>
+    <item>
+      <title>180 美元買一個價格過高、可疑的 SSD 驅動器？也許不加入 USB 俱樂部</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/usb_club_transport_drive/</link>
+      <description><![CDATA[沒有規格和細節，但訪問獨家社區的承諾仍然吸引著買家 想像一下，您的 USB 閃存驅動器附帶了軟體，可以讓未知的雲平台掃描其內容並上傳文件，告知您的朋友您發布的任何內容，然後他們自己下載您的內容。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/usb_club_transport_drive/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>華為發布詳細數據無伺服器秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huawei_serverless_cold_start_research/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[第三季業績重振特斯拉股價 美國最有價值的汽車製造商公佈第三季業績後，特斯拉股價上漲，其中包括陷入困境的Cyber​​truck 「第一季實現正毛利率」的訊息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/musk_claims_cybertruck_profitable/</guid>
       <pubDate>Thu, 24 Oct 2024 03:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perfctl 惡意軟體再次攻擊，加密騙子瞄準 Docker Remote API 伺服器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/</link>
-      <description><![CDATA[對未受保護伺服器的攻擊達到「臨界等級」 根據趨勢科技研究人員的說法，未知攻擊者正在濫用暴露的Docker Remote API 伺服器，在受害者的系統上部署perfctl加密挖礦惡意軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
