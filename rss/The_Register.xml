@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 08:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:37:09 GMT</lastBuildDate>
+    <item>
+      <title>這是 NIS2 合規性清單，因為沒有人再關心截止日期</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/nis2_compliance_checklist/</link>
+      <description><![CDATA[只有兩個歐盟成員國完成了國內法的轉換 歐盟的NIS2 指令於2023 年1 月16 日生效，成員國必須在2024 年10 月17 日之前將其轉換為國家法律法律。然而，許多組織在獲得批准兩年後仍然沒有達到所需的標準。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/nis2_compliance_checklist/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>Vivaldi 對其瀏覽器進行了改進，並添加了儀表板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[財報公佈當天，罷工工會工人就新合約進行投票 如果說波音公司第二季度業績慘淡，那麼第三季度的數據也很糟糕，這給了最近就任的首席執行官凱利·奧特伯格(Kelly Ortberg)乘飛機救援的絕佳機會與振興計劃......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/boeing_q3/</guid>
       <pubDate>Wed, 23 Oct 2024 16:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>由資料中心 GPU 處理的 4,100 萬位素數</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/41_million_digit_prime/</link>
-      <description><![CDATA[前Nvidia 工程師的發現表明圖形計算可以帶來一些嚴重的問題 前Nvidia 工程師使用他以前工作場所製造的A100 GPU 找到了已知最大的素數- 長達4100 萬位數字做繁重的工作......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/41_million_digit_prime/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
