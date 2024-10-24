@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 04:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 05:38:49 GMT</lastBuildDate>
+    <item>
+      <title>IBM 大型主機泡沫破裂且成長停滯</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/ibm_q3_2024/</link>
+      <description><![CDATA[紅帽仍然光芒四射，但藍色巨人卻被投資者傷痕累累 在最近幾個季度業績公告中，IBM 宣稱其大型機業務出乎意料地強勁增長，這幫助這家科技巨頭－關於交付承諾以固定匯率計算的中個位數收入成長。但在周三公佈的第三季業績中，藍色巨人透露，大型主機收入下降了 19%，而以固定匯率計算，整體成長率僅為 1% 或 2%。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/ibm_q3_2024/</guid>
+      <pubDate>Thu, 24 Oct 2024 05:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國頂級通訊應用程式微信被禁止在香港政府電腦上使用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hong_kong_wechat_ban/</link>
+      <description><![CDATA[Google 和WhatsApp 也被分類，這比分類本地英雄要容易解釋得多 香港政府更新了資訊安全指南，限制使用中文即時通訊應用程式微信，以及Meta 和Google 產品，例如WhatsApp 和 Google Drive，在其運行的電腦上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hong_kong_wechat_ban/</guid>
+      <pubDate>Thu, 24 Oct 2024 05:11:37 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 最新的克勞德模型可以與電腦互動——可能會出現什麼問題？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[隨著另一屆政府再次尋求改革英國 GDPR，立法者表示數據必須繼續流動 英國立法者警告政府，如果不繼續與英國脫歐後的數據規則相協調，歐盟，後果可能是可怕的......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/uk_eu_data_adequacy/</guid>
       <pubDate>Wed, 23 Oct 2024 12:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codasip 開放用於 RISC-V 晶片上 CHERI 保護的 SDK</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/codasip_sdk_riscv_chip/</link>
-      <description><![CDATA[Alliance 致力於將該架構整合到所有高科技產品中 處理器設計公司Codasip 正在向推廣該技術的行業機構捐贈其為CHERI 安全架構開發的SDK，並表示這將允許任何在 RISC-V 上實施 CHERI 的人都可以不受限制地使用它。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/codasip_sdk_riscv_chip/</guid>
-      <pubDate>Wed, 23 Oct 2024 11:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SuperHTML 可以幫助您避免語法錯誤，而且它是 FOSS</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/</link>
-      <description><![CDATA[作者希望看到切換回純舊的靜態 HTML。我們也是 開發人員 Loris Cro 認為他的 HTML LSP 語言伺服器是世界​​首創，並且迄今為止缺乏此類工具已經對網路產生了嚴重後果。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
