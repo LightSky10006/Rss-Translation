@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 12:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 13:25:55 GMT</lastBuildDate>
+    <item>
+      <title>又一英國政府尋求改革 GDPR</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/uk_proposes_new_data_law/</link>
+      <description><![CDATA[是的，該法律需要與歐洲協調一致，以使科技企業的資料自由流動 英國政府已開始推出其資料保護法的最新更新，聲稱這將促進經濟成長和公共部門效率。政府表示，預計英國將與歐盟的 GDPR 保持一致。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/uk_proposes_new_data_law/</guid>
+      <pubDate>Thu, 24 Oct 2024 13:10:15 GMT</pubDate>
+    </item>
     <item>
       <title>向高通伸出援手：法庭見？哦，是的，請</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/arm_qualcomm_response/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們知道你從哪裡得到你的緊身牛仔褲 - 大不了 一個自稱撒旦的數據竊賊聲稱竊取了時尚零售商 Hot Topic 約 3.5 億顧客的記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/satanic_data_thief/</guid>
       <pubDate>Wed, 23 Oct 2024 20:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft SharePoint RCE 漏洞已被廣泛利用 - 您有 3 個月的時間來修補</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/</link>
-      <description><![CDATA[另外，一個POC 可以讓攻擊者變得更加容易 根據美國網路安全和基礎設施安全部門的說法，Microsoft SharePoint 的一個錯誤正在被積極利用，該錯誤可以允許攻擊者將程式碼遠端注入到易受攻擊的版本中機構 (CISA).... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
