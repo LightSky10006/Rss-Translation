@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 19:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 19:35:04 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 擠壓了 Nvidia 的軟體野心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huggingface_hugs_nvidia/</link>
+      <description><![CDATA[AI 模型儲存庫承諾降低成本，為NIM 競爭對手提供更廣泛的兼容性 Hugging Face 本周宣布了HUGS，這是對Nvidia 推理微服務(NIM) 的回應，AI儲存庫聲稱將允許客戶部署和運行該服務法學碩士和模型適用於更廣泛的硬體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huggingface_hugs_nvidia/</guid>
+      <pubDate>Thu, 24 Oct 2024 19:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>緊急修補程式：思科修復了暴力攻擊中的漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/cisco_bug_brute_force/</link>
@@ -27,16 +34,16 @@
       <pubDate>Thu, 24 Oct 2024 16:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>美國地鐵仍使用軟碟運行？日本介入“殺軟盤計劃”</title>
+      <title>美國地鐵仍然使用軟碟運行？日本介入“殺軟盤計劃”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/</link>
-      <description><![CDATA[舊金山交通委員會簽署的日立鐵路合約將扼殺復古 舊金山的 Muni 地鐵可能終於準備好告別過時且過時的基於軟碟的列車控制系統。]]></description>
+      <description><![CDATA[舊金山交通委員會簽署的日立鐵路合約將扼殺復古 舊金山的 Muni Metro 可能終於準備好告別過時且過時的基於軟碟的列車控制系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/</guid>
       <pubDate>Thu, 24 Oct 2024 16:00:10 GMT</pubDate>
     </item>
     <item>
       <title>仔細觀察 Intel 和 AMD 將 CPU 黏合在一起的不同方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_amd_packaging/</link>
-      <description><![CDATA[Epycs 或Xeon，更多核心= 更多晶片，從這裡開始只會變得更加複雜 分析 在AMD 代號為Naples 的第一代Epyc 處理器於2019 年推出後不久2017 年，英特爾打趣說，其競爭對手已經淪落到將一堆桌面晶片粘合在一起以保持相關性。]]></description>
+      <description><![CDATA[Epycs 或Xeon，更多核心= 更多晶片，從這裡開始只會變得更加複雜 分析 在AMD 代號為Naples 的第一代Epyc 處理器於2019 年推出後不久2017 年，英特爾打趣說，其競爭對手已經淪落到將一堆桌上型晶片黏合在一起才能保持相關性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_amd_packaging/</guid>
       <pubDate>Thu, 24 Oct 2024 15:30:11 GMT</pubDate>
     </item>
@@ -106,14 +113,14 @@
     <item>
       <title>Vivaldi 對其瀏覽器進行了改進，並添加了儀表板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</link>
-      <description><![CDATA[每個人的生活中都需要更多小部件，對嗎？ . &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[每個人的生活中都需要更多小部件，對吧？  &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</guid>
       <pubDate>Thu, 24 Oct 2024 08:30:14 GMT</pubDate>
     </item>
     <item>
       <title>本地 SaaS？如果你好意地要求並且確實需要的話，ServiceNow 會做的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</link>
-      <description><![CDATA[事實證明，它的應用程式可以與除自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
+      <description><![CDATA[事實證明，它的應用程式可以與自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</guid>
       <pubDate>Thu, 24 Oct 2024 07:30:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Google 和WhatsApp 也被扔掉了，這比扔掉本地英雄要容易解釋得多 香港政府更新了資訊安全指南，限制使用中文通訊應用程式微信，以及Meta 和Google產品，例如WhatsApp 和 Google Drive，在其運行的電腦上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hong_kong_wechat_ban/</guid>
       <pubDate>Thu, 24 Oct 2024 05:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 最新的克勞德模型可以與電腦互動——可能會出現什麼問題？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</link>
-      <description><![CDATA[對於初學者來說，它可以對自身發起即時注入攻擊... AI 新創公司Anthropic 的Claude 3.5 Sonnet 模型的最新版本可以使用電腦- 開發人員聽起來這聽起來不錯東西...... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</guid>
-      <pubDate>Thu, 24 Oct 2024 04:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
