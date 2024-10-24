@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 22:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 23:13:07 GMT</lastBuildDate>
     <item>
       <title>AWS 雲端開發套件缺陷導致帳戶被完全接管</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/</link>
-      <description><![CDATA[還記得桶子大富翁嗎？是的，還有更多 Amazon Web Services 修復了其開源雲端開發工具包(CDK) 中的一個缺陷，在適當的條件下，該缺陷可能允許攻擊者完全劫持帳戶。 ..]]></description>
+      <description><![CDATA[還記得桶子大富翁嗎？是的，情況變得更糟 Amazon Web Services 修復了其開源雲端開發套件中的一個缺陷，在適當的條件下，該缺陷可能允許攻擊者完全劫持用戶的帳戶。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/</guid>
       <pubDate>Thu, 24 Oct 2024 22:33:11 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 24 Oct 2024 16:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>美國地鐵仍然使用軟碟運行？日本介入“殺軟盤計劃”</title>
+      <title>美國地鐵仍使用軟碟運行？日本介入“殺軟盤計劃”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/</link>
       <description><![CDATA[舊金山交通委員會簽署的日立鐵路合約將扼殺復古 舊金山的 Muni 地鐵可能終於準備好告別過時且過時的基於軟碟的列車控制系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>Nvidia 執行長抱怨歐洲人沒有購買足夠的 GPU</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/nvidia_gpus_europe/</link>
-      <description><![CDATA[人工智慧軍火商表示，歐盟沒有跟上美國和中國的投資 英偉達執行長表示，歐洲國家如果想縮小美國和中國之間的差距，就需要在人工智慧方面進行更多投資黃仁勳 (Jensen Huang) 在周三訪問哥本哈根，為丹麥閃亮的新型 Gefion 超級電腦揭幕時表示。]]></description>
+      <description><![CDATA[人工智慧軍火商表示，歐盟沒有跟上美國和中國的投資 英偉達執行長表示，歐洲國家如果想縮小美國和中國之間的差距，就需要在人工智慧方面進行更多投資黃仁勳 (Jensen Huang) 週三訪問哥本哈根，為丹麥閃亮的新型 Gefion 超級電腦揭幕時表示。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/nvidia_gpus_europe/</guid>
       <pubDate>Thu, 24 Oct 2024 14:30:14 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>Vivaldi 對其瀏覽器進行了改進，並添加了儀表板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</link>
-      <description><![CDATA[每個人的生活中都需要更多小部件，對吧？  &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[每個人的生活中都需要更多小部件，對嗎？ . &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</guid>
       <pubDate>Thu, 24 Oct 2024 08:30:14 GMT</pubDate>
     </item>
