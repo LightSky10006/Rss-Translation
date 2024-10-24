@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 03:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 03:41:56 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克稱Cyber​​truck終於獲利了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/musk_claims_cybertruck_profitable/</link>
+      <description><![CDATA[第三季業績重振特斯拉股價 美國最有價值的汽車製造商公佈第三季業績後，特斯拉股價上漲，其中包括陷入困境的Cyber​​truck 「第一季實現正毛利率」的訊息。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/musk_claims_cybertruck_profitable/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>Perfctl 惡意軟體再次攻擊，加密騙子瞄準 Docker Remote API 伺服器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/</link>
-      <description><![CDATA[對未受保護伺服器的攻擊達到「臨界等級」 根據趨勢科技研究人員的說法，未知攻擊者正在濫用暴露的Docker Remote API 伺服器，在受害者的系統上部署perfctl加密挖礦惡意軟體。]]></description>
+      <description><![CDATA[對未受保護的伺服器的攻擊達到「關鍵等級」 據趨勢科技研究人員稱，未知攻擊者正在濫用暴露的Docker Remote API 伺服器，在受害者的系統上部署perfctl加密挖礦惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/</guid>
       <pubDate>Thu, 24 Oct 2024 02:30:07 GMT</pubDate>
     </item>
     <item>
       <title>根據美國新航空規則，飛行計程車獲準起飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</link>
-      <description><![CDATA[「動力升空」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
+      <description><![CDATA[「動力升力」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</guid>
       <pubDate>Thu, 24 Oct 2024 01:01:10 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>賓州州立大學向司法部支付 125 萬美元以解決網路安全合規案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/</link>
-      <description><![CDATA[繼續戰鬥，國家？這次不是 賓州州立大學已同意向司法部支付 125 萬美元，以解決其向聯邦政府歪曲其網路安全合規性並導致敏感資料受到不當保護的指控。 … ]]></description>
+      <description><![CDATA[繼續戰鬥，國家？這次不是 賓州州立大學已同意向司法部支付 125 萬美元，以和解其向聯邦政府歪曲其網路安全合規性並導致敏感資料受到不當保護的指控。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/</guid>
       <pubDate>Wed, 23 Oct 2024 23:29:10 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 23 Oct 2024 22:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>前英特爾董事會成員為分拆 Foundry 提出了一個考慮不周的理由</title>
+      <title>前英特爾董事會成員提出分拆 Foundry 的考量不周</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</link>
       <description><![CDATA[拯救美國最重要的製造商？更像是拯救我們的投資組合，讓山姆大叔收拾殘局 評論 一群前英特爾董事會董事呼籲這家晶片製造商剝離陷入困境的代工業務，同時掩飾自己的處境事實上，一家每季虧損數十億美元的公司不太可能靠自己生存。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</guid>
@@ -50,28 +57,28 @@
     <item>
       <title>Linus Torvalds 確認驅逐俄羅斯維護者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/</link>
-      <description><![CDATA[因制裁而刪除與俄羅斯有關的內核維護者 Linux 創建者Linus Torvalds 週三確認，上週刪除了大約十幾個與俄羅斯有關的內核維護者。 p&gt;]]></description>
+      <description><![CDATA[因制裁而刪除與俄羅斯有關的內核維護者 Linux 創建者Linus Torvalds 週三證實，上週刪除了大約十幾個與俄羅斯有關的內核維護者。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/</guid>
       <pubDate>Wed, 23 Oct 2024 21:15:09 GMT</pubDate>
     </item>
     <item>
       <title>「撒旦」數據竊賊聲稱已竊取 3.5 億熱門話題購物者資訊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/satanic_data_thief/</link>
-      <description><![CDATA[我們知道你從哪裡得到你的緊身牛仔褲 - 大不了 一個自稱撒旦的數據竊賊聲稱竊取了時尚零售商 Hot Topic 約 3.5 億客戶的記錄。]]></description>
+      <description><![CDATA[我們知道你從哪裡得到你的緊身牛仔褲 - 大不了 一個自稱撒旦的數據竊賊聲稱竊取了時尚零售商 Hot Topic 約 3.5 億顧客的記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/satanic_data_thief/</guid>
       <pubDate>Wed, 23 Oct 2024 20:30:15 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft SharePoint RCE 漏洞已被廣泛利用 - 您有 3 個月的時間來修補</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/</link>
-      <description><![CDATA[此外，一個POC 可以讓攻擊者變得更加容易 根據美國網路安全和基礎設施安全部門的說法，一個Microsoft SharePoint 漏洞正在被積極利用，該漏洞允許攻擊者將程式碼遠端注入到易受攻擊的版本中機構 (CISA).... ]]></description>
+      <description><![CDATA[另外，一個POC 可以讓攻擊者變得更加容易 根據美國網路安全和基礎設施安全部門的說法，Microsoft SharePoint 的一個錯誤正在被積極利用，該錯誤可以允許攻擊者將程式碼遠端注入到易受攻擊的版本中機構 (CISA).... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/</guid>
       <pubDate>Wed, 23 Oct 2024 19:30:13 GMT</pubDate>
     </item>
     <item>
       <title>恐怖電影的 VHS 再現恐怖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/alien_romulus_vhs_release/</link>
-      <description><![CDATA[磁帶爆破媒體在最新的《異形》爆破電影中復活 投票：VHS 回來了嗎？電影，The Register&lt; /i&gt; 可以理解為什麼20 世紀影業公司宣布將以VHS 形式發行這部電影——這種錄像帶格式已經二十年沒有被重視，甚至在其全盛時期也享有糟糕的聲譽。]]></description>
+      <description><![CDATA[磁帶爆破媒體在最新的《異形》爆破電影中復活 投票：VHS 回來了嗎？電影，The Register&lt; /i&gt; 可以理解為什麼20 世紀影業公司宣布將以VHS 形式發行這部電影——這種錄像帶格式已經二十年沒有被重視，甚至在其鼎盛時期也享有糟糕的聲譽。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/alien_romulus_vhs_release/</guid>
       <pubDate>Wed, 23 Oct 2024 18:30:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[爸爸，為什麼這個按鈕顯示的是 ABC？分析師表示，這是一個短期趨勢 根據電信公司 Virgin Media O2 (VMO2) 的數據，英國「啞巴」手機的銷量正在上升，家長們選擇它們而不是智慧型手機來嘗試備用他們的孩子遠離社群媒體和即時訊息的危險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/feature_phones_all_the_rage/</guid>
       <pubDate>Wed, 23 Oct 2024 09:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fivetran 執行長表示，OpenAI 的快速成長充滿了「極端情況」挑戰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fivetran_ceo_interview/</link>
-      <description><![CDATA[GenAI 典型代表是一個100 層樓高的嬰兒，基礎設施簡單，但要求極高 訪談 去年3 月OpenAI 推出GPT-4 時，它對此含糊其辭模型的尺寸以及製作過程。儘管如此，據了解，痴迷於人工智慧的媒體和投資者目前關注的焦點是使用了約 1 PB 的多樣化數據集。除了獲取數據以提供有意義的輸出的挑戰之外，該公司的任務是將數據放在正確的位置。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fivetran_ceo_interview/</guid>
-      <pubDate>Wed, 23 Oct 2024 08:25:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
