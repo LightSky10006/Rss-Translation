@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 15:37:53 GMT</lastBuildDate>
+    <item>
+      <title>仔細觀察 Intel 和 AMD 將 CPU 黏合在一起的不同方法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_amd_packaging/</link>
+      <description><![CDATA[Epycs 或Xeon，更多核心= 更多晶片，從這裡開始只會變得更加複雜 分析 在AMD 代號為Naples 的第一代Epyc 處理器於2019 年推出後不久2017 年，英特爾打趣說，其競爭對手已經淪落到將一堆桌面晶片粘合在一起以保持相關性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_amd_packaging/</guid>
+      <pubDate>Thu, 24 Oct 2024 15:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>波音罷工繼續，工會拒絕合同，破壞了首席執行官的復甦計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/boeing_strike_continues_as_union/</link>
@@ -71,14 +78,14 @@
     <item>
       <title>Vivaldi 對其瀏覽器進行了改進，並添加了儀表板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</link>
-      <description><![CDATA[每個人的生活中都需要更多小部件，對吧？  &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[每個人的生活中都需要更多小部件，對嗎？ . &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</guid>
       <pubDate>Thu, 24 Oct 2024 08:30:14 GMT</pubDate>
     </item>
     <item>
       <title>本地 SaaS？如果你好意地要求並且確實需要的話，ServiceNow 會做的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</link>
-      <description><![CDATA[事實證明，它的應用程式可以與自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
+      <description><![CDATA[事實證明，它的應用程式可以與除自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</guid>
       <pubDate>Thu, 24 Oct 2024 07:30:05 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>Anthropic 最新的克勞德模型可以與電腦互動——可能會出現什麼問題？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</link>
-      <description><![CDATA[對於初學者來說，它可以對自身發起即時注入攻擊... AI 新創公司 Anthropic 的 Claude 3.5 Sonnet 模型的最新版本可以使用電腦 - 開發者聽起來這很好東西...... ]]></description>
+      <description><![CDATA[對於初學者來說，它可以對自身發起即時注入攻擊... AI 新創公司Anthropic 的Claude 3.5 Sonnet 模型的最新版本可以使用電腦- 開發人員聽起來這聽起來不錯東西...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</guid>
       <pubDate>Thu, 24 Oct 2024 04:30:13 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>根據美國新航空規則，飛行計程車獲準起飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</link>
-      <description><![CDATA[「動力升空」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
+      <description><![CDATA[「動力升力」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</guid>
       <pubDate>Thu, 24 Oct 2024 01:01:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[標籤稱，不要忽視這個令人討厭的零日漏洞 不法分子正在利用三星移動晶片中的一個令人討厭的錯誤作為漏洞利用鏈的一部分來升級權限，然後遠程執行任意程式碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/samsung_phone_eop_attacks/</guid>
       <pubDate>Thu, 24 Oct 2024 00:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>賓州州立大學向司法部支付 125 萬美元以解決網路安全合規案件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/</link>
-      <description><![CDATA[繼續戰鬥，國家？這次不是 賓州州立大學已同意向司法部支付 125 萬美元，以和解其向聯邦政府歪曲其網路安全合規性並導致敏感資料受到不當保護的指控。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/</guid>
-      <pubDate>Wed, 23 Oct 2024 23:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
