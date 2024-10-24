@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 11:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:24:01 GMT</lastBuildDate>
+    <item>
+      <title>向高通伸出援手：法庭見？哦，是的，請</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/arm_qualcomm_response/</link>
+      <description><![CDATA[並未完全確認八週許可證取消期限，但已做好準備 在英國晶片設計商重申其對美國 SoC 的指控後，Arm 與高通的口水戰變得更加激烈巨人違反了其許可證。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/arm_qualcomm_response/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由於新的 SDK 要求限制了自由，Bitwarden 的 FOSS 光環逐漸消失</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/bitwarden_foss_doubts/</link>
+      <description><![CDATA[爭論仍在繼續，但變化表明它不再是自由軟體 Bitwarden 線上憑證儲存服務正在改變其構建要求- 一些評論員認為這意味著它不再是自由軟體。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/bitwarden_foss_doubts/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:36:14 GMT</pubDate>
+    </item>
     <item>
       <title>由於病患照護受到影響，勒索軟體在急診室產生連鎖反應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/ransomware_ripple_effect_hospitals/</link>
@@ -22,14 +36,14 @@
     <item>
       <title>Vivaldi 對其瀏覽器進行了改進，並添加了儀表板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</link>
-      <description><![CDATA[每個人的生活中都需要更多小部件，對嗎？ . &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[每個人的生活中都需要更多小部件，對吧？  &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/</guid>
       <pubDate>Thu, 24 Oct 2024 08:30:14 GMT</pubDate>
     </item>
     <item>
       <title>本地 SaaS？如果你好意地要求並且確實需要的話，ServiceNow 會做的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</link>
-      <description><![CDATA[事實證明，它的應用程式可以與除自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
+      <description><![CDATA[事實證明，它的應用程式可以與自己以外的資料庫一起使用 軟體即服務的銷售宣傳是，您可以獲得功能強大的應用程序，而不必擔心其底層基礎設施。但是 SaaSy 工作流程供應商 ServiceNow 將悄悄地讓您在本地運行其產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/</guid>
       <pubDate>Thu, 24 Oct 2024 07:30:05 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>Anthropic 最新的克勞德模型可以與電腦互動——可能會出現什麼問題？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</link>
-      <description><![CDATA[對於初學者來說，它可以對自身發起即時注入攻擊... AI 新創公司Anthropic 的Claude 3.5 Sonnet 模型的最新版本可以使用電腦- 開發人員聽起來這聽起來不錯東西...... ]]></description>
+      <description><![CDATA[對於初學者來說，它可以對自身發起即時注入攻擊... AI 新創公司 Anthropic 的 Claude 3.5 Sonnet 模型的最新版本可以使用電腦 - 開發者聽起來這很好東西...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/</guid>
       <pubDate>Thu, 24 Oct 2024 04:30:13 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>根據美國新航空規則，飛行計程車獲準起飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</link>
-      <description><![CDATA[「動力升力」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
+      <description><![CDATA[「動力升空」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</guid>
       <pubDate>Thu, 24 Oct 2024 01:01:10 GMT</pubDate>
     </item>
@@ -97,14 +111,14 @@
       <pubDate>Wed, 23 Oct 2024 23:29:10 GMT</pubDate>
     </item>
     <item>
-      <title>警告！ FortiManager 受到主動攻擊的嚴重漏洞</title>
+      <title>警告！主動攻擊下的 FortiManager 嚴重漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fortimanager_critical_vulnerability/</link>
-      <description><![CDATA[安全商店和 CISA 敦促迅速採取行動 Fortinet 已公開其軟體管理平台存在嚴重缺陷的訊息。]]></description>
+      <description><![CDATA[安全商店和 CISA 敦促迅速採取行動 Fortinet 已公開其軟體管理平台存在嚴重缺陷的消息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/fortimanager_critical_vulnerability/</guid>
       <pubDate>Wed, 23 Oct 2024 22:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>前英特爾董事會成員提出分拆 Foundry 的考量不周</title>
+      <title>前英特爾董事會成員為分拆 Foundry 提出了一個考慮不周的理由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</link>
       <description><![CDATA[拯救美國最重要的製造商？更像是拯救我們的投資組合，讓山姆大叔收拾殘局 評論 一群前英特爾董事會董事呼籲這家晶片製造商剝離陷入困境的代工業務，同時掩飾自己的處境事實上，一家每季虧損數十億美元的公司不太可能靠自己生存。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[另外，一個POC 可以讓攻擊者變得更加容易 根據美國網路安全和基礎設施安全部門的說法，Microsoft SharePoint 的一個錯誤正在被積極利用，該錯誤可以允許攻擊者將程式碼遠端注入到易受攻擊的版本中機構 (CISA).... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/</guid>
       <pubDate>Wed, 23 Oct 2024 19:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>恐怖電影的 VHS 再現恐怖</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/alien_romulus_vhs_release/</link>
-      <description><![CDATA[磁帶爆破媒體在最新的《異形》爆破電影中復活 投票：VHS 回來了嗎？電影，The Register&lt; /i&gt; 可以理解為什麼20 世紀影業公司宣布將以VHS 形式發行這部電影——這種錄像帶格式已經二十年沒有被重視，甚至在其鼎盛時期也享有糟糕的聲譽。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/alien_romulus_vhs_release/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>RVA23 配置獲得批准，RISC-V 達到里程碑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/rva23_profile_ratified/</link>
-      <description><![CDATA[不再處於劣勢- 它現在挑戰Arm 和x86 評價 RISC-V 的RVA23 配置文件的批准標誌著該架構的一個里程碑式時刻，對於任何參與其中的人來說都是一個里程碑式的時刻。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/rva23_profile_ratified/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
