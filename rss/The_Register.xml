@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 16:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 16:54:36 GMT</lastBuildDate>
+    <item>
+      <title>華為發布詳細數據無伺服器秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huawei_serverless_cold_start_research/</link>
+      <description><![CDATA[揭示為什麼您的功能在其雲端上啟動緩慢，也許其他功能也如此 華為雲端發布了大量描述其無伺服器服務效能的數據，希望其他超大規模企業使用它來提高其性能自己的運作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huawei_serverless_cold_start_research/</guid>
+      <pubDate>Thu, 24 Oct 2024 16:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>美國地鐵仍然使用軟碟運行？日本介入“殺軟盤計劃”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[對未受保護伺服器的攻擊達到「臨界等級」 根據趨勢科技研究人員的說法，未知攻擊者正在濫用暴露的Docker Remote API 伺服器，在受害者的系統上部署perfctl加密挖礦惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/</guid>
       <pubDate>Thu, 24 Oct 2024 02:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>根據美國新航空規則，飛行計程車獲準起飛</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</link>
-      <description><![CDATA[「動力升空」成為近80 年來首個新類別飛機 美國聯邦航空管理局(FAA) 本週發布了針對傾轉旋翼機和其他垂直起降(VTOL) 飛機的最終法規，包括電動變體，這是該組織自允許直升機飛行以來首次建立新的飛機類別。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/</guid>
-      <pubDate>Thu, 24 Oct 2024 01:01:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
