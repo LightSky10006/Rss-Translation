@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 10:41:00 GMT</lastBuildDate>
+    <item>
+      <title>由於病患照護受到影響，勒索軟體在急診室產生連鎖反應</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/ransomware_ripple_effect_hospitals/</link>
+      <description><![CDATA[光今年就有389 家美國醫療機構受到感染 勒索軟體在本財年感染了389 家美國醫療機構，將病患的生命置於危險之中，僅因停機，設施每天就損失高達90 萬美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/ransomware_ripple_effect_hospitals/</guid>
+      <pubDate>Thu, 24 Oct 2024 10:37:06 GMT</pubDate>
+    </item>
     <item>
       <title>這是 NIS2 合規性清單，因為沒有人再關心截止日期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/nis2_compliance_checklist/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不再處於劣勢- 它現在挑戰Arm 和x86 評價 RISC-V 的RVA23 配置文件的批准標誌著該架構的一個里程碑式時刻，對於任何參與其中的人來說都是一個里程碑式的時刻。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/rva23_profile_ratified/</guid>
       <pubDate>Wed, 23 Oct 2024 17:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音新任機長承諾在第三季急轉直下後改變態度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/23/boeing_q3/</link>
-      <description><![CDATA[財報公佈當天，罷工工會工人就新合約進行投票 如果說波音公司第二季度業績慘淡，那麼第三季度的數據也很糟糕，這給了最近就任的首席執行官凱利·奧特伯格(Kelly Ortberg)乘飛機救援的絕佳機會與振興計劃......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/23/boeing_q3/</guid>
-      <pubDate>Wed, 23 Oct 2024 16:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
