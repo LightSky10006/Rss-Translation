@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 20:14:18 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity AI 譴責新聞集團「完全錯誤」的資料抓取說法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/25/perplexity_news_corp_data/</link>
+      <description><![CDATA[「他們更喜歡生活在一個公開報導的事實歸企業所有的世界」 人工智慧新創公司Perplexity AI 對一項訴訟進行了反擊，該訴訟稱其不公平地從道瓊斯和道瓊指數收集數據。 Co 和《紐約郵報》為其人工智慧引擎提供支持，並竊取和篡改內容。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/25/perplexity_news_corp_data/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>公開清洗的公開秘密－為什麼公司假裝開源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/25/opinion_open_washing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[AI 模型儲存庫承諾降低成本，為NIM 競爭對手提供更廣泛的兼容性 Hugging Face 本周宣布了HUGS，這是對Nvidia 推理微服務(NIM) 的回應，AI儲存庫聲稱將允許客戶部署和運行該服務法學碩士和模型適用於更廣泛的硬體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/huggingface_hugs_nvidia/</guid>
       <pubDate>Thu, 24 Oct 2024 19:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>緊急修補程式：思科修復了暴力攻擊中的漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/cisco_bug_brute_force/</link>
-      <description><![CDATA[誰不喜歡濫用有缺陷的設備，真的嗎？ ，不法分子已經利用了該漏洞-強制嘗試拒絕服務攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/cisco_bug_brute_force/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
