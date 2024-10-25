@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 24 Oct 2024 23:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 02:18:23 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的 DeepMind 正在建立一種人工智慧來阻止我們互相仇恨</title>
+      <link>https://arstechnica.com/ai/2024/10/googles-deepmind-is-building-an-ai-to-keep-us-from-hating-each-other/</link>
+      <description><![CDATA[在讓人們達成協議方面，人工智慧比專業調解員做得更好。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/googles-deepmind-is-building-an-ai-to-keep-us-from-hating-each-other/</guid>
+      <pubDate>Thu, 24 Oct 2024 23:36:34 GMT</pubDate>
+    </item>
     <item>
       <title>Scout Motors 的新款皮卡和 SUV 電動車起價“低於 60,000 美元”</title>
       <link>https://arstechnica.com/cars/2024/10/scout-motors-new-pickup-and-suv-evs-will-start-at-under-60000/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[有線電視公司擔心，這項規定將很難說服客戶放棄取消服務。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/</guid>
       <pubDate>Thu, 24 Oct 2024 17:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌將其人工智慧浮水印技術作為免費開源工具包提供</title>
-      <link>https://arstechnica.com/ai/2024/10/google-offers-its-ai-watermarking-tech-as-free-open-source-toolkit/</link>
-      <description><![CDATA[SynthID 提供了一種隱藏方式將 LLM 輸出標記為手動輸出。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/google-offers-its-ai-watermarking-tech-as-free-open-source-toolkit/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:21:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
