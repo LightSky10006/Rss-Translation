@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 26 Oct 2024 00:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 05:37:25 GMT</lastBuildDate>
+    <item>
+      <title>工人監控必須遵守信用報告規則</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/</link>
+      <description><![CDATA[美國消費者金融保護局要求員工指標賣家的透明度和問責制 美國消費者金融保護局週四發布了指導意見，建議企業關於工人的第三方報告必須遵守同意和透明度《公平信用報告法》中規定的要求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/</guid>
+      <pubDate>Sat, 26 Oct 2024 05:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Biz Daemon 太酷了，無法回應其大銀幕作品的粉絲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/26/biz_daemon_app_error/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[還記得桶子大富翁嗎？是的，情況變得更糟 Amazon Web Services 修復了其開源雲端開發套件中的一個缺陷，在適當的條件下，該缺陷可能允許攻擊者完全劫持用戶的帳戶。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/</guid>
       <pubDate>Thu, 24 Oct 2024 22:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>科學家要求 FCC 測試衛星對環境的影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/24/scientists_fcc_tests_satellite_impact/</link>
-      <description><![CDATA[研究人員表示，美國通訊監管機構不考慮大氣危害的說法是荒謬的 更新 週四，一百二十位天文學研究人員致信詢問聯邦通訊委員會 ( FCC）終止對 SpaceX 的 Starlink 和其他發射大型衛星星座的公司的「荒謬」環境審查豁免。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/24/scientists_fcc_tests_satellite_impact/</guid>
-      <pubDate>Thu, 24 Oct 2024 21:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
