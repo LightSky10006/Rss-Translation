@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 28 Oct 2024 16:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:16:56 GMT</lastBuildDate>
     <item>
-      <title>Raspberry Pi 作業系統從 X Window 到 Wayland 歷時數年的切換現已正式發布</title>
+      <title>Apple 售價 1,299 美元的 M4 iMac 終於將基本型號的 RAM 提升至 16GB</title>
+      <link>https://arstechnica.com/apple/2024/10/apples-1299-m4-imac-at-long-last-bumps-the-base-model-to-16gb-of-ram/</link>
+      <description><![CDATA[新款 iMac 還配備了經過調整的 USB-C 妙控鍵盤、滑鼠和觸控板。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/apples-1299-m4-imac-at-long-last-bumps-the-base-model-to-16gb-of-ram/</guid>
+      <pubDate>Mon, 28 Oct 2024 17:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們是否正處於自我改進的人工智慧爆炸的邊緣？</title>
+      <link>https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/</link>
+      <description><![CDATA[能夠創造出更好人工智慧的人工智慧可能是「人類需要做出的最後一項發明」。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/</guid>
+      <pubDate>Mon, 28 Oct 2024 15:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raspberry Pi 作業系統歷時數年從 X Window 切換到 Wayland 現已正式發布</title>
       <link>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</link>
       <description><![CDATA[儘管效能會有所提高，但 Pi 用戶幾乎不會注意到任何變化。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>地球工程研究倫理指南</title>
       <link>https://arstechnica.com/science/2024/10/a-how-to-for-ethical-geoengineering-research/</link>
-      <description><![CDATA[美國地球物理聯盟發布了一個正確實施的框架。]]></description>
+      <description><![CDATA[美國地球物理聯盟發布了一個正確的框架。]]></description>
       <guid>https://arstechnica.com/science/2024/10/a-how-to-for-ethical-geoengineering-research/</guid>
       <pubDate>Sat, 26 Oct 2024 11:21:18 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[美國太空總署表示，這名太空人連夜住院接受醫學觀察。]]></description>
       <guid>https://arstechnica.com/space/2024/10/astronaut-hospitalized-after-returning-from-235-day-space-mission/</guid>
       <pubDate>Fri, 25 Oct 2024 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars Live：GLP-1藥物還有什麼功效？週二加入我們進行討論。</title>
-      <link>https://arstechnica.com/health/2024/10/ars-live-join-us-tuesday-as-we-discuss-glp-1-drugs-insights-and-unknowns/</link>
-      <description><![CDATA[丹尼爾·德魯克博士將討論這些重磅藥物的前景。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/ars-live-join-us-tuesday-as-we-discuss-glp-1-drugs-insights-and-unknowns/</guid>
-      <pubDate>Fri, 25 Oct 2024 21:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>備受喜愛的 IDE JetBrains Rider 將首次免費提供</title>
-      <link>https://arstechnica.com/gadgets/2024/10/for-the-first-time-beloved-ide-jetbrains-rider-will-be-available-for-free/</link>
-      <description><![CDATA[除此之外，它還可以填補 Visual Studio 放棄 macOS 後留下的空白。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/for-the-first-time-beloved-ide-jetbrains-rider-will-be-available-for-free/</guid>
-      <pubDate>Fri, 25 Oct 2024 20:27:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
