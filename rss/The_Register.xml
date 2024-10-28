@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 19:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 20:13:54 GMT</lastBuildDate>
+    <item>
+      <title>聯邦調查局因競選電話被竊聽而調查中國鹽颱風</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</link>
+      <description><![CDATA[「他們在嘲笑我們，」調查員說，而且看起來它正在發揮作用 正如報道所言，鹽颱風- 聯邦政府正在調查與中國政府有關的網絡間諜闖入美國電信公司的基礎設施 -據信幕後黑手的同一夥人還針對美國民主黨總統候選人卡馬拉·哈里斯、共和黨候選人唐納德·特朗普及其競選搭檔JD·萬斯的相關人員的手機進行攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</guid>
+      <pubDate>Mon, 28 Oct 2024 20:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，Google正在開發一款可以控制瀏覽器的人工智慧代理</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/google_ai_web_agent/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>蘋果悄悄承認 2024 年 8GB 不夠，M4 iMac 標配 16GB</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</link>
-      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列全新iMac，配備M4 處理器，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
+      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列配備M4 處理器的新款iMac，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</guid>
       <pubDate>Mon, 28 Oct 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著 Gartner 對那些考慮放棄 Virtzilla 的競爭者進行評級，Nutanix 名列前茅 數據管理供應商 Veeam 剛推出其用於開源 VMware 替代方案 Proxmox 的軟體版本，開發了一個原型來備份另一個虛擬化平台：Xen Server fork XCP-NG。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/vmware_alternatives_veeam_gartner_xcpng/</guid>
       <pubDate>Mon, 28 Oct 2024 04:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟的AI是副駕駛嗎？副駕駛？副駕駛？ MVP 建立網站以幫助實現正確目標</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/microsft_branding_correction_site/</link>
-      <description><![CDATA[當您說「團隊」時，您是指「團隊」還是 SharePoint「團隊網站」？ Letme Correctthatforyou.com 解釋了其中的差異 如果您本週忘記了微軟如何稱呼其人工智慧助手，微軟MVP Loryan Strant 已經創建了您需要的資源：一個名為讓我為您糾正!…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/microsft_branding_correction_site/</guid>
-      <pubDate>Mon, 28 Oct 2024 03:01:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
