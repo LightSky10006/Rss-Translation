@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 20:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:12:04 GMT</lastBuildDate>
+    <item>
+      <title>摩根大通因「無限金錢故障」而起訴詐騙者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/jpmorgan_chase_sues_scammers/</link>
+      <description><![CDATA[ATM 向客戶支付了數千美元…現在銀行想要拿回錢 摩根大通已開始起訴欺詐者，據稱這些欺詐者在一次支票欺詐故障在社交媒體上瘋傳後，從該銀行的ATM 機上竊取了數千美元媒體…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/jpmorgan_chase_sues_scammers/</guid>
+      <pubDate>Mon, 28 Oct 2024 20:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>聯邦調查局因競選電話被竊聽而調查中國鹽颱風</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[只有其中的兩個，折扣適合所涉及套件的早期開發階段 中國首個太空旅遊企業上週售出第一張門票，向商業現實邁出了一小步乘著火箭飛向太空…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/china_space_tourism/</guid>
       <pubDate>Mon, 28 Oct 2024 05:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Veeam 測試對另一個 VMware 替代方案的支援：XCP-NG</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/vmware_alternatives_veeam_gartner_xcpng/</link>
-      <description><![CDATA[隨著 Gartner 對那些考慮放棄 Virtzilla 的競爭者進行評級，Nutanix 名列前茅 數據管理供應商 Veeam 剛推出其用於開源 VMware 替代方案 Proxmox 的軟體版本，開發了一個原型來備份另一個虛擬化平台：Xen Server fork XCP-NG。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/vmware_alternatives_veeam_gartner_xcpng/</guid>
-      <pubDate>Mon, 28 Oct 2024 04:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
