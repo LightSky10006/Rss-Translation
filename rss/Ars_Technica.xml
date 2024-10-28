@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 28 Oct 2024 19:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 22:12:05 GMT</lastBuildDate>
     <item>
-      <title>威斯康辛州，受 THC 污染的披薩已導致數十人患病；屋主歸咎於油瓶混淆</title>
+      <title>谷歌被指控影子活動將反壟斷審查轉向微軟</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/</link>
+      <description><![CDATA[據稱，谷歌與雲端供應商接洽，向微軟洩漏了可疑組織。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA 最年長的現役太空人也是最好奇的人類之一</title>
+      <link>https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/</link>
+      <description><![CDATA[“我們犯了一個錯誤，從衝天窗往外看。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>披薩店不小心在麵團中摻入四氫大麻酚，導致數十人生病</title>
       <link>https://arstechnica.com/health/2024/10/thc-tainted-pizza-sickens-dozens-in-wisc-owner-blames-oil-bottle-mix-up/</link>
       <description><![CDATA[緊急醫療服務將五名顧客送往醫院後，衛生官員接到了舉報。]]></description>
       <guid>https://arstechnica.com/health/2024/10/thc-tainted-pizza-sickens-dozens-in-wisc-owner-blames-oil-bottle-mix-up/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[Apple 的首款 M4 Mac 還包括更新的配件和經過調整的網路攝影機。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/apples-1299-m4-imac-at-long-last-bumps-the-base-model-to-16gb-of-ram/</guid>
       <pubDate>Mon, 28 Oct 2024 17:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們是否正處於自我改進的人工智慧爆炸的邊緣？</title>
-      <link>https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/</link>
-      <description><![CDATA[能夠創造出更好人工智慧的人工智慧可能是「人類需要做出的最後一項發明」。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/the-quest-to-use-ai-to-build-better-ai/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 作業系統歷時數年從 X Window 切換到 Wayland 現已正式發布</title>
-      <link>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</link>
-      <description><![CDATA[儘管效能會有所提高，但 Pi 用戶幾乎不會注意到任何變化。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:41:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
