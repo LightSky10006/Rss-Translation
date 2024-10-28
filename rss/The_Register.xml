@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 16:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 17:38:42 GMT</lastBuildDate>
+    <item>
+      <title>蘋果悄悄承認 2024 年 8GB 不夠，M4 iMac 標配 16GB</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</link>
+      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列全新iMac，配備M4 處理器，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</guid>
+      <pubDate>Mon, 28 Oct 2024 17:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>儘管中美關係緊張，英特爾仍將擴建成都工廠</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/intel_to_expand_chengdu_facility/</link>
+      <description><![CDATA[在談到其最大的銷售市場時，Chipzilla 不太可能讓步 英特爾正在擴大其在成都的封裝和測試基地，此舉表明其打算繼續牢牢紮根於中國市場，儘管地緣政治壓力…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/intel_to_expand_chengdu_facility/</guid>
+      <pubDate>Mon, 28 Oct 2024 17:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>GenAI 的骯髒秘密：它將導致電子垃圾急劇增加</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/genai_dirty_secret/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>因蘋果未兌現投資承諾，印尼禁止 iPhone 16</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/27/asia_tech_news_in_brief/</link>
-      <description><![CDATA[Plus：新加坡建造兩台超級電腦；豐田將利用富士通 AI 重建 IT；三星工程師要跳槽嗎？  亞洲簡介 世界第四人口大國印尼已禁止進口蘋果 iPhone 16。 include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Plus：新加坡建造兩台超級電腦；豐田將利用富士通 AI 重建 IT；三星工程師要跳槽嗎？ include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/27/asia_tech_news_in_brief/</guid>
       <pubDate>Sun, 27 Oct 2024 23:46:54 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[此外，Change Healthcare 創造了記錄、網路犯罪警察嫌疑人被起訴、新的Mallox 解密器等等 簡述 參議院情報委員會主席Mark Warner (D -VA)人們要求知道為什麼在俄羅斯大規模在線虛假信息行動失敗後，六家美國域名註冊商的名字似乎不斷出現，充其量只是疏忽大意的干預選舉的協助者。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/27/senator_domain_registrars_russia_disinfo/</guid>
       <pubDate>Sun, 27 Oct 2024 15:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國睡眠專家表示，是時候永久取消夏令時間了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/27/abolish_daylight_saving_time/</link>
-      <description><![CDATA[事實證明，晨光勝過晚霞對健康有益 Soho 的街道上不再充滿迪斯科舞廳或喇叭褲，所以也許是時候拋棄另一個我們本應超越的 70 年代標誌了英國睡眠協會(BSS) 表示，現在…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/27/abolish_daylight_saving_time/</guid>
-      <pubDate>Sun, 27 Oct 2024 10:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AlmaLinux 展示了它的新 Kitten</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/26/almalinux_kitten/</link>
-      <description><![CDATA[還有 9.5 的測試版 - 這比 RHEL 的版本還要多 AlmaLinux 團隊推出了一個新發行版，但不要太興奮。它並不意味著是一種新口味或用於生產用途。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/26/almalinux_kitten/</guid>
-      <pubDate>Sat, 26 Oct 2024 15:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
