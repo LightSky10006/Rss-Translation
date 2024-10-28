@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:35:32 GMT</lastBuildDate>
+    <item>
+      <title>據報道，台積電切斷了與華為加速器相關的 RISC-V 晶片設計商的業務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/tsmc_sophgo_huawei/</link>
+      <description><![CDATA[你知道他們說什麼，有意願就有華為 台灣積體電路製造有限公司(Taiwan Semiconductor Manufacturing Co.) 據稱已停止向中國晶片設計商Sophgo 供貨，因為該公司被指控試圖向華為違規供應零件美國制裁。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/tsmc_sophgo_huawei/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>摩根大通因「無限金錢故障」而起訴詐騙者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/jpmorgan_chase_sues_scammers/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>蘋果悄悄承認 2024 年 8GB 不夠，M4 iMac 標配 16GB</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</link>
-      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列配備M4 處理器的新款iMac，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
+      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列全新iMac，配備M4 處理器，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</guid>
       <pubDate>Mon, 28 Oct 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有人被要求刪除讚揚 WP Engine 的帖子 WordCamps（為 WordPress 用戶舉辦的社區活動）的組織者已被命令刪除一些社交媒體帖子並分享他們的登錄憑據對於社交網絡。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/wordcamp_password_sharing_requirement/</guid>
       <pubDate>Mon, 28 Oct 2024 06:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國首家太空旅遊企業出售首批門票</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/china_space_tourism/</link>
-      <description><![CDATA[只有其中的兩個，折扣適合所涉及套件的早期開發階段 中國首個太空旅遊企業上週售出第一張門票，向商業現實邁出了一小步乘著火箭飛向太空…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/china_space_tourism/</guid>
-      <pubDate>Mon, 28 Oct 2024 05:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
