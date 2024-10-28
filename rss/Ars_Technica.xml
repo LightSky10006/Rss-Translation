@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 28 Oct 2024 14:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 16:15:51 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi 作業系統從 X Window 到 Wayland 歷時數年的切換現已正式發布</title>
+      <link>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</link>
+      <description><![CDATA[儘管效能會有所提高，但 Pi 用戶幾乎不會注意到任何變化。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/</guid>
+      <pubDate>Mon, 28 Oct 2024 15:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特為 Android Auto 用戶在 Google 地圖上新增了電動車路線</title>
+      <link>https://arstechnica.com/cars/2024/10/ford-evs-can-now-see-tesla-superchargers-in-android-autos-google-maps/</link>
+      <description><![CDATA[福特電動車可以透過 Android Auto 告訴Google地圖它們的電池充電狀態。]]></description>
+      <guid>https://arstechnica.com/cars/2024/10/ford-evs-can-now-see-tesla-superchargers-in-android-autos-google-maps/</guid>
+      <pubDate>Mon, 28 Oct 2024 15:06:13 GMT</pubDate>
+    </item>
     <item>
       <title>使用人工智慧創建虐待兒童圖像的男子被判 18 年監禁</title>
       <link>https://arstechnica.com/tech-policy/2024/10/18-year-prison-sentence-for-man-who-used-ai-to-create-child-abuse-images/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[除此之外，它還可以填補 Visual Studio 放棄 macOS 後留下的空白。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/for-the-first-time-beloved-ide-jetbrains-rider-will-be-available-for-free/</guid>
       <pubDate>Fri, 25 Oct 2024 20:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆馬斯克為何要與弗拉基米爾普丁交談？</title>
-      <link>https://arstechnica.com/space/2024/10/why-is-elon-musk-talking-to-vladimir-putin-and-what-does-it-mean-for-spacex/</link>
-      <description><![CDATA[NASA 局長表示 SpaceX 執行長與普丁之間的關係應該受到調查。]]></description>
-      <guid>https://arstechnica.com/space/2024/10/why-is-elon-musk-talking-to-vladimir-putin-and-what-does-it-mean-for-spacex/</guid>
-      <pubDate>Fri, 25 Oct 2024 19:47:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國版權局“釋放 McFlurry”，允許修理冰淇淋機</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/</link>
-      <description><![CDATA[軟冰淇淋機獲得了 DMCA 規避規則的不完全豁免。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/</guid>
-      <pubDate>Fri, 25 Oct 2024 19:37:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
