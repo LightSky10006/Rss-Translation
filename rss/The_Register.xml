@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 03:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 04:41:42 GMT</lastBuildDate>
+    <item>
+      <title>Veeam 測試對另一個 VMware 替代方案的支援：XCP-NG</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/vmware_alternatives_veeam_gartner_xcpng/</link>
+      <description><![CDATA[隨著 Gartner 對那些考慮放棄 Virtzilla 的競爭者進行評級，Nutanix 名列前茅 數據管理供應商 Veeam 剛推出其用於開源 VMware 替代方案 Proxmox 的軟體版本，開發了一個原型來備份另一個虛擬化平台：Xen Server fork XCP-NG。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/vmware_alternatives_veeam_gartner_xcpng/</guid>
+      <pubDate>Mon, 28 Oct 2024 04:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>微軟的AI是副駕駛嗎？副駕駛？副駕駛？ MVP 建立網站以幫助實現正確目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/microsft_branding_correction_site/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>因蘋果未兌現投資承諾，印尼禁止 iPhone 16</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/27/asia_tech_news_in_brief/</link>
-      <description><![CDATA[Plus：新加坡建造兩台超級電腦；豐田將利用富士通 AI 重建 IT；三星工程師要跳槽嗎？  亞洲簡介 世界第四人口大國印尼已禁止進口蘋果 iPhone 16。 include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Plus：新加坡建造兩台超級電腦；豐田將利用富士通 AI 重建 IT；三星工程師要跳槽嗎？ include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/27/asia_tech_news_in_brief/</guid>
       <pubDate>Sun, 27 Oct 2024 23:46:54 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 27 Oct 2024 15:44:06 GMT</pubDate>
     </item>
     <item>
-      <title>英國睡眠專家表示，是時候永久取消夏令時間了</title>
+      <title>英國睡眠專家表示，是時候徹底取消夏令時間了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/27/abolish_daylight_saving_time/</link>
       <description><![CDATA[事實證明，晨光勝過晚霞對健康有益 Soho 的街道上不再充滿迪斯科舞廳或喇叭褲，所以也許是時候拋棄另一個我們本應超越的 70 年代標誌了英國睡眠協會(BSS) 表示，現在…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/27/abolish_daylight_saving_time/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[從長遠來看，不支付您同意的工作費用可能會代價高昂 On Call 歡迎來到On Call 的另一期，這是由讀者每週投稿的專欄，其中Reg 讀者分享技術支援故事，在這些故事中他們戰勝了可怕而殘暴的工頭。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/25/on_call/</guid>
       <pubDate>Fri, 25 Oct 2024 07:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 失去了另一位高階人物，解散了他領導的安全研究團隊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/25/open_ai_readiness_advisor_leaves/</link>
-      <description><![CDATA[通用人工智慧準備顧問Miles Brundage 放棄了，因為沒有人準備好 OpenAI 失去了另一位高級員工，在他離開時，這位員工警告該公司- 以及所有其他人工智慧商店 -只是還沒準備好通用人工智慧。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/25/open_ai_readiness_advisor_leaves/</guid>
-      <pubDate>Fri, 25 Oct 2024 06:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
