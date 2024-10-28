@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 23:12:24 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 透過資金和用戶成長利用 X 困境</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/bluesky_capitalizes_on_x_woes/</link>
+      <description><![CDATA[這個去中心化的社交網路透過訂閱主題暗示了永續發展 Bluesky 表示，它已經吸引了超過1300 萬用戶，而2024 年2 月向公眾開放時用戶數量約為300 萬。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/bluesky_capitalizes_on_x_woes/</guid>
+      <pubDate>Mon, 28 Oct 2024 22:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>據報道，台積電切斷了與華為加速器相關的 RISC-V 晶片設計商的業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/tsmc_sophgo_huawei/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>蘋果悄悄承認 2024 年 8GB 不夠，M4 iMac 標配 16GB</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</link>
-      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列全新iMac，配備M4 處理器，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
+      <description><![CDATA[晶片不再局限於庫比蒂諾最昂貴的iPad 在周一的意外聲明中，Apple 推出了一系列配備M4 處理器的新款iMac，標配16 GB 內存、12 MP 網路攝影機，而且不乏人工智慧噱頭…呃…功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/</guid>
       <pubDate>Mon, 28 Oct 2024 17:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[世界上所有的冗餘都無法避免「棕色褲子」錯誤 誰，我？地方-週一在The Register填寫。如您所知，每週一（即今天）The Register（您正在閱讀的）都會為您帶來一期《誰，我？ – 我們的讀者貢獻的技術出錯的故事。這就是那篇專欄。再告訴你一定是多餘的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/who_me/</guid>
       <pubDate>Mon, 28 Oct 2024 07:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 強迫使用者會議組織者分享社群媒體憑證，引起懷疑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/wordcamp_password_sharing_requirement/</link>
-      <description><![CDATA[有人被要求刪除讚揚 WP Engine 的帖子 WordCamps（為 WordPress 用戶舉辦的社區活動）的組織者已被命令刪除一些社交媒體帖子並分享他們的登錄憑據對於社交網絡。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/wordcamp_password_sharing_requirement/</guid>
-      <pubDate>Mon, 28 Oct 2024 06:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
