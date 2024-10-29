@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 16:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 17:38:34 GMT</lastBuildDate>
+    <item>
+      <title>美國陸軍使用「Scylla」人工智慧來保護倉庫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</link>
+      <description><![CDATA[國防部表示，名字不祥的機器人可以發現一英里外的麻煩，區分威脅和誤報 美國陸軍正在測試一種新的人工智慧產品，據稱該產品可以識別一英里外的威脅，而這一切都不需要任何新硬體。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>比利時警察在 Redline、Meta 資訊竊取者刺傷事件中逮捕了 2 名網路騙子嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[「他們在嘲笑我們，」調查員說，而且看起來它正在發揮作用 正如報道所言，鹽颱風- 聯邦政府正在調查與中國政府有關的網絡間諜闖入美國電信公司的基礎設施 -據信幕後黑手的同一夥人還針對美國民主黨總統候選人卡馬拉·哈里斯、共和黨候選人唐納德·特朗普及其競選搭檔JD·萬斯的相關人員的手機進行攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</guid>
       <pubDate>Mon, 28 Oct 2024 20:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，Google正在開發一款可以控制瀏覽器的人工智慧代理</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/google_ai_web_agent/</link>
-      <description><![CDATA[Project Jarvis 顯然會代表你進行研究、購買產品，甚至預訂航班 據報道，Google 正在尋求透過讓其多模態大語言模型（LLM）來迴避人工智慧驅動的自動化的複雜性）控制您的瀏覽器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/google_ai_web_agent/</guid>
-      <pubDate>Mon, 28 Oct 2024 19:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
