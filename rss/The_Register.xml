@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 22:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 23:35:33 GMT</lastBuildDate>
     <item>
-      <title>如何越獄 ChatGPT 並誘騙 AI 使用十六進位編碼編寫漏洞利用程式碼</title>
+      <title>山姆大叔揭露了一名被指控開發 Redline 資訊竊取惡意軟體的俄羅斯人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_redline_malware/</link>
+      <description><![CDATA[或：為什麼使用同一個iCloud 帳戶進行惡意軟體開發和遊戲是一個壞主意 美國政府已點名並指控俄羅斯國民馬克西姆·魯多梅托夫(Maxim Rudometov)，他涉嫌開發和管理臭名昭著的Redline 資訊竊取程式。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_redline_malware/</guid>
+      <pubDate>Tue, 29 Oct 2024 23:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 ChatGPT 上施放十六進制來欺騙 AI 編寫漏洞程式碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</link>
       <description><![CDATA[研究人員表示，「這就像看著一個機器人失控一樣」 OpenAI 的語言模型GPT-4o 可以透過以十六進位編碼惡意指令來誘騙編寫漏洞利用程式碼，這使得攻擊者能夠跳過0Din 研究員 Marco Figueroa 表示，該模型的內建安全護欄並濫用人工智慧用於邪惡目的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 29 Oct 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>僅使用 CPU 的人工智慧帶來的麻煩經濟問題</title>
+      <title>純粹 CPU 人工智慧的經濟問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
@@ -90,9 +97,9 @@
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>默德！馬克宏的保鑣透過共享 Strava 數據揭示了他的位置</title>
+      <title>默德！馬克宏的保鑣透過分享 Strava 數據透露他的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</link>
-      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
+      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以被追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</guid>
       <pubDate>Tue, 29 Oct 2024 10:32:08 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Tue, 29 Oct 2024 07:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>通緝。頂級資訊安全專家願意以微薄的薪水保衛英國</title>
+      <title>通緝。頂級資安專家願意以微薄的薪水保衛英國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</link>
-      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面還遠缺乏競爭力。]]></description>
+      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面遠遠缺乏競爭力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</guid>
       <pubDate>Tue, 29 Oct 2024 06:26:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果你想測量混凝土的電導率，GPIO 會是一個方便的工具 中國科學家發現了 Raspberry Pi 的一個新用途：檢測鐵路隧道襯砌中的空隙，導致結構損壞，甚至倒塌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/china_raspberry_pi_tunnel_testing/</guid>
       <pubDate>Tue, 29 Oct 2024 03:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>緩步動物基因可能隱藏著人類放射治療的秘密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/tardigrade_genetics_radiation/</link>
-      <description><![CDATA[微小的「水熊蟲」可以在殺死人類的爆炸中倖存 預防或逆轉電離輻射影響的藥物長期以來一直是科幻小說中的夢想，但新發現物種的基因定序緩步動物可能會改變這一切。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/tardigrade_genetics_radiation/</guid>
-      <pubDate>Tue, 29 Oct 2024 01:26:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
