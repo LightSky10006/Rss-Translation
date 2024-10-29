@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 21:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 22:38:38 GMT</lastBuildDate>
+    <item>
+      <title>如何越獄 ChatGPT 並誘騙 AI 使用十六進位編碼編寫漏洞利用程式碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</link>
+      <description><![CDATA[研究人員表示，「這就像看著一個機器人失控一樣」 OpenAI 的語言模型GPT-4o 可以透過以十六進位編碼惡意指令來誘騙編寫漏洞利用程式碼，這使得攻擊者能夠跳過0Din 研究員 Marco Figueroa 表示，該模型的內建安全護欄並濫用人工智慧用於邪惡目的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</guid>
+      <pubDate>Tue, 29 Oct 2024 22:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯法院對谷歌罰款 20,000,000,000,000,000,000,000,000,000,000,000 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_court_fines_google/</link>
@@ -36,12 +43,12 @@
     <item>
       <title>美國陸軍使用「Scylla」人工智慧來保護倉庫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</link>
-      <description><![CDATA[國防部表示，名字不祥的機器人可以在一英里外發現問題，區分威脅和誤報 美國陸軍正在測試一種新的人工智慧產品，據稱該產品可以識別一英里外的威脅，而這一切都不需要任何新硬體。 ...]]></description>
+      <description><![CDATA[國防部表示，名字不祥的機器人可以發現一英里外的麻煩，區分威脅和誤報 美國陸軍正在測試一種新的人工智慧產品，據稱該產品可以識別一英里外的威脅，而這一切都不需要任何新硬體。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</guid>
       <pubDate>Tue, 29 Oct 2024 17:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>比利時警察在 Redline、Meta 資訊竊取者暗殺事件中逮捕了 2 名網路騙子嫌疑人</title>
+      <title>比利時警察在 Redline、Meta 資訊竊取者刺傷事件中逮捕了 2 名網路騙子嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/</link>
       <description><![CDATA[美國也指控了一名所謂的Redline 開發人員，但沒有提及逮捕 國際執法官員已逮捕了兩人，並指控另一人涉嫌使用和傳播Redline 和Meta infostealer 惡意軟體菌株。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>FCC主席：天基通訊和地面通訊合併後行動死角將消失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/fcc_chair_gives_a_taste/</link>
-      <description><![CDATA[傑西卡·羅森沃塞爾(Jessica Rosenworcel) 展望未來十年的政策挑戰 美國聯邦通信委員會(FCC) 主席預見到單一網絡的未來，天基通信將與地面網路相集成，以確保任何地方的連接...]]></description>
+      <description><![CDATA[傑西卡·羅森沃塞爾(Jessica Rosenworcel) 展望未來十年的政策挑戰 美國聯邦通信委員會(FCC) 主席預見到單一網絡的未來，天基通信將與地面網路集成，以確保任何地方的連接...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/fcc_chair_gives_a_taste/</guid>
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 29 Oct 2024 07:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>通緝。頂級資安專家願意以微薄的薪水保衛英國</title>
+      <title>通緝。頂級資訊安全專家願意以微薄的薪水保衛英國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</link>
       <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面還遠缺乏競爭力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[微小的「水熊蟲」可以在殺死人類的爆炸中倖存 預防或逆轉電離輻射影響的藥物長期以來一直是科幻小說中的夢想，但新發現物種的基因定序緩步動物可能會改變這一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/tardigrade_genetics_radiation/</guid>
       <pubDate>Tue, 29 Oct 2024 01:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>iFixit 來救援：麥當勞勞工可以拯救自己的冰淇淋機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/copyright_office_mcdonalds/</link>
-      <description><![CDATA[給我漢堡！部分成功地削弱了瘋狂的DMCA 規則 美國版權局發布了一份新的《數位千禧年版權法》(DMCA) 豁免清單，其中包括一項針對零售食品機器的豁免清單，該清單被要求處理麥當勞冰淇淋機破損的長期問題...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/copyright_office_mcdonalds/</guid>
-      <pubDate>Tue, 29 Oct 2024 00:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
