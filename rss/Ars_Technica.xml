@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 29 Oct 2024 19:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 21:11:44 GMT</lastBuildDate>
+    <item>
+      <title>「衝擊式列印」是 3D 列印結構的無水泥替代品</title>
+      <link>https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/</link>
+      <description><![CDATA[衝擊印刷使用高速材料噴射，將其熔合成結構。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/</guid>
+      <pubDate>Tue, 29 Oct 2024 20:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>TSA 對 CrowdStrike 聲稱達美航空跳過了所需的安全更新保持沉默</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/crowdstrike-accuses-delta-of-blaming-its-own-it-failures-on-global-outage/</link>
+      <description><![CDATA[CrowdStrike 和達美航空的法律戰已經開始。接下來微軟會被起訴嗎？]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/crowdstrike-accuses-delta-of-blaming-its-own-it-failures-on-global-outage/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:36:35 GMT</pubDate>
+    </item>
     <item>
       <title>《紐約時報》如何使用生成式人工智慧作為報道工具</title>
       <link>https://arstechnica.com/ai/2024/10/the-new-york-times-shows-how-ai-can-aid-reporters-without-replacing-them/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>雷射雷達測繪揭示了絲綢之路沿線的中世紀山區城市</title>
       <link>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</link>
-      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山上。]]></description>
+      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山脈中。]]></description>
       <guid>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</guid>
       <pubDate>Mon, 28 Oct 2024 22:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果正在將《俄勒岡小徑》拍成電影</title>
-      <link>https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/</link>
-      <description><![CDATA[這部電影將是一部喜劇，而不是一部嚴肅的歷史劇。]]></description>
-      <guid>https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/</guid>
-      <pubDate>Mon, 28 Oct 2024 22:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌被指控影子活動將反壟斷審查轉向微軟</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/</link>
-      <description><![CDATA[據稱，谷歌與雲端供應商接洽，向微軟洩漏了可疑組織。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/</guid>
-      <pubDate>Mon, 28 Oct 2024 21:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
