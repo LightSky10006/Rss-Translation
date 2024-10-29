@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 29 Oct 2024 18:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 19:35:30 GMT</lastBuildDate>
+    <item>
+      <title>《紐約時報》如何使用生成式人工智慧作為報道工具</title>
+      <link>https://arstechnica.com/ai/2024/10/the-new-york-times-shows-how-ai-can-aid-reporters-without-replacing-them/</link>
+      <description><![CDATA[法學碩士幫助記者轉錄和整理數百小時的洩漏音訊。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/the-new-york-times-shows-how-ai-can-aid-reporters-without-replacing-them/</guid>
+      <pubDate>Tue, 29 Oct 2024 18:19:25 GMT</pubDate>
+    </item>
     <item>
       <title>Polestar表示，對中國技術的禁令如此廣泛，美國製造的汽車將被封鎖</title>
       <link>https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>雷射雷達測繪揭示了絲綢之路沿線的中世紀山區城市</title>
       <link>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</link>
-      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山脈中。]]></description>
+      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山上。]]></description>
       <guid>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</guid>
       <pubDate>Mon, 28 Oct 2024 22:16:44 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[據稱，谷歌與雲端供應商接洽，向微軟洩漏了可疑組織。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/</guid>
       <pubDate>Mon, 28 Oct 2024 21:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 最年長的現役太空人也是最好奇的人類之一</title>
-      <link>https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/</link>
-      <description><![CDATA[“我們犯了一個錯誤，從衝天窗往外看。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/</guid>
-      <pubDate>Mon, 28 Oct 2024 21:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
