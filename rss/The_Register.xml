@@ -4,23 +4,30 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 17:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 18:43:38 GMT</lastBuildDate>
+    <item>
+      <title>Linus Torvalds：90% 的人工智慧行銷都是炒作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/linus_torvalds_ai_hype/</link>
+      <description><![CDATA[Linux 核心創建者表示，讓我們看看五年後哪些工作負載會使用GenAI Linux 核心創建者Linus Torvalds 認為，業界流傳的大多數關於生成式AI 的行銷只是無稽之談，沒有任何實際意義。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/linus_torvalds_ai_hype/</guid>
+      <pubDate>Tue, 29 Oct 2024 18:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>美國陸軍使用「Scylla」人工智慧來保護倉庫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</link>
-      <description><![CDATA[國防部表示，名字不祥的機器人可以發現一英里外的麻煩，區分威脅和誤報 美國陸軍正在測試一種新的人工智慧產品，據稱該產品可以識別一英里外的威脅，而這一切都不需要任何新硬體。 ...]]></description>
+      <description><![CDATA[國防部表示，名字不祥的機器人可以在一英里外發現問題，區分威脅和誤報 美國陸軍正在測試一種新的人工智慧產品，據稱該產品可以識別一英里外的威脅，而這一切都不需要任何新硬體。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/</guid>
       <pubDate>Tue, 29 Oct 2024 17:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>比利時警察在 Redline、Meta 資訊竊取者刺傷事件中逮捕了 2 名網路騙子嫌疑人</title>
+      <title>比利時警察在 Redline、Meta 資訊竊取者暗殺事件中逮捕了 2 名網路騙子嫌疑人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/</link>
       <description><![CDATA[美國也指控了一名所謂的Redline 開發人員，但沒有提及逮捕 國際執法官員已逮捕了兩人，並指控另一人涉嫌使用和傳播Redline 和Meta infostealer 惡意軟體菌株。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/</guid>
       <pubDate>Tue, 29 Oct 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>純粹 CPU 人工智慧的經濟問題</title>
+      <title>僅使用 CPU 的人工智慧帶來的麻煩經濟問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
@@ -43,21 +50,21 @@
     <item>
       <title>資料中心開發商表示電力問題阻礙了新建設</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/datacenter_developer_says_power_issues/</link>
-      <description><![CDATA[希望投資「數億美元」的高層表示，「最大的限制是准入」 英國一家主要商業地產開發商表示，如果能夠的話，它將向新資料中心注入投資確保這些設施所需的能源供應，反映出全球日益嚴重的問題。]]></description>
+      <description><![CDATA[希望投資「數億美元」的高層表示，「最大的限制是准入」 英國一家主要商業地產開發商表示，如果可以的話，它將向新資料中心注入投資確保這些設施所需的能源供應，反映出全球日益嚴重的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/datacenter_developer_says_power_issues/</guid>
       <pubDate>Tue, 29 Oct 2024 12:39:36 GMT</pubDate>
     </item>
     <item>
       <title>FCC主席：天基通訊和地面通訊合併後行動死角將消失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/fcc_chair_gives_a_taste/</link>
-      <description><![CDATA[傑西卡·羅森沃塞爾(Jessica Rosenworcel) 展望未來十年的政策挑戰 美國聯邦通信委員會(FCC) 主席預見到單一網絡的未來，天基通信將與地面網路集成，以確保任何地方的連接...]]></description>
+      <description><![CDATA[傑西卡·羅森沃塞爾(Jessica Rosenworcel) 展望未來十年的政策挑戰 美國聯邦通信委員會(FCC) 主席預見到單一網絡的未來，天基通信將與地面網路相集成，以確保任何地方的連接...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/fcc_chair_gives_a_taste/</guid>
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>默德！馬克宏的保鑣透過分享 Strava 數據透露他的位置</title>
+      <title>默德！馬克宏的保鑣透過共享 Strava 數據揭示了他的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</link>
-      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以被追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
+      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</guid>
       <pubDate>Tue, 29 Oct 2024 10:32:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>通緝。頂級資安專家願意以微薄的薪水保衛英國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</link>
-      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面遠遠缺乏競爭力。]]></description>
+      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面還遠缺乏競爭力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</guid>
       <pubDate>Tue, 29 Oct 2024 06:26:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[ATM 向客戶支付了數千美元…現在銀行想要拿回錢 摩根大通已開始起訴欺詐者，據稱這些欺詐者在一次支票欺詐故障在社交媒體上瘋傳後，從該銀行的ATM 機上竊取了數千美元媒體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/jpmorgan_chase_sues_scammers/</guid>
       <pubDate>Mon, 28 Oct 2024 20:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦調查局因競選電話被竊聽而調查中國鹽颱風</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</link>
-      <description><![CDATA[「他們在嘲笑我們，」調查員說，而且看起來它正在發揮作用 正如報道所言，鹽颱風- 聯邦政府正在調查與中國政府有關的網絡間諜闖入美國電信公司的基礎設施 -據信幕後黑手的同一夥人還針對美國民主黨總統候選人卡馬拉·哈里斯、共和黨候選人唐納德·特朗普及其競選搭檔JD·萬斯的相關人員的手機進行攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/</guid>
-      <pubDate>Mon, 28 Oct 2024 20:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
