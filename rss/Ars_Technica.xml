@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 29 Oct 2024 14:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:38:15 GMT</lastBuildDate>
+    <item>
+      <title>蘋果 14 年來首次重新設計的 Mac mini 看起來像是大型鋁製 Apple TV</title>
+      <link>https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/</link>
+      <description><![CDATA[較小的迷你版失去了一些端口，但獲得了大量其他功能更新。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位糖果工程師解釋了士力架背後的科學原理</title>
+      <link>https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/</link>
+      <description><![CDATA[輕盈的牛軋糖和耐嚼的焦糖是如何製成的。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在不改變鹼基序列的情況下將資料寫入 DNA？</title>
+      <link>https://arstechnica.com/science/2024/10/how-can-you-write-data-to-dna-without-changing-the-base-sequence/</link>
+      <description><![CDATA[一種新方法讓任何擁有試劑盒的人只需使用一種酵素即可將數據寫入 DNA。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/how-can-you-write-data-to-dna-without-changing-the-base-sequence/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ars Live：GLP-1藥物還有什麼功效？今天加入我們討論。</title>
+      <link>https://arstechnica.com/health/2024/10/ars-live-join-us-tuesday-as-we-discuss-glp-1-drugs-insights-and-unknowns/</link>
+      <description><![CDATA[丹尼爾·德魯克博士將討論這些重磅藥物的前景。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/ars-live-join-us-tuesday-as-we-discuss-glp-1-drugs-insights-and-unknowns/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:22:12 GMT</pubDate>
+    </item>
     <item>
       <title>出於某種原因，美國太空總署將獵戶座的隔熱罩問題視為秘密</title>
       <link>https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>雷射雷達測繪揭示了絲綢之路沿線的中世紀山區城市</title>
       <link>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</link>
-      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山脈中。]]></description>
+      <description><![CDATA[一座比當時歐洲許多城市還要大的城市坐落在山上。]]></description>
       <guid>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</guid>
       <pubDate>Mon, 28 Oct 2024 22:16:44 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[緊急醫療服務將五名顧客送往醫院後，衛生官員接到了舉報。]]></description>
       <guid>https://arstechnica.com/health/2024/10/thc-tainted-pizza-sickens-dozens-in-wisc-owner-blames-oil-bottle-mix-up/</guid>
       <pubDate>Mon, 28 Oct 2024 19:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 最後保留的一些配件已從 Lightning 轉為 USB-C</title>
-      <link>https://arstechnica.com/gadgets/2024/10/some-of-apples-last-hold-out-accessories-have-switched-from-lightning-to-usb-c/</link>
-      <description><![CDATA[只要再加上幾個小工具和 USB-C 就可能真正讓人感覺很通用。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/some-of-apples-last-hold-out-accessories-have-switched-from-lightning-to-usb-c/</guid>
-      <pubDate>Mon, 28 Oct 2024 19:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>石墨烯增強瓷磚打造引人注目的藝術</title>
-      <link>https://arstechnica.com/science/2024/10/graphene-enhanced-ceramic-tiles-make-striking-art/</link>
-      <description><![CDATA[在漿料中添加一點氧化石墨烯，然後用超音波衝擊 10 分鐘，即可得到最好的瓷磚。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/graphene-enhanced-ceramic-tiles-make-striking-art/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 透過 Apple Intelligence 發佈 iOS 18.1、macOS 15.1</title>
-      <link>https://arstechnica.com/gadgets/2024/10/apple-releases-ios-18-1-macos-15-1-with-apple-intelligence/</link>
-      <description><![CDATA[蘋果人工智慧套件的遲到、交錯的公開發布開始了。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/apple-releases-ios-18-1-macos-15-1-with-apple-intelligence/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管有警告，醫院仍採用容易出錯的人工智慧轉錄工具</title>
-      <link>https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/</link>
-      <description><![CDATA[調查發現，OpenAI 的 Whisper 工具可能會在醫療記錄中添加虛假文字。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:23:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

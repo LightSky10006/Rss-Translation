@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 14:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:38:31 GMT</lastBuildDate>
+    <item>
+      <title>純粹 CPU 人工智慧的經濟問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
+      <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>管理員更好地針對最新的關鍵開源漏洞採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/admins_spring_into_action_over/</link>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>默德！馬克宏的保鑣透過共享 Strava 數據揭示了他的位置</title>
+      <title>默德！馬克宏的保鑣透過分享 Strava 數據透露他的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</link>
-      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
+      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以被追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</guid>
       <pubDate>Tue, 29 Oct 2024 10:32:08 GMT</pubDate>
     </item>
@@ -62,9 +69,9 @@
       <pubDate>Tue, 29 Oct 2024 07:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>通緝。頂級資訊安全專家願意以微薄的薪水保衛英國</title>
+      <title>通緝。頂級資安專家願意以微薄的薪水保衛英國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</link>
-      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面還遠缺乏競爭力。]]></description>
+      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面遠遠缺乏競爭力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</guid>
       <pubDate>Tue, 29 Oct 2024 06:26:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[烏克蘭駭客又來了，還是 50 多年的基礎設施已經老化了？不管怎樣，這都是一團糟 莫斯科爆發了一場名副其實的狗屎秀，就在烏克蘭黑客襲擊相關係統幾個月後，俄羅斯首都爆發了摩天大樓高的污水。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/moscow_sewage_plume/</guid>
       <pubDate>Mon, 28 Oct 2024 18:16:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>ParTec 將超級電腦專利戰從微軟擴大到英偉達</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/28/partec_expands_supercomputer_patent_fight/</link>
-      <description><![CDATA[希望對使用其聲稱的自有知識產權的GPU 發出禁令 德國HPC 供應商ParTec 正在針對Nvidia 涉嫌專利侵權的行為採取法律行動，尋求禁令以停止其GPU 在18 個國家銷售他們是歐洲統一專利制度的參與者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/28/partec_expands_supercomputer_patent_fight/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
