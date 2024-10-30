@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 21:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 23:36:26 GMT</lastBuildDate>
+    <item>
+      <title>艾瑞克·施密特表示，美國陸軍應該放棄坦克，轉而使用人工智慧無人機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/</link>
+      <description><![CDATA[你知道嗎，谷歌前首席執行官恰好有一個商業解決方案 前谷歌首席執行官埃里克·施密特認為美國陸軍應該淘汰“無用”的坦克，並用人工智慧驅動的無人機取代它們相反......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/</guid>
+      <pubDate>Wed, 30 Oct 2024 23:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 主題零日漏洞使用戶面臨 NTLM 憑證被盜的風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 30 Oct 2024 20:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>粗略的財務狀況讓超微的審計師們四散奔逃</title>
+      <title>粗略的財務狀況讓超微審計師紛紛逃亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/supermicro_audit_ey_quit/</link>
       <description><![CDATA[如果 SMCI 是 AI 安然，Ernst &amp; Young 不想與他們有任何關係 超微股價週三暴跌，在受聘審查其報告實踐的會計師事務所在確定這些報告過於粗略而無法保證後辭職後，股價暴跌超過 30%風險… …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/supermicro_audit_ey_quit/</guid>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 30 Oct 2024 16:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>被解僱的迪士尼員工被指控駭客入侵菜單以添加髒話、翅膀、刪除過敏原訊息</title>
+      <title>被解僱的迪士尼員工被指控侵入菜單以添加髒話、翅膀、刪除過敏原訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/fired_disney_employee_hacks_menu/</link>
-      <description><![CDATA[如果你想攻擊老鼠，你需要更好地隱藏自己的踪跡 一名心懷不滿的前迪士尼員工已被捕，並被指控侵入前雇主的系統以更改餐廳菜單可能會造成致命的後果。 ...]]></description>
+      <description><![CDATA[如果你想攻擊老鼠，你需要更好地隱藏自己的踪跡 一名心懷不滿的前迪士尼員工已被捕，並被指控入侵前雇主的系統以更改餐廳菜單可能造成致命的後果。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/fired_disney_employee_hacks_menu/</guid>
       <pubDate>Wed, 30 Oct 2024 15:12:39 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[哦，它需要美國目前的總電力輸出 影片 軟銀背後的日本億萬富翁孫正義預測，人工智慧的智慧程度是人類的 10,000 倍人類大腦將在大約十年內被創造出來- 但代價相當大......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/softbank_super_ai/</guid>
       <pubDate>Tue, 29 Oct 2024 20:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>xAI 選擇基於 InfiniBand 的乙太網路作為其 H100 Colossus 訓練集群</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/xai_colossus_networking/</link>
-      <description><![CDATA[將系統擴展到 200,000 個 Nvidia Hopper 晶片的工作已經在進行中 與大多數 AI 訓練集群不同，xAI 的 Colossus 及其 100,000 個 Nvidia Hopper GPU 不使用 InfiniBand。相反，這個被 Nvidia 稱為「世界上最大的人工智慧超級電腦」的龐大系統是使用 GPU 巨頭的 Spectrum-X 乙太網路結構建構的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/xai_colossus_networking/</guid>
-      <pubDate>Tue, 29 Oct 2024 19:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
