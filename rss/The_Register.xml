@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 20:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 21:35:40 GMT</lastBuildDate>
+    <item>
+      <title>Windows 主題零日漏洞使用戶面臨 NTLM 憑證被盜的風險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</link>
+      <description><![CDATA[加上免費的微補丁，直到雷蒙德修復該缺陷 存在一個 Windows 主題欺騙零日漏洞，允許攻擊者竊取人們的 NTLM 憑證。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</guid>
+      <pubDate>Wed, 30 Oct 2024 21:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 執行長感謝 AI 幫助網站最終扭虧為盈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/reddit_ceo_profit_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[將系統擴展到 200,000 個 Nvidia Hopper 晶片的工作已經在進行中 與大多數 AI 訓練集群不同，xAI 的 Colossus 及其 100,000 個 Nvidia Hopper GPU 不使用 InfiniBand。相反，這個被 Nvidia 稱為「世界上最大的人工智慧超級電腦」的龐大系統是使用 GPU 巨頭的 Spectrum-X 乙太網路結構建構的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/xai_colossus_networking/</guid>
       <pubDate>Tue, 29 Oct 2024 19:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds：90% 的人工智慧行銷都是炒作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/linus_torvalds_ai_hype/</link>
-      <description><![CDATA[Linux 核心創建者表示，讓我們看看五年後哪些工作負載會使用GenAI Linux 核心創建者Linus Torvalds 認為，業界流傳的大多數關於生成式AI 的行銷只是無稽之談，沒有任何實際意義。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/linus_torvalds_ai_hype/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
