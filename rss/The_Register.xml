@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 12:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 12:59:18 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯間諜在異常大規模網路釣魚驅動器中使用遠端桌面協定文件</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/russia_wrangles_rdp_files_in/</link>
+      <description><![CDATA[多產的午夜暴雪團隊撒下了更廣泛的網來尋找優質情報 微軟表示，俄羅斯外國情報部門(SVR) 發起的大規模網路釣魚活動現已進入第二週，間諜正在使用新穎的資訊收集技術......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/russia_wrangles_rdp_files_in/</guid>
+      <pubDate>Wed, 30 Oct 2024 12:40:56 GMT</pubDate>
+    </item>
     <item>
       <title>樂施會表示，馬斯克和貝佐斯只需 90 分鐘即可達到一生碳足跡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/</link>
-      <description><![CDATA[在噴射機、遊艇和對破壞性公司的投資之間，億萬富翁們正在快速應對末日 儘管他們自稱是環保的善意者，但埃隆·馬斯克、傑夫貝佐斯等科技億萬富翁及其同類負有責任碳排放量如此之大，以至於普通人需要一生才能趕上其中一個人在90 分鐘內噴出的碳量。 /p&gt;]]></description>
+      <description><![CDATA[在噴射機、遊艇和對破壞性公司的投資之間，億萬富翁們正在快速應對末日 儘管他們自稱是環保的善意者，但埃隆·馬斯克、傑夫貝佐斯等科技億萬富翁及其同類負有責任碳排放量如此之大，以至於普通人需要一生才能趕上其中一個人在90 分鐘內噴出的碳排放量。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/</guid>
       <pubDate>Wed, 30 Oct 2024 10:30:08 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Wed, 30 Oct 2024 08:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>據報道，OpenAI 向博通尋求客製化推理晶片的協助</title>
+      <title>據報道，OpenAI 向博通尋求客製化推理晶片的幫助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/</link>
-      <description><![CDATA[由TSMC 製造，需要…這是一個秘密 據報道，OpenAI 正在與Broadcom 洽談構建定制推理晶片。 virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[由TSMC 製造，需要......這是一個秘密 據報道OpenAI 正在與Broadcom 洽談構建定制推理芯片。 -#include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/</guid>
       <pubDate>Wed, 30 Oct 2024 07:24:06 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>AMD 調侃其 GPU 業務“接近 CPU 營運規模”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</link>
-      <description><![CDATA[得益於對Instinct 的興趣增加，第三季利潤較上季躍升191%，營收達62 億美元 AMD 繼續順應對其Instinct MI300X AI 加速器的需求浪潮，這是對Nvidia 的老牌產品的回應H100 – 在第三季度發布，預計該器件將在該晶片設計商 2024 財年期間帶來 50 億美元的收入。]]></description>
+      <description><![CDATA[得益於對Instinct 的興趣增加，第三季獲利較上季躍升191%，營收達62 億美元 AMD 繼續乘勢而上，迎合對其Instinct MI300X AI 加速器的需求浪潮，這是對Nvidia 的老牌產品的回應H100 – 在第三季度發布，預計該器件將在芯片設計商 2024 財年期間帶來 50 億美元的收入。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</guid>
       <pubDate>Wed, 30 Oct 2024 02:30:11 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 29 Oct 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>純粹 CPU 人工智慧的經濟問題</title>
+      <title>僅使用 CPU 的人工智慧帶來的麻煩經濟問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[不想無意中資助解放軍 美國財政部週一敲定了一項規則，限制國內實體對中國半導體和微電子、量子資訊技術和人工智慧的投資。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_china_investment_ban/</guid>
       <pubDate>Tue, 29 Oct 2024 13:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>資料中心開發商表示電力問題阻礙了新建設</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/datacenter_developer_says_power_issues/</link>
-      <description><![CDATA[希望投資「數億美元」的高層表示，「最大的限制是准入」 英國一家主要商業地產開發商表示，如果能夠的話，它將向新資料中心注入投資確保這些設施所需的能源供應，反映出全球日益嚴重的問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/datacenter_developer_says_power_issues/</guid>
-      <pubDate>Tue, 29 Oct 2024 12:39:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
