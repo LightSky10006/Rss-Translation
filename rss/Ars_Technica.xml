@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 17:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:43:09 GMT</lastBuildDate>
+    <item>
+      <title>Proton 將其 VPN 產品擴展到 Apple TV，但其用例變得棘手</title>
+      <link>https://arstechnica.com/gadgets/2024/10/proton-expands-its-vpn-offerings-to-apple-tv-where-the-use-cases-get-tricky/</link>
+      <description><![CDATA[為什麼有這麼多適用於 Apple TV 的 VPN？哦，對了——地理圍籬。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/proton-expands-its-vpn-offerings-to-apple-tv-where-the-use-cases-get-tricky/</guid>
+      <pubDate>Wed, 30 Oct 2024 18:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 在因從 FCC 計畫中獲取過多資金而被捕後自我讚揚</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/att-praises-itself-after-getting-caught-taking-too-much-money-from-fcc-program/</link>
+      <description><![CDATA[AT&amp;T獲得了針對重複用戶和非用戶的補貼，將支付230萬美元。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/att-praises-itself-after-getting-caught-taking-too-much-money-from-fcc-program/</guid>
+      <pubDate>Wed, 30 Oct 2024 18:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>在有爭議的變化中，Reddit 變得越來越受歡迎，而且越來越盈利</title>
+      <link>https://arstechnica.com/gadgets/2024/10/amid-controversial-changes-reddit-is-getting-more-popular-and-profitable/</link>
+      <description><![CDATA[隨著 Reddit 終於賺錢，昔日的 Reddit 已經一去不復返了。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/amid-controversial-changes-reddit-is-getting-more-popular-and-profitable/</guid>
+      <pubDate>Wed, 30 Oct 2024 18:13:15 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌執行長表示，超過 25% 的新谷歌程式碼是由人工智慧產生的</title>
       <link>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</link>
-      <description><![CDATA[我們一直使用工具來建立新工具，開發人員正在使用人工智慧延續這項傳統。]]></description>
+      <description><![CDATA[我們一直使用工具來建立新工具，開發人員正在使用人工智慧來延續這項傳統。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</guid>
       <pubDate>Wed, 30 Oct 2024 15:50:50 GMT</pubDate>
     </item>
@@ -27,7 +48,7 @@
       <pubDate>Wed, 30 Oct 2024 15:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>現代汽車預告一款三排 Ioniq 9 電動 SUV</title>
+      <title>現代汽車預告了一款三排 Ioniq 9 電動 SUV</title>
       <link>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</link>
       <description><![CDATA[Ioniq 9 的正式發布將於 11 月舉行。]]></description>
       <guid>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[接下來是大型火箭的熱火測試。]]></description>
       <guid>https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/</guid>
       <pubDate>Wed, 30 Oct 2024 13:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>這是一篇在宣布現代密碼學消亡之前沒有人讀過的論文</title>
-      <link>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</link>
-      <description><![CDATA[這種進步充其量只是漸進的。那為什麼這麼多人認為這是一個突破呢？]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</guid>
-      <pubDate>Wed, 30 Oct 2024 11:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>這些黃蜂分解酒精的速度如此之快，以至於它們不會喝醉</title>
-      <link>https://arstechnica.com/science/2024/10/these-hornets-break-down-alcohol-so-fast-that-they-cant-get-drunk/</link>
-      <description><![CDATA[“即使長期大量飲酒，也沒有中毒或生病的跡象。”]]></description>
-      <guid>https://arstechnica.com/science/2024/10/these-hornets-break-down-alcohol-so-fast-that-they-cant-get-drunk/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot 超越 OpenAI 模型，支援 Claude 3.5、Gemini</title>
-      <link>https://arstechnica.com/ai/2024/10/github-copilot-moves-beyond-openai-models-to-support-claude-3-5-gemini/</link>
-      <description><![CDATA[這項消息引發了人們的猜測，微軟將與其他人工智慧產品一起推出多種模式。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/github-copilot-moves-beyond-openai-models-to-support-claude-3-5-gemini/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:11:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
