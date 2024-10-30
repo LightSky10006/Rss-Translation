@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:15:33 GMT</lastBuildDate>
+    <item>
+      <title>谷歌執行長表示，超過 25% 的新谷歌程式碼是由人工智慧產生的</title>
+      <link>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</link>
+      <description><![CDATA[我們一直使用工具來建立新工具，而使用人工智慧的開發人員也延續了這項傳統。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:50:50 GMT</pubDate>
+    </item>
     <item>
       <title>ULA 在研究 Vulcan 助推器異常的同時，也正在調查整流罩問題</title>
       <link>https://arstechnica.com/space/2024/10/while-ula-studies-vulcan-booster-anomaly-its-also-investigating-fairing-issues/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>M2 和 M3 MacBook Air 型號無需額外付費即可升級至 16GB RAM</title>
       <link>https://arstechnica.com/apple/2024/10/theres-no-m4-macbook-air-this-week-but-the-8gb-m2-and-m3-models-are-going-away/</link>
-      <description><![CDATA[本週，無論是否有新處理器，所有基準 Mac 的記憶體都從 8GB 躍升至 16GB。]]></description>
+      <description><![CDATA[本週，無論是否有新處理器，所有基準 Mac 都從 8GB 躍升至 16GB。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/theres-no-m4-macbook-air-this-week-but-the-8gb-m2-and-m3-models-are-going-away/</guid>
       <pubDate>Wed, 30 Oct 2024 15:00:51 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>Apple 採用 M4 晶片更新 MacBook Pro 系列，推出 M4 Max</title>
       <link>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</link>
-      <description><![CDATA[更大的內存和更好的顯示支援使 1,599 美元的 Pro 更具吸引力。]]></description>
+      <description><![CDATA[更多內存和更好的顯示支援使 1,599 美元的 Pro 更具吸引力。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</guid>
       <pubDate>Wed, 30 Oct 2024 15:00:01 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[這項消息引發了人們的猜測，微軟將與其他人工智慧產品一起推出多種模式。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/github-copilot-moves-beyond-openai-models-to-support-claude-3-5-gemini/</guid>
       <pubDate>Tue, 29 Oct 2024 21:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars 重新設計 9.0.2 帶來了您所要求的文字選項</title>
-      <link>https://arstechnica.com/staff/2024/10/the-ars-redesign-9-0-2-brings-the-text-options-youve-requested/</link>
-      <description><![CDATA[寬螢幕模式、字體大小控制、超連結顏色等等！]]></description>
-      <guid>https://arstechnica.com/staff/2024/10/the-ars-redesign-9-0-2-brings-the-text-options-youve-requested/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
