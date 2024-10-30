@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 06:33:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 07:36:07 GMT</lastBuildDate>
+    <item>
+      <title>據報道，OpenAI 向博通尋求客製化推理晶片的協助</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/</link>
+      <description><![CDATA[由TSMC 製造，需要…這是一個秘密 據報道，OpenAI 正在與Broadcom 洽談構建定制推理晶片。 virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/</guid>
+      <pubDate>Wed, 30 Oct 2024 07:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>非 Nvidia 網路俱樂部召開會議尋求開放 GPU 互連</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/ualink_consortium_incorporated/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>AMD 調侃其 GPU 業務“接近 CPU 營運規模”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</link>
-      <description><![CDATA[得益於對Instinct 的興趣增加，第三季獲利較上季躍升191%，營收達62 億美元 AMD 繼續乘勢而上，迎合對其Instinct MI300X AI 加速器的需求浪潮，這是對Nvidia 的老牌產品的回應H100 – 在第三季度發布，預計該器件將在芯片設計商 2024 財年期間帶來 50 億美元的收入。]]></description>
+      <description><![CDATA[得益於對Instinct 的興趣增加，第三季利潤較上季躍升191%，營收達62 億美元 AMD 繼續順應對其Instinct MI300X AI 加速器的需求浪潮，這是對Nvidia 的老牌產品的回應H100 – 在第三季度發布，預計該器件將在該晶片設計商 2024 財年期間帶來 50 億美元的收入。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</guid>
       <pubDate>Wed, 30 Oct 2024 02:30:11 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 29 Oct 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>僅使用 CPU 的人工智慧帶來的麻煩經濟問題</title>
+      <title>純粹 CPU 人工智慧的經濟問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
@@ -125,9 +132,9 @@
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>默德！馬克宏的保鑣透過共享 Strava 數據揭示了他的位置</title>
+      <title>默德！馬克宏的保鑣透過分享 Strava 數據透露他的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</link>
-      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
+      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以被追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</guid>
       <pubDate>Tue, 29 Oct 2024 10:32:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[經過多年的拖延，具有「多樣化技術堆疊」的新系統需要1.95 億英鎊的交易 英國內政部已啟動技術支援和服務採購，以透過以下方式監督邊境管制和移民：合約估計價值高達 1.95 億英鎊（2.53 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/home_office_seeks_border_crossing_tech_help/</guid>
       <pubDate>Tue, 29 Oct 2024 09:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>五眼國家告訴科技新創公司要認真看待資訊安全。再次</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/five_eyes_secure_innovation_campaign/</link>
-      <description><![CDATA[他們只花了一年時間就提出了一些可怕的旅行建議和安全創新…餐墊？的承諾關於如何保持安全......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/five_eyes_secure_innovation_campaign/</guid>
-      <pubDate>Tue, 29 Oct 2024 08:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
