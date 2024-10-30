@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:45:43 GMT</lastBuildDate>
+    <item>
+      <title>雲遣返正式成為特定工作負載的趨勢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/cloud_repatriation_about_specific_workloads/</link>
+      <description><![CDATA[分析師表示，這並不是大規模的人員外流，而是商業機構正在將事情落實到現實 雲端市場的現實是，許多組織發現它沒有達到他們的期望，導致工作負載被轉移回本地或私有雲環境的趨勢不斷增長。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/cloud_repatriation_about_specific_workloads/</guid>
+      <pubDate>Wed, 30 Oct 2024 16:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>被解僱的迪士尼員工被指控侵入菜單以添加髒話、翅膀、刪除過敏原訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/fired_disney_employee_hacks_menu/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
       <pubDate>Tue, 29 Oct 2024 15:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理員更好地針對最新的關鍵開源漏洞採取行動</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/admins_spring_into_action_over/</link>
-      <description><![CDATA[補丁：Spring 框架主導 Java 生態系統 如果您正在運行使用 Spring 開發框架構建的應用程序，現在是檢查它是否完全更新的好時機 - 一個新的、關鍵的 -嚴重漏洞剛被揭露。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/admins_spring_into_action_over/</guid>
-      <pubDate>Tue, 29 Oct 2024 14:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
