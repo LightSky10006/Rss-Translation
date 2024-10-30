@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 30 Oct 2024 00:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 03:03:52 GMT</lastBuildDate>
+    <item>
+      <title>AMD 調侃其 GPU 業務“接近 CPU 營運規模”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</link>
+      <description><![CDATA[得益於對Instinct 的興趣增加，第三季獲利較上季躍升191%，營收達62 億美元 AMD 繼續乘勢而上，迎合對其Instinct MI300X AI 加速器的需求浪潮，這是對Nvidia 的老牌產品的回應H100 – 在第三季度發布，預計該器件將在芯片設計商 2024 財年期間帶來 50 億美元的收入。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/</guid>
+      <pubDate>Wed, 30 Oct 2024 02:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Alphabet 營收和利潤大幅成長，但僅裁員 1,100 人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/alphabet_q3_2024/</link>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 29 Oct 2024 16:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>純粹 CPU 人工智慧的經濟問題</title>
+      <title>僅使用 CPU 的人工智慧帶來的麻煩經濟問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</link>
       <description><![CDATA[歸根結底，一切都歸結為每美元的代幣 分析 如今，大多數 GenAI 模型都在 GPU 或其他專用加速器上進行訓練和運行，但這並不意味著它們必須如此。事實上，多家晶片製造商表示 CPU 足以滿足許多企業人工智慧用例的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/</guid>
@@ -104,9 +111,9 @@
       <pubDate>Tue, 29 Oct 2024 11:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>默德！馬克宏的保鑣透過分享 Strava 數據透露他的位置</title>
+      <title>默德！馬克宏的保鑣透過共享 Strava 數據揭示了他的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</link>
-      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以被追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
+      <description><![CDATA[據報道，不僅是法國總統，拜登和普丁也可以追蹤 相當於美國特勤局的法國機構可能已經放鬆了警惕，因為一項調查顯示，他們可以透過健身輕鬆追蹤到他們應用程式 Strava。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/</guid>
       <pubDate>Tue, 29 Oct 2024 10:32:08 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 29 Oct 2024 07:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>通緝。頂級資安專家願意以微薄的薪水保衛英國</title>
+      <title>通緝。頂級資訊安全專家願意以微薄的薪水保衛英國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</link>
-      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面遠遠缺乏競爭力。]]></description>
+      <description><![CDATA[GCHQ 招聘廣告以最低工資尋找頂尖人才 雖然政府支付的工資很少與私營部門的工資相匹配，但英國情報、安全和網絡機構似乎是一個在尋求人才方面還遠缺乏競爭力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/</guid>
       <pubDate>Tue, 29 Oct 2024 06:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 將阿耳忒彌斯 III 著陸目標名單縮小至 9 個</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/nasa_narrows_artemis_iii_landing/</link>
-      <description><![CDATA[每年的這個時候，蒙斯木桐高原看起來都很不錯。或者也許您更喜歡斯萊特平原？預計超過50 年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/nasa_narrows_artemis_iii_landing/</guid>
-      <pubDate>Tue, 29 Oct 2024 05:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
