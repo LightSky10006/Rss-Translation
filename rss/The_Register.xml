@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 29 Oct 2024 23:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 00:59:17 GMT</lastBuildDate>
+    <item>
+      <title>Alphabet 營收和利潤大幅成長，但僅裁員 1,100 人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/alphabet_q3_2024/</link>
+      <description><![CDATA[Google Cloud 得益於AI 的快速發展，目前所有G 代碼的四分之一都由AI 編寫 Alphabet 首席執行官Sundar Pichai 警告稱，司法部針對Google 壟斷行為提出的補救措施可能會影響美國在人工智慧領域的領導地位。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/alphabet_q3_2024/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:45:48 GMT</pubDate>
+    </item>
     <item>
       <title>山姆大叔揭露了一名被指控開發 Redline 資訊竊取惡意軟體的俄羅斯人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_redline_malware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[每年的這個時候，蒙斯木桐高原看起來都很不錯。或者也許您更喜歡斯萊特平原？預計超過50 年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/nasa_narrows_artemis_iii_landing/</guid>
       <pubDate>Tue, 29 Oct 2024 05:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國工程師將樹莓派連接到 600 公尺鐵路隧道以尋找漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/china_raspberry_pi_tunnel_testing/</link>
-      <description><![CDATA[如果你想測量混凝土的電導率，GPIO 會是一個方便的工具 中國科學家發現了 Raspberry Pi 的一個新用途：檢測鐵路隧道襯砌中的空隙，導致結構損壞，甚至倒塌。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/china_raspberry_pi_tunnel_testing/</guid>
-      <pubDate>Tue, 29 Oct 2024 03:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
