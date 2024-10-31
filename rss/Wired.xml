@@ -4,11 +4,25 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 31 Oct 2024 11:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 12:24:08 GMT</lastBuildDate>
+    <item>
+      <title>馬克祖克柏的中年危機</title>
+      <link>https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/</link>
+      <description><![CDATA[馬克·祖克柏的風格轉變只是個人品味的改變嗎？或者這位臭名昭著的科技大亨試圖告訴我們一些關於 Meta 的事情？]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-mark-zuckerberg-midlife-crisis/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>介紹《連線》的旗艦播客“恐怖谷”</title>
+      <link>https://www.wired.com/story/introducing-new-podcast-uncanny-valley/</link>
+      <description><![CDATA[人工智慧真的會改變世界嗎？工作和社交會被限制在虛擬宇宙中嗎？ 《恐怖谷》提供了對矽谷的人員、權力和影響力的內部觀察。]]></description>
+      <guid>https://www.wired.com/story/introducing-new-podcast-uncanny-valley/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>選舉前，社群媒體平台已經放棄</title>
       <link>https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/</link>
-      <description><![CDATA[如果你認為 2020 年很糟糕，那麼大型科技公司和美國政府的決定已經導致網路的情況變得更糟。]]></description>
+      <description><![CDATA[如果你認為 2020 年很糟糕，那麼大型科技公司和美國政府的決定導致了網路的情況變得更糟。]]></description>
       <guid>https://www.wired.com/story/tech-companies-abdicated-responsibility-for-their-platforms/</guid>
       <pubDate>Thu, 31 Oct 2024 11:00:00 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>你們當選的國會官員會接受選舉結果嗎？</title>
       <link>https://www.wired.com/story/congress-accept-election-results/</link>
-      <description><![CDATA[我們已詢問每位國會議員是否會接受美聯社公佈的結果。使用我們的工具看看您的代表如何回答。]]></description>
+      <description><![CDATA[我們已詢問每位國會議員是否會接受美聯社公佈的結果。使用我們的工具查看您的代表如何回答。]]></description>
       <guid>https://www.wired.com/story/congress-accept-election-results/</guid>
       <pubDate>Thu, 31 Oct 2024 10:00:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[這款注入人工智慧的二合一筆記型電腦具有出色的性能和驚人的電池壽命，但它有很多缺陷，而且鍵盤也很糟糕。]]></description>
       <guid>https://www.wired.com/review/samsung-galaxy-book5-pro-360/</guid>
       <pubDate>Wed, 30 Oct 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>「雙重標準與虛偽」：思科對加薩戰爭的異議</title>
-      <link>https://www.wired.com/story/cisco-dissent-gaza-israel-war/</link>
-      <description><![CDATA[思科員工向《連線》雜誌透露了他們在請求取消與以色列的合約以及更多地認識加薩人道危機時遇到的挑戰。]]></description>
-      <guid>https://www.wired.com/story/cisco-dissent-gaza-israel-war/</guid>
-      <pubDate>Wed, 30 Oct 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>透過雷射測繪找到了一座失落的瑪雅城市</title>
-      <link>https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/</link>
-      <description><![CDATA[考古學家利用先進的雷射測繪技術揭示了一座失落的瑪雅古城，挖掘出金字塔和廣場等紀念性建築。這座城市名為 Valeriana，據信建於西元 150 年之前。]]></description>
-      <guid>https://www.wired.com/story/lost-mayan-city-valeriana-lidar-discovery/</guid>
-      <pubDate>Wed, 30 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
