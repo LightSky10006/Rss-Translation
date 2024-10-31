@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 31 Oct 2024 14:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 16:15:22 GMT</lastBuildDate>
+    <item>
+      <title>新的任天堂音樂應用程式是否會導致任天堂對更多 DMCA 進行下架？</title>
+      <link>https://arstechnica.com/gaming/2024/10/will-the-new-nintendo-music-app-lead-to-more-dmca-takedowns-from-nintendo/</link>
+      <description><![CDATA[訂閱音樂應用程式給了任天堂打擊第三方音樂上傳的新理由。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/will-the-new-nintendo-music-app-lead-to-more-dmca-takedowns-from-nintendo/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式 AI 即將登陸 Google 地圖、Google 地球、Waze</title>
+      <link>https://arstechnica.com/cars/2024/10/generative-ai-is-coming-to-google-maps-google-earth-waze/</link>
+      <description><![CDATA[對話式搜尋、危險報告以及更詳細的地圖，這一切都歸功於人工智慧。]]></description>
+      <guid>https://arstechnica.com/cars/2024/10/generative-ai-is-coming-to-google-maps-google-earth-waze/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果川普解散NOAA，將會影響野火和食物價格</title>
+      <link>https://arstechnica.com/science/2024/10/if-trump-dismantles-the-noaa-it-will-affect-wildfires-and-food-prices/</link>
+      <description><![CDATA[拿走美國國家海洋和大氣管理局的天氣和氣候數據可能會導致食品價格上漲等。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/if-trump-dismantles-the-noaa-it-will-affect-wildfires-and-food-prices/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:10:31 GMT</pubDate>
+    </item>
     <item>
       <title>300% 的價格上漲將心懷不滿的 VMware 客戶推向 Broadcom 競爭對手</title>
       <link>https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/</link>
@@ -13,7 +34,7 @@
       <pubDate>Thu, 31 Oct 2024 11:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在大規模人工智慧投資中獲得巨額利潤</title>
+      <title>微軟公佈大規模人工智慧投資帶來的巨額利潤</title>
       <link>https://arstechnica.com/gadgets/2024/10/microsoft-reports-big-profits-amid-massive-ai-investments/</link>
       <description><![CDATA[Xbox 硬體銷量下降了 29%，但這幾乎沒有造成什麼影響。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/microsoft-reports-big-profits-amid-massive-ai-investments/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[Dropbox 去年也裁員了 500 人，但仍有「多餘的管理階層」。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/dropbox-lays-off-528-employees-slashing-total-workforce-by-20-percent/</guid>
       <pubDate>Wed, 30 Oct 2024 20:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>攔截銀行語音通話的 Android 木馬變得更加隱蔽</title>
-      <link>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</link>
-      <description><![CDATA[FakeCall 惡意軟體可以將原本打給銀行的電話重新路由到攻擊者控制的號碼。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</guid>
-      <pubDate>Wed, 30 Oct 2024 19:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>小唐尼計劃在墳墓之外與人工智慧再創造作鬥爭</title>
-      <link>https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/</link>
-      <description><![CDATA[在播客採訪中，演員對以數位方式再現他的肖像採取了堅定的立場。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:53:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proton 是奇特的「電視 VPN」市場的最新進入者</title>
-      <link>https://arstechnica.com/gadgets/2024/10/proton-expands-its-vpn-offerings-to-apple-tv-where-the-use-cases-get-tricky/</link>
-      <description><![CDATA[為什麼有這麼多適用於 Apple TV 的 VPN？哦，對了——地理圍籬。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/proton-expands-its-vpn-offerings-to-apple-tv-where-the-use-cases-get-tricky/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:28:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
