@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 31 Oct 2024 21:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 22:12:04 GMT</lastBuildDate>
+    <item>
+      <title>Windows 10 獲得額外一年的支援壽命，只需 30 美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_windows_10_support/</link>
+      <description><![CDATA[微軟終於將其擴展安全更新俱樂部擴展到消費者 微軟在作業系統生命週期結束之前為 Windows 10 用戶提供了一條生命線，為 Windows 10 用戶提供額外一年的補丁30美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_windows_10_support/</guid>
+      <pubDate>Thu, 31 Oct 2024 21:58:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟被指在化石燃料勘探中使用人工智慧“漂綠”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_greenwashing_ai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[就像他曾經著名的脾氣一樣，Linux 核心創作者也放棄了經典引擎...轉而支持電動車 馬克·祖克柏(Mark Zuckerberg) 坐在凱迪拉克CT5-V Blackwing 的方向盤後面，Open AI 的Sam Altman 得到駕駛科尼賽克 Regera 從 A 點到 B 點，對於我們許多人來說，埃隆馬斯克 (Elon Musk) 讓我們發瘋。但 Linux 頭目 Linus Torvalds 又如何呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/linus_torvalds_ev/</guid>
       <pubDate>Wed, 30 Oct 2024 17:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>雲遣返正式成為特定工作負載的趨勢</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/cloud_repatriation_about_specific_workloads/</link>
-      <description><![CDATA[分析師表示，這並不是大規模的人員外流，而是商業機構正在將事情落實到現實 雲端市場的現實是，許多組織發現它沒有達到他們的期望，導致工作負載被轉移回本地或私有雲環境的趨勢不斷增長。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/cloud_repatriation_about_specific_workloads/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
