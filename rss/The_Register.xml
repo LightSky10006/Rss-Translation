@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 31 Oct 2024 03:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 05:39:52 GMT</lastBuildDate>
+    <item>
+      <title>中國攻擊者連續五年訪問加拿大政府網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/canada_cybersec_threats/</link>
+      <description><![CDATA[印度首次進入可能威脅名單 加拿大通訊安全機構 (CSE) 的一份報告顯示，國家支持的行為者五年來一直從政府網絡收集有價值的資訊。 /p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/canada_cybersec_threats/</guid>
+      <pubDate>Thu, 31 Oct 2024 05:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 宣傳開源 Llama 模型的好處 – 達到自己的底線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[或：為什麼使用同一個iCloud 帳戶進行惡意軟體開發和遊戲是一個壞主意 美國政府已點名並指控俄羅斯國民馬克西姆·魯多梅托夫(Maxim Rudometov)，他涉嫌開發和管理臭名昭著的Redline 資訊竊取程式。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_redline_malware/</guid>
       <pubDate>Tue, 29 Oct 2024 23:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 ChatGPT 上施放十六進制來欺騙 AI 編寫漏洞程式碼</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</link>
-      <description><![CDATA[研究人員表示，「這就像看著一個機器人失控一樣」 OpenAI 的語言模型GPT-4o 可以透過以十六進位編碼惡意指令來誘騙編寫漏洞利用程式碼，這使得攻擊者能夠跳過0Din 研究員 Marco Figueroa 表示，該模型的內建安全護欄並濫用人工智慧用於邪惡目的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/</guid>
-      <pubDate>Tue, 29 Oct 2024 22:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
