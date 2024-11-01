@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 01 Nov 2024 01:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 03:48:29 GMT</lastBuildDate>
+    <item>
+      <title>日本宇宙航空研究開發機構將在其國際太空站模組退役之前建立數位孿生模型</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/jaxa_iss_digital_twin/</link>
+      <description><![CDATA[這就是太空經濟，愚蠢的 日本航太局週四宣布，它正在製作國際太空站 (ISS) 模組的開源數位副本，這被稱為世界上第一個“太空”數位孿生。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/jaxa_iss_digital_twin/</guid>
+      <pubDate>Fri, 01 Nov 2024 03:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾第三季虧損達到 $16.6B，華爾街…喜歡它嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/intel_q3_2024/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>該團夥從雲端和電子郵件提供者的垃圾 Git 配置中吞噬了 15K 憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</link>
-      <description><![CDATA[Emeraldwhale 團夥看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 後被發現。]]></description>
+      <description><![CDATA[Emeraldwhale 團夥看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 中後被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</guid>
       <pubDate>Thu, 31 Oct 2024 23:59:12 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 31 Oct 2024 05:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 強調開源 Llama 模型的好處 – 達到自己的底線</title>
+      <title>Meta 宣傳開源 Llama 模型的好處 – 達到自己的底線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/</link>
       <description><![CDATA[儘管基礎設施支出、人員數量、VR 損失增加，但Zuck 並不需要代幣 Meta 老闆馬克·祖克柏(Mark Zuckerberg) 告訴投資者，開源其Llama AI 模型並不完全是無私的- 他認為這會還可以節省他的社交媒體集團的錢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>艾瑞克·施密特表示，美國陸軍應該放棄坦克，轉而使用人工智慧無人機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/</link>
-      <description><![CDATA[你知道嗎，谷歌前首席執行官恰好有一個商業解決方案 谷歌前首席執行官埃里克·施密特認為美國陸軍應該淘汰“無用”的坦克，並用人工智慧驅動的無人機取而代之相反......]]></description>
+      <description><![CDATA[你知道嗎，谷歌前首席執行官恰好有一個商業解決方案 前谷歌首席執行官埃里克·施密特認為美國陸軍應該淘汰“無用”的坦克，並用人工智慧驅動的無人機取代它們相反......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/</guid>
       <pubDate>Wed, 30 Oct 2024 23:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 主題零日漏洞使用戶面臨 NTLM 憑證被盜的風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</link>
-      <description><![CDATA[加上免費的微補丁，直到雷蒙德修復該缺陷 存在一個 Windows 主題欺騙零日漏洞，允許攻擊者竊取人們的 NTLM 憑證。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</guid>
-      <pubDate>Wed, 30 Oct 2024 21:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
