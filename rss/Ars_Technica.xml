@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 01 Nov 2024 16:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:16:20 GMT</lastBuildDate>
+    <item>
+      <title>蘋果正在收購影像編輯公司 Pixelmator</title>
+      <link>https://arstechnica.com/gadgets/2024/11/apple-is-acquiring-image-editing-firm-pixelmator/</link>
+      <description><![CDATA[Apple 會保留 Photoshop 的少數單一收費替代品之一嗎？]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/apple-is-acquiring-image-editing-firm-pixelmator/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:39:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>充電器召回給 Humane 飽受詬病的 AI Pin 帶來更多壞消息</title>
+      <link>https://arstechnica.com/gadgets/2024/11/charger-recall-spells-more-bad-news-for-humanes-maligned-ai-pin/</link>
+      <description><![CDATA[Humane 在 6 月首次報告了便攜式充電器的過熱問題。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/charger-recall-spells-more-bad-news-for-humanes-maligned-ai-pin/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:33:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>蝙蝠利用迴聲定位來製作導航的心理地圖</title>
+      <link>https://arstechnica.com/science/2024/11/bats-use-echolocation-to-make-mental-maps-for-navigation/</link>
+      <description><![CDATA[儘管只能在短距離內工作，但迴聲定位足以讓蝙蝠回家。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/bats-use-echolocation-to-make-mental-maps-for-navigation/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:25:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>分心駕駛工具顯示您發送簡訊時可以行駛多遠</title>
+      <link>https://arstechnica.com/cars/2024/11/distracted-driving-simulator-shows-why-you-shouldnt-text-on-the-highway/</link>
+      <description><![CDATA[作為駕駛員，確保安全的關鍵是始終注視道路。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/distracted-driving-simulator-shows-why-you-shouldnt-text-on-the-highway/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>新研究顯示人工智慧對黑人和女性履歷表表現出明顯偏見</title>
+      <link>https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/</link>
+      <description><![CDATA[語言模型似乎將“男性和白人概念......視為‘默認’值”。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:59:28 GMT</pubDate>
+    </item>
     <item>
       <title>微軟再次延後Windows 11召回功能的推出</title>
       <link>https://arstechnica.com/gadgets/2024/11/microsoft-delays-rollout-of-the-windows-11-recall-feature-yet-again/</link>
@@ -27,7 +62,7 @@
       <pubDate>Fri, 01 Nov 2024 11:15:26 GMT</pubDate>
     </item>
     <item>
-      <title>火箭報道：新格倫現身； ULA 承認存在一些整流罩問題</title>
+      <title>火箭報告：新格倫現身； ULA 承認存在一些整流罩問題</title>
       <link>https://arstechnica.com/space/2024/11/rocket-report-new-glenn-shows-out-ula-acknowledges-some-fairing-issues/</link>
       <description><![CDATA[“我們已經整合了一些糾正措施和額外的檢查。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/rocket-report-new-glenn-shows-out-ula-acknowledges-some-fairing-issues/</guid>
@@ -39,41 +74,6 @@
       <description><![CDATA[歐洲國家不想繼續受制於星鏈、OneWeb 或其他網路。]]></description>
       <guid>https://arstechnica.com/space/2024/10/finally-a-sign-of-life-for-europes-sovereign-satellite-internet-constellation/</guid>
       <pubDate>Fri, 01 Nov 2024 00:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>小羅伯特甘迺迪聲稱川普承諾讓他負責 NIH、CDC 等機構</title>
-      <link>https://arstechnica.com/science/2024/10/rfk-jr-claims-trump-promised-to-put-him-in-charge-of-nih-cdc-and-more/</link>
-      <description><![CDATA[川普的過渡團隊領導人一邊否認承諾，一邊大肆宣揚反疫苗的廢話。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/rfk-jr-claims-trump-promised-to-put-him-in-charge-of-nih-cdc-and-more/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再只是 ChatGPT：Perplexity 和 Anthropic 的 Claude 獲得桌面應用程式</title>
-      <link>https://arstechnica.com/gadgets/2024/10/not-just-chatgpt-anymore-perplexity-and-anthropics-claude-get-desktop-apps/</link>
-      <description><![CDATA[兩者都在 OpenAI 發布 ChatGPT 應用程式幾週後發布。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/not-just-chatgpt-anymore-perplexity-and-anthropics-claude-get-desktop-apps/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>科羅拉多州在意外洩漏後緊急更改投票系統密碼</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/</link>
-      <description><![CDATA[「目標是在今晚之前完成密碼更新，」政府表示。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>《決勝時刻：黑色行動 6》上週佔康卡斯特網路流量的 19%</title>
-      <link>https://arstechnica.com/gaming/2024/10/call-of-duty-black-ops-6-accounted-for-19-of-comcast-internet-traffic-this-week/</link>
-      <description><![CDATA[當然，這要歸功於該系列的受歡迎程度，但也要歸功於其可笑的文件大小。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/10/call-of-duty-black-ops-6-accounted-for-19-of-comcast-internet-traffic-this-week/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>愛達荷州衛生區因反疫苗廢話氾濫而放棄了新冠疫苗注射</title>
-      <link>https://arstechnica.com/health/2024/10/idaho-health-district-abandons-covid-shots-amid-flood-of-anti-vaccine-nonsense/</link>
-      <description><![CDATA[著名的反疫苗人士說服該地區根本不提供新冠疫苗注射。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/idaho-health-district-abandons-covid-shots-amid-flood-of-anti-vaccine-nonsense/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:42:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
