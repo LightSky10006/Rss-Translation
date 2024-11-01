@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 01 Nov 2024 06:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 07:36:04 GMT</lastBuildDate>
+    <item>
+      <title>隱藏鍵盤 - 這是保持該軟體運作的唯一方法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/on_call/</link>
+      <description><![CDATA[午餐可能非常危險。茶也可以 隨叫隨到 到週五到來時，The Register 了解到讀者可能只想將一周剩下的工作時間拋在腦後，關心後果。這種厭倦感就是為什麼我們透過新一期的「On Call」讓您輕鬆度過工作週的最後一天，這是一個由讀者投稿的專欄，慶祝技術支援工作中有時愚蠢的一面。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/on_call/</guid>
+      <pubDate>Fri, 01 Nov 2024 07:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果超出預期，但中國市場下滑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</link>
-      <description><![CDATA[印度營收創歷史新高，並準備再開四家實體店 蘋果週四發布了 2024 財年第四季度業績，透露其在中國的銷售額開始下滑，並暗示面對華為和小米等國內廠商的競爭，市場已經飽和。]]></description>
+      <description><![CDATA[印度營收創歷史新高，並準備再開四家實體店 蘋果週四發布了 2024 財年第四季度業績，透露其在中國的銷售額開始下滑，並暗示面對華為、小米等國內廠商的競爭，市場已飽和......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</guid>
       <pubDate>Fri, 01 Nov 2024 06:30:09 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>該團夥從雲端和電子郵件提供者的垃圾 Git 配置中吞噬了 15K 憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</link>
-      <description><![CDATA[Emeraldwhale 團夥看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 中後被發現。]]></description>
+      <description><![CDATA[Emeraldwhale 團夥看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 後被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</guid>
       <pubDate>Thu, 31 Oct 2024 23:59:12 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 31 Oct 2024 05:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 宣傳開源 Llama 模型的好處 – 達到自己的底線</title>
+      <title>Meta 強調開源 Llama 模型的好處 – 達到自己的底線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/</link>
       <description><![CDATA[儘管基礎設施支出、人員數量、VR 損失增加，但Zuck 並不需要代幣 Meta 老闆馬克·祖克柏(Mark Zuckerberg) 告訴投資者，開源其Llama AI 模型並不完全是無私的- 他認為這會還可以節省他的社交媒體集團的錢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/</guid>
       <pubDate>Thu, 31 Oct 2024 03:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Equinix 將投資 5 億美元充實泰國金庫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/thailand_tech_hub/</link>
-      <description><![CDATA[又一個亞洲國家宣稱要成為科技中心 泰國贏得了兩項備受矚目的投資，這增強了其成為資料中心和半導體製造中心的雄心。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/thailand_tech_hub/</guid>
-      <pubDate>Thu, 31 Oct 2024 00:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
