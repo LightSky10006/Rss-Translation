@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 01 Nov 2024 16:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 17:14:28 GMT</lastBuildDate>
+    <item>
+      <title>畢竟，GCC 15 目前仍保留對 Itanium 的支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/gcc_15_keep_itanium_support/</link>
+      <description><![CDATA[現在，有人可以為這些東西設計一個模擬器嗎？ GCC 15 將不再支援 Linux 對 Intel 原始 64 位元晶片的支援。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/gcc_15_keep_itanium_support/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>如果川普當選，請盡快完成您的技術購買</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/us_trump_tariff/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[X 先生被勒令出席有關選舉彩票的萬聖節聽證會，因為他的律師提交了文件以躲避選舉 更新 埃隆·馬斯克已被勒令參加有關合法性的萬聖節聽證會他的選舉請願抽籤，但最後一刻的移除請求可能讓這位億萬富翁有機會與家人一起享受優質假期，或者進行更不懈的競選活動以幫助唐納德·特朗普當選。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/musk_election_lottery_hearing/</guid>
       <pubDate>Thu, 31 Oct 2024 14:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>LottieFiles 供應鏈攻擊使用戶面臨惡意加密錢包消耗者的威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/lottiefiles_supply_chain_attack/</link>
-      <description><![CDATA[對於廣受歡迎的網頁外掛背後的團隊來說，萬聖節的幾個小時令人恐懼 LottieFiles 在努力重新獲得對被用來利用用戶加密錢包的受損開發者帳戶的控制權後，克服了萬聖節的恐懼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/lottiefiles_supply_chain_attack/</guid>
-      <pubDate>Thu, 31 Oct 2024 11:55:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
