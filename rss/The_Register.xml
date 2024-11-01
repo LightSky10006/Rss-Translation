@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 31 Oct 2024 23:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 01:03:25 GMT</lastBuildDate>
+    <item>
+      <title>英特爾第三季虧損達到 $16.6B，華爾街…喜歡它嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/intel_q3_2024/</link>
+      <description><![CDATA[營收前景的改善使Chipzilla 的股價重新回到了積極的軌道上——至少目前如此。的虧損，因為它預訂了更多的資金超過180 億美元的重組和減值相關費用。 -&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/intel_q3_2024/</guid>
+      <pubDate>Fri, 01 Nov 2024 00:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>該團夥從雲端和電子郵件提供者的垃圾 Git 配置中吞噬了 15K 憑證</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</link>
+      <description><![CDATA[Emeraldwhale 團夥看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 後被發現。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</guid>
+      <pubDate>Thu, 31 Oct 2024 23:59:12 GMT</pubDate>
+    </item>
     <item>
       <title>Dropbox 將再裁員 500 名，CEO 承擔“全部責任”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/dropbox_layoffs/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[加上免費的微補丁，直到雷蒙德修復該缺陷 存在一個 Windows 主題欺騙零日漏洞，允許攻擊者竊取人們的 NTLM 憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/</guid>
       <pubDate>Wed, 30 Oct 2024 21:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 執行長感謝 AI 幫助網站最終扭虧為盈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/reddit_ceo_profit_ai/</link>
-      <description><![CDATA[在經歷了19 年的虧損之後，只需對其帖子進行機器翻譯即可擺脫虧損 在經歷了數月的不確定性之後，看來上市對於Reddit 的盈利來說是一件好事，因為該線上論壇剛剛公佈了其19 年曆史上的首次盈利。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/reddit_ceo_profit_ai/</guid>
-      <pubDate>Wed, 30 Oct 2024 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>粗略的財務狀況讓超微的審計師們四散奔逃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/30/supermicro_audit_ey_quit/</link>
-      <description><![CDATA[如果 SMCI 是 AI 安然，Ernst &amp; Young 不想與他們有任何關係 超微股價週三暴跌，在受聘審查其報告實踐的會計師事務所在確定這些報告過於粗略而無法保證後辭職後，股價暴跌超過 30%風險… …]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/30/supermicro_audit_ey_quit/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
