@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 01 Nov 2024 22:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 02:14:06 GMT</lastBuildDate>
+    <item>
+      <title>當北韓軍隊向烏克蘭進軍時，俄羅斯的交換條件是否會觸及太空？</title>
+      <link>https://arstechnica.com/space/2024/11/in-exchange-for-troops-in-ukraine-russian-aid-to-north-korea-may-extend-to-space/</link>
+      <description><![CDATA[俄羅斯和北韓之間剛萌芽的夥伴關係現在可能正在太空中蓬勃發展。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/in-exchange-for-troops-in-ukraine-russian-aid-to-north-korea-may-extend-to-space/</guid>
+      <pubDate>Sat, 02 Nov 2024 00:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>數以千計的 TP-Link 路由器被黑，用於長達數年的帳號接管攻擊</title>
+      <link>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</link>
+      <description><![CDATA[這個殭屍網路被巧妙地用來發動「高度規避」的密碼噴射攻擊。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</guid>
+      <pubDate>Sat, 02 Nov 2024 00:13:20 GMT</pubDate>
+    </item>
     <item>
       <title>由於醫院面臨靜脈輸液短缺，NC 工廠重新啟動生產</title>
       <link>https://arstechnica.com/health/2024/11/as-hospitals-struggle-with-iv-fluid-shortage-nc-plant-restarts-production/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[語言模型似乎將“男性和白人概念......視為‘默認’值”。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/study-ais-prefer-white-male-names-on-resumes-just-like-humans/</guid>
       <pubDate>Fri, 01 Nov 2024 16:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟再次延後Windows 11召回功能的推出</title>
-      <link>https://arstechnica.com/gadgets/2024/11/microsoft-delays-rollout-of-the-windows-11-recall-feature-yet-again/</link>
-      <description><![CDATA[在收到安全投訴後，微軟致力於使 Recall 變得「安全且值得信賴」。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/microsoft-delays-rollout-of-the-windows-11-recall-feature-yet-again/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的牙科騙局是拔出健康的牙齒來賣給你昂貴的假牙</title>
-      <link>https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/</link>
-      <description><![CDATA[事實證明您可能根本不需要這些植入物。]]></description>
-      <guid>https://arstechnica.com/health/2024/11/more-dentists-are-pulling-healthy-teeth-to-sell-pricy-implants-experts-warn/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:35:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
