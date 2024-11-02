@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 02 Nov 2024 11:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 12:21:44 GMT</lastBuildDate>
+    <item>
+      <title>Model Y 正在進行改造，加入為狗設計和由狗設計的汽車行列</title>
+      <link>https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/</link>
+      <description><![CDATA[特斯拉即將推出的 Model Y 更新可能會被推遲，以使其對狗狗更加友好，但這絕不是第一款為狗狗設計的汽車。]]></description>
+      <guid>https://www.wired.com/story/the-model-y-is-getting-a-mutt-makeover-joining-the-list-of-cars-designed-for-and-by-dogs/</guid>
+      <pubDate>Sat, 02 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Netflix 上最好的 49 部電影（2024 年 11 月）</title>
       <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>選舉暴力已經來臨</title>
       <link>https://www.wired.com/story/election-violence-is-already-here/</link>
-      <description><![CDATA[炸彈、鬥毆和被盜郵寄選票已經上演，2024 年的選舉將變得異常混亂。 《連線》正在追蹤這些事件的進展。]]></description>
+      <description><![CDATA[由於炸彈、鬥毆和被盜郵寄選票已經上演，2024 年的選舉將變得異常混亂。 《連線》正在追蹤這些事件的進展。]]></description>
       <guid>https://www.wired.com/story/election-violence-is-already-here/</guid>
       <pubDate>Fri, 01 Nov 2024 16:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[距離美國選舉日還有不到五天，大多數人都會情不自禁地查看新聞——或者 TikTok 或 X——但他們所看到的內容會讓他們的焦慮更加嚴重。這是有原因的。]]></description>
       <guid>https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/</guid>
       <pubDate>Fri, 01 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>零點擊漏洞可能使數百萬流行儲存裝置遭受攻擊</title>
-      <link>https://www.wired.com/story/synology-zero-click-vulnerability/</link>
-      <description><![CDATA[Synology 網路連接儲存裝置上預設安裝的照片應用程式中被歸類為「嚴重」的漏洞可能使攻擊者能夠竊取數據，甚至更糟。]]></description>
-      <guid>https://www.wired.com/story/synology-zero-click-vulnerability/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
