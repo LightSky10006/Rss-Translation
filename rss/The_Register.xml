@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 10:42:14 GMT</lastBuildDate>
+    <item>
+      <title>公共部門網路入侵：我們的金錢、我們的生命、我們的知情權</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/public_sector_breakins_opinion/</link>
+      <description><![CDATA[您的伺服器日誌中是海象嗎？倫敦交通局是負責運送倫敦許多人在首都工作和娛樂的公共機構，由於這次襲擊沒有影響電力、信號或通訊系統，因此大部分影響都沒有被通勤者註意到。該組織淡化了對後台票務、計費和其他系統造成的損害。一切盡在掌握。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/public_sector_breakins_opinion/</guid>
+      <pubDate>Mon, 04 Nov 2024 10:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>GlobalFoundries 因違反美國制裁被罰款 50 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/globalfoundries_blacklist_violation/</link>
@@ -22,21 +29,21 @@
     <item>
       <title>新加坡將透過 GPS 追蹤所有車輛來增加道路通行能力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</link>
-      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人號碼卡也很快成為駕駛執照；香港行政長官警告美國投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
+      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人號碼卡也很快成為駕駛執照；香港行政長官警告美國的投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</guid>
       <pubDate>Sun, 03 Nov 2024 23:59:14 GMT</pubDate>
     </item>
     <item>
       <title>6 名 IT 承包商因詐騙山姆大叔數百萬美元而被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/6_it_contractors_arrested_for/</link>
-      <description><![CDATA[此外，電子商務詐欺集團被搗亂、「斷電行動」再次取得勝利、Sino SOHO 殭屍網路被發現等等 簡述 美國司法部已對六人提出兩項指控分別計劃詐騙山姆大叔與 IT 產品和服務合約相關的數百萬美元。 ...]]></description>
+      <description><![CDATA[此外，電子商務詐欺集團被搗亂、「斷電行動」再次獲勝、Sino SOHO 殭屍網路被發現等等 簡述 美國司法部已對六人提出兩項指控分別計劃詐騙山姆大叔與 IT 產品和服務合約相關的數百萬美元。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/6_it_contractors_arrested_for/</guid>
       <pubDate>Sun, 03 Nov 2024 18:30:06 GMT</pubDate>
     </item>
     <item>
       <title>您剛申請的職位可能是永遠不會被填補的“幽靈工作”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/ghost_job_epidemic/</link>
-      <description><![CDATA[事實證明，浪費申請人的時間、利用帖子來提高員工的工作效率是完全合法的 如果您沒有收到關於您申請的那個看起來很棒的技術職位的回复，它可能會並不是因為在輪流裁員中，有太多求職者爭先恐後地找工作。該帖子很可能一開始就是假的。]]></description>
+      <description><![CDATA[事實證明，浪費申請人的時間、利用帖子來提高員工的工作效率是完全合法的 如果您沒有收到關於您申請的那個看起來很棒的技術職位的回复，它可能會並不是因為在輪流裁員的情況下，太多求職者爭先恐後地找工作。該帖子很可能一開始就是假的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/ghost_job_epidemic/</guid>
       <pubDate>Sun, 03 Nov 2024 08:30:09 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>金融機構被告知要在下一次 CrowdStrike 罷工之前收拾好自己的房子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/02/fca_it_resilience/</link>
-      <description><![CDATA[新規則生效後，改進的呼聲很快就會變成要求 英國金融監管機構正在敦促其職權範圍內的所有機構更好地為IT 崩潰做好準備，例如7月份的CrowdStrike 事件。]]></description>
+      <description><![CDATA[新規則生效後，對改進的呼聲很快就會變成要求 英國金融監管機構正在敦促其職權範圍內的所有機構更好地為IT 崩潰做好準備，例如7 月份的CrowdStrike 事件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/02/fca_it_resilience/</guid>
       <pubDate>Sat, 02 Nov 2024 09:30:08 GMT</pubDate>
     </item>
@@ -85,19 +92,19 @@
     <item>
       <title>如果川普當選，請盡快完成您的技術購買</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/us_trump_tariff/</link>
-      <description><![CDATA[對所有中國商品徵收 60% 的關稅將重創 IT 行業 關稅已成為當前美國大選的一個主要問題，前總統唐納德·特朗普聲稱他計劃將 10-20對中國的進口關稅提高到60%，將為政府財政減稅提供充足的資金，並使美國製造業再次偉大。他的競爭對手卡馬拉·哈里斯稱這些計劃是“對美國人民徵收銷售稅”。]]></description>
+      <description><![CDATA[對所有中國商品徵收 60% 的關稅將重創 IT 行業 關稅已成為當前美國大選的一個主要問題，前總統唐納德·特朗普聲稱他計劃將 10-20對中國的進口關稅提高到60%，將為政府財政減稅提供充足的資金，並使美國製造業再次偉大。他的競爭對手卡瑪拉·哈里斯稱這些計劃是「對美國人民徵收銷售稅」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/us_trump_tariff/</guid>
       <pubDate>Fri, 01 Nov 2024 15:30:11 GMT</pubDate>
     </item>
     <item>
       <title>亞馬遜 2024 年資本支出將達 75B 美元，明年還會增加</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/amazon_75b_capex/</link>
-      <description><![CDATA[儘管延長了伺服器的使用壽命，但人工智慧的電力需求推動了更多資料中心的建設 由於需求不斷增長，亞馬遜預計2024 年將花費750 億美元的資本支出， 2025 年甚至更多- 主要用於其雲端運算業務對於生成式 AI 以及越來越多的客戶放棄其本地工作負載。]]></description>
+      <description><![CDATA[儘管延長了伺服器的使用壽命，但人工智慧的電力需求推動了更多資料中心的建設 由於需求不斷增長，亞馬遜預計2024 年將花費750 億美元的資本支出， 2025 年甚至更多- 主要用於其雲端運算業務對於生成式人工智慧以及越來越多的客戶放棄其本地工作負載。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/amazon_75b_capex/</guid>
       <pubDate>Fri, 01 Nov 2024 14:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>反應引擎公司的高超音速希望因資金耗盡而陷入停滯</title>
+      <title>反應發動機公司的高超音速希望因資金耗盡而陷入停滯</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/reaction_engines_administration/</link>
       <description><![CDATA[吸氣式火箭計畫失去升力後，173 個工作崗位消失了 更新 航空航天專家反應發動機公司已進入破產管理程序，可能會帶走由其驅動的高超音速飛機的夢想混合吸氣式火箭發動機技術…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/reaction_engines_administration/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Fri, 01 Nov 2024 10:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>大量的自由開源軟體應該感謝學院</title>
+      <title>大量的自由和開源軟體應該感謝學院</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/aswf_foss_oscars/</link>
       <description><![CDATA[ASWF 是由頒發奧斯卡獎的人們經營的開源基金會，您可能已經看到了結果 2024 年Ubuntu 峰會 這是我們所做的事情之一&#39;預計在今年的 Ubuntu 聚會上會看到一張顯示 Rocky Linux 統治地位的圖表。另一個是以開源元件為核心的酷炫特效電影效果示範。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/aswf_foss_oscars/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>蘋果超出預期，但中國市場下滑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</link>
-      <description><![CDATA[印度營收創歷史新高，並準備再開四家實體店 蘋果週四發布了 2024 財年第四季度業績，透露其在中國的銷售額開始下滑，並暗示面對華為、小米等國內廠商的競爭，市場已飽和......]]></description>
+      <description><![CDATA[印度營收創歷史新高，並準備再開四家實體店 蘋果週四發布了 2024 財年第四季度業績，透露其在中國的銷售額開始下滑，並暗示面對華為和小米等國內廠商的競爭，市場已經飽和。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</guid>
       <pubDate>Fri, 01 Nov 2024 06:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本宇宙航空研究開發機構將在其國際太空站模組退役之前建立數位孿生模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/jaxa_iss_digital_twin/</link>
-      <description><![CDATA[這就是太空經濟，愚蠢的 日本航太局週四宣布，它正在製作國際太空站 (ISS) 模組的開源數位副本，這被稱為世界上第一個“太空”數位孿生。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/jaxa_iss_digital_twin/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
