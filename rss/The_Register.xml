@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 04 Nov 2024 22:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 22:35:56 GMT</lastBuildDate>
+    <item>
+      <title>據報道，Meta 的核數據中心計劃被蜜蜂破壞了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/meta_ai_datacenter_bee/</link>
+      <description><![CDATA[報告稱，環境和監管障礙導致人工智慧位元農場被取消 Meta 為人工智慧工作負載建立核動力數據中心的計劃因錯誤（特別是蜜蜂）而被取消。 . p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/meta_ai_datacenter_bee/</guid>
+      <pubDate>Mon, 04 Nov 2024 22:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>眾議院議長對廢除法案的計劃猶豫不決，CHIPS 法案的資金存在問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/chips_act_repeal/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>Apple 正在製作《Oregon Trail》動作喜劇電影</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/02/oregon_trail_action_comedy_film/</link>
-      <description><![CDATA[希望觀看它不會比死於痢疾那麼痛苦 X 世代和年長的千禧世代，應該慶幸——也可能不慶幸：蘋果即將推出一部《俄勒岡小徑》電影。 … ]]></description>
+      <description><![CDATA[希望觀看它不會比死於痢疾那麼痛苦 X 世代和年長的千禧一代，應該慶幸——也可能不慶幸：Apple 即將推出一部《Oregon Trail》電影。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/02/oregon_trail_action_comedy_film/</guid>
       <pubDate>Sat, 02 Nov 2024 20:00:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[別太興奮了，富士通的下一代晶片要到2027 年才會發貨 富士通和AMD 週五宣布計劃開發一種新的、更節能的AI 和HPC 計算平台，該平台將將日本技術供應商的下一代 CPU 與 House of Zen 的 Instinct 加速器配對。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/amd_fujitsu_monaka_instinct/</guid>
       <pubDate>Fri, 01 Nov 2024 19:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟嘗試使用木製穀倉來減少建築排放</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/microsoft_wooden_datacenters/</link>
-      <description><![CDATA[這兩個混合資料中心承諾比鋼結構建築減少35% 的碳排放，比混凝土建築減少65% 微軟正在試驗用木材製成的資料中心，以減少不斷增長的溫室氣體(GHG)因建造其不斷擴大的比特穀倉網路而產生的排放......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/microsoft_wooden_datacenters/</guid>
-      <pubDate>Fri, 01 Nov 2024 18:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
