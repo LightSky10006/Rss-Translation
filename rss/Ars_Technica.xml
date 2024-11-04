@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 04 Nov 2024 15:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 17:11:23 GMT</lastBuildDate>
+    <item>
+      <title>中國展示了一種新型重型運載火箭，它是 SpaceX 星際飛船的克隆版</title>
+      <link>https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/</link>
+      <description><![CDATA[長徵九號配備了襟翼和可重複使用的上級。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/chinas-long-term-lunar-plans-now-depend-on-developing-its-own-starship/</guid>
+      <pubDate>Mon, 04 Nov 2024 16:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>儘管人工智慧準確性警告，困惑仍將顯示美國即時選舉結果</title>
+      <link>https://arstechnica.com/ai/2024/11/perplexity-will-show-live-us-election-results-despite-ai-accuracy-warnings/</link>
+      <description><![CDATA[AI 搜尋引擎透過即時追蹤器和聊天機器人資訊中心迎接 2024 年美國大選。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/perplexity-will-show-live-us-election-results-despite-ai-accuracy-warnings/</guid>
+      <pubDate>Mon, 04 Nov 2024 15:52:24 GMT</pubDate>
+    </item>
     <item>
       <title>瀕臨滅絕的蜜蜂阻止了 Meta 的核動力人工智慧資料中心計劃</title>
       <link>https://arstechnica.com/ai/2024/11/endangered-bees-stop-metas-plan-for-nuclear-powered-ai-data-center/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[俄羅斯和北韓之間剛萌芽的夥伴關係現在可能正在太空中蓬勃發展。]]></description>
       <guid>https://arstechnica.com/space/2024/11/in-exchange-for-troops-in-ukraine-russian-aid-to-north-korea-may-extend-to-space/</guid>
       <pubDate>Sat, 02 Nov 2024 00:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>數以千計的 TP-Link 路由器被黑，用於長達數年的帳號接管攻擊</title>
-      <link>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</link>
-      <description><![CDATA[這個殭屍網路被巧妙地用來發動「高度規避」的密碼噴射攻擊。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/</guid>
-      <pubDate>Sat, 02 Nov 2024 00:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於醫院面臨靜脈輸液短缺，NC 工廠重新啟動生產</title>
-      <link>https://arstechnica.com/health/2024/11/as-hospitals-struggle-with-iv-fluid-shortage-nc-plant-restarts-production/</link>
-      <description><![CDATA[首批批次最快將於 11 月下旬出貨。]]></description>
-      <guid>https://arstechnica.com/health/2024/11/as-hospitals-struggle-with-iv-fluid-shortage-nc-plant-restarts-production/</guid>
-      <pubDate>Fri, 01 Nov 2024 21:42:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
