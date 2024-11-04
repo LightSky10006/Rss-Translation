@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 04 Nov 2024 15:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:39:07 GMT</lastBuildDate>
+    <item>
+      <title>在 FOSS 事件發生後，Bitwarden 將密碼管理器和 SDK 切換為 GPL3</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/</link>
+      <description><![CDATA[開源工具選擇變得比以往更加開放 不要害怕，FOSS 粉絲。 Bitwarden 畢竟不是專有的。該公司再次更改了許可條款，但這一次，它已將其軟體開發工具包的許可從自己開發的許可切換為 GPL 的第三版。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/</guid>
+      <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>管理員們做好準備－Windows Server 2025 正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[吸氣式火箭計畫失去升力後，173 個工作崗位消失了 更新 航空航天專家反應發動機公司已進入破產管理程序，可能會帶走由其驅動的高超音速飛機的夢想混合吸氣式火箭發動機技術…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/reaction_engines_administration/</guid>
       <pubDate>Fri, 01 Nov 2024 12:53:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國議會擊退親俄鍵盤戰士的 DDoS 攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/uk_councils_russia_ddos/</link>
-      <description><![CDATA[地方當局網站因重新支持烏克蘭而被關閉 本週，在親俄羅斯網絡滋擾將多個英國議會的網站添加到每日目標列表後，其網站要么被關閉，要么居民無法訪問...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/uk_councils_russia_ddos/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:58:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
