@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 04 Nov 2024 10:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 11:36:28 GMT</lastBuildDate>
+    <item>
+      <title>名字怎麼這麼長？ Okta 揭露了影響 52 個字元使用者名稱的身份驗證繞過錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/why_the_long_name_okta/</link>
+      <description><![CDATA[顯然，如果未啟用MFA，週一會檢查數月的日誌 對於那些擁有長名稱和/或擁有詳細網域的雇主來說，這可能是個壞消息，Okta 發現了一個安全漏洞，可能會導致允許犯罪分子僅使用使用者名稱透過 Okta AD/LDAP 委託身份驗證 (DelAuth)。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/why_the_long_name_okta/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>公共部門網路入侵：我們的金錢、我們的生命、我們的知情權</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/public_sector_breakins_opinion/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[午餐可能非常危險。茶也可以 隨叫隨到 到週五到來時，The Register 了解到讀者可能只想將一周剩下的工作時間拋在腦後，關心後果。這種厭倦感就是為什麼我們透過新一期的「On Call」讓您輕鬆度過工作週的最後一天，這是一個由讀者投稿的專欄，慶祝技術支援工作中有時愚蠢的一面。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/on_call/</guid>
       <pubDate>Fri, 01 Nov 2024 07:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果超出預期，但中國市場下滑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</link>
-      <description><![CDATA[印度營收創歷史新高，並準備再開四家實體店 蘋果週四發布了 2024 財年第四季度業績，透露其在中國的銷售額開始下滑，並暗示面對華為和小米等國內廠商的競爭，市場已經飽和。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/</guid>
-      <pubDate>Fri, 01 Nov 2024 06:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
