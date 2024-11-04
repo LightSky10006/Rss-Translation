@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 03 Nov 2024 18:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 01:00:17 GMT</lastBuildDate>
+    <item>
+      <title>新加坡將透過 GPS 追蹤所有車輛來增加道路通行能力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</link>
+      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人編號卡也很快成為駕駛執照；香港行政長官警告美國投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</guid>
+      <pubDate>Sun, 03 Nov 2024 23:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>6 名 IT 承包商因詐騙山姆大叔數百萬美元而被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/6_it_contractors_arrested_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Emeraldwhale 看起來很敏銳- 直到它犯了一個常見的S3 存儲桶錯誤 一個名為Emeraldwhale 的犯罪活動在將屬於雲端服務和電子郵件提供商的超過15,000 個憑證轉儲到開放的AWS S3 儲存桶中後被發現據安全研究人員稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/</guid>
       <pubDate>Thu, 31 Oct 2024 23:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dropbox 將再裁員 500 名，CEO 承擔“全部責任”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/10/31/dropbox_layoffs/</link>
-      <description><![CDATA[Cloudy 公司在多輪裁員中也斥資超過5 億美元回購自己的股票 Cloudy 檔案傳輸公司Dropbox 已裁掉約20% 的員工，第二輪裁員不到20% 。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/10/31/dropbox_layoffs/</guid>
-      <pubDate>Thu, 31 Oct 2024 23:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
