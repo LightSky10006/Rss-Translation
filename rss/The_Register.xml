@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 17:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 18:16:33 GMT</lastBuildDate>
+    <item>
+      <title>新澤西州男子承認向俄羅斯運送違反制裁的技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/russia_sanctions_busting/</link>
+      <description><![CDATA[攜帶淘氣物品在邊境被捕 瓦迪姆·耶爾莫連科(Vadim Yermolenko)，43 歲，擁有美國和俄羅斯雙重國籍，新澤西州居民，已承認多項與他在破壞制裁中所扮演角色相關的指控一個在美國和歐洲活動了近八年的團伙的成員。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/russia_sanctions_busting/</guid>
+      <pubDate>Tue, 05 Nov 2024 17:40:12 GMT</pubDate>
+    </item>
     <item>
       <title>法官決定不阻止馬斯克 100 萬美元的選舉贈品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/judge_musks_1m_election_giveaway/</link>
@@ -83,9 +90,9 @@
       <pubDate>Tue, 05 Nov 2024 08:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>法國財政委員會探討將 Atos 資產國有化的修正案</title>
+      <title>法國政府財務小組考慮將 Atos 收歸國有</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/</link>
-      <description><![CDATA[保護法國軍隊和公共部門其他部門的IT 項目 法國財政委員會正在研究一項2025 年財政法案的法律修正案，該法案目前正在該國議會審議，該法案將使Atos 國有化7000 萬歐元的資金用於探索這筆交易。]]></description>
+      <description><![CDATA[保護軍事和公共部門其他部分的IT 項目 法國政府財務委員會正在考慮對2025 年財政法案進行法律修正案，該法案目前正在該國議會審議，該法案將使Atos國有化7000 萬歐元的資金用於探索這筆交易。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/</guid>
       <pubDate>Tue, 05 Nov 2024 07:28:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[麥克·約翰遜(Mike Johnson) 與川普決裂，現在建議簡化資金法案中的監管 更新 美國晶片和科學法案的未來可能取決於週二眾議院選舉結果議長邁克·約翰遜 (Mike Johnson) 表示，如果共和黨在國會贏得多數席位，該黨可能會廢除 2800 億美元的撥款法案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/chips_act_repeal/</guid>
       <pubDate>Mon, 04 Nov 2024 20:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑屏仍然困擾著 Windows 10 Azure 虛擬桌面用戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</link>
-      <description><![CDATA[與此同時，即使是任務管理器也無法與損壞的補丁相媲美 儘管Windows 10 的支援時間還不到一年，但Microsoft 再次證明了其通過看似無害的更新來破壞事物的能力.... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
