@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 04 Nov 2024 23:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 00:57:06 GMT</lastBuildDate>
+    <item>
+      <title>發佈到 NPM 的數百個程式碼庫嘗試在開發電腦上安裝惡意軟體</title>
+      <link>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</link>
+      <description><![CDATA[這些不是您想像的開發人員工具。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</guid>
+      <pubDate>Mon, 04 Nov 2024 23:28:49 GMT</pubDate>
+    </item>
     <item>
       <title>注射減肥藥中發現黑色schmutz後，藥廠被關閉</title>
       <link>https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/</link>
@@ -20,9 +27,9 @@
       <pubDate>Mon, 04 Nov 2024 22:43:20 GMT</pubDate>
     </item>
     <item>
-      <title>澤米基斯的新電影利用人工智慧讓湯姆漢克斯和羅賓賴特變老</title>
+      <title>澤米吉斯的新電影利用人工智慧讓湯姆漢克斯和羅賓賴特變老</title>
       <link>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</link>
-      <description><![CDATA[時間跳躍電影這裡使用人工智慧對湯姆漢克斯的每部電影進行訓練，讓他再次顯得年輕。]]></description>
+      <description><![CDATA[時空跳躍電影《這裡》使用人工智慧對湯姆漢克斯的每部電影進行訓練，讓他再次顯得年輕。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</guid>
       <pubDate>Mon, 04 Nov 2024 21:28:38 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[隨著晶片產業重新關注人工智慧，股指的上漲反映了象徵性的市場轉變。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</guid>
       <pubDate>Mon, 04 Nov 2024 17:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>厭倦了超大電動車？ 2025 年現代 Kona Electric 恰到好處。</title>
-      <link>https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/</link>
-      <description><![CDATA[它不太大，也不太重，而且非常非常有效率。]]></description>
-      <guid>https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:18:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
