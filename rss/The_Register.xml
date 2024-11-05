@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 07:35:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 08:16:33 GMT</lastBuildDate>
+    <item>
+      <title>VMware by Broadcom 尋找朋友來推廣其私有雲和人工智慧願景</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_explore_europe/</link>
+      <description><![CDATA[使用者小組成員提供了更慷慨的折扣和許可證，我們確信沒有人會濫用 探索 VMware by Broadcom 繼續其收購前的傳統，即利用其歐洲會議來公開一些產品更新...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_explore_europe/</guid>
+      <pubDate>Tue, 05 Nov 2024 08:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>法國政府對 Atos 國有化表示讚賞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/</link>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 04 Nov 2024 20:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>黑屏仍然困擾著 Windows 10 Azure 虛擬桌面用戶</title>
+      <title>黑屏仍然困擾 Windows 10 Azure 虛擬桌面用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</link>
       <description><![CDATA[與此同時，即使是任務管理器也無法與損壞的補丁相媲美 儘管Windows 10 的支援時間還不到一年，但Microsoft 再次證明了其通過看似無害的更新來破壞事物的能力.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>微軟為了吸引用戶使用 Bing 已經達到了 100 萬美元的贈品水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</link>
-      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是一項100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
+      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是進行了100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</guid>
       <pubDate>Mon, 04 Nov 2024 16:21:20 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>管理員們，請繫好安全帶－Windows Server 2025 正式發布</title>
+      <title>管理員們，請繫好安全帶 – Windows Server 2025 正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
       <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[「不要固步自封」這句話可能是陳腔濫調，但你真的不應該 誰，我？以及另一劑《誰，我？ – Reg 的每周安全空間，讀者可以在其中提交技術支援不如他們希望的那麼好的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/who_me/</guid>
       <pubDate>Mon, 04 Nov 2024 05:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡將透過 GPS 追蹤所有車輛來增加道路通行能力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</link>
-      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人編號卡也很快成為駕駛執照；香港行政長官警告美國投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</guid>
-      <pubDate>Sun, 03 Nov 2024 23:59:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
