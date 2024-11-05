@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 03:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:43:28 GMT</lastBuildDate>
     <item>
-      <title>蘋果公司驅逐勞工組織開發者“違反了法律”</title>
+      <title>谷歌聲稱 Big Sleep 是「第一個」人工智慧，能夠發現模糊測試漏掉的新出現的安全漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_ai_vulnerability_hunting/</link>
+      <description><![CDATA[你打瞌睡，你就輸了，呃，贏了 Google 聲稱其AI 模型是同類中第一個在野外發現內存安全漏洞的模型，特別是SQLite 中可利用的堆疊緩衝區下溢– 然後在有問題的程式碼正式發布之前修復了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_ai_vulnerability_hunting/</guid>
+      <pubDate>Tue, 05 Nov 2024 06:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果驅逐勞工組織開發者“違反了法律”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</link>
       <description><![CDATA[侵犯勞工權利？是 iTitan 的嗎？當然不是！越深。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>微軟為了吸引用戶使用 Bing 已經達到了 100 萬美元的贈品水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</link>
-      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是一項100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
+      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是進行了100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</guid>
       <pubDate>Mon, 04 Nov 2024 16:21:20 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>管理員們，請繫好安全帶－Windows Server 2025 正式發布</title>
+      <title>管理員們，請繫好安全帶 – Windows Server 2025 正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
       <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>Windows 11 繼續落後 Windows 10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_11_market_share/</link>
-      <description><![CDATA[加速市場份額成長需要黑暗小巷和襪子裡的磚頭嗎？垃圾掩埋場的飼料對 Windows 10 的支援將在十一個月左右結束。]]></description>
+      <description><![CDATA[加速市場佔有率成長需要黑暗小巷和襪子裡的磚頭嗎？垃圾掩埋場的飼料對 Windows 10 的支援將在十一個月左右結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_11_market_share/</guid>
       <pubDate>Mon, 04 Nov 2024 13:03:16 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>新加坡將透過 GPS 追蹤所有車輛來增加道路通行能力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</link>
-      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人號碼卡也很快成為駕駛執照；香港行政長官警告美國的投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
+      <description><![CDATA[加：中國聯通拍賣舊電纜；日本的個人號碼卡也很快成為駕駛執照；香港行政長官警告美國投資禁令將適得其反 亞洲簡介 新加坡陸路交通管理局 (LTA) 上週估計，透過使用 GPS 追蹤所有車輛，它將能夠在未來幾年內將道路容量增加20,000 條。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/asia_in_brief_nov_4/</guid>
       <pubDate>Sun, 03 Nov 2024 23:59:14 GMT</pubDate>
     </item>
     <item>
       <title>六家 IT 承包商被指控詐騙山姆大叔數百萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/6_it_contractors_arrested_for/</link>
-      <description><![CDATA[此外，電子商務詐欺集團被搗亂、「斷電行動」再次獲勝、Sino SOHO 殭屍網路被發現等等 安全簡述 美國司法部已對六人提出指控兩項不同的計劃，旨在詐騙山姆大叔與 IT 產品和服務合約相關的數百萬美元。 ...]]></description>
+      <description><![CDATA[此外，電子商務詐欺集團被搗亂、「斷電行動」再次獲勝、Sino SOHO 殭屍網路被發現等等 安全簡述 美國司法部已對六人提出指控兩項獨立的計劃，旨在詐騙山姆大叔與 IT 產品和服務合約相關的數百萬美元。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/6_it_contractors_arrested_for/</guid>
       <pubDate>Sun, 03 Nov 2024 18:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您剛申請的職位可能是永遠不會被填補的“幽靈工作”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/03/ghost_job_epidemic/</link>
-      <description><![CDATA[事實證明，浪費申請人的時間、利用帖子來提高員工的工作效率是完全合法的 如果您沒有收到關於您申請的那個看起來很棒的技術職位的回复，它可能會並不是因為在輪流裁員的情況下，太多求職者爭先恐後地找工作。該帖子很可能一開始就是假的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/03/ghost_job_epidemic/</guid>
-      <pubDate>Sun, 03 Nov 2024 08:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
