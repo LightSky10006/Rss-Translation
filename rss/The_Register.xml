@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 18:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 18:42:16 GMT</lastBuildDate>
+    <item>
+      <title>犯罪者開啟 DocuSign 的 Envelope API 進行 BEC 快遞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/docusigns_envelope_bec/</link>
+      <description><![CDATA[為什麼？因為這就是金錢所在 商業電子郵件洩露詐騙者正試圖透過使用 DocuSign API 來提高成功率。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/docusigns_envelope_bec/</guid>
+      <pubDate>Tue, 05 Nov 2024 18:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>新澤西州男子承認向俄羅斯運送違反制裁的技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/russia_sanctions_busting/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[報告稱，環境和監管障礙導致人工智慧位元農場被取消 Meta 為人工智慧工作負載建立核動力數據中心的計劃因錯誤（特別是蜜蜂）而被取消。 . p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/meta_ai_datacenter_bee/</guid>
       <pubDate>Mon, 04 Nov 2024 22:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>眾議院議長對廢除法案的計劃猶豫不決，CHIPS 法案的資金存在問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/chips_act_repeal/</link>
-      <description><![CDATA[麥克·約翰遜(Mike Johnson) 與川普決裂，現在建議簡化資金法案中的監管 更新 美國晶片和科學法案的未來可能取決於週二眾議院選舉結果議長邁克·約翰遜 (Mike Johnson) 表示，如果共和黨在國會贏得多數席位，該黨可能會廢除 2800 億美元的撥款法案。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/chips_act_repeal/</guid>
-      <pubDate>Mon, 04 Nov 2024 20:03:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
