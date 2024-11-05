@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 09:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 10:41:20 GMT</lastBuildDate>
+    <item>
+      <title>用戶在將企業應用程式遷移到雲端時遇到困難</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/cloud_migration_sap_oracle/</link>
+      <description><![CDATA[分析師表示，從肉丸、義大利麵到烤寬麵條，成分相同，結構不同 對於全球兩大主要 ERP 供應商來說，雲端是他們未來的基礎設施。對於 Oracle 和 SAP 的客戶來說，實現這一目標可能意味著技術和業務流程的劇變，但與供應商的商業關係也發生了轉變。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/cloud_migration_sap_oracle/</guid>
+      <pubDate>Tue, 05 Nov 2024 10:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>前 Facebook 遊說者加入英國通訊監管機構，擔任非執行董事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/facebook_lobbyist_ofcom/</link>
-      <description><![CDATA[誰更適合監視守望者？  Facebook 前公共政策副總裁是加入英國電信監管機構 Ofcom 董事會的新面孔之一。]]></description>
+      <description><![CDATA[誰比較適合監視守望者？ p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/facebook_lobbyist_ofcom/</guid>
       <pubDate>Tue, 05 Nov 2024 09:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[顯然，如果未啟用MFA，週一會檢查數月的日誌 對於那些擁有長名稱和/或擁有詳細網域的雇主來說，這可能是個壞消息，Okta 發現了一個安全漏洞，可能會導致允許犯罪分子僅使用使用者名稱透過 Okta AD/LDAP 委託身份驗證 (DelAuth)。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/why_the_long_name_okta/</guid>
       <pubDate>Mon, 04 Nov 2024 11:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共部門網路入侵：我們的金錢、我們的生命、我們的知情權</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/public_sector_breakins_opinion/</link>
-      <description><![CDATA[您的伺服器日誌中是海象嗎？倫敦交通局是負責運送倫敦許多人在首都工作和娛樂的公共機構，由於這次襲擊沒有影響電力、信號或通訊系統，因此大部分影響都沒有被通勤者註意到。該組織淡化了對後台票務、計費和其他系統造成的損害。一切盡在掌握。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/public_sector_breakins_opinion/</guid>
-      <pubDate>Mon, 04 Nov 2024 10:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
