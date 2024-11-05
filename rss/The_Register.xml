@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 08:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 08:40:30 GMT</lastBuildDate>
+    <item>
+      <title>Broadcom 為 AI 網路提供 VeloCloud SD-WAN</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</link>
+      <description><![CDATA[VeloRAIN 架構改善了邊緣胖工作負載的服務 VMware Explore 在有關Broadcom 收購VMware 的所有戲劇性事件中，人們很容易忘記這家虛擬化巨頭的SD- WAN 裝置 VeloCloud 現在是一個獨立的業務部門。博通今天透過透露其開發的技術來改善邊緣人工智慧工作負載的網絡，使其重新成為人們關注的焦點。 .html&#39; --&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</guid>
+      <pubDate>Tue, 05 Nov 2024 08:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>VMware by Broadcom 尋找朋友來推廣其私有雲和人工智慧願景</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_explore_europe/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 05 Nov 2024 06:38:13 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果驅逐勞工組織開發者“違反了法律”</title>
+      <title>蘋果公司驅逐勞工組織開發者“違反了法律”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</link>
       <description><![CDATA[侵犯勞工權利？是 iTitan 的嗎？當然不是！越深。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟為了吸引用戶使用 Bing 已經達到了 100 萬美元的贈品水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</link>
-      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是進行了100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
+      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是一項100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</guid>
       <pubDate>Mon, 04 Nov 2024 16:21:20 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>管理員們，請繫好安全帶 – Windows Server 2025 正式發布</title>
+      <title>管理員們，請繫好安全帶－Windows Server 2025 正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
       <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>Windows 11 繼續落後 Windows 10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_11_market_share/</link>
-      <description><![CDATA[加速市場佔有率成長需要黑暗小巷和襪子裡的磚頭嗎？垃圾掩埋場的飼料對 Windows 10 的支援將在十一個月左右結束。]]></description>
+      <description><![CDATA[加速市場份額成長需要黑暗小巷和襪子裡的磚頭嗎？垃圾掩埋場的飼料對 Windows 10 的支援將在十一個月左右結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_11_market_share/</guid>
       <pubDate>Mon, 04 Nov 2024 13:03:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[山姆大叔稱，晶片拋擲者招供，已獲釋 更新 美國商務部對美國半導體晶圓製造商處以 50 萬美元的罰款GlobalFoundries 違反制裁規定，向被列入黑名單的中國晶片製造商的子公司SJ Semiconductor (SJS) 發送晶片。 &gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/globalfoundries_blacklist_violation/</guid>
       <pubDate>Mon, 04 Nov 2024 09:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>搬遷取得圓滿成功—直到最後一刻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/who_me/</link>
-      <description><![CDATA[「不要固步自封」這句話可能是陳腔濫調，但你真的不應該 誰，我？以及另一劑《誰，我？ – Reg 的每周安全空間，讀者可以在其中提交技術支援不如他們希望的那麼好的故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/who_me/</guid>
-      <pubDate>Mon, 04 Nov 2024 05:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
