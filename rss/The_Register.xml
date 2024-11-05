@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 12:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 13:38:34 GMT</lastBuildDate>
+    <item>
+      <title>打開超過 60 封電子郵件時，經典 Outlook 會爆炸</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</link>
+      <description><![CDATA[不要這樣做，否則可能會出現記憶體錯誤 Microsoft 已確認，在經典 Outlook 中同時開啟過多電子郵件可能會導致應用程式在崩潰之前顯示錯誤。但別擔心；有一個註冊表更改可以修復它。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>黃仁勳早前要求SK海力士提供Nvidia 12層HBM4晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/sk_hynix_ai_summit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
       <pubDate>Mon, 04 Nov 2024 14:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於監管機構拒絕電力交易，亞馬遜的核數據中心夢想陷入停滯</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</link>
-      <description><![CDATA[聯邦能源監管委員會引用電網穩定性問題 亞馬遜在其美國核動力資料中心計畫中遇到了障礙。聯邦監管機構拒絕了一項協議，該協議將允許該公司從薩斯奎哈納工廠獲取更多電力，為該地點附近的新比特穀倉提供電力，理由是這將開創一個先例，可能會影響電網可靠性並增加能源成本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/aws_nuclear_datacenter_ferc/</guid>
-      <pubDate>Mon, 04 Nov 2024 14:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
