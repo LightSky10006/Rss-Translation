@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 02:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 02:59:19 GMT</lastBuildDate>
+    <item>
+      <title>Python 取代 JavaScript 成為 GitHub 上最常使用的語言</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/python_dethrones_javascript_github/</link>
+      <description><![CDATA[年度報告發現 GenAI 專案爆炸性成長，來自程式設計社群之外的新用戶負責推動 Octoverse 中出現了一些不安，因為 Python 已經取代 JavaScript 成為 GitHub 上最常用的程式語言.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/python_dethrones_javascript_github/</guid>
+      <pubDate>Tue, 05 Nov 2024 02:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>勞工監督機構稱，Grindr 利用 RTO 來破壞工會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/labor_watchdog_says_grindr_used/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[希望觀看它不會比死於痢疾那麼痛苦 X 世代和年長的千禧一代，應該慶幸——也可能不慶幸：Apple 即將推出一部《Oregon Trail》電影。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/02/oregon_trail_action_comedy_film/</guid>
       <pubDate>Sat, 02 Nov 2024 20:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>追捕偷走英國最大充氣天文館的渣男</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/02/planetarium_stolen_university/</link>
-      <description><![CDATA[你有看過這個圓頂嗎？裡面佈滿了星星 英國警方正在調查一起不尋常的盜竊案：英國最大的移動充氣天文館，是學校和音樂節的常規特色......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/02/planetarium_stolen_university/</guid>
-      <pubDate>Sat, 02 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
