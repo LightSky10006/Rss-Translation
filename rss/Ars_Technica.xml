@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 05 Nov 2024 00:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 14:38:29 GMT</lastBuildDate>
+    <item>
+      <title>《潛龍諜影戰術》為回合製策略帶來超風格化的腎上腺素刺激</title>
+      <link>https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/</link>
+      <description><![CDATA[它有點 Rogue-lite 風格，有點 90 年代的街機風格，而且深度驚人。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:00:50 GMT</pubDate>
+    </item>
     <item>
       <title>發佈到 NPM 的數百個程式碼庫嘗試在開發電腦上安裝惡意軟體</title>
       <link>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</link>
@@ -27,9 +34,9 @@
       <pubDate>Mon, 04 Nov 2024 22:43:20 GMT</pubDate>
     </item>
     <item>
-      <title>澤米吉斯的新電影利用人工智慧讓湯姆漢克斯和羅賓賴特變老</title>
+      <title>澤米基斯的新電影利用人工智慧讓湯姆漢克斯和羅賓賴特變老</title>
       <link>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</link>
-      <description><![CDATA[時空跳躍電影《這裡》使用人工智慧對湯姆漢克斯的每部電影進行訓練，讓他再次顯得年輕。]]></description>
+      <description><![CDATA[時間跳躍電影這裡使用人工智慧對湯姆漢克斯的每部電影進行訓練，讓他再次顯得年輕。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</guid>
       <pubDate>Mon, 04 Nov 2024 21:28:38 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[X Change 可讓被封鎖的用戶看到封鎖他們的人發布的貼文。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/on-musks-x-blocking-users-doesnt-block-them-from-viewing-your-posts-anymore/</guid>
       <pubDate>Mon, 04 Nov 2024 18:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 將連續 25 年連續運行的英特爾逐出道瓊斯指數</title>
-      <link>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</link>
-      <description><![CDATA[隨著晶片產業重新關注人工智慧，股指的上漲反映了象徵性的市場轉變。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

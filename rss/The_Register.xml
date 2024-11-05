@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 13:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 14:38:49 GMT</lastBuildDate>
+    <item>
+      <title>華盛頓法院因「未經授權的活動」而面臨全州停電問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/washington_courts_outage/</link>
+      <description><![CDATA[正義仍在伸張，但許多系統已癱瘓 由於「未經授權的活動」導致的全州範圍內的IT 中斷正在影響華盛頓所有法院提供的服務的可用性。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/washington_courts_outage/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>打開超過 60 封電子郵件時，經典 Outlook 會爆炸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[開源工具選擇變得比以往更加開放 不要害怕，FOSS 粉絲。 Bitwarden 畢竟不是專有的。該公司再次更改了許可條款，但這一次，它已將其軟體開發工具包的許可從自己開發的許可切換為 GPL 的第三版。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/</guid>
       <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理員們，請繫好安全帶－Windows Server 2025 正式發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
-      <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
-      <pubDate>Mon, 04 Nov 2024 14:46:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
