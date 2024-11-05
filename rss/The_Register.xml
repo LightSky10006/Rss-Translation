@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 10:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 11:35:49 GMT</lastBuildDate>
+    <item>
+      <title>英國監管機構暗示 Voda-3 合併可能會獲得通過</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/uk_regulator_hints_vodathree_merger/</link>
+      <description><![CDATA[手機遊戲進入最後篇章 英國競爭監管機構表示，如果電信公司沃達豐(Vodafone) 和三英國(Three UK) 致力於網路升級和短期客戶保障，他們有意批准這兩家公司的合併。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/uk_regulator_hints_vodathree_merger/</guid>
+      <pubDate>Tue, 05 Nov 2024 11:25:09 GMT</pubDate>
+    </item>
     <item>
       <title>用戶在將企業應用程式遷移到雲端時遇到困難</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/cloud_migration_sap_oracle/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Broadcom 為 AI 網路提供 VeloCloud SD-WAN</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</link>
-      <description><![CDATA[VeloRAIN 架構改善了邊緣胖工作負載的服務 VMware Explore  在有關Broadcom 收購VMware 的所有戲劇性事件中，人們很容易忘記這家虛擬化巨頭的SD- WAN 裝置 VeloCloud 現在是一個獨立的業務部門。博通今天透過透露其開發的技術來改善邊緣人工智慧工作負載的網絡，使其重新成為人們關注的焦點。 .html&#39; --&gt; ]]></description>
+      <description><![CDATA[VeloRAIN 架構改善了邊緣胖工作負載的服務 VMware Explore 在有關Broadcom 收購VMware 的所有戲劇性事件中，人們很容易忘記這家虛擬化巨頭的SD- WAN 裝置 VeloCloud 現在是一個獨立的業務部門。博通今天透過透露其開發的技術來改善邊緣人工智慧工作負載的網絡，使其重新成為人們關注的焦點。 .html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</guid>
       <pubDate>Tue, 05 Nov 2024 08:32:08 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 04 Nov 2024 20:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>黑屏仍然困擾著 Windows 10 Azure 虛擬桌面用戶</title>
+      <title>黑屏仍然困擾 Windows 10 Azure 虛擬桌面用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</link>
       <description><![CDATA[與此同時，即使是任務管理器也無法與損壞的補丁相媲美 儘管Windows 10 的支援時間還不到一年，但Microsoft 再次證明了其通過看似無害的更新來破壞事物的能力.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>微軟為了吸引用戶使用 Bing 已經達到了 100 萬美元的贈品水平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</link>
-      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是一項100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
+      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是進行了100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</guid>
       <pubDate>Mon, 04 Nov 2024 16:21:20 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 04 Nov 2024 15:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>管理員們，請繫好安全帶－Windows Server 2025 正式發布</title>
+      <title>管理員們，請繫好安全帶 – Windows Server 2025 正式發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</link>
       <description><![CDATA[謝謝 vNext...是的，有很多更新讓您忙碌 Windows Server 2025 已正式正式發布，為管理員提供了一些重大更改，包括有用的 Active Directory 網域調整，以及包括寫字板在內的一些熟悉的朋友消失了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_server_2025_ga/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[加速市場佔有率成長需要黑暗小巷和襪子裡的磚頭嗎？垃圾掩埋場的飼料對 Windows 10 的支援將在十一個月左右結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/windows_11_market_share/</guid>
       <pubDate>Mon, 04 Nov 2024 13:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>名字怎麼這麼長？ Okta 揭露了影響 52 個字元使用者名稱的身份驗證繞過錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/why_the_long_name_okta/</link>
-      <description><![CDATA[顯然，如果未啟用MFA，週一會檢查數月的日誌 對於那些擁有長名稱和/或擁有詳細網域的雇主來說，這可能是個壞消息，Okta 發現了一個安全漏洞，可能會導致允許犯罪分子僅使用使用者名稱透過 Okta AD/LDAP 委託身份驗證 (DelAuth)。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/why_the_long_name_okta/</guid>
-      <pubDate>Mon, 04 Nov 2024 11:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
