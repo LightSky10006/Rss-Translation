@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 15:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 16:42:07 GMT</lastBuildDate>
+    <item>
+      <title>法官決定不阻止馬斯克 100 萬美元的選舉贈品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/judge_musks_1m_election_giveaway/</link>
+      <description><![CDATA[美國PAC 告訴法官獲勝者是預先選定的，引發了一系列全新的法律問題 考慮到今天是美國總統大選，這有點沒有實際意義，但賓夕法尼亞州法官拒絕阻止伊隆馬斯克的 100 萬美元選舉彩票，儘管這位億萬富翁的美國政治行動委員會 (America PAC) 似乎承認整件事從一開始就被操縱了。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/judge_musks_1m_election_giveaway/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在進行的仿冒活動冒充了數百個流行的 npm 包</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/typosquatting_npm_campaign/</link>
+      <description><![CDATA[傀儡師還是傀儡師？其中一個會窺探您的電腦並竊取您的憑證 正在進行的網域仿冒活動透過數百個流行的JavaScript 庫（每週下載量達到數千萬）針對開發人員，以透過以下資訊感染系統：竊取與窺探惡意軟體......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/typosquatting_npm_campaign/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>日本的木製立方體衛星火箭升空</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/japan_wooden_satellite/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[與此同時，即使是任務管理器也無法與損壞的補丁相媲美 儘管Windows 10 的支援時間還不到一年，但Microsoft 再次證明了其通過看似無害的更新來破壞事物的能力.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/</guid>
       <pubDate>Mon, 04 Nov 2024 18:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄亥俄州哥倫布市證實有 50 萬人受到 Rhysida 勒索軟體攻擊影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/columbus_rhysida_ransomware/</link>
-      <description><![CDATA[高度敏感的資料轉儲後，受害者面臨嚴重危險 俄亥俄州哥倫布市已確認，當Rhysida 勒索軟體在夏季襲擊其係統時，有50 萬人的資料被存取並可能被盜。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/columbus_rhysida_ransomware/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟為了吸引用戶使用 Bing 已經達到了 100 萬美元的贈品水平</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</link>
-      <description><![CDATA[用人工智慧填滿它並沒有幫助，所以讓我們嘗試經濟誘因 我們並不是說微軟迫切希望人們使用Bing，而是進行了100 萬美元的抽獎活動，為Bing 的用戶提供參與機會搜尋引擎確實像鴨子一樣嘎嘎叫。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:21:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
