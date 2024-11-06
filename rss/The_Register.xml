@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 05 Nov 2024 22:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 00:57:35 GMT</lastBuildDate>
+    <item>
+      <title>工作人員不會編碼？沒問題。新加坡超級應用程式的法學碩士為他們開發應用程式</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/grab_coding_llm/</link>
+      <description><![CDATA[NP-hard to NP at all 東南亞的超級應用程式Grab 開發了一種工具，讓其員工無需編碼即可建立大型語言模型(LLM) 應用程式。 /p &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/grab_coding_llm/</guid>
+      <pubDate>Wed, 06 Nov 2024 00:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scumbag 將「竊取」的諾基亞原始碼、SSH 和 RSA 金鑰等進行出售</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/nokia_data_theft/</link>
+      <description><![CDATA[小偷聲稱資料從被盜的外部供應商竊取 IntelBroker 是一個臭名昭著的被盜資料小販，聲稱竊取了屬於諾基亞的源代碼、私鑰和其他敏感資料。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/nokia_data_theft/</guid>
+      <pubDate>Wed, 06 Nov 2024 00:01:45 GMT</pubDate>
+    </item>
     <item>
       <title>你的氣炸鍋可能正在向中國告密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/air_fryer_spying/</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 05 Nov 2024 22:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元法國麵包</title>
+      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元的法國麵包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</link>
       <description><![CDATA[Hellcat 人員聲稱已通過該公司的 Atlassian Jira 系統獲得了訪問權限 施耐德電氣證實，它正在調查勒索軟體組織 Hellcat 聲稱竊取了超過 40 GB 的壓縮數據的漏洞 - 並且要求法國跨國能源管理公司支付125,000 美元的法國麵包，否則其敏感客戶和營運資訊將被洩露。 --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</guid>
@@ -92,7 +106,7 @@
     <item>
       <title>英國監管機構暗示 Voda-3 合併可能會獲得通過</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/uk_regulator_hints_vodathree_merger/</link>
-      <description><![CDATA[手機遊戲進入最後篇章 英國競爭監管機構表示，如果電信公司沃達豐 (Vodafone) 和 Three UK 致力於網路升級和短期客戶保障，他們有意批准這兩家公司的合併。更高的帳單......]]></description>
+      <description><![CDATA[手機遊戲進入最後篇章 英國競爭監管機構表示，如果電信公司沃達豐(Vodafone) 和三英國(Three UK) 致力於網路升級和短期客戶保障，他們有意批准這兩家公司的合併。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/uk_regulator_hints_vodathree_merger/</guid>
       <pubDate>Tue, 05 Nov 2024 11:25:09 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>Broadcom 為 AI 網路提供 VeloCloud SD-WAN</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</link>
-      <description><![CDATA[VeloRAIN 架構改善了邊緣胖工作負載的服務 VMware Explore  在有關Broadcom 收購VMware 的所有戲劇性事件中，人們很容易忘記這家虛擬化巨頭的SD- WAN 裝置 VeloCloud 現在是一個獨立的業務部門。博通今天透過透露其開發的技術來改善邊緣人工智慧工作負載的網絡，使其重新成為人們關注的焦點。 .html&#39; --&gt; ]]></description>
+      <description><![CDATA[VeloRAIN 架構改善了邊緣胖工作負載的服務 VMware Explore 在有關Broadcom 收購VMware 的所有戲劇性事件中，人們很容易忘記這家虛擬化巨頭的SD- WAN 裝置 VeloCloud 現在是一個獨立的業務部門。博通今天透過透露其開發的技術來改善邊緣人工智慧工作負載的網絡，使其重新成為人們關注的焦點。 .html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/</guid>
       <pubDate>Tue, 05 Nov 2024 08:32:08 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 05 Nov 2024 08:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>法國政府財務小組考慮將 Atos 收歸國有</title>
+      <title>法國政府財務小組考慮將 Atos 國有化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/</link>
       <description><![CDATA[保護軍事和公共部門其他部分的IT 項目 法國政府財務委員會正在考慮對2025 年財政法案進行法律修正案，該法案目前正在該國議會審議，該法案將使Atos國有化7000 萬歐元的資金用於探索這筆交易。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/</guid>
       <pubDate>Tue, 05 Nov 2024 07:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌聲稱 Big Sleep 是「第一個」人工智慧，能夠發現模糊測試漏掉的新出現的安全漏洞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_ai_vulnerability_hunting/</link>
-      <description><![CDATA[你打瞌睡，你就輸了，呃，贏了 Google 聲稱其AI 模型是同類中第一個在野外發現內存安全漏洞的模型，特別是SQLite 中可利用的堆疊緩衝區下溢– 然後在有問題的程式碼正式發布之前修復了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_ai_vulnerability_hunting/</guid>
-      <pubDate>Tue, 05 Nov 2024 06:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果驅逐勞工組織開發者“違反了法律”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</link>
-      <description><![CDATA[侵犯勞工權利？是 iTitan 的嗎？當然不是！越深。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/</guid>
-      <pubDate>Tue, 05 Nov 2024 03:22:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
