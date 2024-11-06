@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 06 Nov 2024 17:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 18:42:16 GMT</lastBuildDate>
+    <item>
+      <title>阿雷西博望遠鏡可能因插座薄弱而失敗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/</link>
+      <description><![CDATA[電磁輻射導致了這種鋅化感覺：分析師 2020 年阿雷西博天文台305 公尺望遠鏡的倒塌歸因於望遠鏡電纜熔煉中的鋅蠕變（由於應力導致的緩慢變形）根據美國國家科學院、工程院和醫學院的委員會報告，… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/</guid>
+      <pubDate>Wed, 06 Nov 2024 18:40:12 GMT</pubDate>
+    </item>
     <item>
       <title>謝謝萊納斯。 Torvalds 補丁將 Linux 效能提高了 2.6%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/torvalds_patch_linux_performance/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>歐盟指控康寧因大猩猩玻璃主導地位違反反壟斷法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</link>
-      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，該公司的成功部分歸功於這家美國企業削減了反競爭交易。 ...]]></description>
+      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，其成功部分歸功於這家美國企業削減反競爭交易。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</guid>
       <pubDate>Wed, 06 Nov 2024 16:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>國際刑警組織協同行動 II 打擊全球網路犯罪</title>
+      <title>國際刑警組織協同行動 II 嚴厲打擊全球網路犯罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</link>
-      <description><![CDATA[在95 個國家/地區，22,000 個IP 位址被查封，59 台伺服器被查封，41 人被捕 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網絡犯罪的硬件，並取得了重大勝利。]]></description>
+      <description><![CDATA[在95 個國家/地區，查獲22,000 個IP 位址，查獲59 台伺服器，逮捕41 人 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網路犯罪的硬件，並取得了重大勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</guid>
       <pubDate>Wed, 06 Nov 2024 15:25:10 GMT</pubDate>
     </item>
@@ -120,12 +127,12 @@
     <item>
       <title>你的氣炸鍋可能正在向中國告密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/air_fryer_spying/</link>
-      <description><![CDATA[報告揭示了您的設備以意想不到的方式出賣您 英國消費者冠軍 Which？希望您知道您的氣炸鍋可能正在監視您並出於營銷目的與第三方共享您的數據。]]></description>
+      <description><![CDATA[報告揭示了您的設備以意想不到的方式出賣您 英國消費者冠軍Which？希望您知道您的氣炸鍋可能正在監視您並出於營銷目的與第三方共享您的數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/air_fryer_spying/</guid>
       <pubDate>Tue, 05 Nov 2024 22:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元的法國麵包</title>
+      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元法國麵包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</link>
       <description><![CDATA[Hellcat 人員聲稱已通過該公司的 Atlassian Jira 系統獲得了訪問權限 施耐德電氣證實，它正在調查勒索軟體組織 Hellcat 聲稱竊取了超過 40 GB 的壓縮數據的漏洞 - 並且要求法國跨國能源管理公司支付125,000 美元的法國麵包，否則其敏感客戶和營運資訊將被洩露。 --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[在Heartland Tri-State Bank 詐騙案崩潰後，FBI 僅追回800 萬美元 FBI 從一次加密貨幣騙局中追回了800 萬美元資金，該騙局淨賺4700 萬美元，並摧毀了堪薩斯州埃爾克哈特市。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/fbi_pig_kansas_cryptocurrency/</guid>
       <pubDate>Tue, 05 Nov 2024 20:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud 帳號沒有 MFA？你必須從一月開始</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_cloud_says_all_customers/</link>
-      <description><![CDATA[鎖定它。鎖定它 Google Cloud 是最新一家將決定權從客戶手中奪走的公司，並對所有用戶強制使用多重身份驗證(MFA)，以提高少數尚未擁有多重身份驗證的用戶的安全性它啟用了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_cloud_says_all_customers/</guid>
-      <pubDate>Tue, 05 Nov 2024 19:17:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
