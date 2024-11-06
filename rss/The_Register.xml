@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 06 Nov 2024 14:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 14:39:17 GMT</lastBuildDate>
+    <item>
+      <title>Windows Server 2025 在更新標籤錯誤後自行安裝，令系統管理員感到震驚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/windows_server_2025_surprise/</link>
+      <description><![CDATA[技術人員在意想不到的地方發現Microsoft 的最新作業系統後，螢幕上噴滿了咖啡 管理員報告說，作為安全更新發布的Windows Server 2025 意外出​​現，結果證明是一次完整的作業系統升級。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/windows_server_2025_surprise/</guid>
+      <pubDate>Wed, 06 Nov 2024 14:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>AT&T 就挪用補貼指控達成和解，並部分承認有罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/att_acp_settlement/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>道瓊斯指數將英特爾換成英偉達，沒有任何指數能夠免受人工智慧劇烈波動的影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</link>
-      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業代表。]]></description>
+      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業的代表。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</guid>
       <pubDate>Wed, 06 Nov 2024 08:30:13 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 06 Nov 2024 06:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>一座從熱帶雨林崛起的新城市將成為印尼的科技中心</title>
+      <title>一座從熱帶雨林中崛起的新城市將成為印尼的科技中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</link>
       <description><![CDATA[雅加達誰？印尼的新首都努桑塔拉充滿了科技 如果今天整個主要城市是從頭開始設計的，那麼其結構中會內建哪些技術？當我們看到印尼建立一個以科技為核心的新首都時，我們發現...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 05 Nov 2024 22:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元的法國麵包</title>
+      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元法國麵包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</link>
       <description><![CDATA[Hellcat 人員聲稱已通過該公司的 Atlassian Jira 系統獲得了訪問權限 施耐德電氣證實，它正在調查勒索軟體組織 Hellcat 聲稱竊取了超過 40 GB 的壓縮數據的漏洞 - 並且要求法國跨國能源管理公司支付125,000 美元的法國麵包，否則其敏感客戶和營運資訊將被洩露。 --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國PAC 告訴法官獲勝者是預先選定的，引發了一系列全新的法律問題 考慮到今天是美國總統大選，這有點沒有實際意義，但賓夕法尼亞州法官拒絕阻止伊隆馬斯克的 100 萬美元選舉彩票，儘管這位億萬富翁的美國政治行動委員會 (America PAC) 似乎承認整件事從一開始就被操縱了。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/judge_musks_1m_election_giveaway/</guid>
       <pubDate>Tue, 05 Nov 2024 16:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在進行的仿冒活動冒充了數百個流行的 npm 包</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/typosquatting_npm_campaign/</link>
-      <description><![CDATA[傀儡師還是傀儡師？其中一個會窺探您的電腦並竊取您的憑證 正在進行的網域仿冒活動透過數百個流行的JavaScript 庫（每週下載量達到數千萬）針對開發人員，以透過以下資訊感染系統：竊取與窺探惡意軟體......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/typosquatting_npm_campaign/</guid>
-      <pubDate>Tue, 05 Nov 2024 16:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
