@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 06 Nov 2024 10:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 12:24:04 GMT</lastBuildDate>
+    <item>
+      <title>DHL、Serco 中斷後，網路攻擊者竊取了 Microlise 員工數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/microlise_cyberattack/</link>
+      <description><![CDATA[專家表示，該事件具有「勒索軟體的所有特徵」 遠端資訊處理技術公司Microlise 表示，襲擊其網路的攻擊很可能並未洩露客戶數據，儘管員工沒有那麼幸運。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/microlise_cyberattack/</guid>
+      <pubDate>Wed, 06 Nov 2024 12:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>想從英國政府網站獲得有關稅收的建議嗎？與聊天機器人交談</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/uk_government_website_chatbot/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>道瓊斯指數將英特爾換成英偉達，沒有任何指數能夠免受人工智慧劇烈波動的影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</link>
-      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業的代表。]]></description>
+      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業代表。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</guid>
       <pubDate>Wed, 06 Nov 2024 08:30:13 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 06 Nov 2024 06:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>一座從熱帶雨林中崛起的新城市將成為印尼的科技中心</title>
+      <title>一座從熱帶雨林崛起的新城市將成為印尼的科技中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</link>
       <description><![CDATA[雅加達誰？印尼的新首都努桑塔拉充滿了科技 如果今天整個主要城市是從頭開始設計的，那麼其結構中會內建哪些技術？當我們看到印尼建立一個以科技為核心的新首都時，我們發現...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 05 Nov 2024 22:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元法國麵包</title>
+      <title>施耐德電機勒索軟體團隊要求支付 12.5 萬美元的法國麵包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</link>
       <description><![CDATA[Hellcat 人員聲稱已通過該公司的 Atlassian Jira 系統獲得了訪問權限 施耐德電氣證實，它正在調查勒索軟體組織 Hellcat 聲稱竊取了超過 40 GB 的壓縮數據的漏洞 - 並且要求法國跨國能源管理公司支付125,000 美元的法國麵包，否則其敏感客戶和營運資訊將被洩露。 --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[正義仍在伸張，但許多系統已癱瘓 由於「未經授權的活動」導致的全州範圍內的IT 中斷正在影響華盛頓所有法院提供的服務的可用性。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/washington_courts_outage/</guid>
       <pubDate>Tue, 05 Nov 2024 14:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>打開超過 60 封電子郵件時，經典 Outlook 會爆炸</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</link>
-      <description><![CDATA[不要這樣做，否則可能會出現記憶體錯誤 Microsoft 已確認，在經典 Outlook 中同時開啟過多電子郵件可能會導致應用程式在崩潰之前顯示錯誤。但別擔心；有一個註冊表更改可以修復它。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</guid>
-      <pubDate>Tue, 05 Nov 2024 13:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
