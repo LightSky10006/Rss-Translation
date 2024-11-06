@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 06 Nov 2024 18:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 19:35:56 GMT</lastBuildDate>
+    <item>
+      <title>英特爾因 Raptor Lake 電壓不穩定被起訴</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/intel_sued_over_raptor_lake_chips/</link>
+      <description><![CDATA[未能就晶片缺陷向客戶發出警告導致欺詐索賠 週二，英特爾在加利福尼亞州聖何塞的聯邦法院被起訴，理由是該晶片製造商的第13 代和第14 代台式處理器來自2022 年和 2023 年有缺陷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/intel_sued_over_raptor_lake_chips/</guid>
+      <pubDate>Wed, 06 Nov 2024 19:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>阿雷西博望遠鏡可能因插座薄弱而失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Hellcat 人員聲稱已通過該公司的 Atlassian Jira 系統獲得了訪問權限 施耐德電氣證實，它正在調查勒索軟體組織 Hellcat 聲稱竊取了超過 40 GB 的壓縮數據的漏洞 - 並且要求法國跨國能源管理公司支付125,000 美元的法國麵包，否則其敏感客戶和營運資訊將被洩露。 --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/</guid>
       <pubDate>Tue, 05 Nov 2024 21:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>堪薩斯州屠宰生豬事件：詐騙銀行、教會和朋友的執行長被判 24 年徒刑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/fbi_pig_kansas_cryptocurrency/</link>
-      <description><![CDATA[在Heartland Tri-State Bank 詐騙案崩潰後，FBI 僅追回800 萬美元 FBI 從一次加密貨幣騙局中追回了800 萬美元資金，該騙局淨賺4700 萬美元，並摧毀了堪薩斯州埃爾克哈特市。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/fbi_pig_kansas_cryptocurrency/</guid>
-      <pubDate>Tue, 05 Nov 2024 20:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
