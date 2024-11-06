@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 06 Nov 2024 09:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 10:40:27 GMT</lastBuildDate>
+    <item>
+      <title>想從英國政府網站獲得有關稅收的建議嗎？與聊天機器人交談</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/uk_government_website_chatbot/</link>
+      <description><![CDATA[需要了解如何創辦企業？有一個（實驗性）人工智慧可以做到這一點 來自「這會進展順利」的部門證實，英國政府正在與15,000 名企業用戶一起試用一個實驗性聊天機器人，他們可以用它來詢問有關稅收和可用的問題支持。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/uk_government_website_chatbot/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>為什麼我們仍在等待 Canonical 的不可變 Ubuntu Core 桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/ubuntu_core_desktop_waiting/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不要這樣做，否則可能會出現記憶體錯誤 Microsoft 已確認，在經典 Outlook 中同時開啟過多電子郵件可能會導致應用程式在崩潰之前顯示錯誤。但別擔心；有一個註冊表更改可以修復它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/</guid>
       <pubDate>Tue, 05 Nov 2024 13:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>黃仁勳早前要求SK海力士提供Nvidia 12層HBM4晶片</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/05/sk_hynix_ai_summit/</link>
-      <description><![CDATA[12層HBM3E幾乎沒有下線 據該公司集團董事長Chey稱，Nvidia首席執行官黃仁勳要求韓國晶片製造商SK海力士將12層HBM4晶片的交付提前半年泰元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/05/sk_hynix_ai_summit/</guid>
-      <pubDate>Tue, 05 Nov 2024 12:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
