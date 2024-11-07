@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 07 Nov 2024 18:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 19:35:27 GMT</lastBuildDate>
+    <item>
+      <title>自 5 月以來，高通在 Arm OEM 設計上贏得的 Windows on Arm 設計勝利增加了兩倍</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/qualcomm_triples_windows_on_arm/</link>
+      <description><![CDATA[Snapdragon X Plus 8 核心平台憑藉 58 款筆記型電腦設計獲得關注…但 Windows 用戶會關心嗎？第四季財報電話會議期間的市場。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/qualcomm_triples_windows_on_arm/</guid>
+      <pubDate>Thu, 07 Nov 2024 19:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>台積電優先考慮高數值孔徑 EUV 掃描儀進行研發</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/tsmc_highna_euv/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Arm 的特許權使用費收入激增，高層大談人工智慧財富的希望</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/arm_q2_2025/</link>
-      <description><![CDATA[第二季Armv9 採用率成長23%，但授權數量下降 智慧型手機晶片冠軍Arm 在Armv9 技術的採用推動下，因特許權使用費收入不斷擴大而沾沾自喜，但高管們卻無法停止將人工智慧視為其發展方向未來的搖錢樹。]]></description>
+      <description><![CDATA[第二季Armv9 採用率攀升23%，但許可數量下降 智慧型手機晶片冠軍Arm 在Armv9 技術的採用推動下，因特許權使用費收入不斷擴大而沾沾自喜，但高管們卻無法停止將人工智慧視為其發展方向未來的搖錢樹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/arm_q2_2025/</guid>
       <pubDate>Thu, 07 Nov 2024 16:08:12 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 06 Nov 2024 18:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>謝謝萊納斯。 Torvalds 補丁將 Linux 效能提高了 2.6%</title>
+      <title>謝謝，萊納斯。 Torvalds 補丁將 Linux 效能提高了 2.6%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/torvalds_patch_linux_performance/</link>
       <description><![CDATA[21 行程式碼表明這位大人物仍然擁有所需的能力 企鵝總理Linus Torvalds 進行的相對微小的程式碼更改正在對Linux 的多線程性能做出可衡量的改進。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/torvalds_patch_linux_performance/</guid>
@@ -120,14 +127,14 @@
     <item>
       <title>歐盟指控康寧因大猩猩玻璃主導地位違反反壟斷法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</link>
-      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，其成功部分歸功於這家美國企業削減反競爭交易。 ...]]></description>
+      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，該公司的成功部分歸功於這家美國企業削減了反競爭交易。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</guid>
       <pubDate>Wed, 06 Nov 2024 16:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>國際刑警組織協同行動 II 嚴厲打擊全球網路犯罪</title>
+      <title>國際刑警組織協同行動 II 打擊全球網路犯罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</link>
-      <description><![CDATA[在95 個國家/地區，查獲22,000 個IP 位址，查獲59 台伺服器，逮捕41 人 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網路犯罪的硬件，並取得了重大勝利。]]></description>
+      <description><![CDATA[在95 個國家/地區，22,000 個IP 位址被查封，59 台伺服器被查封，41 人被捕 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網絡犯罪的硬件，並取得了重大勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</guid>
       <pubDate>Wed, 06 Nov 2024 15:25:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[技術人員在意想不到的地方發現Microsoft 的最新作業系統後，螢幕上噴滿了咖啡 管理員報告說，作為安全更新發布的Windows Server 2025 意外出​​現，結果證明是一次完整的作業系統升級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/windows_server_2025_surprise/</guid>
       <pubDate>Wed, 06 Nov 2024 14:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 就挪用補貼指控達成和解，並部分承認有罪</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/att_acp_settlement/</link>
-      <description><![CDATA[這家電信巨頭的變革呼籲防止未來的濫用 AT&amp;T 與 FCC 就其提交虛假信息以從美國針對低收入客戶的寬頻補貼計劃獲取資金的指控達成和解。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/att_acp_settlement/</guid>
-      <pubDate>Wed, 06 Nov 2024 13:35:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
