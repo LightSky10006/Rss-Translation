@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 07 Nov 2024 10:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:22:54 GMT</lastBuildDate>
+    <item>
+      <title>思科獲得滿分 CVSS 10，其無線系統有嚴重缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/cisco_uiws_flaw/</link>
+      <description><![CDATA[超可靠無線回程並不名副其實 思科正在針對一個缺陷發布嚴重警報通知，該缺陷使其所謂的超可靠無線回程系統很容易被破壞。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/cisco_uiws_flaw/</guid>
+      <pubDate>Thu, 07 Nov 2024 11:48:53 GMT</pubDate>
+    </item>
     <item>
       <title>在能源成本和供應緊縮的情況下，歐元高層延長淨零排放時間表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/euro_execs_lengthen_net_zero/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>另一項為期四天的官方試點在英國啟動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/uk_4_day_workweek/</link>
-      <description><![CDATA[全國最受歡迎的雲端投手 AWS 不太可能參加 英國目前正在進行每週工作四天的新試點，儘管幾家科技巨頭最近規定每週工作五天員工在辦公室待一週。]]></description>
+      <description><![CDATA[全國最受歡迎的雲端投手 AWS 不太可能參加 英國目前正在實施每週工作四天的新試點，儘管幾家科技巨頭最近規定每週工作五天員工在辦公室待一週。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/uk_4_day_workweek/</guid>
       <pubDate>Thu, 07 Nov 2024 09:30:06 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>國際刑警組織協同行動 II 打擊全球網路犯罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</link>
-      <description><![CDATA[在95 個國家/地區，查獲22,000 個IP 位址，查獲59 台伺服器，逮捕41 人 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網路犯罪的硬件，並取得了重大勝利。]]></description>
+      <description><![CDATA[在95 個國家/地區，22,000 個IP 位址被查封，59 台伺服器被查封，41 人被捕 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網絡犯罪的硬件，並取得了重大勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</guid>
       <pubDate>Wed, 06 Nov 2024 15:25:10 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>道瓊斯指數將英特爾換成英偉達，沒有任何指數能夠免受人工智慧劇烈波動的影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</link>
-      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業代表。]]></description>
+      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業的代表。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</guid>
       <pubDate>Wed, 06 Nov 2024 08:30:13 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 06 Nov 2024 06:48:13 GMT</pubDate>
     </item>
     <item>
-      <title>一座從熱帶雨林崛起的新城市將成為印尼的科技中心</title>
+      <title>一座從熱帶雨林中崛起的新城市將成為印尼的科技中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</link>
       <description><![CDATA[雅加達誰？印尼的新首都努桑塔拉充滿了科技 如果今天整個主要城市是從頭開始設計的，那麼其結構中會內建哪些技術？當我們看到印尼建立一個以科技為核心的新首都時，我們發現...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/</guid>
       <pubDate>Wed, 06 Nov 2024 04:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，中國的伏特颱風在針對美國電信攻擊的「試運行」中突破了新加坡電信</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/</link>
-      <description><![CDATA[6 月發現的涉嫌入侵 更新 據報導，中國政府網路間諜Volt Typhoon 在今年夏天入侵了新加坡電信，這是他們對關鍵基礎設施營運商持續攻擊的一部份。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/</guid>
-      <pubDate>Wed, 06 Nov 2024 02:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
