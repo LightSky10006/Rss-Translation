@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 07 Nov 2024 13:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 14:12:02 GMT</lastBuildDate>
+    <item>
+      <title><em>The Register</em> 試試 AMD 的 Ryzen 9800X3D</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/amd_ryzen_9800x3d_review/</link>
+      <description><![CDATA[Zen 5 3D V-cache 終於來了，售價479 美元- 一款適合遊戲玩家的晶片還是適合所有人的多用途桌上型晶片？ AMD 正式發布今天推出了備受期待的基於Zen 5 架構的下一代X3D 桌面處理器，這意味著The Register 可以讓您了解我們親自試用過的8 核Ryzen 9800X3D。 .. .. .  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/amd_ryzen_9800x3d_review/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 計劃幾天後進行下一次星際飛船飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/spacex_plans_next_starship_flight/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 07 Nov 2024 13:19:48 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲的 IT 支出將增加，而且這不僅與人工智慧有關</title>
+      <title>產業分析師表示，人工智慧殺手級應用還需要數年時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/it_spend_europe_2025/</link>
-      <description><![CDATA[預計成長8.7%，但wundertech 的殺手級應用還需要數年時間 3 是一個神奇的數字，或者更具體地說，距離出現能夠更有效地幫助企業的殺手級應用需要數年時間使用生成式人工智慧來顯著提高生產力。]]></description>
+      <description><![CDATA[儘管如此，IT 支出仍將增加，而且這不僅僅與wundertech 3 是一個神奇的數字，或者更具體地說，距離殺手級應用程式出現以幫助企業更有效地使用生成式AI 需要數年的時間顯著提高生產力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/it_spend_europe_2025/</guid>
       <pubDate>Thu, 07 Nov 2024 13:06:18 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>歐盟指控康寧因大猩猩玻璃主導地位違反反壟斷法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</link>
-      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，其成功部分歸功於這家美國企業削減反競爭交易。 ...]]></description>
+      <description><![CDATA[歐盟委員會聲稱，美國公司製造的原始設備製造商、玻璃加工商簽署獨家協議、對競爭對手進行誹謗 康寧大猩猩玻璃出現在無數科技產品中，從智慧型手機、穿戴式裝置到汽車擋風玻璃，歐盟委員會有跡象表明，該公司的成功部分歸功於這家美國企業削減了反競爭交易。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/eu_charges_corning_with_antitrust/</guid>
       <pubDate>Wed, 06 Nov 2024 16:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>國際刑警組織協同行動 II 嚴厲打擊全球網路犯罪</title>
+      <title>國際刑警組織協同行動 II 打擊全球網路犯罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</link>
-      <description><![CDATA[在95 個國家/地區，查獲22,000 個IP 位址，查獲59 台伺服器，逮捕41 人 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網路犯罪的硬件，並取得了重大勝利。]]></description>
+      <description><![CDATA[在95 個國家/地區，22,000 個IP 位址被查封，59 台伺服器被查封，41 人被捕 國際刑警組織在針對網路犯罪分子的大規模聯合行動中逮捕了41 人，並查獲了被認為用於網絡犯罪的硬件，並取得了重大勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/operation_synergia_ii_interpol/</guid>
       <pubDate>Wed, 06 Nov 2024 15:25:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[“第一印像很重要”，但KDE 風格正在醞釀之中，而且會在2024 年Ubuntu 峰會上更加公開 Ubuntu 峰會2024 在今年的&lt; a href=&quot;https:/ /events.canonical.com/event/51/overview&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Ubuntu 峰會 在海牙舉行，我們真的希望聽到一些有關Canonical新的不可變桌面發行版的訊息......  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/ubuntu_core_desktop_waiting/</guid>
       <pubDate>Wed, 06 Nov 2024 09:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>道瓊斯指數將英特爾換成英偉達，沒有任何指數能夠免受人工智慧劇烈波動的影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</link>
-      <description><![CDATA[分析師告訴El Reg，這對機構投資者來說不會有什麼影響，但散戶交易者要注意了 週五，Nvidia 將在25 年後取代英特爾成為半導體產業的領頭羊道瓊工業平均指數產業的代表。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/</guid>
-      <pubDate>Wed, 06 Nov 2024 08:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
