@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 08 Nov 2024 03:39:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 12:55:56 GMT</lastBuildDate>
+    <item>
+      <title>火箭報道：澳洲同意發射；俄羅斯為伊朗提供物資</title>
+      <link>https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/</link>
+      <description><![CDATA[世界上第一顆木製衛星本週抵達國際太空站。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/rocket-report-australia-says-yes-to-the-launch-russia-delivers-for-iran/</guid>
+      <pubDate>Fri, 08 Nov 2024 12:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>幾十年後，FDA 終於下架無效的減充血劑</title>
       <link>https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>執法行動在全球查獲 22,000 個惡意 IP 位址</title>
       <link>https://arstechnica.com/information-technology/2024/11/law-enforcement-operation-takes-down-22000-malicious-ip-addresses-worldwide/</link>
-      <description><![CDATA[Synergia II 行動的目標是網路釣魚、勒索軟體和資訊竊取。]]></description>
+      <description><![CDATA[「協同 II 行動」的目標是網路釣魚、勒索軟體和資訊竊取。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/11/law-enforcement-operation-takes-down-22000-malicious-ip-addresses-worldwide/</guid>
       <pubDate>Thu, 07 Nov 2024 23:12:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[它具有良好的鋪展性、黏性和摩擦力，使投手能夠更好地抓球。]]></description>
       <guid>https://arstechnica.com/science/2024/11/what-makes-baseballs-magic-mud-so-special/</guid>
       <pubDate>Thu, 07 Nov 2024 17:07:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顧：我們的「華盛頓人工智慧」會議非常棒——這就是您錯過的內容</title>
-      <link>https://arstechnica.com/ai/2024/11/recap-ars-in-dc/</link>
-      <description><![CDATA[專家們齊聚一堂，說故事，品嚐雞尾酒。很有趣！]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/recap-ars-in-dc/</guid>
-      <pubDate>Thu, 07 Nov 2024 16:42:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

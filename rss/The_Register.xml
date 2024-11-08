@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 08 Nov 2024 12:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 12:56:26 GMT</lastBuildDate>
+    <item>
+      <title>歐洲最大的地方當局因 ERP 部署“最差”而受到猛烈抨擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/</link>
+      <description><![CDATA[政府任命的專員表示伯明罕在災難性的實施過程中嚴重缺乏Oracle 技能 英國政府任命的專員將伯明翰市議會的Oracle Fusion 部署稱為「他們見過的最糟糕的ERP 部署」。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/</guid>
+      <pubDate>Fri, 08 Nov 2024 12:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>CISPE 框架有助於歐盟資料法合規性和雲端切換</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/cispe_eu_data_act/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>NHS 將推出「即時監測系統」以預防未來的流行病</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/</link>
-      <description><![CDATA[奈米孔DNA 篩檢技術可以識別新型病原體，並在短短六小時內提出治療方案 英國的公私合作夥伴關係正在建立政府所說的「世界上第一個實時監測系統」系統」來追蹤和預防未來的流行病。 ...]]></description>
+      <description><![CDATA[奈米孔DNA 篩檢技術可以識別新型病原體，並在短短六小時內提出治療方案 英國的一個公私合作夥伴關係正在建立政府所說的「世界上第一個即時監測系統」系統」來追蹤和預防未來的流行病。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/</guid>
       <pubDate>Fri, 08 Nov 2024 07:30:09 GMT</pubDate>
     </item>
     <item>
       <title>NASA 啟動超靜音超音速 X-59 飛機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nasa_fires_up_x_59/</link>
-      <description><![CDATA[一項名為Questst 的嘗試 Vid 美國宇航局希望這架飛機將迎來新一代超音速但相對安靜的運輸工具，該飛機已首次啟動其引擎測試...]]></description>
+      <description><![CDATA[一項名為Questst 的嘗試 Vid 美國太空總署希望這架飛機將迎來新一代超音速但相對安靜的運輸工具，它已首次啟動其引擎測試...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nasa_fires_up_x_59/</guid>
       <pubDate>Fri, 08 Nov 2024 05:26:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>在 Palantir 和 AWS 的支援下，Anthropic 的 Claude 進軍美國國防情報領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</link>
-      <description><![CDATA[五角大廈和中央情報局手中可進行情緒操縱的人工智慧？這肯定會有好結果 Palantir 宣布與 Anthropic 和 Amazon Web Services 合作，建立一個適合美國政府最安全的國防和情報用例的雲端 Claude 平台。]]></description>
+      <description><![CDATA[五角大廈和中央情報局手中可進行情緒操縱的人工智慧？這肯定會有好結果 Palantir 宣布與 Anthropic 和 Amazon Web Services 合作，建立一個雲端 Claude 平台，適合最安全的美國政府國防和情報用例。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</guid>
       <pubDate>Thu, 07 Nov 2024 23:40:12 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>單一平台方法可能無法滿足人工智慧資料管理的要求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</link>
-      <description><![CDATA[Gartner 警告稱，資料平台供應商無法滿足您的所有需求 Gartner 警告稱，用戶在準備滿足人工智慧和機器學習對其資料管理系統的需求時，應警惕單一平台方法...]]></description>
+      <description><![CDATA[Gartner 警告稱，資料平台供應商無法滿足您的所有需求 Gartner 警告稱，用戶在為資料管理系統滿足人工智慧和機器學習的需求時應注意單一平台方法.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</guid>
       <pubDate>Thu, 07 Nov 2024 21:06:11 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>台積電優先考慮高數值孔徑 EUV 掃描儀進行研發</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/tsmc_highna_euv/</link>
-      <description><![CDATA[即使今年到來，也可能要到2030 年才能充分利用 在其製造工具中，台灣積體電路製造公司正在優先考慮採購高數值孔徑極紫外線掃描儀以進行研發。]]></description>
+      <description><![CDATA[即使今年到來，也可能要到 2030 年才能全面使用 在其製造工具中，台灣積體電路製造公司優先考慮採購高數值孔徑極紫外掃描儀進行研發。 /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/tsmc_highna_euv/</guid>
       <pubDate>Thu, 07 Nov 2024 17:59:10 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>Arm 的特許權使用費收入激增，高層大談人工智慧財富的希望</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/arm_q2_2025/</link>
-      <description><![CDATA[第二季Armv9 採用率成長23%，但授權數量下降 智慧型手機晶片冠軍Arm 在Armv9 技術的採用推動下，因特許權使用費收入不斷擴大而沾沾自喜，但高管們卻無法停止將人工智慧視為其發展方向未來的搖錢樹。]]></description>
+      <description><![CDATA[第二季Armv9 採用率攀升23%，但許可數量下降 智慧型手機晶片冠軍Arm 在Armv9 技術的採用推動下，因特許權使用費收入不斷擴大而沾沾自喜，但高管們卻無法停止將人工智慧視為其發展方向未來的搖錢樹。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/arm_q2_2025/</guid>
       <pubDate>Thu, 07 Nov 2024 16:08:12 GMT</pubDate>
     </item>
     <item>
       <title>諾蘭宇宙蝙蝠車跨越了電影和現實之間的障礙——但它會讓你付出代價</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/the_batmobile_is_real_and_expensive/</link>
-      <description><![CDATA[手上有 290 萬美元的閒置資金嗎？請求朋友... 如果你自認為是蝙蝠俠迷——而且你有布魯斯·韋恩級別的花錢能力——那麼你可能是少數幸運兒之一，能夠獲得一部可用的、經過許可的複製品。 ...]]></description>
+      <description><![CDATA[手上有 290 萬美元的閒置資金嗎？請求朋友... 如果您自認為是蝙蝠俠迷，並且您擁有布魯斯·韋恩級別的花錢能力，那麼您可能是少數幸運兒之一，能夠獲得蝙蝠俠的有效、授權複製品。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/the_batmobile_is_real_and_expensive/</guid>
       <pubDate>Thu, 07 Nov 2024 15:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Register 試用 AMD 的 Ryzen 9800X3D</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/amd_ryzen_9800x3d_review/</link>
-      <description><![CDATA[Zen 5 3D V-cache 終於來了，售價479 美元- 一款適合遊戲玩家的晶片還是適合所有人的多用途桌上型晶片？ AMD 正式發布今天推出了備受期待的基於Zen 5 架構的下一代X3D 桌面處理器，這意味著The Register 可以讓您了解我們親自試用過的8 核Ryzen 9800X3D。 .. .. .  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/amd_ryzen_9800x3d_review/</guid>
-      <pubDate>Thu, 07 Nov 2024 14:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
