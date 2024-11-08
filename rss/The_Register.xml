@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 08 Nov 2024 21:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 22:37:40 GMT</lastBuildDate>
+    <item>
+      <title>法官駁回出版商針對 OpenAI 的版權訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/openai_copyright_suit_dismissed/</link>
+      <description><![CDATA[Raw Story 和AltNet 獲準修改投訴 美國法官駁回了針對ChatGPT 開發商OpenAI 的訴訟，該公司指控其在為其聊天機器人構建訓練集時非法刪除了版權管理信息(CMI )。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/openai_copyright_suit_dismissed/</guid>
+      <pubDate>Fri, 08 Nov 2024 22:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>台積電暫停向中國人工智慧公司出貨先進晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[好奇心使犯罪分子能夠存取錢包和密碼 組織應該警惕偽造的版權侵權電子郵件，因為它們可能是網路犯罪分子竊取其資料的最新策略。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/fake_copyright_email_malware/</guid>
       <pubDate>Thu, 07 Nov 2024 22:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>單一平台方法可能無法滿足人工智慧資料管理的要求</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</link>
-      <description><![CDATA[Gartner 警告稱，資料平台供應商無法滿足您的所有需求 Gartner 警告稱，用戶在為資料管理系統滿足人工智慧和機器學習的需求時應注意單一平台方法.. .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</guid>
-      <pubDate>Thu, 07 Nov 2024 21:06:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
