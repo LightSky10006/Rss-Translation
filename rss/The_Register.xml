@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 08 Nov 2024 02:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 03:00:04 GMT</lastBuildDate>
+    <item>
+      <title>Winos4.0濫用遊戲應用程式來感染、控制Windows機器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</link>
+      <description><![CDATA[「多個」惡意軟體樣本可能針對教育組織 犯罪分子正在使用遊戲相關應用程式透過名為Winos4.0 的惡意軟體框架感染Windows 系統，該框架使攻擊者能夠完全控制受感染的電腦。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</guid>
+      <pubDate>Fri, 08 Nov 2024 02:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>IBM因Weather Channel資料共享風暴再次被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/ibm_weather_channel_privacy/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[據信金正恩的一萬名士兵將前往前線 歐盟與美國和韓國官員一起對俄羅斯向朝鮮轉讓技術以換取軍事援助表示擔憂烏克蘭…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/russia_tech_transfer_north_korea/</guid>
       <pubDate>Thu, 07 Nov 2024 02:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 晶片新創公司 Tenstorrent 將與政府簽訂 5,000 萬美元培訓日本工程師的協議</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/tenstorrent_japan_training/</link>
-      <description><![CDATA[政府希望再次在本土發展半導體 日本已要求人工智慧晶片新創公司Tenstorrent 在五年內在其美國辦事處培訓多達200 名來自該國的晶片設計師，以幫助注入資金日本半導體產業的新血液......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/tenstorrent_japan_training/</guid>
-      <pubDate>Thu, 07 Nov 2024 01:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
