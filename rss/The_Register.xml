@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 07 Nov 2024 23:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 00:57:12 GMT</lastBuildDate>
+    <item>
+      <title>機器人扼殺了低技能工人的職業機會</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/robots_crush_career_low_skill/</link>
+      <description><![CDATA[研究發現，它們還增加了對民粹主義政客的支持 根據最近的一項研究，機器人正在貶值並破壞製造業和與區域經濟相關的其他工作中工人的職業生涯。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/robots_crush_career_low_skill/</guid>
+      <pubDate>Fri, 08 Nov 2024 00:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Palantir 和 AWS 的支援下，Anthropic 的 Claude 進軍美國國防情報領域</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</link>
+      <description><![CDATA[五角大廈和中央情報局手中可進行情緒操縱的人工智慧？這肯定會有好結果 Palantir 宣布與 Anthropic 和 Amazon Web Services 合作，建立一個適合美國政府最安全的國防和情報用例的雲端 Claude 平台。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</guid>
+      <pubDate>Thu, 07 Nov 2024 23:40:12 GMT</pubDate>
+    </item>
     <item>
       <title>太空科學家調諧到快速無線電爆發的野生起源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/fast_radio_burst_research/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[如果今天的新聞週期還不夠令人震驚，這裡有來自 Sophos 的精彩 根據一系列詳細介紹其與中國網絡攻擊者五年鬥爭的嚴肅報告，Sophos 放棄了一個關於針對特定受害者群體的流行資訊竊取者兼RAT 的使用者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/bengal_cat_australia/</guid>
       <pubDate>Wed, 06 Nov 2024 21:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾因 Raptor Lake 電壓不穩定被起訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/intel_sued_over_raptor_lake_chips/</link>
-      <description><![CDATA[未能就晶片缺陷向客戶發出警告導致欺詐索賠 週二，英特爾在加利福尼亞州聖何塞的聯邦法院被起訴，理由是該晶片製造商的第13 代和第14 代台式處理器來自2022 年和 2023 年有缺陷。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/intel_sued_over_raptor_lake_chips/</guid>
-      <pubDate>Wed, 06 Nov 2024 19:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿雷西博望遠鏡可能因插座薄弱而失敗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/</link>
-      <description><![CDATA[電磁輻射導致了這種鋅化感覺：分析師 2020 年阿雷西博天文台305 公尺望遠鏡的倒塌歸因於望遠鏡電纜熔煉中的鋅蠕變（由於應力導致的緩慢變形）根據美國國家科學院、工程院和醫學院的委員會報告，… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/</guid>
-      <pubDate>Wed, 06 Nov 2024 18:40:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
