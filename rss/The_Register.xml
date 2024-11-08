@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 08 Nov 2024 20:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 21:11:53 GMT</lastBuildDate>
+    <item>
+      <title>台積電暫停向中國人工智慧公司出貨先進晶片</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</link>
+      <description><![CDATA[因美國壓力而暫停 7 奈米及更小製程 半導體巨頭台積電預計將停止向正在開發 AI 處理器或 GPU 的中國客戶供應採用 7 奈米或更小製程製造的晶片。據報道，此舉是為了確保其仍符合美國的出口限制。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</guid>
+      <pubDate>Fri, 08 Nov 2024 21:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>價值 5000 萬美元的半導體詐欺者承認俄羅斯晶片出口計畫有罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/50m_semiconductor_shyster_pleads_guilty/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>Watchdog 發現人工智慧工具可被非法用於以種族、性別篩選候選人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/ico_finds_ai_tools_can/</link>
-      <description><![CDATA[英國資料監管機構表示，一些開發者和提供者在沒有「合法依據」的情況下運作 英國資料保護監管機構發現，人工智慧招募技術可以根據種族、性別和性等受保護特徵過濾候選人方向... ]]></description>
+      <description><![CDATA[英國資料監管機構表示，一些開發者和提供者的營運沒有「合法依據」 英國資料保護監管機構發現，人工智慧招募技術可以根據種族、性別和性等受保護特徵過濾候選人方向... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/ico_finds_ai_tools_can/</guid>
       <pubDate>Fri, 08 Nov 2024 10:24:09 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>NHS 將推出「即時監測系統」以預防未來的流行病</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/</link>
-      <description><![CDATA[奈米孔DNA 篩檢技術可以識別新型病原體，並在短短六小時內提出治療方案 英國的公私合作夥伴關係正在建立政府所說的「世界上第一個實時監測系統」系統」來追蹤和預防未來的流行病。 ...]]></description>
+      <description><![CDATA[奈米孔DNA 篩檢技術可以識別新型病原體，並在短短六小時內提出治療方案 英國的一個公私合作夥伴關係正在建立政府所說的「世界上第一個即時監測系統」系統」來追蹤和預防未來的流行病。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/</guid>
       <pubDate>Fri, 08 Nov 2024 07:30:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Winos4.0濫用遊戲應用程式來感染、控制Windows機器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</link>
-      <description><![CDATA[「多個」惡意軟體樣本可能針對教育組織 犯罪分子正在使用與遊戲相關的應用程式透過名為Winos4.0 的惡意軟體框架感染Windows 系統，該框架使攻擊者能夠完全控制受感染的電腦。]]></description>
+      <description><![CDATA[「多個」惡意軟體樣本可能針對教育組織 犯罪分子正在使用遊戲相關應用程式透過名為Winos4.0 的惡意軟體框架感染Windows 系統，該框架使攻擊者能夠完全控制受感染的電腦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</guid>
       <pubDate>Fri, 08 Nov 2024 02:30:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>在 Palantir 和 AWS 的支援下，Anthropic 的 Claude 進軍美國國防情報領域</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</link>
-      <description><![CDATA[五角大廈和中央情報局手中可進行情緒操縱的人工智慧？這肯定會有好結果 Palantir 宣布與 Anthropic 和 Amazon Web Services 合作，建立一個適合美國政府最安全的國防和情報用例的雲端 Claude 平台。]]></description>
+      <description><![CDATA[五角大廈和中央情報局手中可進行情緒操縱的人工智慧？這肯定會有好結果 Palantir 宣布與 Anthropic 和 Amazon Web Services 合作，建立一個雲端 Claude 平台，適合最安全的美國政府國防和情報用例。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/</guid>
       <pubDate>Thu, 07 Nov 2024 23:40:12 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>單一平台方法可能無法滿足人工智慧資料管理的要求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</link>
-      <description><![CDATA[Gartner 警告稱，資料平台供應商無法滿足您的所有需求 Gartner 警告稱，用戶在準備滿足人工智慧和機器學習對其資料管理系統的需求時，應警惕單一平台方法...]]></description>
+      <description><![CDATA[Gartner 警告稱，資料平台供應商無法滿足您的所有需求 Gartner 警告稱，用戶在為資料管理系統滿足人工智慧和機器學習的需求時應注意單一平台方法.. .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/</guid>
       <pubDate>Thu, 07 Nov 2024 21:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普當選後股票飆升，十大億萬富翁賺了近 64B 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/top_10_billionaires/</link>
-      <description><![CDATA[十分之九是技術人員，但祖克柏賠了錢 唐納德·川普當選後，昨天的股市反彈為科技精英的口袋增加了數十億美元，儘管馬克·祖克柏顯然未能兌現...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/top_10_billionaires/</guid>
-      <pubDate>Thu, 07 Nov 2024 20:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
