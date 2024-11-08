@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 08 Nov 2024 07:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 08:40:11 GMT</lastBuildDate>
+    <item>
+      <title>技術支援世界紀錄？從查看到修復只需 8.5 秒</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/on_call/</link>
+      <description><![CDATA[即使在 Google 出現之前的時代，您最快的解決方案也會瞬間交付 隨叫隨到 一週的工作可能會很艱難。 On Call 的作者本周也休假了，但在此之前，我們正在準備The Register 週五專欄的新一期，該專欄講述了讀者善意貢獻的技術支持故事。 ... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/on_call/</guid>
+      <pubDate>Fri, 08 Nov 2024 08:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>NHS 將推出「即時監測系統」以預防未來的流行病</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[儘管如此，IT 支出仍將增加，而且這不僅僅與wundertech 3 是一個神奇的數字，或者更具體地說，距離殺手級應用程式出現以幫助企業更有效地使用生成式AI 需要數年的時間顯著提高生產力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/it_spend_europe_2025/</guid>
       <pubDate>Thu, 07 Nov 2024 13:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科獲得滿分 CVSS 10，其無線系統有嚴重缺陷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/07/cisco_uiws_flaw/</link>
-      <description><![CDATA[超可靠無線回程並不名副其實 思科正在針對一個缺陷發布嚴重警報通知，該缺陷使其所謂的超可靠無線回程系統很容易被破壞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/07/cisco_uiws_flaw/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:48:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
