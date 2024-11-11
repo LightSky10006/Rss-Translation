@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 10 Nov 2024 16:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 03:01:33 GMT</lastBuildDate>
+    <item>
+      <title>川普總統任期內 CHIPS 和科學法案的連續性受到質疑</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/asia_in_brief_nov_11/</link>
+      <description><![CDATA[加上：馬來西亞資料中心工人的最低工資較高；朝鮮人可能會發現辛辣的內容；韓國因資料濫用等原因對 Meta 處以罰款 亞洲簡訊美國總統職位和方向的變化......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/asia_in_brief_nov_11/</guid>
+      <pubDate>Mon, 11 Nov 2024 02:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>在您家中開始微調法學碩士所需的一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>台積電暫停向中國人工智慧公司出貨先進晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</link>
-      <description><![CDATA[因美國壓力而暫停 7 奈米及更小製程 半導體巨頭台積電預計將停止向正在開發 AI 處理器或 GPU 的中國客戶供應採用 7 奈米或更小製程製造的晶片。據報道，此舉是為了確保其仍符合美國的出口限制。]]></description>
+      <description><![CDATA[響應美國壓力，暫停 7 奈米及更小製程 半導體巨頭台積電預計將停止向正在開發 AI 處理器或 GPU 的中國客戶供應採用 7 奈米或更小製程製造的晶片。據報道，此舉是為了確保其仍符合美國的出口限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</guid>
       <pubDate>Fri, 08 Nov 2024 21:01:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「多個」惡意軟體樣本可能針對教育組織 犯罪分子正在使用遊戲相關應用程式透過名為Winos4.0 的惡意軟體框架感染Windows 系統，該框架使攻擊者能夠完全控制受感染的電腦。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</guid>
       <pubDate>Fri, 08 Nov 2024 02:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM因Weather Channel資料共享風暴再次被起訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/ibm_weather_channel_privacy/</link>
-      <description><![CDATA[隱私訴訟以這種方式爆發，指控未經許可披露姓名、電子郵件地址、地理資訊、影片標題 IBM 因涉嫌允許第三方廣告合作夥伴未經同意透過以下方式收集個人資料而再次被起訴天氣頻道網站上的影片。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/ibm_weather_channel_privacy/</guid>
-      <pubDate>Fri, 08 Nov 2024 01:20:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
