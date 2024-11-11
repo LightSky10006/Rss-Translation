@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 16:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 17:36:08 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
+      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
+      <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
+    </item>
     <item>
       <title>騙子加大緊急數據請求詐騙力度，聯邦調查局 (FBI) 發出警告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/fraudulent_edr_emails/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>澳洲告訴孩子：16 歲之前不要使用 TikTok...或 X、Instagram 和 Facebook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/australia_social_media_ban/</link>
-      <description><![CDATA[因違反社群媒體超時規定而受到懲罰的是科技公司，而不是用戶 澳洲政府已確認將制定立法，禁止 16 歲以下的人使用社群媒體。 p&gt;]]></description>
+      <description><![CDATA[因違反社群媒體超時規定而受到懲罰的是科技公司，而不是用戶 澳洲政府已確認將制定立法，禁止 16 歲以下的人訪問社群媒體。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/australia_social_media_ban/</guid>
       <pubDate>Mon, 11 Nov 2024 10:27:08 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 11 Nov 2024 02:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>在您家中開始微調法學碩士所需的一切</title>
+      <title>在家中私密地開始微調法學碩士所需了解的一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</link>
       <description><![CDATA[有現代 Nvidia 或 AMD 顯示卡嗎？自訂 Llamas 只需要幾個指令和一些資料準備 動手 大型語言模型 (LLM) 在產生文字和反芻資訊方面非常有效，但它們最終受到他們接受訓練的資料集的限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[有人想告訴 Linus Torvalds 嗎？不？我不這麼認為 意見我一定是個貪圖懲罰的人。我的第一種程式語言不僅是 IBM 360 Assembler，我的第二語言也是 C。在任何一個中安全編程都困難得多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/the_us_government_wants_developers/</guid>
       <pubDate>Fri, 08 Nov 2024 18:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟仍未就意外的 Windows Server 2025 安裝發表任何言論</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/windows_2025_surprise_install/</link>
-      <description><![CDATA[受影響的業務電話情況“極其危險”，系統管理員提醒他們檢查備份和恢復策略 微軟對本週早些時候以安全更新為幌子出現的Windows Server 2025 保持沉默，這在很大程度上影響了受影響的管理員感到懊惱。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/windows_2025_surprise_install/</guid>
-      <pubDate>Fri, 08 Nov 2024 16:25:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
