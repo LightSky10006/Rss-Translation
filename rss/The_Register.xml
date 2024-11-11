@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 15:36:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 16:43:11 GMT</lastBuildDate>
+    <item>
+      <title>騙子加大緊急數據請求詐騙力度，聯邦調查局 (FBI) 發出警告</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/fraudulent_edr_emails/</link>
+      <description><![CDATA[僅僅因為它是.gov 並不意味著電子郵件是值得信賴的 網路騙子在美國濫用緊急資料請求並不新鮮，但FBI 表示，隨著時間的推移，這正成為一個更明顯的問題到此結束。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/fraudulent_edr_emails/</guid>
+      <pubDate>Mon, 11 Nov 2024 16:23:12 GMT</pubDate>
+    </item>
     <item>
       <title>一群猴子逃離南卡羅來納州生物醫學研究設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/lab_monkeys_south_carolina/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>澳洲告訴孩子：16 歲之前不要使用 TikTok...或 X、Instagram 和 Facebook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/australia_social_media_ban/</link>
-      <description><![CDATA[因違反社群媒體超時規定而受到懲罰的是科技公司，而不是用戶 澳洲政府已確認將制定立法，禁止 16 歲以下的人訪問社群媒體。 p&gt;]]></description>
+      <description><![CDATA[因違反社群媒體超時規定而受到懲罰的是科技公司，而不是用戶 澳洲政府已確認將制定立法，禁止 16 歲以下的人使用社群媒體。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/australia_social_media_ban/</guid>
       <pubDate>Mon, 11 Nov 2024 10:27:08 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>阿爾法大屠殺的悲慘故事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</link>
-      <description><![CDATA[那些舊作業系統具有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
+      <description><![CDATA[那些舊作業系統擁有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</guid>
       <pubDate>Mon, 11 Nov 2024 07:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[受影響的業務電話情況“極其危險”，系統管理員提醒他們檢查備份和恢復策略 微軟對本週早些時候以安全更新為幌子出現的Windows Server 2025 保持沉默，這在很大程度上影響了受影響的管理員感到懊惱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/windows_2025_surprise_install/</guid>
       <pubDate>Fri, 08 Nov 2024 16:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>分散的蜘蛛和黑貓從地下犯罪組織爬了回來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/scattered_spider_blackcat_return/</link>
-      <description><![CDATA[我們現在都知道怪物永遠不死，對吧？  兩個備受矚目的犯罪團夥，分散蜘蛛和黑貓/ALPHV，在一系列引人注目的事件之後，似乎像他們的同名者一樣消失在黑暗中去年發生了數字搶劫事件，隨後發生了逮捕和網站查封事件。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/scattered_spider_blackcat_return/</guid>
-      <pubDate>Fri, 08 Nov 2024 14:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
