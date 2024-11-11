@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 17:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:41:38 GMT</lastBuildDate>
+    <item>
+      <title>QNX 8 成為免費軟體 – 用於非商業用途</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/qnx_8_freeware/</link>
+      <description><![CDATA[這並不是嵌入式微核心作業系統第一次更改其條款 QNX 微核心即時作業系統的軟體開發平台第8 版已經成為免費軟體- 但有一些附加條件。 . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/qnx_8_freeware/</guid>
+      <pubDate>Mon, 11 Nov 2024 18:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外，被指控的前軍事叛徒也在法蘭克福被捕 美國正在推進對一名男子的起訴，該男子被指控非法向俄羅斯受制裁企業運送半導體，此前他承認了以下罪行：數百萬美元的計劃......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/50m_semiconductor_shyster_pleads_guilty/</guid>
       <pubDate>Fri, 08 Nov 2024 19:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國政府希望開發者停止使用 C 和 C++</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/the_us_government_wants_developers/</link>
-      <description><![CDATA[有人想告訴 Linus Torvalds 嗎？不？我不這麼認為 意見我一定是個貪圖懲罰的人。我的第一種程式語言不僅是 IBM 360 Assembler，我的第二語言也是 C。在任何一個中安全編程都困難得多。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/the_us_government_wants_developers/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:01:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
