@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 03:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 03:41:10 GMT</lastBuildDate>
+    <item>
+      <title>涉嫌雪花襲擊者被加拿大人抓獲——我們假設是禮貌地抓獲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/infosec_in_brief/</link>
+      <description><![CDATA[此外：加密貨幣駭客攻擊將會持續； CoD 駭客遭到數千人封禁，還有更多 簡而言之 大範圍Snowflake 違規事件的幕後主謀之一已在加拿大被捕- 但傳奇還沒有結束，嗯。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/infosec_in_brief/</guid>
+      <pubDate>Mon, 11 Nov 2024 03:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>川普總統任期內 CHIPS 和科學法案的連續性受到質疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/asia_in_brief_nov_11/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[政府命令摧毀了“數百個高薪本地工作崗位”，呃 加拿大已下令解散TikTok 的加拿大業務，但並未禁止該應用本身，理由是與字節跳動在加拿大的業務相關的國家安全風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/canada_closes_tiktok_offices/</guid>
       <pubDate>Fri, 08 Nov 2024 03:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winos4.0濫用遊戲應用程式來感染、控制Windows機器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</link>
-      <description><![CDATA[「多個」惡意軟體樣本可能針對教育組織 犯罪分子正在使用遊戲相關應用程式透過名為Winos4.0 的惡意軟體框架感染Windows 系統，該框架使攻擊者能夠完全控制受感染的電腦。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/</guid>
-      <pubDate>Fri, 08 Nov 2024 02:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
