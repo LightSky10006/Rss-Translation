@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 13:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 13:38:27 GMT</lastBuildDate>
+    <item>
+      <title>NPU：神經處理單元還是不必要的昂貴追加銷售？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/npu_debate/</link>
+      <description><![CDATA[為了技術而技術，傳統硬體可以處理的利基用途 意見 如果您現在還沒有聽說過神經處理單元(NPU)，那麼您一定錯過了英特爾、AMD 和高通一年的人工智慧行銷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/npu_debate/</guid>
+      <pubDate>Mon, 11 Nov 2024 13:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>暗網加密貨幣洗錢頭目被判 12.5 年監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/bitcoin_fog_sentencing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[政府任命的專員表示伯明罕在災難性的實施過程中嚴重缺乏Oracle 技能 英國政府任命的專員將伯明翰市議會的Oracle Fusion 部署稱為「他們見過的最糟糕的ERP 部署」。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/</guid>
       <pubDate>Fri, 08 Nov 2024 12:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>CISPE 框架有助於歐盟資料法合規性和雲端切換</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/cispe_eu_data_act/</link>
-      <description><![CDATA[「它可以幫助歐洲組織避免鎖定並設計他們想要的雲端策略」 歐洲雲端聯盟 CISPE 推出了一個框架，幫助成員及其客戶自動遵守歐盟數據法案的義務圍繞數據可移植性與交換......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/cispe_eu_data_act/</guid>
-      <pubDate>Fri, 08 Nov 2024 11:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
