@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 20:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 21:35:14 GMT</lastBuildDate>
+    <item>
+      <title>以下是我們對涉嫌雪花資料勒索者的了解</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/</link>
+      <description><![CDATA[居住在土耳其的一名加拿大人和一名美國人「走進」雲端儲存環境... 兩名男子據稱破壞了據信是多個組織的Snowflake 託管的雲端環境，竊取了其中的敏感資料並勒索至少 3 名受害者提供了至少 250 萬美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/</guid>
+      <pubDate>Tue, 12 Nov 2024 21:10:15 GMT</pubDate>
+    </item>
     <item>
       <title>加拿大通過新的權利修復相同舊問題的規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/canada_right_to_repair/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[尚未出現「回溯」跡象 微軟終於承認 Windows Server 2019 和 2022 的某些執行個體意外升級到 Windows Server 2025。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/microsoft_windows_2025_mitigated/</guid>
       <pubDate>Mon, 11 Nov 2024 14:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NPU：神經處理單元還是不必要的昂貴追加銷售？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/npu_debate/</link>
-      <description><![CDATA[為了技術而技術，傳統硬體可以處理的利基用途 意見 如果您現在還沒有聽說過神經處理單元(NPU)，那麼您一定錯過了英特爾、AMD 和高通一年的人工智慧行銷。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/npu_debate/</guid>
-      <pubDate>Mon, 11 Nov 2024 13:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
