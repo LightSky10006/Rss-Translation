@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 09:37:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 10:40:11 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 版本中發現的 Windows Intelligence 線索</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/windows_intelligence_branding/</link>
+      <description><![CDATA[在哪裡可以找到人工智慧設置，或者只是一個一勞永逸地卸載作業系統的按鈕？具爭議性的元素，例如召回，將保持原樣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/windows_intelligence_branding/</guid>
+      <pubDate>Tue, 12 Nov 2024 10:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>監管機構不情願地支持沃達豐與三巨頭的合併——但附帶條件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/cma_vodafone_three_remedies/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
-      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器... ]]></description>
+      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
       <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>阿爾法大屠殺的悲慘故事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</link>
-      <description><![CDATA[那些舊作業系統擁有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
+      <description><![CDATA[那些舊作業系統具有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</guid>
       <pubDate>Mon, 11 Nov 2024 07:30:11 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 11 Nov 2024 02:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>在家中私密地開始微調法學碩士所需了解的一切</title>
+      <title>在您家中開始微調法學碩士所需的一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</link>
       <description><![CDATA[有現代 Nvidia 或 AMD 顯示卡嗎？自訂 Llamas 只需要幾個指令和一些資料準備 動手 大型語言模型 (LLM) 在產生文字和反芻資訊方面非常有效，但它們最終受到他們接受訓練的資料集的限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在這是一個啤酒哈哈 陷入困境的晶片巨頭英特爾已經取消了一項削減成本的計劃，即取消為其員工提供免費咖啡和茶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/09/intel_free_coffee/</guid>
       <pubDate>Sat, 09 Nov 2024 00:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 的 Automattic 公開追蹤來自競爭對手 WP Engine 的網站</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/automattic_tracking_wpengine/</link>
-      <description><![CDATA[新常態 更新  Automattic 執行長Matt Mullenweg 與競爭對手網站寄存公司WP Engine 之間的不和導致Automattic 創建了一個網站，列出了已遷移其網站的WordPress 客戶遠離WP Engine 託管的網站以及那些沒有託管的網站。... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/automattic_tracking_wpengine/</guid>
-      <pubDate>Fri, 08 Nov 2024 22:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
