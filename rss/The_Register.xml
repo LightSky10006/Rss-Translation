@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 12:58:16 GMT</lastBuildDate>
+    <item>
+      <title>AMD憑藉桌上型電腦收益搶佔了四分之一的x86市場，但伺服器成長放緩</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</link>
+      <description><![CDATA[Arm 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</guid>
+      <pubDate>Tue, 12 Nov 2024 12:43:12 GMT</pubDate>
+    </item>
     <item>
       <title>富士通不信任郵局在未來的第三方起訴中使用 Horizo​​n 數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/fujitsu_does_not_trust_post/</link>
-      <description><![CDATA[歐洲老闆也談到了對有爭議的老化系統的任何擴展使用的「緊張」 富士通歐洲老闆在對郵局醜聞的公開調查中表示，這是最廣泛的流產之一英國歷史上的正義——該公司不信任英國公共機構使用Horizo​​​​n 系統數據來支持未來的警方起訴。]]></description>
+      <description><![CDATA[歐洲老闆也談到了對有爭議的老化系統的任何擴展使用的「緊張」 富士通歐洲老闆在對郵局醜聞的公開調查中表示，這是最廣泛的流產之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/fujitsu_does_not_trust_post/</guid>
       <pubDate>Tue, 12 Nov 2024 11:53:17 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有現代 Nvidia 或 AMD 顯示卡嗎？自訂 Llamas 只需要幾個指令和一些資料準備 動手 大型語言模型 (LLM) 在產生文字和反芻資訊方面非常有效，但它們最終受到他們接受訓練的資料集的限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</guid>
       <pubDate>Sun, 10 Nov 2024 16:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>堅不可摧的航行者號太空探測器即將完成 50 年的任務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/09/voyager_closes_in_on_a/</link>
-      <description><![CDATA[電力逐漸減弱，通訊出現問題，但太空船仍在繼續運行 「我們肯定會迎來50 週年紀念日，」負責NASA 航海者號任務的科學家之一加里·亨特(Garry Hunt) 教授說道，航海家 1 號從意外的通信暫停中恢復過來。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/09/voyager_closes_in_on_a/</guid>
-      <pubDate>Sat, 09 Nov 2024 09:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
