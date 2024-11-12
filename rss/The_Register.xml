@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 21:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 22:37:48 GMT</lastBuildDate>
+    <item>
+      <title>AWS 向研究人員開放 40K Trainium AI 加速器集群</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/</link>
+      <description><![CDATA[向學術界拋出新穎的硬體。這是一個古老的故事 亞馬遜希望更多的人為其定制的Trainium 加速器構建應用程式和框架，並根據週二宣布的1.1 億美元計劃向大學研究人員提供多達40,000 個晶片。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/</guid>
+      <pubDate>Tue, 12 Nov 2024 22:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>以下是我們對涉嫌雪花資料勒索者的了解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Food Lion母公司的「網路安全問題」被歸咎於美國雜貨店混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</link>
-      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; 。 Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 ... ]]></description>
+      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</guid>
       <pubDate>Tue, 12 Nov 2024 19:30:07 GMT</pubDate>
     </item>
@@ -43,35 +50,35 @@
     <item>
       <title>Windows 預覽體驗成員會發現潛伏在聖誕樹下的 Recall 嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</link>
-      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私方面的強烈抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
+      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</guid>
       <pubDate>Tue, 12 Nov 2024 16:34:11 GMT</pubDate>
     </item>
     <item>
       <title>使用新的漏洞程式碼透過 HTTP 進入 Citrix 的虛擬應用程式和桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</link>
-      <description><![CDATA[「我們再一次對互聯網失去了一點信心，」研究人員表示 研究人員正在公開他們所謂的未經身份驗證的遠程代碼的概念驗證 (PoC) 漏洞Citrix 虛擬應用程序和桌面中的執行(RCE) 漏洞。]]></description>
+      <description><![CDATA[「我們再一次對網路失去了信心，」研究人員表示 研究人員正在公開他們所謂的未經身份驗證的遠端程式碼的概念驗證 (PoC) 漏洞Citrix 虛擬應用程式和桌面中的執行(RCE) 漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</guid>
       <pubDate>Tue, 12 Nov 2024 16:11:12 GMT</pubDate>
     </item>
     <item>
       <title>若要消除 C 程式碼中的記憶體安全錯誤，請嘗試 TrapC fork</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</link>
-      <description><![CDATA[計劃於明年推出記憶體安全變體 獨家  C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
+      <description><![CDATA[計劃於明年推出記憶體安全變體 獨家 C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</guid>
       <pubDate>Tue, 12 Nov 2024 14:31:08 GMT</pubDate>
     </item>
     <item>
       <title>亞馬遜證實員工資料外洩與 MOVEit 漏洞有關</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</link>
-      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料的一部分。 ..]]></description>
+      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料庫的一部分。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</guid>
       <pubDate>Tue, 12 Nov 2024 13:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>AMD憑藉桌上型電腦收益搶佔了四分之一的x86市場，但伺服器成長放緩</title>
+      <title>AMD 憑藉桌上型電腦成長搶佔 x86 市場四分之一，但伺服器成長放緩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</link>
-      <description><![CDATA[Arm 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
+      <description><![CDATA[ARM 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</guid>
       <pubDate>Tue, 12 Nov 2024 12:43:12 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
-      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器… ]]></description>
+      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
       <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[警察說，鎖好門窗，但這些應該沒有疾病 我們遺憾地通知您，美國可能很快就會陷入無法無天的無政府狀態：43 隻猴子中的 18 只從南卡羅來納州生物醫學研究設施逃脫的人仍然逍遙法外——我們都知道一兩個這樣開始的恐怖故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/lab_monkeys_south_carolina/</guid>
       <pubDate>Mon, 11 Nov 2024 15:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟「解決」與「緩解」Windows Server 2025更新問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/microsoft_windows_2025_mitigated/</link>
-      <description><![CDATA[尚未出現「回溯」跡象 微軟終於承認 Windows Server 2019 和 2022 的某些執行個體意外升級到 Windows Server 2025。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/microsoft_windows_2025_mitigated/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:18:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
