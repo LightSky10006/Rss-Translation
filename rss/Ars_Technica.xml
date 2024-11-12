@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 12 Nov 2024 18:41:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 20:36:20 GMT</lastBuildDate>
+    <item>
+      <title>唱片公司對法庭勝訴不滿，稱 ISP 應為用戶盜版支付更多費用</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/</link>
+      <description><![CDATA[音樂公司提出上訴，要求為每首歌曲而不是每張專輯付費。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/</guid>
+      <pubDate>Tue, 12 Nov 2024 19:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>川普誓言結束加密貨幣打擊，比特幣創下歷史新高</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/bitcoin-hits-record-high-as-trump-vows-to-end-crypto-crackdown/</link>
+      <description><![CDATA[川普計劃透過任命支持加密貨幣的領導人來重組美國證券交易委員會。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/bitcoin-hits-record-high-as-trump-vows-to-end-crypto-crackdown/</guid>
+      <pubDate>Tue, 12 Nov 2024 19:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 的 Car Thing 因變磚而獲得開源第二次生命</title>
+      <link>https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/</link>
+      <description><![CDATA[現在它更像是桌面產品，但它增加了一些新功能。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/</guid>
+      <pubDate>Tue, 12 Nov 2024 19:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>評測：最快的 M4 MacBook Pro 可能是最無聊的一款</title>
+      <link>https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/</link>
+      <description><![CDATA[這並不是一個令人驚訝的世代更新，但僅僅一年的時間就取得了很大的進步。]]></description>
+      <guid>https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/</guid>
+      <pubDate>Tue, 12 Nov 2024 18:41:34 GMT</pubDate>
+    </item>
     <item>
       <title>打電話給所有 Ars 讀者！需要您的回饋。</title>
       <link>https://arstechnica.com/staff/2024/11/calling-all-ars-readers-your-feedback-is-needed/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>Ars Live：我們第一次接觸操控性人工智慧</title>
       <link>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</link>
-      <description><![CDATA[11 月 19 日，加入 Benj Edwards 和 Simon Willison 的 YouTube 現場聊天，討論「2023 年 Bing 聊天慘敗」。]]></description>
+      <description><![CDATA[11 月 19 日，加入 Benj Edwards 和 Simon Willison 關於「2023 年 Bing Chat 慘敗」的 YouTube 直播聊天。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</guid>
       <pubDate>Tue, 12 Nov 2024 13:17:26 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[“我並沒有說談論這件事讓我感到不舒服。我只是說我們不會談論它。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/</guid>
       <pubDate>Mon, 11 Nov 2024 23:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX 起訴幣安，賠償 $1.76B 與罪犯創辦的加密貨幣交易所之爭</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/</link>
-      <description><![CDATA[訴訟要求 SBF「欺詐性轉移至少 17.6 億美元」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/</guid>
-      <pubDate>Mon, 11 Nov 2024 19:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>「人工智慧福利」是倫理的新領域嗎？</title>
-      <link>https://arstechnica.com/ai/2024/11/anthropic-hires-its-first-ai-welfare-researcher/</link>
-      <description><![CDATA[Anthropic 的新員工正在為先進的人工智慧模型可能遭受苦難的未來做準備。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/anthropic-hires-its-first-ai-welfare-researcher/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>男子因盜竊 400 名美國購屋者 2000 萬美元的積蓄而被判 10 年徒刑</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/hacker-gets-10-years-for-stealing-20m-in-home-buyers-down-payments/</link>
-      <description><![CDATA[有些美國購屋者不但沒有慶祝成交，反而失去了一切。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/hacker-gets-10-years-for-stealing-20m-in-home-buyers-down-payments/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>空氣品質問題刺激2億美元資金用於減少港口污染</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/air-quality-problems-spur-200-million-in-funds-to-cut-pollution-at-ports/</link>
-      <description><![CDATA[柴油設備將被氫動力或電力設備取代。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/air-quality-problems-spur-200-million-in-funds-to-cut-pollution-at-ports/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:27:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
