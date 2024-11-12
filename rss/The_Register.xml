@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 13:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 14:39:02 GMT</lastBuildDate>
+    <item>
+      <title>若要消除 C 程式碼中的記憶體安全錯誤，請嘗試 TrapC fork</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</link>
+      <description><![CDATA[計劃於明年推出記憶體安全變體 獨家  C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</guid>
+      <pubDate>Tue, 12 Nov 2024 14:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜證實員工資料外洩與 MOVEit 漏洞有關</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</link>
-      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料庫的一部分。 ..]]></description>
+      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料的一部分。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</guid>
       <pubDate>Tue, 12 Nov 2024 13:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 憑藉桌上型電腦成長搶佔 x86 市場四分之一，但伺服器成長放緩</title>
+      <title>AMD憑藉桌上型電腦收益搶佔了四分之一的x86市場，但伺服器成長放緩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</link>
-      <description><![CDATA[ARM 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
+      <description><![CDATA[Arm 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</guid>
       <pubDate>Tue, 12 Nov 2024 12:43:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
-      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器... ]]></description>
+      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
       <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>阿爾法大屠殺的悲慘故事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</link>
-      <description><![CDATA[那些舊作業系統擁有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
+      <description><![CDATA[那些舊作業系統具有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</guid>
       <pubDate>Mon, 11 Nov 2024 07:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外：加密貨幣駭客攻擊將會持續； CoD 駭客遭到數千人封禁，還有更多 簡而言之 大範圍Snowflake 違規事件的幕後主謀之一已在加拿大被捕- 但傳奇還沒有結束，嗯。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/infosec_in_brief/</guid>
       <pubDate>Mon, 11 Nov 2024 03:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普總統任期內 CHIPS 和科學法案的連續性受到質疑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/asia_in_brief_nov_11/</link>
-      <description><![CDATA[加上：馬來西亞資料中心工人的最低工資較高；朝鮮人可能會發現辛辣的內容；韓國因資料濫用等原因對 Meta 處以罰款 亞洲簡訊美國總統職位和方向的變化......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/asia_in_brief_nov_11/</guid>
-      <pubDate>Mon, 11 Nov 2024 02:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
