@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 12 Nov 2024 16:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 16:43:25 GMT</lastBuildDate>
+    <item>
+      <title>Windows 預覽體驗成員會發現潛伏在聖誕樹下的 Recall 嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</link>
+      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</guid>
+      <pubDate>Tue, 12 Nov 2024 16:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>使用新的漏洞程式碼透過 HTTP 進入 Citrix 的虛擬應用程式和桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[損壞的更新系統和惡意軟體注入引擎之間有什麼區別？從很多方面來看，確實如此。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/windows_server_2025_opinion/</guid>
       <pubDate>Mon, 11 Nov 2024 09:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿爾法大屠殺的悲慘故事</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</link>
-      <description><![CDATA[那些舊作業系統擁有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</guid>
-      <pubDate>Mon, 11 Nov 2024 07:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
