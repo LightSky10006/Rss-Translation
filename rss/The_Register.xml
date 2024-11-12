@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 11 Nov 2024 23:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 02:57:46 GMT</lastBuildDate>
+    <item>
+      <title>沒有飛行員？沒問題！億航智慧空中計程車在泰國起飛</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/thailand_pilotless_air_taxi/</link>
+      <description><![CDATA[中國公司準備在2025 年之前開通（短途）商業航班 中國城市空中交通企業億航宣布其EH216-S 無人駕駛電動垂直起降(eVTOL) 飛機已完成首次客運飛行在泰國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/thailand_pilotless_air_taxi/</guid>
+      <pubDate>Tue, 12 Nov 2024 02:21:15 GMT</pubDate>
+    </item>
     <item>
       <title>思科將 Meraki 和 Catalyst 合併為單一無線品牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/cisco_single_wireless_range/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
-      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器… ]]></description>
+      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
       <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>阿爾法大屠殺的悲慘故事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</link>
-      <description><![CDATA[那些舊作業系統具有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
+      <description><![CDATA[那些舊作業系統擁有強大的功能 - 您必須小心使用它 誰，我？其中註冊讀者分享了他們可能寧願忘記的技術支援時刻的故事。但忘記不是從錯誤中學習的方法，不是嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/who_me/</guid>
       <pubDate>Mon, 11 Nov 2024 07:30:11 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 11 Nov 2024 02:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>在您家中開始微調法學碩士所需的一切</title>
+      <title>在家中私密地開始微調法學碩士所需了解的一切</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</link>
       <description><![CDATA[有現代 Nvidia 或 AMD 顯示卡嗎？自訂 Llamas 只需要幾個指令和一些資料準備 動手 大型語言模型 (LLM) 在產生文字和反芻資訊方面非常有效，但它們最終受到他們接受訓練的資料集的限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Raw Story 和AltNet 獲準修改投訴 美國法官駁回了針對ChatGPT 開發商OpenAI 的訴訟，該公司指控其在為其聊天機器人構建訓練集時非法刪除了版權管理信息(CMI )。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/openai_copyright_suit_dismissed/</guid>
       <pubDate>Fri, 08 Nov 2024 22:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電暫停向中國人工智慧公司出貨先進晶片</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</link>
-      <description><![CDATA[響應美國壓力，暫停 7 奈米及更小製程 半導體巨頭台積電預計將停止向正在開發 AI 處理器或 GPU 的中國客戶供應採用 7 奈米或更小製程製造的晶片。據報道，此舉是為了確保其仍符合美國的出口限制。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/</guid>
-      <pubDate>Fri, 08 Nov 2024 21:01:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
