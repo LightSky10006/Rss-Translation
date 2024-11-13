@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 16:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 17:37:23 GMT</lastBuildDate>
+    <item>
+      <title>微軟將任務管理器和處理器計數修復納入周二補丁中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/microsoft_task_manager_patch_tuesday/</link>
+      <description><![CDATA[不再擔心核心 微軟已經解決了周二補丁日出現的眾多安全更新中困擾Windows 11 24H2 和Windows Server 2025 用戶的兩個問題。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/microsoft_task_manager_patch_tuesday/</guid>
+      <pubDate>Wed, 13 Nov 2024 17:35:12 GMT</pubDate>
+    </item>
     <item>
       <title>加州最後一座核電廠採用生成式人工智慧進行歸檔和查找細則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nuclear_plant_generative_ai/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，HPE 的新型ProLiant 伺服器提供Gaudi、Hopper 或Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 最新的EX 相比毫無優勢系統，可將三倍多的 GPU 裝入單一機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>空軍國民警衛隊士兵因在 Discord 上洩露機密文件而被判 15 年徒刑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</link>
-      <description><![CDATA[22 歲的傑克·特謝拉(Jack Teixeira) 談到“剔除意志薄弱的人”——嗯！  一名前空軍國民警衛隊成員竊取了美國機密軍事機密，並將其展示給他在Discord 上的遊戲好友，被判處15年監禁。]]></description>
+      <description><![CDATA[22 歲的年輕人談到「剔除意志薄弱的人」—嗯！  一名前空軍國民警衛隊成員竊取了美國機密軍事機密，並將其展示給他在Discord上的遊戲好友，他已經被判處15年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</guid>
       <pubDate>Wed, 13 Nov 2024 00:01:21 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Food Lion母公司的「網路安全問題」被歸咎於美國雜貨店混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</link>
-      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 --&gt;]]></description>
+      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; 。 Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</guid>
       <pubDate>Tue, 12 Nov 2024 19:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verizon 在東海岸搖擺不定，停電切斷了夜貓子的生活</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/verizon_east_coast_outage/</link>
-      <description><![CDATA[T-Mobile US 和Comcast 也略有卡頓 美國東海岸的Verizon FiOS 用戶在假日週末的結局很糟糕，因為超過40,000 名客戶報告被迫離線。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/verizon_east_coast_outage/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
