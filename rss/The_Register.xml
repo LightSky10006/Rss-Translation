@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 20:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 21:35:22 GMT</lastBuildDate>
+    <item>
+      <title>美國太空總署噴射推進實驗室將驅逐數百名工人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/</link>
+      <description><![CDATA[預算限制導致「痛苦但必要的調整」 NASA 噴射推進實驗室(JPL) 將需要失去數百名員工，因為管理人員試圖滿足當前25 財年的預算分配。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/</guid>
+      <pubDate>Wed, 13 Nov 2024 21:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>Snowflake 開放企業和第三方資料的聊天驅動訪問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/snowflake_intelligence/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
-      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個。]]></description>
+      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
       <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[22 歲的年輕人談到「剔除意志薄弱的人」—嗯！  一名前空軍國民警衛隊成員竊取了美國機密軍事機密，並將其展示給他在Discord上的遊戲好友，他已經被判處15年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</guid>
       <pubDate>Wed, 13 Nov 2024 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 向研究人員開放 40K Trainium AI 加速器集群</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/</link>
-      <description><![CDATA[向學術界拋出新穎的硬體。這是一個古老的故事 亞馬遜希望更多的人為其定制的Trainium 加速器構建應用程式和框架，並根據週二宣布的1.1 億美元計劃向大學研究人員提供多達40,000 個晶片。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/</guid>
-      <pubDate>Tue, 12 Nov 2024 22:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
