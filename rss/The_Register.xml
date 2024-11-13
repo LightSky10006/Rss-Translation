@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 21:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 22:12:16 GMT</lastBuildDate>
+    <item>
+      <title>數據經紀人累積了 1 億多筆人員記錄 – 然後有人搶走並出售</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</link>
+      <description><![CDATA[我們稱之為「線索退化」 據稱超過1.83 億條人們的聯絡方式和就業資訊記錄已被竊取或以其他方式從資料經紀人那裡獲得，並被不法分子出售。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</guid>
+      <pubDate>Wed, 13 Nov 2024 21:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署噴射推進實驗室將驅逐數百名工人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
-      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
+      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 的最新EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
       <pubDate>Wed, 13 Nov 2024 14:00:07 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
-      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個產品。]]></description>
+      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
       <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ohm，為了流量 據安全研究人員稱，中國的Volt Typhoon 船員及其殭屍網路又回來了，再次破壞舊的思科路由器，闖入關鍵基礎設施網路並發動網路攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/china_volt_typhoon_back/</guid>
       <pubDate>Wed, 13 Nov 2024 00:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>空軍國民警衛隊士兵因在 Discord 上洩露機密文件而被判 15 年徒刑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</link>
-      <description><![CDATA[22 歲的年輕人談到「剔除意志薄弱的人」—嗯！  一名前空軍國民警衛隊成員竊取了美國機密軍事機密，並將其展示給他在Discord上的遊戲好友，他已經被判處15年監禁。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</guid>
-      <pubDate>Wed, 13 Nov 2024 00:01:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
