@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 13:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 14:12:31 GMT</lastBuildDate>
+    <item>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
+      <description><![CDATA[同時，HPE 的新型ProLiant 伺服器提供Gaudi、Hopper 或Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 最新的EX 相比毫無優勢系統，可將三倍多的 GPU 裝入單一機櫃中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
+      <pubDate>Wed, 13 Nov 2024 14:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>到 2027 年，人工智慧的電力之旅將使能源電網乞求憐憫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/</link>
+      <description><![CDATA[資料中心需求預計在未來兩年內成長160% 人工智慧驅動的資料中心能源需求在未來兩年內可能會成長160%，這使得40% 的現有設施在營運上受到電力供應的限制。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/</guid>
+      <pubDate>Wed, 13 Nov 2024 13:41:34 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 放棄了 2024 年 Mac Mini 的焊接存儲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[計劃於明年推出記憶體安全變體 獨家  C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</guid>
       <pubDate>Tue, 12 Nov 2024 14:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜證實員工資料外洩與 MOVEit 漏洞有關</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</link>
-      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料的一部分。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</guid>
-      <pubDate>Tue, 12 Nov 2024 13:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD憑藉桌上型電腦收益搶佔了四分之一的x86市場，但伺服器成長放緩</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</link>
-      <description><![CDATA[Arm 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</guid>
-      <pubDate>Tue, 12 Nov 2024 12:43:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
