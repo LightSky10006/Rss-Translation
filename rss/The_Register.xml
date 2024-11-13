@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 19:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 19:36:12 GMT</lastBuildDate>
+    <item>
+      <title>Snowflake 開放企業和第三方資料的聊天驅動訪問</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/snowflake_intelligence/</link>
+      <description><![CDATA[Cortex 支援的前端可以更輕鬆地獲取跨多個來源的見解 Snowflake 將預覽一個新平台，據稱該平台將幫助組織構建聊天機器人，可以從其自己的分析系統和其他系統中提供資料雲資料平台供應商外部。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/snowflake_intelligence/</guid>
+      <pubDate>Wed, 13 Nov 2024 19:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>勒索軟體惡魔聲稱他們從美國藥房網絡竊取了 1.4TB 數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/embargo_ransomware_breach_aap/</link>
+      <description><![CDATA[美國聯合藥局尚未正式確認感染 美國聯合藥局 (AAP) 是最新一家其資料被網路騙子竊取和加密的美國醫療保健組織，人們擔心。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/embargo_ransomware_breach_aap/</guid>
+      <pubDate>Wed, 13 Nov 2024 19:10:13 GMT</pubDate>
+    </item>
     <item>
       <title>AMD 裁員 4%，同時緊盯著人工智慧和伺服器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/amd_confirms_layoffs/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
@@ -106,7 +120,7 @@
     <item>
       <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
-      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個產品。]]></description>
+      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
       <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[向學術界拋出新穎的硬體。這是一個古老的故事 亞馬遜希望更多的人為其定制的Trainium 加速器構建應用程式和框架，並根據週二宣布的1.1 億美元計劃向大學研究人員提供多達40,000 個晶片。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/</guid>
       <pubDate>Tue, 12 Nov 2024 22:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是我們對涉嫌雪花資料勒索者的了解</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/</link>
-      <description><![CDATA[居住在土耳其的一名加拿大人和一名美國人「走進」雲端儲存環境... 兩名男子據稱破壞了據信是多個組織的Snowflake 託管的雲端環境，竊取了其中的敏感資料並勒索至少 3 名受害者提供了至少 250 萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/</guid>
-      <pubDate>Tue, 12 Nov 2024 21:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大通過新的權利修復相同舊問題的規則</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/canada_right_to_repair/</link>
-      <description><![CDATA[沒有提及如何獲得繞過軟體鎖的工具，意味著所有者仍然在法律上對原始設備製造商負責 隨著兩項允許繞過軟體鎖的法律的通過，數位軟體鎖在加拿大變得更加脆弱用於修復和互通性目的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/canada_right_to_repair/</guid>
-      <pubDate>Tue, 12 Nov 2024 20:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
