@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 15:37:57 GMT</lastBuildDate>
+    <item>
+      <title>Mozilla 的 Firefox 瀏覽器已經 20 歲了。</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/mozillas_firefox_browser/</link>
+      <description><![CDATA[一位前高管相信該非營利組織的使命，稱戰線已經改變 Mozilla 的Firefox 瀏覽器在周末迎來了第二個十年，Mozilla 公司首席執行官勞拉·錢伯斯(Laura Chambers) 慶祝了這一事件。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/mozillas_firefox_browser/</guid>
+      <pubDate>Wed, 13 Nov 2024 15:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>雄心勃勃的超頻玩家用液態氮冷卻 Raspberry Pi 5</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/raspberry_pi_4ghz/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，HPE 的新型ProLiant 伺服器提供Gaudi、Hopper 或Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 最新的EX 相比毫無優勢系統，可將三倍多的 GPU 裝入單一機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
-      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個產品。]]></description>
+      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
       <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Food Lion母公司的「網路安全問題」被歸咎於美國雜貨店混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</link>
-      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 --&gt;]]></description>
+      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; 。 Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</guid>
       <pubDate>Tue, 12 Nov 2024 19:30:07 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Windows 預覽體驗成員會發現潛伏在聖誕樹下的 Recall 嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</link>
-      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
+      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私方面的強烈抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</guid>
       <pubDate>Tue, 12 Nov 2024 16:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用新的漏洞程式碼透過 HTTP 進入 Citrix 的虛擬應用程式和桌面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</link>
-      <description><![CDATA[「我們再一次對網路失去了信心，」研究人員表示 研究人員正在公開他們所謂的未經身份驗證的遠端程式碼的概念驗證 (PoC) 漏洞Citrix 虛擬應用程式和桌面中的執行(RCE) 漏洞。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:11:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
