@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 23:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 23:36:36 GMT</lastBuildDate>
+    <item>
+      <title>川普當選總統將如何改變科技業</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/</link>
+      <description><![CDATA[在接下來的五年...十年內任何事情都可能發生 Kettle  儘管無數次警告稱美國總統選舉將導致一場長達數月的戰鬥，但最終會取得決定性勝利通過唐納德·特朗普和他的政黨，我們可以立即展望未來四年的共和黨統治可能如何改變科技行業。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/</guid>
+      <pubDate>Wed, 13 Nov 2024 23:30:31 GMT</pubDate>
+    </item>
     <item>
       <title>台積電美國業務面臨員工歧視集體訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 13 Nov 2024 22:27:42 GMT</pubDate>
     </item>
     <item>
-      <title>數據經紀人累積了 1 億多筆人員記錄 – 然後有人搶走並出售</title>
+      <title>數據經紀人累積了 1 億多筆人員記錄——然後有人搶走並出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</link>
       <description><![CDATA[我們稱之為「線索退化」 據稱超過1.83 億條人們的聯絡方式和就業資訊記錄已被竊取或以其他方式從資料經紀人那裡獲得，並被不法分子出售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[韓國希望取消加班上限，而日本則以模糊的資金投入資金 分析 多個東南亞國家（包括韓國、日本和越南）最近已開放努力重新制定或修改其半導體策略。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/southeast_asian_nations_amend_semiconductor/</guid>
       <pubDate>Wed, 13 Nov 2024 02:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
-      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個產品。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
-      <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
