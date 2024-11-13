@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 00:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 02:15:23 GMT</lastBuildDate>
+    <item>
+      <title>管理員可以在今年 11 月感謝微軟提供的大量補丁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</link>
+      <description><![CDATA[不要像火雞一樣- 修復這些問題 星期二補丁  星期二補丁再次出現，微軟已在其產品中發布了針對89 個CVE 列出的安全漏洞的修復程式產品 - 包括兩個受到主動攻擊的產品 - 並重新發布了另外三個。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:29:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國的 Volt Typhoon 船員及其殭屍網絡捲土重來</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/china_volt_typhoon_back/</link>
+      <description><![CDATA[Ohm，為了流量 據安全研究人員稱，中國的Volt Typhoon 船員及其殭屍網路又回來了，再次破壞舊的思科路由器，闖入關鍵基礎設施網路並發動網路攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/china_volt_typhoon_back/</guid>
+      <pubDate>Wed, 13 Nov 2024 00:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>空軍國民警衛隊士兵因在 Discord 上洩露機密文件而被判 15 年徒刑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[這並不是嵌入式微核心作業系統第一次更改其條款 QNX 微核心即時作業系統的軟體開發平台第8 版已經成為免費軟體- 但有一些附加條件。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/qnx_8_freeware/</guid>
       <pubDate>Mon, 11 Nov 2024 18:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX Dragon 為國際太空站的高度提供協助</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</link>
-      <description><![CDATA[展示為太空站最終脫軌之前的更多重新助推鋪平了道路 NASA 和SpaceX 已經展示了龍飛船通過12 分鐘30 秒的燃燒來重新助推國際太空站(ISS)的能力貨輪的 Draco 推進器… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/spacex_dragon_iss_boost/</guid>
-      <pubDate>Mon, 11 Nov 2024 17:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>騙子加大緊急數據請求詐騙力度，聯邦調查局 (FBI) 發出警告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/11/fraudulent_edr_emails/</link>
-      <description><![CDATA[僅僅因為它是.gov 並不意味著電子郵件是值得信賴的 網路騙子在美國濫用緊急資料請求並不新鮮，但FBI 表示，隨著時間的推移，這正成為一個更明顯的問題到此結束。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/11/fraudulent_edr_emails/</guid>
-      <pubDate>Mon, 11 Nov 2024 16:23:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
