@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 12:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:57:42 GMT</lastBuildDate>
+    <item>
+      <title>Apple 放棄了 2024 年 Mac Mini 的焊接存儲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/</link>
+      <description><![CDATA[iFixit 拆解發現可移動 SSD。是時候像2010 年一樣舉辦派對了嗎？保證了令人印象深刻的臨時分數。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/</guid>
+      <pubDate>Wed, 13 Nov 2024 12:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>由於政府考慮未來的資助，英國的 Darpa 克隆計畫明年春天將面臨嚴峻考驗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/uks_darpa_clone_faces_tough/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>Food Lion母公司的「網路安全問題」被歸咎於美國雜貨店混亂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</link>
-      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 --&gt;]]></description>
+      <description><![CDATA[商店仍在營業，但顧客在 Stop &amp; 報告了交貨延遲、發票問題等問題。商店及其他 零售巨頭 Ahold Delhaize，擁有 Food Lion 和 Stop &amp; 。 Shop 等公司確認其美國幾家雜貨店的停電是由持續的「網路安全問題」造成的。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/</guid>
       <pubDate>Tue, 12 Nov 2024 19:30:07 GMT</pubDate>
     </item>
@@ -106,44 +113,37 @@
     <item>
       <title>Windows 預覽體驗成員會發現潛伏在聖誕樹下的 Recall 嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</link>
-      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
+      <description><![CDATA[薩蒂亞·克勞斯(Satya Claus) 為所有善良的小女孩和男孩準備了一些特別的東西 微軟向Windows Insiders 提供備受爭議的Recall 技術的下一個截止日期即將到來。在隱私方面的強烈抗議和陰謀論如雨後春筍般湧現之後，該服務是否能為用戶做好準備？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/recall_windows_insiders_december/</guid>
       <pubDate>Tue, 12 Nov 2024 16:34:11 GMT</pubDate>
     </item>
     <item>
       <title>使用新的漏洞程式碼透過 HTTP 進入 Citrix 的虛擬應用程式和桌面</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</link>
-      <description><![CDATA[「我們再一次對網路失去了信心，」研究人員表示 研究人員正在公開他們所謂的未經身份驗證的遠端程式碼的概念驗證 (PoC) 漏洞Citrix 虛擬應用程式和桌面中的執行(RCE) 漏洞。]]></description>
+      <description><![CDATA[「我們再一次對互聯網失去了一點信心，」研究人員表示 研究人員正在公開他們所謂的未經身份驗證的遠程代碼的概念驗證 (PoC) 漏洞Citrix 虛擬應用程序和桌面中的執行(RCE) 漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/http_citrix_vuln/</guid>
       <pubDate>Tue, 12 Nov 2024 16:11:12 GMT</pubDate>
     </item>
     <item>
       <title>若要消除 C 程式碼中的記憶體安全錯誤，請嘗試 TrapC fork</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</link>
-      <description><![CDATA[計劃於明年推出記憶體安全變體 獨家 C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
+      <description><![CDATA[計劃於明年推出記憶體安全變體 獨家  C 和 C++ 程式設計師可能根本不需要學習 Rust 來參與記憶體安全的推動。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/trapc_memory_safe_fork/</guid>
       <pubDate>Tue, 12 Nov 2024 14:31:08 GMT</pubDate>
     </item>
     <item>
       <title>亞馬遜證實員工資料外洩與 MOVEit 漏洞有關</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</link>
-      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料庫的一部分。 ..]]></description>
+      <description><![CDATA[來自25 個組織的超過500 萬筆記錄發佈到黑帽論壇 亞馬遜員工的資料是發佈到與去年的MOVEit 漏洞相關的網路犯罪論壇的被盜資料的一部分。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amazon_moveit_breach/</guid>
       <pubDate>Tue, 12 Nov 2024 13:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 憑藉桌上型電腦成長搶佔 x86 市場四分之一，但伺服器成長放緩</title>
+      <title>AMD憑藉桌上型電腦收益搶佔了四分之一的x86市場，但伺服器成長放緩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</link>
-      <description><![CDATA[ARM 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
+      <description><![CDATA[Arm 驅動的PC 仍無立足之地 AMD 目前佔所有x86 處理器出貨量的25%，但在過去一個季度僅比伺服器領域的行業領導者英特爾略有增長- 主要收益來自來自桌面市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/amd_gains_on_intel/</guid>
       <pubDate>Tue, 12 Nov 2024 12:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士通不信任郵局在未來的第三方起訴中使用 Horizo​​n 數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/12/fujitsu_does_not_trust_post/</link>
-      <description><![CDATA[歐洲老闆也談到了對有爭議的老化系統的任何擴展使用的「緊張」 富士通歐洲老闆在對郵局醜聞的公開調查中表示，這是最廣泛的流產之一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/12/fujitsu_does_not_trust_post/</guid>
-      <pubDate>Tue, 12 Nov 2024 11:53:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
