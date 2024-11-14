@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 14 Nov 2024 19:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 20:37:23 GMT</lastBuildDate>
     <item>
-      <title>Microsoft 讓在基於 Arm 的 PC 上進行全新 Windows 安裝變得更加容易</title>
+      <title>川普團隊將取消電動車稅收抵免，特斯拉也加入其中：報告</title>
+      <link>https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/</link>
+      <description><![CDATA[馬斯克(Elon Musk)曾公開表示，這對競爭對手的傷害將超過特斯拉。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟終於發表了 Arm 版本 Windows 的通用安裝 ISO</title>
       <link>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</link>
       <description><![CDATA[通用安裝媒體使 Arm PC 更接近任何舊式 x86 PC。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[「事件正在迅速交織在一起。世界的命運將被決定。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/dragon-age-the-veilguard-and-the-choices-you-make-while-saving-the-world/</guid>
       <pubDate>Thu, 14 Nov 2024 12:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 提高了您在量子硬體上可以完成的運算量</title>
-      <link>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</link>
-      <description><![CDATA[硬體和軟體堆疊的增量改進加起來。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
