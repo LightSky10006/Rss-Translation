@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 07:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 08:38:59 GMT</lastBuildDate>
+    <item>
+      <title>五眼資訊安全機構列出了 2024 年最常被利用的軟體缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</link>
+      <description><![CDATA[Slack 修補仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳大利亞和新西蘭的網路安全機構已發布了年度漏洞清單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>作者被發現使用未經許可的軟體後學術論文被撤回</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/academic_papers_retracted_software_licensing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[一位前高管相信該非營利組織的使命，稱戰線已經改變 Mozilla 的Firefox 瀏覽器在周末迎來了第二個十年，Mozilla 公司首席執行官勞拉·錢伯斯(Laura Chambers) 慶祝了這一事件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/mozillas_firefox_browser/</guid>
       <pubDate>Wed, 13 Nov 2024 15:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>雄心勃勃的超頻玩家用液態氮冷卻 Raspberry Pi 5</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/raspberry_pi_4ghz/</link>
-      <description><![CDATA[我們做這些事情是因為我們可以而且因為我們必須 超頻的黑暗藝術仍然存在並且很好。一位實踐大師將注意力轉向了 Raspberry Pi 5，目的是透過各種奇特且極其不切實際的方式將小型電腦一直提升到 4 Ghz。包括virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/raspberry_pi_4ghz/</guid>
-      <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
