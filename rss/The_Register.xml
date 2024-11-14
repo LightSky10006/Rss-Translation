@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 09:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 11:10:49 GMT</lastBuildDate>
+    <item>
+      <title>NatWest 封鎖大量應用程式以打擊不可監控的通訊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/natwest_blocks_bevy_of_apps/</link>
+      <description><![CDATA[從指導到堅決行動......不再使用WhatsApp、Meta 的Messenger、Signal、Telegram 等 英國銀行和保險巨頭NatWest Group 正式屏蔽的訊息應用程式的完整列表比WhatsApp、Meta 的 Messenger 和 Skype – 正如最初報導的那樣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/natwest_blocks_bevy_of_apps/</guid>
+      <pubDate>Thu, 14 Nov 2024 10:53:32 GMT</pubDate>
+    </item>
     <item>
       <title>阿斯達安全主管被替換，零售商在沃爾瑪科技離婚期間裁員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>五眼資訊安全機構列出了 2024 年最常被利用的軟體缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</link>
-      <description><![CDATA[Slack 修補仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳大利亞和新西蘭的網路安全機構已發布了年度漏洞清單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
+      <description><![CDATA[Slack 修補程式仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳洲和紐西蘭的網路安全機構已發布了年度名單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</guid>
       <pubDate>Thu, 14 Nov 2024 08:31:06 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 14 Nov 2024 07:24:09 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果因 iCloud 定價和包裝行為索賠 30 億英鎊</title>
+      <title>蘋果因 iCloud 定價和包裝做法索賠 30 億英鎊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</link>
       <description><![CDATA[消費者冠軍哪個？水果巨頭聲稱偏愛自己的雲端儲存服務，對此並不感到好笑 英國消費者團體 Which？已針對蘋果公司提起 30 億英鎊訴訟，指控其 iCloud 服務違反競爭法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 14 Nov 2024 04:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜將 Snowcone 資料遷移盒和較舊的 Snowball 邊緣套件留待融化</title>
+      <title>亞馬遜將 Snowcone 資料遷移盒和舊版 Snowball 邊緣套件留待融化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</link>
       <description><![CDATA[別擔心，現有用戶還有一年的時間使用它們，否則就會失去它們 Amazon Web Services 正在停止其Snowcone 資料遷移設備，並將停止除最新一批設備之外的所有設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>台積電美國業務面臨員工歧視集體訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</link>
-      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司（TSMC）被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
+      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司(TSMC) 被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</guid>
       <pubDate>Wed, 13 Nov 2024 22:27:42 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Diablo Canyon 獲得了漂亮的新技術…加快文件檢索速度？這樣做對它將要做的事情感到太興奮（或擔心）——這是企業環境中相當普通的用途。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nuclear_plant_generative_ai/</guid>
       <pubDate>Wed, 13 Nov 2024 16:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
-      <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
