@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 16:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 16:44:08 GMT</lastBuildDate>
+    <item>
+      <title>高通推出的 Windows on Arm 將會非常棒——只要它能運行你所有的軟體就好了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/</link>
+      <description><![CDATA[在相容性問題得到妥善解決之前，它永遠無法承受 x86 分析 高通已將目光投向基於 Arm 的 Windows 筆記型電腦，從理論上講，提供顯著的優勢。該公司基於 Arm 的 Snapdragon 處理器承諾超長的電池壽命，令 x86 機器相形見絀，無風扇設計和整合 5G 連接讓英特爾和 AMD 顯得過時。透過押注行動和互聯世界，高通公司旨在將基於 Arm 的 Windows 筆記型電腦定位為未來。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/</guid>
+      <pubDate>Thu, 14 Nov 2024 16:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>Broadcom 向所有人免費提供 VMware Workstation 和 Fusion</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/vmware_workstation_free/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們稱之為「線索退化」 據稱超過1.83 億條人們的聯絡方式和就業資訊記錄已被竊取或以其他方式從資料經紀人那裡獲得，並被不法分子出售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</guid>
       <pubDate>Wed, 13 Nov 2024 21:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署噴射推進實驗室將驅逐數百名工人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/</link>
-      <description><![CDATA[預算限制導致「痛苦但必要的調整」 NASA 噴射推進實驗室(JPL) 將需要失去數百名員工，因為管理人員試圖滿足當前25 財年的預算分配。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:24:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
