@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 05:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 06:44:31 GMT</lastBuildDate>
+    <item>
+      <title>蘋果因 iCloud 定價和包裝行為索賠 30 億英鎊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</link>
+      <description><![CDATA[消費者冠軍哪個？水果巨頭聲稱偏愛自己的雲端儲存服務，對此並不感到好笑 英國消費者團體 Which？已針對蘋果公司提起 30 億英鎊訴訟，指控其 iCloud 服務違反競爭法。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>台積電證實晶圓廠建設工地已移走“未爆彈”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 14 Nov 2024 04:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜將 Snowcone 資料遷移盒和舊版 Snowball 邊緣套件留待融化</title>
+      <title>亞馬遜將 Snowcone 資料遷移盒和較舊的 Snowball 邊緣套件留待融化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</link>
       <description><![CDATA[別擔心，現有用戶還有一年的時間使用它們，否則就會失去它們 Amazon Web Services 正在停止其Snowcone 資料遷移設備，並將停止除最新一批設備之外的所有設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>都是叫，沒有咬？馬斯克的 DOGE 不太可能擁有任何實際權力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/all_bark_no_bite_musks/</link>
-      <description><![CDATA[「政府效率部」預計只會提出改革建議，國會仍將做出決定 評論 好吧，這是官方消息：美國當選總統唐納德特朗普兌現了競選承諾，任命伊隆馬斯克擔任「政府效率部」（DOGE）的負責人。 ...]]></description>
+      <description><![CDATA[「政府效率部」預計只會提出改革建議，國會仍將做出決定 評論 好吧，這是官方的：美國當選總統唐納德特朗普兌現了競選承諾，任命伊隆馬斯克擔任「政府效率部」（DOGE）的負責人。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/all_bark_no_bite_musks/</guid>
       <pubDate>Thu, 14 Nov 2024 00:52:08 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 13 Nov 2024 22:27:42 GMT</pubDate>
     </item>
     <item>
-      <title>數據經紀人累積了 1 億多筆人員記錄 – 然後有人搶走並出售</title>
+      <title>數據經紀人累積了 1 億多筆人員記錄——然後有人搶走並出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</link>
       <description><![CDATA[我們稱之為「線索退化」 據稱超過1.83 億條人們的聯絡方式和就業資訊記錄已被竊取或以其他方式從資料經紀人那裡獲得，並被不法分子出售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
       <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
       <pubDate>Wed, 13 Nov 2024 14:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>到 2027 年，人工智慧的電力之旅將使能源電網乞求憐憫</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/</link>
-      <description><![CDATA[資料中心需求預計在未來兩年內成長160% 人工智慧驅動的資料中心能源需求在未來兩年內可能會成長160%，這使得40% 的現有設施在營運上受到電力供應的限制。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/</guid>
-      <pubDate>Wed, 13 Nov 2024 13:41:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
