@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 03:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 03:41:21 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜將 Snowcone 資料遷移盒和較舊的 Snowball 邊緣套件留待融化</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</link>
+      <description><![CDATA[別擔心，現有用戶還有一年的時間使用它們，否則就會失去它們 Amazon Web Services 正在停止其Snowcone 資料遷移設備，並將停止除最新一批設備之外的所有設備。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</guid>
+      <pubDate>Thu, 14 Nov 2024 03:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>提醒：中國支持的人員在「重大網路間諜活動」中危害了「多家」美國電信公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/salt_typhoon_hacked_multiple_telecom/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[憑藉該計劃中的植物平台和神經迴路，Aria 的領導層希望繼續達成跨黨派共識 英國雄心勃勃地模仿美國研究和安全機構DARPA 的巨大成功，只有幾個月的時間才能實現這一目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/uks_darpa_clone_faces_tough/</guid>
       <pubDate>Wed, 13 Nov 2024 11:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府與小型模組化反應器追求者扮演權力掮客</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/uk_smr_tender/</link>
-      <description><![CDATA[四家投標人被選為SMR 項目投標 英國政府核能機構已開始與四家入圍投標人進行詳細談判，以供應小型模組化反應器(SMR) 以支持該國的發電。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/uk_smr_tender/</guid>
-      <pubDate>Wed, 13 Nov 2024 10:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
