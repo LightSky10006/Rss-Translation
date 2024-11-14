@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 05:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 05:39:03 GMT</lastBuildDate>
+    <item>
+      <title>台積電證實晶圓廠建設工地已移走“未爆彈”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/</link>
+      <description><![CDATA[可能是日本二戰海軍遺址的遺跡 台積電已證實，在發現一枚未爆炸的炸彈後，工人從其位於台灣的一個建築工地撤離。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/</guid>
+      <pubDate>Thu, 14 Nov 2024 05:29:15 GMT</pubDate>
+    </item>
     <item>
       <title>星鏈最終提交了在印度運營的適當文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/starlink_india_again/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 14 Nov 2024 04:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜將 Snowcone 資料遷移盒和較舊的 Snowball 邊緣套件留待融化</title>
+      <title>亞馬遜將 Snowcone 資料遷移盒和舊版 Snowball 邊緣套件留待融化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</link>
       <description><![CDATA[別擔心，現有用戶還有一年的時間使用它們，否則就會失去它們 Amazon Web Services 正在停止其Snowcone 資料遷移設備，並將停止除最新一批設備之外的所有設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>台積電美國業務面臨員工歧視集體訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</link>
-      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司（TSMC）被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
+      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司(TSMC) 被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</guid>
       <pubDate>Wed, 13 Nov 2024 22:27:42 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
-      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 的最新EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
+      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
       <pubDate>Wed, 13 Nov 2024 14:00:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[資料中心需求預計在未來兩年內成長160% 人工智慧驅動的資料中心能源需求在未來兩年內可能會成長160%，這使得40% 的現有設施在營運上受到電力供應的限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/</guid>
       <pubDate>Wed, 13 Nov 2024 13:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 放棄了 2024 年 Mac Mini 的焊接存儲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/</link>
-      <description><![CDATA[iFixit 拆解發現可移動 SSD。是時候像2010 年那樣舉辦派對了嗎？設計- 在可修復性方面的讓步，保證了令人印象深刻的體驗臨時分數...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/</guid>
-      <pubDate>Wed, 13 Nov 2024 12:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
