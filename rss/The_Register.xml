@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 13 Nov 2024 23:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:57:52 GMT</lastBuildDate>
+    <item>
+      <title>都是叫，沒有咬？馬斯克的 DOGE 不太可能擁有任何實際權力</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/all_bark_no_bite_musks/</link>
+      <description><![CDATA[「政府效率部」預計只會提出改革建議，國會仍將做出決定 評論 好吧，這是官方消息：美國當選總統唐納德特朗普兌現了競選承諾，任命伊隆馬斯克擔任「政府效率部」（DOGE）的負責人。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/all_bark_no_bite_musks/</guid>
+      <pubDate>Thu, 14 Nov 2024 00:52:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>ShrinkLocker 勒索軟體擾亂了您的檔案？免費解密工具救援</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/shrinklocker_ransomware_decryptor/</link>
+      <description><![CDATA[另外：CISA 的 ScubaGear 深入修復 M365 錯誤配置 Bitdefender 發布了一款免費解密工具，可以解鎖由 ShrinkLocker 勒索軟體加密的資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/shrinklocker_ransomware_decryptor/</guid>
+      <pubDate>Thu, 14 Nov 2024 00:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>川普當選總統將如何改變科技業</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/</link>
@@ -15,12 +29,12 @@
     <item>
       <title>台積電美國業務面臨員工歧視集體訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</link>
-      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司(TSMC) 被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
+      <description><![CDATA[據稱，除非你會說普通話，否則很難在晶片製造商取得成功 台灣積體電路製造公司（TSMC）被指控對其在美國的一些工人進行「普遍歧視」。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/</guid>
       <pubDate>Wed, 13 Nov 2024 22:27:42 GMT</pubDate>
     </item>
     <item>
-      <title>數據經紀人累積了 1 億多筆人員記錄——然後有人搶走並出售</title>
+      <title>數據經紀人累積了 1 億多筆人員記錄 – 然後有人搶走並出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</link>
       <description><![CDATA[我們稱之為「線索退化」 據稱超過1.83 億條人們的聯絡方式和就業資訊記錄已被竊取或以其他方式從資料經紀人那裡獲得，並被不法分子出售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>Nvidia 提交的 MLPerf 顯示 B200 的訓練表現高達 H100 的 2.2 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</link>
-      <description><![CDATA[黃是否會選擇中層 Blackwell 零件而留下更多的果汁？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
+      <description><![CDATA[Huang 選擇中端 Blackwell 零件是否會留下更多的好處？跡象表明是的分析 Nvidia 首次展示了其即將推出的 Blackwell 加速器在實際訓練工作負載中如何與久負盛名的 H100 相比，聲稱性能提高了 2.2 倍. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/</guid>
       <pubDate>Wed, 13 Nov 2024 16:00:12 GMT</pubDate>
     </item>
@@ -90,9 +104,9 @@
       <pubDate>Wed, 13 Nov 2024 14:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 為 Nvidia 的 Blackwell GPU 提供 Cray，將 224 個 GPU 塞進一個機櫃中</title>
+      <title>HPE 採用 Cray 技術，採用 Nvidia Blackwell GPU，將 224 個 GPU 塞進一個機櫃中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</link>
-      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器的計算密集型，那麼它們與HPE Cray 最新的EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
+      <description><![CDATA[同時，新的ProLiant 伺服器提供Gaudi、Hopper 和Instinct 加速選項 如果您認為Nvidia 的120 kW NVL72 機架具有72 個Blackwell 加速器，計算密集，那麼它們與HPE Cray 的最新EX 系統相比毫無優勢，這將把三倍以上的 GPU 裝入一個機櫃中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/</guid>
       <pubDate>Wed, 13 Nov 2024 14:00:07 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[Ofcom 為城市中的渦輪增壓5G 打開閘門 根據Ofcom 的說法，英國的行動電信公司明年將競標毫米波頻譜，以提供高速無線服務，該公司剛剛發布了最終草案拍賣管理規定…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/ofcom_mmwave_spectrum_auction/</guid>
       <pubDate>Wed, 13 Nov 2024 09:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟對地理鎖定的 Apple ID 感到憤怒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/eu_apple_id/</link>
-      <description><![CDATA[是否嘗試過更改帳戶的註冊國家？這幾乎是不可能的 歐盟要求蘋果進行更多平台變更——這次指責它在多項媒體服務中違反了反地理封鎖規則。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/eu_apple_id/</guid>
-      <pubDate>Wed, 13 Nov 2024 07:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普陰影籠罩東南亞國家修改半導體策略</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/southeast_asian_nations_amend_semiconductor/</link>
-      <description><![CDATA[韓國希望取消加班上限，而日本則以模糊的資金投入資金 分析 多個東南亞國家（包括韓國、日本和越南）最近已開放努力重新制定或修改其半導體策略。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/southeast_asian_nations_amend_semiconductor/</guid>
-      <pubDate>Wed, 13 Nov 2024 02:35:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
