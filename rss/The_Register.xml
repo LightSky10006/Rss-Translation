@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 14 Nov 2024 18:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 19:35:39 GMT</lastBuildDate>
+    <item>
+      <title>微軟終於在 Arm ISO 上發布了直接下載的 Windows 11</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/windows_11_arm_iso/</link>
+      <description><![CDATA[支援 Arm 裝置上的 Windows 並添加新裝置的好消息 在硬體架構首次亮相多年後，微軟終於推出了 Arm 上的 Windows 11 ISO 映像。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/windows_11_arm_iso/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:24:14 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 星艦移至發射台進行第六次飛行測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>奧克克洛 750 兆瓦核廢料動力小型反應器的資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/datacenter_oklo_750mw/</link>
-      <description><![CDATA[他們在說什麼？淘汰舊設備，引進核心 資料中心營運商越來越相信小型核電廠（更廣為人知的名稱是小型模組化反應器 (SMR)）的前景，為其不斷增長的能源提供燃料要求...]]></description>
+      <description><![CDATA[淘汰舊的，融入核......如果曾經完成的話 數據中心運營商越來越多地相信小型核電站的前景- 更廣為人知的名稱是小型模組化反應堆（SMR） ）—滿足他們不斷增長的能源需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/datacenter_oklo_750mw/</guid>
       <pubDate>Thu, 14 Nov 2024 14:20:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外：CISA 的 ScubaGear 深入修復 M365 錯誤配置 Bitdefender 發布了一款免費解密工具，可以解鎖由 ShrinkLocker 勒索軟體加密的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/shrinklocker_ransomware_decryptor/</guid>
       <pubDate>Thu, 14 Nov 2024 00:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普當選總統將如何改變科技業</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/</link>
-      <description><![CDATA[在接下來的五年...十年內任何事情都可能發生 Kettle  儘管無數次警告稱美國總統選舉將導致一場長達數月的戰鬥，但最終會取得決定性勝利通過唐納德·特朗普和他的政黨，我們可以立即展望未來四年的共和黨統治可能如何改變科技行業。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/</guid>
-      <pubDate>Wed, 13 Nov 2024 23:30:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

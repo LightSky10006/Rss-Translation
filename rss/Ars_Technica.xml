@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 14 Nov 2024 18:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 19:35:07 GMT</lastBuildDate>
     <item>
-      <title>站立式辦公桌不會改善您的心臟健康，但也不會損害它</title>
+      <title>Microsoft 讓在基於 Arm 的 PC 上進行全新 Windows 安裝變得更加容易</title>
+      <link>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</link>
+      <description><![CDATA[通用安裝媒體使 Arm PC 更接近任何舊式 x86 PC。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>站立式辦公桌對你有好處嗎？答案越來越清晰。</title>
       <link>https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/</link>
       <description><![CDATA[無論您的辦公室設置如何，最重要的是搬家。]]></description>
       <guid>https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[硬體和軟體堆疊的增量改進加起來。]]></description>
       <guid>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</guid>
       <pubDate>Wed, 13 Nov 2024 22:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prime Video 推出廣告後，亞馬遜終止了免費的廣告支援串流服務</title>
-      <link>https://arstechnica.com/gadgets/2024/11/amazon-ends-free-ad-supported-streaming-service-after-prime-video-with-ads-debuts/</link>
-      <description><![CDATA[對亞馬遜來說，銷售帶廣告的 Prime Video 訂閱更有利可圖。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/amazon-ends-free-ad-supported-streaming-service-after-prime-video-with-ads-debuts/</guid>
-      <pubDate>Wed, 13 Nov 2024 20:56:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
