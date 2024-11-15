@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 02:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 03:46:37 GMT</lastBuildDate>
+    <item>
+      <title>聯想中國用舊的、緩慢的本地 x86 克隆了 ThinkPad X1 Carbon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</link>
+      <description><![CDATA[四核爬蟲程式無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 相容處理器創建了一款優質筆記型電腦 - 但至少它是本地設計的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
+      <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>WP Engine 對 Automattic 提起反壟斷訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[消費者冠軍哪個？水果巨頭聲稱偏愛自己的雲端存儲，對此並不感到好笑 英國消費者團體 Which？已針對蘋果公司提起 30 億英鎊訴訟，指控其 iCloud 服務違反競爭法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</guid>
       <pubDate>Thu, 14 Nov 2024 06:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電證實晶圓廠建設工地已移走“未爆彈”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/</link>
-      <description><![CDATA[可能是日本二戰海軍遺址的遺跡 台積電已證實，在發現一枚未爆炸的炸彈後，工人從其位於台灣的一個建築工地撤離。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/</guid>
-      <pubDate>Thu, 14 Nov 2024 05:29:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
