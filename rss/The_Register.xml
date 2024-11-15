@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 03:46:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 05:13:42 GMT</lastBuildDate>
+    <item>
+      <title>空中巴士 A380 飛行了 300 小時，工具留在引擎內</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/</link>
+      <description><![CDATA[沒有發生任何不好的事情- 除了尼龍工具 據一份報告稱，澳大利亞航空公司Qantas 運營的一架空客A380 的飛行時間超過290 小時，儘管其一個引擎內遺留了一個工具來自澳洲運輸安全局。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/</guid>
+      <pubDate>Fri, 15 Nov 2024 04:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>聯想中國用舊的、緩慢的本地 x86 克隆了 ThinkPad X1 Carbon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</link>
-      <description><![CDATA[四核爬蟲程式無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 相容處理器創建了一款優質筆記型電腦 - 但至少它是本地設計的。]]></description>
+      <description><![CDATA[四核爬蟲程序無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 兼容處理器打造了一款優質筆記本電腦 - 但至少它是本地設計的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
       <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
     </item>
     <item>
       <title>WP Engine 對 Automattic 提起反壟斷訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</link>
-      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體的網站託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
+      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體網站的託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</guid>
       <pubDate>Fri, 15 Nov 2024 01:30:14 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>SpaceX 星艦移至發射台進行第六次飛行測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</link>
-      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 航天器運送到發射台，為 11 月 18 日的預定飛行測試做準備。]]></description>
+      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 太空船運送到發射台，為 11 月 18 日預定的飛行測試做準備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</guid>
       <pubDate>Thu, 14 Nov 2024 18:31:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>Fedora 41：種類繁多，但總有一款適合每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</link>
-      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 發布，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
+      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 面世，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</guid>
       <pubDate>Thu, 14 Nov 2024 12:25:12 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>五眼資訊安全機構列出了 2024 年最常被利用的軟體缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</link>
-      <description><![CDATA[Slack 修補程式仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳洲和紐西蘭的網路安全機構已發布了年度名單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
+      <description><![CDATA[Slack 修補仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳大利亞和新西蘭的網路安全機構已發布了年度漏洞清單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</guid>
       <pubDate>Thu, 14 Nov 2024 08:31:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[媽的，後果 更新了  一家學術期刊撤回了兩篇論文，因為它確定作者使用了未經許可的軟體。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/academic_papers_retracted_software_licensing/</guid>
       <pubDate>Thu, 14 Nov 2024 07:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果因盜取 4000 萬英國 iCloud 用戶而被索賠 30 億英鎊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</link>
-      <description><![CDATA[消費者冠軍哪個？水果巨頭聲稱偏愛自己的雲端存儲，對此並不感到好笑 英國消費者團體 Which？已針對蘋果公司提起 30 億英鎊訴訟，指控其 iCloud 服務違反競爭法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/</guid>
-      <pubDate>Thu, 14 Nov 2024 06:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
