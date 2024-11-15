@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 11:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:59:18 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Exchange 更新修復了安全漏洞，破壞了其他內容</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/</link>
+      <description><![CDATA[有缺陷的修補程式會阻止某些客戶的本機部署、混合式伺服器傳輸規則 在發現該修補程式可能會破壞某些客戶的傳輸規則後，Microsoft 正在暫停推出 Exchange 安全性更新. ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/</guid>
+      <pubDate>Fri, 15 Nov 2024 12:29:15 GMT</pubDate>
+    </item>
     <item>
       <title>英國能源監管機構嚴厲打擊了Capita 1.3億英鎊的智慧電錶揮霍行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/ofgem_smart_meter_capita/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[是的，這確實包括生產中的商業用途 Broadcom 已將其桌面虛擬機管理程式製作為免費軟體 - 即使用於生產用途。不是開源的，但免費的東西仍然很好，對吧？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/vmware_workstation_free/</guid>
       <pubDate>Thu, 14 Nov 2024 15:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>奧克克洛 750 兆瓦核廢料動力小型反應器的資料中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/datacenter_oklo_750mw/</link>
-      <description><![CDATA[淘汰舊的，融入核......如果曾經完成的話 數據中心運營商越來越多地相信小型核電站的前景- 更廣為人知的名稱是小型模組化反應堆（SMR） ）—滿足他們不斷增長的能源需求。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/datacenter_oklo_750mw/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:20:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
