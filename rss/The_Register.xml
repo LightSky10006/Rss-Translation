@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 15:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 16:44:21 GMT</lastBuildDate>
+    <item>
+      <title>LXQt 在 2.1 版本中融入了 Wayland 的特色</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lxqt_21/</link>
+      <description><![CDATA[最輕量級的主流 Linux 桌面加入了極少數支援 X.org 替換的桌面 LXQt 2.1 是 Lubuntu 中使用的基於 Qt 的輕量級桌面的最新版本，但該版本比它的競爭對手......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lxqt_21/</guid>
+      <pubDate>Fri, 15 Nov 2024 16:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>馬斯克也想與微軟與 OpenAI 進行法律恩怨較量</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/musk_openai_amended_complaint/</link>
+      <description><![CDATA[House of GPT 稱訴訟「毫無根據且過分」 馬斯克(Elon Musk) 將微軟和風險投資家Reid Hoffman 列入其與OpenAI 長期法律糾紛的被告名單中。 ChatGPT 製造商稱這一說法「毫無根據且過分」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/musk_openai_amended_complaint/</guid>
+      <pubDate>Fri, 15 Nov 2024 16:23:14 GMT</pubDate>
+    </item>
     <item>
       <title>Bitfinex 竊賊因竊取比特幣被判入獄 5 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/bitfinix_intruder_sentenced/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 太空船運送到發射台，為 11 月 18 日預定的飛行測試做準備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</guid>
       <pubDate>Thu, 14 Nov 2024 18:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧電腦充斥市場。它們的製造者希望有人想要它們</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/ai_pc_shipments/</link>
-      <description><![CDATA[儘管出貨量激增49%，但買家似乎不相信 IT 管道的倉庫正在儲備具有人工智慧功能的PC - 行業觀察家Canalys 聲稱這些電腦佔2024 年第三季度所有出貨量的20%，全球約 1,330 萬台。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/ai_pc_shipments/</guid>
-      <pubDate>Thu, 14 Nov 2024 17:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通推出的 Windows on Arm 將會非常棒——只要它能運行你所有的軟體就好了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/</link>
-      <description><![CDATA[在相容性問題得到妥善解決之前，它永遠無法承受 x86 分析 高通已將目光投向基於 Arm 的 Windows 筆記型電腦，從理論上講，提供顯著的優勢。該公司基於 Arm 的 Snapdragon 處理器承諾超長的電池壽命，令 x86 機器相形見絀，無風扇設計和整合 5G 連接讓英特爾和 AMD 顯得過時。透過押注行動和互聯世界，高通公司旨在將基於 Arm 的 Windows 筆記型電腦定位為未來。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/</guid>
-      <pubDate>Thu, 14 Nov 2024 16:27:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
