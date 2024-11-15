@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 12:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 14:12:47 GMT</lastBuildDate>
+    <item>
+      <title>Bitfenix 竊賊因竊取比特幣被判入獄 5 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/bitfenix_intruder_sentenced/</link>
+      <description><![CDATA[饒舌歌手妻子的緊張等待，她也面臨著一段時間的叮噹聲 美國將2016 年入侵加密貨幣交易所Bitfinex 的幕後主要人物判處五年監禁，因為他偷了近$120,000 比特幣......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/bitfenix_intruder_sentenced/</guid>
+      <pubDate>Fri, 15 Nov 2024 14:09:07 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Exchange 更新修復了安全漏洞，破壞了其他內容</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在相容性問題得到妥善解決之前，它永遠無法承受 x86 分析 高通已將目光投向基於 Arm 的 Windows 筆記型電腦，從理論上講，提供顯著的優勢。該公司基於 Arm 的 Snapdragon 處理器承諾超長的電池壽命，令 x86 機器相形見絀，無風扇設計和整合 5G 連接讓英特爾和 AMD 顯得過時。透過押注行動和互聯世界，高通公司旨在將基於 Arm 的 Windows 筆記型電腦定位為未來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/</guid>
       <pubDate>Thu, 14 Nov 2024 16:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Broadcom 向所有人免費提供 VMware Workstation 和 Fusion</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/vmware_workstation_free/</link>
-      <description><![CDATA[是的，這確實包括生產中的商業用途 Broadcom 已將其桌面虛擬機管理程式製作為免費軟體 - 即使用於生產用途。不是開源的，但免費的東西仍然很好，對吧？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/vmware_workstation_free/</guid>
-      <pubDate>Thu, 14 Nov 2024 15:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
