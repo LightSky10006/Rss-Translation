@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 16:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 17:37:54 GMT</lastBuildDate>
+    <item>
+      <title>Photoshop FOSS 取代 GNU 影像處理程序 3.0 即將推出</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</link>
+      <description><![CDATA[距 2.0 版已近 21 年了 GNU 影像處理程式 (GIMP) 3.0 版即將發布。它具有重要的新功能和期待已久的功能 - 您現在就可以嘗試。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</guid>
+      <pubDate>Fri, 15 Nov 2024 17:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>LXQt 在 2.1 版本中融入了 Wayland 的特色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lxqt_21/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[支援 Arm 裝置上的 Windows 並添加新裝置的好消息 在硬體架構首次亮相多年後，微軟終於推出了 Arm 上的 Windows 11 ISO 映像。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/windows_11_arm_iso/</guid>
       <pubDate>Thu, 14 Nov 2024 19:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 星艦移至發射台進行第六次飛行測試</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</link>
-      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 太空船運送到發射台，為 11 月 18 日預定的飛行測試做準備。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
