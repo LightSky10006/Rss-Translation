@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 07:36:44 GMT</lastBuildDate>
+    <item>
+      <title>歐盟因 Facebook Marketplace 踐踏競爭而向 Meta 罰款近 10 億美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/eu_fines_meta_798m/</link>
+      <description><![CDATA[Mark Z 不喜歡這樣 歐盟對 Facebook 母公司 Meta 處以 7.9772 億歐元（8.43 億美元）的罰款，原因是其線上分類服務 Facebook Marketplace 違反了反壟斷法。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/eu_fines_meta_798m/</guid>
+      <pubDate>Fri, 15 Nov 2024 07:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft Power Pages 設定錯誤，暴露敏感數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>聯想中國用舊的、緩慢的本地 x86 克隆了 ThinkPad X1 Carbon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</link>
-      <description><![CDATA[四核爬蟲程式無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 相容處理器創建了一款優質筆記型電腦 - 但至少它是本地設計的。]]></description>
+      <description><![CDATA[四核爬蟲程序無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 兼容處理器打造了一款優質筆記本電腦 - 但至少它是本地設計的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
       <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
     </item>
     <item>
       <title>WP Engine 對 Automattic 提起反壟斷訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</link>
-      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體的網站託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
+      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體網站的託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</guid>
       <pubDate>Fri, 15 Nov 2024 01:30:14 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>SpaceX 星艦移至發射台進行第六次飛行測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</link>
-      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 航天器運送到發射台，為 11 月 18 日的預定飛行測試做準備。]]></description>
+      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 太空船運送到發射台，為 11 月 18 日預定的飛行測試做準備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</guid>
       <pubDate>Thu, 14 Nov 2024 18:31:06 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>Fedora 41：種類繁多，但總有一款適合每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</link>
-      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 發布，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
+      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 面世，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</guid>
       <pubDate>Thu, 14 Nov 2024 12:25:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[從指導到堅決行動......不再使用WhatsApp、Meta 的Messenger、Signal、Telegram 等 英國銀行和保險巨頭NatWest Group 正式屏蔽的訊息應用程式的完整列表比WhatsApp、Meta 的 Messenger 和 Skype – 正如最初報導的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/natwest_blocks_bevy_of_apps/</guid>
       <pubDate>Thu, 14 Nov 2024 10:53:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿斯達安全主管被替換，零售商在沃爾瑪科技離婚期間裁員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/</link>
-      <description><![CDATA[隨著承包商的時鐘滴答作響，英國雜貨店的工人打電話回辦公室 英國第三大食品零售商阿斯達(Asda) 的技術安全主管在與美國雜貨巨頭沃爾瑪正在進行的技術離婚中離職...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
