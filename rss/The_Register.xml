@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 15 Nov 2024 05:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 06:47:03 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Power Pages 設定錯誤，暴露敏感數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/</link>
+      <description><![CDATA[洩露員工資訊的NHS 供應商成為複雜存取控制的受害者，這些控制可能導致資料庫在線徘徊 私人企業和公共部門組織由於配置錯誤而無意中將數百萬人的敏感資訊暴露在公共互聯網上微軟的 Power Pages 網站創建問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌認為歐洲的政治廣告規則太難大規模實施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_stops_eu_political_ads/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>空中巴士 A380 飛行 300 小時，引擎內遺留一公尺長工具</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/</link>
-      <description><![CDATA[電子郵件和工具追蹤軟體沒有受到關注，但沒有什麼可怕的事情發生- 除了尼龍工具 澳大利亞航空公司Qantas 運營的一架空客A380 的飛行時間超過290 小時，儘管工具具有根據澳大利亞運輸安全局的一份報告，被留在其一個發動機內。]]></description>
+      <description><![CDATA[電子郵件和工具追蹤軟體沒有引起注意，但沒有什麼可怕的事情發生- 除了尼龍工具 澳大利亞航空公司Qantas 運營的一架空客A380 的飛行時間超過290 小時，儘管工具具有根據澳大利亞運輸安全局的一份報告，被留在其一個發動機內。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/</guid>
       <pubDate>Fri, 15 Nov 2024 04:45:09 GMT</pubDate>
     </item>
     <item>
       <title>聯想中國用舊的、緩慢的本地 x86 克隆了 ThinkPad X1 Carbon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</link>
-      <description><![CDATA[四核爬蟲程序無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 兼容處理器打造了一款優質筆記本電腦 - 但至少它是本地設計的。]]></description>
+      <description><![CDATA[四核爬蟲程式無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 相容處理器創建了一款優質筆記型電腦 - 但至少它是本地設計的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
       <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
     </item>
     <item>
       <title>WP Engine 對 Automattic 提起反壟斷訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</link>
-      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體網站的託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
+      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體的網站託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</guid>
       <pubDate>Fri, 15 Nov 2024 01:30:14 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>無國界網路犯罪者被判10年監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/cybercriminal_devoid_of_boundaries_gets/</link>
-      <description><![CDATA[醫療設施的連環勒索者為了小額賠償而墮落到極低的水平 美國一名猖獗的網絡騙子和屢次對醫療設施進行攻擊的人被判處十年監禁，大約在這起事件發生七年後他的眾多罪行中的第一個…]]></description>
+      <description><![CDATA[醫療設施的連環勒索者為了小額賠償而墮落到極低的水平 美國一名猖獗的網絡騙子和屢次對醫療設施進行攻擊的人被判處十年監禁，大約是這起事件發生七年後他的眾多罪行中的第一個…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/cybercriminal_devoid_of_boundaries_gets/</guid>
       <pubDate>Thu, 14 Nov 2024 20:27:09 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>SpaceX 星艦移至發射台進行第六次飛行測試</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</link>
-      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 太空船運送到發射台，為 11 月 18 日預定的飛行測試做準備。]]></description>
+      <description><![CDATA[是的，隔熱罩已經過調整。但還有一個規模香蕉 SpaceX 已將其 Starship 航天器運送到發射台，為 11 月 18 日的預定飛行測試做準備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/</guid>
       <pubDate>Thu, 14 Nov 2024 18:31:06 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Fedora 41：種類繁多，但總有一款適合每個人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</link>
-      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 面世，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
+      <description><![CDATA[它是Linux 中的Heinz，但它只擁有57 個變體 10 月底，Fedora 41 發布，其變體數量比以往任何時候都多：據我們統計，有29 個變體，不包括所有架構和下載選項。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/</guid>
       <pubDate>Thu, 14 Nov 2024 12:25:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著承包商的時鐘滴答作響，英國雜貨店的工人打電話回辦公室 英國第三大食品零售商阿斯達(Asda) 的技術安全主管在與美國雜貨巨頭沃爾瑪正在進行的技術離婚中離職...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/</guid>
       <pubDate>Thu, 14 Nov 2024 09:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>五眼資訊安全機構列出了 2024 年最常被利用的軟體缺陷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</link>
-      <description><![CDATA[Slack 修補仍然是一個問題- 隨著騙子越來越多地將零日漏洞作為目標，這一點令人擔憂 英國、美國、加拿大、澳大利亞和新西蘭的網路安全機構已發布了年度漏洞清單15 個最常被利用的漏洞，並警告說，針對零日漏洞的攻擊已變得更加常見。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/</guid>
-      <pubDate>Thu, 14 Nov 2024 08:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
