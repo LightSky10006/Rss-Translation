@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 16 Nov 2024 07:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 10:39:24 GMT</lastBuildDate>
+    <item>
+      <title>討厭鐵鏽的人，聯合起來！ Fil-C 旨在讓 C 再次偉大</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/rusthaters_unite_filc/</link>
+      <description><![CDATA[它是記憶體安全的，但有一些注意事項 在全球推動記憶體安全程式設計的推動下，希望繼續使用C 和C++ 程式語言工作的開發人員現在有另一個不涉及的選擇學習 Rust... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/rusthaters_unite_filc/</guid>
+      <pubDate>Sat, 16 Nov 2024 10:12:14 GMT</pubDate>
+    </item>
     <item>
       <title>瑞士郵政服務被用來傳播惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[電子郵件和工具追蹤軟體沒有受到關注，但沒有什麼可怕的事情發生- 除了尼龍工具 澳大利亞航空公司Qantas 運營的一架空客A380 的飛行時間超過290 小時，儘管工具具有根據澳大利亞運輸安全局的一份報告，被留在其一個發動機內。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/</guid>
       <pubDate>Fri, 15 Nov 2024 04:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯想中國用舊的、緩慢的本地 x86 克隆了 ThinkPad X1 Carbon</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</link>
-      <description><![CDATA[四核爬蟲程序無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 兼容處理器打造了一款優質筆記本電腦 - 但至少它是本地設計的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
-      <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
