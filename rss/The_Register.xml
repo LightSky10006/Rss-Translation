@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 16 Nov 2024 02:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 07:11:38 GMT</lastBuildDate>
+    <item>
+      <title>瑞士郵政服務被用來傳播惡意軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/</link>
+      <description><![CDATA[二維碼透過古老的傳送系統到達 瑞士國家網路安全中心 (NCSC) 已發布有關惡意軟體透過該國郵政服務傳播的警報。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/</guid>
+      <pubDate>Sat, 16 Nov 2024 07:07:05 GMT</pubDate>
+    </item>
     <item>
       <title>Helix 比特幣自助洗衣店背後的人被判入獄三年，交出 4 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[四核爬蟲程序無法擊敗當前或古代的 AMD 或英特爾 聯想的中國業務基於緩慢且過時的 x86 兼容處理器打造了一款優質筆記本電腦 - 但至少它是本地設計的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/</guid>
       <pubDate>Fri, 15 Nov 2024 03:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>WP Engine 對 Automattic 提起反壟斷訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</link>
-      <description><![CDATA[修改後的WordPress 鬥毆案試圖透過謝爾曼反壟斷法擴大規模 WP Engine 是一家運行開源WordPress 軟體網站的託管提供商，已將其針對競爭對手Automattic 及其首席執行官Matthew Mullenweg 的法律訴訟修改為包括反壟斷指控。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/</guid>
-      <pubDate>Fri, 15 Nov 2024 01:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
