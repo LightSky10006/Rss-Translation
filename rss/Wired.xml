@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 12:55:40 GMT</lastBuildDate>
+    <item>
+      <title>如何在路由器上設定 ExpressVPN，以便同時保護您的所有設備</title>
+      <link>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</link>
+      <description><![CDATA[您的 VPN 並不總是必須在您的手機或筆記型電腦上運行。您可以保護家中的一切不被窺探。]]></description>
+      <guid>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>科學家建立了遍歷地圖的最佳演算法</title>
       <link>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[唐納德·川普 (Donald Trump) 的環保局人選值得期待：放鬆管制可以促進經濟成長，以及關於清潔空氣和水的重要性的陳詞濫調。]]></description>
       <guid>https://www.wired.com/story/what-lee-zeldins-nomination-means-for-the-epa/</guid>
       <pubDate>Fri, 15 Nov 2024 19:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>適用於合成器等的 11 個最佳 MIDI 控制器 (2024)</title>
-      <link>https://www.wired.com/gallery/best-midi-controllers/</link>
-      <description><![CDATA[想要以數位方式控制您最喜歡的樂器嗎？這些工具會有所幫助。]]></description>
-      <guid>https://www.wired.com/gallery/best-midi-controllers/</guid>
-      <pubDate>Fri, 15 Nov 2024 16:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
