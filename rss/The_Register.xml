@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 17 Nov 2024 10:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 18:41:58 GMT</lastBuildDate>
+    <item>
+      <title>密鑰會取代密碼嗎？他們可以嗎？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/17/passkeys_passwords/</link>
+      <description><![CDATA[這就是為什麼他們確實應該這樣做 系統方法我一直在嘗試使用萬能鑰匙，或者正如它們正式所知的、可發現的憑證一樣。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/17/passkeys_passwords/</guid>
+      <pubDate>Sun, 17 Nov 2024 18:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧詩歌超越人類，因為讀者更喜歡機器人而不是吟遊詩人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/17/ai_poetry_study/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
-      <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
+      <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶向何方的猜測現在可以結束了。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
       <pubDate>Sat, 16 Nov 2024 13:02:06 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Helix 比特幣自助洗衣店背後的人被判入獄三年，交出 4 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</link>
-      <description><![CDATA[數位洗錢將付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
+      <description><![CDATA[數位洗錢會付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</guid>
       <pubDate>Sat, 16 Nov 2024 00:58:06 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 15 Nov 2024 19:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死”</title>
+      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死吧”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</link>
       <description><![CDATA[AGI 的第一個真正跡象——讓令人沮喪的用戶熔斷？的是它稱你為“宇宙上的污點”，應該“請死”，但我們在這裡，假設本週在線發布的對話是準確的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mark Z 不喜歡這樣 歐盟對 Facebook 母公司 Meta 處以 7.9772 億歐元（8.43 億美元）的罰款，原因是其線上分類服務 Facebook Marketplace 違反了反壟斷法。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/eu_fines_meta_798m/</guid>
       <pubDate>Fri, 15 Nov 2024 07:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Power Pages 設定錯誤，暴露敏感數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/</link>
-      <description><![CDATA[洩露員工資訊的NHS 供應商成為複雜存取控制的受害者，這些控制可能導致資料庫在線徘徊 私人企業和公共部門組織由於配置錯誤而無意中將數百萬人的敏感資訊暴露在公共互聯網上微軟的 Power Pages 網站創建程式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/</guid>
-      <pubDate>Fri, 15 Nov 2024 06:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
