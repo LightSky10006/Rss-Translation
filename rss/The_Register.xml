@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 21:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 21:36:05 GMT</lastBuildDate>
+    <item>
+      <title>法官對亞馬遜、SpaceX 宣布 NLRB 違憲的嘗試不以為然</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/</link>
+      <description><![CDATA[大型科技公司對美國勞工監管機構的大戰遭遇重大挫折 亞馬遜和SpaceX 今天在法庭上辯稱，美國國家勞工關係委員會(NLRB) 是一個違憲機構，但卻是一個由三位法官組成的機構小組似乎並不特別熱衷於他們的論點。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/</guid>
+      <pubDate>Mon, 18 Nov 2024 21:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>由於擔心新的安全漏洞，T-Mobile 美國“監控”中國的“全行業攻擊”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/tmobile_us_attack_salt_typhoon/</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 繼續致力於將人工智慧強加到一切事物中，包括 HPC</title>
+      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
       <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[再次捍衛自己的信念，每週70 小時工作至關重要，工作/生活平衡是無稽之談 Infosys 創始人Narayama Murthy 比之前關於印度需要每週70 小時工作的說法進行了三倍的強調並透露他也認為週末是一個錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/infosys_workaholic_founder/</guid>
       <pubDate>Mon, 18 Nov 2024 03:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Equinix 將於 2026 年關閉其「金屬」IaaS 產品</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/equinix_ends_metal_iaas/</link>
-      <description><![CDATA[加入HPE、Cisco 和VMware 等公司的行列，未能挑戰占主導地位的超大規模提供者 資料中心巨頭Equinix 將透過關閉其「Metal」裸機IaaS 產品來結束其進軍基礎設施即服務的嘗試。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/equinix_ends_metal_iaas/</guid>
-      <pubDate>Mon, 18 Nov 2024 01:57:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
