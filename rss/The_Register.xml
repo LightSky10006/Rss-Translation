@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 01:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 02:44:44 GMT</lastBuildDate>
+    <item>
+      <title>Equinix 將於 2026 年關閉其「金屬」IaaS 產品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/equinix_ends_metal_iaas/</link>
+      <description><![CDATA[加入HPE、Cisco 和VMware 等公司的行列，未能挑戰占主導地位的超大規模提供者 資料中心巨頭Equinix 將透過關閉其「Metal」裸機IaaS 產品來結束其進軍基礎設施即服務的嘗試。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/equinix_ends_metal_iaas/</guid>
+      <pubDate>Mon, 18 Nov 2024 01:57:06 GMT</pubDate>
+    </item>
     <item>
       <title>青少年連續僱用拍子被捕，認罪，可能面臨20年監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/teenage_serial_swatterforhire_busted/</link>
@@ -34,9 +41,9 @@
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
+      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
-      <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶向何方的猜測現在可以結束了。 .]]></description>
+      <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
       <pubDate>Sat, 16 Nov 2024 13:02:06 GMT</pubDate>
     </item>
@@ -83,14 +90,14 @@
       <pubDate>Fri, 15 Nov 2024 19:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死吧”</title>
+      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</link>
       <description><![CDATA[AGI 的第一個真正跡象——讓令人沮喪的用戶熔斷？的是它稱你為“宇宙上的污點”，應該“請死”，但我們在這裡，假設本週在線發布的對話是準確的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</guid>
       <pubDate>Fri, 15 Nov 2024 18:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>Photoshop FOSS 取代 GNU 影像處理程序 3.0 即將推出</title>
+      <title>Photoshop FOSS 替代 GNU 影像處理程序 3.0 即將推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</link>
       <description><![CDATA[距 2.0 版已近 21 年了 GNU 影像處理程式 (GIMP) 3.0 版即將發布。它具有重要的新功能和期待已久的功能 - 您現在就可以嘗試。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[英國移動網絡的黛西有時間、耐心和大量的紗線可供編織 小心，騙子。 O2 創造了一種打擊詐欺的新武器：人工智慧奶奶，它會讓你一直說話，直到你感到無聊並放棄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/o2_ai_granny/</guid>
       <pubDate>Fri, 15 Nov 2024 10:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>國家電腦博物館重新啟動布萊切利公園的 H 區</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/the_national_museum_of_computing/</link>
-      <description><![CDATA[Tunny 和 Colossus 畫廊重新蓋了屋頂 在紀念 Colossus II 電腦問世 80 週年的慶祝活動中，國家電腦博物館進行了防雨翻修，並對 H 區進行了改造。 /p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/the_national_museum_of_computing/</guid>
-      <pubDate>Fri, 15 Nov 2024 09:32:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
