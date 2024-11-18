@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 22:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 22:39:50 GMT</lastBuildDate>
+    <item>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
+      <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
+      <pubDate>Mon, 18 Nov 2024 22:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>法官對亞馬遜、SpaceX 宣布 NLRB 違憲的嘗試不以為然</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>馬斯克和美國政治行動委員會因涉嫌操縱 100 萬美元選舉獎金而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/musk_america_pac_sued/</link>
-      <description><![CDATA[在其律師在法庭上承認贈品並非隨機之後，這是不可避免的 埃隆·馬斯克(Elon Musk) 和他的美國政治行動委員會(America PAC) 因涉嫌在洩露一份100 萬美元的選舉彩票後撒謊而被起訴。 ...]]></description>
+      <description><![CDATA[在其律師在法庭上承認贈品不是隨機的之後，這是不可避免的 埃隆·馬斯克(Elon Musk) 和他的美國政治行動委員會(America PAC) 因涉嫌在洩露一份100 萬美元的選舉彩票後撒謊而被起訴。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/musk_america_pac_sued/</guid>
       <pubDate>Mon, 18 Nov 2024 19:29:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>川普任命馬斯克合夥人布倫丹·卡爾為 FCC 主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</link>
-      <description><![CDATA[可能更看好埃隆在天基通信領域的冒險 負責監管美國媒體和通信的機構美國聯邦通信委員會 (FCC) 即將迎來一位新老闆：現任委員布倫丹·卡爾… ]]></description>
+      <description><![CDATA[可能更看好 Elon 在天基通信領域的冒險 負責監管美國媒體和通信的機構美國聯邦通信委員會 (FCC) 即將迎來一位新老闆：現任委員布倫丹·卡爾… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</guid>
       <pubDate>Mon, 18 Nov 2024 15:08:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[中國公司高層相信川普總統的貿易政策不會造成問題 聯想的企業業務年增 65%，但仍出現虧損。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/lenovo_q2_2025/</guid>
       <pubDate>Mon, 18 Nov 2024 05:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infosys 聯合創始人 Narayama Murthy 表示，週末是個錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/infosys_workaholic_founder/</link>
-      <description><![CDATA[再次捍衛自己的信念，即每週工作70 小時至關重要，工作/生活平衡是無稽之談 Infosys 創始人Narayama Murthy 比之前關於印度需要每週70 小時工作的說法進行了三倍的強調並透露他也認為週末是一個錯誤。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/infosys_workaholic_founder/</guid>
-      <pubDate>Mon, 18 Nov 2024 03:56:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
