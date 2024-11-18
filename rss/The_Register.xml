@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 18:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:44:36 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
+      <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>LLNL 的 El Capitan 以 1.74 exaFLOPS 性能超越 Frontier</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[這就是為什麼他們確實應該這樣做 系統方法我一直在嘗試使用萬能鑰匙，或者正如它們正式所知的、可發現的憑證一樣。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/17/passkeys_passwords/</guid>
       <pubDate>Sun, 17 Nov 2024 18:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧詩歌超越人類，因為讀者更喜歡機器人而不是吟遊詩人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/17/ai_poetry_study/</link>
-      <description><![CDATA[沒文化的豬容易相信複雜的詩句是機器生成的胡言亂語 美國的一項研究發現，讀者無法區分著名詩人寫的詩和人工智能模仿寫的詩他們的風格。更糟的是——至少對於任何熱愛文學的人來說——研究對象往往更喜歡人工智慧詩歌，而不是人類詩人的詩歌。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/17/ai_poetry_study/</guid>
-      <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
