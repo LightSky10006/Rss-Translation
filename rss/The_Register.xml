@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 05:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 06:46:04 GMT</lastBuildDate>
+    <item>
+      <title>對中國月球岩石樣本的首次觀察表明，月球上存在火山的時間比之前想像的要長</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/chinas_change_6_samples_reveal/</link>
+      <description><![CDATA[來自月球背面的東西是玄武岩- 但克里普-y比預期的要少 從月球背面收集的第一批土壤和岩石樣本顯示，最近的月球火山活動比預期的要多，根據上週五在兩份期刊上發表的研究。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/chinas_change_6_samples_reveal/</guid>
+      <pubDate>Mon, 18 Nov 2024 06:33:27 GMT</pubDate>
+    </item>
     <item>
       <title>聯想企業硬體業務蓬勃發展，但利潤仍難以捉摸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/lenovo_q2_2025/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[饒舌歌手妻子的緊張等待，她也面臨著一段時間的叮噹聲 美國將2016 年入侵加密貨幣交易所Bitfinex 的幕後主要人物判處五年監禁，因為他偷了近$120,000 比特幣......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/bitfinix_intruder_sentenced/</guid>
       <pubDate>Fri, 15 Nov 2024 14:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Exchange 更新修復了安全漏洞，破壞了其他內容</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/</link>
-      <description><![CDATA[有缺陷的修補程式會阻止某些客戶的本機部署、混合式伺服器傳輸規則 在發現該修補程式可能會破壞某些客戶的傳輸規則後，Microsoft 正在暫停推出 Exchange 安全性更新. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:29:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
