@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 13:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 13:42:52 GMT</lastBuildDate>
+    <item>
+      <title>盜版程式設計師在大規模電視串流媒體運作中扮演角色</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/jetflicks_programmer_conviction/</link>
+      <description><![CDATA[美國認為涉及 Jetflicks 的案件是此類案件中規模最大的 在經過五年法律訴訟和兩週監禁後，一名大型互聯網盜版網站核心的程式設計師面臨長期監禁審判。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/jetflicks_programmer_conviction/</guid>
+      <pubDate>Mon, 18 Nov 2024 13:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>英國試射「長矛」迷你巡航飛彈，將裝備 F-35 戰鬥機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_test_fires_spear_mini_cruise_missile/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員警告說，法學碩士控制的機器人很容易越獄，造成混亂 科幻小說作家艾薩克·阿西莫夫提出了機器人三定律，你永遠不會從當今機器人或製造機器人的人的行為得知這一點...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/chatbots_run_robots/</guid>
       <pubDate>Sat, 16 Nov 2024 00:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘帕洛阿爾托網路劫持我的防火牆零日漏洞現已正式被利用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/palo_alto_networks_firewall_zeroday/</link>
-      <description><![CDATA[撤回對管理介面的訪問，統計 Palo Alto Networks 防火牆管理介面中的一個嚴重零日漏洞可允許未經身份驗證的攻擊者遠端執行程式碼，現已正式被積極利用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/palo_alto_networks_firewall_zeroday/</guid>
-      <pubDate>Fri, 15 Nov 2024 21:07:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
