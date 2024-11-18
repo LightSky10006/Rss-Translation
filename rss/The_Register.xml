@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 13:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 14:13:23 GMT</lastBuildDate>
+    <item>
+      <title>LLNL 希望透過 Oxide 的機架級運算平台讓 HPC 變得更加雲端化</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/llnl_oxide_compute/</link>
+      <description><![CDATA[作為將 API 驅動的自動化應用於科學計算的概念驗證的系統 SC24  OxideComputing 的 2,500 磅（1.1 公噸）機架級刀片伺服器即將推出能源部勞倫斯利弗莫爾國家實驗室(LNLL) 的新家。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/llnl_oxide_compute/</guid>
+      <pubDate>Mon, 18 Nov 2024 14:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>盜版程式設計師在大規模電視串流媒體運作中扮演角色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/jetflicks_programmer_conviction/</link>
@@ -111,7 +118,7 @@
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
+      <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
       <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>Helix 比特幣自助洗衣店背後的人被判入獄三年，交出 4 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</link>
-      <description><![CDATA[數位洗錢會付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
+      <description><![CDATA[數位洗錢將付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</guid>
       <pubDate>Sat, 16 Nov 2024 00:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>讓聊天機器人運行機器人的結局就像你想像的那樣糟糕</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/chatbots_run_robots/</link>
-      <description><![CDATA[研究人員警告說，法學碩士控制的機器人很容易越獄，造成混亂 科幻小說作家艾薩克·阿西莫夫提出了機器人三定律，你永遠不會從當今機器人或製造機器人的人的行為得知這一點...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/chatbots_run_robots/</guid>
-      <pubDate>Sat, 16 Nov 2024 00:03:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
