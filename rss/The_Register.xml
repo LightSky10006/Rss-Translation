@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 17:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:17:47 GMT</lastBuildDate>
+    <item>
+      <title>LLNL 的 El Capitan 以 1.74 exaFLOPS 性能超越 Frontier</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/</link>
+      <description><![CDATA[山姆大叔高居超級電腦排行榜榜首，而中國則淡出公眾視野 SC24 勞倫斯利弗莫爾國家實驗室(LLNL) El Capitan 系統結束了Frontier 2.5 年的超級電腦霸主地位一台躋身 Top500 的超級計算機，為高效能運算 (HPC) 設定了新的高水位。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/</guid>
+      <pubDate>Mon, 18 Nov 2024 18:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>美國宇航局希望獲得有關如何拖運受傷的月球漫步者的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nasa_injured_astronaut_transport/</link>
@@ -97,7 +104,7 @@
       <pubDate>Mon, 18 Nov 2024 05:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>Infosys 聯合創始人 Narayama Murthy 表示，週末是一個錯誤</title>
+      <title>Infosys 聯合創始人 Narayama Murthy 表示，週末是個錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/infosys_workaholic_founder/</link>
       <description><![CDATA[再次捍衛自己的信念，每週70 小時工作至關重要，工作/生活平衡是無稽之談 Infosys 創始人Narayama Murthy 比之前關於印度需要每週70 小時工作的說法進行了三倍的強調並透露他也認為週末是一個錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/infosys_workaholic_founder/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒文化的豬容易相信複雜的詩句是機器生成的胡言亂語 美國的一項研究發現，讀者無法區分著名詩人寫的詩和人工智能模仿寫的詩他們的風格。更糟的是——至少對於任何熱愛文學的人來說——研究對象往往更喜歡人工智慧詩歌，而不是人類詩人的詩歌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/17/ai_poetry_study/</guid>
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
-      <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
-      <pubDate>Sat, 16 Nov 2024 13:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
