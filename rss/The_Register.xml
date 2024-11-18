@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 12:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 13:02:16 GMT</lastBuildDate>
+    <item>
+      <title>英國試射「長矛」迷你巡航飛彈，將裝備 F-35 戰鬥機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_test_fires_spear_mini_cruise_missile/</link>
+      <description><![CDATA[雙向資料鏈允許飛行中資訊更新，包括重新定位和中止 英國已成功進行了「長矛」的首次導引發射試驗，這是一種小型巡航飛彈，將成為主要打擊武器用於艦載 F-35B 戰鬥機對抗艦船，也可用於對抗坦克、目標結構和快速移動的車輛。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_test_fires_spear_mini_cruise_missile/</guid>
+      <pubDate>Mon, 18 Nov 2024 12:56:44 GMT</pubDate>
+    </item>
     <item>
       <title>英國稅務機關簽署 3.66 億英鎊的 ERP 交易，將系統引入雲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_tax_collector_awards_366/</link>
@@ -97,7 +104,7 @@
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
+      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
       <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>Helix 比特幣自助洗衣店背後的人被判入獄三年，交出 4 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</link>
-      <description><![CDATA[數位洗錢將付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
+      <description><![CDATA[數位洗錢會付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</guid>
       <pubDate>Sat, 16 Nov 2024 00:58:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[撤回對管理介面的訪問，統計 Palo Alto Networks 防火牆管理介面中的一個嚴重零日漏洞可允許未經身份驗證的攻擊者遠端執行程式碼，現已正式被積極利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/palo_alto_networks_firewall_zeroday/</guid>
       <pubDate>Fri, 15 Nov 2024 21:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>鍵盤搶匪從 AnnieMac 抵押貸款公司竊取 171,000 名客戶數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/anniemac_data_breach/</link>
-      <description><![CDATA[尋求一生中最大一筆貸款的人的姓名和社會安全號碼被暴露 一家美國主要抵押貸款機構告訴那些希望進行一生中最大一筆金融交易的客戶，入侵者闖入了其銀行。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/anniemac_data_breach/</guid>
-      <pubDate>Fri, 15 Nov 2024 19:22:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
