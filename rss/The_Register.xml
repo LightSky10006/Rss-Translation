@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 16:16:48 GMT</lastBuildDate>
+    <item>
+      <title>瑞典的“世界末日傻瓜準備”指南今天到達郵箱</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/sweden_updates_war_guide/</link>
+      <description><![CDATA[六年來的第一個版本的大小幾乎是北約之前版本的三倍 瑞典居民本週將收到一份方便的新指南，其中詳細介紹瞭如何為各種類型的危機做好準備如果地緣政治事件威脅到國家，局勢或戰時......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/sweden_updates_war_guide/</guid>
+      <pubDate>Mon, 18 Nov 2024 16:03:15 GMT</pubDate>
+    </item>
     <item>
       <title>川普任命馬斯克合夥人布倫丹·卡爾為 FCC 主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</link>
@@ -125,7 +132,7 @@
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
+      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
       <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[它是記憶體安全的，但有一些注意事項 在全球推動記憶體安全程式設計的推動下，希望繼續使用C 和C++ 程式語言工作的開發人員現在有另一個不涉及的選擇學習 Rust... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/rusthaters_unite_filc/</guid>
       <pubDate>Sat, 16 Nov 2024 10:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士郵政服務被用來傳播惡意軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/</link>
-      <description><![CDATA[二維碼透過古老的傳送系統到達 瑞士國家網路安全中心 (NCSC) 已發布有關惡意軟體透過該國郵政服務傳播的警報。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/</guid>
-      <pubDate>Sat, 16 Nov 2024 07:07:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
