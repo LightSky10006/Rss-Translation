@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 18 Nov 2024 07:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 08:44:12 GMT</lastBuildDate>
+    <item>
+      <title>NIST 訓練人工智慧在電池爆炸前聽到「糟糕」的聲音</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/battery_fail_sound_ai/</link>
+      <description><![CDATA[機器學習用於區分打開一罐汽水和災難性事件 美國國家標準與技術研究所 (NIST) 的研究人員提出了一種鋰離子電池火災預警系統...&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/battery_fail_sound_ai/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>本科生認為他在幾週內就掌握了 Unix。然後他發現了 rm -rf</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/who_me/</link>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 17 Nov 2024 09:41:10 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 和微軟推出 Earth Copilot 來緩解衛星資料過載問題</title>
+      <title>NASA 和微軟推出 Earth Copilot 解決衛星資料過載問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</link>
       <description><![CDATA[概念驗證允許以對話方式查詢地理空間資料集 由於Earth Copilot 與NASA 合作的宣布，關於微軟下一步將把Copilot 品牌帶到何處的猜測現在可以結束了。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>Helix 比特幣自助洗衣店背後的人被判入獄三年，交出 4 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</link>
-      <description><![CDATA[數位洗錢將付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
+      <description><![CDATA[數位洗錢會付出代價，直到它不會付出代價 一名俄亥俄州男子運營著Grams 暗網搜尋引擎和與之相關的Helix 加密貨幣洗錢服務，已被判處三項監禁入獄多年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/</guid>
       <pubDate>Sat, 16 Nov 2024 00:58:06 GMT</pubDate>
     </item>
@@ -118,14 +125,14 @@
       <pubDate>Fri, 15 Nov 2024 19:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死吧”</title>
+      <title>谷歌雙子座在幫助研究生做作業時告訴他“請去死”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</link>
       <description><![CDATA[AGI 的第一個真正跡象——讓令人沮喪的用戶熔斷？的是它稱你為“宇宙上的污點”，應該“請死”，但我們在這裡，假設本週在線發布的對話是準確的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/</guid>
       <pubDate>Fri, 15 Nov 2024 18:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>Photoshop FOSS 取代 GNU 影像處理程序 3.0 即將推出</title>
+      <title>Photoshop FOSS 替代 GNU 影像處理程序 3.0 即將推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</link>
       <description><![CDATA[距 2.0 版已近 21 年了 GNU 影像處理程式 (GIMP) 3.0 版即將發布。它具有重要的新功能和期待已久的功能 - 您現在就可以嘗試。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[最輕量級的主流 Linux 桌面加入了極少數支援 X.org 替換的桌面 LXQt 2.1 是 Lubuntu 中使用的基於 Qt 的輕量級桌面的最新版本，但該版本比它的競爭對手......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/lxqt_21/</guid>
       <pubDate>Fri, 15 Nov 2024 16:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克也想與微軟與 OpenAI 進行法律恩怨較量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/15/musk_openai_amended_complaint/</link>
-      <description><![CDATA[House of GPT 稱訴訟「毫無根據且過分」 馬斯克(Elon Musk) 將微軟和風險投資家Reid Hoffman 列入其與OpenAI 長期法律糾紛的被告名單中。 ChatGPT 製造商稱這一說法「毫無根據且過分」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/15/musk_openai_amended_complaint/</guid>
-      <pubDate>Fri, 15 Nov 2024 16:23:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
