@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 08:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 09:38:38 GMT</lastBuildDate>
+    <item>
+      <title>微軟資深人士透露，Windows 95 的設定由三個穿著風衣的程式組成</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/</link>
+      <description><![CDATA[MS-DOS、最小化的 Windows 3.1，以及 Windows 95 等待安裝程式的最終喜悅 微軟資深人士 Raymond Chen 徹底解決了 Windows 95 安裝程式為何繼續運行的問題在最終向用戶在介紹「開始」選單的概念之前，先瀏覽一下GUI。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/</guid>
+      <pubDate>Tue, 19 Nov 2024 09:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 18 增加了秘密和智慧安全功能，可在三天後重新啟動 iThings</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/ios_18_secret_reboot/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國認為涉及 Jetflicks 的案件是此類案件中規模最大的 在經過五年法律訴訟和兩週監禁後，一名大型互聯網盜版網站核心的程式設計師面臨長期監禁審判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/jetflicks_programmer_conviction/</guid>
       <pubDate>Mon, 18 Nov 2024 13:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國試射「長矛」迷你巡航飛彈，將裝備 F-35 戰鬥機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_test_fires_spear_mini_cruise_missile/</link>
-      <description><![CDATA[雙向資料鏈允許飛行中資訊更新，包括重新定位和中止 英國已成功進行了「長矛」的首次導引發射試驗，這是一種小型巡航飛彈，將成為主要打擊武器用於艦載 F-35B 戰鬥機對抗艦船，也可用於對抗坦克、目標結構和快速移動的車輛。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_test_fires_spear_mini_cruise_missile/</guid>
-      <pubDate>Mon, 18 Nov 2024 12:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
