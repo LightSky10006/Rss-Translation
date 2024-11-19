@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 19:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 20:14:28 GMT</lastBuildDate>
+    <item>
+      <title>美國飲用水系統存在難以接受的網路安全問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</link>
+      <description><![CDATA[EPA OIG 表示，超過1 億人依賴於有漏洞的系統 美國環保署監察長辦公室發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:59:05 GMT</pubDate>
+    </item>
     <item>
       <title>微軟打破了「設定」中的時區並向一個不太可能的盟友尋求幫助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Microsoft Fabric 承諾在一項資料庫服務上進行交易和分析</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</link>
-      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite 微軟將推出一項資料庫服務，可以在同一系統中管理事務和分析工作負載. ..]]></description>
+      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite  theregister.com...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</guid>
       <pubDate>Tue, 19 Nov 2024 17:37:05 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
       <pubDate>Mon, 18 Nov 2024 22:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官對亞馬遜、SpaceX 宣布 NLRB 違憲的嘗試不以為然</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/</link>
-      <description><![CDATA[大型科技公司對美國勞工監管機構的大戰遭遇重大挫折 亞馬遜和SpaceX 今天在法庭上辯稱，美國國家勞工關係委員會(NLRB) 是一個違憲機構，但卻是一個由三位法官組成的機構小組似乎並不特別熱衷於他們的論點。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/</guid>
-      <pubDate>Mon, 18 Nov 2024 21:16:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
