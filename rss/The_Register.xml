@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 01:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 02:42:07 GMT</lastBuildDate>
+    <item>
+      <title>川普選擇執掌 FCC 的人選告訴了我們他的計劃：TikTok 禁令、太空寬頻和 230 條款改革</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</link>
+      <description><![CDATA[厭惡大型科技公司，一點也不熱衷於網絡中立性 當選總統唐納德·特朗普宣布選擇美國聯邦通信委員會主席：現任委員布倫丹·卡爾，特朗普將其任命為美國聯邦通信委員會主席。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</guid>
+      <pubDate>Tue, 19 Nov 2024 01:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>據稱，福特在員工資料外洩後“積極調查”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/ford_actively_investigating_breach/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 繼續致力於將人工智慧強加到一切事物中，包括 HPC</title>
+      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
       <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[運行被他刪除的實驗室的大學系統管理員是問題的一個重要部分 誰，我？ – 在讀者貢獻的專欄中，您的Reg 崇拜者們承認他們搞砸了他們應該馴服的技術的時刻。 = &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/who_me/</guid>
       <pubDate>Mon, 18 Nov 2024 07:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>對中國月球岩石樣本的首次觀察表明，月球上存在火山的時間比之前想像的要長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/chinas_change_6_samples_reveal/</link>
-      <description><![CDATA[來自月球背面的東西是玄武岩- 但克里普-y比預期的要少 從月球背面收集的第一批土壤和岩石樣本顯示，最近的月球火山活動比預期的要多，根據上週五在兩份期刊上發表的研究。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/chinas_change_6_samples_reveal/</guid>
-      <pubDate>Mon, 18 Nov 2024 06:33:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
