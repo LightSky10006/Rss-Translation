@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 22:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 23:12:32 GMT</lastBuildDate>
+    <item>
+      <title>與中國有關的組織利用 VPN 憑證竊取程序濫用 Fortinet 0day</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/china_brazenbamboo_fortinet_0day/</link>
+      <description><![CDATA[沒有關於何時或是否會解決該問題的消息 據內訪問證機構稱，與中國政府相關的窺探者正在利用Fortinet Windows VPN 用戶端中的零日漏洞竊取憑證和其他資訊波動性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/china_brazenbamboo_fortinet_0day/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯涉嫌 Phobos 勒索軟體管理員因勒索 1,600 萬美元被引渡到美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/suspected_phobos_admin/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
       <pubDate>Tue, 19 Nov 2024 04:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普選擇執掌 FCC 的人選告訴了我們他的計劃：TikTok 禁令、太空寬頻和 230 條款改革</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</link>
-      <description><![CDATA[厭惡大型科技公司，一點也不熱衷於網絡中立性 當選總統唐納德·特朗普宣布選擇美國聯邦通信委員會主席：現任委員布倫丹·卡爾，特朗普將其任命為美國聯邦通信委員會主席。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</guid>
-      <pubDate>Tue, 19 Nov 2024 01:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
