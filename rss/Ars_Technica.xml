@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 22:11:57 GMT</lastBuildDate>
+    <item>
+      <title>Musi 粉絲拒絕更新 iPhone，除非蘋果解鎖有爭議的應用程式</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/</link>
+      <description><![CDATA[蘋果表示，Musi 不會因為 App Store 下架而面臨「滅絕」的風險。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟與原子運算聯合進行量子糾錯演示</title>
+      <link>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</link>
+      <description><![CDATA[新的工作提供了該領域目前狀況的良好視角。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>Niantic 使用 Pokémon Go 玩家資料建立 AI 導航系統</title>
       <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
@@ -34,16 +48,16 @@
       <pubDate>Tue, 19 Nov 2024 18:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>微軟模擬飛行 2024 帶著地球的「全數位雙胞胎」到來</title>
+      <title>微軟模擬飛行 2024 帶著地球的「全數位孿生」到來</title>
       <link>https://arstechnica.com/gaming/2024/11/microsoft-flight-simulator-2024-has-animals-ai-terrain-careers-and-flydoos/</link>
-      <description><![CDATA[機器學習為這部非常大的續集提供了更近距離的背景。]]></description>
+      <description><![CDATA[機器學習在這部非常大的續集中提供了更近距離的背景。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/microsoft-flight-simulator-2024-has-animals-ai-terrain-careers-and-flydoos/</guid>
       <pubDate>Tue, 19 Nov 2024 18:04:06 GMT</pubDate>
     </item>
     <item>
       <title>超導論背後的科學家被驅逐</title>
       <link>https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/</link>
-      <description><![CDATA[在高溫超導性的主張被撤回後，蘭加迪亞斯失去了大學工作。]]></description>
+      <description><![CDATA[在高溫超導性的主張被撤回後，蘭加·迪亞斯失去了大學工作。]]></description>
       <guid>https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/</guid>
       <pubDate>Tue, 19 Nov 2024 17:46:52 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[由於美國難以負擔 GLP-1 藥物，世界其他地區的價格卻大幅下降。]]></description>
       <guid>https://arstechnica.com/health/2024/11/novo-nordisk-sells-hit-weight-loss-drug-in-china-at-fraction-of-us-price/</guid>
       <pubDate>Tue, 19 Nov 2024 17:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>報告：司法部希望強制出售 Google Chrome 並取消 Android 捆綁銷售</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/</link>
-      <description><![CDATA[切斷谷歌對世界上最受歡迎的瀏覽器的控制可能是必要的。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX將在Starship第六次試飛中嘗試一些新花樣</title>
-      <link>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</link>
-      <description><![CDATA[“這次飛行的另一個目標是嘗試使用單一猛禽發動機進行太空燃燒。”]]></description>
-      <guid>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:56:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

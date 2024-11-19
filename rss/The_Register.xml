@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 22:12:20 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯涉嫌 Phobos 勒索軟體管理員因勒索 1,600 萬美元被引渡到美國</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/suspected_phobos_admin/</link>
+      <description><![CDATA[此惡意軟體對每個騙子都是免費的（解密金鑰單獨出售，價值300 美元） 一名俄羅斯公民已從韓國引渡到美國，面臨與其涉嫌參與Phobos 勒索軟體行動相關的指控...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/suspected_phobos_admin/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:55:07 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 365 Copilot 被尖括號絆倒，讓編碼員感到沮喪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</link>
-      <description><![CDATA[當輸入棘手的小於號字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot 提示的文字區域。]]></description>
+      <description><![CDATA[當輸入棘手的小於字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot提示的文字區域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</guid>
       <pubDate>Tue, 19 Nov 2024 21:03:44 GMT</pubDate>
     </item>
     <item>
       <title>美國飲用水系統存在難以接受的網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</link>
-      <description><![CDATA[EPA OIG 表示，超過1 億人依賴於有漏洞的系統 美國環保署監察長辦公室發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
+      <description><![CDATA[EPA OIG 表示，超過1 億人依賴有漏洞的系統 美國環保署監察長辦公室發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</guid>
       <pubDate>Tue, 19 Nov 2024 19:59:05 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 19 Nov 2024 15:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你電腦</title>
+      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
       <description><![CDATA[在蹲坑方面與 Apple 一樣出色，但這個做得並不多 Ignite 微軟正在以設備為目的進軍終端市場- 旨在連接到Windows 365 ，富有想像力地命名為「Windows 365 Link」。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 19 Nov 2024 04:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>川普選擇執掌 FCC 告訴我們他的計劃：TikTok 禁令、太空寬頻和第 230 條改革</title>
+      <title>川普選擇執掌 FCC 的人選告訴了我們他的計劃：TikTok 禁令、太空寬頻和 230 條款改革</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</link>
       <description><![CDATA[厭惡大型科技公司，一點也不熱衷於網絡中立性 當選總統唐納德·特朗普宣布選擇美國聯邦通信委員會主席：現任委員布倫丹·卡爾，特朗普將其任命為美國聯邦通信委員會主席。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/</guid>
       <pubDate>Tue, 19 Nov 2024 01:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>據稱，福特在員工資料外洩後“積極調查”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/ford_actively_investigating_breach/</link>
-      <description><![CDATA[Plus：Maxar Space Systems 確認員工資訊在數位入侵中被盜 福特汽車公司表示，在攻擊者聲稱竊取了包含44,000 條客戶記錄的內部資料庫並將其轉儲後，該公司正在調查資料外洩指控有關網路犯罪露天市場的信息，任何人都可以「享受」。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/ford_actively_investigating_breach/</guid>
-      <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
