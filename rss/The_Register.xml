@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 15:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:39:30 GMT</lastBuildDate>
+    <item>
+      <title>Palo Alto Networks 透過關鍵修補程式解決破壞防火牆的零日漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/palo_alto_networks_patches/</link>
+      <description><![CDATA[令人驚訝的是，研究人員表示，這兩個錯誤竟然進入了生產設備 Palo Alto Networks (PAN) 終於針對上週引起如此大騷動的零日漏洞發布了CVE標識符和補丁。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/palo_alto_networks_patches/</guid>
+      <pubDate>Tue, 19 Nov 2024 15:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[您現在也可以將四張H200 PCIe 卡黏合在一起 SC24  Nvidia 最新的HPC 和AI 晶片是一款大型單板計算機，包含四個Blackwell GPU、144 個Arm Neoverse 核心、高達1.3 TB 的HBM 和高達5.4 千瓦的TDP。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_gb200_nvl4/</guid>
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
-      <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
