@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 06:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 07:37:16 GMT</lastBuildDate>
+    <item>
+      <title>Citrix 透過增強的管理工具來完善其平台</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/citrix_platform_updates/</link>
+      <description><![CDATA[管理員承諾今年或明年他們可以用更少的點擊次數完成工作 Citrix 已經兌現了其在 3 月份的承諾，當時它將其軟體捆綁到一個「平台」中，新的管理工具和改進的使用者介面的形式。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/citrix_platform_updates/</guid>
+      <pubDate>Tue, 19 Nov 2024 07:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>機器人在韓國跑馬拉松，這顯然是第一次發生</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/robo_dogs_marathons/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 繼續致力於將人工智慧強加到一切事物中，包括 HPC</title>
+      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
       <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[SAP 和德勤的獲獎者從傳統軟體過渡到 SaaS，其中包括住房和交通部 英國稅務機關已授予價值高達 3.66 億英鎊（4.61 億美元）的合同，以推動轉型將中央政府部門的ERP、HR 和財務系統叢集移轉到雲端並升級遺留軟體。 /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/uk_tax_collector_awards_366/</guid>
       <pubDate>Mon, 18 Nov 2024 11:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟開始煮副駕駛青蛙：這不是你不惜任何代價想喝的湯</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/opinion_piece_ai_tools/</link>
-      <description><![CDATA[您現在認為員工產生的內容很糟糕嗎？  觀點 在 1968 年的《星際爭霸戰》劇集「終極電腦」中，柯克船長用他的飛船來測試新型電腦 M5。如果你願意的話，可以擔任企業號星艦的副駕駛…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/opinion_piece_ai_tools/</guid>
-      <pubDate>Mon, 18 Nov 2024 10:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
