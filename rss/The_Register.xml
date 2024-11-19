@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 13:01:12 GMT</lastBuildDate>
+    <item>
+      <title>騙子闖入人工智慧產業，透過自己的帳戶電匯 25 萬美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/ilearningengines_bec_scam/</link>
+      <description><![CDATA[挑剔的攻擊者隨後清理了他們身後的電子郵件踪跡 一家馬裡蘭州人工智能公司已向美國證券交易委員會(SEC) 確認，由於電匯付款錯誤，該公司損失了25萬美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/ilearningengines_bec_scam/</guid>
+      <pubDate>Tue, 19 Nov 2024 12:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>波羅的海數據電纜被切斷後，歐洲轉向俄羅斯</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/baltic_sea_cables_cut/</link>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
+      <title>Nvidia 繼續致力於將人工智慧強加到一切事物中，包括 HPC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
       <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[六年來的第一個版本的大小幾乎是北約之前版本的三倍 瑞典居民本週將收到一份方便的新指南，其中詳細介紹瞭如何為各種類型的危機做好準備如果地緣政治事件威脅到國家，局勢或戰時......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/sweden_updates_war_guide/</guid>
       <pubDate>Mon, 18 Nov 2024 16:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普任命馬斯克合夥人布倫丹·卡爾為 FCC 主席</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</link>
-      <description><![CDATA[可能更看好 Elon 在天基通信領域的冒險 負責監管美國媒體和通信的機構美國聯邦通信委員會 (FCC) 即將迎來一位新老闆：現任委員布倫丹·卡爾… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:08:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
