@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 16:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 18:17:41 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Fabric 承諾在一項資料庫服務上進行交易和分析</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</link>
+      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite 微軟將推出一項資料庫服務，可以在同一系統中管理事務和分析工作負載. ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</guid>
+      <pubDate>Tue, 19 Nov 2024 17:37:05 GMT</pubDate>
+    </item>
     <item>
       <title>超微熱插拔審計師希望避免納斯達克退市</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/supermicro_new_auditor_nasdaq/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Un-Carrier 據說是遭受鹽颱風襲擊的公司之一，其中包括 AT&amp;T、Verizon T-Mobile US 表示正在「監控」一場「全行業」的針對網路間諜活動美國網路- 由於擔心中國政府支持的間諜與其他各種電信供應商一起破壞了非營運商的安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/tmobile_us_attack_salt_typhoon/</guid>
       <pubDate>Mon, 18 Nov 2024 20:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克和美國政治行動委員會因涉嫌操縱 100 萬美元選舉獎金而被起訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/musk_america_pac_sued/</link>
-      <description><![CDATA[在其律師在法庭上承認贈品不是隨機的之後，這是不可避免的 埃隆·馬斯克(Elon Musk) 和他的美國政治行動委員會(America PAC) 因涉嫌在洩露一份100 萬美元的選舉彩票後撒謊而被起訴。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/musk_america_pac_sued/</guid>
-      <pubDate>Mon, 18 Nov 2024 19:29:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
