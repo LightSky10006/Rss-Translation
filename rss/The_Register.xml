@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 11:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 12:25:07 GMT</lastBuildDate>
+    <item>
+      <title>波羅的海數據電纜被切斷後，歐洲轉向俄羅斯</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/baltic_sea_cables_cut/</link>
+      <description><![CDATA[繼續調查影響德國、瑞典、芬蘭、立陶宛的干擾 德國和芬蘭證實，波羅的海下的兩條光纖網路電纜似乎已受到干擾，這引發了人們對俄羅斯可能幹擾網路的新擔憂技術基礎設施。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/baltic_sea_cables_cut/</guid>
+      <pubDate>Tue, 19 Nov 2024 11:58:07 GMT</pubDate>
+    </item>
     <item>
       <title>北愛爾蘭學校在不到一年後就放棄了價值 4.85 億英鎊的富士通交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/northern_ireland_schools_fujitsu/</link>
-      <description><![CDATA[「雙方協議」導致合約終止 富士通和英國公共機構終止了雙方在郵局電腦發生全國性醜聞幾週後宣布的價值 4.85 億英鎊（6.13 億美元）的合約由日本科技服務巨頭實施的系統。]]></description>
+      <description><![CDATA[「雙方協議」導致合約終止 更新 富士通和英國公共機構已終止了雙方在接下來的幾週內宣布的價值4.85 億英鎊（6.13 億美元）的合約圍繞著日本科技服務巨頭實施的郵局電腦系統的全國性醜聞......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/northern_ireland_schools_fujitsu/</guid>
       <pubDate>Tue, 19 Nov 2024 11:10:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[可能更看好 Elon 在天基通信領域的冒險 負責監管美國媒體和通信的機構美國聯邦通信委員會 (FCC) 即將迎來一位新老闆：現任委員布倫丹·卡爾… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/brendan_carr_fcc_chair/</guid>
       <pubDate>Mon, 18 Nov 2024 15:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLNL 希望透過 Oxide 的機架級運算平台讓 HPC 變得更加雲端化</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/llnl_oxide_compute/</link>
-      <description><![CDATA[作為將 API 驅動的自動化應用於科學計算的概念驗證的系統 SC24  OxideComputing 的 2,500 磅（1.1 公噸）機架級刀片伺服器即將推出能源部勞倫斯利弗莫爾國家實驗室(LNLL) 的新家。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/llnl_oxide_compute/</guid>
-      <pubDate>Mon, 18 Nov 2024 14:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
