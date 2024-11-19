@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 14:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:13:48 GMT</lastBuildDate>
+    <item>
+      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
+      <description><![CDATA[在製造蹲坑方面與蘋果一樣出色，但這個做得並不多 微軟正在嘗試進入終端市場，推出一款專門用於連接 Windows 365 的設備，富有想像力地命名為「Windows 365 Link」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>資料庫戰馬 SQL Server 2025 全面進軍人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_sql_server_2025/</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 18 Nov 2024 18:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 繼續致力於將人工智慧強加到一切事物中，包括 HPC</title>
+      <title>Nvidia 繼續尋求將人工智慧強加到一切事物中，包括 HPC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</link>
       <description><![CDATA[GPU 巨頭認為一點模糊數學可以加速流體動力學和藥物發現 SC24  Nvidia 週一推出了幾款用於增強實時流體動力學的新工具和框架模擬、計算化學、天氣預報和藥物開發以及每個人最喜歡的流行詞：人工智慧。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/</guid>
       <pubDate>Mon, 18 Nov 2024 18:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLNL 的 El Capitan 以 1.74 exaFLOPS 性能超越 Frontier</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/</link>
-      <description><![CDATA[山姆大叔高居超級電腦排行榜榜首，而中國則淡出公眾視野 SC24 勞倫斯利弗莫爾國家實驗室(LLNL) El Capitan 系統結束了Frontier 2.5 年的超級電腦霸主地位一台躋身 Top500 的超級計算機，為高效能運算 (HPC) 設定了新的高水位。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
