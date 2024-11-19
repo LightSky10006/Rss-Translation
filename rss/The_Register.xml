@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 20:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:13:23 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 365 Copilot 被尖括號絆倒，讓編碼員感到沮喪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</link>
+      <description><![CDATA[當輸入棘手的小於號字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot 提示的文字區域。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:03:44 GMT</pubDate>
+    </item>
     <item>
       <title>美國飲用水系統存在難以接受的網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：Maxar Space Systems 確認員工資訊在數位入侵中被盜 福特汽車公司表示，在攻擊者聲稱竊取了包含44,000 條客戶記錄的內部資料庫並將其轉儲後，該公司正在調查資料外洩指控有關網路犯罪露天市場的信息，任何人都可以「享受」。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/ford_actively_investigating_breach/</guid>
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
-      <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
-      <pubDate>Mon, 18 Nov 2024 22:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

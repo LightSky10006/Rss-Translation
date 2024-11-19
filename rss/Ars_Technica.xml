@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 19 Nov 2024 20:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:12:56 GMT</lastBuildDate>
+    <item>
+      <title>Niantic 使用 Pokémon Go 玩家資料建立 AI 導航系統</title>
+      <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
+      <description><![CDATA[對世界的視覺掃描幫助 Niantic 建立了所謂的「大型地理空間模型」。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>自動煞車系統可以挽救生命。現在他們需要以 62 英里/小時的速度工作。</title>
+      <link>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</link>
+      <description><![CDATA[監管機構已下令擴大該技術，但汽車業表示升級並不容易。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:45:47 GMT</pubDate>
+    </item>
     <item>
       <title>Apple TV+ 在原創內容上花費了 20B 美元。如果人們真正觀看就好了。</title>
       <link>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</link>
-      <description><![CDATA[Apple TV+ 享有盛譽，但觀眾不多。]]></description>
+      <description><![CDATA[據報道，高預算為 Apple TV+ 帶來了很高的聲望，但觀眾並不多。]]></description>
       <guid>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</guid>
       <pubDate>Tue, 19 Nov 2024 19:14:31 GMT</pubDate>
     </item>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 19 Nov 2024 18:35:49 GMT</pubDate>
     </item>
     <item>
-      <title>微軟模擬飛行 2024 帶著地球的「全數位孿生」到來</title>
+      <title>微軟模擬飛行 2024 帶著地球的「全數位雙胞胎」到來</title>
       <link>https://arstechnica.com/gaming/2024/11/microsoft-flight-simulator-2024-has-animals-ai-terrain-careers-and-flydoos/</link>
       <description><![CDATA[機器學習為這部非常大的續集提供了更近距離的背景。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/microsoft-flight-simulator-2024-has-animals-ai-terrain-careers-and-flydoos/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“這次飛行的另一個目標是嘗試使用單一猛禽發動機進行太空燃燒。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</guid>
       <pubDate>Tue, 19 Nov 2024 15:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天就加入我們的 Ars Live：我們第一次接觸操控性人工智慧</title>
-      <link>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</link>
-      <description><![CDATA[美國東部時間下午 4 點，加入 Benj Edwards 和 Simon Willison 的 YouTube 現場聊天，討論「2023 年必應聊天慘敗」。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>湧現引力可能是一個死主意，但它不是一個壞主意</title>
-      <link>https://arstechnica.com/science/2024/11/emergent-gravity-may-be-a-dead-idea-but-its-not-a-bad-one/</link>
-      <description><![CDATA[引力可能不會出現，但一些有趣的想法出現了。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/emergent-gravity-may-be-a-dead-idea-but-its-not-a-bad-one/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
