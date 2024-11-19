@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 19:10:53 GMT</lastBuildDate>
     <item>
       <title>微軟打破了「設定」中的時區並向一個不太可能的盟友尋求幫助</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
-      <description><![CDATA[在製造蹲坑方面與蘋果一樣出色，但這個做得並不多 微軟正在嘗試進入終端市場，推出一款專門用於連接 Windows 365 的設備，富有想像力地命名為「Windows 365 Link」。]]></description>
+      <description><![CDATA[在蹲坑方面與 Apple 一樣出色，但這個做得並不多 Ignite 微軟正在以設備為目的進軍終端市場- 旨在連接到Windows 365 ，富有想像力地命名為「Windows 365 Link」。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
       <pubDate>Tue, 19 Nov 2024 14:44:14 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>印度對 Meta 實施五年禁止分享 WhatsApp 廣告訊息的禁令</title>
+      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
       <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
@@ -132,7 +132,7 @@
       <pubDate>Mon, 18 Nov 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>漏洞修復後，VMware vCenter RCE 嚴重漏洞被利用，評級為 9.8</title>
+      <title>漏洞修復後，VMware vCenter RCE 嚴重 9.8 級漏洞被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</link>
       <description><![CDATA[如果您一個月前沒有修復此問題，您的待辦事項清單可能需要重新調整 兩個 VMware vCenter 伺服器錯誤，包括導致遠端程式碼執行的嚴重堆疊溢出漏洞 ( RCE） ，在Broadcom 首次嘗試修復缺陷失敗後，已在攻擊中被利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/</guid>
