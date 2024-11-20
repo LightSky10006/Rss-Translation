@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 16:46:01 GMT</lastBuildDate>
+    <item>
+      <title>微軟推出強大的客製化 AMD 晶片來處理 Azure 上的 HPC 工作負載</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</link>
+      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本在芝加哥舉行的Ignite 會議上週進行示範。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 聲稱星際飛船再次取得成功，但未能成功</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[控制面板出手相救！  在 Ignite 會議開幕之際，微軟承認 Windows 11 24H2 還有另一個已知問題。如果您嘗試更改時區，您可能會發現這是一個挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/</guid>
       <pubDate>Tue, 19 Nov 2024 18:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fabric 承諾在一項資料庫服務上進行交易和分析</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</link>
-      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite 微軟將推出一項資料庫服務，可以在同一系統中管理事務和分析工作負載. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:37:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
