@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 03:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 06:18:31 GMT</lastBuildDate>
+    <item>
+      <title>創建歐洲雲端競爭觀察站以關注軟體許可</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/european_cloud_competition_observatory/</link>
+      <description><![CDATA[在Microsoft 與CISPE 聯盟和解之後採取的舉措 獨家 歐洲雲端基礎設施服務供應商(CISPE) 聯盟已啟動歐洲雲端競爭觀察站(ECCO) 來密切關注關於該行業的軟體許可實踐......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/european_cloud_competition_observatory/</guid>
+      <pubDate>Wed, 20 Nov 2024 06:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國希望行動裝置限制未成年人的使用時間，確保他們只看到好看的內容</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/china_minor_mode/</link>
+      <description><![CDATA[以社會主義的名義尋求製造商、開發商和內容提供商之間的大聯盟 中國國家互聯網資訊辦公室上週發布了指導意見，建議行動裝置配備「未成年人模式”，以強制執行審查制度和自動使用時間限制。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/china_minor_mode/</guid>
+      <pubDate>Wed, 20 Nov 2024 05:38:37 GMT</pubDate>
+    </item>
     <item>
       <title>Google改變 Android 發布週期，新版本將在第二季發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/android_16_new_release_cycle/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[MS-DOS、最小化的 Windows 3.1，以及 Windows 95 等待安裝程式的最終喜悅 微軟資深人士 Raymond Chen 徹底解決了 Windows 95 安裝程式為何繼續運行的問題在最終向用戶在介紹「開始」選單的概念之前，先瀏覽一下GUI。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/</guid>
       <pubDate>Tue, 19 Nov 2024 09:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 增加了秘密和智慧安全功能，可在三天後重新啟動 iThings</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/ios_18_secret_reboot/</link>
-      <description><![CDATA[安全研究人員的逆向工程工作揭示了未記錄的重啟計時器，這將使攻擊者的日子變得更加艱難 Apple 最新的行動作業系統iOS 18 似乎添加了一項未記錄的安全功能，如果設備72 小時未使用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/ios_18_secret_reboot/</guid>
-      <pubDate>Tue, 19 Nov 2024 08:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Citrix 透過增強的管理工具來完善其平台</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/citrix_platform_updates/</link>
-      <description><![CDATA[管理員承諾今年或明年他們可以用更少的點擊次數完成工作 Citrix 已經兌現了其在 3 月份的承諾，當時它將其軟體捆綁到一個「平台」中，新的管理工具和改進的使用者介面的形式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/citrix_platform_updates/</guid>
-      <pubDate>Tue, 19 Nov 2024 07:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
