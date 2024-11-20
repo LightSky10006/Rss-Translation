@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 01:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 02:24:25 GMT</lastBuildDate>
+    <item>
+      <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
+      <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
+    </item>
     <item>
       <title>醫療保健組織 Equinox 通知 21,000 名患者和員工資料被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/equinox_patients_employees_data/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Microsoft 365 Copilot 被尖括號絆倒，讓編碼員感到沮喪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</link>
-      <description><![CDATA[當輸入棘手的小於號字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot 提示的文字區域。]]></description>
+      <description><![CDATA[當輸入棘手的小於字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot提示的文字區域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</guid>
       <pubDate>Tue, 19 Nov 2024 21:03:44 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Microsoft Fabric 承諾在一項資料庫服務上進行交易和分析</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</link>
-      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite  theregister.com...]]></description>
+      <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite 微軟將推出一項資料庫服務，可以在同一系統中管理事務和分析工作負載. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</guid>
       <pubDate>Tue, 19 Nov 2024 17:37:05 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 19 Nov 2024 15:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你電腦</title>
+      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
       <description><![CDATA[在蹲坑方面與 Apple 一樣出色，但這個做得並不多 Ignite 微軟正在以設備為目的進軍終端市場- 旨在連接到Windows 365 ，富有想像力地命名為「Windows 365 Link」。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[以 4:19:52 完成比賽，使其成為 SlowBot - 儘管它確實在沒有補充電池的情況下完成比賽 韓國高級科學技術研究所強迫其一隻機器狗跑馬拉松。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/robo_dogs_marathons/</guid>
       <pubDate>Tue, 19 Nov 2024 06:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hardware Barn 否認 0.004 秒臉部辨識侵犯隱私</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/facial_recognition_privacy_appeal_bunnings_australia/</link>
-      <description><![CDATA[聲稱它只是發現威脅Bluey 最喜歡的大賣場員工的購物者 澳大利亞五金連鎖店Bunnings Warehouse 將挑戰當地監管機構的一項裁決，該監管機構發現該公司通過面部檢查侵犯了購物者的隱私。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/facial_recognition_privacy_appeal_bunnings_australia/</guid>
-      <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
