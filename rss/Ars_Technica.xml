@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 20 Nov 2024 16:45:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:44:17 GMT</lastBuildDate>
     <item>
-      <title>《我的世界》電影預告片中的方塊殭屍正在發動攻擊</title>
+      <title>SpaceX 剛剛從 FAA 那裡得到了德克薩斯星艦發射的確切要求</title>
+      <link>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</link>
+      <description><![CDATA[“事先批准的所有相關條件和要求均已滿足。”]]></description>
+      <guid>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>健身應用程式 Strava 正在加強第三方對用戶資料的訪問</title>
+      <link>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</link>
+      <description><![CDATA[培訓應用程式、人工智慧使用和趨勢分析似乎在 Strava 的 API 中是禁止的。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>康卡斯特將放棄有線電視網絡，部分剝離 NBCUniversal 資產</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/comcast-to-ditch-cable-networks-in-partial-spinoff-of-nbcuniversal-assets/</link>
+      <description><![CDATA[康卡斯特 (Comcast) 剝離 USA、CNBC、MSNBC 等公司後，將繼續提供 Peacock 串流服務。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/comcast-to-ditch-cable-networks-in-partial-spinoff-of-nbcuniversal-assets/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:21:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>《我的世界》電影預告片探索史蒂夫的起源</title>
       <link>https://arstechnica.com/culture/2024/11/block-zombies-are-on-the-attack-in-minecraft-movie-trailer/</link>
-      <description><![CDATA[“只要你能想像的東西都可以用積木搭建起來，任何你能想像到的東西都是可能的。”]]></description>
+      <description><![CDATA[“只要你能想像的東西可以用積木搭建起來，任何你能想像的事情都是可能的。”]]></description>
       <guid>https://arstechnica.com/culture/2024/11/block-zombies-are-on-the-attack-in-minecraft-movie-trailer/</guid>
       <pubDate>Wed, 20 Nov 2024 16:25:20 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[對世界的視覺掃描幫助 Niantic 建立了所謂的「大型地理空間模型」。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</guid>
       <pubDate>Tue, 19 Nov 2024 20:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>自動煞車系統可以挽救生命。現在他們需要以 62 英里/小時的速度工作。</title>
-      <link>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</link>
-      <description><![CDATA[監管機構已下令擴大該技術，但汽車業表示升級並不容易。]]></description>
-      <guid>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV+ 在原創內容上花費了 20B 美元。如果人們真正觀看就好了。</title>
-      <link>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</link>
-      <description><![CDATA[據報道，高預算為 Apple TV+ 帶來了很高的聲望，但觀眾並不多。]]></description>
-      <guid>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有線電視公司和川普的 FCC 主席一致認為：數據上限對你有好處</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/cable-companies-and-trumps-fcc-chair-agree-data-caps-are-good-for-you/</link>
-      <description><![CDATA[有線電視遊說團體告訴聯邦通訊委員會，數據上限反映了「高度競爭的環境」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/cable-companies-and-trumps-fcc-chair-agree-data-caps-are-good-for-you/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:35:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
