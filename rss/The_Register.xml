@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 19 Nov 2024 23:36:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:00:52 GMT</lastBuildDate>
+    <item>
+      <title>醫療保健組織 Equinox 通知 21,000 名患者和員工資料被盜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/equinox_patients_employees_data/</link>
+      <description><![CDATA[勒索軟體渣滓LockBit 聲稱自己做了這件骯髒的事 紐約州健康與公共服務組織Equinox 已開始通知超過21,000 名客戶和員工，網路犯罪分子竊取了他們的健康、財務與資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/equinox_patients_employees_data/</guid>
+      <pubDate>Wed, 20 Nov 2024 00:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>與中國有關的組織利用 VPN 憑證竊取程序濫用 Fortinet 0day</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/china_brazenbamboo_fortinet_0day/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>美國飲用水系統存在難以接受的網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</link>
-      <description><![CDATA[EPA OIG 表示，超過1 億人依賴於有漏洞的系統 美國環保署監察長辦公室發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
+      <description><![CDATA[EPA OIG 表示，超過1 億人依賴的設備有漏洞 美國環保署監察長辦公室在一份報告中發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</guid>
       <pubDate>Tue, 19 Nov 2024 19:59:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[聲稱它只是發現威脅Bluey 最喜歡的大賣場員工的購物者 澳大利亞五金連鎖店Bunnings Warehouse 將挑戰當地監管機構的一項裁決，該監管機構發現該公司通過面部檢查侵犯了購物者的隱私。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/facial_recognition_privacy_appeal_bunnings_australia/</guid>
       <pubDate>Tue, 19 Nov 2024 05:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度對 Meta 處以五年禁止分享 WhatsApp 廣告訊息的禁令</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</link>
-      <description><![CDATA[Zuck 不應該濫用訊息傳遞主導地位 印度競爭委員會已對Meta 處以五年禁令，禁止其使用從WhatsApp 收集的資訊來幫助在其其他平台上投放廣告。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/</guid>
-      <pubDate>Tue, 19 Nov 2024 04:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
