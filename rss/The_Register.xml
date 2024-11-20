@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 17:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:18:02 GMT</lastBuildDate>
+    <item>
+      <title>美國大型醫療支付網路在勒索軟體攻擊 9 個月後恢復系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/change_healthcares_clearinghouse_services/</link>
+      <description><![CDATA[Change Healthcare 的20 億美元恢復工作仍在進行中 仍然受到2 月份勒索軟體攻擊的影響，Change Healthcare 確認其票據交換所服務已恢復並運行，距離數字中斷開始幾乎整整九個月...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/change_healthcares_clearinghouse_services/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:01:08 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌的人工智慧錯誤獵人嗅出了兩打人類錯過的代碼小精靈</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當輸入棘手的小於號字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot 提示的文字區域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</guid>
       <pubDate>Tue, 19 Nov 2024 21:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國飲用水系統存在難以接受的網路安全問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</link>
-      <description><![CDATA[EPA OIG 表示，超過1 億人依賴的設備有漏洞 美國環保署監察長辦公室在一份報告中發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
