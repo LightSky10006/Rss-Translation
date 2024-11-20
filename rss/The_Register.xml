@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 14:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 15:38:59 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 聲稱星際飛船再次取得成功，但未能成功</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</link>
+      <description><![CDATA[太空引擎重新點火為軌道任務鋪平了道路 SpaceX 已經完成了其星際飛船龐然大物的另一次試飛，但這次選擇不嘗試捕捉超重型助推器。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:33:08 GMT</pubDate>
+    </item>
     <item>
       <title>D-Link 要求用戶丟棄舊的 VPN 路由器，因為其漏洞太危險而無法識別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dlink_rip_replace_router/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Microsoft 365 Copilot 被尖括號絆倒，讓編碼員感到沮喪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</link>
-      <description><![CDATA[當輸入棘手的小於字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot提示的文字區域。]]></description>
+      <description><![CDATA[當輸入棘手的小於號字元時，聊天機器人似乎會窒息 Microsoft 365 Copilot 似乎對小於號印刷符號產生了過敏，這會阻止用戶將 HTML 標記和程式碼貼到其中Copilot 提示的文字區域。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_365_copilot_symbol/</guid>
       <pubDate>Tue, 19 Nov 2024 21:03:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Windows 巨頭在投入 Delta Parquet 後也改進了 Iceberg 支援 Ignite 微軟將推出一項資料庫服務，可以在同一系統中管理事務和分析工作負載. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/</guid>
       <pubDate>Tue, 19 Nov 2024 17:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>超微熱插拔審計師希望避免納斯達克退市</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/supermicro_new_auditor_nasdaq/</link>
-      <description><![CDATA[伺服器製造商在有客戶放棄的報告中嘗試重新啟動會計 伺服器製造商Supermicro 已任命了一位新的獨立審計師，並向納斯達克證券交易所提交了合規計劃，以避免因有報道稱其正在失去客戶而被摘牌。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/supermicro_new_auditor_nasdaq/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:34:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
