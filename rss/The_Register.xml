@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 10:42:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 11:35:25 GMT</lastBuildDate>
+    <item>
+      <title>微軟模擬飛行 2024 艱難起飛</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</link>
+      <description><![CDATA[如果標題中的公司知道如何擴展雲端中的伺服器就好了 昨天，《微軟模擬飛行2024》首次亮相時遇到了嚴重的動盪，因為伺服器難以滿足用戶的需求。 ...&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:28:13 GMT</pubDate>
+    </item>
     <item>
       <title>BASIC 共同創辦人 Thomas Kurtz 以 96 分達到 END</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/rip_thomas_kurtz/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[更好的鎖定、改進的查詢最佳化以及...Copilot Ignite  Microsoft 資料庫戰馬 SQL Server 的新版本即將推出，其中包含一些有用的改進擠在不可避免的人工智慧添加之間......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_sql_server_2025/</guid>
       <pubDate>Tue, 19 Nov 2024 14:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在公共預覽版中推出自主 Copilot AI 代理</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_autonomous_copilot_ai/</link>
-      <description><![CDATA[他們可以學習、適應並做出決定 - 但不用擔心，他們不是來搶你的工作 Ignite  Microsoft推出了新的工具，旨在幫助企業建立由基礎模型支援的軟體代理- 被過度熱情地稱為人工智慧或AI。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_autonomous_copilot_ai/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
