@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 06:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 07:37:28 GMT</lastBuildDate>
+    <item>
+      <title>數據是新的鈾——極其強大，卻極度危險</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/data_is_the_new_uranium/</link>
+      <description><![CDATA[CISO 悄悄地希望他們擁有更少的數據，因為管理成本有時超過其價值 我最近在首席資訊安全官圓桌會議上扮演了「牆上的蒼蠅」。除了預期的對資金短缺和總是太容易受騙的用戶的抱怨和抱怨之外，我開始聽到一個新的說明：數據已經成為一個問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/data_is_the_new_uranium/</guid>
+      <pubDate>Wed, 20 Nov 2024 07:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>創建歐洲雲端競爭觀察站以關注軟體許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/european_cloud_competition_observatory/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[「雙方協議」導致合約終止 更新 富士通和英國公共機構已終止了雙方在接下來的幾週內宣布的價值4.85 億英鎊（6.13 億美元）的合約圍繞著日本科技服務巨頭實施的郵局電腦系統的全國性醜聞......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/northern_ireland_schools_fujitsu/</guid>
       <pubDate>Tue, 19 Nov 2024 11:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟資深人士透露，Windows 95 的設定由三個穿著風衣的程式組成</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/</link>
-      <description><![CDATA[MS-DOS、最小化的 Windows 3.1，以及 Windows 95 等待安裝程式的最終喜悅 微軟資深人士 Raymond Chen 徹底解決了 Windows 95 安裝程式為何繼續運行的問題在最終向用戶在介紹「開始」選單的概念之前，先瀏覽一下GUI。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/</guid>
-      <pubDate>Tue, 19 Nov 2024 09:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
