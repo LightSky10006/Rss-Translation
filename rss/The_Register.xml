@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 16:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 17:12:14 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的人工智慧錯誤獵人嗅出了兩打人類錯過的代碼小精靈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</link>
+      <description><![CDATA[OSS-Fuzz 為安全研究中的LLM 提出了強有力的論點 Google 的OSS-Fuzz 專案使用大型語言模型(LLM) 來幫助查找程式碼儲存庫中的錯誤，現已幫助識別26 個錯誤漏洞，包括廣泛使用的OpenSSL 庫中的嚴重缺陷。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:01:27 GMT</pubDate>
+    </item>
     <item>
       <title>微軟推出強大的客製化 AMD 晶片來處理 Azure 上的 HPC 工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</link>
-      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本在芝加哥舉行的Ignite 會議上週進行示範。]]></description>
+      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本週於芝加哥舉行的Ignite 會議上進行示範。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
       <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[EPA OIG 表示，超過1 億人依賴的設備有漏洞 美國環保署監察長辦公室在一份報告中發現，近三分之一的美國居民所使用的飲用水系統存在網路安全缺陷。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/</guid>
       <pubDate>Tue, 19 Nov 2024 19:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟打破了「設定」中的時區並向一個不太可能的盟友尋求幫助</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/</link>
-      <description><![CDATA[控制面板出手相救！  在 Ignite 會議開幕之際，微軟承認 Windows 11 24H2 還有另一個已知問題。如果您嘗試更改時區，您可能會發現這是一個挑戰。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:25:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
