@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 13:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 13:31:14 GMT</lastBuildDate>
+    <item>
+      <title>Kyndryl 內部人士表示幾乎沒有新業務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/kyndryl_little_new_business/</link>
+      <description><![CDATA[IT 巨頭計劃在3 月結束收入下滑，前員工心存疑慮 特別報告 Kyndryl，本月早些時候從IBM 於2021 年分拆出來的託管基礎設施服務業務重申了其有些悲觀的預測，即截至3 月31 日的2025 財年收入將減少2% 至4%。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/kyndryl_little_new_business/</guid>
+      <pubDate>Wed, 20 Nov 2024 13:22:07 GMT</pubDate>
+    </item>
     <item>
       <title>HPE 允許 VM Essentials 在第三方平台上運行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpe_vm_essentials_greenlake/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[令人驚訝的是，研究人員表示，這兩個錯誤竟然進入了生產設備 Palo Alto Networks (PAN) 終於針對上週引起如此大騷動的零日漏洞發布了CVE標識符和補丁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/palo_alto_networks_patches/</guid>
       <pubDate>Tue, 19 Nov 2024 15:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你電腦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
-      <description><![CDATA[在蹲坑方面與 Apple 一樣出色，但這個做得並不多 Ignite 微軟正在以設備為目的進軍終端市場- 旨在連接到Windows 365 ，富有想像力地命名為「Windows 365 Link」。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
