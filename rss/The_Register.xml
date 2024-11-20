@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 19:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 22:40:05 GMT</lastBuildDate>
+    <item>
+      <title>戴爾與山姆大叔就陸軍操縱投標指控達成和解</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</link>
+      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司串通操縱競標與美國陸軍的業務。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</guid>
+      <pubDate>Wed, 20 Nov 2024 22:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>當聯準會調查 14B 美元收購瞻博網路時，HPE 執行長告訴我們，我們將回答司法部提出的任何問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpes_neri_regulators_juniper/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應爐營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[勒索軟體渣滓LockBit 聲稱自己做了這件骯髒的事 紐約州健康與公共服務組織Equinox 已開始通知超過21,000 名客戶和員工，網路犯罪分子竊取了他們的健康、財務與資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/equinox_patients_employees_data/</guid>
       <pubDate>Wed, 20 Nov 2024 00:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>與中國有關的組織利用 VPN 憑證竊取程序濫用 Fortinet 0day</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/china_brazenbamboo_fortinet_0day/</link>
-      <description><![CDATA[沒有關於何時或是否會解決該問題的消息 據內訪問證機構稱，與中國政府相關的窺探者正在利用Fortinet Windows VPN 用戶端中的零日漏洞竊取憑證和其他資訊波動性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/china_brazenbamboo_fortinet_0day/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:02:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
