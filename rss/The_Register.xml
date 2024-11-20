@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 20 Nov 2024 11:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 13:00:37 GMT</lastBuildDate>
+    <item>
+      <title>HPE 允許 VM Essentials 在第三方平台上運行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpe_vm_essentials_greenlake/</link>
+      <description><![CDATA[GreenLake 更新為VMware 難民帶來了誘人的胡蘿蔔 HPE 正在繼續推動GreenLake，推出自己的虛擬化產品，以及針對受監管環境的離線操作，同時宣傳旨在提供更高效能的物件儲存平台以及現代工作負載的規模。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpe_vm_essentials_greenlake/</guid>
+      <pubDate>Wed, 20 Nov 2024 12:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>微軟模擬飛行 2024 艱難起飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>日本希望利用核能來推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</link>
-      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，就有必要這樣做 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
+      <description><![CDATA[關閉的反應器營運商表示，一旦巨型海堤建成，這是有必要的 由於當地資料中心的需求激增，日本能源公司北海道電力公司總裁希​​望重新啟動其一座核反應器。 ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hokkaido_electric_power_nuclear_datacenter_ambition/</guid>
       <pubDate>Wed, 20 Nov 2024 01:59:06 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 19 Nov 2024 15:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你 PC</title>
+      <title>微軟推出瘦客戶端，售價 349 美元 Windows 365 Link 迷你電腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</link>
       <description><![CDATA[在蹲坑方面與 Apple 一樣出色，但這個做得並不多 Ignite 微軟正在以設備為目的進軍終端市場- 旨在連接到Windows 365 ，富有想像力地命名為「Windows 365 Link」。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/</guid>
       <pubDate>Tue, 19 Nov 2024 14:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>資料庫戰馬 SQL Server 2025 全面進軍人工智慧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_sql_server_2025/</link>
-      <description><![CDATA[更好的鎖定、改進的查詢最佳化以及...Copilot Ignite  Microsoft 資料庫戰馬 SQL Server 的新版本即將推出，其中包含一些有用的改進擠在不可避免的人工智慧添加之間......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_sql_server_2025/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:01:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
