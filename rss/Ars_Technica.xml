@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 21 Nov 2024 17:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 18:44:15 GMT</lastBuildDate>
+    <item>
+      <title>《Obsidian》的《Avowed》是治癒「魂類」動作角色扮演遊戲疲勞的良藥</title>
+      <link>https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/</link>
+      <description><![CDATA[預覽版本展示了一個豐富、多彩的世界，以及令人滿意、敏捷的戰鬥。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/</guid>
+      <pubDate>Thu, 21 Nov 2024 18:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA 正在堆疊 Artemis II 火箭，這意味著需要進行簡單的隔熱罩修復</title>
+      <link>https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/</link>
+      <description><![CDATA[NASA 預計需要大約四個月的時間才能完全組裝好 SLS 火箭的主要零件。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>歡迎來到Google的惡夢：美國公佈摧毀搜尋壟斷的計劃</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/welcome-to-googles-nightmare-us-reveals-plan-to-destroy-search-monopoly/</link>
+      <description><![CDATA[美國司法部用「令人震驚」的補救措施來扼殺谷歌的喉嚨，以結束搜尋壟斷。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/welcome-to-googles-nightmare-us-reveals-plan-to-destroy-search-monopoly/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:23:48 GMT</pubDate>
+    </item>
     <item>
       <title>Android 很快就會讓您在新裝置上立即登入您的應用程式</title>
       <link>https://arstechnica.com/gadgets/2024/11/android-will-soon-instantly-log-you-in-to-your-apps-on-new-devices/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 21 Nov 2024 16:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>兒童安全組織推出了接受真實兒童性虐待圖像訓練的人工智慧模型</title>
+      <title>兒童安全組織標記新的 CSAM，其人工智慧經過真實兒童性虐待圖像的訓練</title>
       <link>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</link>
       <description><![CDATA[兒童安全組織表示，人工智慧將使在線上傳播 CSAM 變得更加困難。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[“政府真的必須審視自己。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/</guid>
       <pubDate>Thu, 21 Nov 2024 12:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使大多數錯誤變得明顯的量子位元現在可供客戶使用</title>
-      <link>https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/</link>
-      <description><![CDATA[更容易糾錯的小型機器能否顛覆市場？]]></description>
-      <guid>https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/</guid>
-      <pubDate>Wed, 20 Nov 2024 20:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google停止讓福布斯等網站規則搜尋“最佳 CBD 軟糖”</title>
-      <link>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</link>
-      <description><![CDATA[如果您在「最佳」產品搜尋中發現了奇怪的網站，那麼 Google 也是如此。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究：為什麼阿茲特克人的「死亡哨聲」聽起來像是人類的尖叫聲</title>
-      <link>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</link>
-      <description><![CDATA[其基本機制依賴文丘里效應，產生獨特的粗獷而刺耳的聲音。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
