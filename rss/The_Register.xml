@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 10:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 11:36:10 GMT</lastBuildDate>
+    <item>
+      <title>數以千計的人工智慧代理商之後，誰還記得他們做了什麼？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</link>
+      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼要建造它們。」...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>現在《線上安全法》已成為法律，英國有“優先事項”——但仍不會解釋“間諜條款”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[GreenLake 更新為VMware 難民帶來了誘人的胡蘿蔔 HPE 正在繼續推動GreenLake，推出自己的虛擬化產品，以及針對受監管環境的離線操作，同時宣傳旨在提供更高效能的物件儲存平台以及現代工作負載的規模。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpe_vm_essentials_greenlake/</guid>
       <pubDate>Wed, 20 Nov 2024 12:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟模擬飛行 2024 艱難起飛</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</link>
-      <description><![CDATA[如果標題中的公司知道如何擴展雲端中的伺服器就好了 昨天，《微軟模擬飛行2024》首次亮相時遇到了嚴重的動盪，因為伺服器難以滿足用戶的需求。 ...&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</guid>
-      <pubDate>Wed, 20 Nov 2024 11:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
