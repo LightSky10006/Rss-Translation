@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 14:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:13:51 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 伺服器實用程式中的「令人擔憂」的錯誤已經存在了 10 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</link>
+      <description><![CDATA[立即更新：Qualys 表示漏洞可提供root 權限，並且「很容易被利用」 Qualys 的研究人員拒絕發布針對Ubuntu Server Needrestart 實用程式中五個錯誤的漏洞利用程式碼，這些錯誤允許非特權攻擊者在沒有任何權限的情況下獲得root 存取權使用者互動...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</guid>
+      <pubDate>Thu, 21 Nov 2024 15:03:05 GMT</pubDate>
+    </item>
     <item>
       <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本週於芝加哥舉行的Ignite 會議上進行示範。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
       <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 聲稱星際飛船再次取得成功，但未能成功</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</link>
-      <description><![CDATA[太空引擎重新點火為軌道任務鋪平了道路 SpaceX 已經完成了其星際飛船龐然大物的另一次試飛，但這次選擇不嘗試捕捉超重型助推器。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
