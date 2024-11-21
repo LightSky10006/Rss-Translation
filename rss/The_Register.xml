@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 16:16:33 GMT</lastBuildDate>
+    <item>
+      <title>在 Atos 動盪中，Eviden 達成 6,000 萬歐元收購芬蘭超級電腦的交易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/eviden_finland_supercomputer/</link>
+      <description><![CDATA[儘管母公司面臨財務動盪，子公司仍繼續獲得重大合同 儘管母公司Atos 處境艱難，Eviden 仍繼續贏得超級電腦合同，並宣布斥資6000 萬歐元（6300 萬美元）購買芬蘭國家超級電腦這將使該國現有設施的性能提高三倍。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/eviden_finland_supercomputer/</guid>
+      <pubDate>Thu, 21 Nov 2024 15:56:13 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 伺服器實用程式中的「令人擔憂」的錯誤已經存在了 10 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</link>
@@ -15,28 +22,28 @@
     <item>
       <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
-      <description><![CDATA[該問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於商業目的，我們有壞消息：全球範圍內的情況都在下降。 ...]]></description>
+      <description><![CDATA[問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於業務，我們已經提供了壞消息：全球範圍內的情況都在下降。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</guid>
       <pubDate>Thu, 21 Nov 2024 13:40:13 GMT</pubDate>
     </item>
     <item>
       <title>微軟向Win10用戶展示更多Windows 11全螢幕廣告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/repeat_after_me_you_want/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/windows_11_fs_ad/</link>
       <description><![CDATA[別介意ESU...升級怎麼樣？作業系統Windows 11 電腦...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/repeat_after_me_you_want/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/windows_11_fs_ad/</guid>
       <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     <item>
       <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
-      <description><![CDATA[文件還表明，它銷售Android，停止在沒有選擇退出的情況下為AI 抓取內容 美國司法部昨晚最終提交了法庭文件，建議Google 剝離Chrome（全球最受歡迎的瀏覽器）世界領先。]]></description>
+      <description><![CDATA[文件還表明，它銷售Android，停止在沒有選擇退出的情況下為人工智能抓取內容 美國司法部昨晚最終提交了法庭文件，建議谷歌剝離Chrome——美國最受歡迎的瀏覽器世界領先。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</guid>
       <pubDate>Thu, 21 Nov 2024 12:40:13 GMT</pubDate>
     </item>
     <item>
       <title>數以千計的人工智慧代理商之後，誰還記得他們做了什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</link>
-      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
+      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機遇中，Gartner 發現了一些風險- 即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 21 Nov 2024 04:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺 IT 產業</title>
+      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺IT產業</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</link>
       <description><![CDATA[低價自由工作者和呼叫中心面臨風險 巴基斯坦IT 產業協會(P@SHA)——該國唯一的科技商業遊說團體——警告說，政府政策可能會導致企業倒閉和財務危機。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</guid>
@@ -106,14 +113,14 @@
     <item>
       <title>戴爾與山姆大叔就陸軍操縱投標指控達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</link>
-      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司合謀操縱競標與美國陸軍的業務。]]></description>
+      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司串通操縱競標與美國陸軍的業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</guid>
       <pubDate>Wed, 20 Nov 2024 22:15:15 GMT</pubDate>
     </item>
     <item>
       <title>當聯準會調查 14B 美元收購瞻博網路時，HPE 執行長告訴我們，我們將回答司法部提出的任何問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpes_neri_regulators_juniper/</link>
-      <description><![CDATA[收購仍預計於2024 年底或明年初完成 HPE 執行長Antonio Neri 今天告訴The Register，他的公司正在與美國司法部合作，「回答任何問題」官員可能對 IT 基礎設施巨頭以 140 億美元收購瞻博網路提出的疑問…]]></description>
+      <description><![CDATA[預計收購將於2024 年底或明年初完成 HPE 執行長Antonio Neri 今天告訴The Register，他的公司正在與美國司法部合作，「回答任何問題」官員可能對 IT 基礎設施巨頭以 140 億美元收購瞻博網路提出的疑問…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpes_neri_regulators_juniper/</guid>
       <pubDate>Wed, 20 Nov 2024 19:31:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[OSS-Fuzz 為安全研究中的LLM 提出了強有力的論點 Google 的OSS-Fuzz 專案使用大型語言模型(LLM) 來幫助查找程式碼儲存庫中的錯誤，現已幫助識別26 個錯誤漏洞，包括廣泛使用的OpenSSL 庫中的嚴重缺陷。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</guid>
       <pubDate>Wed, 20 Nov 2024 17:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟推出強大的客製化 AMD 晶片來處理 Azure 上的 HPC 工作負載</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</link>
-      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本週於芝加哥舉行的Ignite 會議上進行示範。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
