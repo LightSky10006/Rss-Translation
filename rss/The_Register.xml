@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 16:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 17:38:23 GMT</lastBuildDate>
+    <item>
+      <title>中國船隻在波羅的海海底電纜剪斷留下陰影</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/chinese_ship_baltic_cable/</link>
+      <description><![CDATA[丹麥軍方證實正在監視瑞典警方的調查。 Cloudflare 表示影響「很小」 德國國防部長 Boris Pistorius 堅稱，丹麥軍方已確認正在追蹤一艘正在接受波羅的海海底光纖網路電纜損壞的中國船隻的調查是「破壞」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/chinese_ship_baltic_cable/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:20:09 GMT</pubDate>
+    </item>
     <item>
       <title>在 Atos 動盪中，Eviden 達成 6,000 萬歐元收購芬蘭超級電腦的交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/eviden_finland_supercomputer/</link>
@@ -13,16 +20,16 @@
       <pubDate>Thu, 21 Nov 2024 15:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 伺服器實用程式中的「令人擔憂」的錯誤已經存在了 10 年</title>
+      <title>Ubuntu 伺服器實用程式中的「令人震驚」的安全漏洞已有 10 年之久</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</link>
-      <description><![CDATA[立即更新：Qualys 表示漏洞可提供root 權限，並且「很容易被利用」 Qualys 的研究人員拒絕發布針對Ubuntu Server Needrestart 實用程式中五個錯誤的漏洞利用程式碼，這些錯誤允許非特權攻擊者在沒有任何權限的情況下獲得root 存取權使用者互動...]]></description>
+      <description><![CDATA[立即更新：Qualys 表示，這些缺陷可以為本地用戶提供root 權限，「很容易被利用」 Qualys 的研究人員拒絕發布針對Ubuntu Server Needrestart 實用程式中五個錯誤的漏洞利用程式碼，這些漏洞允許無特權的本地攻擊者獲得無需任何使用者互動即可獲得 root 存取權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</guid>
       <pubDate>Thu, 21 Nov 2024 15:03:05 GMT</pubDate>
     </item>
     <item>
       <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
-      <description><![CDATA[問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於業務，我們已經提供了壞消息：全球範圍內的情況都在下降。 ...]]></description>
+      <description><![CDATA[該問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於商業目的，我們有壞消息：全球範圍內的情況都在下降。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</guid>
       <pubDate>Thu, 21 Nov 2024 13:40:13 GMT</pubDate>
     </item>
@@ -34,28 +41,28 @@
       <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
+      <title>美國司法部希望谷歌出售 Chrome，並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
-      <description><![CDATA[文件還表明，它銷售Android，停止在沒有選擇退出的情況下為人工智能抓取內容 美國司法部昨晚最終提交了法庭文件，建議谷歌剝離Chrome——美國最受歡迎的瀏覽器世界領先。]]></description>
+      <description><![CDATA[文件還表明，它銷售Android，停止在沒有選擇退出的情況下為AI 抓取內容 美國司法部昨晚最終提交了法庭文件，建議Google 剝離Chrome（全球最受歡迎的瀏覽器）世界領先。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</guid>
       <pubDate>Thu, 21 Nov 2024 12:40:13 GMT</pubDate>
     </item>
     <item>
       <title>數以千計的人工智慧代理商之後，誰還記得他們做了什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</link>
-      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機遇中，Gartner 發現了一些風險- 即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
+      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼要建造它們。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
     </item>
     <item>
       <title>現在《線上安全法》已成為法律，英國有“優先事項”——但仍不會解釋“間諜條款”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</link>
-      <description><![CDATA[文件草案很難描述如何使用理論上的加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
+      <description><![CDATA[文件草案很難描述理論上如何使用加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</guid>
       <pubDate>Thu, 21 Nov 2024 10:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 制定法律並制定挑戰 x86 PC 統治地位的藍圖</title>
+      <title>Arm制定法律並制定藍圖挑戰x86的PC統治地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</link>
       <description><![CDATA[現在由OEM 和開發人員決定是否想要加入 Arm 已發布其PC 基礎系統架構(PC-BSA) 規範，這是標準化基於Arm 的PC 的藍圖。 / p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>人工智慧招聘偏見？具有盎格魯撒克遜名字的男性在科技面試中得分較低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</link>
-      <description><![CDATA[研究表明，對人力資源機器人隱藏湯姆、迪克和哈利的個人資訊 在軟體工程工作的模擬面試中，最近評估回答的人工智慧模型對男性的評價較差，尤其是那些盎格魯撒克遜人根據最近的研究，名稱......]]></description>
+      <description><![CDATA[研究表明，對人力資源機器人隱藏湯姆、迪克和哈利的每一個個人資訊 在軟體工程工作的模擬面試中，最近評估回答的人工智慧模型對男性的評價較差，尤其是那些盎格魯撒克遜人根據最近的研究，名稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</guid>
       <pubDate>Thu, 21 Nov 2024 08:22:10 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>戴爾與山姆大叔就陸軍操縱投標指控達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</link>
-      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司串通操縱競標與美國陸軍的業務。]]></description>
+      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司合謀操縱競標與美國陸軍的業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</guid>
       <pubDate>Wed, 20 Nov 2024 22:15:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Change Healthcare 的20 億美元恢復工作仍在進行中 仍然受到2 月份勒索軟體攻擊的影響，Change Healthcare 確認其票據交換所服務已恢復並運行，距離數字中斷開始幾乎整整九個月...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/change_healthcares_clearinghouse_services/</guid>
       <pubDate>Wed, 20 Nov 2024 18:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的人工智慧錯誤獵人嗅出了兩打人類錯過的代碼小精靈</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</link>
-      <description><![CDATA[OSS-Fuzz 為安全研究中的LLM 提出了強有力的論點 Google 的OSS-Fuzz 專案使用大型語言模型(LLM) 來幫助查找程式碼儲存庫中的錯誤，現已幫助識別26 個錯誤漏洞，包括廣泛使用的OpenSSL 庫中的嚴重缺陷。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/google_ossfuzz/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
