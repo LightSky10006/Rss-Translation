@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 03:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 04:42:20 GMT</lastBuildDate>
+    <item>
+      <title>巴西連接尚未營運的中國衛星寬頻服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/brazil_china_satellite_broadband/</link>
+      <description><![CDATA[在與 Elon Musk 發生爭執後，通訊部長希望產品選擇多樣化 巴西電信公司Telebras 簽署了轉售中國衛星互聯網公司SpaceSail 的衛星寬頻服務的協議，作為Starlink 的替代品- 儘管該服務實際上並未推出開始了…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/brazil_china_satellite_broadband/</guid>
+      <pubDate>Thu, 21 Nov 2024 04:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺IT產業</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>戴爾與山姆大叔就陸軍操縱投標指控達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</link>
-      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司串通操縱競標與美國陸軍的業務。]]></description>
+      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司合謀操縱競標與美國陸軍的業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</guid>
       <pubDate>Wed, 20 Nov 2024 22:15:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>微軟推出強大的客製化 AMD 晶片來處理 Azure 上的 HPC 工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</link>
-      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本在芝加哥舉行的Ignite 會議上週進行示範。]]></description>
+      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本在芝加哥舉行的Ignite 會議上進行演示。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
       <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在Microsoft 與CISPE 聯盟和解之後採取的舉措 獨家 歐洲雲端基礎設施服務供應商(CISPE) 聯盟已啟動歐洲雲端競爭觀察站(ECCO) 來密切關注關於該行業的軟體許可實踐......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/european_cloud_competition_observatory/</guid>
       <pubDate>Wed, 20 Nov 2024 06:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國希望行動裝置限制未成年人的使用時間，確保他們只看到好看的內容</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/china_minor_mode/</link>
-      <description><![CDATA[以社會主義的名義尋求製造商、開發商和內容提供商之間的大聯盟 中國國家互聯網資訊辦公室上週發布了指導意見，建議行動裝置配備「未成年人模式”，以強制執行審查制度和自動使用時間限制。...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/china_minor_mode/</guid>
-      <pubDate>Wed, 20 Nov 2024 05:38:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
