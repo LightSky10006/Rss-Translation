@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 21:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 23:13:03 GMT</lastBuildDate>
+    <item>
+      <title>《紐約時報》律師聲稱 OpenAI 意外刪除了版權案中的證據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/new_york_times_lawyers_openai/</link>
+      <description><![CDATA[可能不是故意的，但仍然損失了「150 個工時」的工作 《紐約時報》在針對 OpenAI 和 Microsoft 的版權侵權案件中提交了一封信函，提醒法院 ChatGPT製造者不小心刪除了一堆可能是證據的資料。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/new_york_times_lawyers_openai/</guid>
+      <pubDate>Thu, 21 Nov 2024 22:45:16 GMT</pubDate>
+    </item>
     <item>
       <title>Neuralink 腦晶片前往大白北</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/neuralink_canada/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
-      <description><![CDATA[該問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於商業目的，我們有壞消息：全球範圍內的情況都在下降。 ...]]></description>
+      <description><![CDATA[問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於業務，我們已經提供了壞消息：全球範圍內的情況都在下降。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</guid>
       <pubDate>Thu, 21 Nov 2024 13:40:13 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部希望谷歌出售 Chrome，並禁止其付費成為預設搜尋引擎</title>
+      <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
       <description><![CDATA[文件還表明，它會淘汰Android，並停止在沒有選擇退出的情況下抓取人工智慧內容 美國司法部昨晚最終提交了法庭文件，建議谷歌剝離Chrome——美國最受歡迎的瀏覽器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>數以千計的人工智慧代理商之後，誰還記得他們做了什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</link>
-      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
+      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機遇中，Gartner 發現了一些風險- 即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 21 Nov 2024 04:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺 IT 產業</title>
+      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺IT產業</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</link>
       <description><![CDATA[低價自由工作者和呼叫中心面臨風險 巴基斯坦IT 產業協會(P@SHA)——該國唯一的科技商業遊說團體——警告說，政府政策可能會導致企業倒閉和財務危機。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[認識Liminal Panda，它在南亞和非洲的電信網路中徘徊 一位美國高級參議員在一場涉及資訊安全業務的聽證會上警告說，美國科技公司在中國的活動構成國家安全風險CrowdStrike 作證說，它已經發現了另一個它認為得到北京支持的網路間諜組織。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/musk_chinese_cyberspies/</guid>
       <pubDate>Wed, 20 Nov 2024 23:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴爾與山姆大叔就陸軍操縱投標指控達成和解</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</link>
-      <description><![CDATA[司法部指控，經銷商的報價僅僅是在IT 巨頭誇大的交易之後提出的報價過高 美國司法部已與戴爾及其經銷商Iron Bow 達成435 萬美元的和解協議，指控兩家公司合謀操縱競標與美國陸軍的業務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dell_iron_bow_doj_settlement/</guid>
-      <pubDate>Wed, 20 Nov 2024 22:15:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
