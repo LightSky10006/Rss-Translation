@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 17:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 18:17:55 GMT</lastBuildDate>
     <item>
       <title>中國船隻在波羅的海海底電纜剪斷留下陰影</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/chinese_ship_baltic_cable/</link>
@@ -20,10 +20,10 @@
       <pubDate>Thu, 21 Nov 2024 15:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 伺服器實用程式中的「令人震驚」的安全漏洞已有 10 年之久</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</link>
-      <description><![CDATA[立即更新：Qualys 表示，這些缺陷可以為本地用戶提供root 權限，「很容易被利用」 Qualys 的研究人員拒絕發布針對Ubuntu Server Needrestart 實用程式中五個錯誤的漏洞利用程式碼，這些漏洞允許無特權的本地攻擊者獲得無需任何使用者互動即可獲得 root 存取權。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_ubuntu_server_vulnerabilities/</guid>
+      <title>Linux 的 needrestart 伺服器實用程式中「令人震驚」的安全漏洞已經存在了 10 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_needrestart_linux_vulnerabilities/</link>
+      <description><![CDATA[立即更新：Qualys 表示，這些缺陷可以為本地用戶提供root 權限，「很容易被利用」 Qualys 的研究人員拒絕發布針對Linux 世界的needrestart 實用程式中的五個錯誤的利用程式碼，這些錯誤允許無特權的本地攻擊者無需任何使用者互動即可獲得 root 存取權。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_needrestart_linux_vulnerabilities/</guid>
       <pubDate>Thu, 21 Nov 2024 15:03:05 GMT</pubDate>
     </item>
     <item>
@@ -41,9 +41,9 @@
       <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部希望谷歌出售 Chrome，並禁止其付費成為預設搜尋引擎</title>
+      <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
-      <description><![CDATA[文件還表明，它銷售Android，停止在沒有選擇退出的情況下為AI 抓取內容 美國司法部昨晚最終提交了法庭文件，建議Google 剝離Chrome（全球最受歡迎的瀏覽器）世界領先。]]></description>
+      <description><![CDATA[文件還表明，它會淘汰Android，並停止在沒有選擇退出的情況下抓取人工智慧內容 美國司法部昨晚最終提交了法庭文件，建議谷歌剝離Chrome——美國最受歡迎的瀏覽器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</guid>
       <pubDate>Thu, 21 Nov 2024 12:40:13 GMT</pubDate>
     </item>
