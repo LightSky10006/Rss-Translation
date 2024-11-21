@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 10:42:39 GMT</lastBuildDate>
     <item>
-      <title>Arm 制定法律並制定挑戰 x86 PC 統治地位的藍圖</title>
+      <title>現在《線上安全法》已成為法律，英國有“優先事項”——但仍不會解釋“間諜條款”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</link>
+      <description><![CDATA[文件草案很難描述理論上如何使用加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</guid>
+      <pubDate>Thu, 21 Nov 2024 10:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arm制定法律並制定藍圖挑戰x86的PC統治地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</link>
       <description><![CDATA[現在由OEM 和開發人員決定是否想要加入 Arm 已發布其PC 基礎系統架構(PC-BSA) 規範，這是標準化基於Arm 的PC 的藍圖。 / p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>人工智慧招聘偏見？具有盎格魯撒克遜名字的男性在科技面試中得分較低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</link>
-      <description><![CDATA[研究表明，對人力資源機器人隱藏湯姆、迪克和哈利的個人資訊 在軟體工程工作的模擬面試中，最近評估回答的人工智慧模型對男性的評價較差，尤其是那些盎格魯撒克遜人根據最近的研究，名稱......]]></description>
+      <description><![CDATA[研究表明，對人力資源機器人隱藏湯姆、迪克和哈利的每一個個人資訊 在軟體工程工作的模擬面試中，最近評估回答的人工智慧模型對男性的評價較差，尤其是那些盎格魯撒克遜人根據最近的研究，名稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</guid>
       <pubDate>Thu, 21 Nov 2024 08:22:10 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 21 Nov 2024 04:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺 IT 產業</title>
+      <title>巴基斯坦科技遊說團體警告稱，緩慢的網路正在扼殺IT產業</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</link>
       <description><![CDATA[低價自由工作者和呼叫中心面臨風險 巴基斯坦IT 產業協會(P@SHA)——該國唯一的科技商業遊說團體——警告說，政府政策可能會導致企業倒閉和財務危機。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/pakistan_tech_industry_fears/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>當聯準會調查 14B 美元收購瞻博網路時，HPE 執行長告訴我們，我們將回答司法部提出的任何問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpes_neri_regulators_juniper/</link>
-      <description><![CDATA[收購仍預計於2024 年底或明年初完成 HPE 執行長Antonio Neri 今天告訴The Register，他的公司正在與美國司法部合作，「回答任何問題」官員可能對 IT 基礎設施巨頭以 140 億美元收購瞻博網路提出的疑問…]]></description>
+      <description><![CDATA[預計收購將於2024 年底或明年初完成 HPE 執行長Antonio Neri 今天告訴The Register，他的公司正在與美國司法部合作，「回答任何問題」官員可能對 IT 基礎設施巨頭以 140 億美元收購瞻博網路提出的疑問…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/hpes_neri_regulators_juniper/</guid>
       <pubDate>Wed, 20 Nov 2024 19:31:07 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>微軟推出強大的客製化 AMD 晶片來處理 Azure 上的 HPC 工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</link>
-      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本週於芝加哥舉行的Ignite 會議上進行示範。]]></description>
+      <description><![CDATA[也展示了內部 DPU 和 HSM 晶片 Ignite 作為大型企業的優勢之一是，您可以定制支撐基礎設施的晶片，就像 Microsoft 一樣正在本在芝加哥舉行的Ignite 會議上進行演示。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_azure_custom_amd/</guid>
       <pubDate>Wed, 20 Nov 2024 16:31:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果標題中的公司知道如何擴展雲端中的伺服器就好了 昨天，《微軟模擬飛行2024》首次亮相時遇到了嚴重的動盪，因為伺服器難以滿足用戶的需求。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/microsoft_flight_simulator_2024_launch/</guid>
       <pubDate>Wed, 20 Nov 2024 11:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>BASIC 共同創辦人 Thomas Kurtz 以 96 分達到 END</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/rip_thomas_kurtz/</link>
-      <description><![CDATA[達特茅斯學院數學先驅上週去世 訃告 BASIC 程式語言聯合發明人Thomas Eugene Kurtz 教授去世，享年96 歲。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/rip_thomas_kurtz/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
