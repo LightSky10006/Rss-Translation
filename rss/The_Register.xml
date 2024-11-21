@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 13:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 14:12:48 GMT</lastBuildDate>
+    <item>
+      <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
+      <description><![CDATA[該問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於商業目的，我們有壞消息：全球範圍內的情況都在下降。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟向Win10用戶展示更多Windows 11全螢幕廣告</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/repeat_after_me_you_want/</link>
+      <description><![CDATA[別介意ESU...升級怎麼樣？作業系統Windows 11 電腦...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/repeat_after_me_you_want/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[太空引擎重新點火為軌道任務鋪平了道路 SpaceX 已經完成了其星際飛船龐然大物的另一次試飛，但這次選擇不嘗試捕捉超重型助推器。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/spacex_starship_success/</guid>
       <pubDate>Wed, 20 Nov 2024 15:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>D-Link 要求用戶丟棄舊的 VPN 路由器，因為其漏洞太危險而無法識別</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dlink_rip_replace_router/</link>
-      <description><![CDATA[供應商對新型號提供20% 折扣，但不提供補丁 在嚴重的遠端程式碼執行問題被披露後，舊型號D-Link VPN 路由器的所有者被告知退役並更換其設備（RCE）漏洞......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/dlink_rip_replace_router/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kyndryl 內部人士表示幾乎沒有新業務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/kyndryl_little_new_business/</link>
-      <description><![CDATA[IT 巨頭計劃在3 月結束收入下滑，前員工心存疑慮 特別報告 Kyndryl，本月早些時候從IBM 於2021 年分拆出來的託管基礎設施服務業務重申了其有些悲觀的預測，即截至3 月31 日的2025 財年收入將減少2% 至4%。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/kyndryl_little_new_business/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:22:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
