@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 21 Nov 2024 08:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 09:38:36 GMT</lastBuildDate>
+    <item>
+      <title>Arm 制定法律並制定挑戰 x86 PC 統治地位的藍圖</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</link>
+      <description><![CDATA[現在由OEM 和開發人員決定是否想要加入 Arm 已發布其PC 基礎系統架構(PC-BSA) 規範，這是標準化基於Arm 的PC 的藍圖。 / p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧招聘偏見？具有盎格魯撒克遜名字的男性在科技面試中得分較低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[達特茅斯學院數學先驅上週去世 訃告 BASIC 程式語言聯合發明人Thomas Eugene Kurtz 教授去世，享年96 歲。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/rip_thomas_kurtz/</guid>
       <pubDate>Wed, 20 Nov 2024 10:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steam 切斷了舊版 Windows 和 macOS 的束縛</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/20/valve_steam_legacy_os/</link>
-      <description><![CDATA[不要說你沒有收到警告 最新的 Steam 用戶端終於兌現了 1 月份的警告，放棄了對幾個舊操作系統版本的支持。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/20/valve_steam_legacy_os/</guid>
-      <pubDate>Wed, 20 Nov 2024 09:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
