@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 08:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 08:43:05 GMT</lastBuildDate>
+    <item>
+      <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
+      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了 1.2 TB 資料 新的 SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司 Microlise 的攻擊負責，讓該公司在 24 小時內支付勒索要求在洩露數據之前......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
+      <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
+    </item>
     <item>
       <title>技術人員在伺服器上留下了「如需支持，請聯絡我」的標誌。二十年後，有人做到了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼要建造它們。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在《線上安全法》已成為法律，英國有“優先事項”——但仍不會解釋“間諜條款”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</link>
-      <description><![CDATA[文件草案很難描述理論上如何使用加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:38:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
