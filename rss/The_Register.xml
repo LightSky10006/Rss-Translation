@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 14:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 16:15:58 GMT</lastBuildDate>
+    <item>
+      <title>由於人工智慧，資料中心可能會增加你的電費</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</link>
+      <description><![CDATA[如果容量無法滿足需求，營運商可能必須支付更多能源費用 除非採取行動提高發電和輸電能力以滿足人工智慧的要求，否則到2030 年美國人的電費可能會上漲70% -資料中心需求激增…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</guid>
+      <pubDate>Fri, 22 Nov 2024 16:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>Broadcom 控制 VMware 一年後，它佔據了主導地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/broadcom_vmware_acquisition_first_anniversary/</link>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 21 Nov 2024 17:20:09 GMT</pubDate>
     </item>
     <item>
-      <title>在 Atos 動盪中，Eviden 達成 6,000 萬歐元收購芬蘭超級電腦的交易</title>
+      <title>Eviden 在 Atos 動盪中贏得了 6000 萬歐元的芬蘭超級計算獎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/eviden_finland_supercomputer/</link>
-      <description><![CDATA[儘管母公司面臨財務動盪，子公司仍繼續獲得重大合同 儘管母公司Atos 處境艱難，Eviden 仍繼續贏得超級電腦合同，並宣布斥資6000 萬歐元（6300 萬美元）購買芬蘭國家超級電腦這將使該國現有設施的性能提高三倍。]]></description>
+      <description><![CDATA[儘管母公司面臨財務動盪，子公司仍繼續獲得重大合同 儘管母公司Atos 陷入困境，Eviden 仍繼續贏得超級電腦合同，並宣佈為芬蘭一家公司提供6000 萬歐元（ 6300 萬美元）的最高價值合約國家超級電腦將使該國現有設施的性能提高三倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/eviden_finland_supercomputer/</guid>
       <pubDate>Thu, 21 Nov 2024 15:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 的 needrestart 伺服器實用程式中「令人震驚」的安全漏洞已經存在了 10 年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_needrestart_linux_vulnerabilities/</link>
-      <description><![CDATA[立即更新：Qualys 表示，這些缺陷可以為本地用戶提供root 權限，「很容易被利用」 Qualys 的研究人員拒絕發布針對Linux 世界的needrestart 實用程式中的五個錯誤的利用程式碼，這些錯誤允許無特權的本地攻擊者無需任何使用者互動即可獲得 root 存取權。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_needrestart_linux_vulnerabilities/</guid>
-      <pubDate>Thu, 21 Nov 2024 15:03:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
