@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 05:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 06:44:45 GMT</lastBuildDate>
+    <item>
+      <title>嗚嗚嗚：人工智慧電腦降低了使用者的工作效率</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_pcs_productivity/</link>
+      <description><![CDATA[英特爾表示，人們只是不知道如何與聊天機器人交談，讓他們有效地做有用的事情 目前，使用內建人工智慧服務的個人電腦的人的生產力低於使用傳統技術的人根據英特爾進行的一項研究，個人電腦......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_pcs_productivity/</guid>
+      <pubDate>Fri, 22 Nov 2024 06:26:13 GMT</pubDate>
+    </item>
     <item>
       <title>日本黑幫受害者的幫助熱線擔心其洩露了他們的個人訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/helpline_for_yakuza_victims_may/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>如果您不分層網路安全性或刪除未使用的 Web shell，將會發生以下情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</link>
-      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
+      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
       <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 22 Nov 2024 00:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>儘管違反制裁規定，格芯仍從 CHIPS 法案中淨賺 1.5B 美元</title>
+      <title>儘管違反制裁規定，格羅方德仍從 CHIPS 法案中淨賺 1.5B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</link>
       <description><![CDATA[DoC 聲稱只有4 家非中國代工廠可與GF 的規模相媲美 半導體製造商GlobalFoundries 最近因違反涉及中國的製裁而被罰款50 萬美元，但已獲得美國政府CHIPS和Science 高達15 億美元的資助行動... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>DARPA 支持的海外士兵投票系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</link>
-      <description><![CDATA[該系統的開發商VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊......]]></description>
+      <description><![CDATA[系統開發人員VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</guid>
       <pubDate>Thu, 21 Nov 2024 19:27:10 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 21 Nov 2024 13:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部希望谷歌出售 Chrome 瀏覽器並禁止其付費成為預設搜尋引擎</title>
+      <title>美國司法部希望谷歌出售 Chrome，並禁止其付費成為預設搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</link>
       <description><![CDATA[文件還表明，它會淘汰Android，並停止在沒有選擇退出的情況下抓取人工智慧內容 美國司法部昨晚最終提交了法庭文件，建議谷歌剝離Chrome——美國最受歡迎的瀏覽器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/usa_vs_google_full_filing/</guid>
@@ -120,30 +127,23 @@
     <item>
       <title>數以千計的人工智慧代理商之後，誰還記得他們做了什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</link>
-      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼要建造它們。」...]]></description>
+      <description><![CDATA[Gartner 權衡了最新企業熱點的利弊 在人工智慧代理所帶來的樂觀情緒和機會中，Gartner 發現了一些風險，即組織可能會創建「數千個機器人，但現在沒有人」記住這些機器人做了什麼或為什麼建造它們。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/gartner_agentic_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:29:13 GMT</pubDate>
     </item>
     <item>
       <title>現在《線上安全法》已成為法律，英國有“優先事項”——但仍不會解釋“間諜條款”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</link>
-      <description><![CDATA[文件草案很難描述理論上如何使用加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
+      <description><![CDATA[文件草案很難描述如何使用理論上的加密破壞能力 英國政府已製定計劃，詳細說明將如何使用其製定的新法律來控制在線平台和社交媒體 –但有一個明顯的例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/online_safety_act/</guid>
       <pubDate>Thu, 21 Nov 2024 10:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>Arm制定法律並制定藍圖挑戰x86的PC統治地位</title>
+      <title>Arm 制定法律並制定挑戰 x86 PC 統治地位的藍圖</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</link>
       <description><![CDATA[現在由OEM 和開發人員決定是否想要加入 Arm 已發布其PC 基礎系統架構(PC-BSA) 規範，這是標準化基於Arm 的PC 的藍圖。 / p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/arm_pcbsa_reference_architecture/</guid>
       <pubDate>Thu, 21 Nov 2024 09:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧招聘偏見？具有盎格魯撒克遜名字的男性在科技面試中得分較低</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</link>
-      <description><![CDATA[研究表明，對人力資源機器人隱藏湯姆、迪克和哈利的每一個個人資訊 在軟體工程工作的模擬面試中，最近評估回答的人工智慧模型對男性的評價較差，尤其是那些盎格魯撒克遜人根據最近的研究，名稱...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/ai_hiring_test_bias/</guid>
-      <pubDate>Thu, 21 Nov 2024 08:22:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
