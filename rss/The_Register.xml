@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 20:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:36:42 GMT</lastBuildDate>
+    <item>
+      <title>數千個 Palo Alto Networks 防火牆因不法分子利用關鍵漏洞而被劫持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/palo_alto_firewalls_under_exploit/</link>
+      <description><![CDATA[盼盼！入侵者註入 Web shell 後門、加密貨幣礦工等等 攻擊者利用最近修補的兩個安全漏洞破壞了數千個 Palo Alto Networks 防火牆。入侵者能夠部署可透過網路存取的後門來遠端控制設備以及加密貨幣礦工和其他惡意軟體。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/palo_alto_firewalls_under_exploit/</guid>
+      <pubDate>Fri, 22 Nov 2024 21:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 即將獲批 2025 年發射 25 艘星際飛船</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/spacex_plans_for_25_starship/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[可能不是故意的，但仍然損失了「150 個工時」的工作 《紐約時報》在針對 OpenAI 和 Microsoft 的版權侵權案件中提交了一封信函，提醒法院 ChatGPT製造者不小心刪除了一堆可能是證據的資料。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/new_york_times_lawyers_openai/</guid>
       <pubDate>Thu, 21 Nov 2024 22:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuralink 腦晶片前往大白北</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/neuralink_canada/</link>
-      <description><![CDATA[加拿大招募志願者進行心靈融合試驗 馬斯克(Elon Musk) 的大腦晶片公司Neuralink 已獲得加拿大衛生部的批准，開始為其CAN-PRIME 研究招募志願者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/neuralink_canada/</guid>
-      <pubDate>Thu, 21 Nov 2024 21:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
