@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 12:59:52 GMT</lastBuildDate>
     <item>
       <title>歐盟買家仍然迴避純電動車，更喜歡混合動力車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/battery_electric_vehicles_acea_figures/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
-      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了 1.2 TB 資料 新的 SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司 Microlise 的攻擊負責，讓該公司在 24 小時內支付勒索要求在洩露數據之前......]]></description>
+      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了1.2 TB 資料 新的SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司Microlise 的攻擊負責，讓該公司在不到24 小時的時間內支付勒索要求在洩漏資料之前......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
       <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>如果您不分層網路安全性或刪除未使用的 Web shell，將會發生以下情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</link>
-      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
+      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
       <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 22 Nov 2024 00:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>儘管違反制裁規定，格芯仍從 CHIPS 法案中淨賺 1.5B 美元</title>
+      <title>儘管違反制裁規定，格羅方德仍從 CHIPS 法案中淨賺 1.5B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</link>
       <description><![CDATA[DoC 聲稱只有4 家非中國代工廠可與GF 的規模相媲美 半導體製造商GlobalFoundries 最近因違反涉及中國的製裁而被罰款50 萬美元，但已獲得美國政府CHIPS和Science 高達15 億美元的資助行動... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>DARPA 支持的海外士兵投票系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</link>
-      <description><![CDATA[該系統的開發商VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊......]]></description>
+      <description><![CDATA[系統開發人員VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</guid>
       <pubDate>Thu, 21 Nov 2024 19:27:10 GMT</pubDate>
     </item>
