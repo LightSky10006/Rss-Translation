@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 13:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 14:40:40 GMT</lastBuildDate>
+    <item>
+      <title>Broadcom 控制 VMware 一年後，它佔據了主導地位</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/broadcom_vmware_acquisition_first_anniversary/</link>
+      <description><![CDATA[客戶「都很痛苦」 - 但尚未決定放棄 分析 博通在一年前的 2023 年 11 月 22 日完成了對 VMware 的收購。嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/broadcom_vmware_acquisition_first_anniversary/</guid>
+      <pubDate>Fri, 22 Nov 2024 14:33:14 GMT</pubDate>
+    </item>
     <item>
       <title>AI PC：“到 2025 年，我們必須做出一些讓步，我認為這就是定價”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/premium_priced_ai_pcs/</link>
-      <description><![CDATA[顧問抱怨缺乏用例和企業預算 AI PC 的高價和殺手級應用程式的缺乏，導致那些想要在 Windows 10 之前升級其老化資產的客戶感到困惑支持結束。 .]]></description>
+      <description><![CDATA[顧問抱怨缺乏用例和企業預算 人工智慧 PC 的高價和殺手級應用程式的缺乏，導致那些想要在 Windows 10 之前升級其老化資產的客戶感到困惑支持結束。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/premium_priced_ai_pcs/</guid>
       <pubDate>Fri, 22 Nov 2024 13:00:14 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
-      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了1.2 TB 資料 新的SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司Microlise 的攻擊負責，讓該公司在不到24 小時的時間內支付勒索要求在洩漏資料之前......]]></description>
+      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了 1.2 TB 資料 新的 SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司 Microlise 的攻擊負責，讓該公司在 24 小時內支付勒索要求在洩露數據之前......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
       <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>日本黑幫受害者的幫助熱線擔心其洩露了他們的個人訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/helpline_for_yakuza_victims_may/</link>
-      <description><![CDATA[有組織犯罪類型往往不會善待那些反對他們的人，因此這是令人討厭的 日本一家致力於預防有組織犯罪的當地政府機構在經歷了一次它擔心可能導致的事件後道歉涉及2,500 名聯繫其諮詢的人的個人資訊洩露。 &gt;]]></description>
+      <description><![CDATA[有組織犯罪類型往往不會善待那些反對他們的人，所以這很令人討厭 日本一家致力於預防有組織犯罪的地方政府機構在經歷了一次它擔心可能導致的事件後道歉洩露的個人資訊描述了2,500 名聯繫其諮詢的人。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/helpline_for_yakuza_victims_may/</guid>
       <pubDate>Fri, 22 Nov 2024 05:24:07 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>如果您不分層網路安全性或刪除未使用的 Web shell，將會發生以下情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</link>
-      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標 ...]]></description>
+      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
       <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 22 Nov 2024 00:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>儘管違反制裁規定，格羅方德仍從 CHIPS 法案中淨賺 1.5B 美元</title>
+      <title>儘管違反制裁規定，格芯仍從 CHIPS 法案中淨賺 1.5B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</link>
       <description><![CDATA[DoC 聲稱只有4 家非中國代工廠可與GF 的規模相媲美 半導體製造商GlobalFoundries 最近因違反涉及中國的製裁而被罰款50 萬美元，但已獲得美國政府CHIPS和Science 高達15 億美元的資助行動... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>DARPA 支持的海外士兵投票系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</link>
-      <description><![CDATA[系統開發人員VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊...]]></description>
+      <description><![CDATA[該系統的開發商VotingWorks 對批評者的說法提出異議 由DARPA（山姆大叔的科學神經中樞）支持的一個電子投票項目已被批准，該項目旨在改善駐外美國軍事人員的缺席投票流程受到安全研究人員的猛烈抨擊......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/darpabacked_voting_system_for_soldiers/</guid>
       <pubDate>Thu, 21 Nov 2024 19:27:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[立即更新：Qualys 表示，這些缺陷可以為本地用戶提供root 權限，「很容易被利用」 Qualys 的研究人員拒絕發布針對Linux 世界的needrestart 實用程式中的五個錯誤的利用程式碼，這些錯誤允許無特權的本地攻擊者無需任何使用者互動即可獲得 root 存取權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/qualys_needrestart_linux_vulnerabilities/</guid>
       <pubDate>Thu, 21 Nov 2024 15:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 錯誤導致 PayPal、Venmo 在全球離線</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</link>
-      <description><![CDATA[問題現已修復，但除了Braintree GraphQL API 出現錯誤外，尚不清楚發生了什麼 如果您打算透過PayPal 向某人匯款，或將其用於業務，我們已經提供了壞消息：全球範圍內的情況都在下降。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/api_error_knocks_paypal_venmo/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:40:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
