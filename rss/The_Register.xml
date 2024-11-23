@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 22 Nov 2024 23:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 00:59:09 GMT</lastBuildDate>
+    <item>
+      <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
+      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>安德魯·泰特的網站被洗劫，訂戶資料被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/andrew_tate_raid/</link>
-      <description><![CDATA[他只能接受這個問題 自稱厭惡女性、被指控性販運者和強姦犯安德魯·泰特(Andrew Tate) 的網站已遭到破壞，其付費訂閱者的數據被盜。]]></description>
+      <description><![CDATA[他只能接受這個 自稱厭惡女性、被指控性販運者和強姦犯的安德魯·泰特(Andrew Tate) 的網站已遭到破壞，其付費訂閱者的數據被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/andrew_tate_raid/</guid>
       <pubDate>Fri, 22 Nov 2024 22:38:07 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
-      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了1.2 TB 資料 新的SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司Microlise 的攻擊負責，讓該公司在不到24 小時的時間內支付勒索要求在洩漏資料之前......]]></description>
+      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了 1.2 TB 資料 新的 SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司 Microlise 的攻擊負責，讓該公司在 24 小時內支付勒索要求在洩露數據之前......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
       <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>如果您不分層網路安全性或刪除未使用的 Web shell，將會發生以下情況</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</link>
-      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標 ...]]></description>
+      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
       <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Blackwell 較弱的FP64 性能可能會讓House of Zen 的Instinct 加速器在未來的效率基準測試中佔據優勢 SC24  Nvidia 的加速器是同類產品中最耗電的機器之一，然而，這些晶片仍然在世界上最可持續的超級電腦 Green500 排名中佔據主導地位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/nvidia_green500_amd/</guid>
       <pubDate>Fri, 22 Nov 2024 00:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管違反制裁規定，格羅方德仍從 CHIPS 法案中淨賺 1.5B 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</link>
-      <description><![CDATA[DoC 聲稱只有4 家非中國代工廠可與GF 的規模相媲美 半導體製造商GlobalFoundries 最近因違反涉及中國的製裁而被罰款50 萬美元，但已獲得美國政府CHIPS和Science 高達15 億美元的資助行動... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/21/globalfoundries_chips_act/</guid>
-      <pubDate>Thu, 21 Nov 2024 23:23:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
