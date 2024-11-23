@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 23 Nov 2024 09:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 12:55:49 GMT</lastBuildDate>
+    <item>
+      <title>為什麼谷歌對 Chrome 的壟斷不會很快被打破</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/23/opinion_google_chrome/</link>
+      <description><![CDATA[我們以前沒聽過這個故事嗎？器。聽起來很熟悉嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/opinion_google_chrome/</guid>
+      <pubDate>Sat, 23 Nov 2024 12:35:12 GMT</pubDate>
+    </item>
     <item>
       <title>AI Jesus 已準備好在歷史悠久的瑞士教堂的一個攤位上提供建議</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
-      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
+      <description><![CDATA[像它的人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
       <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
     </item>
     <item>
       <title>安德魯·泰特的網站被洗劫，訂戶資料被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/andrew_tate_raid/</link>
-      <description><![CDATA[他只能接受這個 自稱厭惡女性、被指控性販運者和強姦犯的安德魯·泰特(Andrew Tate) 的網站已遭到破壞，其付費訂閱者的數據被盜。]]></description>
+      <description><![CDATA[他只能接受這個問題 自稱厭惡女性、被指控性販運者和強姦犯安德魯·泰特(Andrew Tate) 的網站已遭到破壞，其付費訂閱者的數據被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/andrew_tate_raid/</guid>
       <pubDate>Fri, 22 Nov 2024 22:38:07 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
-      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了 1.2 TB 資料 新的 SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司 Microlise 的攻擊負責，讓該公司在 24 小時內支付勒索要求在洩露數據之前......]]></description>
+      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了1.2 TB 資料 新的SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司Microlise 的攻擊負責，讓該公司在不到24 小時的時間內支付勒索要求在洩漏資料之前......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
       <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[太空中顯然沒有足夠的空間 印度太空研究組織上週晚些時候透露，其月船二號月球軌道飛行器已經進行了兩次機動以避免與類似飛行器發生潛在的碰撞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/indian_korean_moon_orbiters_near_miss/</guid>
       <pubDate>Fri, 22 Nov 2024 02:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您不分層網路安全性或刪除未使用的 Web shell，將會發生以下情況</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</link>
-      <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
-      <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
