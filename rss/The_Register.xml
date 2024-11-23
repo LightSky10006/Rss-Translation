@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 23 Nov 2024 00:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 09:35:21 GMT</lastBuildDate>
+    <item>
+      <title>AI Jesus 已準備好在歷史悠久的瑞士教堂的一個攤位上提供建議</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</link>
+      <description><![CDATA[教皇，Depeche Mode，對數位化的第二次到來保持沉默 如果您發現自己帶著罪惡感來到瑞士旅遊勝地盧塞恩，那麼有人在歷史悠久的Peterskapelle 天主教堂等待聆聽您的祈禱 -關心的人，你可能會說：你自己的人工智慧耶穌。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</guid>
+      <pubDate>Sat, 23 Nov 2024 09:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[TL;DR：攻擊者會闖入並攻擊您，正如美國政府紅隊所證明的那樣 美國網路安全和基礎設施局經常闖入關鍵組織的網路- 當然是在他們的許可下 -模擬現實世界的網路攻擊，從而幫助提高安全性。在最近對一家關鍵基礎設施提供商進行的一次演習中，該機構利用了早期漏洞賞金計劃留下的Web shell，獲取了一堆憑證和安全密鑰，透過網路進行移動，最終竊取了該組織的網域名稱和多個敏感的業務系統目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/cisa_red_team_exercise/</guid>
       <pubDate>Fri, 22 Nov 2024 01:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 在 Green500 中的主導地位面臨來自 AMD 及其自身的挑戰</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/nvidia_green500_amd/</link>
-      <description><![CDATA[Blackwell 較弱的FP64 性能可能會讓House of Zen 的Instinct 加速器在未來的效率基準測試中佔據優勢 SC24  Nvidia 的加速器是同類產品中最耗電的機器之一，然而，這些晶片仍然在世界上最可持續的超級電腦 Green500 排名中佔據主導地位。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/nvidia_green500_amd/</guid>
-      <pubDate>Fri, 22 Nov 2024 00:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
