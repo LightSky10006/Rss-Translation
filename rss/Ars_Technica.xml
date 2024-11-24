@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 24 Nov 2024 15:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 23:36:26 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯飛船對接太空站後，太空人報告有難聞的氣味</title>
+      <link>https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/</link>
+      <description><![CDATA[太空站俄羅斯部分的太空人穿戴了防護裝備。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:12:36 GMT</pubDate>
+    </item>
     <item>
       <title>倖存者紀念 2004 年致命海嘯 20 週年</title>
       <link>https://arstechnica.com/science/2024/11/survivors-mark-20th-anniversary-of-deadly-2004-tsunami/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>亞馬遜又向 OpenAI 最大競爭對手 Anthropic 投資 40 億美元</title>
       <link>https://arstechnica.com/ai/2024/11/amazon-pours-another-4b-into-anthropic-openais-biggest-rival/</link>
-      <description><![CDATA[亞馬遜現已向人工智慧新創公司投入 80 億美元，該公司成為 ChatGPT 的主要競爭對手。]]></description>
+      <description><![CDATA[亞馬遜現已向人工智慧新創公司投入 80 億美元，該新創公司成為 ChatGPT 的主要競爭對手。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/amazon-pours-another-4b-into-anthropic-openais-biggest-rival/</guid>
       <pubDate>Fri, 22 Nov 2024 19:32:15 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[瑪雅人是大規模的景觀工程師，即使在捕魚方面也是如此。]]></description>
       <guid>https://arstechnica.com/science/2024/11/ancient-fish-trapping-network-supported-the-rise-of-maya-civilization/</guid>
       <pubDate>Fri, 22 Nov 2024 18:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們的宇宙並未針對生命微調，但仍然還不錯</title>
-      <link>https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/</link>
-      <description><![CDATA[受德雷克方程式的啟發，研究人員優化了生命宇宙模型。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/</guid>
-      <pubDate>Fri, 22 Nov 2024 18:30:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
