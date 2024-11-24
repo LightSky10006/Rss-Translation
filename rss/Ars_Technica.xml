@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 24 Nov 2024 13:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 15:35:42 GMT</lastBuildDate>
+    <item>
+      <title>倖存者紀念 2004 年致命海嘯 20 週年</title>
+      <link>https://arstechnica.com/science/2024/11/survivors-mark-20th-anniversary-of-deadly-2004-tsunami/</link>
+      <description><![CDATA[NatGeo 的紀錄片《海嘯：與時間賽跑》回顧了這場造成近 23 萬人死亡的毀滅性災難。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/survivors-mark-20th-anniversary-of-deadly-2004-tsunami/</guid>
+      <pubDate>Sun, 24 Nov 2024 14:33:17 GMT</pubDate>
+    </item>
     <item>
       <title>妄想可以告訴我們什麼關於信念的認知本質</title>
       <link>https://arstechnica.com/science/2024/11/what-delusions-can-tell-us-about-the-cognitive-nature-of-belief/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[受德雷克方程式的啟發，研究人員優化了生命宇宙模型。]]></description>
       <guid>https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/</guid>
       <pubDate>Fri, 22 Nov 2024 18:30:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟備受爭議的召回刮刀終於進入公開預覽版</title>
-      <link>https://arstechnica.com/gadgets/2024/11/microsofts-controversial-recall-scraper-is-finally-entering-public-preview/</link>
-      <description><![CDATA[第一個 Recall 迭代從未發布，被安全研究人員拆解。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/microsofts-controversial-recall-scraper-is-finally-entering-public-preview/</guid>
-      <pubDate>Fri, 22 Nov 2024 18:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
