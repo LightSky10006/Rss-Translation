@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 16:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 16:45:03 GMT</lastBuildDate>
+    <item>
+      <title>QNAP NAS 用戶在韌體更新出現問題後被鎖定</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/qnap_faulty_update/</link>
+      <description><![CDATA[受影響的客戶抱怨儲存業務的技術支援 QNAP 網路附加儲存 (NAS) 盒的擁有者發現韌體更新導致他們無法登入設備，而重置則無法登入。這個問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/qnap_faulty_update/</guid>
+      <pubDate>Mon, 25 Nov 2024 16:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克同意粉絲的觀點，他們擔心軌道星鏈交通是“愚蠢的敘述”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</link>
-      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是太空船數量的10 倍” “仍然不會構成挑戰。]]></description>
+      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是航天器數量的10 倍” “仍然不會構成挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</guid>
       <pubDate>Mon, 25 Nov 2024 14:45:12 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 25 Nov 2024 13:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>法國政府斥資高達 6.25 億歐元購買 Atos 的高級計算資產</title>
+      <title>法國政府斥資高達 6.25 億歐元收購 Atos 的高級計算資產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</link>
       <description><![CDATA[IT 服務巨頭可能無法拒絕的另一項報價 IT 服務巨頭Atos 收到了法國政府的另一項報價，這次僅針對其高級計算資產，這筆交易可能價值不菲至 6.25 億歐元（6.56 億美元）。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>想像一下，在這片土地上，大型科技公司無法將您送入網路兔子洞或使用演算法向您收取過高費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</link>
-      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行打擊 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
+      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行鎮壓 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</guid>
       <pubDate>Mon, 25 Nov 2024 05:29:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[教皇，Depeche Mode，對數位化的第二次到來保持沉默 如果您發現自己帶著罪惡感來到瑞士旅遊勝地盧塞恩，那麼有人在歷史悠久的Peterskapelle 天主教堂等待聆聽您的祈禱 -關心的人，你可能會說：你自己的人工智慧耶穌。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</guid>
       <pubDate>Sat, 23 Nov 2024 09:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
-      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
-      <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
