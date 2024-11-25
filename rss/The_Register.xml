@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 03:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 05:40:05 GMT</lastBuildDate>
+    <item>
+      <title>想像一下，在這片土地上，大型科技公司無法將你送入網路兔子洞或使用演算法向你收取過高費用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</link>
+      <description><![CDATA[這片土地存在－在中國，政府正在嚴厲打擊那些讓網路變得無趣的事情 網路迴聲室和令人討厭的電子商務伎倆分析你的行為，以榨取你更多的錢在中國，現金將被禁止。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</guid>
+      <pubDate>Mon, 25 Nov 2024 05:29:08 GMT</pubDate>
+    </item>
     <item>
       <title>阿里雲將喋喋不休的SaaS產品帶出中國並進入更多市場</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/alibaba_cloud_phone_dingtalk_extension/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
-      <description><![CDATA[像它的人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
+      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
       <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 22 Nov 2024 20:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>公共開發人員的爭執使 Linux 中的 bcachefs 面臨風險</title>
+      <title>公共開發者的爭執使 Linux 中的 bcachefs 面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</link>
       <description><![CDATA[在 FOSS 土地上打架！幻想檔案系統的未來令人擔憂！ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>由於人工智慧，資料中心可能會增加你的電費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</link>
-      <description><![CDATA[如果容量無法滿足需求，營運商可能必須支付更多能源費用 除非採取行動提高發電和輸電能力以滿足人工智慧的要求，否則到2030 年，美國人的電費可能會上漲70% -資料中心需求激增…]]></description>
+      <description><![CDATA[如果容量無法滿足需求，營運商可能必須支付更多能源費用 除非採取行動提高發電和輸電能力以滿足人工智慧的要求，否則到2030 年美國人的電費可能會上漲70% -資料中心需求激增…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</guid>
       <pubDate>Fri, 22 Nov 2024 16:01:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[顧問抱怨缺乏用例和企業預算 人工智慧 PC 的高價和殺手級應用程式的缺乏，導致那些想要在 Windows 10 之前升級其老化資產的客戶感到困惑支持結束。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/premium_priced_ai_pcs/</guid>
       <pubDate>Fri, 22 Nov 2024 13:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐盟買家仍然迴避純電動車，更喜歡混合動力車</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/battery_electric_vehicles_acea_figures/</link>
-      <description><![CDATA[雙電源連續第二個月擊敗純汽油車 歐洲汽車製造商協會(ACEA) 的最新數據對電動車(EV) 製造商來說有好消息也有壞消息：適度增長月度註冊量上升，但同比下降。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/battery_electric_vehicles_acea_figures/</guid>
-      <pubDate>Fri, 22 Nov 2024 12:21:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
