@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 19:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 19:34:38 GMT</lastBuildDate>
+    <item>
+      <title>安全？我們聽說過：微軟計劃如何更好地捍衛 Windows</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/microsoft_talks_up_beefier_windows/</link>
+      <description><![CDATA[我們有說過 CrowdStrike 嗎？我們的意思是，呃，七月事件... IGNITE  本周可以聽到網路安全專業人員用咖啡噴灑螢幕的聲音，正如微軟聲稱的那樣， “安全是我們的”重中之重”，因為它再次談到了其安全未來計劃 (SFI)，並解釋瞭如何保護 Windows 的安全。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/microsoft_talks_up_beefier_windows/</guid>
+      <pubDate>Mon, 25 Nov 2024 19:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>RHEL 9.5 與 AlmaLinux、Rocky 和 ​​Oracle 更新一起首次亮相</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/rhel_95_now_on_wsl/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[與此同時，CISA 主席Jen Easterly 將在就職前辭職 分析 當選總統唐納德·特朗普在過去兩周宣布了幾項非常規的內閣提名，包括南達科他州州長克里斯蒂·諾姆被他任命為國土安全部部長。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/trump_noem_homeland_security/</guid>
       <pubDate>Sat, 23 Nov 2024 17:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>為什麼谷歌對 Chrome 的壟斷不會很快被打破</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/23/opinion_google_chrome/</link>
-      <description><![CDATA[我們以前沒聽過這個故事嗎？器。聽起來很熟悉嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/opinion_google_chrome/</guid>
-      <pubDate>Sat, 23 Nov 2024 12:35:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
