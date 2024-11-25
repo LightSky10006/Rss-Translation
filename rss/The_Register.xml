@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 24 Nov 2024 23:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 02:44:50 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯間諜可能已經搬進隔壁瞄準您的網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/infosec_news_in_brief/</link>
+      <description><![CDATA[Plus：微軟查獲網路釣魚網域； Helldown找到新目標；使用Jupyter 進行非法串流媒體傳輸等 資訊安全簡介 不是為了讓您變得偏執，而是街對面的企業在某些情況下可以作為俄羅斯網路的發射點間諜危害您的網路。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/infosec_news_in_brief/</guid>
+      <pubDate>Mon, 25 Nov 2024 01:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>中國將自製龍芯CPU驅動的雲送入太空</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/24/asia_tech_news_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[當局對具體細節守口如瓶 對航空航天和國防巨頭泰雷茲公司的調查目前正在進行中，原因是涉嫌棕櫚油和欺詐。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/thales_bribery_probe/</guid>
       <pubDate>Fri, 22 Nov 2024 11:31:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SafePay 勒索軟體團夥聲稱 Microlise 攻擊擾亂了監獄貨車的追踪</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</link>
-      <description><![CDATA[初出茅廬的騙子團夥聲稱竊取了1.2 TB 資料 新的SafePay 勒索軟體團夥聲稱對英國遠端資訊處理公司Microlise 的攻擊負責，讓該公司在不到24 小時的時間內支付勒索要求在洩漏資料之前......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/safepay_microlise/</guid>
-      <pubDate>Fri, 22 Nov 2024 08:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
