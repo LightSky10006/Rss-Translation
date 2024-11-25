@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 06:46:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 07:37:33 GMT</lastBuildDate>
+    <item>
+      <title>網路工程師選擇在資料中心地板上度過一夜的羞辱</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/who_me/</link>
+      <description><![CDATA[為了避免鎖定，記住鑰匙會有所幫助 誰，我？ /em&gt; 讀者知道的是，當我們發布讀者提交的技術支援故事時，他們打著「誰，我？」的旗號… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/who_me/</guid>
+      <pubDate>Mon, 25 Nov 2024 07:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌從搜尋結果中封鎖了1000多個親華假新聞網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/google_beijing_propaganda/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>想像一下，在這片土地上，大型科技公司無法將您送入網路兔子洞或使用演算法向您收取過高費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</link>
-      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行鎮壓 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
+      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行打擊 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</guid>
       <pubDate>Mon, 25 Nov 2024 05:29:08 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>DEF CON 志工駭客潛入美國漏水的水基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/24/water_defcon_hacker/</link>
-      <description><![CDATA[針對安全清理的六個站點，只剩下49,994 個 一項幫助駭客保護美國關鍵基礎設施安全的計劃已經啟動，六家美國水務公司簽約讓編碼員踢掉他們的疲勞他們的計算機系統並修復任何漏洞。]]></description>
+      <description><![CDATA[針對安全清理的六個站點，只剩下 49,994 個 一項幫助駭客保護美國關鍵基礎設施安全的計劃已經啟動，六家美國水務公司簽約讓編碼員踢掉他們的電腦系統並修復任何漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/24/water_defcon_hacker/</guid>
       <pubDate>Sun, 24 Nov 2024 15:27:12 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
-      <description><![CDATA[像它的人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
+      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
       <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 22 Nov 2024 20:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>公共開發人員的爭執使 Linux 中的 bcachefs 面臨風險</title>
+      <title>公共開發者的爭執使 Linux 中的 bcachefs 面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</link>
       <description><![CDATA[在 FOSS 土地上打架！幻想檔案系統的未來令人擔憂！ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>微軟從照片應用程式預覽中刪除文字識別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_ocr_preview_photos/</link>
-      <description><![CDATA[OCR 技術還沒有完全準備好迎接黃金時段，至少在Windows 的這個部分 微軟已經在其更新的照片應用程式中禁用了OCR 功能以「解決一些問題」。 .]]></description>
+      <description><![CDATA[OCR 技術還沒有完全準備好迎接黃金時段，至少在Windows 中是如此 微軟已經在其更新的照片應用程式中禁用了OCR 功能以「解決一些問題」。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_ocr_preview_photos/</guid>
       <pubDate>Fri, 22 Nov 2024 17:32:13 GMT</pubDate>
     </item>
     <item>
       <title>由於人工智慧，資料中心可能會增加你的電費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</link>
-      <description><![CDATA[如果容量無法滿足需求，營運商可能必須支付更多能源費用 除非採取行動提高發電和輸電能力以滿足人工智慧的要求，否則到2030 年，美國人的電費可能會上漲70% -資料中心需求激增…]]></description>
+      <description><![CDATA[如果容量無法滿足需求，營運商可能必須支付更多能源費用 除非採取行動提高發電和輸電能力以滿足人工智慧的要求，否則到2030 年美國人的電費可能會上漲70% -資料中心需求激增…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/ai_hike_energy_bills/</guid>
       <pubDate>Fri, 22 Nov 2024 16:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Broadcom 控制 VMware 一年後，它佔據了主導地位</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/broadcom_vmware_acquisition_first_anniversary/</link>
-      <description><![CDATA[客戶“都很痛苦”，但尚未決定放棄 - AT&amp;T 似乎已經解決了其許可糾紛 更新 Broadcom 在一年內完成了對 VMware 的收購之前， 2023 年11 月22 日。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/broadcom_vmware_acquisition_first_anniversary/</guid>
-      <pubDate>Fri, 22 Nov 2024 14:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
