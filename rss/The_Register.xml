@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 10:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 10:43:17 GMT</lastBuildDate>
+    <item>
+      <title>微笑！英國警察花費數千萬美元開發即時臉部辨識技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/uk_police_lfr_tender/</link>
+      <description><![CDATA[工黨政府對此表示熱衷，儘管批評者將其視為對隱私的嚴重威脅 英國政府發起了一項耗資2000 萬英鎊（2500 萬美元）的競賽，邀請科技公司為許多警察提供即時臉部辨識服務力量…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/uk_police_lfr_tender/</guid>
+      <pubDate>Mon, 25 Nov 2024 10:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>極地軌道上的奧秘——太空中最古老的工作硬體仍然保守著它的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Google，你就站在那裡，讓 AWS 獲得「主要培訓合作夥伴」的頭銜嗎？不會什麼也不做？ ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/anthropic_amazon_funds/</guid>
       <pubDate>Fri, 22 Nov 2024 20:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共開發者的爭執使 Linux 中的 bcachefs 面臨風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</link>
-      <description><![CDATA[在 FOSS 土地上打架！幻想檔案系統的未來令人擔憂！ /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:03:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
