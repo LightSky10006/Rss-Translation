@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 12:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 13:01:13 GMT</lastBuildDate>
+    <item>
+      <title>法國政府斥資高達 6.25 億歐元收購 Atos 的高級計算資產</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</link>
+      <description><![CDATA[IT 服務巨頭可能無法拒絕的另一項報價 IT 服務巨頭Atos 收到了法國政府的另一項報價，這次僅針對其高級計算資產，這筆交易可能價值不菲至 6.25 億歐元（6.56 億美元）。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</guid>
+      <pubDate>Mon, 25 Nov 2024 12:51:39 GMT</pubDate>
+    </item>
     <item>
       <title>微軟重啟Windows召回，但用戶希望他們能忘記</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/windows_recall_preview/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>現在是你嘗試微軟備受爭議的 Windows 召回的機會...也許</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</link>
-      <description><![CDATA[像它的人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
+      <description><![CDATA[與人工智慧一樣，這種自動螢幕截圖和記錄器並不是每個人都想要的功能 微軟已經啟動了其Windows Recall 系統的有限公開預覽——大約六個月後，該系統的推出引發了人們對隱私和隱私問題的強烈反對。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_recall_release/</guid>
       <pubDate>Fri, 22 Nov 2024 23:54:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[盼盼！入侵者註入 Web shell 後門、加密貨幣礦工等等 攻擊者利用最近修補的兩個安全漏洞破壞了數千個 Palo Alto Networks 防火牆。入侵者能夠部署可透過網路存取的後門來遠端控制設備以及加密貨幣礦工和其他惡意軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/palo_alto_firewalls_under_exploit/</guid>
       <pubDate>Fri, 22 Nov 2024 21:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 即將獲批 2025 年發射 25 艘星際飛船</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/spacex_plans_for_25_starship/</link>
-      <description><![CDATA[環境評估草案已準備好接受公眾審查 美國聯邦航空管理局 (FAA) 已發布 SpaceX 提議增加該公司博卡奇卡工廠發射和著陸頻率的環境評估草案... . ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/spacex_plans_for_25_starship/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
