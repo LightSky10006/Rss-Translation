@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 13:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 13:42:52 GMT</lastBuildDate>
+    <item>
+      <title>中國徹底盜用了美國電信公司的「成千上萬」設備</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/salt_typhoon_mark_warner_warning/</link>
+      <description><![CDATA[參議院情報委員會主席表示，當高層在白宮面前時，他的「頭髮著火了」 拜登政府週五接待了電信公司高層，討論中國最近對該行業的攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/salt_typhoon_mark_warner_warning/</guid>
+      <pubDate>Mon, 25 Nov 2024 13:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>法國政府斥資高達 6.25 億歐元收購 Atos 的高級計算資產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[他只能接受這個 自稱厭惡女性、被指控性販運者和強姦犯的安德魯·泰特(Andrew Tate) 的網站已遭到破壞，其付費訂閱者的數據被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/andrew_tate_raid/</guid>
       <pubDate>Fri, 22 Nov 2024 22:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>不法分子利用關鍵漏洞，數千個 Palo Alto Networks 防火牆被劫持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/palo_alto_firewalls_under_exploit/</link>
-      <description><![CDATA[盼盼！入侵者註入 Web shell 後門、加密貨幣礦工等等 攻擊者利用最近修補的兩個安全漏洞破壞了數千個 Palo Alto Networks 防火牆。入侵者能夠部署可透過網路存取的後門來遠端控制設備以及加密貨幣礦工和其他惡意軟體。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/palo_alto_firewalls_under_exploit/</guid>
-      <pubDate>Fri, 22 Nov 2024 21:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
