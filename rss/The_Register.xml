@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 08:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 09:39:20 GMT</lastBuildDate>
+    <item>
+      <title>極地軌道上的奧秘——太空中最古老的工作硬體仍然保守著它的秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/</link>
+      <description><![CDATA[它絕不是外星人，但可能是地下電視維修技術人員 意見 最古老的功能性地外太空硬體？嗯，對於那些喜歡酒吧測驗（又稱酒吧問答）的人來說，這是一個很好的問題。 1977 年的 Voyagers 除了這些金唱片之外還保持著一些令人印象深刻的記錄，但不是那個。有什麼猜測嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/</guid>
+      <pubDate>Mon, 25 Nov 2024 09:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟關閉專門的授權教育和認證網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/microsoft_licensing_info_site_retirement/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[在 FOSS 土地上打架！幻想檔案系統的未來令人擔憂！ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/bcachefs_linux/</guid>
       <pubDate>Fri, 22 Nov 2024 19:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟從照片應用程式預覽中刪除文字識別</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_ocr_preview_photos/</link>
-      <description><![CDATA[OCR 技術還沒有完全準備好迎接黃金時段，至少在Windows 的這個部分 微軟已經在其更新的照片應用程式中禁用了OCR 功能以「解決一些問題」。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/22/microsoft_ocr_preview_photos/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
