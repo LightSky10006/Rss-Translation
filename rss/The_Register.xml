@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 25 Nov 2024 16:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:17:45 GMT</lastBuildDate>
+    <item>
+      <title>RHEL 9.5 與 AlmaLinux、Rocky 和 ​​Oracle 更新一起首次亮相</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/rhel_95_now_on_wsl/</link>
+      <description><![CDATA[此外，很快您就可以將 Red Hat Enterprise Linux 作為 WSL 下的受支援選項來運行 最新版本的 Red Hat Enterprise Linux 以及領先的 RHELatives 都已發布。另外，有趣的是，紅帽正在與 Microsoft 合作，使其可以在 Windows 之上使用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/rhel_95_now_on_wsl/</guid>
+      <pubDate>Mon, 25 Nov 2024 17:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>QNAP NAS 用戶在韌體更新出現問題後被鎖定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/qnap_faulty_update/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們以前沒聽過這個故事嗎？器。聽起來很熟悉嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/opinion_google_chrome/</guid>
       <pubDate>Sat, 23 Nov 2024 12:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Jesus 已準備好在歷史悠久的瑞士教堂的一個攤位上提供建議</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</link>
-      <description><![CDATA[教皇，Depeche Mode，對數位化的第二次到來保持沉默 如果您發現自己帶著罪惡感來到瑞士旅遊勝地盧塞恩，那麼有人在歷史悠久的Peterskapelle 天主教堂等待聆聽您的祈禱 -關心的人，你可能會說：你自己的人工智慧耶穌。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/23/ai_jesus_peterskapelle/</guid>
-      <pubDate>Sat, 23 Nov 2024 09:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
