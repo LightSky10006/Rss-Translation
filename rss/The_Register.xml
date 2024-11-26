@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 16:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 17:39:06 GMT</lastBuildDate>
+    <item>
+      <title>FLTK 達到 1.4，支援 Wayland 語言並提供更好的 HiDPI 支持</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/fltk_14_released/</link>
+      <description><![CDATA[距離上一次發布僅13 年 FLTK，用於編程GUI 應用程式的最古老、最穩定的FOSS 工具包之一，帶著新的光彩回來了。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/fltk_14_released/</guid>
+      <pubDate>Tue, 26 Nov 2024 17:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>美國參議員提議立法要求最低安全標準</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/us_senators_healthcare_cybersecurity/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>英特爾從美國晶片法案中鎖定 7.86B 美元資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/intel_chips_act_funding/</link>
-      <description><![CDATA[即將離任的政府在就職日之前急於分配資金 英特爾已與美國商務部達成協議，將通過《CHIPS 和科學法案》獲得高達78.6 億美元的撥款，這些資金已投入使用自選舉以來的問題......]]></description>
+      <description><![CDATA[即將卸任的政府在就職日之前急於撥款 英特爾已與美國商務部達成協議，將通過《CHIPS 和科學法案》獲得高達 78.6 億美元的撥款，這些資金已投入使用選舉以來的問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/intel_chips_act_funding/</guid>
       <pubDate>Tue, 26 Nov 2024 13:50:08 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>英國醫院又發生「重大網路事件」 門診病人被要求遠離</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</link>
-      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 一家英國醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
+      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 英國一家醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</guid>
       <pubDate>Tue, 26 Nov 2024 11:36:39 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>供應鏈管理供應商 Blue Yonder 遭受勒索軟體攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</link>
-      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將商品上架。 ...]]></description>
+      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將貨物上架。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</guid>
       <pubDate>Tue, 26 Nov 2024 01:27:10 GMT</pubDate>
     </item>
@@ -113,12 +120,12 @@
     <item>
       <title>M4 MacBook Pro 表明蘋果仍然堅持不可修復筆記型電腦的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</link>
-      <description><![CDATA[Mac Mini 和iPhone 可修復性的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在拆解新款M4 後，他們的表現並不理想。]]></description>
+      <description><![CDATA[Mac Mini 和iPhone 可修復性方面的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在對新款M4 進行測試後，他們並沒有留下深刻的印象MacBook Pro... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</guid>
       <pubDate>Mon, 25 Nov 2024 22:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部對谷歌的補救措施如何造成附帶損害</title>
+      <title>美國司法部對谷歌的補救措施可能會造成附帶損害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</link>
       <description><![CDATA[應完善補救措施，著眼於廣泛的平台權利和責任 意見 美國司法部為解決Google 對搜尋服務和搜尋文字廣告的壟斷控制問題而提出的補救措施應該根據技術平台的更廣泛問題重新考慮市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外，很快您就可以將 Red Hat Enterprise Linux 作為 WSL 下的受支援選項來運行 最新版本的 Red Hat Enterprise Linux 以及領先的 RHELatives 都已發布。另外，有趣的是，紅帽正在與 Microsoft 合作，使其可以在 Windows 之上使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/rhel_95_now_on_wsl/</guid>
       <pubDate>Mon, 25 Nov 2024 17:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>QNAP NAS 用戶在韌體更新出現問題後被鎖定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/qnap_faulty_update/</link>
-      <description><![CDATA[受影響的客戶抱怨儲存業務的技術支援 QNAP 網路附加儲存 (NAS) 盒的擁有者發現韌體更新導致他們無法登入設備，而重置則無法登入。這個問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/qnap_faulty_update/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:15:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
