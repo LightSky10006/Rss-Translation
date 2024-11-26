@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 02:42:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 03:27:21 GMT</lastBuildDate>
+    <item>
+      <title>Deno 要求 USPTO 廢除 Oracle 的「JavaScript」商標</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/cancel_oracles_javascript_trademark_deno/</link>
+      <description><![CDATA[請願書聲稱資料庫巨頭透過欺詐性聲明維持了自己的品牌 Deno Land 是JavaScript、TypeScript 和WebAssembly 的Deno 運行時的製造商，已向美國專利商標局提交了請願書( USPTO）取消 Oracle 的 JavaScript 商標。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/cancel_oracles_javascript_trademark_deno/</guid>
+      <pubDate>Tue, 26 Nov 2024 02:57:10 GMT</pubDate>
+    </item>
     <item>
       <title>供應鏈管理供應商 Blue Yonder 遭受勒索軟體攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>M4 MacBook Pro 表明蘋果仍然堅持不可修復筆記型電腦的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</link>
-      <description><![CDATA[Mac Mini 和iPhone 可修復性的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在拆解新款M4 後，他們的表現並不理想。]]></description>
+      <description><![CDATA[Mac Mini 和iPhone 可修復性方面的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在對新款M4 進行測試後，他們並沒有留下深刻的印象MacBook Pro... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</guid>
       <pubDate>Mon, 25 Nov 2024 22:01:08 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>馬斯克同意粉絲的觀點，他們擔心軌道星鏈交通是“愚蠢的敘述”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</link>
-      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是航天器數量的10 倍” “仍然不會構成挑戰。]]></description>
+      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是太空船數量的10 倍” “仍然不會構成挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</guid>
       <pubDate>Mon, 25 Nov 2024 14:45:12 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 25 Nov 2024 13:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>法國政府斥資高達 6.25 億歐元收購 Atos 的高級計算資產</title>
+      <title>法國政府斥資高達 6.25 億歐元購買 Atos 的高級計算資產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</link>
       <description><![CDATA[IT 服務巨頭可能無法拒絕的另一項報價 IT 服務巨頭Atos 收到了法國政府的另一項報價，這次僅針對其高級計算資產，這筆交易可能價值不菲至 6.25 億歐元（6.56 億美元）。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>想像一下，在這片土地上，大型科技公司無法將您送入網路兔子洞或使用演算法向您收取過高費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</link>
-      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行鎮壓 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
+      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行打擊 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</guid>
       <pubDate>Mon, 25 Nov 2024 05:29:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Plus：微軟查獲網路釣魚網域； Helldown找到新目標；使用Jupyter 進行非法串流媒體傳輸等 資訊安全簡介 不是為了讓您變得偏執，而是街對面的企業在某些情況下可以作為俄羅斯網路的發射點間諜危害您的網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/infosec_news_in_brief/</guid>
       <pubDate>Mon, 25 Nov 2024 01:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國將自製龍芯CPU驅動的雲送入太空</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/24/asia_tech_news_in_brief/</link>
-      <description><![CDATA[另外：韓國嚴厲打擊 Temu；美國、越南簽署資訊安全協議；印度延長有爭議的硬體進口法；等等 亞洲概況 中國晶片設計商龍芯上週五宣布，其處理器正在為已發射到太空的雲端運算平台提供支援。 &gt; &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/24/asia_tech_news_in_brief/</guid>
-      <pubDate>Sun, 24 Nov 2024 23:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
