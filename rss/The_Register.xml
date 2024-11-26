@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 20:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 22:12:36 GMT</lastBuildDate>
     <item>
-      <title>一名男子被指控實施極度糟糕的營運安全措施，涉嫌網路犯罪狂潮的細節</title>
+      <title>Windows 10 的告別之旅（而非 AI PC）將在 2025 年推動筆記型電腦銷售</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/</link>
+      <description><![CDATA[TrendForce 表示，目前人工智慧整合筆記型電腦對整體市場的影響仍然有限 預計 2025 年全球筆記型電腦市場將成長 4.9%，但商業升級週期和即將到來的 Windows 10 終結推動這一趨勢的是生活的改變，而不是對具有人工智慧功能的個人電腦的需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/</guid>
+      <pubDate>Tue, 26 Nov 2024 22:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>男子因涉嫌網路犯罪狂潮而被指控極其糟糕的營運安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/kansas_city_cybercrime_charges/</link>
       <description><![CDATA[投訴聲稱他非法侵入，給自己折扣，並安排了閉路電視訪問...... 一名堪薩斯城男子被指控無視基本的操作安全，週五首次出庭，指控一系列指控網路犯罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/kansas_city_cybercrime_charges/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>英特爾從美國晶片法案中鎖定 7.86B 美元資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/intel_chips_act_funding/</link>
-      <description><![CDATA[即將卸任的政府在就職日之前急於撥款 英特爾已與美國商務部達成協議，將通過《CHIPS 和科學法案》獲得高達 78.6 億美元的撥款，這些資金已投入使用選舉以來的問題......]]></description>
+      <description><![CDATA[即將離任的政府在就職日之前急於分配資金 英特爾已與美國商務部達成協議，將通過《CHIPS 和科學法案》獲得高達78.6 億美元的撥款，這些資金已投入使用自選舉以來的問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/intel_chips_act_funding/</guid>
       <pubDate>Tue, 26 Nov 2024 13:50:08 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>英國醫院又發生「重大網路事件」 門診病人被要求遠離</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</link>
-      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 英國一家醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
+      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 一家英國醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</guid>
       <pubDate>Tue, 26 Nov 2024 11:36:39 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>供應鏈管理供應商 Blue Yonder 遭受勒索軟體攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</link>
-      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將貨物上架。 ...]]></description>
+      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將商品上架。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</guid>
       <pubDate>Tue, 26 Nov 2024 01:27:10 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>M4 MacBook Pro 表明蘋果仍然堅持不可修復筆記型電腦的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</link>
-      <description><![CDATA[Mac Mini 和iPhone 可修復性方面的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在對新款M4 進行測試後，他們並沒有留下深刻的印象MacBook Pro... ]]></description>
+      <description><![CDATA[Mac Mini 和iPhone 可修復性的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在拆解新款M4 後，他們的表現並不理想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</guid>
       <pubDate>Mon, 25 Nov 2024 22:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國司法部對谷歌的補救措施可能會造成附帶損害</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</link>
-      <description><![CDATA[應完善補救措施，著眼於廣泛的平台權利和責任 意見 美國司法部為解決Google 對搜尋服務和搜尋文字廣告的壟斷控制問題而提出的補救措施應該根據技術平台的更廣泛問題重新考慮市場。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
