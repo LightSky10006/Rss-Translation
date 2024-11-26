@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 11:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 12:26:23 GMT</lastBuildDate>
+    <item>
+      <title>英國醫院又發生「重大網路事件」 門診病人被要求遠離</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</link>
+      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 一家英國醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</guid>
+      <pubDate>Tue, 26 Nov 2024 11:36:39 GMT</pubDate>
+    </item>
     <item>
       <title>QNAP 和 Veritas 在周末轉儲了 30 多個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/qnap_veritas_vulnerabilities/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[AI 快照工具因更多問題再次成為人們關注的焦點 評論 Windows Recall 的第二次到來帶來了一系列問題，提醒用戶這是有原因的為什麼快照技術仍然是 Windows Insiders 的預覽版。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/windows_recall_preview/</guid>
       <pubDate>Mon, 25 Nov 2024 12:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>微笑！英國警察花費數千萬美元開發即時臉部辨識技術</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/uk_police_lfr_tender/</link>
-      <description><![CDATA[工黨政府對此表示熱衷，儘管批評者將其視為對隱私的嚴重威脅 英國政府發起了一項耗資2000 萬英鎊（2500 萬美元）的競賽，邀請科技公司為許多警察提供即時臉部辨識服務力量…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/uk_police_lfr_tender/</guid>
-      <pubDate>Mon, 25 Nov 2024 10:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
