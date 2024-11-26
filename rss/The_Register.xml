@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 05:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 06:45:24 GMT</lastBuildDate>
+    <item>
+      <title>英國普丁加強人工智慧防禦以應對日益增長的網路威脅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/uk_ai_security/</link>
+      <description><![CDATA[「毫無疑問：英國和在座的其他人正在關注俄羅斯」 英國政府週一宣布成立人工智慧安全研究實驗室 (LASR)，以這個國家對來自俄羅斯的人工智慧網絡威脅更有彈性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/uk_ai_security/</guid>
+      <pubDate>Tue, 26 Nov 2024 06:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>印尼告知蘋果 1 億美元投資不足以解除 iPhone 16 銷售禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/apple_indonesia_investment/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>M4 MacBook Pro 表明蘋果仍然堅持不可修復筆記型電腦的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</link>
-      <description><![CDATA[Mac Mini 和iPhone 可修復性的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在拆解新款M4 後，他們的表現並不理想。]]></description>
+      <description><![CDATA[Mac Mini 和iPhone 可修復性方面的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在對新款M4 進行測試後，他們並沒有留下深刻的印象MacBook Pro... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</guid>
       <pubDate>Mon, 25 Nov 2024 22:01:08 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>馬斯克同意粉絲的觀點，他們擔心軌道星鏈交通是“愚蠢的敘述”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</link>
-      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是航天器數量的10 倍” “仍然不會構成挑戰。]]></description>
+      <description><![CDATA[忘掉 10 倍程式設計器吧。 10 顆衛星怎麼樣？是太空船數量的10 倍” “仍然不會構成挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/starlink_orbital_collision_risks/</guid>
       <pubDate>Mon, 25 Nov 2024 14:45:12 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 25 Nov 2024 13:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>法國政府斥資高達 6.25 億歐元收購 Atos 的高級計算資產</title>
+      <title>法國政府斥資高達 6.25 億歐元購買 Atos 的高級計算資產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</link>
       <description><![CDATA[IT 服務巨頭可能無法拒絕的另一項報價 IT 服務巨頭Atos 收到了法國政府的另一項報價，這次僅針對其高級計算資產，這筆交易可能價值不菲至 6.25 億歐元（6.56 億美元）。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/france_atos_advanced_computing/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[北京的宣傳夥伴不僅僅使用社交媒體 谷歌的威脅情報小組已從其搜索結果中屏蔽了一家與中國相關的公司，以運營假新聞服務和網站。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/google_beijing_propaganda/</guid>
       <pubDate>Mon, 25 Nov 2024 06:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>想像一下，在這片土地上，大型科技公司無法將您送入網路兔子洞或使用演算法向您收取過高費用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</link>
-      <description><![CDATA[中國正在努力成為這樣的國家，政府對那些讓互聯網變得毫無樂趣的事情進行鎮壓 互聯網迴聲室和令人討厭的電子商務技巧會分析你的行為，以榨取你更多的現金將在中國被禁止。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/china_algorithm_transparency/</guid>
-      <pubDate>Mon, 25 Nov 2024 05:29:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
