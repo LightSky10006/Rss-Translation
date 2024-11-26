@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 26 Nov 2024 19:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 20:38:44 GMT</lastBuildDate>
+    <item>
+      <title>網路服務供應商表示，他們「卓越的客戶服務」是用戶不更換供應商的原因</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</link>
+      <description><![CDATA[網路服務供應商告訴聯邦通訊委員會，受到虐待的用戶會轉向他們的許多其他選擇之一。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</guid>
+      <pubDate>Tue, 26 Nov 2024 20:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>舔這個「棒棒糖」讓你嚐到虛擬味道</title>
+      <link>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</link>
+      <description><![CDATA[它生產九種口味：糖、鹽、檸檬酸、櫻桃、百香果、綠茶、牛奶、榴槤和柚子。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Atari 7800+ 是對被遺忘的遊戲時代的簡單一瞥</title>
+      <link>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</link>
+      <description><![CDATA[笨拙的控制和缺乏功能使得這款設備只適合雅達利完美主義者。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:34:32 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 授予 SpaceX 一份合同，這是它尚未完成的少數事情之一</title>
       <link>https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/</link>
@@ -20,7 +41,7 @@
       <pubDate>Tue, 26 Nov 2024 18:10:39 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾獲得 8B 美元 CHIPS 資金後，工人們要求提高透明度</title>
+      <title>英特爾獲得 80 億美元 CHIPS 資金後，工人們要求提高透明度</title>
       <link>https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/</link>
       <description><![CDATA[英特爾授予近 8B 美元以「增強」美國半導體創新。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[尖叫的薩克斯風聽起來是什麼樣的？ Fugatto 模型給了答案...]]></description>
       <guid>https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/</guid>
       <pubDate>Mon, 25 Nov 2024 21:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院希望美國就 ISP 是否應對用戶盜版負責提出意見</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/</link>
-      <description><![CDATA[SCOTUS 詢問美國政府對價值 10 億美元的索尼訴考克斯案的看法。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/</guid>
-      <pubDate>Mon, 25 Nov 2024 21:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國司法部結束廣告技術審判：Google是「三倍」壟斷者</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/doj-wraps-up-ad-tech-trial-google-is-three-times-a-monopolist/</link>
-      <description><![CDATA[谷歌辯稱，司法部證明了廣告技術壟斷的存在「完全相反」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/doj-wraps-up-ad-tech-trial-google-is-three-times-a-monopolist/</guid>
-      <pubDate>Mon, 25 Nov 2024 21:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 指控《紐約時報》刪除版權濫用證據的技術問題</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/</link>
-      <description><![CDATA[OpenAI 否認刪除證據，並質疑《紐約時報》為何不備份資料。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
