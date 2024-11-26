@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 26 Nov 2024 07:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 08:44:44 GMT</lastBuildDate>
+    <item>
+      <title>AWS 透過 VMware Cloud Foundation 即服務屈服於 Broadcom 的意願</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/amazon_elastic_vmware_service_preview/</link>
+      <description><![CDATA[微軟、甲骨文和IBM都在這麼做。 Andy Jassy 的伺服器租賃店可能覺得自己白白浪費了錢 Amazon Web Services 推出了符合 Broadcom 授權方案的 VMware 即服務產品。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/amazon_elastic_vmware_service_preview/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:28:08 GMT</pubDate>
+    </item>
     <item>
       <title>Bluesky 對歐洲監管機構的用戶資料過於不透明</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/bluesky_eu_regulation/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>供應鏈管理供應商 Blue Yonder 遭受勒索軟體攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</link>
-      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將商品上架。 ...]]></description>
+      <description><![CDATA[依賴它的英國主要零售商似乎感受到了壓力 美國供應鏈 SaaS 供應商 Blue Yonder 透露勒索軟體導致服務中斷，據報道其客戶正在努力解決問題結果是將貨物上架。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/blue_yonder_ransomware/</guid>
       <pubDate>Tue, 26 Nov 2024 01:27:10 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>M4 MacBook Pro 表明蘋果仍然堅持不可修復筆記型電腦的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</link>
-      <description><![CDATA[Mac Mini 和iPhone 可修復性的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在拆解新款M4 後，他們的表現並不理想。]]></description>
+      <description><![CDATA[Mac Mini 和iPhone 可修復性方面的進步尚未進入旗艦電腦 儘管Apple 最新iPhone 和Mac Mini 的可修復性得分有所提高，但iFixit 團隊表示，在對新款M4 進行測試後，他們並沒有留下深刻的印象MacBook Pro... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/m4_macbook_teardown/</guid>
       <pubDate>Mon, 25 Nov 2024 22:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>美國司法部對谷歌的補救措施如何造成附帶損害</title>
+      <title>美國司法部對谷歌的補救措施可能會造成附帶損害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</link>
       <description><![CDATA[應完善補救措施，著眼於廣泛的平台權利和責任 意見 美國司法部為解決Google 對搜尋服務和搜尋文字廣告的壟斷控制問題而提出的補救措施應該根據技術平台的更廣泛問題重新考慮市場。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/doj_google_collateral_damage_opinion/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>極地軌道上的奧秘——太空中最古老的工作硬體仍然保守著它的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/</link>
-      <description><![CDATA[它絕不是外星人，但可能是地下電視維修技術人員 意見 最古老的功能性地外太空硬體？嗯，對於那些喜歡酒吧測驗（又稱酒吧問答）的人來說，這是一個很好的問題。 1977 年的 Voyagers 除了這些金唱片之外還保持著一些令人印象深刻的記錄，但不是那個。有什麼猜測嗎？]]></description>
+      <description><![CDATA[它絕不是外星人，但可能是地下電視維修技術人員 意見 最古老的功能性離地空間硬體？嗯，對於那些喜歡酒吧測驗（又稱酒吧問答）的人來說，這是一個很好的問題。 1977 年的 Voyagers 除了這些金唱片之外還保持著一些令人印象深刻的記錄，但不是那個。有什麼猜測嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/amsat_oscar_7_anniversary/</guid>
       <pubDate>Mon, 25 Nov 2024 09:29:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[將內容傳播到其他地方- 也可能會加入一些人工智慧，因為為什麼不呢 微軟已悄悄透露，它正在將一個致力於軟體許可資訊和教育的網站進行分類，目前將其宣傳為「一個完整的軟體授權資訊和教育網站」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/microsoft_licensing_info_site_retirement/</guid>
       <pubDate>Mon, 25 Nov 2024 08:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>網路工程師選擇在資料中心地板上度過一夜的羞辱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/25/who_me/</link>
-      <description><![CDATA[為了避免鎖定，記住鑰匙會有所幫助 誰，我？ /em&gt; 讀者知道的是，當我們發布讀者提交的技術支援故事時，他們打著「誰，我？」的旗號… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/25/who_me/</guid>
-      <pubDate>Mon, 25 Nov 2024 07:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
