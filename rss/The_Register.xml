@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 27 Nov 2024 19:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 19:35:20 GMT</lastBuildDate>
+    <item>
+      <title>儘管資料中心面臨人工智慧電力緊縮，但投資者仍無法停止投資</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/investor_datacenter_energy_concern/</link>
+      <description><![CDATA[即使98% 的人表示他們擔心能源可用性和可靠性 投資者越來越擔心資料中心電力的可用性和可靠性，但大多數人仍然相信該行業的投資將會擴大在人工智慧和雲端服務需求的推動下，未來幾年......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/investor_datacenter_energy_concern/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>資料代理將 60 萬多個敏感檔案暴露在網路上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/600k_sensitive_files_exposed/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[投訴聲稱他非法侵入，給自己折扣，並安排了閉路電視訪問...... 一名堪薩斯城男子被指控無視基本的操作安全，週五首次出庭，指控一系列指控網路犯罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/kansas_city_cybercrime_charges/</guid>
       <pubDate>Tue, 26 Nov 2024 20:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 對連接到 eSCL 裝置的硬體暫停 Windows 11 更新</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/microsoft_escl_issue/</link>
-      <description><![CDATA[掃描器、印表機和…傳真機？  Microsoft 已確認 Windows 11 24H2 與支援掃描器通訊語言 (eSCL) 協定的 USB 連接裝置有問題。已保留硬體應用相容性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/microsoft_escl_issue/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:07:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
