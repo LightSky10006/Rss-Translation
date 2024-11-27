@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 27 Nov 2024 02:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 04:42:48 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 破壞了其日誌服務服務，導致客戶資料遺失</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</link>
+      <description><![CDATA[軟體故障需要五分鐘才能回滾。它造成的混亂需要幾個小時才能清理 Cloudflare 承認，它透過錯誤的軟體更新破壞了自己的日誌即服務服務，並因此導致客戶資料遺失。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</guid>
+      <pubDate>Wed, 27 Nov 2024 04:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Google將以新海底電纜包裹聖誕島</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/bosun_cable_darwin_christmas_island/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 27 Nov 2024 01:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>川普關稅對墨西哥和加拿大的威脅比中國更大</title>
+      <title>川普的關稅對墨西哥和加拿大的威脅比中國更大</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trump_tariffs_mexico_canada/</link>
       <description><![CDATA[由於芬太尼和移民問題，美國的鄰國現在面臨25% 的關稅，而中國在現有關稅的基礎上僅面臨10% 當選總統唐納德·特朗普的關稅威脅已通過兩則社交媒體聲明正式化：雖然不像競選時承諾的那麼陡峭，但仍然有可能使與美國三個最大貿易夥伴的關係複雜化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trump_tariffs_mexico_canada/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 26 Nov 2024 22:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>男子因涉嫌網路犯罪狂潮而被指控極其糟糕的營運安全</title>
+      <title>一名男子被指控實施極度糟糕的營運安全措施，涉嫌網路犯罪狂潮的細節</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/kansas_city_cybercrime_charges/</link>
       <description><![CDATA[投訴聲稱他非法侵入，給自己折扣，並安排了閉路電視訪問...... 一名堪薩斯城男子被指控無視基本的操作安全，週五首次出庭，指控一系列指控網路犯罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/kansas_city_cybercrime_charges/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>英國醫院又發生「重大網路事件」 門診病人被要求遠離</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</link>
-      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 一家英國醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
+      <description><![CDATA[NHS 部門的 IT 系統今年第三次受到攻擊 英國一家醫院宣布發生“重大事件”，由於“網路安全原因”取消了所有門診預約。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/third_major_cyber_incident_declared/</guid>
       <pubDate>Tue, 26 Nov 2024 11:36:39 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「全球調度乙太網路」看起來很像超乙太網路聯盟也在研究的技術 中國科技巨頭上周宣布推出晶片，為一項名為「全球調度乙太網路」的技術提供支持，該技術旨在提供一個適合人工智能和其他要求苛刻的工作負載需求的網路協議版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/global_scheduling_ethernet_china_uec/</guid>
       <pubDate>Tue, 26 Nov 2024 04:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deno 要求 USPTO 廢除 Oracle 的「JavaScript」商標</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/cancel_oracles_javascript_trademark_deno/</link>
-      <description><![CDATA[請願書聲稱資料庫巨頭透過欺詐性聲明維持了自己的品牌 Deno Land 是JavaScript、TypeScript 和WebAssembly 的Deno 運行時的製造商，已向美國專利商標局提交了請願書( USPTO）取消 Oracle 的 JavaScript 商標。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/cancel_oracles_javascript_trademark_deno/</guid>
-      <pubDate>Tue, 26 Nov 2024 02:57:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
