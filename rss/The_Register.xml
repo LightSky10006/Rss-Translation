@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 27 Nov 2024 07:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 08:45:08 GMT</lastBuildDate>
+    <item>
+      <title>工作場所已成為監視狀態</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/workplace_surveillance/</link>
+      <description><![CDATA[Cracked Labs 報告探討了使用運動感測器和無線網路套件來監控辦公室 辦公大樓已經變得像網路瀏覽器 - 它們充滿了追蹤技術，這一趨勢記錄在報告中Cracked Labs一週... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/workplace_surveillance/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:31:08 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 仍然不知道 Falcon 熄火會花多少錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[微軟、甲骨文和IBM都在這麼做。 Andy Jassy 的伺服器租賃店可能覺得自己白白浪費了錢 Amazon Web Services 推出了符合 Broadcom 授權方案的 VMware 即服務產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/amazon_elastic_vmware_service_preview/</guid>
       <pubDate>Tue, 26 Nov 2024 08:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 對歐洲監管機構的用戶資料過於不透明</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/bluesky_eu_regulation/</link>
-      <description><![CDATA[X 競爭對手也因未能指定法定代表人而受到批評 已更新  Bluesky 社交網絡尚未大到足以被視為“超大型在線平台”，須遵守特殊規定歐洲數位服務法案 (DSA) 規定的義務 - 但它在遵守法律方面已經遇到了麻煩。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/bluesky_eu_regulation/</guid>
-      <pubDate>Tue, 26 Nov 2024 07:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
