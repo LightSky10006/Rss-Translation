@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 19:10:50 GMT</lastBuildDate>
     <item>
       <title>資料代理將 60 萬多個敏感檔案暴露在網路上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/600k_sensitive_files_exposed/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Starlink 獲得 FCC 太空通話許可，但無法撥出全功率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</link>
-      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管聯邦通信委員會(FCC) 已向Starlink 授予直接到小區衛星電話服務的有條件授權，但仍推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
+      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管授予 Starlink 直接到小區衛星電話服務的有條件授權，但聯邦通信委員會 (FCC) 推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</guid>
       <pubDate>Wed, 27 Nov 2024 16:30:11 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>微軟反擊稱其竊取你的Word、Excel檔案來訓練人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</link>
-      <description><![CDATA[365 應用程式中的互聯體驗設定混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
+      <description><![CDATA[365 應用程式中互聯體驗設定的混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</guid>
       <pubDate>Wed, 27 Nov 2024 14:34:15 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>瑞典當局調查 Oracle Cerner 健康記錄的推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</link>
-      <description><![CDATA[耗資1.9 億美元的專案在報告失敗後接受審查 在西約塔蘭地區(VGR) 耗資1.9 億美元的專案部署遇到重大問題後，Oracle 的電子健康記錄系統正受到多個瑞典當局的審查。]]></description>
+      <description><![CDATA[耗資1.9 億美元的專案在報告失敗後接受審查 Oracle 的電子健康記錄系統在西約塔蘭地區(VGR) 耗資1.9 億美元的部署遇到重大問題後，正受到多位瑞典當局的審查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</guid>
       <pubDate>Wed, 27 Nov 2024 10:38:12 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>CrowdStrike 仍然不知道 Falcon 熄火會花多少錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</link>
-      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所帶來的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
+      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所造成的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</guid>
       <pubDate>Wed, 27 Nov 2024 07:27:13 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 27 Nov 2024 05:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 破壞了其記錄服務，導致客戶資料遺失</title>
+      <title>Cloudflare 破壞了其日誌服務服務，導致客戶資料遺失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</link>
       <description><![CDATA[軟體故障需要五分鐘才能回滾。它造成的混亂需要幾個小時才能清理 Cloudflare 承認，它透過錯誤的軟體更新破壞了自己的日誌即服務服務，並因此導致客戶資料遺失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</guid>
@@ -118,16 +118,16 @@
       <pubDate>Wed, 27 Nov 2024 01:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>川普關稅對墨西哥和加拿大的威脅比中國更大</title>
+      <title>川普的關稅對墨西哥和加拿大的威脅比中國更大</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trump_tariffs_mexico_canada/</link>
       <description><![CDATA[由於芬太尼和移民問題，美國的鄰國現在面臨25% 的關稅，而中國在現有關稅的基礎上僅面臨10% 當選總統唐納德·特朗普的關稅威脅已通過兩則社交媒體聲明正式化：雖然不像競選時承諾的那麼陡峭，但仍然有可能使與美國三個最大貿易夥伴的關係複雜化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trump_tariffs_mexico_canada/</guid>
       <pubDate>Tue, 26 Nov 2024 23:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 10 的告別之旅——而非 AI PC——將在 2025 年推動筆記型電腦銷量</title>
+      <title>Windows 10 的告別之旅（而非 AI PC）將在 2025 年推動筆記型電腦銷售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/</link>
-      <description><![CDATA[TrendForce 表示，目前人工智慧整合筆記型電腦對整體市場的影響仍然有限 預計 2025 年全球筆記型電腦市場將成長 4.9%，但商業升級週期和即將到來的 Windows 10 終結推動這一趨勢的因素是生活的一部分，而不是對具有人工智慧功能的個人電腦的需求。]]></description>
+      <description><![CDATA[TrendForce 表示，目前人工智慧整合筆記型電腦對整體市場的影響仍然有限 預計 2025 年全球筆記型電腦市場將成長 4.9%，但商業升級週期和即將到來的 Windows 10 終結推動這一趨勢的是生活的改變，而不是對具有人工智慧功能的個人電腦的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/trendforce_laptop_sales_2025/</guid>
       <pubDate>Tue, 26 Nov 2024 22:03:09 GMT</pubDate>
     </item>
