@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:38:52 GMT</lastBuildDate>
+    <item>
+      <title>野外發現：世界上第一個適用於 Linux 的不可殺死的 UEFI bootkit</title>
+      <link>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</link>
+      <description><![CDATA[「Bootkitty」可能是一個概念驗證，但可能預示著適用於 Linux 的 UEFI 惡意軟體。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>教導無人機在沒有垂直方向舵的情況下飛行</title>
+      <link>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</link>
+      <description><![CDATA[我們可以讓無人機像鴿子一樣飛行，但我們需要使用羽毛來做到這一點。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>FCC 批准蜂窩電話服務星鏈計劃，但有一些限制</title>
       <link>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[網路服務供應商告訴聯邦通訊委員會，受到虐待的用戶會轉向他們的許多其他選擇之一。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</guid>
       <pubDate>Tue, 26 Nov 2024 20:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>舔這個「棒棒糖」讓你嚐到虛擬味道</title>
-      <link>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</link>
-      <description><![CDATA[它生產九種口味：糖、鹽、檸檬酸、櫻桃、百香果、綠茶、牛奶、榴槤和柚子。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atari 7800+ 是對被遺忘的遊戲時代的簡單一瞥</title>
-      <link>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</link>
-      <description><![CDATA[笨拙的控制和缺乏功能使得這款設備只適合雅達利完美主義者。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:34:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
