@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 27 Nov 2024 13:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 13:43:14 GMT</lastBuildDate>
+    <item>
+      <title>蘇博士領導下的十年：AMD 如何從廉價的英特爾替代品轉變為 x86 競爭者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/10_years_su_amd/</link>
+      <description><![CDATA[從後 Athlon 64 的默默無聞到晶片市場的中堅力量 十年前，x86 處理器市場的競爭遠不如現在。 AMD 確實不是當今處理器市場的主力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/10_years_su_amd/</guid>
+      <pubDate>Wed, 27 Nov 2024 13:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 運算模組 5 提高功率和熱量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[即將離任的政府在就職日之前急於分配資金 英特爾已與美國商務部達成協議，將通過《CHIPS 和科學法案》獲得高達78.6 億美元的撥款，這些資金已投入使用自選舉以來的問題......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/intel_chips_act_funding/</guid>
       <pubDate>Tue, 26 Nov 2024 13:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌必須在英國面臨價值 70 億英鎊的針對搜尋引擎主導地位的集體訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/26/google_7_billion_cat/</link>
-      <description><![CDATA[廣告投放者被指控濫用地位，導致消費者支付更高的價格 Google 必須在英國面臨一項70 億英鎊（88 億美元）的索賠，指控其濫用其搜尋引擎主導地位，法庭已裁決。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/26/google_7_billion_cat/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
