@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 11:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 13:02:07 GMT</lastBuildDate>
+    <item>
+      <title>NHS重大「網路事件」迫使醫院使用筆和紙</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/wirral_nhs_cyber_incident/</link>
+      <description><![CDATA[系統被隔離並離線，同時預定的程序被取消 據一家機構稱，影響英格蘭西北部 NHS 小組的持續網絡安全事件迫使網站不得不依靠筆和紙進行操作。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/wirral_nhs_cyber_incident/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>摘要：理論計算資格正在讓青少年失去興趣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/bcs_computer_science_gcse/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[該公司正在利用其資料庫做正確的事情 Foursquare Labs 將關閉其場地查找應用程序，而不是手機遊戲 - 但它正在開源其構建的全球資料庫。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/foursquare_to_close/</guid>
       <pubDate>Wed, 27 Nov 2024 11:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞典當局調查 Oracle Cerner 健康記錄的推出</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</link>
-      <description><![CDATA[耗資1.9 億美元的專案在報告失敗後接受審查 Oracle 的電子健康記錄系統在西約塔蘭地區(VGR) 耗資1.9 億美元的部署遇到重大問題後，正受到多位瑞典當局的審查。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</guid>
-      <pubDate>Wed, 27 Nov 2024 10:38:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
