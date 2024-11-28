@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 14:40:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 15:39:34 GMT</lastBuildDate>
+    <item>
+      <title>谷歌提供數百萬美元與貿易機構結盟對抗微軟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/google_offered_millions_to_cispe/</link>
+      <description><![CDATA[El Reg 看到了向CISPE 成員提交的演示文稿，消息人士稱其目的是為了讓有關許可的訴訟繼續下去 獨家  Google Cloud 懸而未決的是價值數億歐元的財務根據《The Register》看到的機密文件，微軟有動機與歐洲雲端提供者協會結盟，該協會曾對微軟提出投訴。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/google_offered_millions_to_cispe/</guid>
+      <pubDate>Thu, 28 Nov 2024 15:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>人工智慧的野心正在將銅推向極限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/ai_copper_cables_limits/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>「JPL 最好的工作」：成為 Voyager 專案的工程師是什麼感覺</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</link>
-      <description><![CDATA[&#39;我喜歡這份工作。我喜歡我正在做的事情。太酷了” 功能  Voyager 探測器已進入新的操作階段。正如最近發生的事件所表明的那樣，隨著任務即將結束，保持這艘古老的太空船的運作具有挑戰性。]]></description>
+      <description><![CDATA[&#39;我喜歡這份工作。我喜歡我正在做的事情。太酷了” 功能  Voyager 探測器已進入新的操作階段。正如最近發生的事件所表明的那樣，隨著任務即將結束，保持這艘古老的太空船的運作是一項挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</guid>
       <pubDate>Thu, 28 Nov 2024 09:30:07 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>T-Mobile US 在停止網路攻擊後邁出了勝利的一步：“其他提供者可能會看到不同的結果”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</link>
-      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-據美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 稱，美國移動公司的系統在過去幾週內多次受到攻擊。 ...]]></description>
+      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 表示，過去幾週，美國移動公司係統多次遭到攻擊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</guid>
       <pubDate>Wed, 27 Nov 2024 20:59:13 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Starlink 獲得 FCC 太空通話許可，但無法撥出全功率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</link>
-      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管授予 Starlink 直接到小區衛星電話服務的有條件授權，但聯邦通信委員會 (FCC) 推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
+      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管聯邦通信委員會(FCC) 已向Starlink 授予直接到小區衛星電話服務的有條件授權，但仍推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</guid>
       <pubDate>Wed, 27 Nov 2024 16:30:11 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟反擊稱其竊取你的Word、Excel檔案來訓練人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</link>
-      <description><![CDATA[365 應用程式中互聯體驗設定的混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
+      <description><![CDATA[365 應用程式中的互聯體驗設定混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</guid>
       <pubDate>Wed, 27 Nov 2024 14:34:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[從後 Athlon 64 的默默無聞到晶片市場的中堅力量 十年前，x86 處理器市場的競爭遠不如現在。 AMD 確實不是當今處理器市場的主力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/10_years_su_amd/</guid>
       <pubDate>Wed, 27 Nov 2024 13:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 運算模組 5 提高功率和熱量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/</link>
-      <description><![CDATA[相同的外形尺寸，更高的工業性能 這家Raspberry Pi 製造商推出了更新的計算模組5，為忙碌的幾週劃上了圓滿的句號- 它具有相同的外型尺寸，但功能比上一代......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/</guid>
-      <pubDate>Wed, 27 Nov 2024 12:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
