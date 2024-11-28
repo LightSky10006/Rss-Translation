@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 02:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 03:51:23 GMT</lastBuildDate>
     <item>
       <title>不，Broadcom 不僅僅終止了 VMware 的旗艦 VCDX 認證計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/broadcom_vmware_vcdx_snafu/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>印度斥資 1.7 億美元重建三個遺留系統，實現稅務系統無紙化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/india_pan_2_project/</link>
-      <description><![CDATA[讓我們看看事情進展如何 印度決定重建用於處理稅務事務的平台並使其係統實現無紙化。 #include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[讓我們看看事情進展如何 印度決定重建用於處理稅務事務的平台並使其係統無紙化。 include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/india_pan_2_project/</guid>
       <pubDate>Thu, 28 Nov 2024 01:24:09 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>T-Mobile US 在停止網路攻擊後邁出了勝利的一步：“其他提供者可能會看到不同的結果”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</link>
-      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-據美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 稱，美國移動公司的系統在過去幾週內多次受到攻擊。 ...]]></description>
+      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 表示，過去幾週，美國移動公司係統多次遭到攻擊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</guid>
       <pubDate>Wed, 27 Nov 2024 20:59:13 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>Starlink 獲得 FCC 太空通話許可，但無法撥出全功率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</link>
-      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管授予 Starlink 直接到小區衛星電話服務的有條件授權，但聯邦通信委員會 (FCC) 推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
+      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管聯邦通信委員會(FCC) 已向Starlink 授予直接到小區衛星電話服務的有條件授權，但仍推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</guid>
       <pubDate>Wed, 27 Nov 2024 16:30:11 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>微軟反擊稱其竊取你的Word、Excel檔案來訓練人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</link>
-      <description><![CDATA[365 應用程式中互聯體驗設定的混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
+      <description><![CDATA[365 應用程式中的互聯體驗設定混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</guid>
       <pubDate>Wed, 27 Nov 2024 14:34:15 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>瑞典當局調查 Oracle Cerner 健康記錄的推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</link>
-      <description><![CDATA[耗資1.9 億美元的專案在報告失敗後接受審查 Oracle 的電子健康記錄系統在西約塔蘭地區(VGR) 耗資1.9 億美元的部署遇到重大問題後，正受到多位瑞典當局的審查。]]></description>
+      <description><![CDATA[耗資1.9 億美元的專案在報告失敗後接受審查 在西約塔蘭地區(VGR) 耗資1.9 億美元的專案部署遇到重大問題後，Oracle 的電子健康記錄系統正受到多個瑞典當局的審查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/oracle_cerner_project/</guid>
       <pubDate>Wed, 27 Nov 2024 10:38:12 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>CrowdStrike 仍然不知道 Falcon 熄火會花多少錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</link>
-      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所造成的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
+      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所帶來的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</guid>
       <pubDate>Wed, 27 Nov 2024 07:27:13 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Wed, 27 Nov 2024 05:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 破壞了其日誌服務服務，導致客戶資料遺失</title>
+      <title>Cloudflare 破壞了其記錄服務，導致客戶資料遺失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</link>
       <description><![CDATA[軟體故障需要五分鐘才能回滾。它造成的混亂需要幾個小時才能清理 Cloudflare 承認，它透過錯誤的軟體更新破壞了自己的日誌即服務服務，並因此導致客戶資料遺失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</guid>
