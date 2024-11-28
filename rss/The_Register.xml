@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 04:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 04:43:19 GMT</lastBuildDate>
+    <item>
+      <title>在嚴重錯失人工智慧熱潮後，三星對高層進行了洗牌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/samsung_electronics_new_leadership/</link>
+      <description><![CDATA[隨著財閥尋求進入HBM 天堂，內存和代工業務迎來了新的領導者 生成式AI 創造了內存銷售和半導體產量的千載難逢的激增- 三星電子已成功做到這一點失誤，導致周三宣布任命新的內存和代工業務高級領導層。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/samsung_electronics_new_leadership/</guid>
+      <pubDate>Thu, 28 Nov 2024 04:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>不，Broadcom 不僅僅終止了 VMware 的旗艦 VCDX 認證計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/broadcom_vmware_vcdx_snafu/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[軟體故障需要五分鐘才能回滾。它造成的混亂需要幾個小時才能清理 Cloudflare 承認，它透過錯誤的軟體更新破壞了自己的日誌即服務服務，並因此導致客戶資料遺失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</guid>
       <pubDate>Wed, 27 Nov 2024 04:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google將以新海底電纜包裹聖誕島</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/bosun_cable_darwin_christmas_island/</link>
-      <description><![CDATA[連接將把偏遠地區與北澳大利亞的達爾文連接起來 Google 資助的海底電纜將把澳大利亞聖誕島領土與大陸上的達爾文連接起來。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/bosun_cable_darwin_christmas_island/</guid>
-      <pubDate>Wed, 27 Nov 2024 02:39:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
