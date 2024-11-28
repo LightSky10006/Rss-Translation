@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 03:51:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 04:16:19 GMT</lastBuildDate>
     <item>
       <title>不，Broadcom 不僅僅終止了 VMware 的旗艦 VCDX 認證計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/broadcom_vmware_vcdx_snafu/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>印度斥資 1.7 億美元重建三個遺留系統，實現稅務系統無紙化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/india_pan_2_project/</link>
-      <description><![CDATA[讓我們看看事情進展如何 印度決定重建用於處理稅務事務的平台並使其係統無紙化。 include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[讓我們看看事情進展如何 印度決定重建用於處理稅務事務的平台並使其係統實現無紙化。 #include virtual= &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/india_pan_2_project/</guid>
       <pubDate>Thu, 28 Nov 2024 01:24:09 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>微軟反擊稱其竊取你的Word、Excel檔案來訓練人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</link>
-      <description><![CDATA[365 應用程式中的互聯體驗設定混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
+      <description><![CDATA[365 應用程式中互聯體驗設定的混亂引發擔憂 已更新 微軟生產力套件中的互聯體驗選項一直引起恐慌，有人指責預設設定可能允許微軟使用客戶的Word 和Excel 文件以及其他資料訓練AI 模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/microsoft_word_excel_ai/</guid>
       <pubDate>Wed, 27 Nov 2024 14:34:15 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Raspberry Pi 運算模組 5 提高功率和熱量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/</link>
-      <description><![CDATA[相同的外形尺寸，更高的工業性能 這家Raspberry Pi 製造商推出了更新的計算模組5，為忙碌的幾週劃上了圓滿的句號- 它具有相同的外型尺寸，但功能比上一代......]]></description>
+      <description><![CDATA[相同的外形尺寸，更高的工業性能 這家Raspberry Pi 製造商推出了更新的計算模組5，為忙碌的幾週畫上了圓滿的句號- 它具有相同的外型尺寸，但功能比上一代......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/raspberry_pi_compute_module_5/</guid>
       <pubDate>Wed, 27 Nov 2024 12:27:11 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>英國金融監管機構因技術轉型失敗而受到猛烈抨擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/fca_transformation_program/</link>
-      <description><![CDATA[議員們發現，改革FCA 的努力中，軟體專案品質不佳 英國政界人士抨擊該國金融監管機構未能實施以技術為基礎的轉型計劃。 p&gt;]]></description>
+      <description><![CDATA[議員發現，改革FCA 的努力中，軟體專案品質不佳 英國政界人士抨擊該國金融監管機構未能實施以技術為基礎的轉型計劃。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/fca_transformation_program/</guid>
       <pubDate>Wed, 27 Nov 2024 09:34:11 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>CrowdStrike 仍然不知道 Falcon 熄火會花多少錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</link>
-      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所帶來的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
+      <description><![CDATA[認為在收入創紀錄後客戶可能會原諒它 CrowdStrike 尚無法自信地預測去年 7 月 Falcon 軟體更新失敗導致全球數百萬台電腦崩潰所造成的財務影響，但有信心其第三季業績顯示客戶找不到更好的安全產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/crowdstrike_q3_2025/</guid>
       <pubDate>Wed, 27 Nov 2024 07:27:13 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Wed, 27 Nov 2024 05:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Cloudflare 破壞了其記錄服務，導致客戶資料遺失</title>
+      <title>Cloudflare 破壞了其日誌服務服務，導致客戶資料遺失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</link>
       <description><![CDATA[軟體故障需要五分鐘才能回滾。它造成的混亂需要幾個小時才能清理 Cloudflare 承認，它透過錯誤的軟體更新破壞了自己的日誌即服務服務，並因此導致客戶資料遺失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/cloudflare_logs_data_loss_incident/</guid>
