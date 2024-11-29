@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 29 Nov 2024 14:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 16:16:39 GMT</lastBuildDate>
+    <item>
+      <title>Arch Linux 安裝程式現在不再那麼受虐了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/arch_linux_licensing_installer/</link>
+      <description><![CDATA[「順便說一句，我使用Arch」跑道潤滑，加上有關軟體包許可的澄清 Arch Linux 安裝程式的第3 版已發布，改進了可用性並對其許可進行了澄清。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/arch_linux_licensing_installer/</guid>
+      <pubDate>Fri, 29 Nov 2024 16:01:05 GMT</pubDate>
+    </item>
     <item>
       <title>陰天可能會產生 GPU 帳單：AI 的能源需求讓 CIO 們捏了一把汗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/public_cloud_ai_alternatives/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>中國研究人員找到了使用鑽石作為超密耐用儲存媒體的方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</link>
-      <description><![CDATA[戴在愛人的手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的 1.85 TB 存儲密度每立方厘米通過在鑽石中編碼信息......]]></description>
+      <description><![CDATA[戴在心愛的人手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的1.85 TB 存儲密度每立方厘米透過在鑽石中編碼訊息......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</guid>
       <pubDate>Fri, 29 Nov 2024 08:29:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>谷歌提供數百萬美元與貿易機構結盟對抗微軟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/google_offered_millions_to_cispe/</link>
-      <description><![CDATA[El Reg 看到了向CISPE 成員提交的演示文稿，消息人士稱其目的是為了讓有關許可的訴訟繼續下去 獨家 Google Cloud 懸而未決的是價值數億歐元的財務根據《The Register》看到的機密文件，微軟有動機與歐洲雲端提供者協會結盟，該協會曾對微軟提出投訴。]]></description>
+      <description><![CDATA[El Reg 看到了向CISPE 成員提交的演示文稿，消息人士稱其目的是為了讓有關許可的訴訟繼續下去 獨家  Google Cloud 懸而未決的是價值數億歐元的財務根據《The Register》看到的機密文件，微軟有動機與歐洲雲端提供者協會結盟，該協會曾對微軟提出投訴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/google_offered_millions_to_cispe/</guid>
       <pubDate>Thu, 28 Nov 2024 15:29:09 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>「JPL 最好的工作」：成為 Voyager 專案的工程師是什麼感覺</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</link>
-      <description><![CDATA[&#39;我喜歡這份工作。我喜歡我正在做的事情。太酷了” 功能  Voyager 探測器已進入新的操作階段。正如最近發生的事件所表明的那樣，隨著任務即將結束，保持這艘古老的太空船的運作具有挑戰性。]]></description>
+      <description><![CDATA[&#39;我喜歡這份工作。我喜歡我正在做的事情。太酷了” 功能  Voyager 探測器已進入新的操作階段。正如最近發生的事件所表明的那樣，隨著任務即將結束，保持這艘古老的太空船的運作是一項挑戰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</guid>
       <pubDate>Thu, 28 Nov 2024 09:30:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[“法庭見”，被告發布 Google上週對一名印度半導體工程師提起訴訟，指控其在網上發布與其Google Pixel 晶片設計相關的商業機密。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/google_trade_secret_suit/</guid>
       <pubDate>Thu, 28 Nov 2024 08:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>唯一比被解僱更糟糕的是騙子欺騙你，讓你以為你被解雇了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/fired_phishing_campaign_cloudflare/</link>
-      <description><![CDATA[騙子在引用英國就業法庭的網路釣魚活動中利用了受害者最擔心的事情 當前的網路釣魚活動嚇唬收件人，讓他們相信自己已被解僱，而實際上他們已被駭客攻擊並感染了資訊竊取者和其他惡意軟體，這意味著騙子背後的騙子發了財。 .html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/fired_phishing_campaign_cloudflare/</guid>
-      <pubDate>Thu, 28 Nov 2024 07:31:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
