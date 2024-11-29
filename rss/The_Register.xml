@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 28 Nov 2024 18:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 01:02:24 GMT</lastBuildDate>
+    <item>
+      <title>澳洲通過法律禁止 16 歲以下青少年遠離社交媒體——祝你好運，夥計</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/australia_children_social_media_ban/</link>
+      <description><![CDATA[還介紹了監視調整，以保護非常成功的AN0M 假消息應用程序的欺騙 澳大利亞參議院週五通過了一項法律，要求一些社交媒體平台“採取合理措施”，以確保16 歲以下的人可以不要使用他們的服務，還有一個旨在保護使用虛假訊息應用程式抓獲犯罪分子的非常成功的誘捕行動。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/australia_children_social_media_ban/</guid>
+      <pubDate>Thu, 28 Nov 2024 23:58:05 GMT</pubDate>
+    </item>
     <item>
       <title>微軟修補了破壞Exchange Server的補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_fixes_broken_exchange_server/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管授予 Starlink 直接到小區衛星電話服務的有條件授權，但聯邦通信委員會 (FCC) 推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</guid>
       <pubDate>Wed, 27 Nov 2024 16:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>專家表示，首款適用於 Linux 的 UEFI bootkit 正在開發中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/firstever_uefi_bootkit_for_linux/</link>
-      <description><![CDATA[Bootkitty 還沒有咬人… 安全研究人員表示，他們偶然發現了第一個針對Linux 的UEFI bootkit，這說明了此類工具發展的關鍵時刻。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/firstever_uefi_bootkit_for_linux/</guid>
-      <pubDate>Wed, 27 Nov 2024 15:32:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
