@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 29 Nov 2024 01:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 02:44:53 GMT</lastBuildDate>
+    <item>
+      <title>谷歌一天之內就受到兩國新的競爭審查</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/india_canada_google_competition_action/</link>
+      <description><![CDATA[印度對某些遊戲的處理方式不滿意，加拿大對廣告軟體壟斷感到不安 週四，谷歌發現自己面臨著來自世界上兩個最大國家的競爭調查。  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/india_canada_google_competition_action/</guid>
+      <pubDate>Fri, 29 Nov 2024 02:29:06 GMT</pubDate>
+    </item>
     <item>
       <title>澳洲通過法律禁止 16 歲以下青少年遠離社交媒體——祝你好運，夥計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/australia_children_social_media_ban/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>中國開始建造世界上最大的全操縱電波望遠鏡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/jilin_120_meter_radio_telescope/</link>
-      <description><![CDATA[120公尺巨型電波望遠鏡預計在2028年上線－大約在同一時間，平方公里陣列 中國正在建造一座直徑為120公尺的射電望遠鏡，一旦建成，將成為世界上最大的電波望遠鏡據中國科學院 (CAS) 稱，這是同類中最大的完全可操縱裝置。]]></description>
+      <description><![CDATA[120公尺巨型電波望遠鏡預計在2028年上線－大約在同一時間，平方公里陣列 中國正在建造一座直徑120公尺的電波望遠鏡，一旦建成，將成為世界上最大的電波望遠鏡據中國科學院 (CAS) 稱，這是同類中最大的完全可操縱裝置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/jilin_120_meter_radio_telescope/</guid>
       <pubDate>Thu, 28 Nov 2024 06:26:09 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>T-Mobile US 在停止網路攻擊後邁出了勝利的一步：“其他提供者可能會看到不同的結果”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</link>
-      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-據美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 稱，美國移動公司的系統在過去幾週內多次受到攻擊。 ...]]></description>
+      <description><![CDATA[有趣的是，在IT 安全方面投入更多精力和資源會產生什麼結果 攻擊者（可能是中國的「鹽颱風」網路間諜人員）破壞了一家未透露姓名的有線電視提供商的網絡，並利用此訪問權限試圖闖入T-美國移動公司首席安全官傑夫·西蒙 (Jeff Simon) 表示，過去幾週，美國移動公司係統多次遭到攻擊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/tmobile_cyberattack_victory_lap/</guid>
       <pubDate>Wed, 27 Nov 2024 20:59:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員在犯罪分子麵前發現了開放資料庫…我們希望 獨家 超過600,000 個敏感文件，其中包含數千人的犯罪歷史、背景調查、車輛和財產記錄，這些文件被暴露給了犯罪分子據安全研究人員稱，互聯網位於數據經紀公司SL Data Services 的非密碼保護數據庫中。 virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/600k_sensitive_files_exposed/</guid>
       <pubDate>Wed, 27 Nov 2024 18:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink 獲得 FCC 太空通話許可，但無法撥出全功率</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</link>
-      <description><![CDATA[授權的條件是操作不會造成有害幹擾 儘管授予 Starlink 直接到小區衛星電話服務的有條件授權，但聯邦通信委員會 (FCC) 推遲了在信號下運行的請求超出允許範圍的優勢。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/27/starlink_fcc_direct_to_cell/</guid>
-      <pubDate>Wed, 27 Nov 2024 16:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
