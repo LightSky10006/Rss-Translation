@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 29 Nov 2024 10:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 13:01:29 GMT</lastBuildDate>
+    <item>
+      <title>勒索團夥聲稱襲擊了 NHS 奧爾德海兒童醫院</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/inc_ransom_alder_hey_childrens_hospital/</link>
+      <description><![CDATA[英國NHS 組織系統本週第二次被指控入侵 英國的另一個國家醫療服務(NHS) 系統似乎受到攻擊，一個勒索軟體團夥威脅要洩露被盜的數據，據稱該系統正在遭受攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/inc_ransom_alder_hey_childrens_hospital/</guid>
+      <pubDate>Fri, 29 Nov 2024 12:24:46 GMT</pubDate>
+    </item>
     <item>
       <title>英國人正在遠離 X，對人工智慧不那麼感興趣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[調查顯然是全面的，但熱衷於人工智慧、安全和雲端的資訊 美國聯邦貿易委員會似乎已對微軟發起反壟斷調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_us_antitrust_probe_reports/</guid>
       <pubDate>Thu, 28 Nov 2024 05:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在嚴重錯失人工智慧熱潮後，三星對高層進行了洗牌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/samsung_electronics_new_leadership/</link>
-      <description><![CDATA[隨著財閥尋求進入HBM 天堂，內存和代工業務迎來了新的領導者 生成式AI 創造了內存銷售和半導體產量的千載難逢的激增- 三星電子已成功做到這一點失誤，導致周三宣布任命新的內存和代工業務高級領導層。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/samsung_electronics_new_leadership/</guid>
-      <pubDate>Thu, 28 Nov 2024 04:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
