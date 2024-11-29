@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 29 Nov 2024 18:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 20:14:37 GMT</lastBuildDate>
+    <item>
+      <title>KDE 和 GNOME 都提供官方發行版</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/kde_and_gnome_distros/</link>
+      <description><![CDATA[領先的Linux 桌面大膽地解決了「發行版不夠」的非問題 KDE 和GNOME 已經決定，因為它們還不夠大和複雜，如果它們有自己的發行版，它們可能會工作得更好下面的自訂發行版。可能發生的最壞的情況是什麼？ ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/kde_and_gnome_distros/</guid>
+      <pubDate>Fri, 29 Nov 2024 19:33:12 GMT</pubDate>
+    </item>
     <item>
       <title>Zabbix 在嚴重的 SQL 注入錯誤披露後敦促升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[BCS 呼籲將數位素養 GCSE 與電腦科學結合 英國 IT 勞動力專業機構呼籲在電腦科學的基礎上提供更具「包容性」的 16 歲數位素養資格，它表示“理論性強，要求高。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/bcs_computer_science_gcse/</guid>
       <pubDate>Thu, 28 Nov 2024 10:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>「JPL 最好的工作」：成為 Voyager 專案的工程師是什麼感覺</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</link>
-      <description><![CDATA[&#39;我喜歡這份工作。我喜歡我正在做的事情。太酷了” 功能  Voyager 探測器已進入新的操作階段。正如最近發生的事件所表明的那樣，隨著任務即將結束，保持這艘古老的太空船的運作具有挑戰性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/voyager_engineer_feature/</guid>
-      <pubDate>Thu, 28 Nov 2024 09:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
