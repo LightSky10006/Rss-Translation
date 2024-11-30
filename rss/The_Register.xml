@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 29 Nov 2024 21:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 09:35:55 GMT</lastBuildDate>
+    <item>
+      <title>RansomHub 聲稱在對陣博洛尼亞足球俱樂部的比賽中上演了網路數據帽子戲法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/</link>
+      <description><![CDATA[騙子稱他們竊取了經理和球員的敏感文件 根據該組織的暗網帖子，意大利職業足球俱樂部博洛尼亞足球俱樂部據稱是RansomHub 網路犯罪團伙的最新受害者。 . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/</guid>
+      <pubDate>Sat, 30 Nov 2024 09:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 獵鷹 9 號火箭發射次數達 400 次</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/400_falcon_9_launches/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ayar Labs 認為矽光子學將是擴展到機架之外並抑制熱量的關鍵 SC24 多年來，資料中心一直趨向於更密集、更耗電的系統。如果你錯過了，19 吋機架現在在高密度配置中將功率需求推至超過 120 千瓦，許多機架改用直接液體冷卻來抑制熱量。 #include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/ai_copper_cables_limits/</guid>
       <pubDate>Thu, 28 Nov 2024 14:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHS重大「網路事件」迫使醫院使用筆和紙</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/wirral_nhs_cyber_incident/</link>
-      <description><![CDATA[系統被隔離並離線，同時預定程序被取消 影響英格蘭西北部 NHS 小組的持續網路安全事件迫使網站只能依靠紙筆操作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/wirral_nhs_cyber_incident/</guid>
-      <pubDate>Thu, 28 Nov 2024 12:31:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
