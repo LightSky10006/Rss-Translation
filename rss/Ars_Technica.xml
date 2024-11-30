@@ -4,7 +4,7 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 30 Nov 2024 01:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 02:22:56 GMT</lastBuildDate>
     <item>
       <title>網路上發現程式碼利用LogoFAIL安裝Bootkitty Linux後門</title>
       <link>https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/</link>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 28 Nov 2024 12:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>男子擠壓酸橙後遭受化學灼傷，持續數月</title>
+      <title>一名男子在擠壓酸橙後遭受化學燒傷，持續數月</title>
       <link>https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/</link>
       <description><![CDATA[這種毒素存在於比你想像的更多的食物中，包括胡蘿蔔、歐芹、酸橙和檸檬。]]></description>
       <guid>https://arstechnica.com/health/2024/11/man-suffers-chemical-burn-that-lasted-months-after-squeezing-limes/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>發現於 VirusTotal：世界上第一個適用於 Linux 的 UEFI bootkit</title>
       <link>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</link>
-      <description><![CDATA[「Bootkitty」可能是一個概念驗證，但可能預示著適用於 Linux 的 UEFI 惡意軟體。]]></description>
+      <description><![CDATA[「Bootkitty」可能是個概念驗證，但可能預示著適用於 Linux 的 UEFI 惡意軟體。]]></description>
       <guid>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</guid>
       <pubDate>Wed, 27 Nov 2024 19:21:05 GMT</pubDate>
     </item>
