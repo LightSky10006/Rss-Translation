@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 01 Dec 2024 10:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 20:37:27 GMT</lastBuildDate>
+    <item>
+      <title>國際刑警組織在全球打擊網路犯罪行動中逮捕數千人、數百萬人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/01/interpol_cybercrime_busting/</link>
+      <description><![CDATA[此外，腳本小子仍然是威脅，龍捲風現金又回來了，英國公司因可避免的攻擊而損失了數十億美元，等等 資訊安全簡介 國際刑警組織及其在金融領域的金融支持者韓國政府透過第五次「HAECHI 行動」進行了另一輪反網路犯罪逮捕，這一次逮捕了5,500 多名涉嫌詐騙的人，並沒收了數億美元的數字和法定貨幣。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/01/interpol_cybercrime_busting/</guid>
+      <pubDate>Sun, 01 Dec 2024 20:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>英國人認為工作場所中的人工智慧只是聊天，目前還沒有機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/01/uk_workplace_ai/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>英國人正在遠離 X，對人工智慧不那麼感興趣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</link>
-      <description><![CDATA[Ofcom 的Online Nation 報告深入研究了2024 年英國的互聯網習慣 英國埃隆·馬斯克(Elon Musk) 的X 社交媒體平台的使用率正在下降，成年英國人對生成式人工智慧工具並不特別感興趣。]]></description>
+      <description><![CDATA[Ofcom 的Online Nation 報告深入研究了2024 年英國的互聯網習慣 英國埃隆·馬斯克(Elon Musk) 的X 社交媒體平台的使用率正在下降，而成年英國人對生成式人工智慧工具並不特別感興趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</guid>
       <pubDate>Fri, 29 Nov 2024 10:39:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[還介紹了監視調整，以保護非常成功的AN0M 假消息應用程序的欺騙 澳大利亞參議院週五通過了一項法律，要求一些社交媒體平台“採取合理措施”，以確保16 歲以下的人可以不要使用他們的服務，還有一個旨在保護使用虛假訊息應用程式抓獲犯罪分子的非常成功的誘捕行動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/australia_children_social_media_ban/</guid>
       <pubDate>Thu, 28 Nov 2024 23:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟修補了破壞Exchange Server的補丁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_fixes_broken_exchange_server/</link>
-      <description><![CDATA[如果一開始沒有成功，您可能會加入 Microsoft Exchange 團隊 Microsoft 已恢復推出因傳輸規則損壞和電子郵件流中斷而暫停的 Exchange 安全性更新的推出...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_fixes_broken_exchange_server/</guid>
-      <pubDate>Thu, 28 Nov 2024 18:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
