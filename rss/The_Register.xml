@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 01 Dec 2024 08:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 08:41:43 GMT</lastBuildDate>
     <item>
       <title>川普領導下的加密貨幣政策：承諾很多，具體計畫很少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/cryptocurrency_policy_trump/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>NASA 的 X-59 飛機的目標是發出聲音重擊，而不是轟鳴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</link>
-      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的設施之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
+      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的工廠之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</guid>
       <pubDate>Sat, 30 Nov 2024 15:35:10 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 29 Nov 2024 19:33:12 GMT</pubDate>
     </item>
     <item>
-      <title>Zabbix 在嚴重的 SQL 注入錯誤披露後敦促升級</title>
+      <title>Zabbix 在關鍵 SQL 注入錯誤披露後敦促升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/</link>
       <description><![CDATA[今年早些時候，美國機構猛烈抨擊了「不可原諒的」SQLi 缺陷 開源企業網路和應用程式監控供應商Zabbix 警告客戶存在一個新的嚴重漏洞，該漏洞可能會導致整個系統受損。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>中國研究人員找到了使用鑽石作為超密耐用儲存媒體的方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</link>
-      <description><![CDATA[戴在愛人的手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的 1.85 TB 存儲密度每立方厘米通過在鑽石中編碼信息......]]></description>
+      <description><![CDATA[戴在心愛的人手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的1.85 TB 存儲密度每立方厘米透過在鑽石中編碼訊息......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</guid>
       <pubDate>Fri, 29 Nov 2024 08:29:06 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>微軟修補了破壞Exchange Server的補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_fixes_broken_exchange_server/</link>
-      <description><![CDATA[如果一開始沒有成功，您可能會加入 Microsoft Exchange 團隊 Microsoft 已恢復推出因傳輸規則損壞和電子郵件流中斷而暫停的 Exchange 安全性更新的推出...]]></description>
+      <description><![CDATA[如果一開始沒有成功，您可能是 Microsoft Exchange 團隊的一員 Microsoft 已恢復推出 Exchange 安全性更新，該更新因報告傳輸規則損壞和電子郵件流中斷而暫停。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/28/microsoft_fixes_broken_exchange_server/</guid>
       <pubDate>Thu, 28 Nov 2024 18:30:10 GMT</pubDate>
     </item>
