@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Dec 2024 02:49:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 04:16:52 GMT</lastBuildDate>
+    <item>
+      <title>開源路由器韌體專案 OpenWrt 推出了自己的完全可修復的硬體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</link>
+      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</guid>
+      <pubDate>Mon, 02 Dec 2024 03:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>中國發射首顆下一代長徵十二號火箭，命名為私人航太港</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>NASA 的 X-59 飛機的目標是發出聲音重擊，而不是轟鳴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</link>
-      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的設施之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
+      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的工廠之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</guid>
       <pubDate>Sat, 30 Nov 2024 15:35:10 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>中國研究人員找到了使用鑽石作為超密耐用儲存媒體的方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</link>
-      <description><![CDATA[戴在愛人的手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的 1.85 TB 存儲密度每立方厘米通過在鑽石中編碼信息......]]></description>
+      <description><![CDATA[戴在心愛的人手指上也比藍光光碟更好看 中國科學技術大學的研究人員本週發表了研究報告，其中詳細介紹了他們如何實現破紀錄的1.85 TB 存儲密度每立方厘米透過在鑽石中編碼訊息......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/chinese_boffins_find_way_to/</guid>
       <pubDate>Fri, 29 Nov 2024 08:29:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[松下幸之助的數位克隆，為新一代提供管理建議 日本跨國電子巨頭松下公司（成立於1918 年，當時名為松下電器家庭用品製造廠）為其已故創始人松下幸之助創建了人工智慧版本松下。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/panasonic_ai_founder/</guid>
       <pubDate>Fri, 29 Nov 2024 06:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾《CHIPS 法案》交易中的細則包括要求維持對其代工廠的控制</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/intel_chips_act_grant_foundry_conditions/</link>
-      <description><![CDATA[這將限制 Chipzilla 套現和紓困的能力 英特爾悄悄透露，美國 CHIPS 法案帶來的 78.6 億美元現金附帶條件，包括 Chipzilla 保留對它的代工廠——這家陷入困境的矽巨頭可能打算出售的資產。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/intel_chips_act_grant_foundry_conditions/</guid>
-      <pubDate>Fri, 29 Nov 2024 04:29:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
