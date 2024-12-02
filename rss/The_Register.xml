@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Dec 2024 09:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 09:40:02 GMT</lastBuildDate>
+    <item>
+      <title>電信安全就像一場垃圾箱火災，每個人都被燒傷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/telco_security_opinion/</link>
+      <description><![CDATA[網路安全政治太重要了，不能留給政客 觀點 以下是您現在看不到的頭版標題：中國間諜正在竊聽我們的資訊電話。並不是說它們不是——它們是——但是，就像環境一樣，媒體上有太多的網路安全恐怖，是的，它們當然是。還有？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/telco_security_opinion/</guid>
+      <pubDate>Mon, 02 Dec 2024 09:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>Broadcom 失去了另一個大客戶：英國金融科技雲端 Beeks Group 及其 20,000 台虛擬機器中的大部分</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>RansomHub 聲稱在對陣博洛尼亞足球俱樂部的比賽中上演了網路數據帽子戲法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/</link>
-      <description><![CDATA[騙子稱他們竊取了經理和球員的敏感文件 根據該組織的暗網帖子，意大利職業足球俱樂部博洛尼亞足球俱樂部據稱是RansomHub 網路犯罪團伙的最新受害者。 . ]]></description>
+      <description><![CDATA[騙子稱他們竊取了經理和球員的敏感文件 根據該組織的暗網帖子，意大利職業足球俱樂部博洛尼亞足球俱樂部據稱最近成為RansomHub 網路犯罪團伙的受害者。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/</guid>
       <pubDate>Sat, 30 Nov 2024 09:31:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[英國NHS 組織系統本週第二次被指控入侵 英國的另一個國家醫療服務(NHS) 系統似乎受到攻擊，一個勒索軟體團夥威脅要洩露被盜的數據，據稱該系統正在遭受攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/inc_ransom_alder_hey_childrens_hospital/</guid>
       <pubDate>Fri, 29 Nov 2024 12:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國人正在遠離 X，對人工智慧不那麼感興趣</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</link>
-      <description><![CDATA[Ofcom 的Online Nation 報告深入研究了2024 年英國的互聯網習慣 英國埃隆·馬斯克(Elon Musk) 的X 社交媒體平台的使用率正在下降，成年英國人對生成式人工智慧工具並不特別感興趣。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</guid>
-      <pubDate>Fri, 29 Nov 2024 10:39:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
