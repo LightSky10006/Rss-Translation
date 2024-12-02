@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Dec 2024 21:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 22:41:05 GMT</lastBuildDate>
     <item>
-      <title>超微報告發現“沒有不當行為的證據”</title>
+      <title>基辛格的雄心壯志對英特爾來說代價太大</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/intel_gelsinger_leave/</link>
+      <description><![CDATA[至少在他與15,000 名同事一起走向離職時會有陪伴 評論 帕特·基辛格(Pat Gelsinger) 卸任英特爾首席執行官，結束了他近四年的旅程重振陷入困境的晶片製造商......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/intel_gelsinger_leave/</guid>
+      <pubDate>Mon, 02 Dec 2024 22:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>哦，很好。 Supermicro 董事會調查澄清了伺服器吊手的不當行為指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/super_micro_no_misconduct/</link>
-      <description><![CDATA[但“鑑於近期的快速增長”，該公司正在尋找新的首席財務官 超微電腦表示，應服務器製造商董事會的要求，今年早些時候成立的一個獨立特別委員會沒有發現公司有任何證據不當行為或欺詐。]]></description>
+      <description><![CDATA[但“鑑於近期的快速增長”，正在尋找新的首席財務官 超微表示，應服務器製造商董事會的要求，今年早些時候成立的獨立特別委員會沒有發現任何公司不當行為或詐欺的證據...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/super_micro_no_misconduct/</guid>
       <pubDate>Mon, 02 Dec 2024 21:30:07 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>馬斯克尋求禁令，阻止 OpenAI 轉型為營利性公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/musk_openai_injunction/</link>
-      <description><![CDATA[政治、電動車、火箭和社群媒體不足以讓一些人忙碌 馬斯克(Elon Musk) 已針對OpenAI 聯合創始人兼首席執行官Sam Altman 申請禁令，該禁令主要旨在阻止GenAI從轉向完全營利性企業的典範。]]></description>
+      <description><![CDATA[政治、電動車、火箭和社群媒體不足以讓一些人忙碌 馬斯克(Elon Musk) 已針對OpenAI 聯合創始人兼首席執行官Sam Altman 申請禁令，其主要目的是阻止GenAI從轉向完全營利性企業的典範。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/musk_openai_injunction/</guid>
       <pubDate>Mon, 02 Dec 2024 16:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>誰讓帕特·基辛格（Pat Gelsinger）在賓果卡上從英特爾退休？</title>
+      <title>誰讓帕特·基辛格在賓果卡上從英特爾退休了？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/pat_gelsinger_retires_from_intel/</link>
       <description><![CDATA[80486 處理器首席架構師在遭遇史上最大季度虧損後離開x86 巨頭 英特爾已確認首席執行官帕特·基辛格(Pat Gelsinger) 突然離職，此舉旨在恢復投資人對這家陷入困境的矽谷巨頭的信心經過一年的動盪...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/pat_gelsinger_retires_from_intel/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>儘管微軟進行了廣告攻勢，Windows 11市場佔有率仍然下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/windows_11_market_share/</link>
-      <description><![CDATA[距離Windows 10 終止支援只剩下10 個月了，人們似乎仍然更喜歡它 儘管Microsoft 極力推動客戶使用Windows 11，但這家軟體巨頭最新作業系統的市場份額的成長根據 Statcounter 的最新數據，Windows 10 已經停滯不前，而 Windows 10 卻取得了一定的進步。]]></description>
+      <description><![CDATA[距離Windows 10 終止支援只剩下10 個月了，人們似乎仍然更喜歡它 儘管Microsoft 極力推動客戶使用Windows 11，但這家軟體巨頭最新作業系統的市場份額的成長根據 Statcounter 的最新數據，Windows 10 的成長停滯不前。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/windows_11_market_share/</guid>
       <pubDate>Mon, 02 Dec 2024 13:32:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Oracle Java 價格上漲促使 CIO 制定新的授權策略</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/oracle_java_cio/</link>
-      <description><![CDATA[專家表示，透過開源替代方案，用戶可以節省50% 據軟體資產管理專家稱，避免Oracle Java 許可價格大幅上漲已成為CIO 面臨的一個問題。 p&gt;]]></description>
+      <description><![CDATA[專家表示，透過開源替代方案，用戶可以節省50% 據軟體資產管理專家稱，避免Oracle Java 許可價格急劇上漲已成為CIO 面臨的一個問題。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/oracle_java_cio/</guid>
       <pubDate>Mon, 02 Dec 2024 11:35:25 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>Broadcom 失去了另一個大客戶：英國金融科技雲端 Beeks Group 及其 20,000 台虛擬機器中的大部分</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</link>
-      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 很冷淡，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
+      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 不感冒，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</guid>
       <pubDate>Mon, 02 Dec 2024 08:27:10 GMT</pubDate>
     </item>
     <item>
       <title>網路管理員了解到，與刷卡不同，木楔可以在網路無法打開時打開門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/who_me/</link>
-      <description><![CDATA[在建立網絡時，入室盜竊技巧非常重要 誰，我？   再次歡迎尊貴的讀者來到另一個週一以及另一期《誰，我？ 》其中Reg 喜歡你的善良讀者會分享科技災難的故事。  p&gt;]]></description>
+      <description><![CDATA[在建立網絡時，入室盜竊技巧非常重要 誰，我？   再次歡迎尊貴的讀者來到另一個週一以及另一期《誰，我？ 》其中Reg 喜歡你的善良讀者會分享科技災難的故事。  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/who_me/</guid>
       <pubDate>Mon, 02 Dec 2024 07:31:11 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>開源路由器韌體專案 OpenWrt 推出了自己的完全可修復的硬體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</link>
-      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
+      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒子以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</guid>
       <pubDate>Mon, 02 Dec 2024 03:33:11 GMT</pubDate>
     </item>
     <item>
       <title>中國發射首顆下一代長徵十二號火箭，命名為私人航太港</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</link>
-      <description><![CDATA[不會嚇到SpaceX，因為它不可重複使用，但會幫助北京做諸如發射寬頻衛星之類的事情 中國於週六發射了新型火箭，並首次使用商業航天發射場使命...]]></description>
+      <description><![CDATA[不會嚇到 SpaceX，因為它不可重複使用，但會幫助北京做發射寬頻衛星等事情 中國於週六發射了新型火箭，並首次使用商業航天發射場使命. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</guid>
       <pubDate>Mon, 02 Dec 2024 01:33:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外，腳本小子仍然是威脅，龍捲風現金又回來了，英國公司因可避免的攻擊而損失了數十億美元，等等 資訊安全簡介 國際刑警組織及其在金融領域的金融支持者韓國政府透過第五次「HAECHI 行動」進行了另一輪反網路犯罪逮捕，這一次逮捕了5,500 多名涉嫌詐騙的人，並沒收了數億美元的數字和法定貨幣。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/01/interpol_cybercrime_busting/</guid>
       <pubDate>Sun, 01 Dec 2024 20:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國人認為工作場所中的人工智慧只是聊天，目前還沒有機器人</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/01/uk_workplace_ai/</link>
-      <description><![CDATA[儘管大肆宣傳，但大多數英國員工看到的討論多於實施 服務公司WSP 的一項調查顯示，只有不到三分之一的英國員工認為人工智慧對工作場所的影響「很小」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/01/uk_workplace_ai/</guid>
-      <pubDate>Sun, 01 Dec 2024 09:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
