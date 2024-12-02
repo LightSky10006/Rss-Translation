@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Dec 2024 07:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 08:45:21 GMT</lastBuildDate>
+    <item>
+      <title>Broadcom 失去了另一個大客戶：英國金融科技雲端 Beeks Group 及其 20,000 台虛擬機器中的大部分</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</link>
+      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 很冷淡，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</guid>
+      <pubDate>Mon, 02 Dec 2024 08:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>網路管理員了解到，與刷卡不同，木楔可以在網路無法打開時打開門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/who_me/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>NASA 的 X-59 飛機的目標是發出聲音重擊，而不是轟鳴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</link>
-      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的工廠之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
+      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的設施之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</guid>
       <pubDate>Sat, 30 Nov 2024 15:35:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ofcom 的Online Nation 報告深入研究了2024 年英國的互聯網習慣 英國埃隆·馬斯克(Elon Musk) 的X 社交媒體平台的使用率正在下降，成年英國人對生成式人工智慧工具並不特別感興趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/ofcom_online_nation/</guid>
       <pubDate>Fri, 29 Nov 2024 10:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟準備大砲來改變Copilot軟體和個人電腦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/microsoft_preps_big_guns_for/</link>
-      <description><![CDATA[IT 管理員請注意：13,000 家技術供應商正在為您雇主的支票簿而來 Canalys 論壇EMEA 2024 當Microsoft 需要開拓市場時，它會轉向通路- 一個模糊的通路該術語用於經銷商、分銷商以及銷售商品和服務的其他各種獨立第三方供應商。幸運的是，如果微軟想要安撫那些迫切希望看到其押注於生成人工智慧的數十億美元回報的投資者，那麼它需要比以往更多的人參與其中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/microsoft_preps_big_guns_for/</guid>
-      <pubDate>Fri, 29 Nov 2024 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
