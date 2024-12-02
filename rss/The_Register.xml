@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 02 Dec 2024 12:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 13:03:28 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯逮捕了自己的網路犯罪嫌疑人——聯邦調查局通緝名單上的網路犯罪嫌疑人</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/russia_ransomware_arrest/</link>
+      <description><![CDATA[曾經受克里姆林宮保護的組織的最新命運發生了不尋常的變化 據稱是LockBit 和Babuk 勒索軟體業務的前附屬機構，他也恰好是俄羅斯最受通緝的網絡犯罪者之一據報道，美國現在被戴上手銬。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/russia_ransomware_arrest/</guid>
+      <pubDate>Mon, 02 Dec 2024 12:38:17 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle Java 價格上漲促使 CIO 制定新的授權策略</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/oracle_java_cio/</link>
-      <description><![CDATA[專家表示，透過開源替代方案，用戶可以節省50% 據軟體資產管理專家稱，避免Oracle Java 許可價格急劇上漲已成為CIO 面臨的一個問題。 p&gt;]]></description>
+      <description><![CDATA[專家表示，透過開源替代方案，用戶可以節省50% 據軟體資產管理專家稱，避免Oracle Java 許可價格大幅上漲已成為CIO 面臨的一個問題。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/oracle_java_cio/</guid>
       <pubDate>Mon, 02 Dec 2024 11:35:25 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>Broadcom 失去了另一個大客戶：英國金融科技雲端 Beeks Group 及其 20,000 台虛擬機器中的大部分</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</link>
-      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 不感冒，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
+      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 很冷淡，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</guid>
       <pubDate>Mon, 02 Dec 2024 08:27:10 GMT</pubDate>
     </item>
     <item>
       <title>網路管理員了解到，與刷卡不同，木楔可以在網路無法打開時打開門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/who_me/</link>
-      <description><![CDATA[在建立網絡時，入室盜竊技巧非常重要 誰，我？   再次歡迎尊貴的讀者來到另一個週一以及另一期《誰，我？ 》其中Reg 喜歡你的善良讀者會分享科技災難的故事。  ]]></description>
+      <description><![CDATA[在建立網絡時，入室盜竊技巧非常重要 誰，我？   再次歡迎尊貴的讀者來到另一個週一以及另一期《誰，我？ 》其中Reg 喜歡你的善良讀者會分享科技災難的故事。  p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/who_me/</guid>
       <pubDate>Mon, 02 Dec 2024 07:31:11 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>開源路由器韌體專案 OpenWrt 推出了自己的完全可修復的硬體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</link>
-      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒子以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
+      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</guid>
       <pubDate>Mon, 02 Dec 2024 03:33:11 GMT</pubDate>
     </item>
     <item>
       <title>中國發射首顆下一代長徵十二號火箭，命名為私人航太港</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</link>
-      <description><![CDATA[不會嚇到 SpaceX，因為它不可重複使用，但會幫助北京做發射寬頻衛星等事情 中國於週六發射了新型火箭，並首次使用商業航天發射場使命. ..]]></description>
+      <description><![CDATA[不會嚇到SpaceX，因為它不可重複使用，但會幫助北京做諸如發射寬頻衛星之類的事情 中國於週六發射了新型火箭，並首次使用商業航天發射場使命...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</guid>
       <pubDate>Mon, 02 Dec 2024 01:33:10 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>川普領導下的加密貨幣政策：承諾很多，具體計畫很少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/cryptocurrency_policy_trump/</link>
-      <description><![CDATA[支持加密貨幣的立法者參與其中，但這會轉化為行動嗎？對此表示懷疑 分析 2024 年總統大選將美國帶入了一個充滿不確定性的新時代，但有一點是肯定的：加密貨幣行業取得了勝利。 ...]]></description>
+      <description><![CDATA[支持加密貨幣的立法者參與其中，但這會轉化為行動嗎？懷疑 分析 2024 年總統大選將美國帶入了一個充滿不確定性的新時代，但有一點是肯定的：加密貨幣行業取得了勝利。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/cryptocurrency_policy_trump/</guid>
       <pubDate>Sat, 30 Nov 2024 17:25:08 GMT</pubDate>
     </item>
     <item>
       <title>NASA 的 X-59 飛機的目標是發出聲音重擊，而不是轟鳴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</link>
-      <description><![CDATA[飛行員詹姆斯「線索」Less 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機在庫中，是最奇怪的設施之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
+      <description><![CDATA[飛行員詹姆斯·“線索”·萊斯(James &#39;Clue&#39; Less) 已準備好飛向天空 特寫  坐在洛克希德·馬丁公司著名的加州帕姆代爾臭鼬工廠的機庫中，是最奇怪的設施之一即將成型的飛機：X-59 正在尋求復興陸地上的超音速旅行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/</guid>
       <pubDate>Sat, 30 Nov 2024 15:35:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「順便說一句，我使用Arch」跑道潤滑，加上有關軟體包許可的澄清 Arch Linux 安裝程式的第3 版已發布，改進了可用性並對其許可進行了澄清。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/arch_linux_licensing_installer/</guid>
       <pubDate>Fri, 29 Nov 2024 16:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>陰天可能會產生 GPU 帳單：AI 的能源需求讓 CIO 們捏了一把汗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/11/29/public_cloud_ai_alternatives/</link>
-      <description><![CDATA[公有雲費用讓企業爭相尋找不會耗盡預算的替代方案 Canalys 論壇EMEA 2024 組織被迫重新考慮在何處託管工作負載，以應對不斷膨脹的工作負載人工智慧需求與不斷上漲的能源費用相結合，並將其推入公有雲可能不是答案。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/11/29/public_cloud_ai_alternatives/</guid>
-      <pubDate>Fri, 29 Nov 2024 14:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
