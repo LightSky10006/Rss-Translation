@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Dec 2024 07:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 08:44:01 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 吹噓 Copilot 能夠產生高品質程式碼受到挑戰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/github_copilot_code_quality_claims/</link>
+      <description><![CDATA[我們感到震驚 - 震驚 - 微軟對其自己的工具的研究可能不是超級嚴格 GitHub 聲稱用其 Copilot AI 模型編寫的編程代碼的質量“明顯更實用，可讀、可靠、可維護和簡潔”，受到軟體開發人員Dan Cîmpianu 的挑戰。...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/github_copilot_code_quality_claims/</guid>
+      <pubDate>Tue, 03 Dec 2024 08:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>俄羅斯查獲大量毒品後判處 Hydra 暗網頭目無期徒刑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/russia_hydra_sentencing/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[網路安全政治太重要了，不能留給政客 觀點 以下是您現在看不到的頭版標題：中國間諜正在竊聽我們的資訊電話。並不是說它們不是——它們是——但是，就像環境一樣，媒體上有太多的網路安全恐怖，是的，它們當然是。還有？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/telco_security_opinion/</guid>
       <pubDate>Mon, 02 Dec 2024 09:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Broadcom 失去了另一個 VMware 大客戶：英國金融科技雲端 Beeks Group 及其 20,000 台虛擬機器中的大部分</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</link>
-      <description><![CDATA[大幅增加的帳單是一個動機，但客戶對Virtzilla 不感冒，而OpenNebula 被證明效率更高 在英國雲端運營商Beeks Group 決定採用開源之後，Broadcom 失去了另一個重要客戶OpenNebula 堆疊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/beeks_group_vmware_opennebula_migration/</guid>
-      <pubDate>Mon, 02 Dec 2024 08:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
