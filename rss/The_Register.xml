@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Dec 2024 02:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 03:32:44 GMT</lastBuildDate>
+    <item>
+      <title>施樂、諾基亞、美國銀行、摩根士丹利等公司 76 萬名員工的資料外洩到網路上</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/760k_xerox_nokia_bofa_morgan/</link>
+      <description><![CDATA[MOVEit 混亂的另一個結果 來自施樂、諾基亞、科赫、美國銀行、摩根士丹利等大公司的數十萬名員工似乎成為海量數據的最新受害者該漏洞與去年針對文件傳輸工具MOVEit 的攻擊有關。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/760k_xerox_nokia_bofa_morgan/</guid>
+      <pubDate>Tue, 03 Dec 2024 02:57:16 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 推出雲端安全 IR 服務，每月僅需 7,000 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_cloud_security_incident_response/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[國際電聯認為現在是時候更多地討論如何保持數據在海浪下傳輸 在修復疑似被中國船隻切斷的海底電纜的同一天，兩家主要電信公司各機構召集了海底電信電纜彈性諮詢委員會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/cable_advisory_board/</guid>
       <pubDate>Mon, 02 Dec 2024 05:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>開源路由器韌體專案 OpenWrt 推出了自己的完全可修復的硬體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</link>
-      <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</guid>
-      <pubDate>Mon, 02 Dec 2024 03:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
