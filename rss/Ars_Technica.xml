@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 16:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 17:40:52 GMT</lastBuildDate>
     <item>
-      <title>美國晶片禁令後中國禁止稀土金屬出口</title>
+      <title>Raspberry Pi 5 現在作為一種更小、更快的 Steam 串流盒運行</title>
+      <link>https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/</link>
+      <description><![CDATA[以高達 4K、60 fps 的速度將遊戲從遊戲 PC 串流到大電視。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/</guid>
+      <pubDate>Tue, 03 Dec 2024 17:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在川普的領導下，美國保護消費者免受數據經紀人侵害的計畫前景黯淡</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/us-plan-to-protect-consumers-from-data-brokers-faces-dim-future-under-trump/</link>
+      <description><![CDATA[懷登：“不幸的是，這將由川普的 CFPB 來最終確定這項擬議規則。”]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/us-plan-to-protect-consumers-from-data-brokers-faces-dim-future-under-trump/</guid>
+      <pubDate>Tue, 03 Dec 2024 16:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>中國禁止美國用於科技製造的關鍵礦物</title>
       <link>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</link>
-      <description><![CDATA[中國禁止美國出口鎵、鍺、銻和超硬材料。]]></description>
+      <description><![CDATA[中國禁止向美國出口鎵、鍺、銻和超硬材料。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</guid>
       <pubDate>Tue, 03 Dec 2024 15:50:47 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>新網站向您展示 Google AI 可以從您的照片中了解多少信息</title>
       <link>https://arstechnica.com/ai/2024/12/new-website-shows-you-how-much-google-ai-can-learn-from-your-photos/</link>
-      <description><![CDATA[上傳您的照片並獲得完整的三段描述。]]></description>
+      <description><![CDATA[上傳您的照片並獲得其完整的三段描述。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/new-website-shows-you-how-much-google-ai-can-learn-from-your-photos/</guid>
       <pubDate>Tue, 03 Dec 2024 15:16:02 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[這一天已經過了一半，但我們還在不斷添加內容——快來看看是否有任何內容適合您！]]></description>
       <guid>https://arstechnica.com/shopping/2024/12/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/</guid>
       <pubDate>Mon, 02 Dec 2024 23:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>某些名稱讓 ChatGPT 陷入停滯，我們知道原因</title>
-      <link>https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/</link>
-      <description><![CDATA[已解決的誹謗訴訟主題所產生的過濾可能會在未來造成麻煩。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/</guid>
-      <pubDate>Mon, 02 Dec 2024 22:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員終於識別出海洋中的“神秘軟體動物”</title>
-      <link>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</link>
-      <description><![CDATA[它是一種裸鰓類動物，但由於親緣關係較遠，它有自己的系統發育家族。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</guid>
-      <pubDate>Mon, 02 Dec 2024 20:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
