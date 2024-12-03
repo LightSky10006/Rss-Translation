@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 01:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 02:46:50 GMT</lastBuildDate>
     <item>
-      <title>法官再次駁回 Elon Musk 特斯拉目前價值 1,010 億美元的薪酬計劃</title>
+      <title>海水淡化能否解農業之渴？</title>
+      <link>https://arstechnica.com/science/2024/12/can-desalination-quench-agricultures-thirst/</link>
+      <description><![CDATA[有人說這是一個代價高昂的白日夢；其他人則說這是未來的一部分。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/can-desalination-quench-agricultures-thirst/</guid>
+      <pubDate>Tue, 03 Dec 2024 00:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>馬斯克 (Elon Musk) 未能恢復特斯拉大規模薪資計劃，現價值 $101B</title>
       <link>https://arstechnica.com/tech-policy/2024/12/judge-again-rejects-the-elon-musk-tesla-pay-plan-now-valued-at-101-billion/</link>
       <description><![CDATA[法官表示，2024 年 6 月的股東投票並不能解決 2018 年股票獎勵的問題。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/judge-again-rejects-the-elon-musk-tesla-pay-plan-now-valued-at-101-billion/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>研究人員終於識別出海洋中的“神秘軟體動物”</title>
       <link>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</link>
-      <description><![CDATA[它是一種裸鰓亞目動物，但由於親緣關係較遠，它有自己的系統發育家族。]]></description>
+      <description><![CDATA[它是一種裸鰓類動物，但由於親緣關係較遠，它有自己的系統發育家族。]]></description>
       <guid>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</guid>
       <pubDate>Mon, 02 Dec 2024 20:32:34 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[雲端供應商已將其 20,000 個虛擬機器中的大部分從 VMware 中移出。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/</guid>
       <pubDate>Mon, 02 Dec 2024 18:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>暴雪撤回《魔獸爭霸1》和《魔獸爭霸2》測試GOG新的保存計劃</title>
-      <link>https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/</link>
-      <description><![CDATA[暴雪大力推動重製版，GOG 致力於提供無 DRM 的產品。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/12/blizzards-pulling-of-warcraft-i-ii-tests-gogs-new-preservation-program/</guid>
-      <pubDate>Mon, 02 Dec 2024 18:25:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

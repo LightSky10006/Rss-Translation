@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 03 Dec 2024 01:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 02:47:11 GMT</lastBuildDate>
+    <item>
+      <title>AWS 推出雲端安全 IR 服務，每月僅需 7,000 美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_cloud_security_incident_response/</link>
+      <description><![CDATA[利用定價的無限可擴充性... Re:Invent Amazon Web Services 推出了一項新的事件回應服務，該服務結合了自動化和人員來保護客戶的AWS 帳戶- 價格高昂。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_cloud_security_incident_response/</guid>
+      <pubDate>Tue, 03 Dec 2024 01:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>拜登政府禁止中國購買對人工智慧加速器至關重要的 HBM 晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/biden_hbm_china_export_ban/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 03 Dec 2024 00:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>員工起訴蘋果公司，指控與強制設備有關的「間諜」行為</title>
+      <title>員工起訴蘋果公司，指控其與強制設備有關的「間諜」行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/employee_sues_apple_spying/</link>
       <description><![CDATA[庫比蒂諾的圍牆花園“是監獄院子”，原告聲稱 在繼續受僱的情況下起訴雇主是一種冒險行為，但一位蘋果廣告技術經理正在嘗試這樣做- 聲稱iGiant 正在強迫員工暴露他們的個人數據，並威脅他們因不合規而收回工資。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/employee_sues_apple_spying/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 02 Dec 2024 17:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克尋求禁令阻止 OpenAI 轉型為營利性公司</title>
+      <title>馬斯克尋求禁令，阻止 OpenAI 轉型為營利性公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/musk_openai_injunction/</link>
       <description><![CDATA[政治、電動車、火箭和社群媒體不足以讓一些人忙碌 馬斯克(Elon Musk) 已針對OpenAI 聯合創始人兼首席執行官Sam Altman 申請禁令，該禁令主要旨在阻止GenAI從轉向完全營利性企業的典範。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/musk_openai_injunction/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Banana Pi 的「永遠堅不可摧」Wi-Fi 6 盒以包裝或套件形式提供 開源Wi-Fi 路由器專案OpenWrt 和軟體自由保護協會已交付他們的第一個聯合開發的硬體平台– OpenWrt One – 並將其宣傳為維修運動權利的勝利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/</guid>
       <pubDate>Mon, 02 Dec 2024 03:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國發射首顆下一代長徵十二號火箭，命名為私人航太港</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</link>
-      <description><![CDATA[不會嚇到SpaceX，因為它不可重複使用，但會幫助北京做諸如發射寬頻衛星之類的事情 中國於週六發射了新型火箭，並首次使用商業航天發射場使命...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/02/china_long_march_12_launch/</guid>
-      <pubDate>Mon, 02 Dec 2024 01:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
