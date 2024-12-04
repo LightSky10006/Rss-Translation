@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 02:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 04:17:03 GMT</lastBuildDate>
+    <item>
+      <title>RISC-V 的人工智慧冠軍剛剛獲得 6.93 億美元現金注入</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</link>
+      <description><![CDATA[架構可能不僅適用於平價SoC 和大容量微控制器 RISC-V 晶片設計商Tenstorrent 已贏得6.93 億美元的投資- 這是對其許可使用RISC-V 晶片計劃的認可適用於人工智慧等工作負載的許可指令集架構。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</guid>
+      <pubDate>Wed, 04 Dec 2024 04:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>聯邦貿易委員會斥責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[爆裂的水管遮住了太陽——或者至少遮住了從兩個探測器收集到的有關太陽的數據 存儲美國宇航局兩顆太陽觀測衛星收集的數據的伺服器出現故障——而航太局卻沒有這樣做知道他們什麼時候會恢復運作——在他們所在的設施中四英寸長的冷凍水管爆裂之後。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/nasa_sdo_outage/</guid>
       <pubDate>Tue, 03 Dec 2024 04:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>施樂、諾基亞、美國銀行、摩根士丹利等公司 76 萬名員工的資料外洩到網路上</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/760k_xerox_nokia_bofa_morgan/</link>
-      <description><![CDATA[MOVEit 混亂的另一個結果 來自施樂、諾基亞、科赫、美國銀行、摩根士丹利等大公司的數十萬名員工似乎成為海量數據的最新受害者該漏洞與去年針對文件傳輸工具MOVEit 的攻擊有關。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/760k_xerox_nokia_bofa_morgan/</guid>
-      <pubDate>Tue, 03 Dec 2024 02:57:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
