@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 19:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 19:34:42 GMT</lastBuildDate>
+    <item>
+      <title>微軟確認 Windows 11 硬體需求不會掉頭</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/</link>
+      <description><![CDATA[軟體巨頭表示，TPM 2.0 對於最新作業系統「不可協商」 微軟不會放棄Windows 11 的硬體要求，並表示可信任平台模組(TPM) 對於Windows 11 的硬體要求至關重要作業系統，即使它不是 Windows Server 2025 最低要求的一部分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/</guid>
+      <pubDate>Wed, 04 Dec 2024 19:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲 Vega C 火箭獲準今晚發射，這是自 2022 年以來的首次發射</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>微軟從新聞得知新的反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</link>
-      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴委員會，你們是一群洩密者 據報道，微軟對聯邦貿易委員會最近啟動的反壟斷調查感到不滿，但並非如此原因你可能會想：雷德蒙德很生氣，因為它透過閱讀新聞發現了調查。 ...]]></description>
+      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙德很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</guid>
       <pubDate>Wed, 04 Dec 2024 16:30:13 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>微軟表示過早的補丁可能會讓Windows Recall忘記如何運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</link>
-      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些熱心的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
+      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些急切的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</guid>
       <pubDate>Wed, 04 Dec 2024 14:03:15 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Xfce、Mint、Cinnamon 桌面的新版本及時在假期發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</link>
-      <description><![CDATA[Cinnamon 6.4 已經發布，Xfce 4.20 也即將準備就緒 想在假期期間花時間刷新您的設定嗎？兩種更流行的 Windows 風格的 FOSS 桌面即將發布新的點版本，一種用於高端機器，一種用於低階套件。]]></description>
+      <description><![CDATA[Cinnamon 6.4 已經發布，Xfce 4.20 也即將準備好 想在假期期間花時間刷新您的設定嗎？兩種更流行的 Windows 風格的 FOSS 桌面即將發布新的點版本，一種用於高端機器，一種用於低階套件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</guid>
       <pubDate>Wed, 04 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 04 Dec 2024 02:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 表示人工智慧可以顛覆一切，並希望它能對 Windows 帶來同樣的影響</title>
+      <title>AWS 表示人工智慧可能會顛覆一切，並希望 Windows 也能做到這一點</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/amazon_leans_into_ai/</link>
       <description><![CDATA[雲端巨頭認為它可以澄清幻覺，以令人愉悅的速度讓您的應用程式脫離Microsoft 作業系統 re:Invent Amazon Web Services 執行長Matt Garman 揭開了雲端運算服務第13 屆年度盛典的序幕re:Invent 會議觀察到：「生成式人工智慧有可能顛覆現有的每一個產業。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/amazon_leans_into_ai/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[數以萬計的AWS Trn2 實例為Anthropic 的下一代模型提供動力 Re:Invent Amazon Web Services 在re:Invent 上展示了其名為Trainium3的下一代AI 加速器週二，該公司表示，明年底上市時，其性能將比其前身高出 4 倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/</guid>
       <pubDate>Tue, 03 Dec 2024 18:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 推出 S3 Tables，一種用於資料分析的新儲存桶類型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/</link>
-      <description><![CDATA[AWS VP 告訴我們，這是自S3 推出以來最重要的API 變更之一 Re:Invent AWS 無所不在的S3 儲存服務即將推出兩項重要變更：首先，針對資料分析的新表格儲存桶類型；其次，預覽元資料功能使用 S3 表來實現 S3 資料的快速查詢。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
