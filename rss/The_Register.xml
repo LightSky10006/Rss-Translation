@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 23:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 23:36:57 GMT</lastBuildDate>
+    <item>
+      <title>裂變不可能嗎？ Meta 希望美國將高達 4GW 的原子能用於人工智慧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/meta_us_nuclear_power/</link>
+      <description><![CDATA[Facebook 巨頭的目標是在 2030 年代初部署反應器 Meta 認為，除了已經消耗的能源之外，它還需要 1 到 4 吉瓦的核電來推動其人工智慧雄心。因此，它將提出徵求建議書 (RFP)，以尋找到 2030 年初能夠在美國提供同等電力水平的開發商。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/meta_us_nuclear_power/</guid>
+      <pubDate>Wed, 04 Dec 2024 23:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>川普希望 SpaceX 客戶賈里德·艾薩克曼 (Jared Isaacman) 擔任 NASA 下一任老闆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/trump_nasa_boss/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>微軟從新聞得知新的反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</link>
-      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
+      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙德很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</guid>
       <pubDate>Wed, 04 Dec 2024 16:30:13 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>微軟表示過早的補丁可能會讓Windows Recall忘記如何運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</link>
-      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些急切的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
+      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些熱心的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</guid>
       <pubDate>Wed, 04 Dec 2024 14:03:15 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Xfce、Mint、Cinnamon 桌面的新版本及時在假期發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</link>
-      <description><![CDATA[Cinnamon 6.4 已經發布，Xfce 4.20 也即將準備好 想在假期期間花時間刷新您的設定嗎？兩種更流行的 Windows 風格的 FOSS 桌面即將發布新的點版本，一種用於高端機器，一種用於低階套件。]]></description>
+      <description><![CDATA[Cinnamon 6.4 已經發布，Xfce 4.20 也即將準備就緒 想在假期期間花時間刷新您的設定嗎？兩種更流行的 Windows 風格的 FOSS 桌面即將發布新的點版本，一種用於高端機器，一種用於低階套件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</guid>
       <pubDate>Wed, 04 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>印度財政部指控幣安逃稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/india_binance_crypto_tax_evasion/</link>
-      <description><![CDATA[部長揭露17 家加密貨幣玩家欠下1 億美元- 其中幣安是最壞的 印度財政部指控加密貨幣交易所幣安逃稅近8500 萬美元- 其聲稱的約9600 萬美元中的絕大多數數位美元服裝尚未付款。]]></description>
+      <description><![CDATA[部長揭露17 個加密貨幣玩家欠下1 億美元- 其中幣安是最壞的 印度財政部指控加密貨幣交易所幣安逃稅近8500 萬美元- 其聲稱的約9600 萬美元中的絕大多數數位美元服裝尚未付款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/india_binance_crypto_tax_evasion/</guid>
       <pubDate>Wed, 04 Dec 2024 05:27:07 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 04 Dec 2024 04:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦貿易委員會譴責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
+      <title>聯邦貿易委員會斥責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</link>
       <description><![CDATA[「我們去的地方就是我們是誰」根本不是一個令人毛骨悚然的廣告口號 美國聯邦貿易委員會(FTC) 已與兩家數據經紀公司達成和解，指控他們收集了顯示人們何時到達的精確位置數據進入醫院、禮拜場所，甚至參加支持已故喬治·弗洛伊德的抗議活動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們確信您會喜歡上新的 Outlook for Windows 應用 Microsoft 正準備在本月底之前淘汰舊的 Windows 郵件、日曆和人脈應用，並進行轉變用戶訪問Outlook for Windows 應用程序。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/windows_mail_calendar_support/</guid>
       <pubDate>Tue, 03 Dec 2024 21:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOHO，兩年忘記退休的使命，終於面臨日落</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/soho_29_years/</link>
-      <description><![CDATA[由於資金耗盡並啟動替代品，探測器可能無法維持到30 顆 歐空局(ESA) 和美國太空總署(NASA) 的太陽和日光層觀測站(SOHO)即將進入29 號，這可能是其運行的最後一年推出週年紀念日。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/soho_29_years/</guid>
-      <pubDate>Tue, 03 Dec 2024 20:02:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
