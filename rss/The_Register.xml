@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 16:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 18:18:59 GMT</lastBuildDate>
+    <item>
+      <title>歐洲 Vega C 火箭獲準今晚發射，這是自 2022 年以來的首次發射</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</link>
+      <description><![CDATA[大陸新發射器過去的噴嘴問題 阿麗亞娜航天公司的Vega C 將於今晚重返飛行，距上次發射失敗的第二階段故障已經過去近兩年了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</guid>
+      <pubDate>Wed, 04 Dec 2024 18:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>微軟從新聞得知新的反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>SAP 傳統 ERP 使用者明智地忽略了單一躍遷到雲端的服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</link>
-      <description><![CDATA[用戶組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其舊版本地 ERP 系統的用戶將被設置為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
+      <description><![CDATA[使用者小組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其傳統本地 ERP 系統的用戶將被設定為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</guid>
       <pubDate>Wed, 04 Dec 2024 11:37:09 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>RISC-V 的人工智慧冠軍剛剛獲得 6.93 億美元現金注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</link>
-      <description><![CDATA[架構可能不僅適用於平價SoC 和大容量微控制器 RISC-V 晶片設計商Tenstorrent 已贏得6.93 億美元的投資- 這是對其許可使用RISC-V 晶片計劃的認可適用於人工智慧等工作負載的許可指令集架構。]]></description>
+      <description><![CDATA[架構可能不僅適用於平價SoC 和大容量微控制器 RISC-V 晶片設計商Tenstorrent 已贏得6.93 億美元的投資，這是對其許可使用RISC-V 晶片計劃的認可適用於人工智慧等工作負載的許可指令集架構。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</guid>
       <pubDate>Wed, 04 Dec 2024 04:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦貿易委員會斥責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
+      <title>聯邦貿易委員會譴責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</link>
       <description><![CDATA[「我們去的地方就是我們是誰」根本不是一個令人毛骨悚然的廣告口號 美國聯邦貿易委員會(FTC) 已與兩家數據經紀公司達成和解，指控他們收集了顯示人們何時到達的精確位置數據進入醫院、禮拜場所，甚至參加支持已故喬治·弗洛伊德的抗議活動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>亞馬遜承諾 2025 年 AI 晶片速度將提高 4 倍，並在網路上開放 Trainium2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/</link>
-      <description><![CDATA[數以萬計的AWS Trn2 實例為Anthropic 的下一代模型提供動力 Re:Invent Amazon Web Services 在re:Invent 上展示了其名為Trainium3的下一代AI 加速器週二，它表示，明年底上市時，其性能將比其前身高出 4 倍。]]></description>
+      <description><![CDATA[數以萬計的AWS Trn2 實例為Anthropic 的下一代模型提供動力 Re:Invent Amazon Web Services 在re:Invent 上展示了其名為Trainium3的下一代AI 加速器週二，該公司表示，明年底上市時，其性能將比其前身高出 4 倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/</guid>
       <pubDate>Tue, 03 Dec 2024 18:32:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[AWS VP 告訴我們，這是自S3 推出以來最重要的API 變更之一 Re:Invent AWS 無所不在的S3 儲存服務即將推出兩項重要變更：首先，針對資料分析的新表格儲存桶類型；其次，預覽元資料功能使用 S3 表來實現 S3 資料的快速查詢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/</guid>
       <pubDate>Tue, 03 Dec 2024 18:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官再次取消馬斯克創紀錄的 56B 美元特斯拉套餐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/musks_tesla_pay_package/</link>
-      <description><![CDATA[特拉華州州長表示，「即使股東投票可以產生批准效果，但在這裡卻行不通。」 馬斯克備受爭議的560 億美元特斯拉賠償方案於1 月被特拉華州法院宣布無效，六月經股東投票恢復，但未能促使凱瑟琳·麥考密克法官推翻最初的決定，導致馬斯克的薪酬方案再次無效。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/musks_tesla_pay_package/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
