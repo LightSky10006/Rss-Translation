@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 05:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 06:46:52 GMT</lastBuildDate>
+    <item>
+      <title>針對微軟涉嫌向其他雲端上的 Windows 客戶收取過高費用的 10 億英鎊訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/lawsuit_microsoft_windows/</link>
+      <description><![CDATA[是的，我們之前已經討論過這個問題- 事實上好幾次了 微軟在英國被起訴，索賠金額超過10 億英鎊，原因是微軟聲稱雷德蒙德向企業收取過高的Windows 費用在競爭雲平台上使用的伺服器許可證。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/lawsuit_microsoft_windows/</guid>
+      <pubDate>Wed, 04 Dec 2024 06:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>印度財政部長指控幣安逃稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/india_binance_crypto_tax_evasion/</link>
@@ -15,12 +22,12 @@
     <item>
       <title>RISC-V 的人工智慧冠軍剛剛獲得 6.93 億美元現金注入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</link>
-      <description><![CDATA[架構可能不僅適用於平價SoC 和大容量微控制器 RISC-V 晶片設計商Tenstorrent 已贏得6.93 億美元的投資，這是對其許可使用RISC-V 晶片計劃的認可適用於人工智慧等工作負載的許可指令集架構。]]></description>
+      <description><![CDATA[架構可能不僅適用於平價SoC 和大容量微控制器 RISC-V 晶片設計商Tenstorrent 已贏得6.93 億美元的投資- 這是對其許可使用RISC-V 晶片計劃的認可適用於人工智慧等工作負載的許可指令集架構。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/</guid>
       <pubDate>Wed, 04 Dec 2024 04:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦貿易委員會斥責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
+      <title>聯邦貿易委員會譴責兩名數據經紀人涉嫌將您的位置資訊出售給電錶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</link>
       <description><![CDATA[「我們去的地方就是我們是誰」根本不是一個令人毛骨悚然的廣告口號 美國聯邦貿易委員會(FTC) 已與兩家數據經紀公司達成和解，指控他們收集了顯示人們何時到達的精確位置數據進入醫院、禮拜場所，甚至參加支持已故喬治·弗洛伊德的抗議活動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>SOHO，兩年忘記退休的使命，終於面臨日落</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/soho_29_years/</link>
-      <description><![CDATA[由於資金耗盡並啟動替代品，探測器可能無法維持到30 顆 歐空局(ESA) 和NASA 的太陽和日光層觀測站(SOHO) 即將進入29 號，這可能是其運行的最後一年推出週年紀念日。]]></description>
+      <description><![CDATA[由於資金耗盡並啟動替代品，探測器可能無法維持到30 顆 歐空局(ESA) 和美國太空總署(NASA) 的太陽和日光層觀測站(SOHO)即將進入29 號，這可能是其運行的最後一年推出週年紀念日。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/soho_29_years/</guid>
       <pubDate>Tue, 03 Dec 2024 20:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>大型能源承包商報告勒索軟體鎖定文件後對 IT 的訪問“有限”</title>
+      <title>主要能源承包商報告勒索軟體鎖定文件後對 IT 的訪問“有限”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/us_energy_contractor_englobal_ransomware/</link>
       <description><![CDATA[ENGlobal 客戶包括五角大廈以及主要石油和天然氣生產商 美國能源承包商ENGlobal 透露，在11 月底勒索軟體感染後，對其IT 系統的訪問仍然受到限制。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/us_energy_contractor_englobal_ransomware/</guid>
@@ -64,14 +71,14 @@
     <item>
       <title>亞馬遜承諾 2025 年 AI 晶片速度將提高 4 倍，並在網路上開放 Trainium2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/</link>
-      <description><![CDATA[數以萬計的AWS Trn2 實例為Anthropic 的下一代模型提供動力 Re:Invent Amazon Web Services 在re:Invent 上展示了其名為Trainium3的下一代AI 加速器週二，它表示，明年底上市時，其性能將比其前身高出 4 倍。]]></description>
+      <description><![CDATA[數以萬計的AWS Trn2 實例為Anthropic 的下一代模型提供動力 Re:Invent Amazon Web Services 在re:Invent 上展示了其名為Trainium3的下一代AI 加速器週二，該公司表示，明年底上市時，其性能將比其前身高出 4 倍。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/</guid>
       <pubDate>Tue, 03 Dec 2024 18:32:43 GMT</pubDate>
     </item>
     <item>
       <title>AWS 推出 S3 Tables，一種用於資料分析的新儲存桶類型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/</link>
-      <description><![CDATA[AWS 副總裁告訴我們，自S3 推出以來最重要的API 變更 Re:Invent  AWS 無所不在的S3 儲存服務即將推出兩項重大變更：首先，針對資料分析的新表格儲存桶類型；其次，預覽元資料功能使用 S3 表來實現 S3 資料的快速查詢。]]></description>
+      <description><![CDATA[AWS 副總裁告訴我們，自S3 推出以來最重要的API 變更 Re:Invent  AWS 無所不在的S3 儲存服務即將推出兩項重大變更：首先，針對資料分析的新表桶類型；其次，預覽元資料功能使用 S3 表來實現 S3 資料的快速查詢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/</guid>
       <pubDate>Tue, 03 Dec 2024 18:30:56 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[毫不誇張－確實是一噸。另外，15名同謀也入獄 俄羅斯法院對臭名昭著的網路毒品市場Hydra的負責人判處無期徒刑，他的15名同謀也將在監獄裡度過多年...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/russia_hydra_sentencing/</guid>
       <pubDate>Tue, 03 Dec 2024 07:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>GenAI 來從事曾經被認為不受自動化影響的「安全」工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/ai_oecd_report/</link>
-      <description><![CDATA[認知非常規任務的專業性意味著高技能的城市工人會受到影響 曾經被認為自動化風險較低的地理區域和範圍的工作很快將成為受生成式人工智能影響最大的工作，根據經濟合作暨發展組織(OECD) 的資料。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/ai_oecd_report/</guid>
-      <pubDate>Tue, 03 Dec 2024 06:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
