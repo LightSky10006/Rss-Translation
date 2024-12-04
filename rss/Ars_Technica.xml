@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 23:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 13:02:22 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯法院判處 Hydra 毒品市場頭目終身監禁</title>
+      <link>https://arstechnica.com/information-technology/2024/12/russian-court-sentences-kingpin-of-hydra-drug-marketplace-to-life-in-prison/</link>
+      <description><![CDATA[地下市場分發了超過一噸的毒品。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/russian-court-sentences-kingpin-of-hydra-drug-marketplace-to-life-in-prison/</guid>
+      <pubDate>Wed, 04 Dec 2024 12:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>防濺墊其實是排泄物的來源。 CDC 報告了 1 萬種疾病</title>
       <link>https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>「噩夢」Zipcar 中斷是對應用程式完全依賴的警告</title>
       <link>https://arstechnica.com/gadgets/2024/12/nightmare-zipcar-outage-is-a-warning-against-complete-app-dependency/</link>
-      <description><![CDATA[Zipcar 將其歸咎於“網站流量增加”，但對應用程式的完全依賴也是罪魁禍首。]]></description>
+      <description><![CDATA[Zipcar 將此歸咎於“網站流量增加”，但對應用程式的完全依賴也是罪魁禍首。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/nightmare-zipcar-outage-is-a-warning-against-complete-app-dependency/</guid>
       <pubDate>Tue, 03 Dec 2024 21:49:20 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>中國禁止美國用於科技製造的關鍵礦物</title>
       <link>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</link>
-      <description><![CDATA[中國禁止向美國出口鎵、鍺、銻和超硬材料。]]></description>
+      <description><![CDATA[中國禁止美國出口鎵、鍺、銻和超硬材料。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</guid>
       <pubDate>Tue, 03 Dec 2024 15:50:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>麥片效應激發了新穎的機器人設計</title>
-      <link>https://arstechnica.com/science/2024/12/vodka-can-propel-tiny-robots-across-the-water/</link>
-      <description><![CDATA[科普課堂演示有一天可能會帶來為微型機器人提供動力的應用。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/vodka-can-propel-tiny-robots-across-the-water/</guid>
-      <pubDate>Tue, 03 Dec 2024 15:39:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
