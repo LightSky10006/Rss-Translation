@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 06:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 07:37:11 GMT</lastBuildDate>
+    <item>
+      <title>Google DeepMind 吹捧人工智慧模型可實現「更好」的全球天氣預報</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</link>
+      <description><![CDATA[基於歷史資料進行預測，而不是求解物理方程式 Google DeepMind 研究人員聲稱，他們已經使用機器學習設計了一個模型，可以提供更好的15 天天氣預報，並且只需要少量的資料計算資源來產生預測。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</guid>
+      <pubDate>Thu, 05 Dec 2024 07:27:14 GMT</pubDate>
+    </item>
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不同的中國科技政策議程將使兄弟關係陷入「複雜」狀態 Canalys 亞太地區論壇 以通路為中心的分析公司Canalys 的執行長兼創始人預測，該聯盟當選總統唐納德·特朗普和雄心勃勃的寡頭埃隆·馬斯克之間的爭端將於2025 年瓦解，特斯拉在全自動駕駛汽車上的執行能力將面臨風險。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/musk_trump_china_agenda/</guid>
       <pubDate>Wed, 04 Dec 2024 07:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>針對微軟涉嫌向其他雲端上的 Windows 客戶收取過高費用的 10 億英鎊訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/lawsuit_microsoft_windows/</link>
-      <description><![CDATA[是的，我們之前已經討論過這個問題- 事實上好幾次了 微軟在英國被起訴，索賠金額超過10 億英鎊，原因是微軟聲稱雷德蒙德向企業收取過高的Windows 費用在競爭雲平台上使用的伺服器許可證。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/lawsuit_microsoft_windows/</guid>
-      <pubDate>Wed, 04 Dec 2024 06:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
