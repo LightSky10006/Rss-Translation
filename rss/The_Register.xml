@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 18:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:44:37 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11 24H2 推出到更多裝置 - 已知問題清單不斷增加</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/microsoft_windows_roll_out/</link>
+      <description><![CDATA[隨著遊戲玩家面臨黑屏，相容性仍然存在 隨著Microsoft 作業系統進入“可用性的新階段”，Windows 11 24H2 將吸引更多用戶。 &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/microsoft_windows_roll_out/</guid>
+      <pubDate>Thu, 05 Dec 2024 18:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>FreeBSD 14.2 希望吸引 Docker 粉絲，但在 Wi-Fi 方面仍然遇到困難</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/freebsd_142/</link>
@@ -71,14 +78,14 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
+      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>中國鼓勵本土企業尋求美國矽的替代品</title>
+      <title>北京希望中國企業尋求美國矽的替代品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/china_stop_buying_us_chips_advice/</link>
-      <description><![CDATA[由於北京禁止稀土出口，稀土可能會出現供應短缺 中國四家頂級行業機構已發佈建議，建議成員減少從美國矽礦企業採購半導體，因為制裁引起的供應鏈問題意味著他們「不再安全可靠。」...]]></description>
+      <description><![CDATA[由於中國禁止稀土出口，美國零件可能會出現供應短缺 中國四家頂級行業機構已發佈建議，建議成員減少從美國矽投料商採購半導體，因為供應鏈問題制裁意味著它們「不再安全可靠。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/china_stop_buying_us_chips_advice/</guid>
       <pubDate>Thu, 05 Dec 2024 05:37:59 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[軟體巨頭表示，TPM 2.0 對於最新作業系統「不可協商」 微軟不會放棄Windows 11 的硬體要求，並表示可信任平台模組(TPM) 對於Windows 11 的硬體要求至關重要作業系統，即使它不是 Windows Server 2025 最低要求的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/</guid>
       <pubDate>Wed, 04 Dec 2024 19:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲 Vega C 火箭獲準今晚發射，這是自 2022 年以來的首次發射</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</link>
-      <description><![CDATA[大陸新發射器過去的噴嘴問題 阿麗亞娜航天公司的Vega C 將於今晚重返飛行，距上次發射失敗的第二階段故障已經過去近兩年了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
