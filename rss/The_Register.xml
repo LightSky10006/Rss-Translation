@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 11:11:54 GMT</lastBuildDate>
+    <item>
+      <title>英國電信集團證實攻擊者試圖闖入會議部門</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/</link>
+      <description><![CDATA[Black Basta 發布後，敏感數據據稱從美國子公司被盜 BT 集團證實，在Black Basta 勒索軟體組織聲稱他們闖入後，該公司正在處理對其傳統業務部門之一的未遂攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:03:14 GMT</pubDate>
+    </item>
     <item>
       <title>Wubuntu：無人問津的 Windows 和 Linux 的私生子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/wubuntu/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[用戶組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其舊版本地 ERP 系統的用戶將被設置為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</guid>
       <pubDate>Wed, 04 Dec 2024 11:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xfce、Mint、Cinnamon 桌面的新版本及時在假期發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</link>
-      <description><![CDATA[Cinnamon 6.4 已經發布，Xfce 4.20 也即將準備好 想在假期期間花時間刷新您的設定嗎？兩種更流行的 Windows 風格的 FOSS 桌面即將發布新的點版本，一種用於高端機器，一種用於低階套件。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/</guid>
-      <pubDate>Wed, 04 Dec 2024 09:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
