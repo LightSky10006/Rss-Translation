@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 13:43:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 14:13:28 GMT</lastBuildDate>
+    <item>
+      <title>希望有機器學習安全基準嗎？讓我們用AI照亮您...</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/mlcommons_ai_safety_benchmark/</link>
+      <description><![CDATA[很大程度上是1.0 – 但這是一個堅實的開始 業界領先的人工智慧聯盟MLCommons 於週三推出了AILuminate – 用於評估產品中大型語言模型安全性的基準。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/mlcommons_ai_safety_benchmark/</guid>
+      <pubDate>Thu, 05 Dec 2024 14:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>沃達豐和三號獲準喜結連理－如果他們承諾遵守規矩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/cma_vodafone_three_approved/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
+      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[毒品、殭屍網路、偽造文件以及為平台賣家帶來更多財富 德國當局表示，他們再次關閉了可能名稱不明智的Crimenetwork 平台，並逮捕了一名涉嫌管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/germany_crimenetwork_arrest/</guid>
       <pubDate>Wed, 04 Dec 2024 15:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟表示過早的補丁可能會讓Windows Recall忘記如何運作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</link>
-      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些急切的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</guid>
-      <pubDate>Wed, 04 Dec 2024 14:03:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
