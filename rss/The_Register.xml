@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 18:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 20:15:26 GMT</lastBuildDate>
+    <item>
+      <title>加拿大加入人工智慧軍備競賽，承諾向主權運算基礎設施投資 1.4B 美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/canada_ai_funding/</link>
+      <description><![CDATA[項目包括數億加元用於國家超級計算設施 加拿大是最新發現主權人工智能缺陷的國家之一，併計劃投資 20 億加元（14.2 億美元）來支持通過資助北緯49 度線以北新資料中心和計算基礎設施的開發來提高國家的國內運算能力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/canada_ai_funding/</guid>
+      <pubDate>Thu, 05 Dec 2024 20:00:34 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 24H2 推出到更多裝置 - 已知問題清單不斷增加</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/microsoft_windows_roll_out/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
+      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[訴訟稱電子商務巨頭在未告知居民的情況下從自己的車隊中刪除了兩個郵政編碼 亞馬遜在美國首都遇到了麻煩，該市總檢察長在今天提起的訴訟中聲稱該公司排除了最快的 Prime 送貨服務的兩個郵政編碼，無需通知客戶。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/washington_dc_amazon_prime/</guid>
       <pubDate>Wed, 04 Dec 2024 21:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟確認 Windows 11 硬體需求不會掉頭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/</link>
-      <description><![CDATA[軟體巨頭表示，TPM 2.0 對於最新作業系統「不可協商」 微軟不會放棄Windows 11 的硬體要求，並表示可信任平台模組(TPM) 對於Windows 11 的硬體要求至關重要作業系統，即使它不是 Windows Server 2025 最低要求的一部分。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/</guid>
-      <pubDate>Wed, 04 Dec 2024 19:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
