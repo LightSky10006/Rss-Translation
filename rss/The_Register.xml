@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 13:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 13:43:42 GMT</lastBuildDate>
+    <item>
+      <title>沃達豐和三號獲準喜結連理－如果他們承諾遵守規矩</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/cma_vodafone_three_approved/</link>
+      <description><![CDATA[合併將在英國行動市場創建第三大營運商 只要雙方承諾滿足某些條件，沃達豐和 Three 的合併提議已獲得英國競爭監管機構的批准。此舉將創建第三家大型行動營運商，預計這將為BT/EE 和Virgin Media O2 (VMO2) 帶來更激烈的競爭。 =&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/cma_vodafone_three_approved/</guid>
+      <pubDate>Thu, 05 Dec 2024 13:17:11 GMT</pubDate>
+    </item>
     <item>
       <title>遭受網路攻擊的英國醫院仍在努力讓系統恢復正常運行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
+      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>微軟表示過早的補丁可能會讓Windows Recall忘記如何運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</link>
-      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些熱心的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
+      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些急切的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</guid>
       <pubDate>Wed, 04 Dec 2024 14:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elementary OS 8「Circe」帶來 Wayland 魔法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/elementary_os_8/</link>
-      <description><![CDATA[基於Ubuntu 24.04，更多可訪問性，看起來仍然很棒 Elementary OS 8“Circe”在這裡，基於Ubuntu 24.04，在Pantheon 桌面中支援Wayland。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/elementary_os_8/</guid>
-      <pubDate>Wed, 04 Dec 2024 12:35:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

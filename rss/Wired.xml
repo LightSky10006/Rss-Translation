@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 05 Dec 2024 13:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 13:43:48 GMT</lastBuildDate>
+    <item>
+      <title>我們信任薩姆·奧爾特曼？</title>
+      <link>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</link>
+      <description><![CDATA[本週，我們在《恐怖谷》中深入探討了 Open AI 的 Sam Altman。]]></description>
+      <guid>https://www.wired.com/story/uncanny-valley-podcast-5-in-sam-altman-we-trust/</guid>
+      <pubDate>Thu, 05 Dec 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我乘坐直升機飛越正在噴發的冰島火山。也許你也可以</title>
       <link>https://www.wired.com/story/iceland-erupting-volcano-helicopter-tour/</link>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 04 Dec 2024 21:01:23 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧驅動的機器人可能被誘騙進行暴力行為</title>
+      <title>人工智慧驅動的機器人可能會被誘騙進行暴力行為</title>
       <link>https://www.wired.com/story/researchers-llm-ai-robot-violence/</link>
       <description><![CDATA[研究人員入侵了多個注入大型語言模型的機器人，讓它們做出危險的行為，並指出了未來更大的問題。]]></description>
       <guid>https://www.wired.com/story/researchers-llm-ai-robot-violence/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[想聽兩個機器人談論你的音樂品味嗎？在這個 Wrapped 季節，Spotify 和 Google 聯手讓這個夢想（或噩夢）成為現實。]]></description>
       <guid>https://www.wired.com/story/spotify-wrapped-ai-podcasts/</guid>
       <pubDate>Wed, 04 Dec 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星 QN90D QLED 電視評測：令人眼花撩亂的高點、穩定的低點</title>
-      <link>https://www.wired.com/review/samsung-qn90d/</link>
-      <description><![CDATA[三星堅定的 QLED 電視仍然是明亮房間戰士的贏家。]]></description>
-      <guid>https://www.wired.com/review/samsung-qn90d/</guid>
-      <pubDate>Wed, 04 Dec 2024 12:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

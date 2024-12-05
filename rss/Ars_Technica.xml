@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 01:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 13:43:15 GMT</lastBuildDate>
+    <item>
+      <title>後門潛入流行程式碼庫，從數位錢包流失約 15.5 萬美元</title>
+      <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
+      <description><![CDATA[Solana-web3.js 程式碼庫耗盡私鑰，從而可以存取用戶錢包。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>產前檢查結果不穩定，50% 的人意外檢出癌症</title>
+      <link>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</link>
+      <description><![CDATA[當其他篩檢和測試未能發現時，產前檢查結果卻發現了癌症。]]></description>
+      <guid>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>印第安納瓊斯與大圓是完美的考古冒險</title>
+      <link>https://arstechnica.com/gaming/2024/12/indiana-jones-and-the-great-circle-captures-the-feel-of-a-great-indy-movie/</link>
+      <description><![CDATA[評論： 令人驚嘆的開放世界環境完善了一個緊張而充滿樂趣的冒險故事。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/indiana-jones-and-the-great-circle-captures-the-feel-of-a-great-indy-movie/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:00:26 GMT</pubDate>
+    </item>
     <item>
       <title>這些蜘蛛在像彈弓一樣投擲網之前會傾聽獵物的聲音</title>
       <link>https://arstechnica.com/science/2024/12/these-spiders-listen-for-prey-before-hurling-webs-like-slingshots/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[大多數主要電動車製造商和充電網路都已加入。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</guid>
       <pubDate>Wed, 04 Dec 2024 17:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 解決天氣預報問題，性能出色</title>
-      <link>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</link>
-      <description><![CDATA[在一台處理器上只需 8 分鐘即可完成 15 天的單一預測。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟重申 Windows 11 的「不可協商」TPM 2.0 要求</title>
-      <link>https://arstechnica.com/gadgets/2024/12/microsoft-reiterates-non-negotiable-tpm-2-0-requirement-for-windows-11/</link>
-      <description><![CDATA[微軟不會降低 Windows 11 的要求來拯救舊版 Windows 10 電腦。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/microsoft-reiterates-non-negotiable-tpm-2-0-requirement-for-windows-11/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>立即加入我們的 Ars Live：Asahi Linux 如何將開放軟體移植到 Apple 的硬體</title>
-      <link>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</link>
-      <description><![CDATA[東部時間週三下午 3:30 加入我們，了解在 Apple Silicon 上運行 Linux 的努力。]]></description>
-      <guid>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:15:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
