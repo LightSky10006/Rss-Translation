@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 19:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 21:12:25 GMT</lastBuildDate>
+    <item>
+      <title>新的 Broadcom 銷售計劃對於阻止 VMware 遷移可能“微不足道”</title>
+      <link>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</link>
+      <description><![CDATA[Broadcom 只會佔據 VMware 最大客戶中的 500 個，而不是 2,000 個。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</guid>
+      <pubDate>Thu, 05 Dec 2024 20:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究：由於地球吸收較多陽光，氣候暖化加速</title>
+      <link>https://arstechnica.com/science/2024/12/new-study-blames-recent-spike-in-global-warming-on-lack-of-low-clouds/</link>
+      <description><![CDATA[如果這是一種趨勢，那麼未來的暖化將達到預期的最高值。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/new-study-blames-recent-spike-in-global-warming-on-lack-of-low-clouds/</guid>
+      <pubDate>Thu, 05 Dec 2024 20:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 表示不會用一半的有線網路建置光纖家庭互聯網</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</link>
+      <description><![CDATA[AT&amp;T 正在放棄銅纜並建造光纖，但許多公司只能獲得 5G 或衛星。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</guid>
+      <pubDate>Thu, 05 Dec 2024 19:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>線上支付公司的執行長如何成為美國太空總署領導者的提名人？</title>
+      <link>https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/</link>
+      <description><![CDATA[預計美國航太局將發生重大變化。]]></description>
+      <guid>https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/</guid>
+      <pubDate>Thu, 05 Dec 2024 19:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 宣布完整的「o1」推理模型，200 美元的 ChatGPT Pro 等級</title>
       <link>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[今天，Rivian 90 多個快速充電站中的第一個向其他電動車開放。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</guid>
       <pubDate>Thu, 05 Dec 2024 16:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特幣觸及 10 萬美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/bitcoin-hits-100000/</link>
-      <description><![CDATA[隨著比特幣創下新高，川普推動的加密貨幣漲勢仍在持續。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/bitcoin-hits-100000/</guid>
-      <pubDate>Thu, 05 Dec 2024 15:43:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>電子紋身可以使移動腦電圖成為現實</title>
-      <link>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</link>
-      <description><![CDATA[新型聚合物導電墨水可以直接印在頭皮表面——甚至可以穿過討厭的短髮。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</guid>
-      <pubDate>Thu, 05 Dec 2024 15:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>後門潛入流行程式碼庫，從數位錢包流失約 15.5 萬美元</title>
-      <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
-      <description><![CDATA[Solana-web3.js 程式碼庫耗盡私鑰，從而可以存取用戶錢包。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</guid>
-      <pubDate>Thu, 05 Dec 2024 12:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>產前檢查結果不穩定，50% 的人意外檢出癌症</title>
-      <link>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</link>
-      <description><![CDATA[當其他篩檢和測試未能發現癌症時，產前檢查結果卻發現了癌症。]]></description>
-      <guid>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</guid>
-      <pubDate>Thu, 05 Dec 2024 12:18:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
