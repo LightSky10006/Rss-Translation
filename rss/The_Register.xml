@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 15:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 17:12:15 GMT</lastBuildDate>
+    <item>
+      <title>FreeBSD 14.2 希望吸引 Docker 粉絲，但在 Wi-Fi 方面仍然遇到困難</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/freebsd_142/</link>
+      <description><![CDATA[另一個流行詞框被勾選：符合OSI 的容器 FreeBSD 14.2，最廣泛使用的BSD 的最新版本，帶來了一些新功能來吸引Docker 粉絲。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/freebsd_142/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:04:11 GMT</pubDate>
+    </item>
     <item>
       <title>Arianespace 的 Vega C 因龍門架發脾氣而延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/arianespace_vega_c_delay/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大陸新發射器過去的噴嘴問題 阿麗亞娜航天公司的Vega C 將於今晚重返飛行，距上次發射失敗的第二階段故障已經過去近兩年了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/</guid>
       <pubDate>Wed, 04 Dec 2024 18:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟從新聞得知新的反壟斷調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</link>
-      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙德很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
