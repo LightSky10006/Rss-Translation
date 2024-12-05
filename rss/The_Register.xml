@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 04 Dec 2024 23:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 01:03:57 GMT</lastBuildDate>
+    <item>
+      <title>T-Mobile 美國 CSO：間諜以「我職業生涯中從未見過」的方式從一家電信公司跳到另一家電信公司</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/tmobile_cso_telecom_attack/</link>
+      <description><![CDATA[聯邦安全主管與 El Reg 對話，聯準會敦促所有人使用加密聊天 採訪並且在某些情況下仍然沒有被排除——T-Mobile US的安全主管Jeff Simon 表示，「在個位數的時間內」成功挫敗了對其係統的攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/tmobile_cso_telecom_attack/</guid>
+      <pubDate>Thu, 05 Dec 2024 00:52:57 GMT</pubDate>
+    </item>
     <item>
       <title>裂變不可能嗎？ Meta 希望美國將高達 4GW 的原子能用於人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/meta_us_nuclear_power/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[已有20 年歷史的資訊外洩類別錯誤仍然普遍存在於安全軟體中 在SailPoint 披露其身分和存取管理(IAM) 中的完美10/10 嚴重性漏洞之後，是時候加快這些補丁引擎了平台 IdentityIQ。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/sailpoint_identityiq_vulnerability/</guid>
       <pubDate>Tue, 03 Dec 2024 23:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>對於那些在年底仍在使用 Windows 郵件、日曆、人脈應用程式的人來說，Outlook 的表現很差</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/03/windows_mail_calendar_support/</link>
-      <description><![CDATA[我們確信您會喜歡上新的 Outlook for Windows 應用 Microsoft 正準備在本月底之前淘汰舊的 Windows 郵件、日曆和人脈應用，並進行轉變用戶訪問Outlook for Windows 應用程序。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/03/windows_mail_calendar_support/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
