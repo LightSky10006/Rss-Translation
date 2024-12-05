@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 07:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 08:44:36 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體宿醉，伏特加製造商破產歸咎於普丁的怨恨</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/putin_ransomware_stoli_group/</link>
+      <description><![CDATA[Stoli 集團在美國陷入困境 酒精巨頭Stoli 集團的兩家美國子公司本週申請破產保護，原因是8 月份的勒索軟體攻擊加劇了財務困難。 p&gt;  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/putin_ransomware_stoli_group/</guid>
+      <pubDate>Thu, 05 Dec 2024 08:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Google DeepMind 吹捧人工智慧模型可實現「更好」的全球天氣預報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
+      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>微軟從新聞得知新的反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</link>
-      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
+      <description><![CDATA[別介意我們涉嫌欺騙客戶 - 雷德蒙德告訴監管機構，你們是一群洩密者 微軟對據報道最近由 FTC 啟動的反壟斷調查感到不滿，但不是為了你可能會這樣想：雷德蒙德很生氣，因為它透過閱讀新聞發現了這次調查。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/</guid>
       <pubDate>Wed, 04 Dec 2024 16:30:13 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>SAP 傳統 ERP 使用者明智地忽略了單一躍遷到雲端的服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</link>
-      <description><![CDATA[使用者小組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其傳統本地 ERP 系統的用戶將被設定為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
+      <description><![CDATA[用戶組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其舊版本地 ERP 系統的用戶將被設置為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</guid>
       <pubDate>Wed, 04 Dec 2024 11:37:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[他們吃了紅色藥丸 已更新 法國和荷蘭警方已取締Matrix 聊天應用程序，該應用程序是犯罪分子為犯罪分子設計的安全加密消息傳遞工具。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/eurocop_crack_matrix/</guid>
       <pubDate>Wed, 04 Dec 2024 08:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析師預測馬斯克和川普將在 2025 年鬧翻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/musk_trump_china_agenda/</link>
-      <description><![CDATA[不同的中國科技政策議程將使兄弟關係陷入「複雜」狀態 Canalys 亞太地區論壇 以通路為中心的分析公司Canalys 的執行長兼創始人預測，該聯盟當選總統唐納德·特朗普和雄心勃勃的寡頭埃隆·馬斯克之間的爭端將於2025 年瓦解，特斯拉在全自動駕駛汽車上的執行能力將面臨風險。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/musk_trump_china_agenda/</guid>
-      <pubDate>Wed, 04 Dec 2024 07:26:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
