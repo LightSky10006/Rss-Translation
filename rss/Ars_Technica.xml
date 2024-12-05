@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 17:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 19:10:15 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 宣布完整的「o1」推理模型，200 美元的 ChatGPT Pro 等級</title>
+      <link>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</link>
+      <description><![CDATA[OpenAI 的完整“o1”人工智慧模型“更小、更快”，而 ChatGPT Pro 用戶可以獲得更強大的版本。]]></description>
+      <guid>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</guid>
+      <pubDate>Thu, 05 Dec 2024 18:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 接管了 Firefox 的第三方 Apple 密碼自動填充擴展</title>
+      <link>https://arstechnica.com/gadgets/2024/12/firefox-users-on-macos-can-finally-autofill-apple-passwords-in-their-browser/</link>
+      <description><![CDATA[蘋果似乎已經獲得了一個可以與 Firefox 同步密碼的第三方插件。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/firefox-users-on-macos-can-finally-autofill-apple-passwords-in-their-browser/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>很快，ChatGPT 背後的技術可能會幫助無人機操作員決定要殺死哪些敵人</title>
+      <link>https://arstechnica.com/ai/2024/12/openai-and-anduril-team-up-to-build-ai-powered-drone-defense-systems/</link>
+      <description><![CDATA[OpenAI 和 Palmer Luckey 的武器公司簽署協議，探索軍事用途的致命無人機防禦。]]></description>
+      <guid>https://arstechnica.com/ai/2024/12/openai-and-anduril-team-up-to-build-ai-powered-drone-defense-systems/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:50:38 GMT</pubDate>
+    </item>
     <item>
       <title>蒸汽機的回歸？ Valve 推出新的「Powered by SteamOS」品牌。</title>
       <link>https://arstechnica.com/gaming/2024/12/the-return-of-steam-machines-valve-rolls-out-new-powered-by-steamos-branding/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[當其他篩檢和測試未能發現癌症時，產前檢查結果卻發現了癌症。]]></description>
       <guid>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</guid>
       <pubDate>Thu, 05 Dec 2024 12:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>這些蜘蛛在像彈弓一樣投擲網之前會傾聽獵物的聲音</title>
-      <link>https://arstechnica.com/science/2024/12/these-spiders-listen-for-prey-before-hurling-webs-like-slingshots/</link>
-      <description><![CDATA[彈道網的速度可達近 1 m/s，可在 38 毫秒內捕獲蚊子。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/these-spiders-listen-for-prey-before-hurling-webs-like-slingshots/</guid>
-      <pubDate>Wed, 04 Dec 2024 23:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>狗的馴化發生過很多次，但大多數都沒有成功</title>
-      <link>https://arstechnica.com/science/2024/12/dog-domestication-happened-many-times-but-most-didnt-pan-out/</link>
-      <description><![CDATA[我們與狼、狗甚至土狼的關係一直很複雜。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/dog-domestication-happened-many-times-but-most-didnt-pan-out/</guid>
-      <pubDate>Wed, 04 Dec 2024 22:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 從明天開始將推出為期 12 天的神祕產品</title>
-      <link>https://arstechnica.com/ai/2024/12/openai-teases-12-days-of-mystery-product-launches-starting-tomorrow/</link>
-      <description><![CDATA[OpenAI 的「12 天的 Shipmas」將在兩週內發布新的 AI 版本和演示。]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/openai-teases-12-days-of-mystery-product-launches-starting-tomorrow/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:15:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
