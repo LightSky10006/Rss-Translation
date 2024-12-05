@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 12:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 13:02:44 GMT</lastBuildDate>
+    <item>
+      <title>遭受網路攻擊的英國醫院仍在努力讓系統恢復正常運行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</link>
+      <description><![CDATA[兒童醫院和心臟科表示犯罪分子透過共享「數位網關服務」入侵 負責監管上周遭受單獨網路攻擊的各家醫院的兩個國家衛生服務信託機構均已確認，他們仍處於危險之中恢復系統的過程...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</guid>
+      <pubDate>Thu, 05 Dec 2024 12:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>英國電信集團證實攻擊者試圖闖入會議部門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>臨時可列印紋身可能是腦電圖的未來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
+      <description><![CDATA[科學家使用客製化無邊便帽捕捉，呃，更多腦電波的偉大腦波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
       <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Broadcom 改變計劃，自行為 2,000 家 VMware 客戶提供服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</link>
-      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
+      <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 將此舉描述為“180 度大轉彎”。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟表示過早的補丁可能會讓Windows Recall忘記如何運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</link>
-      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些急切的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
+      <description><![CDATA[安裝了 2024 年最終非安全預覽更新？最好不要跳到開發頻道 微軟已經找出為什麼一些熱心的 Windows Insider 無法說服 Recall 預覽版保存任何快照。這一切都歸咎於令人討厭的非安全預覽。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/</guid>
       <pubDate>Wed, 04 Dec 2024 14:03:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[基於Ubuntu 24.04，更多可訪問性，看起來仍然很棒 Elementary OS 8“Circe”在這裡，基於Ubuntu 24.04，在Pantheon 桌面中支援Wayland。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/elementary_os_8/</guid>
       <pubDate>Wed, 04 Dec 2024 12:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 傳統 ERP 使用者明智地忽略了單一躍遷到雲端的服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</link>
-      <description><![CDATA[用戶組主席表示，多階段旅程是高風險切換的首選 根據 SAP 英國和愛爾蘭用戶組主席的說法，其舊版本地 ERP 系統的用戶將被設置為在遷移到雲之前升級他們的軟體，第一步避開供應商的首選方法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/</guid>
-      <pubDate>Wed, 04 Dec 2024 11:37:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
