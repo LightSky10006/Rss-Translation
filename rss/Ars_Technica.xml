@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 21:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 23:13:21 GMT</lastBuildDate>
     <item>
-      <title>新的 Broadcom 銷售計劃對於阻止 VMware 遷移可能“微不足道”</title>
+      <title>法官駁回遭到墜機罹難者家屬反對的波音認罪協議</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/judge-rejects-boeing-plea-deal-that-was-opposed-by-families-of-crash-victims/</link>
+      <description><![CDATA[法官寫道，政府「確保合規的嘗試似乎失敗了」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/judge-rejects-boeing-plea-deal-that-was-opposed-by-families-of-crash-victims/</guid>
+      <pubDate>Thu, 05 Dec 2024 21:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Broadcom 推翻了有爭議的計劃，努力剔除 VMware 遷移</title>
       <link>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</link>
       <description><![CDATA[Broadcom 只會佔據 VMware 最大客戶中的 500 個，而不是 2,000 個。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 05 Dec 2024 19:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 宣布完整的「o1」推理模型，200 美元的 ChatGPT Pro 等級</title>
+      <title>OpenAI 宣布完整的“o1”推理模型，200 美元的 ChatGPT Pro 級別</title>
       <link>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</link>
       <description><![CDATA[OpenAI 的完整“o1”人工智慧模型“更小、更快”，而 ChatGPT Pro 用戶可以獲得更強大的版本。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[iVerify 的檢測工具於 5 月推出，正在發現受害者。]]></description>
       <guid>https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/</guid>
       <pubDate>Thu, 05 Dec 2024 17:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 今天向其他電動車開放其冒險充電網絡</title>
-      <link>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</link>
-      <description><![CDATA[今天，Rivian 90 多個快速充電站中的第一個向其他電動車開放。]]></description>
-      <guid>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</guid>
-      <pubDate>Thu, 05 Dec 2024 16:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
