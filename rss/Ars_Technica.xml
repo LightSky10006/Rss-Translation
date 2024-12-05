@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 14:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 15:40:06 GMT</lastBuildDate>
+    <item>
+      <title>電子紋身可以使移動腦電圖成為現實</title>
+      <link>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</link>
+      <description><![CDATA[新型聚合物導電墨水可以直接印在頭皮表面——甚至可以穿過討厭的短髮。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</guid>
+      <pubDate>Thu, 05 Dec 2024 15:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>後門潛入流行程式碼庫，從數位錢包流失約 15.5 萬美元</title>
       <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>狗的馴化發生過很多次，但大多數都沒有成功</title>
       <link>https://arstechnica.com/science/2024/12/dog-domestication-happened-many-times-but-most-didnt-pan-out/</link>
-      <description><![CDATA[我們與狼、狗甚至土狼的關係一直很複雜。]]></description>
+      <description><![CDATA[我們與狼、狗甚至郊狼的關係一直很複雜。]]></description>
       <guid>https://arstechnica.com/science/2024/12/dog-domestication-happened-many-times-but-most-didnt-pan-out/</guid>
       <pubDate>Wed, 04 Dec 2024 22:16:36 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[大多數主要電動車製造商和充電網路都已加入。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</guid>
       <pubDate>Wed, 04 Dec 2024 17:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 解決天氣預報問題，性能出色</title>
-      <link>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</link>
-      <description><![CDATA[在一台處理器上只需 8 分鐘即可完成 15 天的單一預測。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
