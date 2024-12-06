@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Dec 2024 09:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 09:38:43 GMT</lastBuildDate>
+    <item>
+      <title>微軟資深工程師分享一些企業支援技巧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/</link>
+      <description><![CDATA[如何在不告訴客戶他們是白痴的情況下告訴他們他們是白痴 微軟資深人士雷蒙德·陳 (Raymond Chen) 透露了 Microsoft 內部的另一個產品支援技巧。這次，我們不是要批評連接器，而是要避免給客戶的購買決策帶來一些尷尬的陰影。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/</guid>
+      <pubDate>Fri, 06 Dec 2024 09:32:14 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署發現獵戶座隔熱板裂縫不會煮阿耳忒彌斯二號機組人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/nasa_orion_heatshield_investigation/</link>
@@ -139,13 +146,6 @@
       <description><![CDATA[基於歷史資料進行預測，而不是求解物理方程式 Google DeepMind 研究人員聲稱，他們已經使用機器學習設計了一個模型，可以提供更好的15 天天氣預報，並且只需要少量的資料計算資源來產生預測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</guid>
       <pubDate>Thu, 05 Dec 2024 07:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>臨時可列印紋身可能是腦電圖的未來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</link>
-      <description><![CDATA[科學家使用定制無邊便帽來捕獲，呃，更多腦電波 據說美國的書呆子們創造了一種更簡單、更快、同樣可靠但更酷的方式來獲取信息。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/</guid>
-      <pubDate>Thu, 05 Dec 2024 06:28:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
