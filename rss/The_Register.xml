@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Dec 2024 14:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 15:39:37 GMT</lastBuildDate>
+    <item>
+      <title>Vega-C 最終發射了 ESA 的下一個哨兵衛星</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/</link>
+      <description><![CDATA[自上次努力失敗以來近兩年才重返飛行 阿麗亞娜航太公司終於成功地將Vega-C 返回飛行，為歐洲太空總署(ESA) 攜帶哨兵有效載荷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/</guid>
+      <pubDate>Fri, 06 Dec 2024 15:25:14 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾計劃重塑自身，領導階層更迭，代工重點更為突出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/intel_foundry_focus/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 06 Dec 2024 12:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲最大的地方當局認定 ERP 預算是原預算的 5 倍</title>
+      <title>歐洲最大的地方當局確定 ERP 預算是原預算的 5 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</link>
       <description><![CDATA[學校已超出範圍，但1.08 億英鎊的計劃仍比最初的2000 萬英鎊相形見絀 歐洲最大的地方當局已就用Oracle 災難性地取代SAP 的1.08 億英鎊（1.37 億美元）帳單達成和解，直到2026 年，是最初預測的五倍，晚了五年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</guid>
@@ -41,14 +48,14 @@
       <pubDate>Fri, 06 Dec 2024 08:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>不，我無能為力 – 您在錯誤的地點、錯誤的平台撥打了錯誤的服務台</title>
+      <title>不，我幫不上忙 – 您在錯誤的地點、錯誤的平台撥打了錯誤的幫助台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</link>
-      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的樂趣和嬉鬧故事。]]></description>
+      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的有趣和嬉鬧的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</guid>
       <pubDate>Fri, 06 Dec 2024 07:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>PoC 利用鏈 Mitel MiCollab 0 天、繞過身份驗證錯誤來存取敏感文件</title>
+      <title>PoC 利用 Mitel MiCollab 0 天、繞過身份驗證的漏洞來存取敏感文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</link>
       <description><![CDATA[watchTowr 表示，100 多天後仍未修補 Mitel MiCollab 中的零日任意檔案讀取漏洞可以與同一平台中現已修補的關鍵錯誤連結起來，使攻擊者能夠存取敏感資訊易受攻擊實例上的檔案。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</guid>
@@ -59,35 +66,35 @@
 <br/>
 814,265,248,164,610,048 IPv6 位址</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</link>
-      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。就這麼多了…]]></description>
+      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。這麼多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</guid>
       <pubDate>Fri, 06 Dec 2024 02:33:09 GMT</pubDate>
     </item>
     <item>
       <title>微軟：“截至昨天”，又有一個中國網路間諜組織針對美國關鍵組織</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/</link>
-      <description><![CDATA[雷蒙德威脅英特爾專家會談向The Reg解釋了這種持續的痛苦微軟追蹤的一個與中國政府有關聯的組織Storm-0227昨天開始針對關鍵基礎設施組織和美國據雷德蒙的威脅情報團隊稱，政府機構…]]></description>
+      <description><![CDATA[雷蒙德威脅英特爾專家會談向The Reg解釋了這種持續存在的痛苦微軟追蹤的一個與中國政府有聯繫的組織Storm-0227一直在積極針對關鍵組織和美國根據雷德蒙德的威脅情報團隊的說法，截至昨天，政府機構的資訊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/</guid>
       <pubDate>Fri, 06 Dec 2024 01:03:12 GMT</pubDate>
     </item>
     <item>
       <title>Solana 區塊鏈流行的 web3.js npm 包被後門竊取金鑰和資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</link>
-      <description><![CDATA[損害可能僅限於那些運行具有私鑰存取權的機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
+      <description><![CDATA[損害可能僅限於那些具有私鑰存取權限的運行機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</guid>
       <pubDate>Thu, 05 Dec 2024 23:13:34 GMT</pubDate>
     </item>
     <item>
       <title>核電誓言第二天，Meta 宣布推出有史以來最大的由化石燃料供電的資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/meta_largestever_datacenter/</link>
-      <description><![CDATA[路易斯安那工廠的三個天然氣渦輪機工廠將生產2,262 兆瓦 里奇蘭教區是美國路易斯安那州東北部田園詩般的鄉村地區，將託管一個巨大的新元數據中心。]]></description>
+      <description><![CDATA[路易斯安那工廠的三座天然氣渦輪機工廠將生產2,262 兆瓦 里奇蘭教區是美國路易斯安那州東北部田園詩般的鄉村地區，將託管一個巨大的新元數據中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/meta_largestever_datacenter/</guid>
       <pubDate>Thu, 05 Dec 2024 22:20:09 GMT</pubDate>
     </item>
     <item>
       <title>奧特曼對馬斯克說：不要完全成為超級反派——那太不美國了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</link>
-      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克(Elon Musk) 不要利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為「非美國」。]]></description>
+      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克不會利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為“非美國”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</guid>
       <pubDate>Thu, 05 Dec 2024 21:30:15 GMT</pubDate>
     </item>
@@ -139,13 +146,6 @@
       <description><![CDATA[兒童醫院和心臟科表示犯罪分子透過共享「數位網關服務」入侵 更新已確認他們仍在恢復系統的過程中。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</guid>
       <pubDate>Thu, 05 Dec 2024 12:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國電信集團證實攻擊者試圖闖入會議部門</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/</link>
-      <description><![CDATA[Black Basta 發布後，敏感數據據稱從美國子公司被盜 BT 集團證實，在Black Basta 勒索軟體組織聲稱他們闖入後，該公司正在處理對其傳統業務部門之一的未遂攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/</guid>
-      <pubDate>Thu, 05 Dec 2024 11:03:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
