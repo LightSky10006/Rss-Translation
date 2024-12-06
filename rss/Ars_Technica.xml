@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 06 Dec 2024 04:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 08:43:29 GMT</lastBuildDate>
+    <item>
+      <title>兩顆歐洲衛星發射任務：為了科學遮蔽太陽</title>
+      <link>https://arstechnica.com/space/2024/12/two-european-satellites-launch-on-mission-to-blot-out-the-sun-for-science/</link>
+      <description><![CDATA[這一切都將發生在距離地球近 40,000 英里的地方，因此您不需要日食眼鏡。]]></description>
+      <guid>https://arstechnica.com/space/2024/12/two-european-satellites-launch-on-mission-to-blot-out-the-sun-for-science/</guid>
+      <pubDate>Fri, 06 Dec 2024 04:39:15 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 表示獵戶座的隔熱罩非常適合阿耳忒彌斯二號 - 但這重要嗎？</title>
       <link>https://arstechnica.com/uncategorized/2024/12/nasa-says-orions-heat-shield-is-good-to-go-for-artemis-ii-but-does-it-matter/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[OpenAI 的完整“o1”人工智慧模型“更小、更快”，而 ChatGPT Pro 用戶可以獲得更強大的版本。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/</guid>
       <pubDate>Thu, 05 Dec 2024 18:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 接管了 Firefox 的第三方 Apple 密碼自動填充擴展</title>
-      <link>https://arstechnica.com/gadgets/2024/12/firefox-users-on-macos-can-finally-autofill-apple-passwords-in-their-browser/</link>
-      <description><![CDATA[蘋果似乎已經獲得了一個可以與 Firefox 同步密碼的第三方插件。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/firefox-users-on-macos-can-finally-autofill-apple-passwords-in-their-browser/</guid>
-      <pubDate>Thu, 05 Dec 2024 17:57:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
