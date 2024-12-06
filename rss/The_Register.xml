@@ -4,7 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 05 Dec 2024 23:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 02:46:49 GMT</lastBuildDate>
+    <item>
+      <title>華為交出了2,596,148,429,267,413，
+<br/>
+814,265,248,164,610,048 IPv6 位址</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</link>
+      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。就這麼多了…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</guid>
+      <pubDate>Fri, 06 Dec 2024 02:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟：“截至昨天”，又有一個中國網路間諜組織針對美國關鍵組織</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/</link>
+      <description><![CDATA[雷蒙德威脅英特爾專家會談向The Reg解釋了這種持續的痛苦微軟追蹤的一個與中國政府有關聯的組織Storm-0227昨天開始針對關鍵基礎設施組織和美國據雷德蒙的威脅情報團隊稱，政府機構…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/</guid>
+      <pubDate>Fri, 06 Dec 2024 01:03:12 GMT</pubDate>
+    </item>
     <item>
       <title>Solana 區塊鏈流行的 web3.js npm 包被後門竊取金鑰和資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</link>
@@ -130,20 +146,6 @@
       <description><![CDATA[現在希望與500 家合作，更多地依靠合作夥伴來抵禦遷移- 戴爾表示這是可能的 Canalys 亞太區論壇 博通已修改其策略以使其發揮作用直接與前2,000 名“戰略”VMware 用戶接觸，而將只關注500 名——Canalys 首席分析師Alastair Edwards 稱此舉為“180 度大轉彎”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/</guid>
       <pubDate>Thu, 05 Dec 2024 02:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>北約測試水上無人機以保護電纜和海岸線</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/nato_navy_drone/</link>
-      <description><![CDATA[提出機器人海軍的想法 北約正在測試潛在部隊的硬件，該部隊將操作無人水面艦艇 (USV) 在成員國沿海水域巡邏，並幫助保護海底電纜免受攻擊. ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/nato_navy_drone/</guid>
-      <pubDate>Thu, 05 Dec 2024 01:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile 美國 CSO：間諜以「我職業生涯中從未見過」的方式從一家電信公司跳到另一家電信公司</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/tmobile_cso_telecom_attack/</link>
-      <description><![CDATA[聯邦安全主管與 El Reg 對話，聯準會敦促所有人使用加密聊天 採訪並且在某些情況下仍然沒有被排除——T-Mobile US的安全主管Jeff Simon 表示，「在個位數的時間內」成功挫敗了對其係統的攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/tmobile_cso_telecom_attack/</guid>
-      <pubDate>Thu, 05 Dec 2024 00:52:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
