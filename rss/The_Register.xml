@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Dec 2024 10:14:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 11:11:48 GMT</lastBuildDate>
+    <item>
+      <title>歐洲最大的地方當局確定 ERP 預算是原預算的 5 倍</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</link>
+      <description><![CDATA[學校已超出範圍，但1.08 億英鎊的計劃仍比最初的2000 萬英鎊相形見絀 歐洲最大的地方當局已就用Oracle 災難性地取代SAP 的1.08 億英鎊（1.37 億美元）帳單達成和解，直到2026 年，是最初預測的五倍，晚了五年…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</guid>
+      <pubDate>Fri, 06 Dec 2024 11:01:15 GMT</pubDate>
+    </item>
     <item>
       <title>微軟資深工程師分享一些企業支援技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/</link>
@@ -20,25 +27,25 @@
       <pubDate>Fri, 06 Dec 2024 08:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>不，我無能為力 – 您在錯誤的地點、錯誤的平台撥打了錯誤的服務台</title>
+      <title>不，我幫不上忙 – 您在錯誤的地點、錯誤的平台撥打了錯誤的幫助台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</link>
-      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的樂趣和嬉鬧故事。]]></description>
+      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的有趣和嬉鬧的故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</guid>
       <pubDate>Fri, 06 Dec 2024 07:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>PoC 利用鏈 Mitel MiCollab 0 天、繞過身份驗證錯誤來存取敏感文件</title>
+      <title>PoC 利用 Mitel MiCollab 0 天、繞過身份驗證的漏洞來存取敏感文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</link>
       <description><![CDATA[watchTowr 表示，100 多天後仍未修補 Mitel MiCollab 中的零日任意檔案讀取漏洞可以與同一平台中現已修補的關鍵錯誤連結起來，使攻擊者能夠存取敏感資訊易受攻擊實例上的檔案。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</guid>
       <pubDate>Fri, 06 Dec 2024 06:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>華為交出了2,596,148,429,267,413，
+      <title>華為交出2,596,148,429,267,413，
 <br/>
 814,265,248,164,610,048 IPv6 位址</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</link>
-      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。就這麼多了…]]></description>
+      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。這麼多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</guid>
       <pubDate>Fri, 06 Dec 2024 02:33:09 GMT</pubDate>
     </item>
@@ -52,7 +59,7 @@
     <item>
       <title>Solana 區塊鏈流行的 web3.js npm 包被後門竊取金鑰和資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</link>
-      <description><![CDATA[損害可能僅限於那些運行具有私鑰存取權的機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
+      <description><![CDATA[損害可能僅限於那些具有私鑰存取權限的運行機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</guid>
       <pubDate>Thu, 05 Dec 2024 23:13:34 GMT</pubDate>
     </item>
@@ -66,7 +73,7 @@
     <item>
       <title>奧特曼對馬斯克說：不要完全成為超級反派——那太不美國了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</link>
-      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克不會利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為“非美國人”。]]></description>
+      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克不會利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為“非美國”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</guid>
       <pubDate>Thu, 05 Dec 2024 21:30:15 GMT</pubDate>
     </item>
@@ -139,13 +146,6 @@
       <description><![CDATA[Stoli 集團在美國陷入困境 酒精巨頭Stoli 集團的兩家美國子公司本週申請破產保護，原因是8 月份的勒索軟體攻擊加劇了財務困難。 p&gt;  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/putin_ransomware_stoli_group/</guid>
       <pubDate>Thu, 05 Dec 2024 08:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 吹捧人工智慧模型可實現「更好」的全球天氣預報</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</link>
-      <description><![CDATA[基於歷史資料進行預測，而不是求解物理方程式 Google DeepMind 研究人員聲稱，他們已經使用機器學習設計了一個模型，可以提供更好的15 天天氣預報，並且只需要少量的資料計算資源來產生預測。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/</guid>
-      <pubDate>Thu, 05 Dec 2024 07:27:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
