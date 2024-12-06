@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 06 Dec 2024 15:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 17:12:01 GMT</lastBuildDate>
+    <item>
+      <title>Booking.com表示，允許陌生人存取私人旅遊資訊的拼字錯誤並不是一個錯誤</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/</link>
+      <description><![CDATA[熱門旅遊網站證實，在用戶標記隱私問題後，它無法阻止拼字錯誤。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/</guid>
+      <pubDate>Fri, 06 Dec 2024 16:43:43 GMT</pubDate>
+    </item>
     <item>
       <title>成本較低的鈉離子電池終於迎來了它們的時代</title>
       <link>https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 06 Dec 2024 04:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 表示獵戶座的隔熱罩非常適合阿耳忒彌斯二號——但這很重要嗎？</title>
+      <title>NASA 表示獵戶座的隔熱罩非常適合阿耳忒彌斯二號 - 但這重要嗎？</title>
       <link>https://arstechnica.com/uncategorized/2024/12/nasa-says-orions-heat-shield-is-good-to-go-for-artemis-ii-but-does-it-matter/</link>
       <description><![CDATA[依照 NASA 目前的設想，阿耳忒彌斯二號任務要到 2026 年 4 月才會發射。]]></description>
       <guid>https://arstechnica.com/uncategorized/2024/12/nasa-says-orions-heat-shield-is-good-to-go-for-artemis-ii-but-does-it-matter/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>新型無人機配有起落架的腿，可實現高效發射</title>
       <link>https://arstechnica.com/science/2024/12/robotic-bird-like-legs-let-drones-hop-over-obstacles-launch-to-the-skies/</link>
-      <description><![CDATA[RAVEN 會走路、會飛、會跳過障礙物，而且非常有效率。]]></description>
+      <description><![CDATA[RAVEN 可以行走、飛行、跳過障礙，效率很高。]]></description>
       <guid>https://arstechnica.com/science/2024/12/robotic-bird-like-legs-let-drones-hop-over-obstacles-launch-to-the-skies/</guid>
       <pubDate>Thu, 05 Dec 2024 23:34:21 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果這是一種趨勢，那麼未來的暖化將達到預期的最高值。]]></description>
       <guid>https://arstechnica.com/science/2024/12/new-study-blames-recent-spike-in-global-warming-on-lack-of-low-clouds/</guid>
       <pubDate>Thu, 05 Dec 2024 20:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 表示不會用一半的有線網路建置光纖家庭互聯網</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</link>
-      <description><![CDATA[AT&amp;T 正在放棄銅纜並建造光纖，但許多公司只能獲得 5G 或衛星。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:51:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
