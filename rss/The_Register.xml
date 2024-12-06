@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Dec 2024 16:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 17:39:33 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧和分析在新一代 Amazon SageMaker 中融合</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/sagemaker_unified_studio_preview/</link>
+      <description><![CDATA[將所有內容稱為SageMaker 都令人困惑- 但AWS 表示，新名稱會更糟 re:Invent 亞馬遜在re:Invent 會議上推出了新一代SageMaker在拉斯維加斯，將分析和人工智慧結合在一起，但由於以 SageMaker 名稱命名的各種服務，存在一些混亂。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/sagemaker_unified_studio_preview/</guid>
+      <pubDate>Fri, 06 Dec 2024 17:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>Vega-C 最終發射了 ESA 的下一個哨兵衛星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/</link>
@@ -139,13 +146,6 @@
       <description><![CDATA[合併將在英國行動市場創建第三大營運商 只要雙方承諾滿足某些條件，沃達豐和 Three 的合併提議已獲得英國競爭監管機構的批准。此舉將創建第三家大型行動營運商，預計這將為BT/EE 和Virgin Media O2 (VMO2) 帶來更激烈的競爭。 =&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/cma_vodafone_three_approved/</guid>
       <pubDate>Thu, 05 Dec 2024 13:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>遭受網路攻擊的英國醫院仍在努力讓系統恢復正常運行</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</link>
-      <description><![CDATA[兒童醫院和心臟科表示犯罪分子透過共享「數位網關服務」入侵 更新已確認他們仍在恢復系統的過程中。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/</guid>
-      <pubDate>Thu, 05 Dec 2024 12:25:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
