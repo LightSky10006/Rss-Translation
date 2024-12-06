@@ -4,20 +4,27 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 06 Dec 2024 06:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 08:18:02 GMT</lastBuildDate>
     <item>
-      <title>PoC 利用 Mitel MiCollab 0 天、繞過身份驗證的漏洞來存取敏感文件</title>
+      <title>不，我無能為力 – 您在錯誤的地點、錯誤的平台撥打了錯誤的服務台</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</link>
+      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的樂趣和嬉鬧故事。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</guid>
+      <pubDate>Fri, 06 Dec 2024 07:35:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>PoC 利用鏈 Mitel MiCollab 0 天、繞過身份驗證錯誤來存取敏感文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</link>
       <description><![CDATA[watchTowr 表示，100 多天後仍未修補 Mitel MiCollab 中的零日任意檔案讀取漏洞可以與同一平台中現已修補的關鍵錯誤連結起來，使攻擊者能夠存取敏感資訊易受攻擊實例上的檔案。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</guid>
       <pubDate>Fri, 06 Dec 2024 06:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>華為交出2,596,148,429,267,413，
+      <title>華為交出了2,596,148,429,267,413，
 <br/>
 814,265,248,164,610,048 IPv6 位址</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</link>
-      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。這麼多。]]></description>
+      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。就這麼多了…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</guid>
       <pubDate>Fri, 06 Dec 2024 02:33:09 GMT</pubDate>
     </item>
@@ -31,21 +38,21 @@
     <item>
       <title>Solana 區塊鏈流行的 web3.js npm 包被後門竊取金鑰和資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</link>
-      <description><![CDATA[損害可能僅限於那些具有私鑰存取權限的運行機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
+      <description><![CDATA[損害可能僅限於那些運行具有私鑰存取權的機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</guid>
       <pubDate>Thu, 05 Dec 2024 23:13:34 GMT</pubDate>
     </item>
     <item>
       <title>核電誓言第二天，Meta 宣布推出有史以來最大的由化石燃料供電的資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/meta_largestever_datacenter/</link>
-      <description><![CDATA[路易斯安那工廠的三座天然氣渦輪機工廠將生產2,262 兆瓦 里奇蘭教區是美國路易斯安那州東北部田園詩般的鄉村地區，將託管一個巨大的新元數據中心。]]></description>
+      <description><![CDATA[路易斯安那工廠的三個天然氣渦輪機工廠將生產2,262 兆瓦 里奇蘭教區是美國路易斯安那州東北部田園詩般的鄉村地區，將託管一個巨大的新元數據中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/meta_largestever_datacenter/</guid>
       <pubDate>Thu, 05 Dec 2024 22:20:09 GMT</pubDate>
     </item>
     <item>
       <title>奧特曼對馬斯克說：不要完全成為超級反派——那太不美國了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</link>
-      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克不會利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為“非美國”。]]></description>
+      <description><![CDATA[OpenAI 執行長表示，他認為伊隆不會釋放政治權力來削弱人工智慧競爭 OpenAI 老闆薩姆·奧爾特曼(Sam Altman) 表示希望伊隆·馬斯克(Elon Musk) 不要利用他的政治影響力來傷害他的競爭對手，他描述了此類活動被視為「非美國」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/</guid>
       <pubDate>Thu, 05 Dec 2024 21:30:15 GMT</pubDate>
     </item>
@@ -139,13 +146,6 @@
       <description><![CDATA[由於中國禁止稀土出口，美國零件可能會出現供應短缺 中國四家頂級行業機構已發佈建議，建議成員減少從美國矽投料商採購半導體，因為供應鏈問題制裁意味著它們「不再安全可靠。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/china_stop_buying_us_chips_advice/</guid>
       <pubDate>Thu, 05 Dec 2024 05:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國雲瞄準亞太地區中小企業尋求成長</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/chinese_cloud_vendor_apac_prices/</link>
-      <description><![CDATA[小型買家看到大幅折扣，突然不再那麼擔心監管問題 Canalys 亞太區論壇 中國雲供應商在價格上低於美國同行，並進軍亞洲小型和小型企業市場據分析公司 Canalys 稱，中型企業市場。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/chinese_cloud_vendor_apac_prices/</guid>
-      <pubDate>Thu, 05 Dec 2024 04:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
