@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 07 Dec 2024 02:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 03:29:06 GMT</lastBuildDate>
     <item>
       <title>馬斯克 (Elon Musk) 為川普團隊捐贈超過 2.7 億美元，位居美國政治捐贈榜首位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[微軟的作業系統確實喜歡將您的信用資訊丟給遠端系統 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者的作業系統帳戶憑證。]]></description>
+      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
       <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
