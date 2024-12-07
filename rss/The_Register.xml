@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 07 Dec 2024 12:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 14:11:56 GMT</lastBuildDate>
+    <item>
+      <title>微軟推出了 Copilot Vision，這是一款可以判斷你的標籤的人工智慧助手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/07/microsoft_copilot_vision/</link>
+      <description><![CDATA[邊緣專用工具有望成為瀏覽的「第二雙眼睛」 微軟推出了Copilot Vision 預覽版，該預覽版更多地說明了網站的設計有多糟糕，而不是證明需要將更多人工智慧引入其中用戶的生活......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/07/microsoft_copilot_vision/</guid>
+      <pubDate>Sat, 07 Dec 2024 14:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>歐元雲端機構前往微軟總部檢查其兌現承諾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/07/cispe_microsoft/</link>
@@ -139,13 +146,6 @@
       <description><![CDATA[雷蒙德威脅英特爾專家會談向The Reg 解釋了這種持續存在的痛苦微軟追蹤為Storm-2077 的一個與中國政府相關的組織一直在積極針對關鍵組織和美國根據雷德蒙德的威脅情報團隊的說法，截至昨天，政府機構的資訊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/</guid>
       <pubDate>Fri, 06 Dec 2024 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solana 區塊鏈流行的 web3.js npm 包被後門竊取金鑰和資金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</link>
-      <description><![CDATA[損害可能僅限於那些運行具有私有PKI 存取權限的機器人 根據發布的公告，廣泛使用的JavaScript 庫@solana/web3.js 的惡意軟體中毒版本是透過npm 套件註冊表分發的星期三，由專案維護者 Steven Luscher 撰寫。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/</guid>
-      <pubDate>Thu, 05 Dec 2024 23:13:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
