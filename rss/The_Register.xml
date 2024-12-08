@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 08 Dec 2024 09:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 11:10:20 GMT</lastBuildDate>
+    <item>
+      <title>你太不擅長回收了，這家公司建立了一個人工智慧來幫你處理它</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/ai_for_recycling/</link>
+      <description><![CDATA[也許在這些機器學習垃圾機器人獲得知覺之前開始更好地對垃圾進行分類？ ：城市固體垃圾AMP Robotics 正在使用它們從所有其他城市固體廢物 (MSW) 中對可回收物進行分類，而我們的肉袋通常無法正確分離這些廢物。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/ai_for_recycling/</guid>
+      <pubDate>Sun, 08 Dec 2024 10:47:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國研究人員製造出能夠工作一千年或五年的鑽石電池</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/boffins_diamond_battery/</link>
-      <description><![CDATA[碳 14 衰變可能會進入您體內的植入物 影片 英國原子能管理局 (UKAEA) 和布里斯託大學已製造出一種鑽石電池，能夠提供數千年的電力......]]></description>
+      <description><![CDATA[碳 14 衰變可能會進入您體內的植入物 影片 英國原子能管理局 (UKAEA) 和布里斯託大學已製造出一種鑽石電池，能夠提供電力，儘管數量很少，但長達數千年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/boffins_diamond_battery/</guid>
       <pubDate>Sun, 08 Dec 2024 09:30:13 GMT</pubDate>
     </item>
@@ -137,15 +144,6 @@
       <description><![CDATA[watchTowr 稱 100 多天後仍未修補 已更新 Mitel MiCollab 中的零日任意檔案讀取漏洞可能與現已修補的嚴重錯誤相關聯同一平台允許攻擊者存取易受攻擊實例上的敏感檔案。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</guid>
       <pubDate>Fri, 06 Dec 2024 06:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>華為交出2,596,148,429,267,413，
-<br/>
-814,265,248,164,610,048 IPv6 位址</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</link>
-      <description><![CDATA[其中 2.56 十億個位址將用於 CDN 和雲端 - APNIC 還需要 83 十億個位址來處理請求 亞太地區網路註冊機構已為華為分配了 2.56 十億個 IPv6 位址網路資訊中心(APNIC)。就這麼多了…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/</guid>
-      <pubDate>Fri, 06 Dec 2024 02:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
