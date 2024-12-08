@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 08 Dec 2024 11:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 17:10:54 GMT</lastBuildDate>
+    <item>
+      <title>中國內部人士如何竊取習主席國家監控系統所收集的數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/chinese_insiders_stealing_data/</link>
+      <description><![CDATA[安全研究人員告訴The Reg，「這是一把雙刃劍」 專題 中國科技公司員工和政府工作人員正在竊取用戶資料並在線出售-並且甚至中國共產黨高級官員和聯邦調查局通緝的黑客的敏感信息也被中國蓬勃發展的非法數據生態系統所兜售。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/chinese_insiders_stealing_data/</guid>
+      <pubDate>Sun, 08 Dec 2024 17:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>你太不擅長回收了，這家公司建立了一個人工智慧來幫你處理它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/ai_for_recycling/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
+      <description><![CDATA[Microsoft 的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
       <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Vega-C 最終發射了 ESA 的下一個哨兵衛星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/</link>
-      <description><![CDATA[自上次努力失敗以來近兩年才重返飛行 阿麗亞娜航太公司終於成功地將Vega-C 返回飛行，為歐洲太空總署(ESA) 攜帶哨兵有效載荷。]]></description>
+      <description><![CDATA[距離上一次努力失敗近兩年後重返飛行 阿麗亞娜航太公司終於成功將Vega-C 重返飛行，為歐洲太空總署(ESA) 攜帶哨兵有效載荷。 ....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/</guid>
       <pubDate>Fri, 06 Dec 2024 15:25:14 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>俄羅斯壞蛋技術人員智勝聯邦安全局，逃離普丁並被間諜軟體追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/badass_russian_techie_outsmarts_fsb/</link>
-      <description><![CDATA[受到終身監禁的威脅，基輔慈善工作者向國家間諜豎起中指 一名俄羅斯程式設計師公然宣稱自己的手機在被聯邦安全局沒收後感染了間諜軟體，以此公然反抗聯邦安全局(FSB)當局…]]></description>
+      <description><![CDATA[受到終身監禁的威脅，基輔慈善工作者向國家間諜豎起中指 一名俄羅斯程式設計師公然公開了自己的手機在被聯邦安全局沒收後感染了間諜軟體的事實，公然反抗聯邦安全局(FSB)當局…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/badass_russian_techie_outsmarts_fsb/</guid>
       <pubDate>Fri, 06 Dec 2024 12:32:10 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 06 Dec 2024 08:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>不，我無能為力 – 您在錯誤的地點、錯誤的平台撥打了錯誤的服務台</title>
+      <title>不，我幫不上忙 – 您在錯誤的地點、錯誤的平台撥打了錯誤的服務台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</link>
-      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的有趣和嬉鬧的故事。]]></description>
+      <description><![CDATA[打電話給老闆吧。他不太喜歡睡覺 On Call  歡迎再次來到On Call，這是The Register 的讀者投稿專欄，每週五我們都會在其中分享您在科技支援第一線的樂趣和嬉鬧故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/</guid>
       <pubDate>Fri, 06 Dec 2024 07:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>PoC 利用鏈 Mitel MiCollab 0 天、繞過身份驗證錯誤來存取敏感文件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</link>
-      <description><![CDATA[watchTowr 稱 100 多天後仍未修補 已更新 Mitel MiCollab 中的零日任意檔案讀取漏洞可能與現已修補的嚴重錯誤相關聯同一平台允許攻擊者存取易受攻擊實例上的敏感檔案。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/</guid>
-      <pubDate>Fri, 06 Dec 2024 06:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
