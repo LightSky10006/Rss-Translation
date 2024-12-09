@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 02:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 03:34:35 GMT</lastBuildDate>
+    <item>
+      <title>Blue Yonder 勒索軟體白蟻宣稱功勞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/security_in_brief/</link>
+      <description><![CDATA[此外：神秘的美國公司被中國駭客入侵數月；安全連結並非如此；波蘭間諜頭子被捕，還有更多 資訊安全簡介 還在為供應鏈SaaS 供應商Blue Yonder 遭受勒索軟體攻擊而造成雜貨店中斷而感到痛苦嗎？好吧，現在你可以指責某人了：白蟻勒索軟體團夥。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/security_in_brief/</guid>
+      <pubDate>Mon, 09 Dec 2024 03:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>中國推出人工智慧為官僚編寫政治正確的文檔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</link>
-      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一款為官僚生成政治正確文件的工具。 .]]></description>
+      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一個為官僚生成政治正確文件的工具。 ... ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 09 Dec 2024 00:45:09 GMT</pubDate>
     </item>
     <item>
       <title>Kyndryl 的顧問業務可能比看起來少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</link>
-      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明... ]]></description>
+      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</guid>
       <pubDate>Sun, 08 Dec 2024 20:13:08 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[Microsoft 的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
+      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
       <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>俄羅斯壞蛋技術人員智勝聯邦安全局，逃離普丁並被間諜軟體追踪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/badass_russian_techie_outsmarts_fsb/</link>
-      <description><![CDATA[受到終身監禁的威脅，基輔慈善工作者向國家間諜豎起中指 一名俄羅斯程式設計師公然公開了自己的手機在被聯邦安全局沒收後感染了間諜軟體的事實，公然反抗聯邦安全局(FSB)當局…]]></description>
+      <description><![CDATA[受到終身監禁的威脅，基輔慈善工作者向國家間諜豎起中指 一名俄羅斯程式設計師公然宣稱自己的手機在被聯邦安全局沒收後感染了間諜軟體，以此公然反抗聯邦安全局(FSB)當局…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/badass_russian_techie_outsmarts_fsb/</guid>
       <pubDate>Fri, 06 Dec 2024 12:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲最大的地方當局認定 ERP 預算是原預算的 5 倍</title>
+      <title>歐洲最大的地方當局確定 ERP 預算是原預算的 5 倍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</link>
       <description><![CDATA[學校已超出範圍，但1.08 億英鎊的計劃仍比最初的2000 萬英鎊相形見絀 歐洲最大的地方當局已就用Oracle 災難性地取代SAP 的1.08 億英鎊（1.37 億美元）帳單達成和解，直到2026 年，是最初預測的五倍，晚了五年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/</guid>
       <pubDate>Fri, 06 Dec 2024 11:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟資深工程師分享一些企業支援技巧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/</link>
-      <description><![CDATA[如何在不告訴客戶他們是白痴的情況下告訴他們他們是白痴 微軟資深人士雷蒙德·陳 (Raymond Chen) 透露了 Microsoft 內部的另一個產品支援技巧。這次，我們不是要批評連接器，而是要避免給客戶的購買決策帶來一些尷尬的陰影。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
