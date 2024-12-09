@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 08:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 09:40:32 GMT</lastBuildDate>
+    <item>
+      <title>英特爾先生離開英特爾對英特爾來說並不是一個好兆頭</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/opinion_column_gelsinger_intel_departure/</link>
+      <description><![CDATA[帕特·基辛格意外退出。血腥轉儲如下 觀點 在《銀翼殺手》的反烏托邦世界中，殺害流氓超人複製人並不是這樣稱呼的。相反，他們「退休了」。帕特·基辛格（Pat Gelsinger）比當前許多半機械人科技高管更具人性，英特爾董事會也不是哈里森·福特（Harrison Ford），但他們還是讓他“退休”了。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/opinion_column_gelsinger_intel_departure/</guid>
+      <pubDate>Mon, 09 Dec 2024 09:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 500 和顯示器在聖誕節準時到達</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/raspberry_pi_500_monitor/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>印度發射了兩架歐空局太陽觀測器，它們將以極其精確的編隊飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</link>
-      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術......]]></description>
+      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</guid>
       <pubDate>Mon, 09 Dec 2024 05:58:07 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>中國推出人工智慧為官僚編寫政治正確的文檔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</link>
-      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一個為官僚生成政治正確文件的工具。 ... ... ]]></description>
+      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一款為官僚生成政治正確文件的工具。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 09 Dec 2024 00:45:09 GMT</pubDate>
     </item>
     <item>
       <title>Kyndryl 的顧問業務可能比看起來少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</link>
-      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明。]]></description>
+      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</guid>
       <pubDate>Sun, 08 Dec 2024 20:13:08 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
+      <description><![CDATA[Microsoft 的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
       <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在中國國家壞人揭露漏洞後，提案推動更嚴格的資訊安全保障 美國聯邦通訊委員會 (FCC) 主席希望在鹽颱風事件曝光後迫使電信業者加強網路安全，並且提交一份年度報告，詳細說明所採取的措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/salt_typhoon_fcc_proposal/</guid>
       <pubDate>Fri, 06 Dec 2024 18:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧和分析在新一代 Amazon SageMaker 中融合</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/sagemaker_unified_studio_preview/</link>
-      <description><![CDATA[將所有內容稱為SageMaker 都令人困惑- 但AWS 表示，新名稱會更糟 re:Invent 亞馬遜在re:Invent 會議上推出了新一代SageMaker在拉斯維加斯，將分析和人工智慧結合在一起，但由於以 SageMaker 名稱命名的各種服務，存在一些混亂。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/sagemaker_unified_studio_preview/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
