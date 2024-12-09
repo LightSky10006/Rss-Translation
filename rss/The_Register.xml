@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 09:40:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 11:12:04 GMT</lastBuildDate>
+    <item>
+      <title>微軟懸賞 1 萬美元讓駭客劫持 LLM 電子郵件服務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/microsoft_llm_prompt_injection_challenge/</link>
+      <description><![CDATA[智勝人工智慧，贏得一點聖誕現金 微軟和朋友們向人工智慧駭客發起挑戰，要求他們透過即時注入攻擊破解模擬的LLM 整合電子郵件客戶端- 獲勝團隊將分享10,000 美元的獎金泳池…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/microsoft_llm_prompt_injection_challenge/</guid>
+      <pubDate>Mon, 09 Dec 2024 11:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾先生離開英特爾對英特爾來說並不是一個好兆頭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/opinion_column_gelsinger_intel_departure/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>印度發射了兩架歐空局太陽觀測器，它們將以極其精確的編隊飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</link>
-      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術。]]></description>
+      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</guid>
       <pubDate>Mon, 09 Dec 2024 05:58:07 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>中國推出人工智慧為官僚編寫政治正確的文檔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</link>
-      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一款為官僚生成政治正確文件的工具。 .]]></description>
+      <description><![CDATA[PLUS：政治人物認為韓國的戒嚴令是深度偽造的；蘋果為印尼籌集了 10 億美元；中國對開源英特爾的擔憂；等等 亞洲簡訊 中國網路和人工智慧巨頭百度上週與政府通訊機構學西合作，創建了一個為官僚生成政治正確文件的工具。 ... ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 09 Dec 2024 00:45:09 GMT</pubDate>
     </item>
     <item>
       <title>Kyndryl 的顧問業務可能比看起來少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</link>
-      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明... ]]></description>
+      <description><![CDATA[內部人士表示，這很大程度上是一個標籤問題 特別報告 Kyndryl 押注於成為一家以諮詢為主導的企業，但最近離開IT 行業的人對此表示懷疑該公司的聲明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/08/kyndryl_consulting_business/</guid>
       <pubDate>Sun, 08 Dec 2024 20:13:08 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[Microsoft 的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
+      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
       <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[一個訂閱者需要多少AI？ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/openai_unveils_chatgpt_pro_for/</guid>
       <pubDate>Fri, 06 Dec 2024 20:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>鹽颱風迫使 FCC 採取措施確保電信公司的網路安全</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/salt_typhoon_fcc_proposal/</link>
-      <description><![CDATA[在中國國家壞人揭露漏洞後，提案推動更嚴格的資訊安全保障 美國聯邦通訊委員會 (FCC) 主席希望在鹽颱風事件曝光後迫使電信業者加強網路安全，並且提交一份年度報告，詳細說明所採取的措施。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/salt_typhoon_fcc_proposal/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:27:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
