@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 09 Dec 2024 19:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 21:12:36 GMT</lastBuildDate>
+    <item>
+      <title>蘋果因終止有爭議的 CSAM 檢測工具而遭受 $1.2B 訴訟</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/</link>
+      <description><![CDATA[訴訟稱，蘋果故意忽視兒童色情內容是一場「永無止境的惡夢」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/</guid>
+      <pubDate>Mon, 09 Dec 2024 20:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>舊石器時代的深洞大院可能用於儀式</title>
+      <link>https://arstechnica.com/science/2024/12/paleolithic-deep-cave-compound-likely-used-for-rituals/</link>
+      <description><![CDATA[刻有海龜的巨石、良好的音響效果和火炬照明——您還需要什麼來度過美好時光？]]></description>
+      <guid>https://arstechnica.com/science/2024/12/paleolithic-deep-cave-compound-likely-used-for-rituals/</guid>
+      <pubDate>Mon, 09 Dec 2024 20:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 首次推出人工智慧驅動的討論搜尋——但用戶會喜歡它嗎？</title>
+      <link>https://arstechnica.com/ai/2024/12/reddit-debuts-ai-powered-discussion-search-but-will-users-like-it/</link>
+      <description><![CDATA[「Reddit Answers」將透過人工智慧產生的使用者內容摘要來回答問題。]]></description>
+      <guid>https://arstechnica.com/ai/2024/12/reddit-debuts-ai-powered-discussion-search-but-will-users-like-it/</guid>
+      <pubDate>Mon, 09 Dec 2024 19:59:47 GMT</pubDate>
+    </item>
     <item>
       <title>有線電視服務供應商將數據上限與食物菜單進行比較：不要讓我們提供無限量的湯</title>
       <link>https://arstechnica.com/tech-policy/2024/12/cable-isps-compare-data-caps-to-food-menus-dont-make-us-offer-unlimited-soup/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>在首次預告十個月後，OpenAI 公開推出 Sora 影片生成</title>
       <link>https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/</link>
-      <description><![CDATA[這是一次重大發布，但人工智慧視訊合成競爭在過去 10 個月中已經白熱化。]]></description>
+      <description><![CDATA[這是一次重大發布，但人工智慧影片合成競爭在過去 10 個月中不斷升溫。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/</guid>
       <pubDate>Mon, 09 Dec 2024 19:06:24 GMT</pubDate>
     </item>
@@ -41,9 +62,9 @@
       <pubDate>Mon, 09 Dec 2024 18:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>Itch.io 平台短暫歸結為「人工智慧驅動」的反網路釣魚報告</title>
+      <title>由於「人工智慧驅動」的反網路釣魚報告，Itch.io 平台短暫癱瘓</title>
       <link>https://arstechnica.com/gaming/2024/12/itch-io-platform-briefly-goes-down-to-ai-driven-anti-phishing-report/</link>
-      <description><![CDATA[違規內容被刪除後，網域註冊商未能回應。]]></description>
+      <description><![CDATA[違規內容被刪除後，網域名稱註冊商未能回應。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/itch-io-platform-briefly-goes-down-to-ai-driven-anti-phishing-report/</guid>
       <pubDate>Mon, 09 Dec 2024 17:25:41 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[採用 Pi 5 的新型 PC 還配備了可選的便攜式 1080p 顯示器。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/raspberry-pi-500-updates-sub-100-desktop-pc-with-more-speed-optional-monitor/</guid>
       <pubDate>Mon, 09 Dec 2024 17:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>肥胖率下降。是因為吃減肥藥嗎？</title>
-      <link>https://arstechnica.com/health/2024/12/obesity-rates-are-down-is-that-because-of-weight-loss-drugs/</link>
-      <description><![CDATA[最近的一項調查結果引發了疑問。]]></description>
-      <guid>https://arstechnica.com/health/2024/12/obesity-rates-are-down-is-that-because-of-weight-loss-drugs/</guid>
-      <pubDate>Mon, 09 Dec 2024 15:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>詹姆斯·韋伯的最新數據暗示了宇宙膨脹中的新物理</title>
-      <link>https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/</link>
-      <description><![CDATA[這些最新發現進一步支持了哈伯太空望遠鏡先前的膨脹率測量。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/</guid>
-      <pubDate>Mon, 09 Dec 2024 14:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 2024 年 Ars Technica 慈善活動中贏得硬體、收藏品等</title>
-      <link>https://arstechnica.com/gaming/2024/12/win-hardware-collectibles-and-more-in-the-2024-ars-technica-charity-drive/</link>
-      <description><![CDATA[幫助我們為公益事業籌集資金，幫助您自己獲得獎品。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/12/win-hardware-collectibles-and-more-in-the-2024-ars-technica-charity-drive/</guid>
-      <pubDate>Mon, 09 Dec 2024 12:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
