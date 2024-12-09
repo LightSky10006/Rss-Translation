@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 11:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 13:04:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 在 Windows 11 24H2 中標記 Outlook 問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/outlook_windows_11_issue/</link>
+      <description><![CDATA[同時，365 Enterprise 用戶即將推出新的 Outlook Microsoft 承認 Windows 11 24H2 中的問題可能會阻止 Outlook 啟動。也確認 Microsoft 365 企業版用戶將於 2026 年 4 月切換到新的 Outlook。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/outlook_windows_11_issue/</guid>
+      <pubDate>Mon, 09 Dec 2024 12:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟懸賞 1 萬美元讓駭客劫持 LLM 電子郵件服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/microsoft_llm_prompt_injection_challenge/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>思科技術陷入恐慌，這要歸功於古老的 IOS 文法助手，它比自己更聰明</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/who_me/</link>
-      <description><![CDATA[捷徑放錯導致溝通中斷 誰，我？   親愛的讀者，高興吧，因為今天是星期一－每個人都期待的一天。不？嗯，這片雲的一線希望是《誰，我？ – The Reg 每週講述技術人員的故事，他們認為自己正在修復某些問題，但卻熄火了。 &#39;/data_centre/_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[捷徑放錯導致溝通中斷 誰，我？   親愛的讀者，高興吧，因為今天是星期一－每個人都期待的一天。不？好吧，這片雲的一線希望是《誰，我？ – The Reg 每週講述技術人員的故事，他們認為自己正在修復某些問題，但卻熄火了。 &#39;/data_centre/_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/who_me/</guid>
       <pubDate>Mon, 09 Dec 2024 06:58:06 GMT</pubDate>
     </item>
     <item>
       <title>印度發射了兩架歐空局太陽觀測器，它們將以極其精確的編隊飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</link>
-      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術......]]></description>
+      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</guid>
       <pubDate>Mon, 09 Dec 2024 05:58:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[股票暴跌，聲譽直線下降，但是，當然，讓我們關注辦公室使用情況 波音公司已暫停安裝和使用員工監控感測器，包括位於華盛頓州埃弗里特的辦公室，一名員工洩漏了該計劃後，媒體進行了調查。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/boeing_employee_surveillance/</guid>
       <pubDate>Fri, 06 Dec 2024 21:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 ChatGPT Pro 每月收費 200 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/openai_unveils_chatgpt_pro_for/</link>
-      <description><![CDATA[一個訂閱者需要多少AI？ /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/openai_unveils_chatgpt_pro_for/</guid>
-      <pubDate>Fri, 06 Dec 2024 20:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
