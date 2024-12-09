@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 16:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 17:12:23 GMT</lastBuildDate>
+    <item>
+      <title>剛果民主共和國高死亡率的神祕疫情可能危及科技供應鏈</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/drc_disease/</link>
+      <description><![CDATA[如果這種不明的致命病原體傳播到寬戈省農村地區以外，該行業是否準備好接受測試？疾病（剛果民主共和國），雖然目前認為全球大流行風險較低，但世界上一些最大的科技巨頭可能希望重新啟動這些疫情供應鏈中斷計畫。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/drc_disease/</guid>
+      <pubDate>Mon, 09 Dec 2024 17:02:10 GMT</pubDate>
+    </item>
     <item>
       <title>騙子從配置錯誤的網站竊取了 AWS 憑證，然後將其保存在開放的 S3 儲存桶中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/aws_credentials_stolen/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美國收緊科技封鎖之際，中國對英偉達展開反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/nvidia_antitrust_probe_china/</link>
-      <description><![CDATA[北京援引四年前GPU 巨頭Mellanox 的合併條件 Nvidia 已受到中國國家監管機構的反壟斷調查，這可能是對美國出口限制的回應，這是中美之間正在進行的晶片戰爭的一部分兩個國家。]]></description>
+      <description><![CDATA[北京援引四年前GPU 巨頭Mellanox 的合併條件 更新  Nvidia 已遭到中國國家監管機構的反壟斷調查，這可能是對美國出口限制的回應兩國之間正在進行的晶片戰爭的一部分......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/nvidia_antitrust_probe_china/</guid>
       <pubDate>Mon, 09 Dec 2024 15:00:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[想把家裡的混亂拋在腦後嗎？佈滿中世紀廢墟的美麗島嶼將自己宣傳為電子商務場所 馬恩島政府舉辦了一次年度會議，以宣傳這個小國作為在線企業的目的地。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/07/digital_isle_2024/</guid>
       <pubDate>Sat, 07 Dec 2024 09:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克 (Elon Musk) 為川普團隊捐贈超過 2.7 億美元，位居美國政治捐贈榜首位</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/</link>
-      <description><![CDATA[此外，xAI 又獲得了60 億美元，以推動特斯拉大亨對OpenAI 的戰爭 馬斯克(Elon Musk) 向支持唐納德·特朗普(Donald Trump) 2024 年總統競選和其他美國右翼競選公職的政治團體捐贈了超過2.7 億美元，根據聯邦選舉委員會本週發布的捐款數據......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/</guid>
-      <pubDate>Sat, 07 Dec 2024 00:46:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
