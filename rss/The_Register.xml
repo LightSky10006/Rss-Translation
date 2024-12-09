@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 09 Dec 2024 15:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 16:46:56 GMT</lastBuildDate>
+    <item>
+      <title>騙子從配置錯誤的網站竊取了 AWS 憑證，然後將其保存在開放的 S3 儲存桶中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/aws_credentials_stolen/</link>
+      <description><![CDATA[與ShinyHunters 相關的搶劫被認為自3 月以來一直在持續 獨家 針對AWS 客戶的大規模在線搶劫，在此期間，數字騙子濫用公共網站中的錯誤配置並竊取原始程式碼，據安全研究人員稱，數以千計的憑證和其他秘密仍然「持續至今」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/aws_credentials_stolen/</guid>
+      <pubDate>Mon, 09 Dec 2024 16:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>美國收緊科技封鎖之際，中國對英偉達展開反壟斷調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/nvidia_antitrust_probe_china/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>思科技術陷入恐慌，這要歸功於古老的 IOS 文法助手，它比自己更聰明</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/who_me/</link>
-      <description><![CDATA[捷徑放錯導致溝通中斷 誰，我？   親愛的讀者，高興吧，因為今天是星期一－每個人都期待的一天。不？好吧，這片雲的一線希望是《誰，我？ – The Reg 每週講述技術人員的故事，他們認為自己正在修復某些問題，但卻熄火了。 &#39;/data_centre/_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[捷徑放錯導致溝通中斷 誰，我？   親愛的讀者，高興吧，因為今天是星期一－每個人都期待的一天。不？嗯，這片雲的一線希望是《誰，我？ – The Reg 每週講述技術人員的故事，他們認為自己正在修復某些問題，但卻熄火了。 &#39;/data_centre/_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/who_me/</guid>
       <pubDate>Mon, 09 Dec 2024 06:58:06 GMT</pubDate>
     </item>
     <item>
       <title>印度發射了兩架歐空局太陽觀測器，它們將以極其精確的編隊飛行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</link>
-      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術。]]></description>
+      <description><![CDATA[Proba-3 的Occulter 將遮擋太陽，產生日冕儀可以觀測到的類似日食的效果 印度航天局上週發射了兩顆歐洲航天局衛星，有望展示高精度編隊飛行使創建“虛擬衛星”成為可能的技術......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/isro_esa_formation_flight_proba3/</guid>
       <pubDate>Mon, 09 Dec 2024 05:58:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外，xAI 又獲得了60 億美元，以推動特斯拉大亨對OpenAI 的戰爭 馬斯克(Elon Musk) 向支持唐納德·特朗普(Donald Trump) 2024 年總統競選和其他美國右翼競選公職的政治團體捐贈了超過2.7 億美元，根據聯邦選舉委員會本週發布的捐款數據......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/07/elon_election_spending/</guid>
       <pubDate>Sat, 07 Dec 2024 00:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Micropatchers 分享了針對 Windows 7+ 中 NTLM 哈希洩漏缺陷的 1 條指令修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</link>
-      <description><![CDATA[微軟的作業系統確實喜歡在遠端系統上洩露您的信用 已更新 Acros Security 聲稱在Microsoft Windows 7 及更高版本中發現了一個未修補的錯誤，可利用該錯誤竊取使用者資訊&#39; 作業系統帳戶憑證。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/</guid>
-      <pubDate>Fri, 06 Dec 2024 23:34:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
