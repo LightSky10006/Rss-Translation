@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Dec 2024 17:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 19:11:04 GMT</lastBuildDate>
+    <item>
+      <title>出於安全考慮，美軍停飛整個「魚鷹」傾轉旋翼機艦隊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/us_military_osprey/</link>
+      <description><![CDATA[V-22 似乎無法擺脫其曲折的過去 出於安全考慮，美國海軍、空軍和海軍陸戰隊已將其魚鷹V-22 機隊停飛。 p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/us_military_osprey/</guid>
+      <pubDate>Tue, 10 Dec 2024 19:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>財務狀況不佳後，甲骨文接受了大紅現實檢查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/oracle_q2_2025/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Gelsinger 的離開，是否 fab 是 70 億美元的問題</title>
+      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>TikTok 呼籲川普或最高法院稍後決定其命運</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</link>
-      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉其的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
+      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉它的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</guid>
       <pubDate>Tue, 10 Dec 2024 06:29:13 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴高層辱罵自己的員工和客戶，並迅速道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</link>
-      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款，他說。員工看手機進行罰款。]]></description>
+      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款 中國科技巨頭阿里巴巴娛樂部門的首席執行官會對員工看手機進行罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</guid>
       <pubDate>Tue, 10 Dec 2024 05:15:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[目前還沒有關於誰被窺探的消息。有賭注嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/white_house_salt_typhoon/</guid>
       <pubDate>Mon, 09 Dec 2024 19:01:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟對 Intel 和 AMD 為基礎的 Copilot+ PC 進行召回</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/windows_recall_intel_amd/</link>
-      <description><![CDATA[更多Windows Insider 可以了解快照程式是否已修復 Microsoft 正在擴大Recall Preview 的推出範圍，以包含執行AMD 和基於Intel 的Copilot+ PC 的開發頻道Windows Insider。 /p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/windows_recall_intel_amd/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:09:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
