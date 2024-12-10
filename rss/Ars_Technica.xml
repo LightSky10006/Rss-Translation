@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 10 Dec 2024 16:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 17:11:58 GMT</lastBuildDate>
+    <item>
+      <title>新的 BadRAM 攻擊破壞了 AMD Epyc 處理器的安全保證</title>
+      <link>https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/</link>
+      <description><![CDATA[即使伺服器受到威脅，攻擊也會繞過 AMD 保護保證安全。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/</guid>
+      <pubDate>Tue, 10 Dec 2024 17:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>大型乳牛場禽流感病例呈上升趨勢</title>
       <link>https://arstechnica.com/health/2024/12/avian-flu-cases-are-on-the-upswing-at-big-dairy-farms/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[刻有海龜的巨石、良好的音響效果和火炬照明——您還需要什麼來度過美好時光？]]></description>
       <guid>https://arstechnica.com/science/2024/12/paleolithic-deep-cave-compound-likely-used-for-rituals/</guid>
       <pubDate>Mon, 09 Dec 2024 20:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 首次推出人工智慧驅動的討論搜尋——但用戶會喜歡它嗎？</title>
-      <link>https://arstechnica.com/ai/2024/12/reddit-debuts-ai-powered-discussion-search-but-will-users-like-it/</link>
-      <description><![CDATA[「Reddit Answers」將透過人工智慧產生的使用者內容摘要來回答問題。]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/reddit-debuts-ai-powered-discussion-search-but-will-users-like-it/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:59:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
