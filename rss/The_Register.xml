@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Dec 2024 22:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 22:40:32 GMT</lastBuildDate>
     <item>
-      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
+      <title>特斯拉因涉嫌自動駕駛儀在另一起致命事故中失靈而被起訴</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</link>
+      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來解決與先前訴訟中類似的索賠。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
+      <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>TikTok 呼籲川普或最高法院稍後決定其命運</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</link>
-      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉其的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
+      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉它的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</guid>
       <pubDate>Tue, 10 Dec 2024 06:29:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[星鏈衛星可能會惹惱天文學家，但至少它們很容易被發現 太空碎片追蹤專家Neuraspace 增加了另一台光學望遠鏡，以將衛星追蹤範圍擴展到南半球。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/neuraspace_second_telescope/</guid>
       <pubDate>Mon, 09 Dec 2024 23:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 推出人工智慧驅動的「答案」搜尋功能，Reddit 用戶並不高興</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/reddit_ai_answers_search_feature/</link>
-      <description><![CDATA[許多用戶對當前的搜尋狀態不滿意，想知道為什麼它得到優先考慮 Reddit 的內部搜尋引擎經常被批評為該網站最弱的功能之一，但該平台聲稱人工智慧整合將使其成為「更快、更聰明、更相關。」...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/reddit_ai_answers_search_feature/</guid>
-      <pubDate>Mon, 09 Dec 2024 21:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
