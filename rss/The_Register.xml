@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Dec 2024 11:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:26:43 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 將最終的 Exchange Server 2019 累積更新延遲到 2025 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</link>
+      <description><![CDATA[管理員的節日很安靜，但明年會很忙 Microsoft 已將 Exchange Server 2019 的最終累積更新推遲到 2025 年。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</guid>
+      <pubDate>Tue, 10 Dec 2024 11:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>SAP 表示 GenAI 將協助解決遺留移轉技能短缺問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/sap_says_genai_will_help/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[同時，365 Enterprise 使用者已確定新 Outlook 的推出日期 Microsoft 承認 Windows 11 24H2 中的問題可能會阻止 Outlook 啟動。也確認 Microsoft 365 企業版用戶將於 2026 年 4 月切換到新的 Outlook。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/outlook_windows_11_issue/</guid>
       <pubDate>Mon, 09 Dec 2024 12:37:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟懸賞 1 萬美元讓駭客劫持 LLM 電子郵件服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/microsoft_llm_prompt_injection_challenge/</link>
-      <description><![CDATA[智勝人工智慧，贏得一點聖誕現金 微軟和朋友們向人工智慧駭客發起挑戰，要求他們透過即時注入攻擊破解模擬的LLM 整合電子郵件客戶端- 獲勝團隊將分享10,000 美元的獎金泳池…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/microsoft_llm_prompt_injection_challenge/</guid>
-      <pubDate>Mon, 09 Dec 2024 11:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
