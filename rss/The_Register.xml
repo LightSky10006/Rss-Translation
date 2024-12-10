@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Dec 2024 12:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 13:03:44 GMT</lastBuildDate>
+    <item>
+      <title>心臟手術設備製造商的安全被繞過，資料被加密和被盜</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/artivion_security_incident/</link>
+      <description><![CDATA[聽起來主動脈很快就解決了 一家心臟手術設備製造商表示，它正在處理“網路安全事件”，該事件具有勒索軟體攻擊的所有特徵。 /p &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/artivion_security_incident/</guid>
+      <pubDate>Tue, 10 Dec 2024 12:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft 將最終的 Exchange Server 2019 累積更新延遲到 2025 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[幾個錯誤可能會導致一段糟糕的時間 OpenWrt 用戶應該將其映像升級到相同版本，以保護自己免受上次向開源Wi-Fi 路由器專案報告的可能的供應鏈攻擊週... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/openwrt_firmware_vulnerabilities/</guid>
       <pubDate>Mon, 09 Dec 2024 14:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 24H2 再次來襲 – Outlook 可能無法在執行 Google Workspace Sync 時啟動</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/outlook_windows_11_issue/</link>
-      <description><![CDATA[同時，365 Enterprise 使用者已確定新 Outlook 的推出日期 Microsoft 承認 Windows 11 24H2 中的問題可能會阻止 Outlook 啟動。也確認 Microsoft 365 企業版用戶將於 2026 年 4 月切換到新的 Outlook。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/outlook_windows_11_issue/</guid>
-      <pubDate>Mon, 09 Dec 2024 12:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
