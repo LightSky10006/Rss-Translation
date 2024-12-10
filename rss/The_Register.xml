@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 10 Dec 2024 13:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 13:43:45 GMT</lastBuildDate>
+    <item>
+      <title>完全修補的 Cleo 產品遭受新一輪「零日」大規模攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/cleo_vulnerability/</link>
+      <description><![CDATA[當客戶等待修補程式時，數千台伺服器成為攻擊目標 安全商店Huntress 的研究人員發現，影響三個Cleo 檔案管理產品的漏洞被大規模利用，甚至在已修補的系統上也是如此。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/cleo_vulnerability/</guid>
+      <pubDate>Tue, 10 Dec 2024 13:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>心臟手術設備製造商的安全被繞過，資料被加密和被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/artivion_security_incident/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>TikTok 呼籲川普或最高法院稍後決定其命運</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</link>
-      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉其的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
+      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉它的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</guid>
       <pubDate>Tue, 10 Dec 2024 06:29:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[北京援引四年前GPU 巨頭Mellanox 的合併條件 更新  Nvidia 已遭到中國國家監管機構的反壟斷調查，這可能是對美國出口限制的回應兩國之間正在進行的晶片戰爭的一部分......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/nvidia_antitrust_probe_china/</guid>
       <pubDate>Mon, 09 Dec 2024 15:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>供應鏈攻擊恐慌後 OpenWrt 下令更新路由器韌體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/09/openwrt_firmware_vulnerabilities/</link>
-      <description><![CDATA[幾個錯誤可能會導致一段糟糕的時間 OpenWrt 用戶應該將其映像升級到相同版本，以保護自己免受上次向開源Wi-Fi 路由器專案報告的可能的供應鏈攻擊週... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/09/openwrt_firmware_vulnerabilities/</guid>
-      <pubDate>Mon, 09 Dec 2024 14:04:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
