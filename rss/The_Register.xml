@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 13:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 14:41:49 GMT</lastBuildDate>
+    <item>
+      <title>微軟劫持鍵盤快速鍵讓 Copilot 吸引你的注意</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_copilot_keyboard_shortcut/</link>
+      <description><![CDATA[AI 助理在某種程度上為Windows Insiders 提供了原生功能 Copilot 已為Windows Insiders 提供了原生功能，並在此過程中使用了流行的鍵盤快捷鍵。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_copilot_keyboard_shortcut/</guid>
+      <pubDate>Wed, 11 Dec 2024 14:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>通用汽車認為無法競爭並希望削減成本，巡航機器人計程車永遠停放</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>法官讓 WP Engine 在與 Automattic 的法律訴訟中獲勝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</link>
-      <description><![CDATA[Mullenweg 及其同事被命令恢復WP Engine 對wordpress.org 的訪問並停止接觸WordPress 安裝 WordPress 託管公司Automattic 及其首席執行官Matthew Mullenweg 已被命令停止幹擾競爭對手WP Engine的業務...]]></description>
+      <description><![CDATA[Mullenweg 及其同事被勒令恢復WP Engine 對wordpress.org 的訪問並停止接觸WordPress 安裝 已更新 WordPress 託管公司Automattic 及其首席執行官Matthew Mullenweg已被勒令停止幹擾競爭對手 WP Engine 的業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</guid>
       <pubDate>Wed, 11 Dec 2024 01:59:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[管理員的節日很安靜，但明年會很忙 Microsoft 已將 Exchange Server 2019 的最終累積更新推遲到 2025 年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</guid>
       <pubDate>Tue, 10 Dec 2024 11:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP 表示 GenAI 將協助解決遺留移轉技能短缺問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/sap_says_genai_will_help/</link>
-      <description><![CDATA[隨著2027 年支援截止日期的臨近，德國供應商對流行技術充滿信心，以幫助SI 事半功倍 SAP 聲稱其係統整合商合作夥伴將在即將到來的2027 年支援中避免技能短缺使用 GenAI 來處理遺留軟體的最後期限。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/sap_says_genai_will_help/</guid>
-      <pubDate>Tue, 10 Dec 2024 11:01:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
