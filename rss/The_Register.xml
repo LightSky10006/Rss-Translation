@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 09:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:39:20 GMT</lastBuildDate>
     <item>
       <title>Linux 6.12 是新的長期支援內核</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/linux_612_lts/</link>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
+      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Gelsinger 的離開，是否 fab 是 70 億美元的問題</title>
+      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
