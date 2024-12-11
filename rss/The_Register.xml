@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 09:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 10:43:45 GMT</lastBuildDate>
+    <item>
+      <title>自首次飛行十年後，美國太空總署獵戶座仍在等待登月時刻</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/</link>
+      <description><![CDATA[希望再過 10 年，太空艙就不會受到機組人員的困擾 距離 NASA 將獵戶座飛船送入太空進行探索飛行測試 1 任務已有十年了。 /p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/</guid>
+      <pubDate>Wed, 11 Dec 2024 10:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 6.12 是新的長期支援內核</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/linux_612_lts/</link>
@@ -57,12 +64,12 @@
     <item>
       <title>特斯拉因涉嫌自動駕駛儀在另一起致命事故中失靈而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</link>
-      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來討論與先前訴訟中類似的索賠。]]></description>
+      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來解決與先前訴訟中類似的索賠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
+      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
       <pubDate>Tue, 10 Dec 2024 09:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>開源維護者淹沒在人工智慧編寫的垃圾錯誤報告中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/ai_slop_bug_reports/</link>
-      <description><![CDATA[駐場 Python 安全開發人員譴責使用「無法理解程式碼」的機器人 人工智慧模型生成的軟體漏洞提交開創了「開源的草率安全報告的新時代」 –維護這些專案的開發人員希望bug 獵人能夠減少對機器學習助手產生的結果的依賴。 ... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/ai_slop_bug_reports/</guid>
-      <pubDate>Tue, 10 Dec 2024 08:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
