@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 14:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 15:40:41 GMT</lastBuildDate>
+    <item>
+      <title>GoogleGemini 2.0 Flash問世 具備即時對話、影像分析功能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/google_gemini_20_flash_shines/</link>
+      <description><![CDATA[Chocolate Factory 最新的多模式模型旨在為更值得信賴的AI 代理提供支援 Google 週三發布了Gemini 2.0 Flash，這是其AI 模型陣容的最新成員，希望開發人員能夠在AI 領域建立代理應用程式Studio 和 Vertex AI... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/google_gemini_20_flash_shines/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>微軟劫持鍵盤快速鍵讓 Copilot 吸引你的注意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_copilot_keyboard_shortcut/</link>
@@ -85,12 +92,12 @@
     <item>
       <title>特斯拉因涉嫌自動駕駛儀在另一起致命事故中失靈而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</link>
-      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來討論與先前訴訟中類似的索賠。]]></description>
+      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來解決與先前訴訟中類似的索賠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
+      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[聽起來主動脈很快就解決了 一家心臟手術設備製造商表示，它正在處理“網路安全事件”，該事件具有勒索軟體攻擊的所有特徵。 /p &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/artivion_security_incident/</guid>
       <pubDate>Tue, 10 Dec 2024 12:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft 將最終的 Exchange Server 2019 累積更新延遲到 2025 年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</link>
-      <description><![CDATA[管理員的節日很安靜，但明年會很忙 Microsoft 已將 Exchange Server 2019 的最終累積更新推遲到 2025 年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_exchange_server_cu/</guid>
-      <pubDate>Tue, 10 Dec 2024 11:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
