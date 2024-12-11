@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 05:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 06:47:09 GMT</lastBuildDate>
+    <item>
+      <title>《神秘博士》主題被添加到國家聲音檔案中以紀念創新和長壽</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/doctor_who_theme_added_to/</link>
+      <description><![CDATA[澳洲的檔案，也就是說，它是一個澳洲人寫的 英國標誌性科幻電視節目《神秘博士》的主題音樂已被澳洲國家電影和聲音檔案館永垂不朽。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/doctor_who_theme_added_to/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>美國指控中國公民參與 2020 年 Sophos 防火牆攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/sichuan_silence_sophos_zeroday_sanctions/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
+      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Gelsinger 的離開，是否 fab 是 70 億美元的問題</title>
+      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉其的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</guid>
       <pubDate>Tue, 10 Dec 2024 06:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴高層辱罵自己的員工和客戶，並迅速道歉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</link>
-      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款，他說。員工看手機進行罰款。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</guid>
-      <pubDate>Tue, 10 Dec 2024 05:15:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
