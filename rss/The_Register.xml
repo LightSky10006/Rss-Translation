@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 01:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 02:47:16 GMT</lastBuildDate>
+    <item>
+      <title>法官讓 WP Engine 在與 Automattic 的法律訴訟中獲勝</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</link>
+      <description><![CDATA[Mullenweg 及其同事被命令恢復WP Engine 對wordpress.org 的訪問並停止接觸WordPress 安裝 WordPress 託管公司Automattic 及其首席執行官Matthew Mullenweg 已被命令停止幹擾競爭對手WP Engine的業務...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</guid>
+      <pubDate>Wed, 11 Dec 2024 01:59:13 GMT</pubDate>
+    </item>
     <item>
       <title>美國商務部為 Micron 支付 $6.1B 聖誕禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/micron_chips_funded/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>特斯拉因涉嫌自動駕駛儀在另一起致命事故中失靈而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</link>
-      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來解決與先前訴訟中類似的索賠。]]></description>
+      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來討論與先前訴訟中類似的索賠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
+      <title>隨著 Gelsinger 的離開，是否 fab 是 70 億美元的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
@@ -113,14 +120,14 @@
     <item>
       <title>TikTok 呼籲川普或最高法院稍後決定其命運</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</link>
-      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉它的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
+      <description><![CDATA[希望推遲總統就職前一天生效的關閉令 中國製造的社交網絡 TikTok 對美國關閉其的決定提出上訴，稱其截止日期銷毀應該推遲，以便讓另一個政權有機會審查其案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tiktok_appeal/</guid>
       <pubDate>Tue, 10 Dec 2024 06:29:13 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴高層辱罵自己的員工和客戶，並迅速道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</link>
-      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款 中國科技巨頭阿里巴巴娛樂部門的首席執行官會對員工看手機進行罰款。]]></description>
+      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款，他說。員工看手機進行罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</guid>
       <pubDate>Tue, 10 Dec 2024 05:15:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果這是美國醜聞，我們將其稱為「Gategate」 馬來西亞的自動化邊境控制設備（稱為電子門或自動化設備）在周末出現故障，導致旅客過境新山和新加坡之間繁忙的邊境需要花幾個小時排隊等候。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/johor_bahru_singapore_outage_immigration/</guid>
       <pubDate>Tue, 10 Dec 2024 01:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>警方逮捕了謀殺聯合醫療執行長的嫌疑人，顆粒狀圖片是唯一涉及的技術</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/unitedhealthcare_shooting_camera/</link>
-      <description><![CDATA[麥當勞員工報案，警察猛撲，發現「槍、鎮壓器、宣言」 賓州警方逮捕了一名涉嫌槍殺紐約市保險公司聯合醫療執行長的男子，感謝一名麥當勞員工在一家漢堡店認出了嫌疑人，而且很大程度上沒有借助技術的幫助。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/unitedhealthcare_shooting_camera/</guid>
-      <pubDate>Tue, 10 Dec 2024 00:58:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
