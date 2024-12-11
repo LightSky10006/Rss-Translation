@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 19:10:59 GMT</lastBuildDate>
+    <item>
+      <title>Krispy Kreme Donut Corporation 承認存在安全漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/krispy_kreme_cybercrime/</link>
+      <description><![CDATA[大腹便便公司表示，它受到了懦弱蛋奶凍的打擊 甜甜圈供應商 Krispy Kreme 承認遭受了一次攻擊，導致許多顧客無法在線訂購。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/krispy_kreme_cybercrime/</guid>
+      <pubDate>Wed, 11 Dec 2024 19:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>在山姆大叔關門之前，中國正在大量消耗矽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 Sora 讓 ChatGPT 訂閱者製作出蹩腳的文本生成視頻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/openai_sora_release/</link>
-      <description><![CDATA[繫上安全帶，因為四肢生物即將變得怪異 OpenAI 已將其視頻生成工具 Sora 交到 ChatGPT Plus 和 Pro 用戶手中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/openai_sora_release/</guid>
-      <pubDate>Tue, 10 Dec 2024 14:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
