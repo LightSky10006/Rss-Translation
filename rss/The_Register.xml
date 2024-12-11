@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 02:47:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 03:52:08 GMT</lastBuildDate>
+    <item>
+      <title>印度警方要求星鏈辨識涉嫌毒品走私者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/india_musk_starlink_police_bust_demand/</link>
+      <description><![CDATA[馬斯克的衛星網路服務被要求解釋誰使用其服務導航到偏遠島嶼 印度警方要求Starlink 交出客戶詳細信息，以協助調查該國有史以來最大的一次緝獲毒品事件.... ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/india_musk_starlink_police_bust_demand/</guid>
+      <pubDate>Wed, 11 Dec 2024 03:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>法官讓 WP Engine 在與 Automattic 的法律訴訟中獲勝</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
+      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 Gelsinger 的離開，是否 fab 是 70 億美元的問題</title>
+      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
       <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>阿里巴巴高層辱罵自己的員工和客戶，並迅速道歉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</link>
-      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款，他說。員工看手機進行罰款。]]></description>
+      <description><![CDATA[“我無憂無慮，我喜歡開玩笑”，如果員工在會議期間看手機就會被罰款 中國科技巨頭阿里巴巴娛樂部門的首席執行官會對員工看手機進行罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/alibaba_ceo_gaming_apology/</guid>
       <pubDate>Tue, 10 Dec 2024 05:15:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[「Navix」遵循 OpenELA 規則，提供十年支持，並且已經在生產中大規模使用 韓國網路巨頭 Naver 已經進軍操作系統業務，發布了自己的 Linux 發行版。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/naver_navix_linux/</guid>
       <pubDate>Tue, 10 Dec 2024 02:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘的邊境管制中斷導致馬來西亞/新加坡邊境陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/johor_bahru_singapore_outage_immigration/</link>
-      <description><![CDATA[如果這是美國醜聞，我們將其稱為「Gategate」 馬來西亞的自動化邊境控制設備（稱為電子門或自動化設備）在周末出現故障，導致旅客過境新山和新加坡之間繁忙的邊境需要花幾個小時排隊等候。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/johor_bahru_singapore_outage_immigration/</guid>
-      <pubDate>Tue, 10 Dec 2024 01:32:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
