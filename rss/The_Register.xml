@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 12:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 13:43:18 GMT</lastBuildDate>
+    <item>
+      <title>通用汽車認為無法競爭並希望削減成本，巡航機器人計程車永遠停放</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</link>
+      <description><![CDATA[The Register 偶然發現了自動駕駛計程車似乎正在成為歷史的地方 圖片 通用汽車公司正在結束其自動駕駛計程車業務商務郵輪。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</guid>
+      <pubDate>Wed, 11 Dec 2024 13:34:14 GMT</pubDate>
+    </item>
     <item>
       <title>Ivanti CSA 中又發現三個漏洞，全部嚴重，其中一個 10/10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>微軟舉行今年最後一個補丁星期二活動，為管理員提供 72 份禮物</title>
+      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
       <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著2027 年支援截止日期的臨近，德國供應商對流行技術充滿信心，以幫助SI 事半功倍 SAP 聲稱其係統整合商合作夥伴將在即將到來的2027 年支援中避免技能短缺使用 GenAI 來處理遺留軟體的最後期限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/sap_says_genai_will_help/</guid>
       <pubDate>Tue, 10 Dec 2024 11:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>《醜陋夫婦》被判刑後，Bitfinex 搶劫案在 Netflix 上播出</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/bitfinex_bitcoin_heist_netflix/</link>
-      <description><![CDATA[Streamer 標誌性的戲劇風格採用了比特幣邦妮和克萊德 一部調查2016 年Bitfinex 竊賊的紀錄片在Netflix 上播出，首次將這個奇怪的案件帶到了客廳。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/bitfinex_bitcoin_heist_netflix/</guid>
-      <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
