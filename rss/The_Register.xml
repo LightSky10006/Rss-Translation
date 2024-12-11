@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 10:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 12:26:14 GMT</lastBuildDate>
+    <item>
+      <title>Ivanti CSA 中又發現三個漏洞，全部嚴重，其中一個 10/10</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</link>
+      <description><![CDATA[大家都打補丁- 該管理入口網站對友善的網路攻擊者來說非常有吸引力 Ivanti 剛剛針對其雲端服務應用程式(CSA) 中的三個關鍵漏洞發布了安全諮詢警告，其中包括完美的10 個漏洞...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</guid>
+      <pubDate>Wed, 11 Dec 2024 12:04:12 GMT</pubDate>
+    </item>
     <item>
       <title>自首次飛行十年後，美國太空總署獵戶座仍在等待登月時刻</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>特斯拉因涉嫌自動駕駛儀在另一起致命事故中失靈而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</link>
-      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來解決與先前訴訟中類似的索賠。]]></description>
+      <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來討論與先前訴訟中類似的索賠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>AMD 安全虛擬機技術因 DRAM 幹預而被破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</link>
-      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不夠...]]></description>
+      <description><![CDATA[研究人員設計BadRAM 攻擊，從SEV-SNP 加密記憶體中竊取機密 研究人員發現，只需10 美元的硬體就可以繞過AMD 用於保護虛擬機器記憶體的安全機制，甚至可能還不行...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/amd_secure_vm_tech_undone/</guid>
       <pubDate>Tue, 10 Dec 2024 16:00:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Streamer 標誌性的戲劇風格採用了比特幣邦妮和克萊德 一部調查2016 年Bitfinex 竊賊的紀錄片在Netflix 上播出，首次將這個奇怪的案件帶到了客廳。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/bitfinex_bitcoin_heist_netflix/</guid>
       <pubDate>Tue, 10 Dec 2024 10:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著 Gelsinger 的離開，是否要 fab 是 70 億美元的問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</link>
-      <description><![CDATA[無論誰接任，都需要做出一些艱難的決定 分析 對於誰將接替帕特·基辛格(Pat Gelsinger) 擔任英特爾首席執行官，已經有很多猜測，但也許更相關的問題是該公司是否想繼續成為製造商或加入無晶圓廠半導體公司的行列。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/gelsinger_departure_intel_future/</guid>
-      <pubDate>Tue, 10 Dec 2024 09:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
