@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Dec 2024 13:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 15:40:14 GMT</lastBuildDate>
+    <item>
+      <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
+      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>Apache 為關鍵的 Struts 2 RCE 錯誤發布補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</link>
@@ -90,9 +97,9 @@
       <pubDate>Wed, 11 Dec 2024 21:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中時斷時續</title>
+      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中不穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</link>
-      <description><![CDATA[影響者該做什麼？都出現了一定程度的停機全球範圍內...]]></description>
+      <description><![CDATA[網紅該做什麼？在一定程度的宕機全球範圍內。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</guid>
       <pubDate>Wed, 11 Dec 2024 20:59:50 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[The Register 偶然發現了自動駕駛計程車似乎正在成為歷史的地方 圖片 通用汽車公司正在結束其自動駕駛計程車業務商務郵輪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</guid>
       <pubDate>Wed, 11 Dec 2024 13:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ivanti CSA 中又發現三個漏洞，全部嚴重，其中一個 10/10</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</link>
-      <description><![CDATA[大家都打補丁- 該管理入口網站對友善的網路攻擊者來說非常有吸引力 Ivanti 剛剛針對其雲端服務應用程式(CSA) 中的三個關鍵漏洞發布了安全諮詢警告，其中包括完美的10 個漏洞...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</guid>
-      <pubDate>Wed, 11 Dec 2024 12:04:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
