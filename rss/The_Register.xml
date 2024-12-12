@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 11 Dec 2024 23:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 01:03:22 GMT</lastBuildDate>
+    <item>
+      <title>根據報道，蘋果在博通的幫助下打造人工智慧伺服器處理器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</link>
+      <description><![CDATA[名為「Baltra」的東西預計將於2026 年首次亮相，也許雙方都已經使用了技術 據報道，蘋果正在與晶片巨頭Broadcom 合作開發定制伺服器處理器，為AI服務和功能提供支援內建於其作業系統中。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</guid>
+      <pubDate>Thu, 12 Dec 2024 00:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>阻止中國間諜攔截電話？應該有一條法律</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中時斷時續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</link>
-      <description><![CDATA[影響者該做什麼？停機。]]></description>
+      <description><![CDATA[影響者該做什麼？都出現了一定程度的停機全球範圍內...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</guid>
       <pubDate>Wed, 11 Dec 2024 20:59:50 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[憑藉兩項法律勝利和一項秘密和解，勝算對汽車製造商有利 特斯拉正面臨一場訴訟，指控其有關自動駕駛儀和全自動駕駛(FSD) 功能的主張導致了致命的車禍，給了法院又一次機會來討論與先前訴訟中類似的索賠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/tesla_sued_fatal_autopilot_accident/</guid>
       <pubDate>Tue, 10 Dec 2024 22:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在今年最後一個補丁星期二為管理員提供了 72 份禮物</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</link>
-      <description><![CDATA[那是聖誕節前一天晚上，整個房子的補丁都是透過點擊滑鼠完成的 週二補丁 微軟並沒有添加太多的煤炭星期二發布的補丁僅包含72 個修復，其中只有一個在CVSS 威脅排名中得分超過9。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/10/microsoft_patch_tuesday/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:48:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
