@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Dec 2024 04:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 05:14:14 GMT</lastBuildDate>
+    <item>
+      <title>Citrix 前往歐洲購物並為注重安全的顧客帶來禮物</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</link>
+      <description><![CDATA[收購了兩家為好人名單上的人提供商品的公司，以阻止頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋鼓鼓囊囊的禮物回家，這要歸功於一對主要購買：資訊安全裝備deviceTRUST 和Strong Network。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</guid>
+      <pubDate>Thu, 12 Dec 2024 05:02:14 GMT</pubDate>
+    </item>
     <item>
       <title>中國正在準備另一枚火箭，北京希望這將成為其主力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 12 Dec 2024 00:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>阻止中國間諜攔截電話？應該有一條法律</title>
+      <title>阻止中國間諜攔截電話？應該有法律</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/</link>
       <description><![CDATA[參議員。懷登抨擊FCC 在Salt Typhoon 駭客攻擊中的「失敗」 根據立法，美國電信業者將被要求實施最低網路安全標準，並確保其係統不易受到Salt Typhoon 等民族國家攻擊者的黑客攻擊由參議員羅恩·懷登（D-OR）提議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>英特爾風波促使標普全球下調這家晶片製造商的信用評級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</link>
-      <description><![CDATA[金融機構發現x86 巨頭缺乏策略令人不安 標普全球週二下調了英特爾的信用評級，理由是對晶片製造商復甦速度和管理不確定性的擔憂，英特爾的麻煩繼續加劇。]]></description>
+      <description><![CDATA[金融機構發現x86 巨頭缺乏策略令人不安 標普全球週二下調了英特爾的信用評級，理由是對這家晶片製造商的復甦速度和管理不確定性的擔憂，該公司的麻煩繼續加劇。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</guid>
       <pubDate>Wed, 11 Dec 2024 21:30:05 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>在山姆大叔關門之前，中國正在大量消耗矽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/</link>
-      <description><![CDATA[由於預計會出現新的限制，今年晶片進口量增加了14% 以上 2024 年，中國的半導體進口量增加了14% 以上，因為中國企業在華盛頓和美國出台新限制之前進行了庫存儲備。]]></description>
+      <description><![CDATA[由於預計新的限制措施，今年晶片進口量成長超過14% 2024 年，中國的半導體進口量成長超過14%，因為中國企業在華盛頓和美國政府普遍預期的新限制措施之前進行了囤貨。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/</guid>
       <pubDate>Wed, 11 Dec 2024 18:37:14 GMT</pubDate>
     </item>
     <item>
       <title>好消息！您很快就可以再次使用 Windows 11 24H2 傳送傳真</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_windows_11_escl_fix/</link>
-      <description><![CDATA[微軟解決了 eSCL 錯誤 對於尋求將掃描器或傳真機連接到 Windows 11 硬體的 Microsoft 客戶來說，這是個好消息。對 eSCL 的支援已修復，並且相容性保留將被解除。]]></description>
+      <description><![CDATA[微軟消除了 eSCL 錯誤 對於尋求將掃描器或傳真機連接到 Windows 11 硬體的 Microsoft 客戶來說，這是個好消息。對 eSCL 的支援已修復，並且相容性保留將被解除。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_windows_11_escl_fix/</guid>
       <pubDate>Wed, 11 Dec 2024 17:08:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[馬斯克的衛星網路服務被要求解釋誰使用其服務導航到偏遠島嶼 印度警方要求Starlink 交出客戶詳細信息，以協助調查該國有史以來最大的一次緝獲毒品事件.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/india_musk_starlink_police_bust_demand/</guid>
       <pubDate>Wed, 11 Dec 2024 03:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官讓 WP Engine 在與 Automattic 的法律訴訟中獲勝</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</link>
-      <description><![CDATA[Mullenweg 及其同事被勒令恢復WP Engine 對wordpress.org 的訪問並停止接觸WordPress 安裝 已更新 WordPress 託管公司Automattic 及其首席執行官Matthew Mullenweg已被勒令停止幹擾競爭對手 WP Engine 的業務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wp_engine_wins_injunction_against/</guid>
-      <pubDate>Wed, 11 Dec 2024 01:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
