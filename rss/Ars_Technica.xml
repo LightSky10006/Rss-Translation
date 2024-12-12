@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Dec 2024 20:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 22:13:20 GMT</lastBuildDate>
+    <item>
+      <title>在機器人涉嫌導致自殺和自殘後，Character.AI 加強了青少年安全</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</link>
+      <description><![CDATA[Character.AI 針對青少年的新模式並不能解決家長的所有擔憂。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</guid>
+      <pubDate>Thu, 12 Dec 2024 21:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>嚴重的 WordPress 外掛漏洞被主動利用，威脅數千人</title>
+      <link>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</link>
+      <description><![CDATA[嚴重等級為 9.8（滿分為 10）的漏洞仍存在於超過 8,000 個站點上。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</guid>
+      <pubDate>Thu, 12 Dec 2024 21:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>報告：AT&T、Verizon 沒有通知中國通話記錄駭客攻擊的大多數受害者</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</link>
+      <description><![CDATA[據報道，電信公司沒有告訴用戶有關中國駭客竊取的通話元資料的資訊。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</guid>
+      <pubDate>Thu, 12 Dec 2024 20:50:50 GMT</pubDate>
+    </item>
     <item>
       <title>利用薄而柔韌的熱電薄膜發電</title>
       <link>https://arstechnica.com/science/2024/12/thermoelectric-material-gets-flexible-efficient/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>OpenAI 向 ChatGPT 引入“聖誕老人模式”，實現 ho-ho-ho 語音聊天</title>
       <link>https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/</link>
-      <description><![CDATA[老聖尼克的人工智慧版本作為流行聊天機器人應用程式中的季節性角色出現。]]></description>
+      <description><![CDATA[舊聖尼克的人工智慧版本作為流行聊天機器人應用程式中的季節性角色出現。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/</guid>
       <pubDate>Thu, 12 Dec 2024 18:50:27 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[義大利科學家設計了一個神經網路來分析手持式拉曼光譜設備的光譜數據。]]></description>
       <guid>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</guid>
       <pubDate>Thu, 12 Dec 2024 16:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>減肥藥還可以治療成癮、阿茲海默症和心臟病</title>
-      <link>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</link>
-      <description><![CDATA[製藥公司已經從其他健康益處中獲利。]]></description>
-      <guid>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</guid>
-      <pubDate>Thu, 12 Dec 2024 16:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube TV 在否認幾天前的「錯誤」報告後再次提高價格</title>
-      <link>https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/</link>
-      <description><![CDATA[83 美元/月的價格與 Hulu TV Live 一致，並不低於傳統有線電視。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/</guid>
-      <pubDate>Thu, 12 Dec 2024 16:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>在奇怪的宣傳中，白俄羅斯聲稱擁有自己的星鏈技術</title>
-      <link>https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/</link>
-      <description><![CDATA[媽媽，我們可以擁有星鏈嗎？媽媽：我們家裡有星鏈。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/</guid>
-      <pubDate>Thu, 12 Dec 2024 15:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
