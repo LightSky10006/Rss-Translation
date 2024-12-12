@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Dec 2024 22:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 23:36:51 GMT</lastBuildDate>
+    <item>
+      <title>LLM 能夠進行非語言推理嗎？</title>
+      <link>https://arstechnica.com/ai/2024/12/are-llms-capable-of-non-verbal-reasoning/</link>
+      <description><![CDATA[「潛在空間」中的處理可以幫助人工智慧解決棘手的邏輯問題。]]></description>
+      <guid>https://arstechnica.com/ai/2024/12/are-llms-capable-of-non-verbal-reasoning/</guid>
+      <pubDate>Thu, 12 Dec 2024 21:55:20 GMT</pubDate>
+    </item>
     <item>
       <title>在機器人涉嫌導致自殺和自殘後，Character.AI 加強了青少年安全</title>
       <link>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>報告：AT&T、Verizon 沒有通知中國通話記錄駭客攻擊的大多數受害者</title>
       <link>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</link>
-      <description><![CDATA[據報道，電信公司沒有告訴用戶有關中國駭客竊取的通話元資料的資訊。]]></description>
+      <description><![CDATA[據報道，電信公司並未告知用戶中國駭客竊取的通話元資料。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</guid>
       <pubDate>Thu, 12 Dec 2024 20:50:50 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>研究確定了人類和尼安德特人交換 DNA 的確切時間</title>
       <link>https://arstechnica.com/science/2024/12/studies-pin-down-exactly-when-humans-and-neanderthals-swapped-dna/</link>
-      <description><![CDATA[我們的一小部分尼安德特人 DNA 可能歸功於數百個尼安德特人。]]></description>
+      <description><![CDATA[我們的那一點點尼安德特人 DNA 可能來自於幾百名尼安德特人。]]></description>
       <guid>https://arstechnica.com/science/2024/12/studies-pin-down-exactly-when-humans-and-neanderthals-swapped-dna/</guid>
       <pubDate>Thu, 12 Dec 2024 19:00:01 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 向 ChatGPT 引入“聖誕老人模式”，實現 ho-ho-ho 語音聊天</title>
       <link>https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/</link>
-      <description><![CDATA[舊聖尼克的人工智慧版本作為流行聊天機器人應用程式中的季節性角色出現。]]></description>
+      <description><![CDATA[老聖尼克的人工智慧版本作為流行聊天機器人應用程式中的季節性角色出現。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/</guid>
       <pubDate>Thu, 12 Dec 2024 18:50:27 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>谷歌憑藉 Android XR 再次進軍“擴展現實”</title>
       <link>https://arstechnica.com/gadgets/2024/12/google-steps-into-extended-reality-once-again-with-android-xr/</link>
-      <description><![CDATA[沒有定價或供貨情況，但耳機和眼鏡領域出現了新的競爭。]]></description>
+      <description><![CDATA[沒有定價或供貨情況，但耳機和眼鏡方面出現了新的競爭。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/google-steps-into-extended-reality-once-again-with-android-xr/</guid>
       <pubDate>Thu, 12 Dec 2024 18:18:32 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[英特爾已經解決了 Arc GPU 的最大問題，但還沒有解決時間問題。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/</guid>
       <pubDate>Thu, 12 Dec 2024 17:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧幫助識別柏林牆壁畫的化學成分</title>
-      <link>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</link>
-      <description><![CDATA[義大利科學家設計了一個神經網路來分析手持式拉曼光譜設備的光譜數據。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</guid>
-      <pubDate>Thu, 12 Dec 2024 16:59:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
