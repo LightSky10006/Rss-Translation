@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Dec 2024 15:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 17:39:44 GMT</lastBuildDate>
+    <item>
+      <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
+      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
@@ -97,9 +104,9 @@
       <pubDate>Wed, 11 Dec 2024 21:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中不穩定</title>
+      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中時斷時續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</link>
-      <description><![CDATA[網紅該做什麼？在一定程度的宕機全球範圍內。]]></description>
+      <description><![CDATA[影響者該做什麼？都出現了一定程度的停機全球範圍內...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</guid>
       <pubDate>Wed, 11 Dec 2024 20:59:50 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>GoogleGemini 2.0 Flash問世 具備即時對話、影像分析功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/google_gemini_20_flash_shines/</link>
-      <description><![CDATA[Chocolate Factory 最新的多模式模型旨在為更值得信賴的AI 代理提供支援 Google 週三發布了Gemini 2.0 Flash，這是其AI 模型陣容的最新成員，希望開發人員能夠在AI 領域建立代理應用程式Studio 和 Vertex AI... ]]></description>
+      <description><![CDATA[Chocolate Factory 的最新多模式模型旨在為更值得信賴的AI 代理提供支援 Google週三發布了Gemini 2.0 Flash，這是其AI 模型陣容的最新成員，希望開發人員能夠在AI 中建立代理應用程式Studio 和 Vertex AI。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/google_gemini_20_flash_shines/</guid>
       <pubDate>Wed, 11 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[AI 助理在某種程度上為Windows Insiders 提供了原生功能 Copilot 已為Windows Insiders 提供了原生功能，並在此過程中採用了流行的鍵盤快捷鍵。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_copilot_keyboard_shortcut/</guid>
       <pubDate>Wed, 11 Dec 2024 14:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽車認為無法競爭並希望削減成本，巡航機器人計程車永遠停放</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</link>
-      <description><![CDATA[The Register 偶然發現了自動駕駛計程車似乎正在成為歷史的地方 圖片 通用汽車公司正在結束其自動駕駛計程車業務商務郵輪。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/cruise_gm_shutdown/</guid>
-      <pubDate>Wed, 11 Dec 2024 13:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
