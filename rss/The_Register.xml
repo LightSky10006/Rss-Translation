@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 12 Dec 2024 12:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 13:43:13 GMT</lastBuildDate>
+    <item>
+      <title>Apache 為關鍵的 Struts 2 RCE 錯誤發布補丁</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</link>
+      <description><![CDATA[在開發人員允許數週應用修復後發布了更多詳細信息 我們現在知道，11 月份披露的Apache Struts 2 中的遠端程式碼執行漏洞在CVE 發布後具有接近最高的嚴重等級。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</guid>
+      <pubDate>Thu, 12 Dec 2024 13:31:12 GMT</pubDate>
+    </item>
     <item>
       <title>聖誕節前操作 PowerOFF 推送中又熄滅了 18 個 DDoS 引導程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>澳洲為Meta設置了殘酷的稅收陷阱——一個昂貴的逃生口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</link>
-      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商...]]></description>
+      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</guid>
       <pubDate>Thu, 12 Dec 2024 06:15:14 GMT</pubDate>
     </item>
     <item>
       <title>Citrix 前往歐洲購物並為注重安全的顧客帶來禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</link>
-      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：infosec 裝備 deviceTRUST 和 Strong Network。]]></description>
+      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：資訊安全裝備 deviceTRUST 和強大的網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</guid>
       <pubDate>Thu, 12 Dec 2024 05:02:14 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>英特爾風波促使標普全球下調這家晶片製造商的信用評級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</link>
-      <description><![CDATA[金融機構發現x86 巨頭缺乏策略令人不安 標普全球週二下調了英特爾的信用評級，理由是對晶片製造商復甦速度和管理不確定性的擔憂，英特爾的麻煩繼續加劇。]]></description>
+      <description><![CDATA[金融機構發現x86 巨頭缺乏策略令人不安 標普全球週二下調了英特爾的信用評級，理由是對這家晶片製造商的復甦速度和管理不確定性的擔憂，該公司的麻煩繼續加劇。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</guid>
       <pubDate>Wed, 11 Dec 2024 21:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中不穩定</title>
+      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中時斷時續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</link>
       <description><![CDATA[影響者該做什麼？都出現了一定程度的停機全球範圍內...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</guid>
@@ -99,14 +106,14 @@
     <item>
       <title>在山姆大叔關門之前，中國正在大量消耗矽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/</link>
-      <description><![CDATA[由於預計會出現新的限制，今年晶片進口量增加了14% 以上 2024 年，中國的半導體進口量增加了14% 以上，因為中國企業在華盛頓和美國出台新限制之前進行了庫存儲備。]]></description>
+      <description><![CDATA[由於預計新的限制措施，今年晶片進口量成長超過14% 2024 年，中國的半導體進口量成長超過14%，因為中國企業在華盛頓和美國政府普遍預期的新限制措施之前進行了囤貨。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/china_stockpiling_chips/</guid>
       <pubDate>Wed, 11 Dec 2024 18:37:14 GMT</pubDate>
     </item>
     <item>
       <title>好消息！您很快就可以再次使用 Windows 11 24H2 傳送傳真</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_windows_11_escl_fix/</link>
-      <description><![CDATA[微軟解決了 eSCL 錯誤 對於尋求將掃描器或傳真機連接到 Windows 11 硬體的 Microsoft 客戶來說，這是個好消息。對 eSCL 的支援已修復，並且相容性保留將被解除。]]></description>
+      <description><![CDATA[微軟消除了 eSCL 錯誤 對於尋求將掃描器或傳真機連接到 Windows 11 硬體的 Microsoft 客戶來說，這是個好消息。對 eSCL 的支援已修復，並且相容性保留將被解除。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/microsoft_windows_11_escl_fix/</guid>
       <pubDate>Wed, 11 Dec 2024 17:08:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家都打補丁- 該管理入口網站對友善的網路攻擊者來說非常有吸引力 Ivanti 剛剛針對其雲端服務應用程式(CSA) 中的三個關鍵漏洞發布了安全諮詢警告，其中包括完美的10 個漏洞...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/ivanti_vulns_critical/</guid>
       <pubDate>Wed, 11 Dec 2024 12:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>自首次飛行十年後，美國太空總署獵戶座仍在等待登月時刻</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/</link>
-      <description><![CDATA[希望再過 10 年，太空艙就不會受到機組人員的困擾 距離 NASA 將獵戶座飛船送入太空進行探索飛行測試 1 任務已有十年了。 /p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/nasa_orion_10/</guid>
-      <pubDate>Wed, 11 Dec 2024 10:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
