@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Dec 2024 05:40:24 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 13 Dec 2024 07:36:29 GMT</lastBuildDate>
+    <item>
+      <title>備份失敗，但老闆並沒有猛烈抨擊IT——因為他的兒子應該受到責備</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</link>
+      <description><![CDATA[ISP 也應該受到批評，因為在腳本小子的抱怨之後摔倒了 On Call  愚蠢的季節即將到來，但還沒有那麼接近The Register找不到另一期《隨叫隨到》週五專題，Reg讀者在其中分享在不舒服的環境下取得技術支持勝利的故事。 /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</guid>
+      <pubDate>Fri, 13 Dec 2024 07:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>博通表示 VMware 是一台比它希望的更好的賺錢機器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</link>
@@ -13,16 +20,16 @@
       <pubDate>Fri, 13 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>Astroscale 軌道清潔工進入太空垃圾 15 公尺以內</title>
+      <title>Astroscale 軌道清潔工距離太空垃圾不到 15 米</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</link>
       <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道管理員 Astroscale 表示，它已經完成了商業運營商有史以來最接近太空垃圾的一次它距離報廢的上級火箭不到15 公尺。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</guid>
       <pubDate>Fri, 13 Dec 2024 03:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>北韓假冒 IT 工作者騙局六年來至少獲利 8,800 萬美元</title>
+      <title>北韓的假 IT 工人騙局六年內至少騙取 8,800 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
+      <description><![CDATA[美國司法部認為已經找到了運營該組織的人員，以及一些被派去敲詐雇主的“IT 戰士” 據美國司法部稱，朝鮮的假冒IT 工作者騙局在六年內為這個隱士王國帶來了8800 萬美元的收益。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
       <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
-      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
+      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之一。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
       <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
     </item>
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
-      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
+      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建以清潔能源為動力的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
       <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>聖誕節前操作 PowerOFF 推送中又熄滅了 18 個 DDoS 引導程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</link>
-      <description><![CDATA[節日的歡樂來自三人被捕和27 個網域關閉 歐洲刑警組織協調的PowerOFF 行動本週再次出擊，跨境警察關閉了另外27 個與分散式拒絕服務( DDoS) 相關的網域名稱。]]></description>
+      <description><![CDATA[節日歡呼以三人逮捕和27 個域名關閉的形式出現 歐洲刑警組織協調的PowerOFF 行動本週再次發起攻擊，跨境警察關閉了另外27 個與分佈式否認相關的網域服務 (DDoS) 犯罪行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</guid>
       <pubDate>Thu, 12 Dec 2024 12:01:09 GMT</pubDate>
     </item>
@@ -92,19 +99,19 @@
     <item>
       <title>澳洲為Meta設置了殘酷的稅收陷阱——一個昂貴的逃生口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</link>
-      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商。]]></description>
+      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</guid>
       <pubDate>Thu, 12 Dec 2024 06:15:14 GMT</pubDate>
     </item>
     <item>
       <title>Citrix 前往歐洲購物並為注重安全的顧客帶來禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</link>
-      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：資訊安全裝備 deviceTRUST 和強大的網路。]]></description>
+      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：infosec 裝備 deviceTRUST 和 Strong Network。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</guid>
       <pubDate>Thu, 12 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>中國正在準備另一枚火箭，北京希望這將成為其主力</title>
+      <title>中國準備發射另一枚火箭，希望它能成為其主力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/</link>
       <description><![CDATA[長徵八號甲運載火箭的有效載荷提高了百分之四十，距離長徵十二號首次亮相僅一個月 中國正在為首次發射準備一枚升級版、能力更強的火箭，以推進其製造大型火箭的雄心衛星星座......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 12 Dec 2024 01:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>根據報道，蘋果在博通的幫助下打造人工智慧伺服器處理器</title>
+      <title>據報道，蘋果在博通的幫助下開發了 AI 伺服器處理器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</link>
       <description><![CDATA[名為「Baltra」的東西預計將於2026 年首次亮相，也許雙方都已經使用了技術 據報道，蘋果正在與晶片巨頭Broadcom 合作開發定制伺服器處理器，為AI服務和功能提供支援內建於其作業系統中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>英特爾風波促使標普全球下調這家晶片製造商的信用評級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</link>
-      <description><![CDATA[金融機構發現x86 巨頭缺乏戰略令人不安 標準普爾全球週二下調英特爾信用評級，理由是擔心該晶片製造商的復甦速度和管理不確定性，英特爾的困境繼續加劇。]]></description>
+      <description><![CDATA[金融機構發現x86 巨頭缺乏策略令人不安 標普全球週二下調了英特爾的信用評級，理由是對晶片製造商復甦速度和管理不確定性的擔憂，英特爾的麻煩繼續加劇。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/intel_sp_downgrade/</guid>
       <pubDate>Wed, 11 Dec 2024 21:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook、Threads、WhatsApp、Instagram 在全球停電中不穩定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</link>
-      <description><![CDATA[影響者該做什麼？都出現了一定程度的停機全球範圍內...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/wednesday_meta_outage/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:59:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
