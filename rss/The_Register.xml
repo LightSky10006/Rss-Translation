@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Dec 2024 22:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 23:13:09 GMT</lastBuildDate>
+    <item>
+      <title>渣男因經營 CSAM 暗網聊天室、虐待兒童而被判入獄 30 年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</link>
+      <description><![CDATA[&#39;今天的判決不只是一次懲罰。這是一則訊息。 ，他被判處30 年監禁。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</guid>
+      <pubDate>Fri, 13 Dec 2024 22:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克的律師要求美國證券交易委員會停止糾纏這位害羞且即將退休的億萬富翁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</link>
@@ -27,16 +34,16 @@
       <pubDate>Fri, 13 Dec 2024 19:38:13 GMT</pubDate>
     </item>
     <item>
-      <title>在美國做生意？前參議院辦公廳主任警告稱，不要等待州政府對人工智慧的裁決才採取行動</title>
+      <title>在美國做生意？前參議院幕僚長警告不要等待州對人工智慧的裁決採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</link>
       <description><![CDATA[工作日政策專家建議NIST 框架將為您省去以後的麻煩 美國眾議院和參議院不太可能通過關於在商業中使用人工智慧的聯邦立法，因此用戶應將注意力集中在新的NIST 上Workday 公司事務副總裁表示，該框架取代了州級法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</guid>
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>獨創性直升機的飛行時間因火星地形平淡而縮短</title>
+      <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以不適合舊轉子葉片的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機在這顆紅色星球上永久擱淺。 ...]]></description>
+      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>博通表示 VMware 是一台比它希望的更好的賺錢機器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</link>
-      <description><![CDATA[預計到2027 年，晶片業務將佔據超大規模企業600-900 億美元XPU 支出的最大份額，這得益於明年推出的3nm 型號 博通告訴投資者，其對VMware的整合幾乎提前完成了，並且它已經將這個虛擬化巨頭變成了一個比它希望的更加多產的賺錢機器。]]></description>
+      <description><![CDATA[在明年推出的3nm 型號的幫助下，晶片業務預計將在2027 年佔據超大規模廠商60-900 億美元XPU 支出的最大份額 Broadcom 已告訴投資者，其對VMware的整合幾乎已經完成提前完成，並且它已將虛擬化巨頭變成了比預期更加多產的賺錢機器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</guid>
       <pubDate>Fri, 13 Dec 2024 05:02:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>聖誕節前操作 PowerOFF 推送中又熄滅了 18 個 DDoS 引導程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</link>
-      <description><![CDATA[節日的歡樂來自三人被捕和27 個網域關閉 歐洲刑警組織協調的PowerOFF 行動本週再次出擊，跨境警察關閉了另外27 個與分散式拒絕服務( DDoS) 相關的網域名稱。]]></description>
+      <description><![CDATA[節日歡呼以三人逮捕和27 個域名關閉的形式出現 歐洲刑警組織協調的PowerOFF 行動本週再次發起攻擊，跨境警察關閉了另外27 個與分佈式否認相關的網域服務 (DDoS) 犯罪行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</guid>
       <pubDate>Thu, 12 Dec 2024 12:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國陸軍用雷射卡車消滅空中無人機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/british_army_drone_laser/</link>
-      <description><![CDATA[高能量武器在測試中證明了自己的實力 英國陸軍首次使用安裝在裝甲車上的高能量雷射成功摧毀了飛行的無人機。如果完善的話，該技術可以形成針對無人機攻擊的有效對策。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/british_army_drone_laser/</guid>
-      <pubDate>Thu, 12 Dec 2024 10:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
