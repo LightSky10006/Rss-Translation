@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Dec 2024 20:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 21:12:17 GMT</lastBuildDate>
+    <item>
+      <title>谷歌時間軸位置清除造成附帶損害</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</link>
+      <description><![CDATA[隱私措施留下了一些哀悼失去的記憶 一年前，Google宣布計劃在本地設備而不是伺服器上保存人們的位置歷史記錄（現在稱為時間線）。 . ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:08:15 GMT</pubDate>
+    </item>
     <item>
       <title>現在是測試 RHEL 和 AlmaLinux 10 beta 的季節</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/rhel_almalinux_betas/</link>
@@ -13,21 +20,21 @@
       <pubDate>Fri, 13 Dec 2024 19:38:13 GMT</pubDate>
     </item>
     <item>
-      <title>在美國做生意？前參議院幕僚長警告說，不要等待州對人工智慧的裁決採取行動</title>
+      <title>在美國做生意？前參議院幕僚長警告不要等待州對人工智慧的裁決採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</link>
       <description><![CDATA[工作日政策專家建議NIST 框架將為您省去以後的麻煩 美國眾議院和參議院不太可能通過關於在商業中使用人工智慧的聯邦立法，因此用戶應將注意力集中在新的NIST 上Workday 公司事務副總裁表示，該框架取代了州級法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</guid>
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
+      <title>火星地形單調，機智號直升機的飛行時間被迫縮短</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以不適合舊轉子葉片的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機在這顆紅色星球上永久擱淺。 ...]]></description>
+      <description><![CDATA[以不利於舊旋翼葉片的角度硬著陸 看來，乏味的火星表面引發了一系列事件，導致NASA 的Ingenuity 直升機永久地停在了這顆紅色星球上。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>Android 加強了藍牙標籤追蹤器保護</title>
+      <title>Android 增強藍牙標籤追蹤者保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</link>
       <description><![CDATA[儘管如此，更廣泛的生態系統仍有工作要做 Google 正在推出兩項新功能，以幫助Android 用戶躲避濫用藍牙標籤來秘密追蹤他們的追蹤者。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</guid>
@@ -36,21 +43,21 @@
     <item>
       <title>英特爾高層討論剝離代工廠的可能性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</link>
-      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯席執行長表示，我認為這是一個懸而未決的問題。]]></description>
+      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯合執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
     <item>
       <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
-      <description><![CDATA[發行版建構者的假期提早到來，有兩個初始化系統可供選擇 每個人最喜歡的Linux 元件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
+      <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
       <pubDate>Fri, 13 Dec 2024 12:02:11 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare 預測 2024 年：全球流量上升，Google仍為王，美國大量生產機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</link>
-      <description><![CDATA[確實是老樣子 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google 仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人的來源地交通（再次）。]]></description>
+      <description><![CDATA[一切如舊 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人攻擊的來源交通（再次）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</guid>
       <pubDate>Fri, 13 Dec 2024 10:28:06 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 13 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>Astroscale 軌道清潔工距離太空垃圾不到 15 米</title>
+      <title>Astroscale 軌道清潔工進入太空垃圾 15 公尺以內</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</link>
       <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道管理員 Astroscale 表示，它已經完成了商業運營商有史以來最接近太空垃圾的一次它距離報廢的上級火箭不到15 公尺。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</guid>
@@ -92,21 +99,21 @@
     <item>
       <title>FCC 開放給未經授權的低功耗小玩意 6 GHz 頻段</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</link>
-      <description><![CDATA[對於在美國推廣「教育、醫療和娛樂」產品的技術人員來說，這是一個好消息 美國電信監管機構已向超低功耗設備以及其他未經許可的應用程式開放了整個6 GHz 頻段例如 Wi-Fi 套件。]]></description>
+      <description><![CDATA[對於在美國推動「教育、醫療保健和娛樂」設備的技術人員來說是個好消息 美國電信監管機構已向極低功耗設備以及其他未經許可的應用程序開放整個6 GHz 頻段例如 Wi-Fi 套件...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</guid>
       <pubDate>Thu, 12 Dec 2024 19:38:05 GMT</pubDate>
     </item>
     <item>
       <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
-      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之一。 ]]></description>
+      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
       <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
     </item>
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
-      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建以清潔能源為動力的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
+      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
       <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 12 Dec 2024 13:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>聖誕節前 PowerOFF 行動中又有 18 個 DDoS 引導程式熄燈</title>
+      <title>聖誕節前操作 PowerOFF 推送中又熄滅了 18 個 DDoS 引導程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</link>
       <description><![CDATA[節日歡呼以三人逮捕和27 個域名關閉的形式出現 歐洲刑警組織協調的PowerOFF 行動本週再次發起攻擊，跨境警察關閉了另外27 個與分佈式否認相關的網域服務 (DDoS) 犯罪行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>英國陸軍用雷射卡車消滅空中無人機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/british_army_drone_laser/</link>
-      <description><![CDATA[高能量武器在測試中證明了自己的實力 英國陸軍首次使用安裝在裝甲車上的高能量雷射成功摧毀了飛行的無人機。如果完善的話，該技術可以形成針對無人機攻擊的有效對策。]]></description>
+      <description><![CDATA[高能量武器在測試中證明了其勇氣 英國陸軍首次使用安裝在裝甲車上的高能量雷射成功摧毀了飛行中的無人機。如果完善起來，該技術可以成為對抗無人機攻擊的有效措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/british_army_drone_laser/</guid>
       <pubDate>Thu, 12 Dec 2024 10:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>Firefox 放棄了「禁止追蹤」功能，因為反正也沒人在聽</title>
+      <title>Firefox 放棄了 Do Not Track，因為反正沒人在聽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/firefox_do_not_track/</link>
       <description><![CDATA[Few websites actually respect the option, says Mozilla When Firefox 135 is released in February, it&#39;ll ship with one less feature: Mozilla plans to remove the Do Not Track toggle from its Privacy and Security設定. ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/firefox_do_not_track/</guid>
       <pubDate>Thu, 12 Dec 2024 08:49:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>外星人、間諜氣球還是無人機？美國上空發現SUV大小的神祕物體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/mystery_objects_us/</link>
-      <description><![CDATA[聯邦調查局沒有透露他們在哪裡隱藏外星人或不明飛行物 據稱有運動型多用途車大小的不明飛行物在美國東北部部分地區上空飛行，促使法律進行調查執法部門和聯邦調查局作為民選官員敦促公眾不要驚慌。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/mystery_objects_us/</guid>
-      <pubDate>Thu, 12 Dec 2024 07:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
