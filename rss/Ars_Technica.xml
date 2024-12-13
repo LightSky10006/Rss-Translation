@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Dec 2024 23:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:25:32 GMT</lastBuildDate>
+    <item>
+      <title>火箭報導：中國國民在獵鷹 9 號附近飛行無人機，澳洲陷入困境</title>
+      <link>https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/</link>
+      <description><![CDATA[“我相信 Avio 和 MaiaSpace 之間可以建立合作。”]]></description>
+      <guid>https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/</guid>
+      <pubDate>Fri, 13 Dec 2024 11:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>LLM 能夠進行非語言推理嗎？</title>
       <link>https://arstechnica.com/ai/2024/12/are-llms-capable-of-non-verbal-reasoning/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>嚴重的 WordPress 外掛漏洞被主動利用，威脅數千人</title>
       <link>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</link>
-      <description><![CDATA[嚴重等級為 9.8（滿分為 10）的漏洞仍存在於超過 8,000 個站點上。]]></description>
+      <description><![CDATA[嚴重程度為 9.8（滿分 10）的漏洞仍存在於超過 8,000 個站點上。]]></description>
       <guid>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</guid>
       <pubDate>Thu, 12 Dec 2024 21:00:30 GMT</pubDate>
     </item>
     <item>
       <title>報告：AT&T、Verizon 沒有通知中國通話記錄駭客攻擊的大多數受害者</title>
       <link>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</link>
-      <description><![CDATA[據報道，電信公司並未告知用戶中國駭客竊取的通話元資料。]]></description>
+      <description><![CDATA[據報道，電信公司沒有告訴用戶有關中國駭客竊取的通話元資料的資訊。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</guid>
       <pubDate>Thu, 12 Dec 2024 20:50:50 GMT</pubDate>
     </item>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 12 Dec 2024 19:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>研究確定了人類和尼安德特人交換 DNA 的確切時間</title>
+      <title>研究確定了人類和尼安德特人交換 DNA 的具體時間</title>
       <link>https://arstechnica.com/science/2024/12/studies-pin-down-exactly-when-humans-and-neanderthals-swapped-dna/</link>
-      <description><![CDATA[我們的那一點點尼安德特人 DNA 可能來自於幾百名尼安德特人。]]></description>
+      <description><![CDATA[我們的一小部分尼安德特人 DNA 可能歸功於數百個尼安德特人。]]></description>
       <guid>https://arstechnica.com/science/2024/12/studies-pin-down-exactly-when-humans-and-neanderthals-swapped-dna/</guid>
       <pubDate>Thu, 12 Dec 2024 19:00:01 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>谷歌憑藉 Android XR 再次進軍“擴展現實”</title>
       <link>https://arstechnica.com/gadgets/2024/12/google-steps-into-extended-reality-once-again-with-android-xr/</link>
-      <description><![CDATA[沒有定價或供貨情況，但耳機和眼鏡方面出現了新的競爭。]]></description>
+      <description><![CDATA[沒有定價或供貨情況，但耳機和眼鏡領域出現了新的競爭。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/google-steps-into-extended-reality-once-again-with-android-xr/</guid>
       <pubDate>Thu, 12 Dec 2024 18:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾 Arc B580 評測：一年半後，售價 249 美元的 RTX 4060 殺手</title>
-      <link>https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/</link>
-      <description><![CDATA[英特爾已經解決了 Arc GPU 的最大問題，但還沒有解決時間問題。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:50:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

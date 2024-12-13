@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Dec 2024 11:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:26:00 GMT</lastBuildDate>
     <item>
-      <title>Cloudflare 預測 2024 年：全球流量上升，Google仍為王，美國大力生產機器人</title>
+      <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
+      <description><![CDATA[發行版建構者的假期提早到來，有兩個初始化系統可供選擇 每個人最喜歡的Linux 元件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
+      <pubDate>Fri, 13 Dec 2024 12:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 預測 2024 年：全球流量上升，Google仍為王，美國大量生產機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</link>
       <description><![CDATA[確實是老樣子 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google 仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人的來源地交通（再次）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</guid>
@@ -34,16 +41,16 @@
       <pubDate>Fri, 13 Dec 2024 03:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>北韓的假 IT 工人騙局六年內至少獲利 8,800 萬美元</title>
+      <title>北韓的假 IT 工人騙局六年內至少騙取 8,800 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了運營該組織的人員，以及一些被派去敲詐雇主的“IT 戰士” 據美國司法部稱，朝鮮的假冒IT 工作者騙局在六年內為這個隱士王國帶來了8800 萬美元的收益。]]></description>
+      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
       <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
     <item>
       <title>美國警察使用人工智慧起草警察報告，美國公民自由聯盟 (ACLU) 不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</link>
-      <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了新的解決方案需要擔心的問題：用於起草警方報告的技術。 p&gt;]]></description>
+      <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了一個新需要擔心的問題：用於起草警方報告的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</guid>
       <pubDate>Thu, 12 Dec 2024 22:30:08 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
-      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
+      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之一。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
       <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
     </item>
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
-      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
+      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建以清潔能源為動力的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
       <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
     </item>
@@ -104,28 +111,28 @@
       <pubDate>Thu, 12 Dec 2024 07:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>澳洲為 Meta 設下惡魔般的稅收陷阱——還有昂貴的逃生通道</title>
+      <title>澳洲為Meta設置了殘酷的稅收陷阱——一個昂貴的逃生口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</link>
-      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商。]]></description>
+      <description><![CDATA[如果札克和其他大型科技公司向新聞出版商付款，他們的帳單就會消失 澳洲制定了一項只有大型科技公司才必須繳納的稅款，但他們也可以透過向澳洲新聞機構付款來合法避免這種稅款出版商...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/australia_news_bargaining_incentive/</guid>
       <pubDate>Thu, 12 Dec 2024 06:15:14 GMT</pubDate>
     </item>
     <item>
       <title>Citrix 前往歐洲購物並為注重安全的顧客帶來禮物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</link>
-      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：資訊安全裝備 deviceTRUST 和強大的網路。]]></description>
+      <description><![CDATA[收購了兩家公司，幫助那些在好人名單上的人遠離頑皮的名單類型 Citrix 進行了一次歐洲購物之旅，並帶著一袋禮物回家，這要歸功於一對主要的人購買：infosec 裝備 deviceTRUST 和 Strong Network。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/citrix_acquires_devicetrust_strong_network/</guid>
       <pubDate>Thu, 12 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>中國準備發射另一枚火箭，希望它能成為其主力</title>
+      <title>中國正在準備另一枚火箭，北京希望這將成為其主力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/</link>
       <description><![CDATA[長徵八號甲運載火箭的有效載荷提高了百分之四十，距離長徵十二號首次亮相僅一個月 中國正在為首次發射準備一枚升級版、能力更強的火箭，以推進其製造大型火箭的雄心衛星星座......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/china_rocket_long_march_8a_broadband/</guid>
       <pubDate>Thu, 12 Dec 2024 03:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>Epic吐槽了骯髒的V-Bucks：《堡壘之夜》的「黑暗模式」退款擊中了帳戶</title>
+      <title>Epic 吐出骯髒的 V-Bucks：Fortnite 的「黑暗模式」退款影響帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/bilked_by_epic_games_check/</link>
       <description><![CDATA[你拿到戰利品箱了嗎？應該會在本週看到退款開始到達他們的帳戶）....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/bilked_by_epic_games_check/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>根據報道，蘋果在博通的幫助下打造人工智慧伺服器處理器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</link>
-      <description><![CDATA[一款名為「Baltra」的產品預計將於2026 年首次亮相，或許是兩家公司都已經在使用的技術 據報道，蘋果正在與晶片巨頭博通合作開發一款客製化伺服器處理器，為AI 服務和功能提供支援內建於其作業系統中。]]></description>
+      <description><![CDATA[名為「Baltra」的東西預計將於2026 年首次亮相，也許雙方都已經使用了技術 據報道，蘋果正在與晶片巨頭Broadcom 合作開發定制伺服器處理器，為AI服務和功能提供支援內建於其作業系統中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apple_ai_chip_broadcom/</guid>
       <pubDate>Thu, 12 Dec 2024 00:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止中國間諜攔截電話？應該有一條法律</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/</link>
-      <description><![CDATA[參議員。懷登抨擊FCC 在Salt Typhoon 駭客攻擊中的「失敗」 根據立法，美國電信業者將被要求實施最低網路安全標準，並確保其係統不易受到Salt Typhoon 等民族國家攻擊者的黑客攻擊由參議員羅恩·懷登（D-OR）提議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/11/telecom_cybersecurity_standards/</guid>
-      <pubDate>Wed, 11 Dec 2024 23:03:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
