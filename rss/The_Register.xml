@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 13 Dec 2024 23:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:02:13 GMT</lastBuildDate>
+    <item>
+      <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
+      <description><![CDATA[IOCONTROL 的目標顯然是大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</guid>
+      <pubDate>Fri, 13 Dec 2024 23:56:13 GMT</pubDate>
+    </item>
     <item>
       <title>渣男因經營 CSAM 暗網聊天室、虐待兒童而被判入獄 30 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</link>
@@ -41,9 +48,9 @@
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
+      <title>獨創性直升機的飛行時間因火星地形平淡而縮短</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
+      <description><![CDATA[以不適合舊轉子葉片的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機在這顆紅色星球上永久擱淺。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
@@ -55,14 +62,14 @@
       <pubDate>Fri, 13 Dec 2024 15:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾高層討論剝離晶圓代工業務的可能性</title>
+      <title>英特爾高層討論剝離代工廠的可能性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</link>
       <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯合執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
+      <title>systemd 不情願地放棄了安全網，而出現了一個挑戰者，GNU Shepherd 1.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
       <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
@@ -99,12 +106,12 @@
     <item>
       <title>北韓的假 IT 工人騙局六年內至少獲利 8,800 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
+      <description><![CDATA[美國司法部認為已經找到了運營該組織的人員，以及一些被派去敲詐雇主的“IT 戰士” 據美國司法部稱，朝鮮的假冒IT 工作者騙局在六年內為這個隱士王國帶來了8800 萬美元的收益。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
       <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國警察使用人工智慧起草警察報告，美國公民自由聯盟 (ACLU) 不高興</title>
+      <title>美國警察使用人工智慧起草警方報告，但美國公民自由聯盟並不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</link>
       <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了新的解決方案需要擔心的問題：用於起草警方報告的技術。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
-      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
+      <description><![CDATA[與 Intersect Power 達成交易將使千兆瓦的運算能力上線 Google認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此成立了一個聯盟來建設採用清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦容量的資料中心」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
       <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在開發人員允許數週應用修復後發布了更多詳細信息 我們現在知道，11 月份披露的Apache Struts 2 中的遠端程式碼執行漏洞在CVE 發布後具有接近最高的嚴重等級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</guid>
       <pubDate>Thu, 12 Dec 2024 13:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>聖誕節前操作 PowerOFF 推送中又熄滅了 18 個 DDoS 引導程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</link>
-      <description><![CDATA[節日歡呼以三人逮捕和27 個域名關閉的形式出現 歐洲刑警組織協調的PowerOFF 行動本週再次發起攻擊，跨境警察關閉了另外27 個與分佈式否認相關的網域服務 (DDoS) 犯罪行為。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/operation_poweroff_ddos_takedowns/</guid>
-      <pubDate>Thu, 12 Dec 2024 12:01:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
