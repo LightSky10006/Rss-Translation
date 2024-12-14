@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 14 Dec 2024 01:02:13 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Sat, 14 Dec 2024 12:57:27 GMT</lastBuildDate>
+    <item>
+      <title>隨著 Windows 11 功能被終止，「建議的操作」未能表明其自身的生存</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</link>
+      <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭手剛剛又奪走了另一名受害者。在「建議操作」功能出現在 Windows Insider 開發頻道中不到三年後，它就被棄用了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</guid>
+      <pubDate>Sat, 14 Dec 2024 12:25:11 GMT</pubDate>
+    </item>
     <item>
       <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>Android 加強了藍牙標籤追蹤器保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</link>
-      <description><![CDATA[儘管如此，更廣泛的生態系統仍有工作要做 Google 正在推出兩項新功能，以幫助Android 用戶躲避濫用藍牙標籤來秘密追蹤他們的追蹤者。 ]]></description>
+      <description><![CDATA[不過，更廣泛的生態系統仍有工作要做 Google正在推出兩項新功能，幫助 Android 用戶躲避濫用藍牙標籤秘密追蹤他們的追蹤者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</guid>
       <pubDate>Fri, 13 Dec 2024 15:03:07 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>systemd 不情願地放棄了安全網，而出現了一個挑戰者，GNU Shepherd 1.0</title>
+      <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
       <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
@@ -83,35 +90,35 @@
       <pubDate>Fri, 13 Dec 2024 10:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>備份失敗，但老闆並沒有猛烈抨擊IT——因為他的兒子應該受到責備</title>
+      <title>備份失敗，但老闆沒有怪罪 IT——因為他的兒子應該受到指責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</link>
-      <description><![CDATA[ISP 也應該受到批評，因為在腳本小子的抱怨之後摔倒了 On Call  愚蠢的季節即將到來，但還沒有那麼接近The Register找不到另一期《隨叫隨到》週五專題，Reg讀者在其中分享在不舒服的環境下取得技術支持勝利的故事。 /p&gt;]]></description>
+      <description><![CDATA[ISP 也應受到批評，因為腳本小子爭吵後倒下 On Call 愚蠢的季節已經臨近，但還沒有臨近到The Register找不到《On Call》的另一期，這是周五的專欄，Reg 的讀者在其中分享了在令人不快的環境下取得技術支持勝利的故事。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</guid>
       <pubDate>Fri, 13 Dec 2024 07:31:06 GMT</pubDate>
     </item>
     <item>
       <title>博通表示 VMware 是一台比它希望的更好的賺錢機器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</link>
-      <description><![CDATA[在明年推出的3nm 型號的幫助下，晶片業務預計將在2027 年佔據超大規模廠商60-900 億美元XPU 支出的最大份額 Broadcom 已告訴投資者，其對VMware的整合幾乎已經完成提前完成，並且它已將虛擬化巨頭變成了比預期更加多產的賺錢機器。]]></description>
+      <description><![CDATA[預計到2027 年，晶片業務將佔據超大規模企業600-900 億美元XPU 支出的最大份額，這得益於明年推出的3nm 型號 博通告訴投資者，其對VMware的整合幾乎提前完成了，並且它已經將這個虛擬化巨頭變成了一個比它希望的更加多產的賺錢機器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</guid>
       <pubDate>Fri, 13 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
       <title>Astroscale 軌道清潔工進入太空垃圾 15 公尺以內</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</link>
-      <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道管理員 Astroscale 表示，它已經完成了商業運營商有史以來最接近太空垃圾的一次它距離報廢的上級火箭不到15 公尺。]]></description>
+      <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道清潔工Astroscale表示，它已經完成了商業運營商與太空垃圾的有史以來最接近的接近，當時它距離一枚報廢的上級火箭不到 15 公尺。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</guid>
       <pubDate>Fri, 13 Dec 2024 03:01:10 GMT</pubDate>
     </item>
     <item>
       <title>北韓的假 IT 工人騙局六年內至少獲利 8,800 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了運營該組織的人員，以及一些被派去敲詐雇主的“IT 戰士” 據美國司法部稱，朝鮮的假冒IT 工作者騙局在六年內為這個隱士王國帶來了8800 萬美元的收益。]]></description>
+      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
       <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國警察使用人工智慧起草警方報告，但美國公民自由聯盟並不高興</title>
+      <title>美國警察使用人工智慧起草警察報告，美國公民自由聯盟 (ACLU) 不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</link>
       <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了新的解決方案需要擔心的問題：用於起草警方報告的技術。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
-      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
+      <description><![CDATA[通用汽車停止自動駕駛計程車業務，對雷德蒙德造成重創 通用汽車決定終止其自動駕駛計程車業務Cruise，微軟是受影響最嚴重的公司之一。 &lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
       <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
     </item>
     <item>
       <title>谷歌認為電網無法支援人工智慧，因此正在為未來的資料中心投資太陽能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</link>
-      <description><![CDATA[與 Intersect Power 達成交易將使千兆瓦的運算能力上線 Google認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此成立了一個聯盟來建設採用清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦容量的資料中心」。]]></description>
+      <description><![CDATA[與 Intersect Power 的交易將實現千兆瓦的運算能力上線 Google 認為美國電網無法提供為提供 AI 服務的資料中心供電所需的能源，因此組建了一個聯盟來構建由清潔能源驅動的工業園區，將在全國範圍內建造「千兆瓦的資料中心容量」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/google_solar_energy_datacenter/</guid>
       <pubDate>Thu, 12 Dec 2024 15:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apache 為關鍵的 Struts 2 RCE 錯誤發布補丁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</link>
-      <description><![CDATA[在開發人員允許數週應用修復後發布了更多詳細信息 我們現在知道，11 月份披露的Apache Struts 2 中的遠端程式碼執行漏洞在CVE 發布後具有接近最高的嚴重等級。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/apache_struts_2_vuln/</guid>
-      <pubDate>Thu, 12 Dec 2024 13:31:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
