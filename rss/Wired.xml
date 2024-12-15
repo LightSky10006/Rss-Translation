@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 15 Dec 2024 12:58:12 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Sun, 15 Dec 2024 13:23:38 GMT</lastBuildDate>
+    <item>
+      <title>適合各種預算的 5 款最佳碳鋼平底鍋（2024 年）</title>
+      <link>https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/</link>
+      <description><![CDATA[我們的專家使用 20 個平底鍋進行烹飪，以下是 5 個最值得投資的。]]></description>
+      <guid>https://www.wired.com/gallery/the-best-carbon-steel-pans-for-every-budget/</guid>
+      <pubDate>Sun, 15 Dec 2024 13:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>公鑰密碼學背後的簡單數學</title>
       <link>https://www.wired.com/story/how-public-key-cryptography-really-works-using-only-simple-math/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>善於讀書嗎？你的大腦結構可能不同</title>
       <link>https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/</link>
-      <description><![CDATA[擅長閱讀的人的左腦半球有兩個區域對語言至關重要，這兩個區域的情況有所不同，而且很容易受到閱讀習慣的影響。]]></description>
+      <description><![CDATA[擅長閱讀的人類大腦左半球的兩個區域對於語言至關重要，這兩個區域是不同的，並且很可能是由閱讀習慣塑造的。]]></description>
       <guid>https://www.wired.com/story/good-at-reading-your-brain-may-be-structured-differently/</guid>
       <pubDate>Sat, 14 Dec 2024 13:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>制定全球方案解決塑膠問題</title>
       <link>https://www.wired.com/story/global-plastics-treaty-united-nations/</link>
-      <description><![CDATA[聯合國條約可能是終結一次性塑膠生產的開始，但戰勝這種污染物尚未指日可待。]]></description>
+      <description><![CDATA[聯合國條約可能標誌著一次性塑膠生產的終結——但對這種污染物的勝利尚未到來。]]></description>
       <guid>https://www.wired.com/story/global-plastics-treaty-united-nations/</guid>
       <pubDate>Sat, 14 Dec 2024 09:00:00 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>關於川普第二任期的一些有根據的猜測</title>
       <link>https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/</link>
-      <description><![CDATA[在《連線政治實驗室》的最後一集中，我們對唐納德·川普重返白宮後的未來四年做出了一些預測。]]></description>
+      <description><![CDATA[在《連線》政治實驗室的最後一集中，我們對唐納德·川普重返白宮後的未來四年做出了一些預測。]]></description>
       <guid>https://www.wired.com/story/politics-lab-donald-trump-second-presidential-term/</guid>
       <pubDate>Fri, 13 Dec 2024 19:52:30 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[列印回憶，您可以掛在牆上，藏在錢包裡，或握在手中。]]></description>
       <guid>https://www.wired.com/story/best-photo-printing-services/</guid>
       <pubDate>Fri, 13 Dec 2024 16:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayve 的人工智慧自動駕駛系統將像人類一樣駕駛並挑戰 Waymo 和特斯拉</title>
-      <link>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</link>
-      <description><![CDATA[與 Waymo 的人工智慧訓練與手動編碼指令的混合系統不同，Wayve 的人工智慧處理整個自動駕駛過程，在無人監督的情況下學習以應對不可預測的情況，並更像我們一樣駕駛。]]></description>
-      <guid>https://www.wired.com/story/wayves-ai-self-driving-system-is-here-to-drive-like-a-human-and-take-on-waymo-and-tesla/</guid>
-      <pubDate>Fri, 13 Dec 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
