@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 15 Dec 2024 12:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 19:10:18 GMT</lastBuildDate>
+    <item>
+      <title>LLM 效能作弊代碼：推測性解碼簡介</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</link>
+      <description><![CDATA[有時兩個模型確實比一個模型更快 動手實踐 在 AI 推理方面，生成響應的速度越快越好 - 在過去的幾年中幾週來，我們看到晶片新貴發布了許多聲明，聲稱數字高得令人難以置信。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</guid>
+      <pubDate>Sun, 15 Dec 2024 18:57:11 GMT</pubDate>
+    </item>
     <item>
       <title>紅兔機器人以人類形態將工作作為服務出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 15 Dec 2024 12:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>與某些人相反，traceroute 是非常真實的 – 我應該知道，我幫助它發揮作用</title>
+      <title>與某些人相反，traceroute 是真實存在的——我應該知道，我幫助它工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/</link>
       <description><![CDATA[圍坐在火邊，再次重述電腦網路歷史 系統方法 幾週前，我偶然發現了一篇題為「Traceroute is not real」的文章，該文章相當有趣，但有些地方不太正確。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
-      <description><![CDATA[IOCONTROL 瞄準來自大量製造商的 IoT 和 OT 設備 與伊朗政府有關的網路犯罪團夥使用名為 IOCONTROL 的定制惡意軟體攻擊並遠端控制美國和以色列的水和燃料管理系統據安全研究人員表示…]]></description>
+      <description><![CDATA[IOCONTROL 的目標顯然是來自大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</guid>
       <pubDate>Fri, 13 Dec 2024 23:56:13 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 13 Dec 2024 19:38:13 GMT</pubDate>
     </item>
     <item>
-      <title>在美國做生意？前參議院辦公廳主任警告稱，不要等待州政府對人工智慧的裁決才採取行動</title>
+      <title>在美國做生意？前參議院幕僚長警告說，不要等待州對人工智慧的裁決採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</link>
       <description><![CDATA[工作日政策專家建議NIST 框架將為您省去以後的麻煩 美國眾議院和參議院不太可能通過關於在商業中使用人工智慧的聯邦立法，因此用戶應將注意力集中在新的NIST 上Workday 公司事務副總裁表示，該框架取代了州級法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>Android 加強了藍牙標籤追蹤器保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</link>
-      <description><![CDATA[儘管如此，更廣泛的生態系統仍有工作要做 Google 正在推出兩項新功能，以幫助Android 用戶躲避濫用藍牙標籤來秘密追蹤他們的追蹤者。 ]]></description>
+      <description><![CDATA[不過，更廣泛的生態系統仍有工作要做 Google正在推出兩項新功能，幫助 Android 用戶躲避濫用藍牙標籤秘密追蹤他們的追蹤者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</guid>
       <pubDate>Fri, 13 Dec 2024 15:03:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了一個新需要擔心的問題：用於起草警方報告的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</guid>
       <pubDate>Thu, 12 Dec 2024 22:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 向未經許可的低功耗小玩意開放 6 GHz 頻段</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</link>
-      <description><![CDATA[對於在美國推動「教育、醫療保健和娛樂」設備的技術人員來說是個好消息 美國電信監管機構已向極低功耗設備以及其他未經許可的應用程序開放整個6 GHz 頻段例如 Wi-Fi 套件...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</guid>
-      <pubDate>Thu, 12 Dec 2024 19:38:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
