@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 14 Dec 2024 18:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 12:23:15 GMT</lastBuildDate>
+    <item>
+      <title>紅兔機器人以人類形態將工作作為服務出售</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</link>
+      <description><![CDATA[接受這項工作並使其自動化 本週，Red Rabbit Robotics 出席了人形機器人峰會，這是一個為製造商製造類似人類的機器並將自主勞動力作為服務出售的會議。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</guid>
+      <pubDate>Sun, 15 Dec 2024 12:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>與某些人相反，traceroute 是非常真實的 – 我應該知道，我幫助它發揮作用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/</link>
@@ -36,12 +43,12 @@
     <item>
       <title>馬斯克的律師要求美國證券交易委員會停止糾纏這位害羞且即將退休的億萬富翁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</link>
-      <description><![CDATA[不會有人想到伊隆嗎？啊，我們在開玩笑 - 這一切在一個月內都不重要 在 SEC 的眼中，埃隆馬斯克又與美國金融監管機構發生了一場公開爭執，這一次的形式是這位億萬富翁的律師在X（更廣為人知的名稱為Twitter）上發表的一封信。 ...]]></description>
+      <description><![CDATA[不會有人想到伊隆嗎？啊，我們在開玩笑- 這一切在一個月內都不再重要 在SEC 的眼中，埃隆·馬斯克又與美國金融監管機構發生了一場公開爭執，這一次的形式是這位億萬富翁的律師在 X（更廣為人知的名稱為 Twitter）上發表的一封信。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</guid>
       <pubDate>Fri, 13 Dec 2024 22:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>Google Timeline 位置清除造成附帶損害</title>
+      <title>谷歌時間軸位置清除造成附帶損害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</link>
       <description><![CDATA[隱私措施留下了一些哀悼失去的記憶 一年前，Google宣布計劃在本地設備而不是伺服器上保存人們的位置歷史記錄（現在稱為時間線）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 13 Dec 2024 19:38:13 GMT</pubDate>
     </item>
     <item>
-      <title>在美國做生意？前參議院幕僚長警告不要等待州對人工智慧的裁決採取行動</title>
+      <title>在美國做生意？前參議院辦公廳主任警告稱，不要等待州政府對人工智慧的裁決才採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</link>
       <description><![CDATA[工作日政策專家建議NIST 框架將為您省去以後的麻煩 美國眾議院和參議院不太可能通過關於在商業中使用人工智慧的聯邦立法，因此用戶應將注意力集中在新的NIST 上Workday 公司事務副總裁表示，該框架取代了州級法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/nist_framework_for_ai_presents/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>英特爾高層討論剝離代工廠的可能性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</link>
-      <description><![CDATA[&#39;它會完全分離嗎？我認為這是一個有待解決的問題，留到以後再說，」臨時聯合執行長說 英特爾臨時聯席執行長David Zinsner 和Michelle Johnson Holthaus 在會議上討論了完全剝離代工業務的可能性。]]></description>
+      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯席執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
     <item>
       <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
-      <description><![CDATA[對於擁有兩個init 系統可供選擇的發行版構建者來說，假期來得早 每個人最喜歡的Linux 組件都達到了一個里程碑，而一個新的競爭者也成熟了－帶著一絲Lisp 的味道。]]></description>
+      <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
       <pubDate>Fri, 13 Dec 2024 12:02:11 GMT</pubDate>
     </item>
@@ -120,30 +127,23 @@
     <item>
       <title>北韓的假 IT 工人騙局六年內至少獲利 8,800 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
+      <description><![CDATA[美國司法部認為已經找到了該組織的幕後操縱者，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
       <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國警察使用人工智慧起草警方報告，但美國公民自由聯盟並不高興</title>
+      <title>美國警察使用人工智慧起草警察報告，美國公民自由聯盟 (ACLU) 不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</link>
-      <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了新的解決方案需要擔心的問題：用於起草警方報告的技術。 p&gt;]]></description>
+      <description><![CDATA[我們真的需要解釋為什麼這是一個問題嗎？有了一個新需要擔心的問題：用於起草警方報告的技術。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/aclu_ai_police_report/</guid>
       <pubDate>Thu, 12 Dec 2024 22:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 開放給未經授權的低功耗小玩意 6 GHz 頻段</title>
+      <title>FCC 向未經許可的低功耗小玩意開放 6 GHz 頻段</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</link>
       <description><![CDATA[對於在美國推動「教育、醫療保健和娛樂」設備的技術人員來說是個好消息 美國電信監管機構已向極低功耗設備以及其他未經許可的應用程序開放整個6 GHz 頻段例如 Wi-Fi 套件...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/fcc_6ghz_band/</guid>
       <pubDate>Thu, 12 Dec 2024 19:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cruise 關閉爆炸區增加－微軟收取 8 億美元費用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</link>
-      <description><![CDATA[通用汽車終止自動駕駛計程車業務對雷德蒙德的錢包造成了打擊 微軟是通用汽車決定結束其自動駕駛出租車業務Cruise 的影響範圍之內的公司之一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/12/microsoft_to_take_an_800m/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:36:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
