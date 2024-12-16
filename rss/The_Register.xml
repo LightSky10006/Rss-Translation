@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Dec 2024 09:15:29 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 16 Dec 2024 10:43:54 GMT</lastBuildDate>
+    <item>
+      <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
+      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將破產生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
+      <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
+    </item>
     <item>
       <title>成功的甜蜜覆盆子味道掩蓋了錯失的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</link>
-      <description><![CDATA[揭開現代計算神秘面紗的最佳方式？阻止它 意見  Raspberry Pi 有道德風險，因為它對我們來說太好了。在過去的 12 年裡，Pi 系列以極其實惠、極其有用的電腦轟炸了世界，這些電腦純粹是為了促進教育、創新和數位技能的民主化而設計的。]]></description>
+      <description><![CDATA[揭開現代計算神秘面紗的最佳方法？  觀點  Raspberry Pi 是一種道德風險，因為它對我們太好了。在過去的 12 年裡，Pi 系列向全世界推出了價格極其實惠、極其實用的計算機，其設計純粹是為了促進教育、創新和數位技能的民主化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</guid>
       <pubDate>Mon, 16 Dec 2024 08:59:12 GMT</pubDate>
     </item>
@@ -34,14 +41,14 @@
       <pubDate>Mon, 16 Dec 2024 03:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>印孚瑟斯公司創辦人再次呼籲實施每週 70 小時工作制，聲稱這可以創造就業機會</title>
+      <title>Infosys 創辦人再次呼籲每週工作 70 小時，聲稱這將創造就業機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</link>
       <description><![CDATA[Plus：中國希望結束經典影片的人工智慧混搭；台積電將開設日本晶圓廠；等等 亞洲概況  Infosys 共同創辦人 Narayana Murthy 再次主張印度工人每週花 70 小時從事有薪工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 16 Dec 2024 01:57:15 GMT</pubDate>
     </item>
     <item>
-      <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不會</title>
+      <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不是</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</link>
       <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的使用者正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在網路上，導致重大安全風險並使組織容易受到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 13 Dec 2024 22:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>Google Timeline 位置清除造成附帶損害</title>
+      <title>谷歌時間軸位置清除造成附帶損害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</link>
       <description><![CDATA[隱私措施留下了一些哀悼失去的記憶 一年前，Google宣布計劃在本地設備而不是伺服器上保存人們的位置歷史記錄（現在稱為時間線）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
+      <title>火星地形單調，機智號直升機的飛行時間被迫縮短</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
       <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯合執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
-      <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
-      <pubDate>Fri, 13 Dec 2024 12:02:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
