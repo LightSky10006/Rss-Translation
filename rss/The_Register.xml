@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Dec 2024 05:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 07:37:50 GMT</lastBuildDate>
+    <item>
+      <title>編碼員寫了一個錯誤，以至於糟糕的保全在他上班時想說一句話</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/who_me/</link>
+      <description><![CDATA[在新創公司工作應該以一夜致富告終，但事實並非如此 誰，我？在《紀事報》週一早上的專題報道中，我們分享了您的讀者朋友們製造和逃脫的技術混亂的故事，以便為您帶來希望，以防您在未來一周犯錯。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/who_me/</guid>
+      <pubDate>Mon, 16 Dec 2024 07:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>英邁國際將“停止與博通開展業務”，對 VMware 的評級下調至“有限參與”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</link>
-      <description><![CDATA[大型經銷商無法達成能夠帶來「適當股東回報」的交易 獨家 技術分銷巨頭英邁國際將停止與Broadcom 及其VMware 系列在許多領域開展業務明年的領土。]]></description>
+      <description><![CDATA[大型經銷商無法達成一項能帶來「適當股東回報」的交易 獨家 科技經銷巨頭Ingram Micro 將停止與Broadcom 及其VMware 系列在多個領域的業務往來明年將有更多領土。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
       <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
     </item>
     <item>
       <title>隨著北京推動通用遙控器，中國的自製藍牙替代品正在大行其道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</link>
-      <description><![CDATA[據稱「星閃」採用了5G 技術，讓競爭對手的無線協議在沙發縫隙中苦苦掙扎 中國電子視像行業協會上週簽署了一項通用遙控器標準–北京認為當地人需要這個小工具，因為他們正在努力應對多個遙控器，但這在其他方面也更重要一些。 _whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[據說「Star Flash」包含 5G 技術，讓競爭對手的無線協議在沙發縫中苦苦掙扎 中國電子視頻行業協會上週簽署了通用遙控器標準 –北京認為當地人需要一個小工具，因為他們正在與多個遙控器作鬥爭，但在其他方面也更重要...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</guid>
       <pubDate>Mon, 16 Dec 2024 03:28:07 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</link>
-      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的用戶正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在互聯網上，導致重大安全風險並使組織容易受到攻擊。]]></description>
+      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的使用者正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在網路上，導致重大安全風險並使組織容易受到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</guid>
       <pubDate>Sun, 15 Dec 2024 23:58:08 GMT</pubDate>
     </item>
     <item>
       <title>LLM 效能作弊代碼：推測性解碼簡介</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</link>
-      <description><![CDATA[有時兩個模型確實比一個模型更快 動手實踐 在 AI 推理方面，生成響應的速度越快越好 - 在過去的幾年中幾週來，我們看到晶片新貴發布了許多公告，聲稱數字高得令人難以置信。]]></description>
+      <description><![CDATA[有時兩個模型確實比一個模型更快 動手實踐 在 AI 推理方面，生成響應的速度越快越好 - 在過去的幾年中幾週來，我們看到晶片新貴發布了許多聲明，聲稱數字高得令人難以置信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</guid>
       <pubDate>Sun, 15 Dec 2024 18:57:11 GMT</pubDate>
     </item>
@@ -57,19 +64,19 @@
     <item>
       <title>隨著 Windows 11 功能被終止，「建議的操作」未能表明其自身的生存</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</link>
-      <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭手剛剛又奪走了另一個受害者。在「建議操作」功能出現在 Windows Insider 開發頻道中不到三年後，它就被棄用了。]]></description>
+      <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭手剛剛又奪走了另一名受害者。在「建議操作」功能出現在 Windows Insider 開發頻道中不到三年後，它就被棄用了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</guid>
       <pubDate>Sat, 14 Dec 2024 12:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>與伊朗有關的船員使用客製化「網路武器」攻擊美國關鍵基礎設施</title>
+      <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
-      <description><![CDATA[IOCONTROL 的目標顯然是大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
+      <description><![CDATA[IOCONTROL 瞄準來自大量製造商的 IoT 和 OT 設備 與伊朗政府有關的網路犯罪團夥使用名為 IOCONTROL 的定制惡意軟體攻擊並遠端控制美國和以色列的水和燃料管理系統據安全研究人員表示…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</guid>
       <pubDate>Fri, 13 Dec 2024 23:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>渣男因經營 CSAM 暗網聊天室、虐待兒童被判 30 年監禁</title>
+      <title>渣男因經營 CSAM 暗網聊天室、虐待兒童而被判入獄 30 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</link>
       <description><![CDATA[&#39;今天的判決不只是一次懲罰。這是一則訊息。 ，他被判處30 年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</guid>
@@ -78,12 +85,12 @@
     <item>
       <title>馬斯克的律師要求美國證券交易委員會停止糾纏這位害羞且即將退休的億萬富翁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</link>
-      <description><![CDATA[不會有人想到伊隆嗎？啊，我們在開玩笑 - 這一切在一個月內都不重要 在 SEC 的眼中，埃隆馬斯克又與美國金融監管機構發生了一場公開爭執，這一次的形式是這位億萬富翁的律師在X（更廣為人知的名稱為Twitter）上發表的一封信。 ...]]></description>
+      <description><![CDATA[不會有人想到伊隆嗎？啊，我們在開玩笑- 這一切在一個月內都不再重要 在SEC 的眼中，埃隆·馬斯克又與美國金融監管機構發生了一場公開爭執，這一次的形式是這位億萬富翁的律師在 X（更廣為人知的名稱為 Twitter）上發表的一封信。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</guid>
       <pubDate>Fri, 13 Dec 2024 22:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>Google Timeline 位置清除造成附帶損害</title>
+      <title>谷歌時間軸位置清除造成附帶損害</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</link>
       <description><![CDATA[隱私措施留下了一些哀悼失去的記憶 一年前，Google宣布計劃在本地設備而不是伺服器上保存人們的位置歷史記錄（現在稱為時間線）。 . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/google_timeline_purge/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的聰明號直升機在這顆紅色星球上永久擱淺。]]></description>
+      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>當挑戰者出現時，systemd 不情願地放棄了安全網，GNU Shepherd 1.0</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</link>
-      <description><![CDATA[對於擁有兩個init 系統可供選擇的發行版構建者來說，假期來得早 每個人最喜歡的Linux 組件都達到了一個里程碑，而一個新的競爭者也成熟了－帶著一絲Lisp 的味道。]]></description>
+      <description><![CDATA[發行版建構者的假期提早到來，有兩個init 系統可供選擇 每個人最喜歡的Linux 組件已經達到了一個里程碑，而一個新的競爭者已經成熟——帶有Lisp 的風格。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/systemd_257_gnu_shepherd/</guid>
       <pubDate>Fri, 13 Dec 2024 12:02:11 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare 預測 2024 年：全球流量上升，Google仍為王，美國大量生產機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</link>
-      <description><![CDATA[一切如舊 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人攻擊的來源交通（再次）。]]></description>
+      <description><![CDATA[確實是老樣子 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google 仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人的來源地交通（再次）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</guid>
       <pubDate>Fri, 13 Dec 2024 10:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>備份失敗，但老闆並沒有猛烈抨擊IT——因為他的兒子應該受到責備</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</link>
-      <description><![CDATA[ISP 也應該受到批評，因為在腳本小子的抱怨之後摔倒了 On Call  愚蠢的季節即將到來，但還沒有那麼接近The Register找不到另一期《隨叫隨到》週五專題，Reg讀者在其中分享在不舒服的環境下取得技術支持勝利的故事。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/on_call/</guid>
-      <pubDate>Fri, 13 Dec 2024 07:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
