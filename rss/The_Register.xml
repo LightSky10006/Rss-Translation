@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Dec 2024 01:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 02:50:42 GMT</lastBuildDate>
+    <item>
+      <title>Infosys 創辦人再次呼籲每週工作 70 小時，聲稱這將創造就業機會</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</link>
+      <description><![CDATA[Plus：中國希望結束經典影片的人工智慧混搭；台積電將開設日本晶圓廠；等等 亞洲概況  Infosys 共同創辦人 Narayana Murthy 再次主張印度工人每週花 70 小時從事有薪工作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</guid>
+      <pubDate>Mon, 16 Dec 2024 01:57:15 GMT</pubDate>
+    </item>
     <item>
       <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</link>
-      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的使用者正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在網路上，導致重大安全風險並使組織容易受到攻擊。]]></description>
+      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的用戶正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在互聯網上，導致重大安全風險並使組織容易受到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</guid>
       <pubDate>Sun, 15 Dec 2024 23:58:08 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Sat, 14 Dec 2024 17:41:07 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 功能取消後，「建議操作」未能顯示本身的存續</title>
+      <title>隨著 Windows 11 功能被終止，「建議的操作」未能表明其自身的生存</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</link>
       <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭手剛剛又奪走了另一名受害者。在「建議操作」功能出現在 Windows Insider 開發頻道中不到三年後，它就被棄用了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
-      <description><![CDATA[IOCONTROL 的目標顯然是大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
+      <description><![CDATA[IOCONTROL 的目標顯然是來自大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</guid>
       <pubDate>Fri, 13 Dec 2024 23:56:13 GMT</pubDate>
     </item>
     <item>
       <title>渣男因經營 CSAM 暗網聊天室、虐待兒童而被判入獄 30 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</link>
-      <description><![CDATA[「今天的判決不只是一種懲罰。這是一條訊息&#39; 一名德州人在暗網上經營一個論壇，墮落的網友可以在這個論壇上交換兒童性虐待材料(CSAM)，並自由地聊天虐待兒童，現已被判處30 年監禁。]]></description>
+      <description><![CDATA[&#39;今天的判決不只是一次懲罰。這是一則訊息。 ，他被判處30 年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</guid>
       <pubDate>Fri, 13 Dec 2024 22:50:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>現在是測試 RHEL 和 AlmaLinux 10 beta 的季節</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/rhel_almalinux_betas/</link>
-      <description><![CDATA[核心團隊的耐心呢？]]></description>
+      <description><![CDATA[核心團隊有耐心嗎？ p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/rhel_almalinux_betas/</guid>
       <pubDate>Fri, 13 Dec 2024 19:38:13 GMT</pubDate>
     </item>
@@ -83,9 +90,9 @@
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>火星地形平淡無奇，聰明號直升機的飛行時間縮短了</title>
+      <title>獨創性直升機的飛行時間因火星地形平淡而縮短</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
+      <description><![CDATA[以不適合舊轉子葉片的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機在這顆紅色星球上永久擱淺。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
@@ -97,9 +104,9 @@
       <pubDate>Fri, 13 Dec 2024 15:03:07 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾高層討論剝離代工廠的可能性</title>
+      <title>英特爾高層討論剝離晶圓代工業務的可能性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</link>
-      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯合執行長表示，我認為這是一個懸而未決的問題。]]></description>
+      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯席執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Cloudflare 預測 2024 年：全球流量上升，Google仍為王，美國大量生產機器人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</link>
-      <description><![CDATA[確實是老樣子 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google 仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人的來源地交通（再次）。]]></description>
+      <description><![CDATA[一切如舊 Cloudflare 表示，今年全球網路流量成長了 17.2%，Google仍然是訪問量最大的網路服務，而美國是全球超過三分之一的機器人攻擊的來源交通（再次）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/cloudflare_2024_review/</guid>
       <pubDate>Fri, 13 Dec 2024 10:28:06 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>博通表示 VMware 是一台比它希望的更好的賺錢機器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</link>
-      <description><![CDATA[在明年推出的3nm 型號的幫助下，晶片業務預計將在2027 年佔據超大規模廠商60-900 億美元XPU 支出的最大份額 Broadcom 已告訴投資者，其對VMware的整合幾乎已經完成提前完成，並且它已將虛擬化巨頭變成了比預期更加多產的賺錢機器。]]></description>
+      <description><![CDATA[預計到2027 年，晶片業務將佔據超大規模企業600-900 億美元XPU 支出的最大份額，這得益於明年推出的3nm 型號 博通告訴投資者，其對VMware的整合幾乎提前完成了，並且它已經將這個虛擬化巨頭變成了一個比它希望的更加多產的賺錢機器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/broadcom_q4_fy_2024_vmware/</guid>
       <pubDate>Fri, 13 Dec 2024 05:02:14 GMT</pubDate>
     </item>
     <item>
       <title>Astroscale 軌道清潔工進入太空垃圾 15 公尺以內</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</link>
-      <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道管理員 Astroscale 表示，它已經完成了商業運營商有史以來最接近太空垃圾的一次它距離報廢的上級火箭不到15 公尺。]]></description>
+      <description><![CDATA[無法伸手觸摸它，但仍然很高興，因為這次嘗試超出了任務範圍 日本軌道清潔工Astroscale表示，它已經完成了商業運營商與太空垃圾的有史以來最接近的接近，當時它距離一枚報廢的上級火箭不到 15 公尺。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/astroscale_15m_space_junk/</guid>
       <pubDate>Fri, 13 Dec 2024 03:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>北韓的假 IT 工人騙局六年內至少獲利 8,800 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</link>
-      <description><![CDATA[美國司法部認為已經找到了該組織的幕後黑手，以及一些被派去敲詐雇主的“IT 戰士” 據報道，朝鮮的假冒IT 工人詐騙在六年內為這個隱士王國帶來了8800 萬美元的損失給美國司法部，該部認為已經找到了管理它們的人。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/doj_dpkr_fake_tech_worker_indictment/</guid>
-      <pubDate>Fri, 13 Dec 2024 00:32:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
