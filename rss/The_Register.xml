@@ -4,18 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Dec 2024 10:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 13:44:23 GMT</lastBuildDate>
     <item>
       <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
-      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將破產生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將退出生意——而800 美元的機器人也會隨之消亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
       <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
     </item>
     <item>
       <title>成功的甜蜜覆盆子味道掩蓋了錯失的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</link>
-      <description><![CDATA[揭開現代計算神秘面紗的最佳方法？  觀點  Raspberry Pi 是一種道德風險，因為它對我們太好了。在過去的 12 年裡，Pi 系列向全世界推出了價格極其實惠、極其實用的計算機，其設計純粹是為了促進教育、創新和數位技能的民主化。]]></description>
+      <description><![CDATA[揭開現代計算神秘面紗的最佳方式？阻止它 意見  Raspberry Pi 有道德風險，因為它對我們來說太好了。在過去的 12 年裡，Pi 系列以極其實惠、極其有用的電腦轟炸了世界，這些電腦純粹是為了促進教育、創新和數位技能的民主化而設計的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</guid>
       <pubDate>Mon, 16 Dec 2024 08:59:12 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>英邁國際將“停止與博通開展業務”，對 VMware 的評級下調至“有限參與”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</link>
-      <description><![CDATA[大型經銷商無法達成能夠帶來「適當股東回報」的交易 獨家 技術分銷巨頭英邁國際將停止與Broadcom 及其VMware 系列在許多領域開展業務明年的領土。]]></description>
+      <description><![CDATA[巨型經銷商無法達成能夠帶來「適當股東回報」的交易 獨家 技術分銷巨頭英邁國際將停止與Broadcom 及其VMware 系列在許多領域開展業務明年的領土。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
       <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Mon, 16 Dec 2024 01:57:15 GMT</pubDate>
     </item>
     <item>
-      <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不是</title>
+      <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</link>
-      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的使用者正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在網路上，導致重大安全風險並使組織容易受到攻擊。]]></description>
+      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的用戶正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在互聯網上，導致重大安全風險並使組織容易受到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</guid>
       <pubDate>Sun, 15 Dec 2024 23:58:08 GMT</pubDate>
     </item>
@@ -85,12 +85,12 @@
     <item>
       <title>與伊朗有關的船員在美國關鍵基礎設施攻擊中使用定制“網路武器”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</link>
-      <description><![CDATA[IOCONTROL 的目標顯然是大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
+      <description><![CDATA[IOCONTROL 的目標顯然是來自大量製造商的物聯網和OT 設備 與伊朗政府有聯繫的網路犯罪團夥使用名為IOCONTROL 的客製化惡意軟體來攻擊和遠端控制美國和以色列的水和燃料管理系統據安全研究人員稱...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/iran_cyberweapon_us_attacks/</guid>
       <pubDate>Fri, 13 Dec 2024 23:56:13 GMT</pubDate>
     </item>
     <item>
-      <title>渣男因經營 CSAM 暗網聊天室、虐待兒童而被判入獄 30 年</title>
+      <title>渣男因經營 CSAM 暗網聊天室、虐待兒童被判 30 年監禁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</link>
       <description><![CDATA[&#39;今天的判決不只是一次懲罰。這是一則訊息。 ，他被判處30 年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</guid>
@@ -125,23 +125,23 @@
       <pubDate>Fri, 13 Dec 2024 18:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>火星地形單調，機智號直升機的飛行時間被迫縮短</title>
+      <title>獨創性直升機的飛行時間因火星地形平淡而縮短</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</link>
-      <description><![CDATA[以對舊轉子葉片來說不太好的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機永久擱淺在這顆紅色星球上。]]></description>
+      <description><![CDATA[以不適合舊轉子葉片的角度硬著陸 平淡的火星表面似乎引發了一系列事件，導緻美國宇航局的“聰明號”直升機在這顆紅色星球上永久擱淺。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/ingenuity_mars_helicopters_flying_days/</guid>
       <pubDate>Fri, 13 Dec 2024 16:31:06 GMT</pubDate>
     </item>
     <item>
       <title>Android 加強了藍牙標籤追蹤器保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</link>
-      <description><![CDATA[儘管如此，更廣泛的生態系統仍有工作要做 Google 正在推出兩項新功能，以幫助Android 用戶躲避濫用藍牙標籤來秘密追蹤他們的追蹤者。 ]]></description>
+      <description><![CDATA[不過，更廣泛的生態系統仍有工作要做 Google正在推出兩項新功能，幫助 Android 用戶躲避濫用藍牙標籤秘密追蹤他們的追蹤者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/creeps_beware_android_beefs_up/</guid>
       <pubDate>Fri, 13 Dec 2024 15:03:07 GMT</pubDate>
     </item>
     <item>
       <title>英特爾高層討論剝離代工廠的可能性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</link>
-      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯合執行長表示，我認為這是一個懸而未決的問題。]]></description>
+      <description><![CDATA[&#39;它曾經完全分離過嗎？臨時聯席執行長表示，我認為這是一個懸而未決的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/intel_foundry_spinoff/</guid>
       <pubDate>Fri, 13 Dec 2024 13:32:11 GMT</pubDate>
     </item>
