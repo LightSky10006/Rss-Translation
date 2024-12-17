@@ -3,10 +3,17 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 15:40:12 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 17 Dec 2024 17:12:21 GMT</lastBuildDate>
     <item>
-      <title>愛爾蘭因 2018 年「View As」漏洞導致 3,000 萬帳戶資訊外洩而對 Meta 處以罰款</title>
+      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
+      <description><![CDATA[並不像您想像的那麼難以理解，但仍然超出了英特爾或AMD 的預期 分析  Nvidia 正面臨著多年來最激烈的競爭，英特爾和AMD 推出了新的加速器在記憶體容量、效能和價格方面挑戰其最好的晶片。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
+      <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
       <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
@@ -27,14 +34,14 @@
       <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果情報摘要搞砸了頭條新聞，引起 BBC 新聞編輯室的不安</title>
+      <title>Apple Intelligence 摘要搞砸了標題，導致 BBC 新聞編輯室感到緊張不安</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</link>
       <description><![CDATA[與此同時，一些iPhone 用戶對人工智慧功能的引入漠不關心 在最近推出的服務引起了英國廣播公司的憤怒之後，蘋果的生成式人工智慧系統的情況並不完全按計劃進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</guid>
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>倫敦警察廳尋求商業服務，ERP 更新，交易金額達 3.7 億英鎊</title>
+      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
       <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部門正在尋求業務外包、ERP 升級和支持的市場，招標價值可能達到 10 億英鎊。 （12.7 億美元），如果其他組織加入的話…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 17 Dec 2024 06:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>澳洲計劃在 2030 年之前放棄部分加密技術——在量子技術將其分割之前</title>
+      <title>澳洲將在 2030 年前放棄部分加密技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/australia_dropping_crypto_keys/</link>
       <description><![CDATA[SHA-256、RSA、ECDSA 和 ECDH 之類的技術在短短五年內不會受到歡迎 澳洲首席網路安全機構已決定當地組織應停止使用構成當前加密技術的技術由於擔心量子計算的進步可能導致互聯網不安全，到2030 年互聯網將建立起來——比其他國家計劃這樣做的時間早了很多年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/australia_dropping_crypto_keys/</guid>
@@ -76,21 +83,21 @@
       <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團審判拉開 Arm 與高通角逐的序幕</title>
+      <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
-      <description><![CDATA[Nuvia 買家涉嫌違反許可條款預計將持續到週五 英國晶片設計公司Arm Holdings 與高通之間的爭鬥今天在特拉華州地方法院拉開帷幕。 p&gt; &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Nuvia 買家涉嫌違反許可條款的指控預計將持續到週五 英國晶片設計商Arm Holdings 與高通之間的訴訟今天在特拉華州地方法院拉開帷幕。 .. &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</guid>
       <pubDate>Mon, 16 Dec 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>川普政府希望對中國發動網路攻擊</title>
+      <title>川普政府希望對中國發動網路攻勢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</link>
       <description><![CDATA[美國以前從未攻擊過中國的關鍵基礎設施，對嗎？  候任總統唐納德·特朗普的團隊希望對美國的網絡對手發起進攻，儘管目前尚不清楚即將上任的政府將如何計劃為了實現這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</guid>
       <pubDate>Mon, 16 Dec 2024 19:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>德勤表示，羅德島州福利門戶網站遭受的網路攻擊帶來“重大安全威脅”</title>
+      <title>德勤稱羅德島州福利門戶網站遭受網路攻擊，構成“重大安全威脅”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</link>
       <description><![CDATA[個人和財務資料可能被盜 羅德島州德勤管理的政府系統遭受網路攻擊，敏感資料「極有可能」被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</guid>
@@ -118,9 +125,9 @@
       <pubDate>Mon, 16 Dec 2024 14:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
+      <title>售價 800 美元的兒童「人工智慧」機器人與其製造商一同隕落</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
-      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將破產生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <description><![CDATA[Moxie 製造商Embodied 即將倒閉，為雲端服務帶來重要教訓 評價  Moxie 的製造商即將倒閉，Moxie 是一款「人工智慧」驅動的兒童教育機器人的業務－800 美元的機器人也會隨之消亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
       <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>編碼員寫了一個錯誤，以至於糟糕的保全在他上班時想說一句話</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/who_me/</link>
-      <description><![CDATA[在新創公司工作應該以一夜致富告終，但事實並非如此 誰，我？在《紀事報》週一早上的專題報道中，我們分享了您的讀者朋友們製造和逃脫的技術混亂的故事，以便為您帶來希望，以防您在未來一周犯錯。]]></description>
+      <description><![CDATA[在新創公司工作本應一夜致富，但事實並非如此 誰，我？在《The Register》的周一早晨專欄中，我們分享了各位讀者遇到的技術難題以及解決方法，以便在您在接下來的一周犯錯時給您帶來希望。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/who_me/</guid>
       <pubDate>Mon, 16 Dec 2024 07:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>英邁國際將“停止與博通開展業務”，對 VMware 的評級下調至“有限參與”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</link>
-      <description><![CDATA[經銷商無法達成能夠帶來「適當股東回報」的交易，晶片巨頭表示其「繼續完善」其管道 獨家 技術分銷巨頭英邁國際( Ingram Micro) 將在明年停止與 Broadcom 及其在許多地區的 VMware 系列開展業務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
-      <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
