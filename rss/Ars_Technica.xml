@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 17 Dec 2024 18:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 18:45:47 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 合作夥伴洩漏下一代 RTX 50 系列 GPU，其中包括 32GB 5090</title>
+      <link>https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/</link>
+      <description><![CDATA[面向中國的 5080、5070 Ti、5070 和 5090D 型號也已列出。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/</guid>
+      <pubDate>Tue, 17 Dec 2024 18:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院不會審理對 15 美元寬頻法的質疑，網路服務供應商蒙受巨大損失</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/</link>
+      <description><![CDATA[網路服務供應商擔心，隨著紐約法律經受住挑戰，更多州將監管價格。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/</guid>
+      <pubDate>Tue, 17 Dec 2024 18:07:10 GMT</pubDate>
+    </item>
     <item>
       <title>下個月面臨禁令，TikTok 向 SCOTUS 尋求協助</title>
       <link>https://arstechnica.com/tech-policy/2024/12/facing-ban-next-month-tiktok-begs-scotus-for-help/</link>
@@ -13,7 +27,7 @@
       <pubDate>Tue, 17 Dec 2024 17:38:46 GMT</pubDate>
     </item>
     <item>
-      <title>這是新款混合動力本田 Prelude，將於 2025 年底發售</title>
+      <title>這是新款混合動力本田 Prelude，將於 2025 年底上市</title>
       <link>https://arstechnica.com/cars/2024/12/honda-is-reviving-the-prelude-coupe-this-time-as-a-hybrid/</link>
       <description><![CDATA[此版本將採用本田 S+ Shift 技術，以提高參與度。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/honda-is-reviving-the-prelude-coupe-this-time-as-a-hybrid/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>黑色塑膠研究中的巨大數學錯誤得到糾正；作者說沒關係</title>
       <link>https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/</link>
-      <description><![CDATA[針對人們丟抹刀的黑色塑膠研究進行了更正。]]></description>
+      <description><![CDATA[針對人們扔鏟子的黑色塑膠研究發布了更正。]]></description>
       <guid>https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/</guid>
       <pubDate>Mon, 16 Dec 2024 22:23:34 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Mon, 16 Dec 2024 19:52:50 GMT</pubDate>
     </item>
     <item>
-      <title>駭客從州政府門戶獲取社會安全號碼和銀行資訊後尋求贖金</title>
+      <title>駭客從州政府入口網站取得 SSN 和銀行資訊後索取贖金</title>
       <link>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</link>
       <description><![CDATA[羅德島州稱，德勤運營的福利系統遭到駭客攻擊後，該州遭受了敲詐勒索。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</guid>
       <pubDate>Mon, 16 Dec 2024 18:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>參議院報告詳述隱藏的大面積傷害 亞馬遜面臨罷工威脅</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/bernie-sanders-probe-finds-amazon-hid-worker-injuries-to-prioritize-profits/</link>
-      <description><![CDATA[亞馬遜無視罷工威脅，否認「倉庫極度危險」的說法。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/bernie-sanders-probe-finds-amazon-hid-worker-injuries-to-prioritize-profits/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile 用戶可以在測試期間免費試用支援 Starlink 的電話服務</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/</link>
-      <description><![CDATA[Beta 註冊已於今天開放，將於 2025 年初在盲區啟用簡訊功能。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/t-mobile-opens-beta-registration-for-starlink-enabled-cell-phone-service/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
