@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 14:13:07 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 17 Dec 2024 15:40:12 GMT</lastBuildDate>
+    <item>
+      <title>愛爾蘭因 2018 年「View As」漏洞導致 3,000 萬帳戶資訊外洩而對 Meta 處以罰款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
+      <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
+      <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>美國領空關閉、缺乏答案加深東岸無人機之謎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</link>
@@ -27,9 +34,9 @@
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
+      <title>倫敦警察廳尋求商業服務，ERP 更新，交易金額達 3.7 億英鎊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
-      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則將達到10 億美元（12.7 億美元）。]]></description>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部門正在尋求業務外包、ERP 升級和支持的市場，招標價值可能達到 10 億英鎊。 （12.7 億美元），如果其他組織加入的話…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -62,21 +69,21 @@
       <pubDate>Tue, 17 Dec 2024 02:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Cleo 軟體修補程式中存在勒索軟體浮渣漏洞，Cl0p（某種程度上）聲稱對此負責</title>
+      <title>勒索軟體漏洞破壞了 Cleo 軟體補丁，Cl0p（某種程度上）聲稱對此負責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</link>
       <description><![CDATA[但你真的能相信犯罪分子的話嗎？的勒索軟體攻擊- 相關團夥 Cl0p 聲稱這是其邪惡工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</guid>
       <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
+      <title>陪審團審判拉開 Arm 與高通角逐的序幕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
-      <description><![CDATA[Nuvia 買家涉嫌違反許可條款的指控預計將持續到週五 英國晶片設計商Arm Holdings 與高通之間的訴訟今天在特拉華州地方法院拉開帷幕。 .. &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Nuvia 買家涉嫌違反許可條款預計將持續到週五 英國晶片設計公司Arm Holdings 與高通之間的爭鬥今天在特拉華州地方法院拉開帷幕。 p&gt; &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</guid>
       <pubDate>Mon, 16 Dec 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>川普政府希望對中國發動網路攻勢</title>
+      <title>川普政府希望對中國發動網路攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</link>
       <description><![CDATA[美國以前從未攻擊過中國的關鍵基礎設施，對嗎？  候任總統唐納德·特朗普的團隊希望對美國的網絡對手發起進攻，儘管目前尚不清楚即將上任的政府將如何計劃為了實現這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 16 Dec 2024 14:45:57 GMT</pubDate>
     </item>
     <item>
-      <title>歐盟委員會表示，仔細研究一下 Nvidia 收購 Run.ai 的交易</title>
+      <title>歐盟委員會告訴我們，仔細看看 Nvidia 對 Run.ai 的收購</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/probe_nvidias_buy_of_runai/</link>
       <description><![CDATA[活動團體、非營利組織敦促採取行動，防止 GPU 製造商加強對人工智慧產業的控制 一個中左智庫與其他非營利組織一起敦促歐盟委員會「充分調查「Nvidia 收購工作負載管理新創公司Run:ai，擔心這將有助於加強GPU 巨頭對AI 行業的控制。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/probe_nvidias_buy_of_runai/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
-      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將退出生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將破產生意——而800 美元的機器人也會隨之消亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
       <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[經銷商無法達成能夠帶來「適當股東回報」的交易，晶片巨頭表示其「繼續完善」其管道 獨家 技術分銷巨頭英邁國際( Ingram Micro) 將在明年停止與 Broadcom 及其在許多地區的 VMware 系列開展業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
       <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著北京推動通用遙控器，中國的自製藍牙替代品正在大行其道</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</link>
-      <description><![CDATA[據稱「星閃」採用了5G 技術，讓競爭對手的無線協議在沙發縫隙中苦苦掙扎 中國電子視像行業協會上週簽署了一項通用遙控器標準–北京認為當地人需要這個小工具，因為他們正在為多個遙控器而苦惱，但這在其他方面也更重要一些。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</guid>
-      <pubDate>Mon, 16 Dec 2024 03:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
