@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 19:11:11 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 17 Dec 2024 20:14:32 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
+      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 推出了一款名為Jetson 的微型新開發板，在假期期間將AI 炒作帶回家Orin Nano Super…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
+      <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署靜音登陸器讓科學家深入了解火星塵埃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>美國領空關閉、缺乏答案加深東岸無人機之謎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</link>
-      <description><![CDATA[聯邦調查局堅稱他們仍然不知道發生了什麼事——但注意到目擊事件集中在機場航線附近 分析  神秘無人機熱潮繼續席捲美國東海岸——而且似乎向內陸遷移——民選官員懇求聯邦政府採取行動。與此同時，聯邦調查局重申了他們一直以來的說法：我們不知道發生了什麼，但你們都需要冷靜下來。 …]]></description>
+      <description><![CDATA[聯邦政府堅稱他們仍然不知道發生了什麼- 但請注意目擊事件集中在機場飛行路徑周圍 分析 神秘無人機熱潮繼續席捲美國東海岸- 並且似乎出現向內陸遷移－民選官員懇求聯邦政府採取行動。同時，聯邦政府重申了他們一直以來所說的話：我們不知道發生了什麼事，但你們都需要冷靜下來。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</guid>
       <pubDate>Tue, 17 Dec 2024 14:01:15 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
+      <title>倫敦警察廳尋求商業服務，ERP 更新，交易金額達 3.7 億英鎊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
-      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則為10 億美元（12.7 億美元）。]]></description>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則將達到10 億美元（12.7 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
+      <title>陪審團審判拉開 Arm 與高通角逐的序幕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
       <description><![CDATA[Nuvia 買家涉嫌違反許可條款的指控預計將持續到週五 英國晶片設計商Arm Holdings 與高通之間的訴訟今天在特拉華州地方法院拉開帷幕。 .. &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</guid>
@@ -125,25 +132,18 @@
       <pubDate>Mon, 16 Dec 2024 14:45:57 GMT</pubDate>
     </item>
     <item>
-      <title>歐盟委員會表示，仔細研究一下 Nvidia 收購 Run.ai 的交易</title>
+      <title>歐盟委員會告訴我們，仔細看看 Nvidia 對 Run.ai 的收購</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/probe_nvidias_buy_of_runai/</link>
-      <description><![CDATA[活動團體、非營利組織敦促採取行動，防止 GPU 製造商加強對人工智慧產業的控制 一個中左智庫與其他非營利組織一起敦促歐盟委員會「充分調查「Nvidia 收購工作負載管理新創公司Run:ai，擔心這將有助於加強GPU 巨頭對AI 行業的控制。 --&gt;]]></description>
+      <description><![CDATA[活動團體、非營利組織敦促採取行動，防止 GPU 製造商加強對 AI 產業的控制 一家中左翼智庫與其他非營利組織正在敦促歐盟委員會「充分調查」 Nvidia 收購工作負載管理新創公司Run:ai，人們擔心這將有助於加強GPU 巨頭對AI 行業的控制。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/probe_nvidias_buy_of_runai/</guid>
       <pubDate>Mon, 16 Dec 2024 14:03:17 GMT</pubDate>
     </item>
     <item>
       <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
-      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將破產生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <description><![CDATA[Moxie 製造商Embodied 即將倒閉，為雲端服務帶來重要教訓 評價  Moxie 是一款「人工智慧」驅動的兒童教育機器人，其製造商即將倒閉的業務－800 美元的機器人也會隨之消亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
       <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功的甜蜜覆盆子味道掩蓋了錯失的機會</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</link>
-      <description><![CDATA[揭開現代計算神秘面紗的最佳方法？  觀點  Raspberry Pi 是一種道德風險，因為它對我們太好了。在過去的 12 年裡，Pi 系列向全世界推出了價格極其實惠、極其實用的計算機，其設計純粹是為了促進教育、創新和數位技能的民主化。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/</guid>
-      <pubDate>Mon, 16 Dec 2024 08:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
