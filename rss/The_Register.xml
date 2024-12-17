@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 11:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 13:03:03 GMT</lastBuildDate>
+    <item>
+      <title>Alpine Linux 3.21：精實、平均、LoongArch 就緒</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</link>
+      <description><![CDATA[新的LTS 核心之後，一陣涼爽的山風吹來 極簡且非常輕量級的Alpine Linux 的全新版本就在這裡，支援中國LoongArch64 CPU。 p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</guid>
+      <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果情報摘要搞砸了頭條新聞，引起 BBC 新聞編輯室的不安</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</link>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 16 Dec 2024 16:37:13 GMT</pubDate>
     </item>
     <item>
-      <title>困惑者指南－Google不再是最好的搜尋引擎</title>
+      <title>困惑者的指南 – 谷歌不再是最好的搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</link>
       <description><![CDATA[尋找，就會找到 意見  作為搜尋引擎，Perplexity 比Google 具有多種優勢，使其成為許多人的一個令人信服的替代方案。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</guid>
@@ -120,30 +127,23 @@
     <item>
       <title>英邁國際將“停止與博通開展業務”，對 VMware 的評級下調至“有限參與”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</link>
-      <description><![CDATA[經銷商無法達成一項能帶來「適當股東回報」的交易，晶片巨頭稱其「正在繼續完善」其管道 獨家  科技分銷巨頭Ingram Micro 將明年將停止在許多地區與 Broadcom 及其 VMware 系列開展業務。]]></description>
+      <description><![CDATA[經銷商無法達成能夠帶來「適當股東回報」的交易，晶片巨頭表示其「繼續完善」其管道 獨家 技術分銷巨頭英邁國際( Ingram Micro) 將在明年停止與 Broadcom 及其在許多地區的 VMware 系列開展業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
       <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
     </item>
     <item>
       <title>隨著北京推動通用遙控器，中國的自製藍牙替代品正在大行其道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</link>
-      <description><![CDATA[據說「Star Flash」包含 5G 技術，讓競爭對手的無線協議在沙發縫中苦苦掙扎 中國電子視頻行業協會上週簽署了通用遙控器標準 –北京認為當地人需要一個小工具，因為他們正在與多個遙控器作鬥爭，但在其他方面也更重要...... ]]></description>
+      <description><![CDATA[據稱「星閃」採用了5G 技術，讓競爭對手的無線協議在沙發縫隙中苦苦掙扎 中國電子視像行業協會上週簽署了一項通用遙控器標準–北京認為當地人需要這個小工具，因為他們正在努力應對多個遙控器，但這在其他方面也更重要一些。 _whitepaper_textlinks_top.html &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</guid>
       <pubDate>Mon, 16 Dec 2024 03:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>印孚瑟斯公司創辦人再次呼籲實施每週 70 小時工作制，聲稱這可以創造就業機會</title>
+      <title>Infosys 創辦人再次呼籲每週工作 70 小時，聲稱這將創造就業機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</link>
       <description><![CDATA[Plus：中國希望結束經典影片的人工智慧混搭；台積電將開設日本晶圓廠；等等 亞洲概況  Infosys 共同創辦人 Narayana Murthy 再次主張印度工人每週花 70 小時從事有薪工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 16 Dec 2024 01:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的 Prometheus 伺服器和匯出器安全嗎？可能不是</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</link>
-      <description><![CDATA[Plus：Netscaler 暴力彈幕； BeyondTrust API 金鑰被盜；等等 資訊安全簡介 Prometheus 開源監控工具包的使用者正在醞釀著一個巨大的問題：數十萬台伺服器和匯出器暴露在網路上，導致重大安全風險並使組織容易受到攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/prometheus_servers_exporters_exposed/</guid>
-      <pubDate>Sun, 15 Dec 2024 23:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
