@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 08:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 09:39:25 GMT</lastBuildDate>
+    <item>
+      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則將達到10 億美元（12.7 億美元）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
+      <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 現在租用巨型 HPE 伺服器，甚至在 7,680 個 vCPU 和 128TB 的叢集中也是如此</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 17 Dec 2024 02:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Cleo 軟體修補程式中存在勒索軟體浮渣漏洞，Cl0p（某種程度上）聲稱對此負責</title>
+      <title>勒索軟體漏洞破壞了 Cleo 軟體補丁，Cl0p（某種程度上）聲稱對此負責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</link>
       <description><![CDATA[但你真的能相信犯罪分子的話嗎？的勒索軟體攻擊- 相關團夥 Cl0p 聲稱這是其邪惡工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 16 Dec 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>川普政府希望對中國發動網路攻勢</title>
+      <title>川普政府希望對中國發動網路攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</link>
       <description><![CDATA[美國以前從未攻擊過中國的關鍵基礎設施，對嗎？  候任總統唐納德·特朗普的團隊希望對美國的網絡對手發起進攻，儘管目前尚不清楚即將上任的政府將如何計劃為了實現這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>德勤表示，羅德島州福利門戶網站遭受的網路攻擊帶來“重大安全威脅”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</link>
-      <description><![CDATA[個人和財務資料可能被盜 羅德島州德勤管理的政府系統遭受網路攻擊，敏感資料「極有可能」被盜。]]></description>
+      <description><![CDATA[個人和財務資料可能被盜 羅德島州稱，對德勤管理的政府系統的網路攻擊「極有可能」導致敏感資料被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</guid>
       <pubDate>Mon, 16 Dec 2024 18:01:14 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>價值 800 美元的“AI”兒童機器人與它的製造商一起被淘汰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</link>
-      <description><![CDATA[Moxie 製造商 Embodied 即將破產，教授有關雲端服務的重要課程 評論  Moxie（一款「AI」驅動的兒童教育機器人）的製造商即將退出生意——而800 美元的機器人也會隨之消亡。]]></description>
+      <description><![CDATA[Moxie 製造商Embodied 即將倒閉，為雲端服務帶來重要教訓 評價  Moxie 是一款「人工智慧」驅動的兒童教育機器人，其製造商即將倒閉的業務－800 美元的機器人也會隨之消亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/moxie_cloud_services_lessons/</guid>
       <pubDate>Mon, 16 Dec 2024 10:34:15 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>英邁國際將“停止與博通開展業務”，對 VMware 的評級下調至“有限參與”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</link>
-      <description><![CDATA[經銷商無法達成一項能帶來「適當股東回報」的交易，晶片巨頭稱其「正在繼續完善」其管道 獨家 科技分銷巨頭Ingram Micro 將明年將停止在許多地區與 Broadcom 及其 VMware 系列開展業務。]]></description>
+      <description><![CDATA[經銷商無法達成能夠帶來「適當股東回報」的交易，晶片巨頭表示其「繼續完善」其管道 獨家 技術分銷巨頭英邁國際( Ingram Micro) 將在明年停止與 Broadcom 及其在許多地區的 VMware 系列開展業務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ingram_micro_vmware_broadcom_deal_ends/</guid>
       <pubDate>Mon, 16 Dec 2024 05:01:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有時兩個模型確實比一個模型更快 動手實踐 在 AI 推理方面，生成響應的速度越快越好 - 在過去的幾年中幾週來，我們看到晶片新貴發布了許多聲明，聲稱數字高得令人難以置信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</guid>
       <pubDate>Sun, 15 Dec 2024 18:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>紅兔機器人以人類形態將工作作為服務出售</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</link>
-      <description><![CDATA[接受這項工作並使其自動化 本週，Red Rabbit Robotics 出席了人形機器人峰會，這是一個為製造商製造類似人類的機器並將自主勞動力作為服務出售的會議。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</guid>
-      <pubDate>Sun, 15 Dec 2024 12:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
