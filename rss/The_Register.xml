@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 16 Dec 2024 23:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 01:04:13 GMT</lastBuildDate>
+    <item>
+      <title>Cleo 軟體修補程式中存在勒索軟體浮渣漏洞，Cl0p（某種程度上）聲稱對此負責</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</link>
+      <description><![CDATA[但你真的能相信罪犯的言論嗎？勒索軟體攻擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</guid>
+      <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 16 Dec 2024 19:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>德勤稱羅德島州福利門戶網站遭受網路攻擊，構成“重大安全威脅”</title>
+      <title>德勤表示，羅德島州福利門戶網站遭受的網路攻擊帶來“重大安全威脅”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</link>
       <description><![CDATA[個人和財務資料可能被盜 羅德島州德勤管理的政府系統遭受網路攻擊，敏感資料「極有可能」被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>LLM 效能作弊代碼：推測性解碼簡介</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</link>
-      <description><![CDATA[有時兩個模型確實比一個模型更快 動手實踐 在 AI 推理方面，生成響應的速度越快越好 - 在過去的幾年中幾週來，我們看到晶片新貴發布了許多公告，聲稱數字高得令人難以置信。]]></description>
+      <description><![CDATA[有時兩個模型確實比一個模型更快 動手  當談到人工智慧推理時，你越快產生回應越好——過去幾年幾週以來，我們看到許多晶片新貴公司都發布了令人難以置信的高數字聲明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/speculative_decoding/</guid>
       <pubDate>Sun, 15 Dec 2024 18:57:11 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>隨著 Windows 11 功能被終止，「建議的操作」未能表明其自身的生存</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</link>
-      <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭手剛剛又奪走了另一個受害者。在「建議操作」功能出現在 Windows Insider 開發頻道中不到三年後，它就被棄用了。]]></description>
+      <description><![CDATA[怪異僚機的最後謝幕 微軟斧頭俠剛剛又奪走了一名受害者的生命。在 Windows Insider Dev Channel 中出現不到三年，「建議操作」功能就已被棄用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/windows_11_suggested_actions/</guid>
       <pubDate>Sat, 14 Dec 2024 12:25:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&#39;今天的判決不只是一次懲罰。這是一則訊息。 ，他被判處30 年監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/texas_it_admin_csam/</guid>
       <pubDate>Fri, 13 Dec 2024 22:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克的律師要求美國證券交易委員會停止糾纏這位害羞且即將退休的億萬富翁</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</link>
-      <description><![CDATA[沒人會想到伊隆嗎？啊，我們在騙誰呢——一個月後這些都不再重要了 在美國證券交易委員會的關注下，埃隆·馬斯克又一次與美國金融監管機構公開爭吵，這次是以這位億萬富翁的律師在 X（更廣為人知的 Twitter）上發表的一封信。 …]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/13/elon_musks_lawyer_sec_letter/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:23:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
