@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 17 Dec 2024 01:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:18:42 GMT</lastBuildDate>
+    <item>
+      <title>中國首顆國網互聯網衛星進入軌道運行，未來將有數千顆衛星進入軌道運行</title>
+      <link>https://arstechnica.com/space/2024/12/china-orbits-first-guowang-internet-satellites-with-thousands-more-to-come/</link>
+      <description><![CDATA[中國發射了計畫中的 13,000 顆網路衛星星座中的首批 10 顆太空船。]]></description>
+      <guid>https://arstechnica.com/space/2024/12/china-orbits-first-guowang-internet-satellites-with-thousands-more-to-come/</guid>
+      <pubDate>Tue, 17 Dec 2024 04:41:26 GMT</pubDate>
+    </item>
     <item>
       <title>在IT領域？需要現金嗎？網路安全舉報人正在賺取巨額報酬。</title>
       <link>https://arstechnica.com/tech-policy/2024/12/in-it-need-cash-cybersecurity-whistleblowers-are-earning-big-payouts/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>黑色塑膠研究中的巨大數學錯誤得到糾正；作者說沒關係</title>
       <link>https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/</link>
-      <description><![CDATA[針對人們丟抹刀的黑色塑膠研究進行了更正。]]></description>
+      <description><![CDATA[對導致人們扔抹刀的黑色塑膠研究進行了更正。]]></description>
       <guid>https://arstechnica.com/health/2024/12/huge-math-error-corrected-in-black-plastic-study-authors-say-it-doesnt-matter/</guid>
       <pubDate>Mon, 16 Dec 2024 22:23:34 GMT</pubDate>
     </item>
     <item>
       <title>PS Placeable：將 PlayStation Portable 變成遊戲機的可愛模組</title>
       <link>https://arstechnica.com/gaming/2024/12/ps-placeable-the-adorable-mod-that-turns-a-playstation-portable-into-a-console/</link>
-      <description><![CDATA[這個充滿愛心的模組項目很快就賣完了，但還會製作更多。]]></description>
+      <description><![CDATA[這個充滿愛心的模組項目很快就賣完了，但還會有更多的作品被製作出來。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/ps-placeable-the-adorable-mod-that-turns-a-playstation-portable-into-a-console/</guid>
       <pubDate>Mon, 16 Dec 2024 19:52:50 GMT</pubDate>
     </item>
     <item>
       <title>駭客從州政府門戶獲取社會安全號碼和銀行資訊後尋求贖金</title>
       <link>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</link>
-      <description><![CDATA[羅德島州表示，德勤營運的福利系統遭到駭客攻擊後，該公司遭到勒索。]]></description>
+      <description><![CDATA[羅德島州稱，德勤運營的福利系統遭到駭客攻擊後，該州遭受了敲詐勒索。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</guid>
       <pubDate>Mon, 16 Dec 2024 18:48:56 GMT</pubDate>
     </item>
@@ -57,23 +64,16 @@
     <item>
       <title>為什麼喝紅酒會頭痛？</title>
       <link>https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/</link>
-      <description><![CDATA[畢竟這不是單寧或亞硫酸鹽的問題。]]></description>
+      <description><![CDATA[畢竟這不是單寧或亞硫酸鹽。]]></description>
       <guid>https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/</guid>
       <pubDate>Mon, 16 Dec 2024 14:40:26 GMT</pubDate>
     </item>
     <item>
       <title>2025 年買電視？預計更低的價格、更多的廣告和作業系統之戰。</title>
       <link>https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/</link>
-      <description><![CDATA[「我確實擔心製造更好電視的壓力會消失...」]]></description>
+      <description><![CDATA[“我確實擔心製造更好電視的壓力會消失……”]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/</guid>
       <pubDate>Mon, 16 Dec 2024 12:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在路易斯安那州，禽流感從鳥類傳染給人類；病人住院</title>
-      <link>https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/</link>
-      <description><![CDATA[這是路易斯安那州首例人類感染禽流感病例。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:28:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
