@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 06:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 08:18:33 GMT</lastBuildDate>
+    <item>
+      <title>AWS 現在租用巨型 HPE 伺服器，甚至在 7,680 個 vCPU 和 128TB 的叢集中也是如此</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</link>
+      <description><![CDATA[對於那些運行大型記憶體資料庫和需要它們的應用程式的人來說，《Heir to Superdome》變得陰暗 Amazon Web Services 通常對其在彈性計算雲中租用的伺服器的確切配置持懷疑態度，但週二破例宣布將提供基於單一 HPE 伺服器的實例：Compute Scale-up Server 3200。 html&#39;--&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</guid>
+      <pubDate>Tue, 17 Dec 2024 07:46:14 GMT</pubDate>
+    </item>
     <item>
       <title>黑莓將 Cylance 的端點安全產品卸載給 Arctic Wolf</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/blackberry_cylance_sale_arctic_wolf/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>困惑者指南－Google不再是最好的搜尋引擎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</link>
-      <description><![CDATA[尋找，你會找到 觀點  Perplexity 作為搜尋引擎比Google 有幾個優勢，使其成為許多人眼中一個引人注目的替代選擇。 ]]></description>
+      <description><![CDATA[尋找，就會找到 意見  作為搜尋引擎，Perplexity 比Google 具有多種優勢，使其成為許多人的一個令人信服的替代方案。 ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</guid>
       <pubDate>Mon, 16 Dec 2024 14:45:57 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>隨著北京推動通用遙控器，中國的自製藍牙替代品正在大行其道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</link>
-      <description><![CDATA[據稱「星閃」採用了5G 技術，讓競爭對手的無線協議在沙發縫隙中苦苦掙扎 中國電子視像行業協會上週簽署了一項通用遙控器標準–北京認為當地人需要這個小工具，因為他們正在為多個遙控器而苦惱，但這在其他方面也更重要一些。 /_whitepaper_textlinks_top.html &#39; --&gt;]]></description>
+      <description><![CDATA[據說「Star Flash」包含 5G 技術，讓競爭對手的無線協議在沙發縫中苦苦掙扎 中國電子視頻行業協會上週簽署了通用遙控器標準 –北京認為當地人需要一個小工具，因為他們正在與多個遙控器作鬥爭，但在其他方面也更重要...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/china_starflash_universal_remotes_standard/</guid>
       <pubDate>Mon, 16 Dec 2024 03:28:07 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>紅兔機器人以人類形態將工作作為服務出售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</link>
-      <description><![CDATA[接受這份工作並使其自動化 本週，紅兔機器人公司出席了人形機器人峰會，這是一場面向開發人員的會議，他們製造與人類相似的機器，並將自主勞動力作為服務出售。]]></description>
+      <description><![CDATA[接受這項工作並使其自動化 本週，Red Rabbit Robotics 出席了人形機器人峰會，這是一個為製造商製造類似人類的機器並將自主勞動力作為服務出售的會議。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/15/red_rabbit_robotics/</guid>
       <pubDate>Sun, 15 Dec 2024 12:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>與某些人相反，traceroute 是非常真實的 – 我應該知道，我幫助它發揮作用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/</link>
-      <description><![CDATA[圍坐在火邊，再次重述電腦網路歷史 系統方法 幾週前，我偶然發現了一篇題為「Traceroute is not real」的文章，該文章相當有趣，但有些地方不太正確。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/14/mpls_traceroute_history/</guid>
-      <pubDate>Sat, 14 Dec 2024 17:41:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
