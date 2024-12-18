@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 13:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:38:49 GMT</lastBuildDate>
+    <item>
+      <title>科學家誘騙人工智慧模式洩漏其秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
+      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
+      <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Xfce 4.20 已發布：Wayland 支援落地，但仍有一些內容缺失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/</link>
-      <description><![CDATA[Unixi 風格的桌面廣泛更新 評論  歷史最悠久的 Linux 桌面的新版本已經發布，最後，我們可以使用Wayland – 儘管目前還不是一切都能正常工作。]]></description>
+      <description><![CDATA[Unixi-est 桌面廣泛更新 評論 歷史最悠久的 Linux 桌面的新版本現已推出，最後，您可以使用Wayland – 儘管還不是一切正常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/</guid>
       <pubDate>Wed, 18 Dec 2024 13:30:11 GMT</pubDate>
     </item>
@@ -27,14 +34,14 @@
       <pubDate>Wed, 18 Dec 2024 09:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>當你的科技幽靈回來困擾你時，期待騙局</title>
+      <title>當科技幽靈再次困擾你時，要預料到會出現什麼騙局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
       <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切不對勁時，我陷入了深深的悲傷之中睡眠不安。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>就連 Netflix 也難以確定和了解其 AWS 資產的成本</title>
+      <title>甚至 Netflix 也難以辨識和理解其 AWS 資產的成本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</link>
       <description><![CDATA[如果您在追蹤各種串流媒體訂閱時遇到困難，您一定會喜歡這種諷刺 追蹤組織使用的雲端資源量以及這樣做的成本是眾所周知的棘手- 確實如此棘手，甚至Netflix 都無法做到這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 為假期升級了小型 Jetson Orin Nano 開發套件</title>
+      <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
       <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 正在透過推出名為Jetson 的小型新型開發板，在節日期間將AI炒作帶回家奧林納米超級...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 CUDA 護城河到底有多深？</title>
+      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
       <description><![CDATA[雖然沒有你想像的那麼難以攻克，但仍然超出了英特爾或AMD 的預期 分析  隨著英特爾和AMD 推出新的加速器，Nvidia 正面臨著多年來最激烈的競爭在內存容量、性能和價格方面挑戰其最佳晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
@@ -104,9 +111,9 @@
       <pubDate>Tue, 17 Dec 2024 14:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>Alpine Linux 3.21：精實、平均、LoongArch 就緒</title>
+      <title>Alpine Linux 3.21：精簡、有效率且支援 LoongArch</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</link>
-      <description><![CDATA[新的LTS 核心之後，一陣涼爽的山風吹來 極簡且非常輕量級的Alpine Linux 的全新版本就在這裡，支援中國LoongArch64 CPU。 p&gt;]]></description>
+      <description><![CDATA[新 LTS 核心發布後，一陣涼爽的山風吹來 極簡主義和超輕量的 Alpine Linux 全新發布，支援中國 LoongArch64 CPU…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</guid>
       <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
-      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則為10 億美元（12.7 億美元）。]]></description>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部門正在尋求業務外包、ERP 升級和支持的市場，招標價值可能達到 10 億英鎊。 （12.7 億美元），如果其他組織加入的話…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[將物聯網和資訊安全完美結合的新嘗試 在加拿大公司宣布將卸載Cylance 的端點安全產品後，黑莓將資訊安全和物聯網結合起來的雄心受到了擠壓。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/blackberry_cylance_sale_arctic_wolf/</guid>
       <pubDate>Tue, 17 Dec 2024 06:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲計劃在 2030 年之前放棄部分加密技術——在量子技術將其分割之前</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/australia_dropping_crypto_keys/</link>
-      <description><![CDATA[SHA-256、RSA、ECDSA 和 ECDH 之類的技術在短短五年內不會受到歡迎 澳洲首席網路安全機構已決定當地組織應停止使用構成當前加密技術的技術由於擔心量子計算的進步可能導致互聯網不安全，到2030 年互聯網將建立起來——比其他國家計劃這樣做的時間早了很多年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/australia_dropping_crypto_keys/</guid>
-      <pubDate>Tue, 17 Dec 2024 03:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
