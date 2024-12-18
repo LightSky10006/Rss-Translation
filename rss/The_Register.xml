@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 04:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 06:18:26 GMT</lastBuildDate>
     <item>
-      <title>台灣正在洽談利用亞馬遜的柯伊伯太空寬頻計劃</title>
+      <title>就連 Netflix 也難以確定和了解其 AWS 資產的成本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</link>
+      <description><![CDATA[如果您在追蹤各種串流媒體訂閱時遇到困難，您一定會喜歡這種諷刺 追蹤組織使用的雲端資源量以及這樣做的成本是眾所周知的棘手- 確實如此棘手，甚至Netflix 都無法做到這一點。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</guid>
+      <pubDate>Wed, 18 Dec 2024 06:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>台灣正在洽談利用亞馬遜的柯伊伯計畫太空寬頻</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</link>
-      <description><![CDATA[如果海底電纜發生故障，請致電傑夫·貝佐斯 台灣已開始與亞馬遜就其柯伊伯衛星寬頻服務的接入進行談判。]]></description>
+      <description><![CDATA[如果海底電纜出現故障，請致電傑夫·貝佐斯 台灣已開始與亞馬遜就訪問其柯伊伯衛星寬頻服務進行談判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</guid>
       <pubDate>Wed, 18 Dec 2024 04:01:07 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Tue, 17 Dec 2024 23:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>Apache Struts 中存在嚴重安全漏洞，正受到攻擊</title>
+      <title>Apache Struts 中的關鍵安全漏洞正在被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</link>
-      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對吧？利用（PoC）代碼。]]></description>
+      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？利用（PoC）代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
@@ -48,21 +55,21 @@
       <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 CUDA 護城河到底有多深？</title>
+      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
       <description><![CDATA[並不像您想像的那麼難以理解，但仍然超出了英特爾或AMD 的預期 分析  Nvidia 正面臨著多年來最激烈的競爭，英特爾和AMD 推出了新的加速器在記憶體容量、效能和價格方面挑戰其最好的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
       <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>愛爾蘭因 2018 年「View As」漏洞導致 3,000 萬帳戶資訊外洩而對 Meta 處以罰款</title>
+      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
       <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
       <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>美國領空關閉、缺乏答案加深東岸無人機之謎</title>
+      <title>美國空域關閉，缺乏答案，東岸無人機之謎進一步加深</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</link>
       <description><![CDATA[聯邦政府堅稱他們仍然不知道發生了什麼- 但請注意目擊事件集中在機場飛行路徑周圍 分析 神秘無人機熱潮繼續席捲美國東海岸- 並且似乎出現向內陸遷移－民選官員懇求聯邦政府採取行動。同時，聯邦政府重申了他們一直以來所說的話：我們不知道發生了什麼事，但你們都需要冷靜下來。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>Alpine Linux 3.21：精實、平均、LoongArch 就緒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</link>
-      <description><![CDATA[新的LTS 核心之後，一陣涼爽的山風吹來 極簡且非常輕量級的Alpine Linux 的全新版本就在這裡，支援中國LoongArch64 CPU。 p&gt;]]></description>
+      <description><![CDATA[新 LTS 核心發布後，一陣涼爽的山風吹來 極簡主義和超輕量的 Alpine Linux 全新發布，支援中國 LoongArch64 CPU…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</guid>
       <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>軟銀承諾在川普第二任期內向美國注入100B美元，創造10萬個就業機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</link>
-      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資1000 億美元，並創造至少10 萬個就業機會。 p&gt;]]></description>
+      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資 1000 億美元並創造至少 100,000 個就業機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</guid>
       <pubDate>Tue, 17 Dec 2024 02:02:10 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>川普政府希望對中國發動網路攻勢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</link>
-      <description><![CDATA[美國以前從來沒有攻擊過中國的關鍵基礎設施，對吧？  當選總統唐納德·特朗普的團隊希望對美國的網絡對手發起攻勢，儘管尚不清楚新政府將如何計劃來實現這一目標。 …]]></description>
+      <description><![CDATA[美國以前從未攻擊過中國的關鍵基礎設施，對嗎？  候任總統唐納德·特朗普的團隊希望對美國的網絡對手發起進攻，儘管目前尚不清楚即將上任的政府將如何計劃為了實現這一點。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/trump_administration_china_offensive/</guid>
       <pubDate>Mon, 16 Dec 2024 19:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>德勤表示，羅德島州福利門戶網站遭受的網路攻擊帶來“重大安全威脅”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</link>
-      <description><![CDATA[個人和財務資料可能被盜 羅德島州德勤管理的政府系統遭受網路攻擊，敏感資料「極有可能」被盜。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/deloitte_rhode_island_attack/</guid>
-      <pubDate>Mon, 16 Dec 2024 18:01:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
