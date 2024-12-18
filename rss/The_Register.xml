@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 22:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 23:13:06 GMT</lastBuildDate>
     <item>
       <title>英特爾因代工業務陷入困境再次被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/intel_sued_foundry_business/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>根據報道，美國因國家安全風險考慮禁止 TP-Link 路由器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</link>
-      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器用於網路攻擊的設備......]]></description>
+      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器網路攻擊中使用的設備......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</guid>
       <pubDate>Wed, 18 Dec 2024 20:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 火箭專家獲得美國聯邦航空局 (FAA) 的下一次星艦發射新許可證</title>
+      <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
-      <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
+      <description><![CDATA[第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 的星際飛船的下一次試飛頒發許可授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
       <pubDate>Wed, 18 Dec 2024 19:30:07 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>科學家誘騙人工智慧模式洩漏其秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
-      <description><![CDATA[要讓Google Edge TPU 放棄模型超參數，只需要特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家已經設計出一種複製AI 模型的方法運行在 Google Edge 張量處理單元 (TPU) 上，就像在 Google Pixel 手機和第三方機器學習加速器中使用的一樣…]]></description>
+      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
       <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -64,19 +64,19 @@
     <item>
       <title>當你的科技幽靈回來困擾你時，期待騙局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
-      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切都不對勁時，我陷入了深深的睡眠不安。]]></description>
+      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切不對勁時，我陷入了深深的悲傷之中睡眠不安。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>就連 Netflix 也難以確定和了解其 AWS 資產的成本</title>
+      <title>甚至 Netflix 也難以辨識和理解其 AWS 資產的成本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</link>
       <description><![CDATA[如果您在追蹤各種串流媒體訂閱時遇到困難，您一定會喜歡這種諷刺 追蹤組織使用的雲端資源量以及這樣做的成本是眾所周知的棘手- 確實如此棘手，甚至Netflix 都無法做到這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</guid>
       <pubDate>Wed, 18 Dec 2024 06:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>台灣正在洽談利用亞馬遜的柯伊伯計畫太空寬頻</title>
+      <title>台灣正在洽談利用亞馬遜的柯伊伯太空寬頻計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</link>
       <description><![CDATA[如果海底電纜出現故障，請致電傑夫·貝佐斯 台灣已開始與亞馬遜就訪問其柯伊伯衛星寬頻服務進行談判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
-      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 推出了一款名為Jetson 的微型新開發板，在假期期間將AI 炒作帶回家Orin Nano Super…]]></description>
+      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 正在透過推出名為Jetson 的小型新型開發板，在節日期間將AI炒作帶回家奧林納米超級...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
       <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>美國領空關閉、缺乏答案加深東岸無人機之謎</title>
+      <title>美國空域關閉，缺乏答案，東岸無人機之謎進一步加深</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</link>
       <description><![CDATA[聯邦政府堅稱他們仍然不知道發生了什麼- 但請注意目擊事件集中在機場飛行路徑周圍 分析 神秘無人機熱潮繼續席捲美國東海岸- 並且似乎出現向內陸遷移－民選官員懇求聯邦政府採取行動。同時，聯邦政府重申了他們一直以來所說的話：我們不知道發生了什麼事，但你們都需要冷靜下來。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</guid>
