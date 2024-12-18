@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 18 Dec 2024 14:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 16:16:28 GMT</lastBuildDate>
     <item>
-      <title>俄羅斯航太局局長稱該國將在太空站飛行至 2030 年</title>
+      <title>提醒：在我們的年度慈善活動抽獎活動中捐款贏取獎品</title>
+      <link>https://arstechnica.com/gaming/2024/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-15/</link>
+      <description><![CDATA[在短短一周多的時間裡，幫助我們的慈善捐款超過 16,000 美元。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-15/</guid>
+      <pubDate>Wed, 18 Dec 2024 15:06:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>誰需要暗網？社群媒體上毒品銷售蓬勃發展</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/who-needs-the-dark-web-drug-sales-flourish-on-social-media/</link>
+      <description><![CDATA[暗網上的藥品銷售呈下降趨勢，有利於 Snapchat、Telegram 等。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/who-needs-the-dark-web-drug-sales-flourish-on-social-media/</guid>
+      <pubDate>Wed, 18 Dec 2024 14:58:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄羅斯航太局局長表示俄羅斯將在2030年之前在太空站上飛行</title>
       <link>https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/</link>
-      <description><![CDATA[“太空是一個永遠無法保證 100% 結果的活動領域。”]]></description>
+      <description><![CDATA[“太空是一個永遠無法100%保證結果的活動領域。”]]></description>
       <guid>https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/</guid>
       <pubDate>Wed, 18 Dec 2024 14:03:24 GMT</pubDate>
     </item>
@@ -22,12 +36,12 @@
     <item>
       <title>報告：伊隆馬斯克未能報告安全許可所需的行動</title>
       <link>https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/</link>
-      <description><![CDATA[沒有聯邦機構指控馬斯克洩漏機密資訊。]]></description>
+      <description><![CDATA[目前還沒有聯邦機構指控馬斯克洩漏機密資訊。]]></description>
       <guid>https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/</guid>
       <pubDate>Tue, 17 Dec 2024 22:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>青少年吸毒人數持續「前所未有」下降，令專家感到驚訝</title>
+      <title>令專家驚訝的是，青少年吸毒人數持續「前所未有」下降</title>
       <link>https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/</link>
       <description><![CDATA[大流行開始時八年級的孩子們迎來了一個禁慾的時代。]]></description>
       <guid>https://arstechnica.com/health/2024/12/the-kids-are-maybe-alright-teen-drug-use-hits-new-lows-in-ongoing-decline/</guid>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 17 Dec 2024 21:43:35 GMT</pubDate>
     </item>
     <item>
-      <title>經過數十年的討論，希捷似乎已經準備好放棄 HAMR 硬碟</title>
+      <title>經過數十年的談判，希捷似乎準備好真正放棄 HAMR 硬碟</title>
       <link>https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/</link>
       <description><![CDATA[至少有一家大型雲端供應商已經認可了該驅動器的可行性。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/after-decades-of-talk-seagate-seems-ready-to-actually-drop-the-hamr-hard-drives/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[最新的 API 升級還包括微調和即時互動改進。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/openais-api-users-get-full-access-to-the-new-o1-model/</guid>
       <pubDate>Tue, 17 Dec 2024 19:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 合作夥伴洩漏下一代 RTX 50 系列 GPU，其中包括 32GB 5090</title>
-      <link>https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/</link>
-      <description><![CDATA[面向中國的 5080、5070 Ti、5070 和 5090D 型號也已列出。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院不會審理對 15 美元寬頻法的質疑，網路服務供應商蒙受巨大損失</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/</link>
-      <description><![CDATA[網路服務供應商擔心，隨著紐約法律經受住挑戰，更多州將監管價格。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:07:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
