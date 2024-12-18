@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 08:17:27 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 18 Dec 2024 09:37:51 GMT</lastBuildDate>
+    <item>
+      <title>當舊的微軟代號出現在奇怪的地方時</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/when_old_microsoft_codenames_crop/</link>
+      <description><![CDATA[芝加哥是我喜歡的司機模式 倒一杯可可，坐下來聽另一集 Microsoft Storytime。為什麼代號有時會在產品的實作中徘徊？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/when_old_microsoft_codenames_crop/</guid>
+      <pubDate>Wed, 18 Dec 2024 09:33:05 GMT</pubDate>
+    </item>
     <item>
       <title>當你的科技幽靈回來困擾你時，期待騙局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
-      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切不對勁時，我陷入了深深的悲傷之中睡眠不安。]]></description>
+      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切都不對勁時，我陷入了深深的睡眠不安。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>國際刑警組織呼籲所有人停止談論“屠宰生豬”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</link>
-      <description><![CDATA[全球警方認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而非法律來結束被稱為「宰豬」的網絡詐騙強制執行... ]]></description>
+      <description><![CDATA[全球警察認為，受害者的感情可能會受到傷害，這可能會妨礙舉報 國際刑警組織希望透過語言監管而非法律手段，杜絕被稱為「殺豬」的網絡詐騙執行… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</guid>
       <pubDate>Tue, 17 Dec 2024 23:29:11 GMT</pubDate>
     </item>
     <item>
       <title>Apache Struts 中的關鍵安全漏洞正在被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</link>
-      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？利用（PoC）代碼。]]></description>
+      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對吧？利用（PoC）代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
@@ -55,23 +62,23 @@
       <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署靜音登陸器讓科學家深入了解火星塵埃</title>
+      <title>美國太空總署靜默登陸器讓科學家深入了解火星塵埃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</link>
       <description><![CDATA[美國太空總署最終告別「洞察號」 美國太空總署退役「洞察號」登陸器兩年後，科學家們仍在繼續使用該飛行器來了解更多有關火星的資訊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</guid>
       <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
+      <title>Nvidia 的 CUDA 護城河到底有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
       <description><![CDATA[並不像您想像的那麼難以理解，但仍然超出了英特爾或AMD 的預期 分析  Nvidia 正面臨著多年來最激烈的競爭，英特爾和AMD 推出了新的加速器在記憶體容量、效能和價格方面挑戰其最好的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
       <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
+      <title>愛爾蘭因 2018 年「查看方式」洩露導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
-      <description><![CDATA[2.51 億歐元？祖克柏可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些馬虎的Facebook 代碼竊取3000 萬用戶的訪問令牌以來，已經過去了六年的時間，而緩慢轉動的Facebook 車輪愛爾蘭司法部門最終對社群媒體產業處以了 2.51 億歐元（2.64 億美元）的罰款。 … ]]></description>
+      <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
       <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>蘋果情報摘要搞砸了頭條新聞，引起 BBC 新聞編輯室的不安</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</link>
-      <description><![CDATA[與此同時，一些iPhone 用戶對AI 功能的推出漠不關心 在最近推出的服務引起英國廣播公司的憤怒之後，蘋果生成AI 系統的情況並沒有完全按照計劃進行。 &lt; /p&gt;]]></description>
+      <description><![CDATA[與此同時，一些iPhone 用戶對人工智慧功能的引入漠不關心 在最近推出的服務引起了英國廣播公司的憤怒之後，蘋果的生成式人工智慧系統的情況並不完全按計劃進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</guid>
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
+      <title>倫敦警察廳尋求商業服務，ERP 更新，交易金額達 3.7 億英鎊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
-      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則為10 億美元（12.7 億美元）。]]></description>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則將達到10 億美元（12.7 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>軟銀承諾在川普第二任期內向美國注入100B美元，創造10萬個就業機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</link>
-      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資1000 億美元，並創造至少10 萬個就業機會。 p&gt;]]></description>
+      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資 1000 億美元並創造至少 100,000 個就業機會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</guid>
       <pubDate>Tue, 17 Dec 2024 02:02:10 GMT</pubDate>
     </item>
     <item>
       <title>Cleo 軟體修補程式中存在勒索軟體浮渣漏洞，Cl0p（某種程度上）聲稱對此負責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</link>
-      <description><![CDATA[但你真的能相信犯罪分子的話嗎？的勒索軟體攻擊- 相關團夥 Cl0p 聲稱這是其邪惡工作。]]></description>
+      <description><![CDATA[但你真的能相信罪犯的言論嗎？勒索軟體攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</guid>
       <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
-      <description><![CDATA[Nuvia 買家涉嫌違反許可條款的指控預計將持續到週五 英國晶片設計商Arm Holdings 與高通之間的訴訟今天在特拉華州地方法院拉開帷幕。 .. &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
