@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 17 Dec 2024 23:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 01:01:14 GMT</lastBuildDate>
+    <item>
+      <title>網路釣魚者利用欺騙性的 Google 日曆邀請大撒網</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/</link>
+      <description><![CDATA[並不是說您需要另一個理由來啟用「已知寄件者」設定 犯罪分子正在以經濟為目的的網路釣魚活動中欺騙Google 日曆電子郵件，該活動已影響了大約300 個組織，發送了4,000 多封電子郵件據 Check Point 研究人員稱，四個星期。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/</guid>
+      <pubDate>Wed, 18 Dec 2024 00:58:08 GMT</pubDate>
+    </item>
     <item>
       <title>國際刑警組織呼籲所有人停止談論“屠宰生豬”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</link>
-      <description><![CDATA[全球警察認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而不是執法來結束被稱為「宰豬」的網絡騙局。]]></description>
+      <description><![CDATA[全球警方認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而非法律來結束被稱為「宰豬」的網絡詐騙強制執行... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</guid>
       <pubDate>Tue, 17 Dec 2024 23:29:11 GMT</pubDate>
     </item>
     <item>
       <title>Apache Struts 中的關鍵安全漏洞正在被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</link>
-      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？進行利用（PoC）代碼。]]></description>
+      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？利用（PoC）代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署靜默登陸器讓科學家深入了解火星塵埃</title>
+      <title>美國太空總署靜音登陸器讓科學家深入了解火星塵埃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</link>
       <description><![CDATA[美國太空總署最終告別「洞察號」 美國太空總署退役「洞察號」登陸器兩年後，科學家們仍在繼續使用該飛行器來了解更多有關火星的資訊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>愛爾蘭因 2018 年「View As」漏洞導致 3,000 萬帳戶資訊外洩而對 Meta 處以罰款</title>
+      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
       <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>蘋果情報摘要搞砸了頭條新聞，引起 BBC 新聞編輯室的不安</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</link>
-      <description><![CDATA[與此同時，一些iPhone 用戶對人工智慧功能的引入漠不關心 在最近推出的服務引起了英國廣播公司的憤怒之後，蘋果的生成式人工智慧系統的情況並不完全按計劃進行。]]></description>
+      <description><![CDATA[與此同時，一些iPhone 用戶對AI 功能的推出漠不關心 在最近推出的服務引起英國廣播公司的憤怒之後，蘋果生成AI 系統的情況並沒有完全按照計劃進行。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</guid>
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>軟銀承諾在川普第二任期內向美國注入100B美元，創造10萬個就業機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</link>
-      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資 1000 億美元並創造至少 100,000 個就業機會。]]></description>
+      <description><![CDATA[詳細資料？誰需要它們！但人工智慧似乎是一個可能的焦點 軟銀執行長孫正義透露，計劃在未來四年內在美國投資1000 億美元，並創造至少10 萬個就業機會。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/softbank_100bn_us_investment_pledge/</guid>
       <pubDate>Tue, 17 Dec 2024 02:02:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐盟承諾到2030 年為Starlink 提供服務 在歐盟官員簽署衛星彈性、互聯和安全基礎設施特許權合約後，埃隆·馬斯克(Elon Musk) 的Starlink 衛星寬頻星座的競爭對手即將推出 ( IRIS²）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/europe_iris2_broadband_deal/</guid>
       <pubDate>Mon, 16 Dec 2024 16:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑者指南－Google不再是最好的搜尋引擎</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</link>
-      <description><![CDATA[尋找，就會找到 意見  作為搜尋引擎，Perplexity 比Google 具有多種優勢，使其成為許多人的一個令人信服的替代方案。 ..]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/opinion_column_perplexity_vs_google/</guid>
-      <pubDate>Mon, 16 Dec 2024 14:45:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
