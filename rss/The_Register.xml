@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 01:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 02:41:42 GMT</lastBuildDate>
     <item>
       <title>網路釣魚者利用欺騙性的 Google 日曆邀請大撒網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/</link>
@@ -22,12 +22,12 @@
     <item>
       <title>Apache Struts 中的關鍵安全漏洞正在被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</link>
-      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？利用（PoC）代碼。]]></description>
+      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對吧？利用（PoC）代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
+      <title>Nvidia 為假期升級了小型 Jetson Orin Nano 開發套件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
       <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 正在透過推出名為Jetson 的小型新型開發板，在節日期間將AI炒作帶回家奧林納米超級...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
@@ -41,14 +41,14 @@
       <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
+      <title>Nvidia 的 CUDA 護城河到底有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
-      <description><![CDATA[並不像您想像的那麼難以理解，但仍然超出了英特爾或AMD 的預期 分析  Nvidia 正面臨著多年來最激烈的競爭，英特爾和AMD 推出了新的加速器在記憶體容量、效能和價格方面挑戰其最好的晶片。]]></description>
+      <description><![CDATA[雖然沒有你想像的那麼難以攻克，但仍然超出了英特爾或AMD 的預期 分析  隨著英特爾和AMD 推出新的加速器，Nvidia 正面臨著多年來最激烈的競爭在內存容量、性能和價格方面挑戰其最佳晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
       <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
+      <title>愛爾蘭因 2018 年「查看方式」洩露導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
       <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
@@ -64,14 +64,14 @@
     <item>
       <title>Alpine Linux 3.21：精實、平均、LoongArch 就緒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</link>
-      <description><![CDATA[新的LTS 核心之後，一陣涼爽的山風吹來 極簡且非常輕量級的Alpine Linux 的全新版本就在這裡，支援中國LoongArch64 CPU。 p&gt;]]></description>
+      <description><![CDATA[新 LTS 核心發布後，一陣涼爽的山風吹來 極簡主義和超輕量的 Alpine Linux 全新發布，支援中國 LoongArch64 CPU…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</guid>
       <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
     </item>
     <item>
       <title>蘋果情報摘要搞砸了頭條新聞，引起 BBC 新聞編輯室的不安</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</link>
-      <description><![CDATA[與此同時，一些iPhone 用戶對AI 功能的推出漠不關心 在最近推出的服務引起英國廣播公司的憤怒之後，蘋果生成AI 系統的情況並沒有完全按照計劃進行。 &lt; /p&gt;]]></description>
+      <description><![CDATA[與此同時，一些iPhone 用戶對人工智慧功能的引入漠不關心 在最近推出的服務引起了英國廣播公司的憤怒之後，蘋果的生成式人工智慧系統的情況並不完全按計劃進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/apple_intelligence_bbc_complaint/</guid>
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 現在租用巨型 HPE 伺服器，甚至在 7,680 個 vCPU 和 128TB 的叢集中也是如此</title>
+      <title>AWS 現在租用大型 HPE 伺服器，甚至包括 7,680-vCPU 和 128TB 的叢集</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</link>
       <description><![CDATA[對於那些運行大型記憶體資料庫和需要它們的應用程式的人來說，《Heir to Superdome》變得陰暗 Amazon Web Services 通常對其在彈性計算雲中租用的伺服器的確切配置持懷疑態度，但週二破例宣布將提供基於單一 HPE 伺服器的實例：Compute Scale-up Server 3200。 html&#39;--&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</guid>
@@ -113,14 +113,14 @@
     <item>
       <title>Cleo 軟體修補程式中存在勒索軟體浮渣漏洞，Cl0p（某種程度上）聲稱對此負責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</link>
-      <description><![CDATA[但你真的能相信犯罪分子的話嗎？的勒索軟體攻擊- 相關團夥 Cl0p 聲稱這是其邪惡工作。]]></description>
+      <description><![CDATA[但你真的能相信罪犯的言論嗎？勒索軟體攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/ransomware_attacks_exploit_cleo_bug/</guid>
       <pubDate>Mon, 16 Dec 2024 23:45:10 GMT</pubDate>
     </item>
     <item>
       <title>陪審團審判拉開了 Arm 與高通的角力比賽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</link>
-      <description><![CDATA[Nuvia 買家涉嫌違反許可條款預計將持續到週五 英國晶片設計公司Arm Holdings 與高通之間的爭鬥今天在特拉華州地方法院拉開帷幕。 p&gt; &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Nuvia 買家涉嫌違反許可條款的指控預計將持續到週五 英國晶片設計商Arm Holdings 與高通之間的訴訟今天在特拉華州地方法院拉開帷幕。 .. &lt; !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/16/arm_qualcomm_trial/</guid>
       <pubDate>Mon, 16 Dec 2024 20:30:12 GMT</pubDate>
     </item>
