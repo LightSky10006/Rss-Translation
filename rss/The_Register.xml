@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 16:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 17:38:13 GMT</lastBuildDate>
+    <item>
+      <title>微軟不會讓客戶選擇退出金鑰推送</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/microsoft_passkey_push/</link>
+      <description><![CDATA[註冊邀請將繼續進行，直到安全性得到改善 微軟上週稱讚其說服客戶使用密鑰而不是密碼的努力取得了成功，但並未實際量化這一成功。 ..]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/microsoft_passkey_push/</guid>
+      <pubDate>Wed, 18 Dec 2024 17:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>科學家誘騙人工智慧模式洩漏其秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
-      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
+      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
       <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Xfce 4.20 已發布：Wayland 支援落地，但仍有一些內容缺失</title>
+      <title>Xfce 4.20 發布：Wayland 支援已實現，但仍缺少一些功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/</link>
       <description><![CDATA[Unixi-est 桌面廣泛更新 評論 歷史最悠久的 Linux 桌面的新版本現已推出，最後，您可以使用Wayland – 儘管還不是一切正常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/</guid>
@@ -36,19 +43,19 @@
     <item>
       <title>當你的科技幽靈回來困擾你時，期待騙局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
-      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切都不對勁時，我陷入了深深的睡眠不安。]]></description>
+      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切不對勁時，我陷入了深深的悲傷之中睡眠不安。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>就連 Netflix 也難以確定和了解其 AWS 資產的成本</title>
+      <title>甚至 Netflix 也難以辨識和理解其 AWS 資產的成本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</link>
       <description><![CDATA[如果您在追蹤各種串流媒體訂閱時遇到困難，您一定會喜歡這種諷刺 追蹤組織使用的雲端資源量以及這樣做的成本是眾所周知的棘手- 確實如此棘手，甚至Netflix 都無法做到這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</guid>
       <pubDate>Wed, 18 Dec 2024 06:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>台灣正在洽談利用亞馬遜的柯伊伯計畫太空寬頻</title>
+      <title>台灣正在洽談利用亞馬遜的柯伊伯太空寬頻計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</link>
       <description><![CDATA[如果海底電纜出現故障，請致電傑夫·貝佐斯 台灣已開始與亞馬遜就訪問其柯伊伯衛星寬頻服務進行談判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/taiwan_amazon_kuiper_broadband_talks/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 18 Dec 2024 00:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>國際刑警組織呼籲大家停止說“殺豬”</title>
+      <title>國際刑警組織呼籲所有人停止談論“屠宰生豬”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</link>
       <description><![CDATA[全球警方認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而非法律來結束被稱為「宰豬」的網絡詐騙強制執行... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</guid>
@@ -76,9 +83,9 @@
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 為假期升級了小型 Jetson Orin Nano 開發套件</title>
+      <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
-      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 正在透過推出名為Jetson 的小型新型開發板，在節日期間將AI炒作帶回家奧林納米超級...]]></description>
+      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 推出了一款名為Jetson 的微型新開發板，在假期期間將AI 炒作帶回家Orin Nano Super…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
       <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>愛爾蘭因 2018 年「查看方式」洩露導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
-      <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
+      <description><![CDATA[2.51 億歐元？祖克柏可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些馬虎的Facebook 代碼竊取3000 萬用戶的訪問令牌以來，已經過去了六年的時間，而緩慢轉動的Facebook 車輪愛爾蘭司法部門最終對社群媒體產業處以了 2.51 億歐元（2.64 億美元）的罰款。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
       <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
     </item>
@@ -125,9 +132,9 @@
       <pubDate>Tue, 17 Dec 2024 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>倫敦警察廳尋求商業服務，ERP 更新，交易金額達 3.7 億英鎊</title>
+      <title>倫敦大都會警察局以 3.7 億英鎊的交易尋求商業服務和 ERP 更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</link>
-      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則將達到10 億美元（12.7 億美元）。]]></description>
+      <description><![CDATA[如果相關組織加入，合約價值可能高達 10 億英鎊 英國最大的警察部隊正在確定業務外包、ERP 升級和支持的市場範圍，招標價值可能高達 1 英鎊如果其他組織加入，則為10 億美元（12.7 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/met_police_seeks_business_services/</guid>
       <pubDate>Tue, 17 Dec 2024 09:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[對於那些運行大型記憶體資料庫和需要它們的應用程式的人來說，《Heir to Superdome》變得陰暗 Amazon Web Services 通常對其在彈性計算雲中租用的伺服器的確切配置持懷疑態度，但週二破例宣布將提供基於單一 HPE 伺服器的實例：Compute Scale-up Server 3200。 html&#39;--&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/aws_hpe_server_instances/</guid>
       <pubDate>Tue, 17 Dec 2024 07:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>BlackBerry 將 Cylance 的端點安全產品轉交給 Arctic Wolf</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/blackberry_cylance_sale_arctic_wolf/</link>
-      <description><![CDATA[將物聯網和資訊安全完美結合的新嘗試 在加拿大公司宣布將卸載Cylance 的端點安全產品後，黑莓將資訊安全和物聯網結合起來的雄心受到了擠壓。 ...&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/blackberry_cylance_sale_arctic_wolf/</guid>
-      <pubDate>Tue, 17 Dec 2024 06:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
