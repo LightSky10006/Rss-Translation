@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Dec 2024 07:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 09:38:04 GMT</lastBuildDate>
+    <item>
+      <title>Asda 決定“不進行”商店 IT 轉換的“大規模推廣”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</link>
+      <description><![CDATA[在計劃改造小型商店的過程中，由於沃爾瑪技術分拆仍在繼續，零售商選擇推遲12 月輪班 獨家 Asda 決定不再按計劃的切換日期推出本月早些時候，作為與英國第三大超市前所有者沃爾瑪技術分離的一部分，一些較小的商店安裝了新系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</guid>
+      <pubDate>Thu, 19 Dec 2024 09:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>人形機器人即將推出，最初是遠端控制的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</link>
-      <description><![CDATA[人工智慧聊天機器人作為大腦——可能會出什麼問題？的助手湯瑪斯提出的請求為標誌，「貝爾先生。華生，過來。我想見你。」…]]></description>
+      <description><![CDATA[狡猾的AI 聊天機器人作為大腦– 會出現什麼問題？ ) 向他的助手托馬斯(Thomas) 提出的請求：「先生華生，過來一下。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</guid>
       <pubDate>Thu, 19 Dec 2024 07:30:11 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 19 Dec 2024 05:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>據報導，對富士康的恐懼推動了日產、本田和三菱的合併</title>
+      <title>據報導，對富士康的擔憂可能推動日產、本田和三菱進行合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/</link>
       <description><![CDATA[電動車競賽正在順利進行，沒有人願意被拋在後面 本週，日本汽車巨頭日產和本田正在考慮推出電動車，這一消息震動了汽車行業。汽車顯然熱衷於成為其中的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>最高法院將聽取 TikTok 針對迫使其關閉或出售的法律的上訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</link>
-      <description><![CDATA[將在時間耗盡前九天考慮言論自由論點 美國最高法院已決定考慮中國製造的社交網絡 TikTok 對要求其轉向本地的法律的上訴1 月19 日之前擁有或關閉。]]></description>
+      <description><![CDATA[將在時間結束前九天考慮言論自由論點 美國最高法院決定考慮中國製造的社交網絡TikTok對要求其轉移到本地的法律的上訴所有權，或關閉，截止日期為1月19 日。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</guid>
       <pubDate>Thu, 19 Dec 2024 00:35:39 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 18 Dec 2024 13:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>富士通告訴 Horizo​​n Inquiry，我們向郵局最高層通報了系統問題</title>
+      <title>富士通往 Horizo​​n Inquiry 表示，我們已向最高層郵局報告了系統問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/we_told_post_office_about/</link>
       <description><![CDATA[法律代表表示，國營零售公司在技術問題上並不隸屬於日本跨國公司 富士通表示，它不斷向郵局通報Horizo​​​​n 的問題，Horizo​​​​n 是一家公司的核心電腦系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/we_told_post_office_about/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>Nvidia 為假期升級了微型 Jetson Orin Nano 開發套件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</link>
-      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 推出了一款名為Jetson 的微型新開發板，在假期期間將AI 炒作帶回家Orin Nano Super…]]></description>
+      <description><![CDATA[「超級」版本承諾為您的GenAI 專案提供67 TOPS 和102GB/s 的記憶體頻寬 Nvidia 正在透過推出名為Jetson 的小型新型開發板，在節日期間將AI炒作帶回家奧林納米超級...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_jetson_orin/</guid>
       <pubDate>Tue, 17 Dec 2024 20:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署靜音登陸器讓科學家深入了解火星塵埃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</link>
-      <description><![CDATA[美國太空總署最終告別「洞察號」 美國太空總署退役「洞察號」登陸器兩年後，科學家們仍在繼續使用該飛行器來了解更多有關火星的資訊。 ...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
