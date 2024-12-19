@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Dec 2024 13:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 15:38:09 GMT</lastBuildDate>
+    <item>
+      <title>滯留在太空：由於 SpaceX 面臨延誤，星際線機組人員將在軌道上停留更長時間</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</link>
+      <description><![CDATA[為期一週的任務將持續到第九個月 乘坐問題纏身的波音星際客機前往國際太空站的兩名太空人又面臨長時間的延誤。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</guid>
+      <pubDate>Thu, 19 Dec 2024 15:27:11 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果和 Meta 就互通性請求互相指責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/apple_meta_interoperability/</link>
@@ -20,16 +27,16 @@
       <pubDate>Thu, 19 Dec 2024 11:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>Asda 決定“不進行”商店 IT 轉換的“大規模推廣”</title>
+      <title>Asda 決定不大規模推行門市 IT 轉型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</link>
-      <description><![CDATA[在計劃改造小型商店的同時，由於沃爾瑪技術離婚的持續進行，零售商選擇推遲12 月的轉變 獨家  Asda 決定不繼續按計劃進行轉換日期本月初，作為與英國第三大超市前所有者沃爾瑪 (Walmart) 技術分道揚鑣的一部分，該公司在一些較小的商店安裝了新系統。]]></description>
+      <description><![CDATA[在計劃改造小型商店的過程中，由於沃爾瑪技術分拆仍在繼續，零售商選擇推遲12 月輪班 獨家 Asda 決定不再按計劃的切換日期推出本月早些時候，作為與英國第三大超市前所有者沃爾瑪技術分離的一部分，一些較小的商店安裝了新系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</guid>
       <pubDate>Thu, 19 Dec 2024 09:30:11 GMT</pubDate>
     </item>
     <item>
       <title>人形機器人即將推出，最初是遠端控制的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</link>
-      <description><![CDATA[狡猾的AI 聊天機器人作為大腦– 會出現什麼問題？ ) 向他的助手托馬斯(Thomas) 提出的請求：「先生華生，過來一下。」...]]></description>
+      <description><![CDATA[人工智慧聊天機器人作為大腦——可能會出什麼問題？的助手湯瑪斯提出的請求為標誌，「貝爾先生。華生，過來。我想見你。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</guid>
       <pubDate>Thu, 19 Dec 2024 07:30:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
-      <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
+      <description><![CDATA[第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 的星際飛船的下一次試飛頒發許可授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
       <pubDate>Wed, 18 Dec 2024 19:30:07 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>網路釣魚者利用欺騙性的 Google 日曆邀請大撒網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/</link>
-      <description><![CDATA[您不需要另一個理由來啟用「已知寄件者」設定 犯罪分子正在偽造Google 日曆電子郵件，以進行以經濟為目的的網路釣魚活動，這種活動已經影響了大約300 個組織，在過去的10 年中發送了超過4,000 封電子郵件根據 Check Point 研究人員的說法，為期四週。]]></description>
+      <description><![CDATA[並不是說您需要另一個理由來啟用「已知寄件者」設定 犯罪分子正在以經濟為目的的網路釣魚活動中欺騙Google 日曆電子郵件，該活動已影響了大約300 個組織，發送了4,000 多封電子郵件據 Check Point 研究人員稱，四個星期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/google_calendar_spoofed_in_phishing_campaign/</guid>
       <pubDate>Wed, 18 Dec 2024 00:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>國際刑警組織呼籲所有人停止談論“屠宰生豬”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</link>
-      <description><![CDATA[全球警方認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而非法律來結束被稱為「宰豬」的網絡詐騙強制執行... ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</guid>
-      <pubDate>Tue, 17 Dec 2024 23:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
