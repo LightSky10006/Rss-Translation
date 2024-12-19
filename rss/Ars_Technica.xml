@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 20:14:13 GMT</lastBuildDate>
     <item>
-      <title>英特爾修補了 Core Ultra 200S 桌上型電腦 CPU 的效能，並承諾將推出更多產品</title>
+      <title>在 X 上冒充真實品牌的加密貨幣騙子很容易入侵 YouTuber</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</link>
+      <description><![CDATA[格鬥遊戲 YouTuber 現在與谷歌就黑客入侵後“巨大”的收入損失進行鬥爭。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</guid>
+      <pubDate>Thu, 19 Dec 2024 19:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>《潛行者 2》的卡頓很令人愉快，但它也迅速修復</title>
+      <link>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</link>
+      <description><![CDATA[「A-Life」修復將確保本已奇怪的輻射區域具有更多隨機性。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國暫時禁止新澤西州部分地區使用無人機，可能對飛機使用“致命武力”</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</link>
+      <description><![CDATA[無人機目擊事件引發擔憂；聯邦調查局表示尚未「發現任何異常情況」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特爾正在測試 BIOS 更新，以修復其新型 Core Ultra 200S CPU 的效能</title>
       <link>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</link>
       <description><![CDATA[不像第 13/14 代電壓問題那麼嚴重，但修復方法類似。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>發表有缺陷的黑色塑膠研究的期刊從科學索引中刪除</title>
       <link>https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/</link>
-      <description><![CDATA[Chemosphere 摘自 Web of Science，用於計算影響因子。]]></description>
+      <description><![CDATA[Chemosphere 取自 Web of Science，用於計算影響因子。]]></description>
       <guid>https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/</guid>
       <pubDate>Thu, 19 Dec 2024 17:36:07 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[亞馬遜淡化了工人宣稱的美國有史以來「最大規模的罷工」。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/amazon-faces-holiday-strike-after-refusing-to-bargain-with-warehouse-workers/</guid>
       <pubDate>Thu, 19 Dec 2024 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>解決再生能源的黏性儲存問題</title>
-      <link>https://arstechnica.com/science/2024/12/solving-renewable-energys-sticky-storage-problem/</link>
-      <description><![CDATA[當太陽不發光、風平浪靜時，人類仍需要電力。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/solving-renewable-energys-sticky-storage-problem/</guid>
-      <pubDate>Thu, 19 Dec 2024 14:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜的 RTO 延遲說明了為什麼員工對強制要求如此憤怒</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/amazons-rto-delays-highlight-why-workers-get-so-mad-about-mandates/</link>
-      <description><![CDATA[亞馬遜缺乏容納其全體員工的空間。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/amazons-rto-delays-highlight-why-workers-get-so-mad-about-mandates/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>每兆位元組 2 美元：AT&T 錯誤地向客戶收取 3.1GB 資料 6,223 美元的費用</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/2-per-megabyte-att-mistakenly-charged-customer-6223-for-3-1gb-of-data/</link>
-      <description><![CDATA[德州警察轉向 AT&amp;T FirstNet，卻得到了一個可怕的驚喜。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/2-per-megabyte-att-mistakenly-charged-customer-6223-for-3-1gb-of-data/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:19:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
