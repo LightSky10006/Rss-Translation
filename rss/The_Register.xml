@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Dec 2024 03:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 05:39:09 GMT</lastBuildDate>
+    <item>
+      <title>不要相信要求快速進行 Docusign 操作的郵件 – 這可能是 Azure 帳戶劫持網路釣魚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</link>
+      <description><![CDATA[Unit 42 警告稱，最近的活動利用這種策略針對英國和歐洲的20,000 名用戶 身份不明的犯罪分子進行了一次網絡釣魚探險，目標是歐洲汽車、化學和工業複合製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</guid>
+      <pubDate>Thu, 19 Dec 2024 05:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>據報導，對富士康的恐懼推動了日產、本田和三菱的合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 19 Dec 2024 03:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院將審理 TikTok 對一項迫使其關閉或出售的法律的上訴</title>
+      <title>最高法院將聽取 TikTok 針對迫使其關閉或出售的法律的上訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</link>
       <description><![CDATA[將在時間耗盡前九天考慮言論自由論點 美國最高法院已決定考慮中國製造的社交網絡 TikTok 對要求其轉向本地的法律的上訴1 月19 日之前擁有或關閉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</guid>
@@ -27,14 +34,14 @@
       <pubDate>Wed, 18 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>根據報道，美國考慮禁止 TP-Link 路由器，因國家安全風險</title>
+      <title>根據報道，美國因國家安全風險考慮禁止 TP-Link 路由器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</link>
-      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器網路攻擊中使用的設備......]]></description>
+      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器用於網路攻擊的設備......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</guid>
       <pubDate>Wed, 18 Dec 2024 20:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
+      <title>SpaceX 火箭專家獲得美國聯邦航空局 (FAA) 的下一次星艦發射新許可證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
       <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>科學家誘騙人工智慧模式洩漏其秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
-      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
+      <description><![CDATA[要讓Google Edge TPU 放棄模型超參數，只需要特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家已經設計出一種複製AI 模型的方法運行在 Google Edge 張量處理單元 (TPU) 上，就像在 Google Pixel 手機和第三方機器學習加速器中使用的一樣…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
       <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>當你的科技幽靈回來困擾你時，期待騙局</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
-      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切不對勁時，我陷入了深深的悲傷之中睡眠不安。]]></description>
+      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切都不對勁時，我陷入了深深的睡眠不安。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 18 Dec 2024 00:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>國際刑警組織呼籲大家停止說“殺豬”</title>
+      <title>國際刑警組織呼籲所有人停止談論“屠宰生豬”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</link>
       <description><![CDATA[全球警方認為，受害者的感情可能會受到傷害，這可能會阻礙舉報 國際刑警組織希望透過語言警務而非法律來結束被稱為「宰豬」的網絡詐騙強制執行... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/interpol_stop_saying_pig_butchering/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>Apache Struts 中的關鍵安全漏洞正在被利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</link>
-      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對嗎？利用（PoC）代碼。]]></description>
+      <description><![CDATA[您上週應用了可以阻止可能的RCE 攻擊的補丁，對吧？利用（PoC）代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/critical_rce_apache_struts/</guid>
       <pubDate>Tue, 17 Dec 2024 21:57:14 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>美國太空總署靜音登陸器讓科學家深入了解火星塵埃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</link>
-      <description><![CDATA[NASA 將與 InSight 做最後的告別 NASA 退役 InSight 著陸器兩年後，科學家們仍在繼續使用該飛行器來進一步了解火星。]]></description>
+      <description><![CDATA[美國太空總署最終告別「洞察號」 美國太空總署退役「洞察號」登陸器兩年後，科學家們仍在繼續使用該飛行器來了解更多有關火星的資訊。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/silent_nasa_lander_gives_scientists/</guid>
       <pubDate>Tue, 17 Dec 2024 18:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的 CUDA 護城河究竟有多深？</title>
+      <title>Nvidia 的 CUDA 護城河到底有多深？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</link>
       <description><![CDATA[並不像您想像的那麼難以理解，但仍然超出了英特爾或AMD 的預期 分析  Nvidia 正面臨著多年來最激烈的競爭，英特爾和AMD 推出了新的加速器在記憶體容量、效能和價格方面挑戰其最好的晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/nvidia_cuda_moat/</guid>
       <pubDate>Tue, 17 Dec 2024 17:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>愛爾蘭因 2018 年「查看方式」違規導致 3000 萬帳戶暴露而對 Meta 處以罰款</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</link>
-      <description><![CDATA[2.51 億歐元？扎克可以在他的沙發墊上找到這一點，但Meta 仍然發誓要上訴 自從不法分子濫用一些草率的Facebook 代碼竊取屬於3000 萬用戶的訪問令牌以來，已經有六年了，而緩慢轉動的車輪已經過去了六年。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/ireland_fines_meta_for_2018/</guid>
-      <pubDate>Tue, 17 Dec 2024 15:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
