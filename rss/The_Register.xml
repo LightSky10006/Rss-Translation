@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 18 Dec 2024 23:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 01:01:49 GMT</lastBuildDate>
+    <item>
+      <title>最高法院將審理 TikTok 對一項迫使其關閉或出售的法律的上訴</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</link>
+      <description><![CDATA[將在時間耗盡前九天考慮言論自由論點 美國最高法院已決定考慮中國製造的社交網絡 TikTok 對要求其轉向本地的法律的上訴1 月19 日之前擁有或關閉。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/tiktok_supreme_court_petition_allowed/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:35:39 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾因代工業務陷入困境再次被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/intel_sued_foundry_business/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
-      <description><![CDATA[第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 的星際飛船的下一次試飛頒發許可授權。]]></description>
+      <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
       <pubDate>Wed, 18 Dec 2024 19:30:07 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>甚至 Netflix 也難以辨識和理解其 AWS 資產的成本</title>
+      <title>就連 Netflix 也難以確定和了解其 AWS 資產的成本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</link>
       <description><![CDATA[如果您在追蹤各種串流媒體訂閱時遇到困難，您一定會喜歡這種諷刺 追蹤組織使用的雲端資源量以及這樣做的成本是眾所周知的棘手- 確實如此棘手，甚至Netflix 都無法做到這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/netflix_aws_management_tools/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[聯邦政府堅稱他們仍然不知道發生了什麼- 但請注意目擊事件集中在機場飛行路徑周圍 分析 神秘無人機熱潮繼續席捲美國東海岸- 並且似乎出現向內陸遷移－民選官員懇求聯邦政府採取行動。同時，聯邦政府重申了他們一直以來所說的話：我們不知道發生了什麼事，但你們都需要冷靜下來。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/mystery_drone_sightings/</guid>
       <pubDate>Tue, 17 Dec 2024 14:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alpine Linux 3.21：精實、平均、LoongArch 就緒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</link>
-      <description><![CDATA[新的LTS 核心之後，一陣涼爽的山風吹來 極簡且非常輕量級的Alpine Linux 的全新版本就在這裡，支援中國LoongArch64 CPU。 p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/17/alpine_linux_321/</guid>
-      <pubDate>Tue, 17 Dec 2024 12:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
