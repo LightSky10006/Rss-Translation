@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Dec 2024 21:34:45 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 19 Dec 2024 23:34:47 GMT</lastBuildDate>
+    <item>
+      <title>微軟在 Windows 11 24H2 上遇到了更多令人頭痛的問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/</link>
+      <description><![CDATA[用戶報告作業系統更新時出現靜默聲 微軟已記錄了Windows 11 24H2 的一些新的已知問題，並提出了更多的安全措施，直到問題得到解決。 .]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/</guid>
+      <pubDate>Thu, 19 Dec 2024 23:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>Axiom Space 調整了太空站組裝順序——以便更快地使其獨立</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美國兩黨組織發佈人工智慧政策要求清單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/house_ai_policy_requests/</link>
-      <description><![CDATA[主席Jay Obernolte 敦促國會採取行動——是否會採取行動又是另一回事 經過10 個月的工作，美國國會兩黨人工智能特別工作組公佈了報告，概述了建議制定聯邦人工智慧政策…]]></description>
+      <description><![CDATA[傑伊·奧伯諾特主席敦促國會採取行動- 是否採取行動是另一回事 經過10 個月的工作，美國國會眾議院兩黨人工智能工作組公佈了報告，概述了建議聯邦人工智慧政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/house_ai_policy_requests/</guid>
       <pubDate>Thu, 19 Dec 2024 19:26:10 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>滯留在太空：SpaceX 面臨延誤，Starliner 機組人員將在軌道上停留更長時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</link>
-      <description><![CDATA[為期一週的任務將持續到第九個月 乘坐陷入問題的波音星際客機前往國際太空站的兩名太空人又面臨長時間的延誤。 … ]]></description>
+      <description><![CDATA[為期一週的任務將持續到第九個月 乘坐問題纏身的波音星際客機前往國際太空站的兩名太空人又面臨長時間的延誤。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</guid>
       <pubDate>Thu, 19 Dec 2024 15:27:11 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>看門狗深度六人制招募廣告其實是付費訓練課程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asa_it_career_change/</link>
-      <description><![CDATA[招募網站上的誤導性清單？接下來會怎樣？  英國廣告標準局 (ASA) 對 IT Career Change Ltd 於 2024 年 9 月發布的一則宣傳健康與保健行業職業的廣告進行了嚴厲處罰。安全性...]]></description>
+      <description><![CDATA[招募網站上的誤導性清單？接下來會怎麼樣？  英國廣告標準局 (ASA) 對 IT Career Change Ltd 於 2024 年 9 月發布的一則宣傳健康與保健職業的廣告進行了嚴厲處罰。安全性...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asa_it_career_change/</guid>
       <pubDate>Thu, 19 Dec 2024 11:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>Asda 決定不大規模推行門市 IT 轉型</title>
+      <title>Asda 決定“不進行”商店 IT 轉換的“大規模推廣”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</link>
       <description><![CDATA[在計劃改造小型商店的過程中，由於沃爾瑪技術分拆仍在繼續，零售商選擇推遲12 月輪班 獨家 Asda 決定不再按計劃的切換日期推出本月早些時候，作為與英國第三大超市前所有者沃爾瑪技術分離的一部分，一些較小的商店安裝了新系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/asda_tech_rollout/</guid>
@@ -57,14 +64,14 @@
     <item>
       <title>人形機器人即將推出，最初是遠端控制的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</link>
-      <description><![CDATA[人工智慧聊天機器人作為大腦——可能會出什麼問題？的助手湯瑪斯提出的請求為標誌，「貝爾先生。華生，過來。我想見你。」…]]></description>
+      <description><![CDATA[狡猾的AI 聊天機器人作為大腦– 會出現什麼問題？ ) 向他的助手托馬斯(Thomas) 提出的請求：「先生華生，過來一下。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</guid>
       <pubDate>Thu, 19 Dec 2024 07:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>不要相信要求 Docusign 迅速採取行動的郵件——這可能是 Azure 帳戶劫持網路釣魚</title>
+      <title>不要相信要求快速執行 Docusign 操作的郵件 – 這可能是 Azure 帳戶劫持網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</link>
-      <description><![CDATA[Unit 42 警告稱，最近的活動利用這種策略針對英國和歐洲的20,000 名用戶 身份不明的犯罪分子進行了一次網絡釣魚探險，目標是歐洲汽車、化學和工業複合製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Unit 42 警告稱，最近的攻擊活動利用這種策略針對了英國和歐洲的20,000 人 不明身份的犯罪分子進行了一次網絡釣魚攻擊，針對了歐洲汽車、化學和工業複合材料製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</guid>
       <pubDate>Thu, 19 Dec 2024 05:30:10 GMT</pubDate>
     </item>
@@ -92,12 +99,12 @@
     <item>
       <title>根據報道，美國因國家安全風險考慮禁止 TP-Link 路由器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</link>
-      <description><![CDATA[它最終可能會像華為一樣——川普會抓到你，抓到你，抓到你 由於對中國製造的路由器存在持續的國家安全擔憂，聯邦政府可能會禁止在美國銷售TP-Link 路由器用於網路攻擊的設備…]]></description>
+      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器網路攻擊中使用的設備......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</guid>
       <pubDate>Wed, 18 Dec 2024 20:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 火箭人員獲得 FAA 頒發的下一次星際飛船發射許可</title>
+      <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
       <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>科學家誘騙人工智慧模式洩漏其秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
-      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
+      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
       <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[芝加哥是我喜歡的司機模式 倒一杯可可，坐下來聽另一集 Microsoft Storytime。為什麼代號有時會在產品的實作中徘徊？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/when_old_microsoft_codenames_crop/</guid>
       <pubDate>Wed, 18 Dec 2024 09:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>當你的科技幽靈回來困擾你時，期待騙局</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</link>
-      <description><![CDATA[NeXTcube 的靈魂、網路廣告和被詛咒的智慧型手機提供了季節性的Technicarol 專欄 在平安夜，當我感覺一切都不對勁時，我陷入了深深的睡眠不安。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/a_christmas_technicarol/</guid>
-      <pubDate>Wed, 18 Dec 2024 07:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
