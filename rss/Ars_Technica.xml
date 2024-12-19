@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 19 Dec 2024 20:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 21:34:28 GMT</lastBuildDate>
     <item>
-      <title>在 X 上冒充真實品牌的加密貨幣騙子很容易入侵 YouTuber</title>
+      <title>家庭助理的語音預覽版是一個具有強大隱私功能的小盒子</title>
+      <link>https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/</link>
+      <description><![CDATA[Home Assistant 的語音設備是一個價值 60 美元的盒子，既專注又不斷發展。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/</guid>
+      <pubDate>Thu, 19 Dec 2024 21:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>隨著各公司放棄VMware，博通一路笑到銀行</title>
+      <link>https://arstechnica.com/information-technology/2024/12/as-firms-abandon-vmware-broadcom-is-laughing-all-the-way-to-the-bank/</link>
+      <description><![CDATA[英邁國際 (Ingram Micro) 是最新放棄 VMware 的公司，但 VMware 仍在獲利。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/as-firms-abandon-vmware-broadcom-is-laughing-all-the-way-to-the-bank/</guid>
+      <pubDate>Thu, 19 Dec 2024 20:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>新實體模擬訓練機器人的速度比現實快 43 萬倍</title>
+      <link>https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/</link>
+      <description><![CDATA[「Genesis」可以使用文字建構的 3D 世界將訓練時間從幾十年壓縮到幾個小時。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/</guid>
+      <pubDate>Thu, 19 Dec 2024 20:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 X 上冒充真實品牌的加密貨幣騙子很容易入侵 YouTube 用戶</title>
       <link>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</link>
-      <description><![CDATA[格鬥遊戲 YouTuber 現在與谷歌就黑客入侵後“巨大”的收入損失進行鬥爭。]]></description>
+      <description><![CDATA[格鬥遊戲 YouTuber 現在因駭客攻擊後「巨大」的收入損失而與Google展開鬥爭。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</guid>
       <pubDate>Thu, 19 Dec 2024 19:51:10 GMT</pubDate>
     </item>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 19 Dec 2024 18:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾正在測試 BIOS 更新，以修復其新型 Core Ultra 200S CPU 的效能</title>
+      <title>英特爾正在測試 BIOS 更新以修復其新款 Core Ultra 200S CPU 的效能</title>
       <link>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</link>
       <description><![CDATA[不像第 13/14 代電壓問題那麼嚴重，但修復方法類似。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</guid>
@@ -48,32 +69,11 @@
       <pubDate>Thu, 19 Dec 2024 17:54:12 GMT</pubDate>
     </item>
     <item>
-      <title>發表有缺陷的黑色塑膠研究的期刊從科學索引中刪除</title>
+      <title>發表錯誤黑色塑膠研究的期刊被從科學索引中刪除</title>
       <link>https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/</link>
-      <description><![CDATA[Chemosphere 取自 Web of Science，用於計算影響因子。]]></description>
+      <description><![CDATA[Chemosphere 摘自 Web of Science，用於計算影響因子。]]></description>
       <guid>https://arstechnica.com/health/2024/12/journal-that-published-faulty-black-plastic-study-removed-from-science-index/</guid>
       <pubDate>Thu, 19 Dec 2024 17:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>一種新的、未經審查的人工智慧視訊模型可能會引發一場新的人工智慧愛好者運動</title>
-      <link>https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/</link>
-      <description><![CDATA[騰訊「開源」混元影片是否會為無碼AI影片開啟居家「穩定擴散」時刻？]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/a-new-uncensored-ai-video-model-may-spark-a-new-ai-hobbyist-movement/</guid>
-      <pubDate>Thu, 19 Dec 2024 15:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>氪星在超人預告片中搶盡風頭</title>
-      <link>https://arstechnica.com/culture/2024/12/krypto-steals-the-show-in-superman-teaser/</link>
-      <description><![CDATA[鏡頭讓我們一窺萊克斯·盧瑟、綠燈俠、鷹女和超人勇敢的小白狗 Kryto 的風采。]]></description>
-      <guid>https://arstechnica.com/culture/2024/12/krypto-steals-the-show-in-superman-teaser/</guid>
-      <pubDate>Thu, 19 Dec 2024 15:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜因拒絕與倉庫工人討價還價而面臨假期罷工</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/amazon-faces-holiday-strike-after-refusing-to-bargain-with-warehouse-workers/</link>
-      <description><![CDATA[亞馬遜淡化了工人宣稱的美國有史以來「最大規模的罷工」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/amazon-faces-holiday-strike-after-refusing-to-bargain-with-warehouse-workers/</guid>
-      <pubDate>Thu, 19 Dec 2024 15:13:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
