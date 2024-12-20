@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 16:14:58 GMT</lastBuildDate>
     <item>
-      <title>為什麼人工智慧語言模型會因為太多文字而窒息</title>
+      <title>Google和 OpenAI 在 12 月推出了大量 AI 版本，很難跟上步伐</title>
+      <link>https://arstechnica.com/information-technology/2024/12/google-and-openai-blitz-december-with-so-many-ai-releases-its-hard-to-keep-up/</link>
+      <description><![CDATA[潛在的突破性人工智慧版本不斷湧現，讓專家們頭暈目眩。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/google-and-openai-blitz-december-with-so-many-ai-releases-its-hard-to-keep-up/</guid>
+      <pubDate>Fri, 20 Dec 2024 15:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>用於 VR 遊戲作弊的 VPN 出售對您家庭網路的存取權限</title>
+      <link>https://arstechnica.com/security/2024/12/vpn-used-for-vr-game-cheat-sells-access-to-your-home-network/</link>
+      <description><![CDATA[Big Mama VPN 與網路相連，可提供對住宅 IP 位址的存取。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/vpn-used-for-vr-game-cheat-sells-access-to-your-home-network/</guid>
+      <pubDate>Fri, 20 Dec 2024 15:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>為什麼人工智慧語言模型會因文字過多而變得困難</title>
       <link>https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/</link>
-      <description><![CDATA[計算成本與輸入大小的平方成比例。那不太好。]]></description>
+      <description><![CDATA[計算成本與輸入大小的平方成正比。那不太好。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/</guid>
       <pubDate>Fri, 20 Dec 2024 13:00:56 GMT</pubDate>
     </item>
@@ -22,12 +36,12 @@
     <item>
       <title>不甘落後的OpenAI，Google發布了自己的「推理」AI模型</title>
       <link>https://arstechnica.com/information-technology/2024/12/not-to-be-outdone-by-openai-google-releases-its-own-reasoning-ai-model/</link>
-      <description><![CDATA[Gemini 2.0 Flash Thinking 是 Google 對所謂 AI 推理模型的詮釋。]]></description>
+      <description><![CDATA[Gemini 2.0 Flash Thinking 是 Google 對所謂 AI 推理模型的看法。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/not-to-be-outdone-by-openai-google-releases-its-own-reasoning-ai-model/</guid>
       <pubDate>Thu, 19 Dec 2024 21:49:53 GMT</pubDate>
     </item>
     <item>
-      <title>Home Assistant 的語音預覽版是一個擁有強大隱私權的小盒子</title>
+      <title>家庭助理的語音預覽版是一個具有強大隱私功能的小盒子</title>
       <link>https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/</link>
       <description><![CDATA[Home Assistant 的語音設備是一個價值 60 美元的盒子，既專注又不斷發展。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/home-assistants-voice-preview-edition-is-a-little-box-with-big-privacy-powers/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 19 Dec 2024 20:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>在 X 上冒充真實品牌的加密貨幣騙子很容易入侵 YouTuber</title>
+      <title>在 X 上冒充真實品牌的加密貨幣騙子很容易入侵 YouTube 用戶</title>
       <link>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</link>
       <description><![CDATA[格鬥遊戲 YouTuber 現在因駭客攻擊後「巨大」的收入損失而與Google展開鬥爭。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[「A-Life」修復將確保本已奇怪的輻射區域具有更多隨機性。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</guid>
       <pubDate>Thu, 19 Dec 2024 18:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國在新澤西州部分地區暫時禁止無人機飛行，可能對飛機使用“致命武力”</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</link>
-      <description><![CDATA[無人機目擊事件引發擔憂；聯邦調查局表示尚未「發現任何異常情況」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾正在測試 BIOS 更新，以修復其新型 Core Ultra 200S CPU 的效能</title>
-      <link>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</link>
-      <description><![CDATA[不像第 13/14 代電壓問題那麼嚴重，但修復方法類似。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:18:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
