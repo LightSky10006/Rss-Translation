@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 19 Dec 2024 23:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 02:17:15 GMT</lastBuildDate>
     <item>
       <title>微軟在 Windows 11 24H2 上遇到了更多令人頭痛的問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/</link>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 19 Dec 2024 09:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>人形機器人即將推出，最初是遠端控制的</title>
+      <title>人形機器人即將問世，最初由遠端控制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</link>
       <description><![CDATA[狡猾的AI 聊天機器人作為大腦– 會出現什麼問題？ ) 向他的助手托馬斯(Thomas) 提出的請求：「先生華生，過來一下。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/humanoid_robots_remote_contral/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>不要相信要求快速執行 Docusign 操作的郵件 – 這可能是 Azure 帳戶劫持網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</link>
-      <description><![CDATA[Unit 42 警告稱，最近的攻擊活動利用這種策略針對了英國和歐洲的20,000 人 不明身份的犯罪分子進行了一次網絡釣魚攻擊，針對了歐洲汽車、化學和工業複合材料製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[Unit 42 警告稱，最近的活動利用這種策略針對英國和歐洲的20,000 名用戶 身份不明的犯罪分子進行了一次網絡釣魚探險，目標是歐洲汽車、化學和工業複合製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</guid>
       <pubDate>Thu, 19 Dec 2024 05:30:10 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>英特爾因代工業務陷入困境再次被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/intel_sued_foundry_business/</link>
-      <description><![CDATA[衍生性商品索賠要求高階主管和董事會成員賠償 陷入困境的晶片製造商英特爾再次因其代工業務被股東起訴，這一次是針對高階主管和董事會成員的衍生性商品訴訟。]]></description>
+      <description><![CDATA[衍生性商品索賠要求高階主管和董事會成員賠償損失 陷入困境的晶片製造商英特爾因其代工業務再次遭到股東起訴，這次是針對高階主管和董事會成員的衍生品訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/intel_sued_foundry_business/</guid>
       <pubDate>Wed, 18 Dec 2024 22:30:11 GMT</pubDate>
     </item>
     <item>
       <title>根據報道，美國因國家安全風險考慮禁止 TP-Link 路由器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</link>
-      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器網路攻擊中使用的設備......]]></description>
+      <description><![CDATA[它最終可能會像華為一樣——川普會抓到你，抓到你，抓到你 由於對中國製造的路由器存在持續的國家安全擔憂，聯邦政府可能會禁止在美國銷售TP-Link 路由器用於網路攻擊的設備…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</guid>
       <pubDate>Wed, 18 Dec 2024 20:52:58 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 18 Dec 2024 17:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>科學家誘騙人工智慧模式洩漏其秘密</title>
+      <title>科學家誘騙人工智慧模式洩漏秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
       <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
