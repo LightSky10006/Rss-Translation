@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 20 Dec 2024 03:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 05:37:52 GMT</lastBuildDate>
+    <item>
+      <title>中國探月任務的岩石顯示月球的歷史需要修改</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</link>
+      <description><![CDATA[同時，NASA 批准了 Artemis 軟體升級 在分析了嫦娥六號任務帶回地球的樣本後，中國科學家認為是時候改寫月球的歷史了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</guid>
+      <pubDate>Fri, 20 Dec 2024 05:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>資訊安全專家對人工智慧協助紅隊的潛力存在分歧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/</link>
-      <description><![CDATA[是的，法學碩士可以承擔繁重的工作。但祝你好運，有人提供證據 CANALYS FORUMS APAC 生成式人工智慧幾乎在每個領域都得到了熱烈的採用，但資訊安全專家對於它是否真正對紅隊有幫助存在分歧測試企業系統的攻擊者。]]></description>
+      <description><![CDATA[是的，法學碩士 (LLM) 可以完成繁重的工作。但希望你能找到一個能提供證據的人。它是否真的對紅隊有幫助存在分歧測試企業系統的攻擊者… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/</guid>
       <pubDate>Fri, 20 Dec 2024 03:22:15 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 19 Dec 2024 23:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>Axiom Space 調整了太空站組裝順序——以便更快地使其獨立</title>
+      <title>Axiom Space 調整太空站組裝順序，以便盡快實現獨立</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/</link>
       <description><![CDATA[目標是到2028 年實現自由飛行。任何依賴）最快到 2028 年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>滯留在太空：SpaceX 面臨延誤，Starliner 機組人員將在軌道上停留更長時間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</link>
-      <description><![CDATA[為期一週的任務將持續到第九個月 乘坐問題纏身的波音星際客機前往國際太空站的兩名太空人又面臨長時間的延誤。 … ]]></description>
+      <description><![CDATA[為期一週的任務將持續到第九個月 乘坐陷入問題的波音星際客機前往國際太空站的兩名太空人又面臨長時間的延誤。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</guid>
       <pubDate>Thu, 19 Dec 2024 15:27:11 GMT</pubDate>
     </item>
     <item>
       <title>蘋果和 Meta 就互通性請求互相指責</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/apple_meta_interoperability/</link>
-      <description><![CDATA[當然，兩者都只考慮用戶的最佳利益 歐盟委員會 (EC) 繼續敦促蘋果向第三方開放更多 iOS，但蘋果予以反擊，並發出警告這樣做會危及用戶隱私。]]></description>
+      <description><![CDATA[當然，兩者都只考慮用戶的最佳利益 歐盟委員會 (EC) 繼續敦促蘋果向第三方開放更多 iOS，但蘋果予以反擊，並發出警告這樣做會冒用戶隱私的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/apple_meta_interoperability/</guid>
       <pubDate>Thu, 19 Dec 2024 13:35:13 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 19 Dec 2024 07:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>不要相信要求 Docusign 迅速採取行動的郵件——這可能是 Azure 帳戶劫持網路釣魚</title>
+      <title>不要相信要求快速進行 Docusign 操作的郵件 – 這可能是 Azure 帳戶劫持網路釣魚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</link>
       <description><![CDATA[Unit 42 警告稱，最近的活動利用這種策略針對英國和歐洲的20,000 名用戶 身份不明的犯罪分子進行了一次網絡釣魚探險，目標是歐洲汽車、化學和工業複合製造業的約20,000 名用戶，並試圖竊取帳戶憑證，然後劫持受害者的​​ Microsoft Azure 雲端基礎設施。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/docusign_lure_azure_account_takeover/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>據報導，對富士康的恐懼推動了日產、本田和三菱的合併</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/</link>
-      <description><![CDATA[電動車競賽正在順利進行，沒有人願意被拋在後面 本週，日本汽車巨頭日產和本田正在考慮推出電動車，這一消息震動了汽車行業。汽車顯然熱衷於成為其中的一部分。]]></description>
+      <description><![CDATA[電動車競賽正在如火如荼地展開，沒有人願意被拋在後面 本週，日本汽車巨頭日產和本田考慮在電動汽車領域展開合作的消息震動了汽車行業。三菱汽車顯然渴望成為其中的一部分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/foxconn_nissan_honda_merger_acquisition/</guid>
       <pubDate>Thu, 19 Dec 2024 03:29:07 GMT</pubDate>
     </item>
@@ -106,12 +113,12 @@
     <item>
       <title>根據報道，美國因國家安全風險考慮禁止 TP-Link 路由器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</link>
-      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器網路攻擊中使用的設備......]]></description>
+      <description><![CDATA[最終可能會像華為一樣 - 川普會得到你，得到你，得到你 由於對中國製造的持續國家安全擔憂，美聯儲可能會禁止在美國銷售 TP-Link 路由器用於網路攻擊的設備......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/us_govt_probes_tplink_routers/</guid>
       <pubDate>Wed, 18 Dec 2024 20:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 火箭專家獲得美國聯邦航空管理局 (FAA) 的下一次星艦發射新許可證</title>
+      <title>SpaceX 火箭人員獲得 FAA 頒發的下一次星際飛船發射許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</link>
       <description><![CDATA[在第6 次飛行後不到一個月就獲得授權：「FAA 繼續提高效率」 美國聯邦航空管理局(FAA) 正在為SpaceX 星際飛船的下一次試飛頒發許可證授權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/faa_issues_a_license_for/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>科學家誘騙人工智慧模式洩漏其秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</link>
-      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、一種新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI 模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
+      <description><![CDATA[讓Google Edge TPU 放棄模型超參數所需的只是特定的硬體、新穎的攻擊技術…以及幾天的時間 北卡羅來納州立大學的電腦科學家設計了一種複製AI模型的方法在 Google Edge 張量處理單元 (TPU) 上運行，如 Google Pixel 手機和第三方機器學習加速器中使用的那樣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/ai_model_reveal_itself/</guid>
       <pubDate>Wed, 18 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Unixi-est 桌面廣泛更新 評論 歷史最悠久的 Linux 桌面的新版本現已推出，最後，您可以使用Wayland – 儘管還不是一切正常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/xfce_420_is_out/</guid>
       <pubDate>Wed, 18 Dec 2024 13:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士通告訴 Horizo​​n Inquiry，我們向郵局最高層通報了系統問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/18/we_told_post_office_about/</link>
-      <description><![CDATA[法律代表表示，國營零售公司在技術問題上並不隸屬於日本跨國公司 富士通表示，它不斷向郵局通報Horizo​​​​n 的問題，Horizo​​​​n 是一家公司的核心電腦系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/18/we_told_post_office_about/</guid>
-      <pubDate>Wed, 18 Dec 2024 11:40:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
