@@ -4,16 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 23 Dec 2024 12:57:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 16:14:40 GMT</lastBuildDate>
     <item>
-      <title>《鐵三角》：2024 年我們最喜歡的電影</title>
+      <title>本田與日產合併 本田將領先</title>
+      <link>https://arstechnica.com/cars/2024/12/honda-and-nissan-to-merge-honda-will-take-the-lead/</link>
+      <description><![CDATA[如果交易成功，將在 2026 年創建全球第三大 OEM。]]></description>
+      <guid>https://arstechnica.com/cars/2024/12/honda-and-nissan-to-merge-honda-will-take-the-lead/</guid>
+      <pubDate>Mon, 23 Dec 2024 15:18:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在川普的領導下，美國太空總署可能會發生怎樣的變化？這是正在討論的內容</title>
+      <link>https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/</link>
+      <description><![CDATA[“埃隆讓那些火箭飛船啟動，因為我們想在我的任期結束之前到達火星。”]]></description>
+      <guid>https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/</guid>
+      <pubDate>Mon, 23 Dec 2024 15:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Film Technica：2024 年我們最喜歡的電影</title>
       <link>https://arstechnica.com/culture/2024/12/film-technica-our-favorite-movies-of-2024/</link>
       <description><![CDATA[今年的榜單將相當多的恐怖片與通常的大片融合在一起，還有一些隱藏的小寶石。]]></description>
       <guid>https://arstechnica.com/culture/2024/12/film-technica-our-favorite-movies-of-2024/</guid>
       <pubDate>Mon, 23 Dec 2024 12:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>人類與自動駕駛汽車的競賽在開始之前就結束了</title>
+      <title>人類與自動駕駛汽車的競賽尚未開始就已結束</title>
       <link>https://arstechnica.com/cars/2024/12/man-vs-ai-race-scrapped-after-ai-car-crashes-into-wall-on-warm-up-lap/</link>
       <description><![CDATA[A2RL 承認這是一個難題，這令人耳目一新。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/man-vs-ai-race-scrapped-after-ai-car-crashes-into-wall-on-warm-up-lap/</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>3D 列印讓綠海龜擺脫了「泡泡屁股」綜合症</title>
       <link>https://arstechnica.com/science/2024/12/injured-green-sea-turtle-relearns-how-to-swim-thanks-to-3d-printed-harness/</link>
-      <description><![CDATA[與船隻相撞導致夏洛特被困在水面上，面臨被捕食的危險。]]></description>
+      <description><![CDATA[船隻相撞使夏洛特滯留在水面並面臨被捕食的危險。]]></description>
       <guid>https://arstechnica.com/science/2024/12/injured-green-sea-turtle-relearns-how-to-swim-thanks-to-3d-printed-harness/</guid>
       <pubDate>Sat, 21 Dec 2024 12:25:56 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[ULA 的火神火箭距離再次飛行至少還有幾個月的時間，斯托克為其發動機命名。]]></description>
       <guid>https://arstechnica.com/science/2024/12/rocket-report-waiting-for-new-glenn-spacex-takes-a-launch-from-ula/</guid>
       <pubDate>Fri, 20 Dec 2024 19:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 宣布推出下一代模擬推理模型 o3 和 o3-mini</title>
-      <link>https://arstechnica.com/information-technology/2024/12/openai-announces-o3-and-o3-mini-its-next-simulated-reasoning-models/</link>
-      <description><![CDATA[o3 在 ARC-AGI 基準上與人類層級相當，而 o3-mini 在某些任務上超過了 o1。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/12/openai-announces-o3-and-o3-mini-its-next-simulated-reasoning-models/</guid>
-      <pubDate>Fri, 20 Dec 2024 19:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>新創公司將花費 800 美元打造兒童機器人，並試圖先將其開源</title>
-      <link>https://arstechnica.com/gadgets/2024/12/800-kids-robot-due-for-bricking-sees-potential-open-source-second-life/</link>
-      <description><![CDATA[大多數主人仍然不會為這款情感支持玩具退款。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/800-kids-robot-due-for-bricking-sees-potential-open-source-second-life/</guid>
-      <pubDate>Fri, 20 Dec 2024 19:10:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
