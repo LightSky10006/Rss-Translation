@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 23 Dec 2024 16:41:25 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Mon, 23 Dec 2024 17:11:28 GMT</lastBuildDate>
+    <item>
+      <title>2024 年您錯過的最佳電視節目</title>
+      <link>https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/</link>
+      <description><![CDATA[《來自底特律的迪亞拉》、《匹茲堡的普拉迪普》——這些節目你在 2024 年可能還沒看過，但絕對應該看。]]></description>
+      <guid>https://www.wired.com/story/the-best-tv-shows-you-missed-in-2024/</guid>
+      <pubDate>Mon, 23 Dec 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>今年是伊隆馬斯克接管政壇的一年</title>
       <link>https://www.wired.com/story/the-year-elon-musk-took-over-politics/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 23 Dec 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>卡什·帕特爾 (Kash Patel) 是 QAnon 一直在等待的英雄</title>
+      <title>卡什·帕特爾是 QAnon 一直在等待的英雄</title>
       <link>https://www.wired.com/story/kash-patel-is-the-hero-qanon-has-been-waiting-for/</link>
       <description><![CDATA[儘管 Q 長期保持沉默，但 QAnon 的信念從未像現在這樣盛行——隨著唐納德·川普準備重新入主白宮，信徒們的興奮程度空前高漲。]]></description>
       <guid>https://www.wired.com/story/kash-patel-is-the-hero-qanon-has-been-waiting-for/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 23 Dec 2024 14:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>電動車充電將政治化</title>
+      <title>電動車充電將變得政治化</title>
       <link>https://www.wired.com/story/electric-vehicle-charging-is-going-to-get-political/</link>
       <description><![CDATA[即將上任的川普政府已表達出對電動車的敵意。紅州/藍州的分歧會影響公共收費嗎？]]></description>
       <guid>https://www.wired.com/story/electric-vehicle-charging-is-going-to-get-political/</guid>
@@ -50,14 +57,14 @@
     <item>
       <title>世界上第一種 Crispr 藥物起步緩慢</title>
       <link>https://www.wired.com/story/the-worlds-first-crispr-drug-gets-a-slow-start-sickle-cell-beta-thalassemia-vertex/</link>
-      <description><![CDATA[第一種使用 Crispr 基因編輯的醫療方法已經上市一年了。由於其複雜性，美國目前很少有患者接受過這種治療。]]></description>
+      <description><![CDATA[第一個使用 Crispr 基因編輯的醫療方法已經上市一年了。它的複雜性意味著美國還沒有多少患者接受過它。]]></description>
       <guid>https://www.wired.com/story/the-worlds-first-crispr-drug-gets-a-slow-start-sickle-cell-beta-thalassemia-vertex/</guid>
       <pubDate>Mon, 23 Dec 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
       <title>看不見的俄烏戰場</title>
       <link>https://www.wired.com/story/electronic-warfare-russia-ukraine/</link>
-      <description><![CDATA[在俄羅斯對烏克蘭的戰爭中，電子戰，包括訊號幹擾、反無人機武器和對關鍵軍事系統的創新保護，已成為衝突的關鍵部分。]]></description>
+      <description><![CDATA[在俄羅斯與烏克蘭的戰爭中，電子戰，包括訊號幹擾、反無人機武器以及關鍵軍事系統的創新保護，已成為衝突的關鍵部分。]]></description>
       <guid>https://www.wired.com/story/electronic-warfare-russia-ukraine/</guid>
       <pubDate>Mon, 23 Dec 2024 10:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>歐萊雅 Professionnel AirLight Pro 評測：更快、更輕且可修復</title>
       <link>https://www.wired.com/review/loreal-professionnel-airlight-pro/</link>
-      <description><![CDATA[歐萊雅首款專業吹風機結合了紅外線、風和熱量，可大幅縮短吹乾時間。]]></description>
+      <description><![CDATA[歐萊雅首款專業吹風機結合了紅外線、風和熱，大大縮短了吹乾頭髮的時間。]]></description>
       <guid>https://www.wired.com/review/loreal-professionnel-airlight-pro/</guid>
       <pubDate>Sun, 22 Dec 2024 13:32:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>宇宙充滿了複雜的有機分子</title>
       <link>https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/</link>
-      <description><![CDATA[無論天文學家朝哪個方向看，他們都能看到生命的原料──並暗示著科學界最大的謎團之一的答案。]]></description>
+      <description><![CDATA[無論天文學家在哪裡觀察，他們都能看到生命的原料，並暗示科學偉大奧秘之一的答案。]]></description>
       <guid>https://www.wired.com/story/the-universe-is-teeming-with-complex-organic-molecules/</guid>
       <pubDate>Sun, 22 Dec 2024 12:00:00 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>將動物聲音翻譯成人類語言的競賽</title>
       <link>https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/</link>
-      <description><![CDATA[隨著巨額現金獎勵的臨近以及人工智慧研究的不斷推進，物種間的翻譯比以往任何時候都更加接近。但是，如果有的話，動物想告訴我們什麼呢？]]></description>
+      <description><![CDATA[由於巨額現金獎勵和人工智慧增強研究，跨物種翻譯比以往任何時候都更接近實現。但是，如果有的話，動物想要告訴我們什麼呢？]]></description>
       <guid>https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/</guid>
       <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Sat, 21 Dec 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌表示不會在反壟斷補救提案中強迫 Gemini 與合作夥伴合作</title>
+      <title>Google表示不會強迫合作夥伴在反壟斷救濟方案中使用 Gemini</title>
       <link>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</link>
-      <description><![CDATA[谷歌主導了上一個搜尋時代。現在，該公司和美國司法部正在就如何為生成人工智慧創造公平的競爭環境展開爭論。]]></description>
+      <description><![CDATA[谷歌主宰了上一個搜尋時代。目前，該公司和美國司法部正在就如何為生成式人工智慧創造公平的競爭環境展開爭論。]]></description>
       <guid>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</guid>
       <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>最佳跑鞋（2024）：Asics、Hoka、Nike、On Running</title>
+      <title>最佳跑鞋（2024 年）：Asics、Hoka、Nike、On Running</title>
       <link>https://www.wired.com/gallery/best-running-shoes/</link>
       <description><![CDATA[我們進行了數千英里的測試，為您提供適合每種配速、能力和跑步目標的最佳跑鞋。]]></description>
       <guid>https://www.wired.com/gallery/best-running-shoes/</guid>
       <pubDate>Sat, 21 Dec 2024 14:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wood Veneer Hub 的板條面板是家庭辦公室的輕鬆升級</title>
-      <link>https://www.wired.com/story/wood-veneer-hub-american-walnut-acoustic-slat-wood-wall-panels-rave/</link>
-      <description><![CDATA[丟掉油漆桶並擰上這些木飾面板，讓您的家庭辦公室煥然一新。]]></description>
-      <guid>https://www.wired.com/story/wood-veneer-hub-american-walnut-acoustic-slat-wood-wall-panels-rave/</guid>
-      <pubDate>Sat, 21 Dec 2024 13:39:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
