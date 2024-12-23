@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 23 Dec 2024 17:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 19:34:48 GMT</lastBuildDate>
+    <item>
+      <title>SvarDOS：DR-DOS 作為開源作業系統重生</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</link>
+      <description><![CDATA[#DOScember 的驚喜：安裝在一張軟碟上，但具有支援網路的套件管理器 隨著最近切換到不同的內核，SvarDOS 從FreeDOS 的發行版轉向了更大的獨立性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</guid>
+      <pubDate>Mon, 23 Dec 2024 19:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>隨著AMD Instinct、雲矽爭奪Nvidia的一塊蛋糕，人工智慧的崛起帶動了所有晶片的發展</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/nvidia_ai_hardware_competition/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>OneOdio Focus A5：大電池、廉價的聲音和便宜的價格</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/oneodio_focus_a5_headphones/</link>
-      <description><![CDATA[價格低廉的耳罩式設備，但主動降噪功能無法阻擋頌歌歌手 評測 OneOdio 發布了一套耳罩式降噪耳機明顯的特價為59 英鎊（69 美元）。然而，它們也是「一分錢一分貨」這句格言的典型例子，甚至可能更少。]]></description>
+      <description><![CDATA[價格低廉的耳罩式設備，但主動降噪功能無法阻擋頌歌歌手 評測 OneOdio 發布了一套耳罩式降噪耳機明顯的特價為59 英鎊（69 美元）。然而，它們也是「一分錢一分貨」這句格言的一個典型例子，甚至可能更少。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/oneodio_focus_a5_headphones/</guid>
       <pubDate>Mon, 23 Dec 2024 11:32:09 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Sun, 22 Dec 2024 16:22:12 GMT</pubDate>
     </item>
     <item>
-      <title>拜登對科技併購的反壟斷打擊可能會持續到川普執政時期</title>
+      <title>拜登對科技併購的反壟斷打擊可能會持續到川普執政期間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</link>
-      <description><![CDATA[莉娜汗(Lina Khan) 的任期可能會結束，但她幫助建立的監管障礙不會消失 分析 當唐納德·特朗普(Donald Trump) 於1 月20 日就任第二個任期時，許多人預計全面的變化。但在科技公司中，當涉及併購時，那些希望放鬆監管的人可能會失望。 ...]]></description>
+      <description><![CDATA[莉娜汗的任期可能會結束，但她幫助建立的監管障礙不會消失 分析  當唐納德·川普於1 月20 日開始第二個任期時，許多期待全面徹底的變革。但在科技界，當談到併購時，那些希望放鬆監管的人可能會感到失望。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</guid>
       <pubDate>Sat, 21 Dec 2024 15:30:07 GMT</pubDate>
     </item>
@@ -71,28 +78,28 @@
     <item>
       <title>Adélie Linux 1.0 – 小、快，但還沒成熟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/adelie_linux_1_beta_6/</link>
-      <description><![CDATA[非常緊湊，非常跨平台，非常長的測試期 Adélie Linux 的Beta 6 即將到來，距離Beta 1 僅過了六年多– 但他們確實說，好事會降臨到那些等待的人身上...]]></description>
+      <description><![CDATA[非常緊湊，非常跨平台，非常長的測試期 Adélie Linux 的Beta 6 即將到來，距Beta 1 僅僅六年多- 但他們確實說，好事會降臨到那些等待的人身上...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/adelie_linux_1_beta_6/</guid>
       <pubDate>Fri, 20 Dec 2024 15:30:06 GMT</pubDate>
     </item>
     <item>
       <title>Automattic 與 WP Engine WordPress 之戰變得非常煩人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</link>
-      <description><![CDATA[黎明時分的分叉......但這對開源來說並不是好兆頭 觀點  我對此感到厭煩。自從 2003 年 WordPress 推出以來，我一直是個快樂的用戶，我已經與 Vignette（現已被 OpenText 收購）告別了。與其他替代方案相比，WordPress 的使用更加簡單；它是開源的；而且是免費的。這真是一次勝利！ ... ]]></description>
+      <description><![CDATA[黎明時分岔...但這對開源來說不是一個好兆頭 意見 我對此感到非常厭倦。自 2003 年 WordPress 推出以來，我一直是一名快樂的 WordPress 用戶，我與 Vignette（自被 OpenText 收購後）吻別。 WordPress 比其他替代方案更容易使用；它是開源的；而且它是免費的。這是一場勝利！ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</guid>
       <pubDate>Fri, 20 Dec 2024 13:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>適用於 Apple Mac 的 Fedora Asahi Remix 41 現已發布</title>
+      <title>適用於 Apple Mac 的 Fedora Asahi Remix 41 已推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</link>
-      <description><![CDATA[如果您在 M1 或 M2 上運行 Linux，新的閃亮元素 Asahi Linux 的 Fedora 41 版本已經發布 - Apple Silicon Mac 的首選 Linux 發行版。]]></description>
+      <description><![CDATA[如果您在M1 或M2 上運行Linux，則會出現新的亮點 Asahi Linux 的Fedora 41 版本已經發布- 適用於Apple Silicon Macs 的首選Linux 發行版。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</guid>
       <pubDate>Fri, 20 Dec 2024 09:28:08 GMT</pubDate>
     </item>
     <item>
       <title>技術人員僥倖解決了這個問題，發現自己成了虐待老闆最好的朋友</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/on_call/</link>
-      <description><![CDATA[他的麻煩就開始了… 隨叫隨到 數位技術仍然極其挑剔，這就是為什麼優秀的技術支援人員總是需要的- 也是&lt; i&gt;的原因The Register 每週五都會在 On Call 專欄中講述您的支持故事，您的慷慨使得該專欄成為可能。]]></description>
+      <description><![CDATA[他的麻煩就從這裡開始了… 隨叫隨到  數位技術仍然極其繁瑣，這就是為什麼優秀的技術支援人員總是供不應求的原因——也是原因 The Register 每週五都會在「On Call」專欄中不知疲倦地講述您的支持故事，您的慷慨使得這個專欄得以實現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/on_call/</guid>
       <pubDate>Fri, 20 Dec 2024 07:33:13 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>資訊安全專家對人工智慧協助紅隊的潛力存在分歧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/</link>
-      <description><![CDATA[是的，法學碩士 (LLM) 可以完成繁重的工作。但希望你能找到一個能提供證據的人。它是否真的對紅隊有幫助存在分歧測試企業系統的攻擊者… ]]></description>
+      <description><![CDATA[是的，法學碩士可以承擔繁重的工作。但祝你好運，有人提供證據 CANALYS FORUMS APAC 生成式人工智慧幾乎在每個領域都得到了熱烈的採用，但資訊安全專家對於它是否真正對紅隊有幫助存在分歧測試企業系統的攻擊者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/</guid>
       <pubDate>Fri, 20 Dec 2024 03:22:15 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>Axiom Space 調整了太空站組裝順序——以便更快地使其獨立</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/</link>
-      <description><![CDATA[目標是到2028 年實現自由飛行。任何依賴）最快到 2028 年。]]></description>
+      <description><![CDATA[目標是在2028 年實現自由飛行。任何依賴) 最早將於 2028 年實現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/axiom_space_shuffles_station_assembly/</guid>
       <pubDate>Thu, 19 Dec 2024 21:25:08 GMT</pubDate>
     </item>
     <item>
-      <title>美國兩黨小組公佈人工智慧政策要求清單</title>
+      <title>美國兩黨組織發佈人工智慧政策要求清單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/house_ai_policy_requests/</link>
-      <description><![CDATA[傑伊·奧伯諾特主席敦促國會採取行動- 是否採取行動是另一回事 經過10 個月的工作，美國國會眾議院兩黨人工智能工作組公佈了報告，概述了建議聯邦人工智慧政策......]]></description>
+      <description><![CDATA[傑伊·奧伯諾特主席敦促國會採取行動- 是否採取行動是另一回事 經過10 個月的工作，美國國會眾議院兩黨人工智能工作組公佈了報告，概述了建議聯邦人工智慧政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/house_ai_policy_requests/</guid>
       <pubDate>Thu, 19 Dec 2024 19:26:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這不僅僅是一個雙曲線億萬富翁- 整個行業都在追逐AI 龍 評論  明年，隨著AI 熱潮進入高潮，一些真正可怕的計算計畫將會上馬。迄今為止披露的最大的一項計劃是 xAI 計劃將其 Colossus AI 超級電腦從已經令人印象深刻的 10 萬個 GPU 擴展到 100 萬個 GPU。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/scale_ai_defies_logic/</guid>
       <pubDate>Thu, 19 Dec 2024 17:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>滯留在太空：SpaceX 面臨延誤，Starliner 機組人員將在軌道上停留更長時間</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</link>
-      <description><![CDATA[為期一週的任務將延長至第九個月 兩名乘坐波音公司問題重重的星際客機前往國際太空站的太空人又一次面臨長時間的延誤。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/spacex_delayed_boeing_crew/</guid>
-      <pubDate>Thu, 19 Dec 2024 15:27:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
