@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Dec 2024 11:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 14:11:33 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Edge 憑藉 2024 年一些引人注目的使用統計數據取得了勝利</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</link>
+      <description><![CDATA[有很多大數字，但市場份額不是其中之一 微軟發布了對其Edge 瀏覽器的一年回顧，並談論了人工智能驅動的聊天，同時略略地跳過了該軟體停滯不前的市場分享...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</guid>
+      <pubDate>Tue, 24 Dec 2024 14:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體和耶穌有什麼共同點？出生的月份和對死亡的不捨</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/ransomware_in_2024/</link>
@@ -29,12 +36,12 @@
     <item>
       <title>當涉及惡意軟體時，「這不是一個錯誤，這是一個功能」的語氣會變得更加陰暗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/firmware_malware_opinion/</link>
-      <description><![CDATA[媽媽，零日從何而來？上週的誰，我？是恰當的例子......]]></description>
+      <description><![CDATA[媽媽，零日漏洞是從哪裡來的？上週的誰，我？這是舉個例子…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/firmware_malware_opinion/</guid>
       <pubDate>Mon, 23 Dec 2024 21:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團對高通的人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
+      <title>陪審團對高通人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</link>
       <description><![CDATA[勝利可能是短暫的，因為晶片設計商正在為第二輪比賽做好準備 分析 高通進軍 PC 領域是安全的，至少目前如此。團發現其行動處理器設計並未像英國晶片設計商聲稱的那樣違反Arm Holdings 的許可。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>SvarDOS：DR-DOS 作為開源作業系統重生</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</link>
-      <description><![CDATA[#DOScember 的驚喜：安裝在一張軟碟上，但具有支援網路的套件管理器 隨著最近切換到不同的內核，SvarDOS 從FreeDOS 的發行版轉變為更大的獨立性。]]></description>
+      <description><![CDATA[#DOScember 的驚喜：安裝在一張軟碟上，但具有支援網路的套件管理器 隨著最近切換到不同的內核，SvarDOS 從FreeDOS 的發行版轉向了更大的獨立性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</guid>
       <pubDate>Mon, 23 Dec 2024 19:30:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>疑似 LockBit 開發者面臨美國引渡，“是為了錢”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/lockbit_ransomware_dev_extradition/</link>
-      <description><![CDATA[俄羅斯-以色列雙重國籍人士於 8 月被捕 一名涉嫌 LockBit 勒索軟體的開發者在以色列被拘留，正在等待引渡到美國。]]></description>
+      <description><![CDATA[俄羅斯和以色列雙重國籍人士於 8 月被捕 一名涉嫌 LockBit 勒索軟體的開發者在以色列被拘留，正在等待引渡到美國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/lockbit_ransomware_dev_extradition/</guid>
       <pubDate>Mon, 23 Dec 2024 13:31:10 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Sun, 22 Dec 2024 16:22:12 GMT</pubDate>
     </item>
     <item>
-      <title>拜登對科技併購的反壟斷打擊可能會持續到川普執政時期</title>
+      <title>拜登對科技併購的反壟斷打擊可能會持續到川普任期內</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</link>
-      <description><![CDATA[莉娜汗(Lina Khan) 的任期可能會結束，但她幫助建立的監管障礙不會消失 分析 當唐納德·特朗普(Donald Trump) 於1 月20 日就任第二個任期時，許多人預計全面的變化。但在科技公司中，當涉及併購時，那些希望放鬆監管的人可能會失望。 ...]]></description>
+      <description><![CDATA[莉娜汗(Lina Khan) 的任期可能會結束，但她幫助建立的監管障礙不會消失 分析 當唐納德·特朗普(Donald Trump) 於1 月20 日就任第二個任期時，許多人預計全面的變化。但在科技公司中，當涉及併購時，那些希望放鬆監管的人可能會失望。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</guid>
       <pubDate>Sat, 21 Dec 2024 15:30:07 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 20 Dec 2024 15:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>Automattic 與 WP Engine 之間的 WordPress 之爭越來越惱人</title>
+      <title>Automattic 與 WP Engine WordPress 之戰變得非常煩人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</link>
       <description><![CDATA[黎明時分岔...但這對開源來說不是一個好兆頭 意見 我對此感到非常厭倦。自 2003 年 WordPress 推出以來，我一直是一名快樂的 WordPress 用戶，我與 Vignette（自被 OpenText 收購後）吻別。 WordPress 比其他替代方案更容易使用；它是開源的；而且它是免費的。這是一場勝利！ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>適用於 Apple Mac 的 Fedora Asahi Remix 41 已推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</link>
-      <description><![CDATA[如果您在 M1 或 M2 上運行 Linux，新的閃亮元素 Asahi Linux 的 Fedora 41 版本已經發布 - Apple Silicon Mac 的首選 Linux 發行版。]]></description>
+      <description><![CDATA[如果您在 M1 或 M2 上運行 Linux，新的閃亮元素 Asahi Linux 的 Fedora 41 版本已推出 - Apple Silicon Mac 的首選 Linux 發行版。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</guid>
       <pubDate>Fri, 20 Dec 2024 09:28:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[他的麻煩就開始了… 隨叫隨到 數位技術仍然極其挑剔，這就是為什麼優秀的技術支援人員總是需要的- 也是&lt; i&gt;的原因The Register 每週五都會在 On Call 專欄中講述您的支持故事，您的慷慨使得該專欄成為可能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/on_call/</guid>
       <pubDate>Fri, 20 Dec 2024 07:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國探月任務的岩石顯示月球的歷史需要修改</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</link>
-      <description><![CDATA[與此同時，美國宇航局簽署了阿爾忒彌斯軟體升級 中國科學家在分析了嫦娥六號任務返回地球的樣本後認為是時候改寫月球的歷史了。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</guid>
-      <pubDate>Fri, 20 Dec 2024 05:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
