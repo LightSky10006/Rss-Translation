@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 24 Dec 2024 03:27:44 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 24 Dec 2024 09:36:01 GMT</lastBuildDate>
+    <item>
+      <title>三分之一的成年人無法刪除設備數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/uk_device_data_deletion/</link>
+      <description><![CDATA[調查發現，舊手機更容易積滿灰塵 英國資訊專員辦公室 (ICO) 警告說，許多成年人不知道如何擦除舊設備，而且令人擔憂的是，有很多年輕人根本不在乎。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/uk_device_data_deletion/</guid>
+      <pubDate>Tue, 24 Dec 2024 09:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>你比AI更物有所值嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/ai_job_replacement_comment/</link>
-      <description><![CDATA[科技供應商開始大聲說出安靜的部分 - 企業真的需要這麼多員工嗎？隨著技術的進步，似乎更多的是控製成本和人員數量。]]></description>
+      <description><![CDATA[科技供應商開始大聲說出「安靜的部分」－企業真的需要那麼多員工嗎？的部分」。隨著技術的進步，似乎更重要的是控製成本和員工人數。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/ai_job_replacement_comment/</guid>
       <pubDate>Mon, 23 Dec 2024 23:26:13 GMT</pubDate>
     </item>
@@ -20,9 +27,9 @@
       <pubDate>Mon, 23 Dec 2024 21:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團對高通的人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
+      <title>陪審團對高通人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</link>
-      <description><![CDATA[這場勝利或許只是曇花一現，因為這家晶片設計公司正準備迎接第二輪競爭 分析 高通進軍個人電腦領域至少目前來看是安全的，因為陪審團發現其行動處理器設計並未像這家英國晶片設計師所聲稱的那樣侵犯 Arm Holdings 的許可。]]></description>
+      <description><![CDATA[勝利可能是短暫的，因為晶片設計商正在為第二輪比賽做好準備 分析 高通進軍 PC 領域是安全的，至少目前如此。團發現其行動處理器設計並未像英國晶片設計商聲稱的那樣違反Arm Holdings 的許可。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</guid>
       <pubDate>Mon, 23 Dec 2024 21:12:02 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 23 Dec 2024 17:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>帕克太陽探測器將在聖誕節前夕與太陽進行熱烈的約會</title>
+      <title>帕克太陽探測器將於聖誕節前夕與太陽進行極熱約會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/parker_solar_probe_sun/</link>
       <description><![CDATA[Ho-ho-holy heatshield！  NASA 的帕克太陽探測器計劃在聖誕節前夕最接近太陽，距離恆星表面約 380 萬英里。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/parker_solar_probe_sun/</guid>
@@ -50,14 +57,14 @@
     <item>
       <title>疑似 LockBit 開發者面臨美國引渡，“是為了錢”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/lockbit_ransomware_dev_extradition/</link>
-      <description><![CDATA[一名俄羅斯和以色列雙重國籍者於 8 月被捕 一名涉嫌 LockBit 勒索軟體開發者被拘留在以色列並等待引渡到美國。]]></description>
+      <description><![CDATA[俄羅斯和以色列雙重國籍人士於 8 月被捕 一名涉嫌 LockBit 勒索軟體的開發者在以色列被拘留，正在等待引渡到美國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/lockbit_ransomware_dev_extradition/</guid>
       <pubDate>Mon, 23 Dec 2024 13:31:10 GMT</pubDate>
     </item>
     <item>
       <title>OneOdio Focus A5：大電池、廉價的聲音和便宜的價格</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/oneodio_focus_a5_headphones/</link>
-      <description><![CDATA[價格低廉的耳罩式設備，但主動降噪功能無法阻擋頌歌歌手的聲音 評價  OneOdio 發布了一套耳罩式降噪耳機， 59英鎊（69美元）的價格顯然很划算。然而，它們也是「一分錢一分貨」這句格言的典型例子，甚至可能還差一點。]]></description>
+      <description><![CDATA[價格低廉的耳罩式設備，但主動降噪功能無法阻擋頌歌歌手 評測 OneOdio 發布了一套耳罩式降噪耳機明顯的特價為59 英鎊（69 美元）。然而，它們也是「一分錢一分貨」這句格言的一個典型例子，甚至可能更少。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/oneodio_focus_a5_headphones/</guid>
       <pubDate>Mon, 23 Dec 2024 11:32:09 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Sun, 22 Dec 2024 16:22:12 GMT</pubDate>
     </item>
     <item>
-      <title>拜登對科技併購的反壟斷打擊可能會持續到川普執政時期</title>
+      <title>拜登對科技併購的反壟斷打擊可能會持續到川普執政期間</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</link>
-      <description><![CDATA[莉娜汗的任期可能會結束，但她幫助建立的監管障礙不會消失 分析  當唐納德·川普於1 月20 日開始第二個任期時，許多期待全面徹底的改變。但在科技界，當談到併購時，那些希望放鬆監管的人可能會感到失望。 …]]></description>
+      <description><![CDATA[莉娜汗(Lina Khan) 的任期可能會結束，但她幫助建立的監管障礙不會消失 分析 當唐納德·特朗普(Donald Trump) 於1 月20 日就任第二個任期時，許多人預計全面的變化。但在科技公司中，當涉及併購時，那些希望放鬆監管的人可能會失望。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/21/trump_tech_merger_acquisition/</guid>
       <pubDate>Sat, 21 Dec 2024 15:30:07 GMT</pubDate>
     </item>
@@ -99,21 +106,21 @@
     <item>
       <title>Adélie Linux 1.0 – 小、快，但還沒成熟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/adelie_linux_1_beta_6/</link>
-      <description><![CDATA[非常緊湊，非常跨平台，非常長的測試期 Adélie Linux 的Beta 6 即將到來，距離Beta 1 僅過了六年多– 但他們確實說，好事會降臨到那些等待的人身上...]]></description>
+      <description><![CDATA[非常緊湊，非常跨平台，非常長的測試期 Adélie Linux 的Beta 6 即將到來，距Beta 1 僅僅六年多- 但他們確實說，好事會降臨到那些等待的人身上...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/adelie_linux_1_beta_6/</guid>
       <pubDate>Fri, 20 Dec 2024 15:30:06 GMT</pubDate>
     </item>
     <item>
       <title>Automattic 與 WP Engine WordPress 之戰變得非常煩人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</link>
-      <description><![CDATA[黎明時分岔......但這對開源來說不是一個好兆頭 意見 我對此感到非常厭倦。自 2003 年 WordPress 推出以來，我一直是一名快樂的 WordPress 用戶，我與 Vignette（自被 OpenText 收購後）吻別。 WordPress 比其他替代方案更容易使用；它是開源的；而且它是免費的。這是一場勝利！ ... ]]></description>
+      <description><![CDATA[黎明時分岔...但這對開源來說不是一個好兆頭 意見 我對此感到非常厭倦。自 2003 年 WordPress 推出以來，我一直是一名快樂的 WordPress 用戶，我與 Vignette（自被 OpenText 收購後）吻別。 WordPress 比其他替代方案更容易使用；它是開源的；而且它是免費的。這是一場勝利！ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/opinion_column_wordpress/</guid>
       <pubDate>Fri, 20 Dec 2024 13:32:07 GMT</pubDate>
     </item>
     <item>
       <title>適用於 Apple Mac 的 Fedora Asahi Remix 41 已推出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</link>
-      <description><![CDATA[如果您在 M1 或 M2 上運行 Linux，新的閃亮元素 Asahi Linux 的 Fedora 41 版本已經發布 - Apple Silicon Mac 的首選 Linux 發行版。]]></description>
+      <description><![CDATA[如果您在 M1 或 M2 上運行 Linux，新的閃亮元素 Asahi Linux 的 Fedora 41 版本已推出 - Apple Silicon Mac 的首選 Linux 發行版。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/fedora_asahi_41_out/</guid>
       <pubDate>Fri, 20 Dec 2024 09:28:08 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 20 Dec 2024 07:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>中國探月任務的岩石顯示月球的歷史需要修改</title>
+      <title>中國月球探測任務發現的岩石顯示月球歷史需要修改</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</link>
       <description><![CDATA[與此同時，美國宇航局簽署了阿爾忒彌斯軟體升級 中國科學家在分析了嫦娥六號任務返回地球的樣本後認為是時候改寫月球的歷史了。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/chinese_moon_samples_analysis/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[是的，法學碩士可以承擔繁重的工作。但祝你好運，有人提供證據 CANALYS FORUMS APAC 生成式人工智慧幾乎在每個領域都得到了熱烈的採用，但資訊安全專家對於它是否真正對紅隊有幫助存在分歧測試企業系統的攻擊者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/20/gen_ai_red_teaming/</guid>
       <pubDate>Fri, 20 Dec 2024 03:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在 Windows 11 24H2 上遇到了更多令人頭痛的問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/</link>
-      <description><![CDATA[用戶報告作業系統更新時出現靜默聲 微軟已記錄了Windows 11 24H2 的一些新的已知問題，並提出了更多的安全措施，直到問題得到解決。 .]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/19/windows_11_24h2_issues/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
