@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 27 Dec 2024 14:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 17:35:29 GMT</lastBuildDate>
+    <item>
+      <title>微軟在Windows 11 24H2頑皮清單中又增加了一個問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/27/microsoft_windows_11_security_update/</link>
+      <description><![CDATA[Santa Satya 正好趕上聖誕節，又在他的袋子裡裝了一個問題 Windows 11 24H2 的已知問題還在繼續，正好趕上節日季節又出現了一個新問題：安裝了作業系統使用可移動媒體？它有可能停止接收安全性更新。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/microsoft_windows_11_security_update/</guid>
+      <pubDate>Fri, 27 Dec 2024 17:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>帕克太陽探測器向地球發送「還活著」的聲音</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/27/parker_solar_probe_sends_a/</link>
-      <description><![CDATA[這是一場勝利 對於太陽愛好者來說，有一個好消息：帕克太陽探測器似乎在與我們最近的恆星的近距離接觸中倖存了下來。 &gt;]]></description>
+      <description><![CDATA[這是一場勝利 對於太陽困擾者來說有個好消息：帕克太陽探測器似乎在與我們最近的恆星的近距離接觸中倖存下來。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/parker_solar_probe_sends_a/</guid>
       <pubDate>Fri, 27 Dec 2024 14:08:05 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>天真的<em>Reg</em>駭客認為他可以一勞永逸地戰勝聖誕節食物昏迷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/26/christmas_walking/</link>
-      <description><![CDATA[一個人計劃毀掉他的假期 評論 直到最近我才開始陶醉於黑色星期五的感覺。我第一次涉足電子商務盛會是在去年，當時我買了一台 PS5，本著同樣的精神，我終於在 Apple Watch Ultra 2 推出後的另一周購買了它。並不是因為我需要動力來擺脫困境並開始鍛煉，據我所知，這是這麼多購買背後的原因。 ...]]></description>
+      <description><![CDATA[一個人的計劃是毀掉他的假期，讓其變得更好 評論  直到最近我才開始陶醉於黑色星期五的感覺。去年，我第一次涉足電子商務盛會，當時我購買了一台 PS5，本著同樣的精神，自推出以來，我一直渴望擁有一台 Apple Watch Ultra 2，上週，我終於下定決心購買它。據我所知，這並不是因為我需要動力來開始鍛煉，這就是我購買如此多產品的原因。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/26/christmas_walking/</guid>
       <pubDate>Thu, 26 Dec 2024 10:27:13 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Microsoft Edge 憑藉 2024 年一些引人注目的使用統計數據取得了勝利</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</link>
-      <description><![CDATA[有很多大數字，但市場佔有率不是其中之一 微軟發布了其Edge 瀏覽器的年度回顧，並大談人工智慧聊天，同時略過了該軟體停滯不前的市場分享…]]></description>
+      <description><![CDATA[有很多大數字，但市場份額不是其中之一 微軟發布了對其Edge 瀏覽器的一年回顧，並談論了人工智能驅動的聊天，同時略微跳過了該軟體停滯不前的市場分享...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</guid>
       <pubDate>Tue, 24 Dec 2024 14:00:15 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>你比AI更物有所值嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/ai_job_replacement_comment/</link>
-      <description><![CDATA[科技供應商開始大聲說出安靜的部分 - 企業真的需要這麼多員工嗎？隨著技術的進步，似乎更多的是控製成本和員工數量。]]></description>
+      <description><![CDATA[科技供應商開始大聲說出安靜的部分 - 企業真的需要這麼多員工嗎？隨著技術的進步，似乎更多的是控製成本和人員數量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/ai_job_replacement_comment/</guid>
       <pubDate>Mon, 23 Dec 2024 23:26:13 GMT</pubDate>
     </item>
@@ -90,16 +97,16 @@
       <pubDate>Mon, 23 Dec 2024 21:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>陪審團對高通的人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
+      <title>陪審團對高通人工智慧 PC 雄心不予考慮，但 Arm 打算重審</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</link>
-      <description><![CDATA[勝利可能是短暫的，因為晶片設計商正在為第二輪比賽做好準備 分析 高通進軍 PC 領域是安全的，至少目前如此。團發現其行動處理器設計並未像英國晶片設計商聲稱的那樣違反Arm Holdings 的許可。]]></description>
+      <description><![CDATA[這場勝利或許只是曇花一現，因為這家晶片設計公司正準備迎接第二輪競爭 分析 高通進軍個人電腦領域至少目前來看是安全的，因為陪審團發現其行動處理器設計並未像這家英國晶片設計師所聲稱的那樣侵犯 Arm Holdings 的許可。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/qualcomm_arm_trial/</guid>
       <pubDate>Mon, 23 Dec 2024 21:12:02 GMT</pubDate>
     </item>
     <item>
       <title>SvarDOS：DR-DOS 作為開源作業系統重生</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</link>
-      <description><![CDATA[#DOScember 的驚喜：安裝在一張軟碟上，但具有支援網路的套件管理器 隨著最近切換到不同的內核，SvarDOS 從FreeDOS 的發行版轉變為更大的獨立性。]]></description>
+      <description><![CDATA[#DOScember 的驚喜：安裝在一張軟碟上，但具有支援網路的套件管理器 隨著最近切換到不同的內核，SvarDOS 從FreeDOS 的發行版轉向了更大的獨立性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/svardos_drdos_reborn/</guid>
       <pubDate>Mon, 23 Dec 2024 19:30:06 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Mon, 23 Dec 2024 17:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>帕克太陽探測器將於聖誕節前夕與太陽進行極熱約會</title>
+      <title>帕克太陽探測器將在聖誕節前夕與太陽進行熱烈的約會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/23/parker_solar_probe_sun/</link>
-      <description><![CDATA[Ho-ho-holy heatshield！  NASA 的帕克太陽探測器計劃在聖誕節前夕最接近太陽，距離恆星表面約 380 萬英里。]]></description>
+      <description><![CDATA[哦，哦，天哪，隔熱罩！  美國宇航局的帕克太陽探測器計劃於聖誕節前夕最接近太陽，距離恆星表面約 380 萬英里。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/parker_solar_probe_sun/</guid>
       <pubDate>Mon, 23 Dec 2024 15:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[此外，Ascension 通知 560 萬受害者、Krispy Kreme 強盜挺身而出、LockBit 4.0 發布等等 簡述 Google 已宣布計劃允許其企業客戶開始明年將對用戶進行“指紋識別”，但英國資訊專員辦公室（ICO）對此並不滿意。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/23/uk_ico_not_happy_with/</guid>
       <pubDate>Mon, 23 Dec 2024 09:31:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>對大型科技公司進行罰款是行不通的。讓他們將非法訓練的法學碩士作為公共領域贈送</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/22/ai_poisoned_tree/</link>
-      <description><![CDATA[無論如何，它都是由我們的數據製成的，所以它應該是我們的數據，可以隨心所欲地使用 意見 去年，我在El 上寫了一篇文章Reg 關於被ChatGPT 謀殺的事件，作為濫用大型語言模型和其他形式人工智能的潛在危害的例證。 =&#39;/data_centre/ _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/22/ai_poisoned_tree/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:22:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
