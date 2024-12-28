@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 27 Dec 2024 21:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 03:19:25 GMT</lastBuildDate>
+    <item>
+      <title>經過 24 秒的引擎測試後，新格倫火箭已做好飛行準備</title>
+      <link>https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/</link>
+      <description><![CDATA[同樣在周五，該公司獲得了新格倫發射嘗試的發射許可。]]></description>
+      <guid>https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/</guid>
+      <pubDate>Sat, 28 Dec 2024 02:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>YouTuber 透過檢測欺騙性電子郵件贏得了與假冒任天堂律師的 DMCA 鬥爭</title>
       <link>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 27 Dec 2024 19:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>醜陋的聖誕毛衣的物理原理</title>
+      <title>醜陋聖誕毛衣的物理學</title>
       <link>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</link>
       <description><![CDATA[毛衣折疊、拉伸或弄皺的方式決定了它如何進入幾種靜止元狀態之一。]]></description>
       <guid>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>OpenAI 捍衛營利性轉變對於維持人道使命至關重要</title>
       <link>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</link>
-      <description><![CDATA[伊隆馬斯克可能是阻止 OpenAI 獲利轉型的最後一個障礙。]]></description>
+      <description><![CDATA[馬斯克（Elon Musk）可能是阻止 OpenAI 營利性轉變的最後障礙。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</guid>
       <pubDate>Fri, 27 Dec 2024 16:58:10 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>微波處理的葡萄可以用於量子感測嗎？</title>
       <link>https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/</link>
-      <description><![CDATA[切半的葡萄可以增強磁場，為量子感測設備的替代微波諧振器鋪平了道路。]]></description>
+      <description><![CDATA[減半的葡萄增強了磁場，為量子感測設備的替代微波諧振器鋪平了道路。]]></description>
       <guid>https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/</guid>
       <pubDate>Fri, 27 Dec 2024 15:46:03 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>磁性變形表面無需抓住即可移動物體</title>
       <link>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</link>
-      <description><![CDATA[「鐵磁彈性體」片在磁性影響下會膨脹和彎曲。]]></description>
+      <description><![CDATA[「鐵磁彈性體」薄片在磁力影響下可以膨脹和彎曲。]]></description>
       <guid>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</guid>
       <pubDate>Fri, 27 Dec 2024 13:45:03 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[從 2003 年的《太空模擬》到 2022 年的《後院生存》，我們在 2024 年找到了這些遊戲。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/ars-favorite-games-of-2024-that-were-not-released-in-2024/</guid>
       <pubDate>Fri, 27 Dec 2024 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直將我的 Google 試算表變成適合手機使用的 Web 應用，我無法停止</title>
-      <link>https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/</link>
-      <description><![CDATA[我如何使用電子表格和 Glide 處理外帶、香料和膳食創意。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/</guid>
-      <pubDate>Thu, 26 Dec 2024 12:40:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
