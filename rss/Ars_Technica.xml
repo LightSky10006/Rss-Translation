@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 30 Dec 2024 15:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 16:41:36 GMT</lastBuildDate>
     <item>
-      <title>我們差點錯過的十個很酷的科學故事</title>
+      <title>舉報人發現 80 萬輛大眾電動車的未加密位置數據</title>
+      <link>https://arstechnica.com/cars/2024/12/whistleblower-finds-unencrypted-location-data-for-800000-vw-evs/</link>
+      <description><![CDATA[《明鏡周刊》和混沌電腦俱樂部能夠將數據與車主及其行程連結起來。]]></description>
+      <guid>https://arstechnica.com/cars/2024/12/whistleblower-finds-unencrypted-location-data-for-800000-vw-evs/</guid>
+      <pubDate>Mon, 30 Dec 2024 15:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們差點錯過的十個精彩科學故事</title>
       <link>https://arstechnica.com/science/2024/12/ten-cool-science-stories-we-almost-missed/</link>
       <description><![CDATA[青銅時代的戰鬥、道德哲學和 Reddit 的 AITA、蒙德里安的分形樹以及其他七篇引人入勝的論文。]]></description>
       <guid>https://arstechnica.com/science/2024/12/ten-cool-science-stories-we-almost-missed/</guid>
@@ -20,14 +27,14 @@
       <pubDate>Mon, 30 Dec 2024 13:58:40 GMT</pubDate>
     </item>
     <item>
-      <title>您的大腦何時會認為某件事值得等待？</title>
+      <title>你的大腦什麼時候認為某件事值得等待？</title>
       <link>https://arstechnica.com/science/2024/12/when-does-your-brain-think-something-is-worth-the-wait/</link>
-      <description><![CDATA[患有腦損傷的人判斷等待何時值得的能力有所不同。]]></description>
+      <description><![CDATA[腦損傷患者的判斷等待何時有回報的能力有所不同。]]></description>
       <guid>https://arstechnica.com/science/2024/12/when-does-your-brain-think-something-is-worth-the-wait/</guid>
       <pubDate>Mon, 30 Dec 2024 13:15:45 GMT</pubDate>
     </item>
     <item>
-      <title>你可以喜歡或討厭人工智慧，但它殺死了昂貴的 PC 和 Mac 的蹩腳 8GB 版本</title>
+      <title>你可以喜歡人工智慧，也可以討厭人工智慧，但它殺死了昂貴的 PC 和 Mac 的蹩腳 8GB 版本</title>
       <link>https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-one-unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/</link>
       <description><![CDATA[專欄：人工智慧已經成為 8GB 內存起售價 1,600 美元的電腦的治癒方法。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-one-unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/</guid>
@@ -41,14 +48,14 @@
       <pubDate>Mon, 30 Dec 2024 12:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>經過 60 年的航太補丁，以下是我們最喜歡的一些</title>
+      <title>經過 60 年的太空飛行補丁，以下是我們最喜歡的一些補丁</title>
       <link>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</link>
       <description><![CDATA[事實證明，美國間諜衛星機構在補丁設計方面是最優秀的。]]></description>
       <guid>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</guid>
       <pubDate>Sun, 29 Dec 2024 12:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 RTO、人工智慧威脅的逼近，科技工人運動不斷增長</title>
+      <title>隨著 RTO、人工智慧威脅的逼近，科技工人運動不斷成長</title>
       <link>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</link>
       <description><![CDATA[支持者表示，到 2024 年，科技工人的運動將變得大到不容忽視。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Gamer 敦促 YouTube 更改 DMCA 刪除流程，以結束版權濫用。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</guid>
       <pubDate>Fri, 27 Dec 2024 19:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>醜陋的聖誕毛衣的物理原理</title>
-      <link>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</link>
-      <description><![CDATA[毛衣折疊、拉伸或弄皺的方式決定了它如何進入幾種靜止元狀態之一。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:00:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
