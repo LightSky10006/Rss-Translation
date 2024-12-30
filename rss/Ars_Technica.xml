@@ -4,16 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 29 Dec 2024 12:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:56:27 GMT</lastBuildDate>
     <item>
-      <title>經過 60 年的航太補丁，以下是我們最喜歡的一些</title>
+      <title>密鑰技術很優雅，但它絕對不是可用的安全性</title>
+      <link>https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/</link>
+      <description><![CDATA[正好趕上假期技術支援會議，以下是有關密鑰的知識。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/</guid>
+      <pubDate>Mon, 30 Dec 2024 12:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>經過 60 年的太空飛行補丁，以下是我們最喜歡的一些補丁</title>
       <link>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</link>
-      <description><![CDATA[事實證明，美國間諜衛星機構在補丁設計方面是最優秀的。]]></description>
+      <description><![CDATA[事實證明，美國間諜衛星機構在補丁設計方面是最好的。]]></description>
       <guid>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</guid>
       <pubDate>Sun, 29 Dec 2024 12:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 RTO 和 AI 威脅的日益加劇，科技工作者運動日益增多</title>
+      <title>隨著 RTO、人工智慧威脅的逼近，科技工人運動不斷成長</title>
       <link>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</link>
       <description><![CDATA[支持者表示，到 2024 年，科技工人的運動將變得大到不容忽視。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Dec 2024 19:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 捍衛營利性轉變對於維持人道使命至關重要</title>
+      <title>OpenAI 為營利性轉型辯護，稱其對維持人道主義使命至關重要</title>
       <link>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</link>
       <description><![CDATA[馬斯克（Elon Musk）可能是阻止 OpenAI 營利性轉變的最後障礙。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 27 Dec 2024 16:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>微波加熱的葡萄可以用於量子感測嗎？</title>
+      <title>微波處理的葡萄可以用於量子感測嗎？</title>
       <link>https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/</link>
       <description><![CDATA[減半的葡萄增強了磁場，為量子感測設備的替代微波諧振器鋪平了道路。]]></description>
       <guid>https://arstechnica.com/science/2024/12/could-microwaved-grapes-be-used-for-quantum-sensing/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[雷德蒙德將 Office 與安全、雲端運算服務打包在一起的做法受到了密切關注。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/ftc-launches-probe-of-microsoft-over-bundling/</guid>
       <pubDate>Fri, 27 Dec 2024 15:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>磁性變形表面無需抓住即可移動物體</title>
-      <link>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</link>
-      <description><![CDATA[「鐵磁彈性體」片在磁性影響下會膨脹和彎曲。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</guid>
-      <pubDate>Fri, 27 Dec 2024 13:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
