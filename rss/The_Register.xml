@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 31 Dec 2024 16:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 18:16:49 GMT</lastBuildDate>
     <item>
-      <title>美國財政部公佈 BeyondTrust 密鑰洩漏事件影響範圍</title>
+      <title>第二架濟州航空 737-800 在致命墜機後出現機械問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</link>
+      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據稱類似的起落架問題，該航班被迫返回起點。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</guid>
+      <pubDate>Tue, 31 Dec 2024 18:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國財政部公佈了 BeyondTrust 密鑰洩露的爆炸範圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</link>
       <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>英國監管機構對 IBM 收購 HashiCorp 展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</link>
-      <description><![CDATA[毫不奇怪，一項價值數十億美元的交易受到了 CMA 的審查 英國競爭和市場管理局 (CMA) 已對 IBM 收購 HashiCorp 展開合併調查。]]></description>
+      <description><![CDATA[不出意外，一項價值數十億美元的交易受到 CMA 審查 英國競爭與市場管理局 (CMA) 對 IBM 收購 HashiCorp 發起合併調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</guid>
       <pubDate>Tue, 31 Dec 2024 07:30:13 GMT</pubDate>
     </item>
@@ -57,14 +64,14 @@
     <item>
       <title>法學碩士發動供應鏈攻擊只是時間問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/29/llm_supply_chain_attacks/</link>
-      <description><![CDATA[「最令人擔憂的是魚叉式網路釣魚和社會工程」 訪談  現在，犯罪者已經意識到，沒有必要為了任何邪惡的目的而訓練自己的法學碩士學位- 這要更便宜、更容易竊取憑證，然後越獄現有憑證——使用生成式人工智慧進行大規模供應鏈攻擊的威脅變得更加現實。]]></description>
+      <description><![CDATA[「最令人擔憂的是魚叉式網路釣魚和社會工程」 訪談 現在犯罪者已經意識到沒有必要為任何邪惡目的培訓自己的法學碩士- 這很重要更便宜、更容易地竊取憑證，然後越獄現有憑證 - 使用生成人工智能的大規模供應鏈攻擊的威脅變得更加真實。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/29/llm_supply_chain_attacks/</guid>
       <pubDate>Sun, 29 Dec 2024 18:20:11 GMT</pubDate>
     </item>
     <item>
       <title>警方拿下 LockBit、ALPHV 如何導致 RansomHub 迅速崛起</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</link>
-      <description><![CDATA[砍掉一個頭，還會在原處長出兩個頭 RansomHub 是今年早些時候出現的勒索軟體集團，它迅速獲得了發展勢頭，超越了其他犯罪同行，對受害者的打擊尤其嚴重。該組織在其洩密網站上點名批評了數百個組織，同時要求各行各業支付高額賠償。]]></description>
+      <description><![CDATA[砍掉一個頭，在原來的地方再長出兩個頭 RansomHub 是今年早些時候出現的勒索軟體集團，迅速發展勢頭，超過了其他犯罪分子，對受害者的打擊尤其嚴重。該組織在其洩密網站上點名並羞辱了數百個組織，同時要求各個行業支付過高的費用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</guid>
       <pubDate>Sat, 28 Dec 2024 12:34:12 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>OpenAI 計劃以盈利為目標迎接新年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/27/openai_for_profit_push/</link>
-      <description><![CDATA[我們已經改變了交易，祈禱我們不要再改變它了 在競爭日益激烈和支持下一代人工智慧模型所需的計算需求飆升的情況下，OpenAI 正在重組其公司結構-再一次…]]></description>
+      <description><![CDATA[我們已經改變了交易，祈禱我們不要再改變它 在日益激烈的競爭和支持下一代人工智慧模型所需的計算需求飆升的情況下，OpenAI 正在重組其公司結構-再一次......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/openai_for_profit_push/</guid>
       <pubDate>Fri, 27 Dec 2024 20:17:53 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 27 Dec 2024 07:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>天真的<em>Reg</em>駭客認為他可以一勞永逸地戰勝聖誕節食物昏迷</title>
+      <title>天真的<em>Reg</em> hack 認為他可以一勞永逸地戰勝聖誕節食物昏迷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/26/christmas_walking/</link>
       <description><![CDATA[一個人計劃毀掉他的美好假期 評論 直到最近我才開始陶醉於黑色星期五的感覺。我第一次涉足電子商務盛會是在去年，當時我買了一台 PS5，本著同樣的精神，我終於在 Apple Watch Ultra 2 推出後的另一周購買了它。並不是因為我需要動力來擺脫困境並開始鍛煉，據我所知，這是這麼多購買背後的原因。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/26/christmas_walking/</guid>
@@ -118,32 +125,25 @@
       <pubDate>Wed, 25 Dec 2024 13:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>去年 Windows 醜陋毛衣的獲勝者是...</title>
+      <title>去年 Windows Ugly Sweater 的獲勝者是...</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/25/windows_ugly_sweaters/</link>
       <description><![CDATA[Register 讀者已發言 The Register 讀者已發言 - 「獲勝者」將受到可怕的 Windows XP 聖誕毛衣的懲罰。副駕駛呢？從絕大多數評論來看，前往陽光照不到的地方。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/25/windows_ugly_sweaters/</guid>
       <pubDate>Wed, 25 Dec 2024 10:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>技術問題導緻美國航空在美國境內的航班短暫飛行</title>
+      <title>技術問題導緻美國航空短暫飛往美國境內航班</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/american_airlines_grounds/</link>
       <description><![CDATA[未指明的「供應商技術」導致了長達一小時的停止訂單 聖誕節前夕，技術故障導緻美國航空公司在美國各地的航班短暫停留。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/american_airlines_grounds/</guid>
       <pubDate>Tue, 24 Dec 2024 16:26:47 GMT</pubDate>
     </item>
     <item>
-      <title>Androxgh0st 如何從 Mozi 的骨灰中崛起，成為“最受歡迎的惡意軟體”</title>
+      <title>Androxgh0st 如何從 Mozi 的廢墟中崛起並成為“最受歡迎的惡意軟體”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/androxgh0st_botnet_mozi/</link>
       <description><![CDATA[殭屍網路的經營者「受到與中國政府相似利益的驅動」 去年Mozi 殭屍網路神秘消失後，一個新的、看似更強大的殭屍網路Androxgh0st 浴火重生，並迅速崛起。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/androxgh0st_botnet_mozi/</guid>
       <pubDate>Tue, 24 Dec 2024 16:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Edge 憑藉 2024 年一些引人注目的使用統計數據取得了勝利</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</link>
-      <description><![CDATA[有很多大數字，但市場份額不是其中之一 微軟發布了對其Edge 瀏覽器的一年回顧，並談論了人工智能驅動的聊天，同時略微跳過了該軟體停滯不前的市場分享...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/24/microsoft_edge_2024/</guid>
-      <pubDate>Tue, 24 Dec 2024 14:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
