@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 12:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 13:36:50 GMT</lastBuildDate>
+    <item>
+      <title>AWS 沿著 Iceberg 路徑統一分析平台</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</link>
+      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，還有其他障礙 分析 上週，AWS 雙腳跳入冰山。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，它又增加了一層。占主導地位的雲端平台提供者推出了S3 表，用於將資料儲存在Apache Iceberg（一種開放式表格式(OTF)）中，它使開發人員和資料工程師能夠將他們選擇的分析引擎帶到他們的資料中，無論資料位於何處，而無需移動資料它…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
+    </item>
     <item>
       <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
-      <description><![CDATA[它能推翻 x86 和 Arm 嗎，還是差距太大而無法縮小？  特徵  RISC-V 一直被認為是 Arm 和 x86 的挑戰者，它提供開放的免版稅架構，保證靈活性和創新性，且無需支付授權費用。但儘管有這麼多噪音，你更有可能發現它埋在物聯網設備和不起眼的嵌入式系統中，而不是為任何通常會成為頭條新聞的東西提供動力。]]></description>
+      <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
       <pubDate>Thu, 02 Jan 2025 11:45:11 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
-      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的，並且已經有一百萬用戶證明了這一點 320 x 240 解析度的功能手機很難讓人興奮，但Shioupyn Shen 認為，這樣的設備恰恰即將以一種新的方式將數百萬人帶入網路。]]></description>
+      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
@@ -85,12 +92,12 @@
     <item>
       <title>美國財政部公佈了 BeyondTrust 密鑰洩露的爆炸範圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</link>
-      <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
+      <description><![CDATA[不法分子侵入受影響工作站，資料遭竊 美國財政部承認，不法分子侵入其係統，存取文件，這被稱為「重大事件」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
       <pubDate>Tue, 31 Dec 2024 15:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>報導稱美國聯邦航空局忽視了大多數舉報人的投訴</title>
+      <title>報導稱聯邦航空管理局忽視了大多數舉報人的投訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</link>
       <description><![CDATA[官員們不敢苟同，聲稱作者誤解了國會報告 分析 擔心航空安全狀況？您可能發現了一些問題，因為據稱聯邦航空管理局在沒有發現違規行為的情況下駁回或關閉了大多數舉報人報告。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</guid>
@@ -106,12 +113,12 @@
     <item>
       <title>英國監管機構對 IBM 收購 HashiCorp 展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</link>
-      <description><![CDATA[毫不奇怪，一項價值數十億美元的交易受到了 CMA 的審查 英國競爭和市場管理局 (CMA) 已對 IBM 收購 HashiCorp 展開合併調查。]]></description>
+      <description><![CDATA[不出意外，一項價值數十億美元的交易受到 CMA 審查 英國競爭與市場管理局 (CMA) 對 IBM 收購 HashiCorp 發起合併調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</guid>
       <pubDate>Tue, 31 Dec 2024 07:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>隨著白宮介入，更多電信公司確認 Salt Typhoon 有違規行為</title>
+      <title>隨著白宮的介入，更多電信公司證實鹽颱風違規</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</link>
       <description><![CDATA[這些入侵使北京能夠「對數百萬人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，中國政府支持的窺探者今年早些時候訪問了他們的部分系統，而白宮將另一家尚未命名的電信公司加入鹽颱風破壞的名單中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[「最令人擔憂的是魚叉式網路釣魚和社會工程」 訪談 現在犯罪者已經意識到沒有必要為任何邪惡目的培訓自己的法學碩士- 這很重要更便宜、更容易地竊取憑證，然後越獄現有憑證 - 使用生成人工智能的大規模供應鏈攻擊的威脅變得更加真實。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/29/llm_supply_chain_attacks/</guid>
       <pubDate>Sun, 29 Dec 2024 18:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>警方拿下 LockBit、ALPHV 如何導致 RansomHub 迅速崛起</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</link>
-      <description><![CDATA[砍掉一個頭，在原來的地方再長出兩個頭 RansomHub 是今年早些時候出現的勒索軟體集團，迅速發展壯大，超越了其他犯罪分子，對受害者的打擊尤其嚴重。該組織在其洩密網站上點名並羞辱了數百個組織，同時要求各行業支付過高的費用。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</guid>
-      <pubDate>Sat, 28 Dec 2024 12:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
