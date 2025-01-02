@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 10:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 11:10:33 GMT</lastBuildDate>
+    <item>
+      <title>貴賓博克訪問波蘭華沙</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</link>
+      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！ BORK！顯示器出現問題——這確實是國際性的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</guid>
+      <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>微軟的新年禮物：驚喜，你的掃描器無法運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</link>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>科學家認為每秒 10 位元的大腦資料速率微不足道</title>
+      <title>科學家思考每秒 10 位元的微不足道的腦數據速率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/boffins_peg_brain_data_rate/</link>
       <description><![CDATA[你可能不需要高頻寬腦機介面 加州理工學院的研究人員估計人類思維的速度僅為每秒10 位，這種數據速率如此悠閒，以至於強調了這種需求進一步研究大腦功能並對腦機介面和人工智慧的說法提出質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/boffins_peg_brain_data_rate/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>隨著白宮的介入，更多電信公司證實鹽颱風違規</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</link>
-      <description><![CDATA[這些入侵使北京能夠「對數百萬人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，中國政府支持的窺探者今年早些時候訪問了他們的部分系統，而白宮將另一家尚未命名的電信公司加入鹽颱風破壞的名單中。]]></description>
+      <description><![CDATA[這些入侵行為讓北京得以「對數百萬個人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，今年早些時候，中國政府支持的監聽者訪問了他們的部分系統，而白宮將另一家尚未透露名稱的電信公司添加到被 Salt Typhoon 入侵的名單中…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</guid>
       <pubDate>Mon, 30 Dec 2024 23:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[飽和點以及任天堂和世嘉即將到來 功能 還記得翻閱家用電腦特價目錄時的興奮嗎？或者也許渴望地註視著英國 WH Smith（如果您住在美國，則為 ComputerLand）的節日科技展示？退回到 1984 年，以及家用電腦最後一次的偉大歡呼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/28/christmas_1984_home_computers/</guid>
       <pubDate>Sat, 28 Dec 2024 09:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 計劃以盈利為目標迎接新年</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/27/openai_for_profit_push/</link>
-      <description><![CDATA[我們已經改變了交易，祈禱我們不要再改變它 在日益激烈的競爭和支持下一代人工智慧模型所需的計算需求飆升的情況下，OpenAI 正在重組其公司結構-再一次......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/openai_for_profit_push/</guid>
-      <pubDate>Fri, 27 Dec 2024 20:17:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
