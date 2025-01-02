@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 21:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 21:35:02 GMT</lastBuildDate>
+    <item>
+      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
+      <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
+      <pubDate>Thu, 02 Jan 2025 21:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果同意以 9,500 萬美元和解 Siri 窺探訴訟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/apple_siri_lawsuit/</link>
+      <description><![CDATA[據稱，即使是拉鍊的聲音也足以開始錄音 蘋果公司已在加利福尼亞州提交了一份擬議和解協議，建議支付 9500 萬美元來解決 Siri 記錄用戶對話的指控未經同意並允許承包商監聽......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/apple_siri_lawsuit/</guid>
+      <pubDate>Thu, 02 Jan 2025 21:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>千年蟲問題已經過去 25 年了，讓我們都很高興這件事發生在很久以前</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</link>
@@ -34,7 +48,7 @@
       <pubDate>Thu, 02 Jan 2025 16:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>被雲端搞砸了：硬體供應商尋找刷新的理由</title>
+      <title>雲端運算的衝擊：硬體供應商尋求更新的理由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</link>
       <description><![CDATA[全球 40% 的伺服器使用時間超過 6 年，消耗 66% 的直流能源，提供 7% 的計算。 HPE 表示，請刷新 目前駐留在全球資料中心的伺服器十分之四已經使用了至少六年。同時，這 40% 的切片不僅消耗了所有位元倉庫所用能源的 66%，而且僅提供了世界總計算量的 7%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</guid>
@@ -43,12 +57,12 @@
     <item>
       <title>Edgio 破產導致 Microsoft 端點發生變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
-      <description><![CDATA[聖誕節和新年之間的那個奇怪時刻——最適合改變生產項目 微軟在聖誕樹下為.NET 開發人員留下了一份不受歡迎的禮物——安裝程序和檔案分發的「意外」變化，這可能會影響生產系統…]]></description>
+      <description><![CDATA[聖誕節和新年之間的那個奇怪的時間- 非常適合改變生產項目 微軟為.NET 開發人員在樹下留下了一份不受歡迎的禮物- 對安裝程序和檔案分發的「意外」更改，這可能會影響生產系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</guid>
       <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>川普的關稅威脅可能使個人電腦價格上漲近一半</title>
+      <title>川普的關稅威脅可能會使個人電腦價格上漲近一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</link>
       <description><![CDATA[對計畫漲價的警告將2025 年美國市場出貨量成長預測限制在2% 即將上任的川普政府提出的進口關稅可能導緻美國PC 價格上漲46%，從而抑制市場成長2025 年，儘管Windows 升級截止日期迫在眉睫，而且供應商渴望推廣基於人工智慧的電腦。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>AWS 沿著 Iceberg 路徑統一分析平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</link>
-      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，還有其他障礙 分析 上週，AWS 雙腳跳入冰山。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，它又增加了一層。占主導地位的雲端平台提供者推出了S3 表，用於將資料儲存在Apache Iceberg（一種開放式表格式(OTF)）中，它使開發人員和資料工程師能夠將他們選擇的分析引擎帶到他們的資料中，無論資料位於何處，而無需移動資料它…]]></description>
+      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，仍有其他障礙 分析  上週，AWS 全心投入了 Iceberg。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，現在又增加了一層。這家占主導地位的雲端平台提供者推出了S3 Tables，用於以Apache Iceberg（一種開放式表格式(OTF)）儲存數據，該格式承諾開發人員和數據工程師能夠將他們選擇的分析引擎帶到他們的數據中，無論數據位於何處，而不必移動它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</guid>
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>貴賓博克訪問波蘭華沙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</link>
-      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！ BORK！顯示器出現問題——這確實是國際性的。]]></description>
+      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！物聯網顯示器出現問題—是真正的國際化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</guid>
       <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Thu, 02 Jan 2025 08:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
+      <title>4G功能手機能否藉助QVGA、瘦客戶端和遠端瀏覽器再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
       <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
@@ -120,7 +134,7 @@
     <item>
       <title>去年不應該發生但卻發生的八件事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</link>
-      <description><![CDATA[2024 年科技失敗恥辱榜 觀點  新年快樂！根據傳統，這是我們大膽展望未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
+      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</guid>
       <pubDate>Wed, 01 Jan 2025 13:30:09 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[使與 Snowflake 駭客攻擊相關的逮捕人數達到 3 一名美國陸軍士兵因兩項非法轉移機密電話記錄資訊的罪名被起訴，在德克薩斯州被捕。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</guid>
       <pubDate>Wed, 01 Jan 2025 08:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink 直連蜂窩網路即將登陸烏克蘭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</link>
-      <description><![CDATA[在馬斯克最好的手機上發送訊息時不需要手機訊號塔 烏克蘭行動電信商 Kyivstar 將透過 Starlink 推出直接到手機的衛星連線。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</guid>
-      <pubDate>Wed, 01 Jan 2025 08:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>第二架濟州航空 737-800 在致命墜機後出現機械問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</link>
-      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據稱類似的起落架問題，該航班被迫返回起點。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</guid>
-      <pubDate>Tue, 31 Dec 2024 18:06:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
