@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 11:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:23:26 GMT</lastBuildDate>
+    <item>
+      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
+      <description><![CDATA[它能推翻 x86 和 Arm 嗎，還是差距太大而無法縮小？  特徵  RISC-V 一直被認為是 Arm 和 x86 的挑戰者，它提供開放的免版稅架構，保證靈活性和創新性，且無需支付授權費用。但儘管有這麼多噪音，你更有可能發現它埋在物聯網設備和不起眼的嵌入式系統中，而不是為任何通常會成為頭條新聞的東西提供動力。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
+      <pubDate>Thu, 02 Jan 2025 11:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>貴賓博克訪問波蘭華沙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>微軟的新年禮物：驚喜，你的掃描器無法運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</link>
-      <description><![CDATA[Canon確認多功能裝置在執行Windows 11 24H2 時遇到困難 儘管微軟將eSCL 掃描協定的問題標記為已解決，但Windows 11 24H2 仍會導致多功能裝置出現問題。   ]]></description>
+      <description><![CDATA[Canon確認多功能裝置在Windows 11 24H2 中遇到困難 儘管Microsoft 將eSCL 掃描協定問題標記為已解決，但Windows 11 24H2 仍會導致多功能裝置出現問題。   ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</guid>
       <pubDate>Thu, 02 Jan 2025 10:16:10 GMT</pubDate>
     </item>
     <item>
       <title>施耐德電機警告未來資料中心將吞噬電網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</link>
-      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關了燈？」的四種情境。的電力消耗，該報告考慮了四種潛在的情景並提出了一些指導原則以防止其失控。]]></description>
+      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 一份報告考慮了四種潛在的情況，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</guid>
       <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
-      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
+      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的，並且已經有一百萬用戶證明了這一點 320 x 240 解析度的功能手機很難讓人興奮，但Shioupyn Shen 認為，這樣的設備恰恰即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>英國監管機構對 IBM 收購 HashiCorp 展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</link>
-      <description><![CDATA[不出意外，一項價值數十億美元的交易受到 CMA 審查 英國競爭與市場管理局 (CMA) 對 IBM 收購 HashiCorp 發起合併調查。]]></description>
+      <description><![CDATA[毫不奇怪，一項價值數十億美元的交易受到了 CMA 的審查 英國競爭和市場管理局 (CMA) 已對 IBM 收購 HashiCorp 展開合併調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</guid>
       <pubDate>Tue, 31 Dec 2024 07:30:13 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>警方拿下 LockBit、ALPHV 如何導致 RansomHub 迅速崛起</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</link>
-      <description><![CDATA[砍掉一個頭，在原來的位置再長出兩個頭 RansomHub 是今年早些時候出現的勒索軟體集團，迅速發展壯大，超越了其他犯罪分子，對受害者的打擊尤其嚴重。該組織在其洩密網站上點名並羞辱了數百個組織，同時要求各行業支付過高的費用。]]></description>
+      <description><![CDATA[砍掉一個頭，在原來的地方再長出兩個頭 RansomHub 是今年早些時候出現的勒索軟體集團，迅速發展壯大，超越了其他犯罪分子，對受害者的打擊尤其嚴重。該組織在其洩密網站上點名並羞辱了數百個組織，同時要求各行業支付過高的費用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/28/lockbit_alphv_disruptions_ransomhub_rise/</guid>
       <pubDate>Sat, 28 Dec 2024 12:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>1984 年聖誕節：8 位元家用電腦的最後狂歡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/28/christmas_1984_home_computers/</link>
-      <description><![CDATA[飽和點以及任天堂和世嘉即將到來 功能 還記得翻閱家用電腦特價目錄時的興奮嗎？或者也許渴望地註視著英國 WH Smith（如果您住在美國，則為 ComputerLand）的節日科技展示？退回到 1984 年，以及家用電腦最後一次的偉大歡呼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/28/christmas_1984_home_computers/</guid>
-      <pubDate>Sat, 28 Dec 2024 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
