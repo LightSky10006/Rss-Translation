@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 02 Jan 2025 12:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 15:35:55 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧產生的網路釣魚電子郵件非常擅長針對高階主管</title>
+      <link>https://arstechnica.com/security/2025/01/ai-generated-phishing-emails-are-getting-very-good-at-targeting-executives/</link>
+      <description><![CDATA[超個人化的電子郵件使用「大量」的抓取資料。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/ai-generated-phishing-emails-are-getting-very-good-at-targeting-executives/</guid>
+      <pubDate>Thu, 02 Jan 2025 14:24:35 GMT</pubDate>
+    </item>
     <item>
       <title>走進實驗考古學家的動手實驗室</title>
       <link>https://arstechnica.com/science/2025/01/inside-the-hands-on-lab-of-an-experimental-archaeologist/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>電力公司隱藏了可能導致停電的非法加密礦</title>
       <link>https://arstechnica.com/tech-policy/2024/12/russian-power-provider-struck-deal-that-hid-illegal-crypto-mine-on-state-land/</link>
-      <description><![CDATA[俄羅斯對非法礦山的打擊讓電力供應商成為意想不到的同謀。]]></description>
+      <description><![CDATA[俄羅斯嚴厲打擊非法礦山，電力供應商成為意想不到的幫兇。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/russian-power-provider-struck-deal-that-hid-illegal-crypto-mine-on-state-land/</guid>
       <pubDate>Mon, 30 Dec 2024 18:55:11 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[青銅時代的戰鬥、道德哲學和 Reddit 的 AITA、蒙德里安的分形樹以及其他七篇引人入勝的論文。]]></description>
       <guid>https://arstechnica.com/science/2024/12/ten-cool-science-stories-we-almost-missed/</guid>
       <pubDate>Mon, 30 Dec 2024 14:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷戰之謎：吉米卡特為什麼要拯救太空梭？</title>
-      <link>https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/</link>
-      <description><![CDATA[阿爾斯透過直接找到主要消息來源——總統本人來解開這個謎團。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/</guid>
-      <pubDate>Mon, 30 Dec 2024 13:58:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

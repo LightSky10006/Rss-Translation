@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 15:12:43 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 02 Jan 2025 15:36:19 GMT</lastBuildDate>
+    <item>
+      <title>被雲端搞砸了：硬體供應商尋找刷新的理由</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</link>
+      <description><![CDATA[全球 40% 的伺服器使用時間超過 6 年，消耗 66% 的直流能源，提供 7% 的計算。 HPE 表示，請刷新 目前駐留在全球資料中心的伺服器十分之四已經使用了至少六年。同時，這 40% 的切片不僅消耗了所有位元倉庫所用能源的 66%，而且僅提供了世界總計算量的 7%。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</guid>
+      <pubDate>Thu, 02 Jan 2025 15:30:43 GMT</pubDate>
+    </item>
     <item>
       <title>Edgio 破產導致 Microsoft 端點發生變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>從愛荷華州和緬因州計畫困境中吸取教訓的工作日</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/workday_implementations_interview/</link>
-      <description><![CDATA[執行長Carl Eschenbach 告訴The Reg，我們的實施中有十分之九是成功的 訪談 Workday 執行長Carl Eschenbach 堅稱超過90%拋開該公司在緬因州和愛荷華州項目中遇到的引人注目的困難，這家SaaS 人力資源和財務應用程式供應商的推出取得了成功。 .]]></description>
+      <description><![CDATA[執行長Carl Eschenbach 告訴The Reg 訪談  Workday 執行長Carl Eschenbach 堅稱，我們實施的10 項中有9項是成功的 SaaS HR 和財務應用程式供應商的部署取得了成功，儘管該公司在緬因州和愛荷華州級專案中遇到了引人注目的困難。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/workday_implementations_interview/</guid>
       <pubDate>Thu, 02 Jan 2025 13:35:07 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>RISC-V 正在採取行動，但要成為主流，還有很多工作要做</title>
+      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
       <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>微軟的新年禮物：驚喜的是，你的掃描器不工作了</title>
+      <title>微軟的新年禮物：驚喜，你的掃描器無法運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</link>
       <description><![CDATA[Canon確認多功能裝置在Windows 11 24H2 中遇到困難 儘管Microsoft 將eSCL 掃描協定問題標記為已解決，但Windows 11 24H2 仍會導致多功能裝置出現問題。   ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</guid>
@@ -57,12 +64,12 @@
     <item>
       <title>施耐德電機警告未來資料中心將吞噬電網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</link>
-      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 一份報告考慮了四種潛在的情況，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
+      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 根據一份考慮了四種潛在情況的報告，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</guid>
       <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>下一代 Wi-Fi 將以驚人的速度換取枯燥的實際工作藝術</title>
+      <title>下一代 Wi-Fi 將以驚人的速度換取枯燥的工作效率</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
       <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將到來，但它看起來將專注於更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
-      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的，並且擁有100 萬用戶來證明它 很難對320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
+      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
@@ -85,33 +92,33 @@
     <item>
       <title>去年不應該發生但卻發生的八件事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</link>
-      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到。]]></description>
+      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</guid>
       <pubDate>Wed, 01 Jan 2025 13:30:09 GMT</pubDate>
     </item>
     <item>
       <title>涉嫌竊取川普 AT&T 通話記錄的美國陸軍士兵被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</link>
-      <description><![CDATA[與 Snowflake 駭客攻擊相關的逮捕人數達到 3 人 一名美國陸軍士兵在德克薩斯州被指控兩項非法轉移機密電話記錄資訊罪名而被捕。 …]]></description>
+      <description><![CDATA[使與 Snowflake 駭客攻擊相關的逮捕人數達到 3 一名美國陸軍士兵因兩項非法轉移機密電話記錄資訊的罪名被起訴，在德克薩斯州被捕。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</guid>
       <pubDate>Wed, 01 Jan 2025 08:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>Starlink 直連手機即將登陸烏克蘭</title>
+      <title>Starlink 直連蜂窩網路即將登陸烏克蘭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</link>
       <description><![CDATA[在馬斯克最好的手機上發送訊息時不需要手機訊號塔 烏克蘭行動電信商 Kyivstar 將透過 Starlink 推出直接到手機的衛星連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</guid>
       <pubDate>Wed, 01 Jan 2025 08:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>第二架濟州航空 737-800 在致命墜機後出現機械問題</title>
+      <title>濟州航空第二架 737-800 客機在墜機事故中出現機械故障</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</link>
-      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據報道類似的起落架問題，該航班被迫返回起點。]]></description>
+      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據稱類似的起落架問題，該航班被迫返回起點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</guid>
       <pubDate>Tue, 31 Dec 2024 18:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>美國財政部公佈了BeyondTrust密鑰洩漏的爆炸範圍</title>
+      <title>美國財政部公佈 BeyondTrust 密鑰洩漏事件影響範圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</link>
       <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>英國監管機構對 IBM 收購 HashiCorp 展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</link>
-      <description><![CDATA[不出意外，一項價值數十億美元的交易受到 CMA 審查 英國競爭與市場管理局 (CMA) 對 IBM 收購 HashiCorp 發起合併調查。]]></description>
+      <description><![CDATA[毫不奇怪，一項價值數十億美元的交易受到了 CMA 的審查 英國競爭和市場管理局 (CMA) 已對 IBM 收購 HashiCorp 展開合併調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</guid>
       <pubDate>Tue, 31 Dec 2024 07:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著白宮的介入，更多電信公司證實鹽颱風違規</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</link>
-      <description><![CDATA[這些入侵使北京能夠「對數百萬人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，中國政府支持的窺探者今年早些時候訪問了他們的部分系統，而白宮將另一家尚未命名的電信公司加入鹽颱風破壞的名單中。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</guid>
-      <pubDate>Mon, 30 Dec 2024 23:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
