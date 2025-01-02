@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 08:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 10:13:19 GMT</lastBuildDate>
+    <item>
+      <title>施耐德電機警告未來資料中心將吞噬電網</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</link>
+      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 一份報告考慮了四種潛在的情況，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</guid>
+      <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
+    </item>
     <item>
       <title>下一代 Wi-Fi 將以可笑的速度換取枯燥的實際工作藝術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
@@ -29,21 +36,21 @@
     <item>
       <title>去年不應該發生但卻發生的八件事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</link>
-      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
+      <description><![CDATA[2024 年科技失敗恥辱榜 觀點  新年快樂！根據傳統，這是我們大膽展望未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</guid>
       <pubDate>Wed, 01 Jan 2025 13:30:09 GMT</pubDate>
     </item>
     <item>
       <title>涉嫌竊取川普 AT&T 通話記錄的美國陸軍士兵被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</link>
-      <description><![CDATA[使與 Snowflake 駭客攻擊相關的逮捕人數達到 3 一名美國陸軍士兵因兩項非法轉移機密電話記錄資訊的罪名被起訴，在德克薩斯州被捕。 ...]]></description>
+      <description><![CDATA[與 Snowflake 駭客攻擊相關的逮捕人數達到 3 人 一名美國陸軍士兵在德克薩斯州被指控兩項非法轉移機密電話記錄資訊罪名而被捕。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</guid>
       <pubDate>Wed, 01 Jan 2025 08:32:08 GMT</pubDate>
     </item>
     <item>
       <title>Starlink 直連手機即將登陸烏克蘭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</link>
-      <description><![CDATA[在馬斯克最好的手機上發送訊息時不需要手機訊號塔 烏克蘭行動電信商 Kyivstar 將透過 Starlink 推出直接到手機的衛星連線。]]></description>
+      <description><![CDATA[使用馬斯克最好的手機發送訊息時不需要手機訊號塔 烏克蘭行動電信商 Kyivstar 將透過 Starlink 推出直接到手機的衛星連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/starlink_directtocell_ukraine/</guid>
       <pubDate>Wed, 01 Jan 2025 08:30:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>美國財政部公佈了 BeyondTrust 密鑰洩露的爆炸範圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</link>
-      <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
+      <description><![CDATA[不法分子侵入受影響工作站，資料遭竊 美國財政部承認，不法分子侵入其係統，存取文件，這被稱為「重大事件」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
       <pubDate>Tue, 31 Dec 2024 15:30:07 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 31 Dec 2024 13:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>2024年中國網路入侵出現險惡轉折</title>
+      <title>2024年，中國網路入侵行為出現險惡轉折</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/china_cyber_intrusions_2024/</link>
       <description><![CDATA[從有針對性的間諜活動到預先部署- 並不是說它們是相互排斥的 中國政府今年對美國電信和其他關鍵基礎設施網絡的入侵似乎標誌著從像往常一樣的網路間諜活動轉向為應對破壞性攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/china_cyber_intrusions_2024/</guid>
@@ -78,26 +85,26 @@
     <item>
       <title>英國監管機構對 IBM 收購 HashiCorp 展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</link>
-      <description><![CDATA[不出意外，一項價值數十億美元的交易受到 CMA 審查 英國競爭與市場管理局 (CMA) 對 IBM 收購 HashiCorp 發起合併調查。]]></description>
+      <description><![CDATA[毫不奇怪，一項價值數十億美元的交易受到了 CMA 的審查 英國競爭和市場管理局 (CMA) 已對 IBM 收購 HashiCorp 展開合併調查。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/cma_inquiry_ibm_hashicorp/</guid>
       <pubDate>Tue, 31 Dec 2024 07:30:13 GMT</pubDate>
     </item>
     <item>
       <title>隨著白宮的介入，更多電信公司證實鹽颱風違規</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</link>
-      <description><![CDATA[這些入侵行為讓北京得以「對數百萬個人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，今年早些時候，中國政府支持的監聽者訪問了他們的部分系統，而白宮將另一家尚未透露名稱的電信公司添加到被 Salt Typhoon 入侵的名單中…]]></description>
+      <description><![CDATA[這些入侵使北京能夠「對數百萬人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，中國政府支持的窺探者今年早些時候訪問了他們的部分系統，而白宮將另一家尚未命名的電信公司加入鹽颱風破壞的名單中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</guid>
       <pubDate>Mon, 30 Dec 2024 23:30:14 GMT</pubDate>
     </item>
     <item>
       <title>吉米·卡特引領了太陽能、太空和環境的步伐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/jimmy_carter_died/</link>
-      <description><![CDATA[這位本週逝世 100 歲的前總統也是早期電子郵件採用者 訃聞 美國各地的美國國旗降半旗以紀念這位生命美國第39 任總統、也是最長壽的總統吉米·卡特(Jimmy Carter) 於12 月29 日星期日去世，享年100 歲。]]></description>
+      <description><![CDATA[這位前總統本週去世，享年100 歲，也是最早採用電子郵件的人 訃告  美國各地的國旗都降半旗以紀念這位前總統的一生吉米·卡特是美國第 39 任、壽命最長的總統，他於 12 月 29 日星期日去世，享年 100 歲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/jimmy_carter_died/</guid>
       <pubDate>Mon, 30 Dec 2024 21:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源距離首次新格倫飛行又近了一步</title>
+      <title>藍色起源距離新格倫火箭首次飛行僅一步之遙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/blue_origin_new_glenn_flight/</link>
       <description><![CDATA[最終的大型測試完成，引擎啟動了幾秒鐘。下一站…太空？ 藍色起源已成功發射了新格倫火箭，為未來幾天該火箭的首次發射鋪平了道路。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/blue_origin_new_glenn_flight/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Santa Satya 在聖誕節前夕又向他的袋子裡裝了一個問題 Windows 11 24H2 的已知問題不斷湧現，在節日期間又出現了一個新問題：安裝了操作系統使用可移動媒體？它有可能停止接收安全性更新。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/microsoft_windows_11_security_update/</guid>
       <pubDate>Fri, 27 Dec 2024 17:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>帕克太陽探測器向地球發送「還活著」的聲音</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/27/parker_solar_probe_sends_a/</link>
-      <description><![CDATA[這是一場勝利 對於太陽愛好者來說，有一個好消息：帕克太陽探測器似乎在與我們最近的恆星的近距離接觸中倖存了下來。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/27/parker_solar_probe_sends_a/</guid>
-      <pubDate>Fri, 27 Dec 2024 14:08:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
