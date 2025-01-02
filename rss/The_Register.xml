@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 16:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 17:11:23 GMT</lastBuildDate>
+    <item>
+      <title>20 年前，甲骨文收購了兩家軟體競爭對手，永遠改變了市場</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/</link>
+      <description><![CDATA[在訴訟和毒丸之後，PeopleSoft 和JD Edwards 未能抵禦Oracle 野心的誘惑 專題  二十年前的下週，甲骨文在經歷了一場充滿憂慮、曠日持久的敵意收購後，完成了以103 億美元收購人力資源與財務軟體專家PeopleSoft 的交易...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/</guid>
+      <pubDate>Thu, 02 Jan 2025 17:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>還剩下 10 個月的支持，Windows 10 仍然佔據主導地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/windows_10_grows/</link>
-      <description><![CDATA[Statcounter 資料顯示 Windows 11 失去使用者喜愛 統計資料顯示，隨著 Windows 10 繼續主導桌面作業系統市場，使用者仍然對 Windows 11 敬而遠之，微軟 2025 年開局不利...]]></description>
+      <description><![CDATA[Statcounter 資料顯示 Windows 11 失去使用者喜愛 微軟 2025 年開局不利，統計資料顯示，由於 Windows 10 繼續主導桌面作業系統市場，使用者仍然對 Windows 11 敬而遠之…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/windows_10_grows/</guid>
       <pubDate>Thu, 02 Jan 2025 16:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>被雲端搞砸了：硬體供應商尋找刷新的理由</title>
+      <title>雲端運算的衝擊：硬體供應商尋求更新的理由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</link>
       <description><![CDATA[全球 40% 的伺服器使用時間超過 6 年，消耗 66% 的直流能源，提供 7% 的計算。 HPE 表示，請刷新 目前駐留在全球資料中心的伺服器十分之四已經使用了至少六年。同時，這 40% 的切片不僅消耗了所有位元倉庫所用能源的 66%，而且僅提供了世界總計算量的 7%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Edgio 破產導致 Microsoft 端點發生變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
-      <description><![CDATA[聖誕節和新年之間的那個奇怪時刻——最適合改變生產項目 微軟在聖誕樹下為.NET 開發人員留下了一份不受歡迎的禮物——安裝程序和檔案分發的「意外」變化，這可能會影響生產系統…]]></description>
+      <description><![CDATA[聖誕節和新年之間的那個奇怪的時間- 非常適合改變生產項目 微軟為.NET 開發人員在樹下留下了一份不受歡迎的禮物- 對安裝程序和檔案分發的「意外」更改，這可能會影響生產系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</guid>
       <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>AWS 沿著 Iceberg 路徑統一分析平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</link>
-      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，仍有其他障礙 分析  上週，AWS 全心投入了 Iceberg。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，現在又增加了一層。這家占主導地位的雲端平台提供者推出了S3 Tables，用於以Apache Iceberg（一種開放式表格式(OTF)）儲存數據，該格式承諾開發人員和數據工程師能夠將他們選擇的分析引擎帶到他們的數據中，無論數據位於何處，而不必移動它。]]></description>
+      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，還有其他障礙 分析 上週，AWS 雙腳跳入冰山。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，它又增加了一層。占主導地位的雲端平台提供者推出了S3 表，用於將資料儲存在Apache Iceberg（一種開放式表格式(OTF)）中，它使開發人員和資料工程師能夠將他們選擇的分析引擎帶到他們的資料中，無論資料位於何處，而無需移動資料它…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</guid>
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
+      <title>RISC-V 正在採取行動，但要成為主流，還有很多工作要做</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
       <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>下一代 Wi-Fi 將以可笑的速度換取枯燥的實際工作藝術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
-      <description><![CDATA[第八代標準的核心是超高可靠性 Wi-Fi 8 即將到來，但它似乎將專注於提高可靠性，而不是提高頻寬，因為最近的更新對古老的無線區域網路技術所做的貢獻…]]></description>
+      <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將到來，但它看起來將專注於更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</guid>
       <pubDate>Thu, 02 Jan 2025 08:30:11 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>科學家思考每秒 10 位元的微不足道的腦數據速率</title>
+      <title>科學家認為每秒 10 位元的大腦資料速率微不足道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/boffins_peg_brain_data_rate/</link>
       <description><![CDATA[你可能不需要高頻寬腦機介面 加州理工學院的研究人員估計人類思維的速度僅為每秒10 位，這種數據速率如此悠閒，以至於強調了這種需求進一步研究大腦功能並對腦機介面和人工智慧的說法提出質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/boffins_peg_brain_data_rate/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>涉嫌竊取川普 AT&T 通話記錄的美國陸軍士兵被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</link>
-      <description><![CDATA[使與 Snowflake 駭客攻擊相關的逮捕人數達到 3 一名美國陸軍士兵因兩項非法轉移機密電話記錄資訊的罪名被起訴，在德克薩斯州被捕。 ...]]></description>
+      <description><![CDATA[與 Snowflake 駭客攻擊相關的逮捕人數達到 3 人 一名美國陸軍士兵在德克薩斯州被指控兩項非法轉移機密電話記錄資訊罪名而被捕。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</guid>
       <pubDate>Wed, 01 Jan 2025 08:32:08 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 01 Jan 2025 08:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>濟州航空第二架 737-800 客機在墜機事故中出現機械故障</title>
+      <title>第二架濟州航空 737-800 在致命墜機後出現機械問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</link>
       <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據稱類似的起落架問題，該航班被迫返回起點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[官員們不敢苟同，聲稱作者誤解了國會報告 分析 擔心航空安全狀況？您可能會發現一些問題，因為據稱美國聯邦航空管理局在沒有發現違規行為的情況下駁回或關閉了大多數舉報人報告。 =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</guid>
       <pubDate>Tue, 31 Dec 2024 13:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024年中國網路入侵出現險惡轉折</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/china_cyber_intrusions_2024/</link>
-      <description><![CDATA[從有針對性的間諜活動到預先部署- 並不是說它們是相互排斥的 中國政府今年對美國電信和其他關鍵基礎設施網絡的入侵似乎標誌著從像往常一樣的網路間諜活動轉向為應對破壞性攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/china_cyber_intrusions_2024/</guid>
-      <pubDate>Tue, 31 Dec 2024 12:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
