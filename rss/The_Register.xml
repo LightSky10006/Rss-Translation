@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 17:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 18:17:16 GMT</lastBuildDate>
+    <item>
+      <title>衛星電話服務即將到來，星鏈將率先</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_are_coming/</link>
+      <description><![CDATA[ 分析  今年發射了首批旨在為未經改裝的智慧型手機提供商業服務的衛星星座，這似乎將成為最大的衛星用例，其中美國在採用方面處於領先地位。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_are_coming/</guid>
+      <pubDate>Thu, 02 Jan 2025 17:45:16 GMT</pubDate>
+    </item>
     <item>
       <title>20 年前，甲骨文收購了兩家軟體競爭對手，永遠改變了市場</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/</link>
@@ -15,26 +22,26 @@
     <item>
       <title>還剩下 10 個月的支持，Windows 10 仍然佔據主導地位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/windows_10_grows/</link>
-      <description><![CDATA[Statcounter 資料顯示 Windows 11 失去使用者喜愛 微軟 2025 年開局不利，統計資料顯示，由於 Windows 10 繼續主導桌面作業系統市場，使用者仍然對 Windows 11 敬而遠之…]]></description>
+      <description><![CDATA[Statcounter 資料顯示 Windows 11 失去使用者喜愛 統計資料顯示，隨著 Windows 10 繼續主導桌面作業系統市場，使用者仍然對 Windows 11 敬而遠之，微軟 2025 年開局不利...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/windows_10_grows/</guid>
       <pubDate>Thu, 02 Jan 2025 16:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>雲端運算的衝擊：硬體供應商尋求更新的理由</title>
+      <title>被雲端搞砸了：硬體供應商尋找刷新的理由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</link>
       <description><![CDATA[全球 40% 的伺服器使用時間超過 6 年，消耗 66% 的直流能源，提供 7% 的計算。 HPE 表示，請刷新 目前駐留在全球資料中心的伺服器十分之四已經使用了至少六年。同時，這 40% 的切片不僅消耗了所有位元倉庫所用能源的 66%，而且僅提供了世界總計算量的 7%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</guid>
       <pubDate>Thu, 02 Jan 2025 15:30:43 GMT</pubDate>
     </item>
     <item>
-      <title>Edgio 破產導致 Microsoft 端點發生變化</title>
+      <title>Edgio 破產導致微軟端點改變</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
       <description><![CDATA[聖誕節和新年之間的那個奇怪的時間- 非常適合改變生產項目 微軟為.NET 開發人員在樹下留下了一份不受歡迎的禮物- 對安裝程序和檔案分發的「意外」更改，這可能會影響生產系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</guid>
       <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>川普的關稅威脅可能會使個人電腦價格上漲近一半</title>
+      <title>川普的關稅威脅可能使個人電腦價格上漲近一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</link>
       <description><![CDATA[對計畫漲價的警告將2025 年美國市場出貨量成長預測限制在2% 即將上任的川普政府提出的進口關稅可能導緻美國PC 價格上漲46%，從而抑制市場成長2025 年，儘管Windows 升級截止日期迫在眉睫，而且供應商渴望推廣基於人工智慧的電腦。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>RISC-V 正在採取行動，但要成為主流，還有很多工作要做</title>
+      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
       <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>微軟的新年禮物：驚喜，你的掃描器無法運作</title>
+      <title>微軟的新年禮物：驚喜的是，你的掃描器不工作了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</link>
       <description><![CDATA[Canon確認多功能裝置在Windows 11 24H2 中遇到困難 儘管Microsoft 將eSCL 掃描協定問題標記為已解決，但Windows 11 24H2 仍會導致多功能裝置出現問題。   ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</guid>
@@ -78,19 +85,19 @@
     <item>
       <title>施耐德電機警告未來資料中心將吞噬電網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</link>
-      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 一份報告考慮了四種潛在的情況，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
+      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 根據一份考慮了四種潛在情況的報告，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</guid>
       <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>下一代 Wi-Fi 將以可笑的速度換取枯燥的實際工作藝術</title>
+      <title>下一代 Wi-Fi 將以驚人的速度換取枯燥的實際工作藝術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
-      <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將到來，但它看起來將專注於更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
+      <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將推出，但它看起來將重點放在更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</guid>
       <pubDate>Thu, 02 Jan 2025 08:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
+      <title>4G功能手機能否藉助QVGA、瘦客戶端和遠端瀏覽器再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
       <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
       <pubDate>Tue, 31 Dec 2024 15:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>報導稱美國聯邦航空局忽視了大多數舉報人的投訴</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</link>
-      <description><![CDATA[官員們不敢苟同，聲稱作者誤解了國會報告 分析 擔心航空安全狀況？您可能會發現一些問題，因為據稱美國聯邦航空管理局在沒有發現違規行為的情況下駁回或關閉了大多數舉報人報告。 =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</guid>
-      <pubDate>Tue, 31 Dec 2024 13:45:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
