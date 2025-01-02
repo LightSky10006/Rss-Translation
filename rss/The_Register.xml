@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 02 Jan 2025 14:11:42 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 02 Jan 2025 15:12:43 GMT</lastBuildDate>
+    <item>
+      <title>Edgio 破產導致 Microsoft 端點發生變化</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
+      <description><![CDATA[聖誕節和新年之間的那個奇怪時刻——最適合改變生產項目 微軟在聖誕樹下為.NET 開發人員留下了一份不受歡迎的禮物——安裝程序和檔案分發的「意外」變化，這可能會影響生產系統…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</guid>
+      <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>川普的關稅威脅可能會使個人電腦價格上漲近一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</link>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
     </item>
     <item>
-      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
+      <title>RISC-V 正在採取行動，但要成為主流，還有很多工作要做</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
       <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>貴賓博克訪問波蘭華沙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</link>
-      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！物聯網顯示器出現問題—是真正的國際化。]]></description>
+      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！ BORK！顯示器出現問題——這確實是國際性的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</guid>
       <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>微軟的新年禮物：驚喜，你的掃描器無法運作</title>
+      <title>微軟的新年禮物：驚喜的是，你的掃描器不工作了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</link>
       <description><![CDATA[Canon確認多功能裝置在Windows 11 24H2 中遇到困難 儘管Microsoft 將eSCL 掃描協定問題標記為已解決，但Windows 11 24H2 仍會導致多功能裝置出現問題。   ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/scanner_canon_windows_update/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>下一代 Wi-Fi 將以可笑的速度換取枯燥的實際工作藝術</title>
+      <title>下一代 Wi-Fi 將以驚人的速度換取枯燥的實際工作藝術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
       <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將到來，但它看起來將專注於更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
-      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
+      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的，並且擁有100 萬用戶來證明它 很難對320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
       <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>去年不應該發生但卻發生的八件事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</link>
-      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到… ]]></description>
+      <description><![CDATA[2024 年科技失敗恥辱榜 意見 新年快樂！傳統上，這是我們大膽期待未來 12 個月可能發生的事情的時候。你真的想知道嗎？沒想到。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/opinion_column_tech_fails_2024/</guid>
       <pubDate>Wed, 01 Jan 2025 13:30:09 GMT</pubDate>
     </item>
     <item>
       <title>涉嫌竊取川普 AT&T 通話記錄的美國陸軍士兵被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</link>
-      <description><![CDATA[使與 Snowflake 駭客攻擊相關的逮捕人數達到 3 一名美國陸軍士兵因兩項非法轉移機密電話記錄資訊的罪名被起訴，在德克薩斯州被捕。 ...]]></description>
+      <description><![CDATA[與 Snowflake 駭客攻擊相關的逮捕人數達到 3 人 一名美國陸軍士兵在德克薩斯州被指控兩項非法轉移機密電話記錄資訊罪名而被捕。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/01/us_army_soldier_att_call_logs/</guid>
       <pubDate>Wed, 01 Jan 2025 08:32:08 GMT</pubDate>
     </item>
@@ -99,12 +106,12 @@
     <item>
       <title>第二架濟州航空 737-800 在致命墜機後出現機械問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</link>
-      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據稱類似的起落架問題，該航班被迫返回起點。]]></description>
+      <description><![CDATA[波音公司以更低的成績結束了糟糕的一年 上週末，一架波音737-800 飛機在韓國發生災難性墜機事故，機上181 人中有179 人喪生，隨後又發生了第二起事故涉及濟州航空。週一，由於據報道類似的起落架問題，該航班被迫返回起點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/second_jeju_air_mechanical_issues/</guid>
       <pubDate>Tue, 31 Dec 2024 18:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>美國財政部公佈 BeyondTrust 密鑰洩漏事件影響範圍</title>
+      <title>美國財政部公佈了BeyondTrust密鑰洩漏的爆炸範圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</link>
       <description><![CDATA[由於不法分子在受影響的工作站中漫遊，數據被盜 美國財政部承認，不法分子在其係統中訪問文檔，這被稱為“重大事件”。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/us_treasury_department_hacked/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>報導稱美國聯邦航空局忽視了大多數舉報人的投訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</link>
-      <description><![CDATA[官員們不敢苟同，聲稱作者誤解了國會報告 分析 擔心航空安全狀況？您可能會發現一些問題，因為據稱美國聯邦航空管理局在沒有發現違規行為的情況下駁回或關閉了大多數舉報人報告。 =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
+      <description><![CDATA[官員們不敢苟同，聲稱作者誤解了國會報告 分析 擔心航空安全狀況？您可能發現了一些問題，因為據稱聯邦航空管理局在沒有發現違規行為的情況下駁回或關閉了大多數舉報人報告。 &#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/31/faa_whistleblower_complaints/</guid>
       <pubDate>Tue, 31 Dec 2024 13:45:46 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這些入侵使北京能夠「對數百萬人進行地理定位」 AT&amp;T、Verizon 和Lumen Technologies 證實，中國政府支持的窺探者今年早些時候訪問了他們的部分系統，而白宮將另一家尚未命名的電信公司加入鹽颱風破壞的名單中。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/</guid>
       <pubDate>Mon, 30 Dec 2024 23:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉米·卡特引領了太陽能、太空和環境的步伐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2024/12/30/jimmy_carter_died/</link>
-      <description><![CDATA[這位本週逝世 100 歲的前總統也是早期電子郵件採用者 訃聞 美國各地的美國國旗降半旗以紀念這位生命美國第39 任總統、也是最長壽的總統吉米·卡特(Jimmy Carter) 於12 月29 日星期日去世，享年100 歲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2024/12/30/jimmy_carter_died/</guid>
-      <pubDate>Mon, 30 Dec 2024 21:24:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
