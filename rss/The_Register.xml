@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 03 Jan 2025 16:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 16:42:12 GMT</lastBuildDate>
+    <item>
+      <title>美國的邏輯有問題，但也許美國的記憶仍然可以佔上風</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/</link>
+      <description><![CDATA[英特爾晶圓代工前景存疑，美光在美國晶片法案推動中佔據中心地位 評價 美國在半導體和集成電路的開發和製造方面曾經領先世界。耗資 2800 億美元的美國晶片和科學法案旨在重建美國作為半導體製造超級大國的地位，並減輕對外國晶圓廠的依賴。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/</guid>
+      <pubDate>Fri, 03 Jan 2025 16:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>一筆好的生意如何讓我們低估 BASIC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/reevaluating_basics_legacy/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>科技巨頭躲在陰影中等待川普的關稅威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</link>
-      <description><![CDATA[由於擔心惹惱下一任美國總統，比政客更加外交是有道理的 技術高管界的一些人，甚至是最高席位上通常更敢於發聲的人，都陷入了一種令人毛骨悚然的安靜在某位當選總統上台之前，企業害怕邁出錯誤的一步。]]></description>
+      <description><![CDATA[由於擔心惹怒下一任美國總統，比政客更加外交是有道理的 技術高管界的一些人，甚至是最高席位上通常更敢於發聲的人，都陷入了一種令人毛骨悚然的安靜在某位當選總統上台之前，企業害怕邁出錯誤的一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</guid>
       <pubDate>Fri, 03 Jan 2025 14:00:08 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 03 Jan 2025 13:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>科學家將 C 語言分解，以便將程式碼轉換為 Rust</title>
+      <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
       <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
@@ -48,9 +55,9 @@
       <pubDate>Fri, 03 Jan 2025 11:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>儘管承諾“分解”，埃森哲在沒有競爭的情況下贏得了 3500 萬英鎊的英國稅務工作</title>
+      <title>儘管承諾“分解”，埃森哲仍贏得 3500 萬英鎊的英國稅務業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</link>
-      <description><![CDATA[稅務部門稱，2009 年上線的系統無法由其他供應商支持 英國稅務部門在未經競爭的情況下向埃森哲額外提供了3520 萬英鎊，以取代一份從未招標的價值7040 萬英鎊的合約.… ]]></description>
+      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在未進行投標的7040 萬英鎊合約中，在沒有競爭的情況下向埃森哲額外提供了3520 萬英鎊.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</guid>
       <pubDate>Fri, 03 Jan 2025 11:02:06 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 03 Jan 2025 09:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果自動選擇每個人都讓人工智慧分析他們的照片以尋找地標</title>
+      <title>蘋果自動選擇讓每個人的照片接受人工智慧地標分析</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</link>
       <description><![CDATA[基於同態的增強視覺搜尋非常保護隱私，iPhone 巨頭在沒有詢問的情況下就激活了它 蘋果去年部署了一種機制，用於識別存儲在其照片應用程序中的圖像中的地標和名勝古蹟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>洛杉磯警員受巡邏車電腦新年日期故障困擾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</link>
-      <description><![CDATA[在高層被警告「必然會失敗」的系統確實失敗後，南加州仍堅持使用紙質日誌 美國最大的警局巡邏車上的電腦軟體在新年前夕因以下原因發生故障：這似乎是與日期相關的故障。]]></description>
+      <description><![CDATA[南加州在高層被警告將「不可避免地失敗」的系統確實做到了這一點後，開始求助於紙質日誌 美國最大的治安部門巡邏車的電腦軟體在除夕夜間因以下原因發生故障：似乎是與日期相關的故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</guid>
       <pubDate>Fri, 03 Jan 2025 01:21:14 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>千年蟲問題已經過去 25 年了，讓我們都很高興這件事發生在很久以前</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</link>
-      <description><![CDATA[在當今的連網技術下，類似規模的病毒很難被消滅 評價  25 年前的 1 月 1 日，儘管人們恐慌和擔心世界將會很快就陷入混亂，沒有發生什麼大事。]]></description>
+      <description><![CDATA[憑藉當今的互聯技術，類似規模的錯誤將很難消除 評價  25 年前的 1 月 1 日，儘管人們對世界陷入恐慌和恐懼很快就陷入混亂，什麼事也沒發生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</guid>
       <pubDate>Thu, 02 Jan 2025 20:30:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Statcounter 資料顯示 Windows 11 失去使用者喜愛 統計資料顯示，隨著 Windows 10 繼續主導桌面作業系統市場，使用者仍然對 Windows 11 敬而遠之，微軟 2025 年開局不利...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/windows_10_grows/</guid>
       <pubDate>Thu, 02 Jan 2025 16:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>被雲端搞砸了：硬體供應商尋找刷新的理由</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</link>
-      <description><![CDATA[全球 40% 的伺服器使用時間超過 6 年，消耗 66% 的直流能源，提供 7% 的計算。 HPE 表示，請刷新 目前駐留在全球資料中心的伺服器十分之四已經使用了至少六年。同時，這 40% 的切片不僅消耗了所有位元倉庫所用能源的 66%，而且僅提供了世界總計算量的 7%。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloud_hardware_research_hpe/</guid>
-      <pubDate>Thu, 02 Jan 2025 15:30:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
