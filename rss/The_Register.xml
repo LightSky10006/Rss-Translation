@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 03 Jan 2025 08:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:40:20 GMT</lastBuildDate>
     <item>
-      <title>技術支援戰士離開角色扮演大賽並徒步前往辦公室</title>
+      <title>蘋果自動選擇每個人都讓人工智慧分析他們的照片以尋找地標</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</link>
+      <description><![CDATA[基於同態的增強視覺搜尋非常保護隱私，iPhone 巨頭在沒有詢問的情況下就激活了它 蘋果去年部署了一種機制，用於識別存儲在其照片應用程序中的圖像中的地標和名勝古蹟。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:34:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>技術支援戰士離開角色扮演戰鬥，徒步前往辦公室</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</link>
       <description><![CDATA[把bat&#39;leth 放在一邊，為p&#39;takh 解決瑣碎問題 隨叫隨到 歡迎來到2025 年，就在三天前，這還是未來！另外，歡迎來到 The Register 週五專欄的新一期，該專欄的持續使命是收集您對技術支援故事的善意貢獻，並與世界分享。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</guid>
       <pubDate>Fri, 03 Jan 2025 07:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯警員因巡邏車電腦的新年日期故障而受到困擾</title>
+      <title>洛杉磯警員受巡邏車電腦新年日期故障困擾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</link>
       <description><![CDATA[南加州在高層被警告將「不可避免地失敗」的系統確實做到了這一點後，開始求助於紙質日誌 美國最大的治安部門巡邏車的電腦軟體在除夕夜間因以下原因發生故障：似乎是與日期相關的故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 02 Jan 2025 22:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
+      <title>上訴法院支持大型電信公司，FCC 網路中立規則再次失效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
       <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>2025 年會是衛星到智慧型手機服務真正起飛的一年嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_starlink/</link>
-      <description><![CDATA[得益於Starlink 和合作夥伴，直接與未經修改的生物的連接即將到來 分析 今年推出了第一個衛星星座，旨在直接向未經修改的智慧型手機提供商業服務，這看起來將成為最大的衛星用例，美國在採用方面處於領先地位。 _whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[得益於Starlink 和合作夥伴，直接與未經修改的行動裝置的連接即將到來 分析 今年推出了第一個衛星星座，旨在直接向未經修改的智慧型手機提供商業服務，這看起來將成為最大的衛星用例，美國在採用方面處於領先地位。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_starlink/</guid>
       <pubDate>Thu, 02 Jan 2025 17:45:16 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>川普的關稅威脅可能使個人電腦價格上漲近一半</title>
+      <title>川普的關稅威脅可能會使個人電腦價格上漲近一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</link>
       <description><![CDATA[對計畫漲價的警告將2025 年美國市場出貨量成長預測限制在2% 即將上任的川普政府提出的進口關稅可能導緻美國PC 價格上漲46%，從而抑制市場成長2025 年，儘管Windows 升級截止日期迫在眉睫，而且供應商渴望推廣基於人工智慧的電腦。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/trump_tariff_pc_prices/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>貴賓博克訪問波蘭華沙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</link>
-      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！物聯網顯示器出現問題—是真正的國際化。]]></description>
+      <description><![CDATA[微軟將不遺餘力地宣傳其服務 BORK！ BORK！顯示器出現問題——這確實是國際性的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/bork_comes_to_poland/</guid>
       <pubDate>Thu, 02 Jan 2025 11:00:15 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>施耐德電機警告未來資料中心將吞噬電網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</link>
-      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 根據一份考慮了四種潛在情況的報告，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
+      <description><![CDATA[報告列出了從「永續人工智慧」到「誰關掉了燈？」的四種情境 一份報告考慮了四種潛在的情況，政策制定者需要仔細指導人工智慧資料中心未來的電力消耗情境並提出了一些指導原則，以防止其失控。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/schneider_datacenter_consumption/</guid>
       <pubDate>Thu, 02 Jan 2025 09:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>下一代 Wi-Fi 將以驚人的速度換取枯燥的實際工作藝術</title>
+      <title>下一代 Wi-Fi 將以可笑的速度換取枯燥的實際工作藝術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</link>
-      <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將推出，但它看起來將重點放在更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
+      <description><![CDATA[第八代標準的重點是超高可靠性 Wi-Fi 8 即將到來，但它看起來將專注於更高的可靠性，而不是像最近的更新那樣將頻寬推得更高值得尊敬的無線本地網路技術所做的一切。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/wifi_8_feature/</guid>
       <pubDate>Thu, 02 Jan 2025 08:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>4G功能手機能否在QVGA、瘦客戶端和遠端瀏覽器的支援下再次崛起？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</link>
-      <description><![CDATA[Puffin 瀏覽器的開發者是這麼認為的- 並且擁有100 萬用戶來證明它 很難對具有320 x 240 分辨率的功能手機感到興奮，但Shioupyn Shen 認為正是這樣的設備即將以一種新的方式將數百萬人帶入網路。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/cloudmosa_cloudphone_4g_feature_phone/</guid>
-      <pubDate>Thu, 02 Jan 2025 05:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
