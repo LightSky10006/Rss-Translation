@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 03 Jan 2025 23:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 23:34:58 GMT</lastBuildDate>
     <item>
       <title>先是富士康，現在是微軟：威斯康辛州小鎮被大型科技公司鄙視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</link>
-      <description><![CDATA[芒特普萊森特官員表示，雷德蒙德暫停重新設計計畫中的資料中心不會破壞這個專案 統計一下威斯康辛州芒特普萊森特反對他們的城鎮成為科技中心的居民幸運的是：首先，富士康放棄了原來在該鎮投資100 億美元的LCD 工廠計劃，據報道，現在微軟已暫停其價值33 億美元的數據中心園區的部分建設，該園區正在最初為富士康大型項目選擇的土地上建設。 &gt;]]></description>
+      <description><![CDATA[Mount Pleasant 官員表示，雷德蒙德暫停重新設計計劃中的數據中心不會破壞此項目 威斯康星州Mount Pleasant 的居民反對他們的城鎮成為科技中心幸運的是：首先，富士康放棄了在該鎮建設原定的價值100 億美元的LCD 工廠的計劃，現在據報道微軟已暫停其價值33 億美元的數據中心園區的部分建設，該園區正在富士康最初為大型計畫所選的土地上建造。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</guid>
       <pubDate>Fri, 03 Jan 2025 21:00:11 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
-      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 代碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
+      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
       <pubDate>Fri, 03 Jan 2025 12:33:11 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>ERP 專案陷入困境，導致銷售損失超過預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</link>
-      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者將熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
+      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，並表示正在改進 讀者可能熟悉投資回報率(ROI) 的概念，即技術項目節省的資金超過其成本，但不太了解眾所周知的觀點是，就像在粒子物理學中一樣，存在反 ROI。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</guid>
       <pubDate>Fri, 03 Jan 2025 10:15:08 GMT</pubDate>
     </item>
@@ -113,19 +113,19 @@
     <item>
       <title>洛杉磯警員受巡邏車電腦新年日期故障困擾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</link>
-      <description><![CDATA[南加州在高層被警告將「不可避免地失敗」的系統確實做到了這一點後，開始求助於紙質日誌 美國最大治安部門巡邏車的電腦軟體在除夕夜發生故障，原因是似乎是與日期相關的故障。]]></description>
+      <description><![CDATA[南加州在高層被警告將「不可避免地失敗」的系統確實做到了這一點後，開始求助於紙質日誌 美國最大的治安部門巡邏車的電腦軟體在除夕夜間因以下原因發生故障：似乎是與日期相關的故障。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/la_sheriffs_computer_crash/</guid>
       <pubDate>Fri, 03 Jan 2025 01:21:14 GMT</pubDate>
     </item>
     <item>
-      <title>據報道，中國網路間諜在美國財政部突襲中針對制裁情報</title>
+      <title>據報道，中國網路間諜在美國財政部突襲中瞄準了製裁情報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</link>
       <description><![CDATA[財政部長辦公室 OFAC 擔心遭到資料竊聽攻擊 據報道，侵入美國財政部工作站的中國間諜竊取了負責制裁組織和個人的政府辦公室的資料。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</guid>
       <pubDate>Thu, 02 Jan 2025 22:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
+      <title>上訴法院支持大型電信公司，FCC 網路中立規則再次失效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
       <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>千年蟲問題已經過去 25 年了，讓我們都很高興這件事發生在很久以前</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</link>
-      <description><![CDATA[憑藉當今的互聯技術，類似規模的錯誤將很難消除 評價  25 年前的 1 月 1 日，儘管人們感到恐慌和擔心世界很快就陷入混亂，什麼事也沒發生。]]></description>
+      <description><![CDATA[憑藉當今的互聯技術，類似規模的錯誤將很難消除 評價  25 年前的 1 月 1 日，儘管人們對世界陷入恐慌和恐懼很快就陷入混亂，什麼事也沒發生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</guid>
       <pubDate>Thu, 02 Jan 2025 20:30:14 GMT</pubDate>
     </item>
