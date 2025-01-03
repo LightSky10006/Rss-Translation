@@ -3,10 +3,17 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 03 Jan 2025 15:36:22 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 03 Jan 2025 16:15:15 GMT</lastBuildDate>
     <item>
-      <title>最佳健身耳機（2025 年）：Beats、Bose、Shokz、JLab</title>
+      <title>加州人稱 X 阻止他們觀看有關 14 歲青少年失踪的安珀警報</title>
+      <link>https://www.wired.com/story/amber-alert-paywall-california/</link>
+      <description><![CDATA[許多人報告說，他們點擊了螢幕，除非登錄，否則他們看不到警報。]]></description>
+      <guid>https://www.wired.com/story/amber-alert-paywall-california/</guid>
+      <pubDate>Fri, 03 Jan 2025 15:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>最適合運動的耳機（2025 年）：Beats、Bose、Shokz、JLab</title>
       <link>https://www.wired.com/gallery/best-workout-headphones/</link>
       <description><![CDATA[戴上一副堅固、防汗、防纏結的耳機，震撼您的內心。這是我們的最愛。]]></description>
       <guid>https://www.wired.com/gallery/best-workout-headphones/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>《科學》雜誌編輯因人工智慧使用不當和高額費用而集體辭職</title>
       <link>https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/</link>
-      <description><![CDATA[愛思唯爾出版的《人類進化期刊》的成員退出了，理由是人工智慧生產過程會引入錯誤、高昂的作者費用以及對編輯獨立性的擔憂。]]></description>
+      <description><![CDATA[愛思唯爾出版的《人類進化期刊》的成員辭職，理由是人工智慧生產流程引入了錯誤、作者費用高昂以及對編輯獨立性的擔憂。]]></description>
       <guid>https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/</guid>
       <pubDate>Thu, 02 Jan 2025 23:21:26 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>將月球變成人類首個太空樞紐</title>
+      <title>將月球變成人類的第一個太空中心</title>
       <link>https://www.wired.com/story/moon-humanity-industrial-space-hub/</link>
       <description><![CDATA[重返地球衛星的一小步將為探索太陽系提供巨大的飛躍。]]></description>
       <guid>https://www.wired.com/story/moon-humanity-industrial-space-hub/</guid>
@@ -120,14 +127,14 @@
     <item>
       <title>2025 年推出的 17 款最佳電動車</title>
       <link>https://www.wired.com/story/the-17-best-evs-coming-in-2025/</link>
-      <description><![CDATA[在捷豹混亂的重新推出以及特斯拉 Cyber​​cab 發布會的盛況和戲劇性之後，很難想像來年會超過 2024 年，除非您看到我們選出的 2025 年最佳電動車。]]></description>
+      <description><![CDATA[在捷豹混亂的重新推出以及特斯拉 Cyber​​cab 發布會的盛況和戲劇性之後，很難想像來年會超過 2024 年——除非您看到我們選出的 2025 年最佳電動車。]]></description>
       <guid>https://www.wired.com/story/the-17-best-evs-coming-in-2025/</guid>
       <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>如何開始（並維持）健康的習慣 (2025)</title>
       <link>https://www.wired.com/story/how-to-start-a-healthy-habit/</link>
-      <description><![CDATA[無論您想跑馬拉松還是學彈吉他，這裡都有幫助您成功的方法。]]></description>
+      <description><![CDATA[無論您是想跑馬拉松還是學習彈吉他，以下都是如何讓自己成功的方法。]]></description>
       <guid>https://www.wired.com/story/how-to-start-a-healthy-habit/</guid>
       <pubDate>Wed, 01 Jan 2025 11:32:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[多年前的消息可能仍然潛伏在網上，可能會暴露您忘記存在的敏感資訊。但現在正是進行數位整理的最佳時機。]]></description>
       <guid>https://www.wired.com/story/old-chat-history-delete/</guid>
       <pubDate>Wed, 01 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何與螢幕建立更健康的關係</title>
-      <link>https://www.wired.com/story/healthy-screen-time-habits-tech-use/</link>
-      <description><![CDATA[不要驚慌，doomscrollers：重新調整你的習慣並使螢幕時間變得更加積極和有計劃是可能的。]]></description>
-      <guid>https://www.wired.com/story/healthy-screen-time-habits-tech-use/</guid>
-      <pubDate>Wed, 01 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
