@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 03 Jan 2025 12:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 12:56:49 GMT</lastBuildDate>
     <item>
-      <title>尼克·克萊格辭去 Meta 首席公關員職務，轉而支持更親川普的候選人</title>
+      <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
+      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
+      <pubDate>Fri, 03 Jan 2025 12:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼克·克萊格辭去梅塔的頭號人物職務，轉而支持對川普更友善的候選人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/nick_clegg_meta/</link>
-      <description><![CDATA[拉尼·克萊格(Runny Clegg) 爭先恐後 尊敬的尼克·克萊格(Nick Clegg) 爵士（授予他的全稱）已辭去Meta 全球事務總裁的職務。 .]]></description>
+      <description><![CDATA[Runny Clegg 爭先恐後地奔向門口 尊敬的 Nick Clegg 爵士（這是他的全名）已辭去 Meta 全球事務總裁一職。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/nick_clegg_meta/</guid>
       <pubDate>Fri, 03 Jan 2025 11:46:52 GMT</pubDate>
     </item>
     <item>
       <title>儘管承諾“分解”，埃森哲在沒有競爭的情況下贏得了 3500 萬英鎊的英國稅務工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</link>
-      <description><![CDATA[稅務部門稱，2009 年上線的系統無法由其他供應商支持 英國稅務部門在未經競爭的情況下向埃森哲額外提供了3520 萬英鎊，以取代一份從未招標的價值7040 萬英鎊的合約.… ]]></description>
+      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在未進行投標的7040 萬英鎊合約中，在沒有競爭的情況下向埃森哲額外提供了3520 萬英鎊.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</guid>
       <pubDate>Fri, 03 Jan 2025 11:02:06 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>據報道，中國網路間諜在美國財政部突襲中瞄準了製裁情報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</link>
-      <description><![CDATA[財政部長辦公室 OFAC 擔心遭到資料竊聽攻擊 據報道，侵入美國財政部工作站的中國間諜竊取了負責制裁組織和個人的政府辦公室的資料。 &gt;]]></description>
+      <description><![CDATA[美國財政部辦公室 OFAC 擔心在資料竊取行動中受創 據報道，入侵美國財政部工作站的中國間諜竊取了負責對組織和個人實施制裁的政府辦公室的資料。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</guid>
       <pubDate>Thu, 02 Jan 2025 22:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
+      <title>上訴法院支持大型電信公司，FCC 網路中立規則再次失效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
       <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 02 Jan 2025 20:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年會是衛星到智慧型手機服務真正起飛的一年嗎？</title>
+      <title>2025 年會成為衛星智慧型手機服務真正起飛的一年嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_starlink/</link>
       <description><![CDATA[得益於Starlink 和合作夥伴，直接與未經修改的行動裝置的連接即將到來 分析 今年推出了第一個衛星星座，旨在直接向未經修改的智慧型手機提供商業服務，這看起來將成為最大的衛星用例，美國在採用方面處於領先地位。 /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/satellite_phone_services_starlink/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>20 年前，甲骨文收購了兩家軟體競爭對手，永遠改變了市場</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/</link>
-      <description><![CDATA[在經歷了訴訟和毒丸計劃之後，PeopleSoft 和JD Edwards 未能抵擋Oracle 野心的誘惑 特寫  下週就是二十年過去了，經過一場緊張、漫長的惡意收購，甲骨文最終以103 億美元的價格收購了人力資源和財務軟體專家PeopleSoft …]]></description>
+      <description><![CDATA[在訴訟和毒丸之後，PeopleSoft 和JD Edwards 未能抵禦Oracle 野心的誘惑 專題  二十年前的下週，甲骨文在經歷了一場充滿憂慮、曠日持久的敵意收購後，完成了以103 億美元收購人力資源與財務軟體專家PeopleSoft 的交易...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/</guid>
       <pubDate>Thu, 02 Jan 2025 17:00:10 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>Edgio 破產導致 Microsoft 端點發生變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</link>
-      <description><![CDATA[聖誕節和新年之間的那個奇怪時刻——最適合改變生產項目 微軟在聖誕樹下為.NET 開發人員留下了一份不受歡迎的禮物——安裝程序和檔案分發的「意外」變化，這可能會影響生產系統…]]></description>
+      <description><![CDATA[聖誕節和新年之間的那個奇怪的時間- 非常適合改變生產項目 微軟為.NET 開發人員在樹下留下了一份不受歡迎的禮物- 對安裝程序和檔案分發的「意外」更改，這可能會影響生產系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/microsoft_endpoint_change/</guid>
       <pubDate>Thu, 02 Jan 2025 14:45:10 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>AWS 沿著 Iceberg 路徑統一分析平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</link>
-      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，還有其他障礙 分析 上週，AWS 雙腳跳入冰山。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，它又增加了一層。占主導地位的雲端平台提供者推出了S3 表，用於將資料儲存在Apache Iceberg（一種開放式表格式(OTF)）中，它使開發人員和資料工程師能夠將他們選擇的分析引擎帶到他們的資料中，無論資料位於何處，而無需移動資料它…]]></description>
+      <description><![CDATA[但在開發人員自由選擇儲存和分析引擎之前，仍有其他障礙 分析  上週，AWS 全心投入了 Iceberg。 S3 Buckets 是開發人員幾乎無所不在的儲存容器，現在又增加了一層。這家占主導地位的雲端平台提供者推出了S3 Tables，用於以Apache Iceberg（一種開放式表格式(OTF)）儲存數據，該格式承諾開發人員和數據工程師能夠將他們選擇的分析引擎帶到他們的數據中，無論數據位於何處，而不必移動它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/aws_iceberg/</guid>
       <pubDate>Thu, 02 Jan 2025 13:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>RISC-V正在採取行動，但如果想成為主流，它還有很多工作要做</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</link>
-      <description><![CDATA[它能否顛覆 x86 和 Arm，還是差距太大而無法彌合？開放的免版稅架構，無需許可成本即可實現靈活性和創新。但儘管有這麼多噪音，你更有可能發現它埋藏在物聯網小工具和晦澀的嵌入式系統中，而不是為通常會成為頭條新聞的任何東西提供動力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/riscv_journey_to_mainstream/</guid>
-      <pubDate>Thu, 02 Jan 2025 11:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
