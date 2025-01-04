@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 04 Jan 2025 00:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 02:13:24 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜員工在新奧爾良恐怖攻擊中遭到槍擊，最初拒絕休假</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</link>
+      <description><![CDATA[網路巨頭現在承諾全力支持 阿拉巴馬州莫比爾市亞馬遜工廠的一名倉庫工人在新奧爾良元旦致命恐怖襲擊中被卡車撞倒併中槍，最初遭到否認網路巨頭請病假，可能是由於人力資源混亂......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>先是富士康，現在是微軟：威斯康辛州小鎮被大型科技公司鄙視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>IBM 與 GlobalFoundries 就價值數十億美元的商業機密和合約訴訟達成和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/</link>
-      <description><![CDATA[為合作「新機會」掃清道路 IBM 和半導體製造商 GlobalFoundries 已經解決了彼此之間的所有訴訟，包括違反合約、專利和商業機密訴訟，對說… ]]></description>
+      <description><![CDATA[雙方表示，為合作的「新機會」掃清了道路 IBM 和半導體製造商 GlobalFoundries 已經解決了彼此之間的所有訴訟，包括違反合約、專利和商業機密訴訟，對說… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/</guid>
       <pubDate>Fri, 03 Jan 2025 14:44:05 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
-      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
+      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 代碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
       <pubDate>Fri, 03 Jan 2025 12:33:11 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>儘管承諾“分解”，埃森哲在沒有競爭的情況下贏得了 3500 萬英鎊的英國稅務工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</link>
-      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在未進行投標的7040 萬英鎊合約中，在沒有競爭的情況下向埃森哲額外提供了3520 萬英鎊.... ]]></description>
+      <description><![CDATA[稅務部門稱，2009 年上線的系統無法由其他供應商支持 英國稅務部門在未經競爭的情況下向埃森哲額外提供了3520 萬英鎊，以取代一份從未招標的價值7040 萬英鎊的合約.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</guid>
       <pubDate>Fri, 03 Jan 2025 11:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>ERP 專案陷入困境，導致銷售損失超過預算</title>
+      <title>失敗的 ERP 專案導致銷售損失超過預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</link>
-      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者會熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
+      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者將熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</guid>
       <pubDate>Fri, 03 Jan 2025 10:15:08 GMT</pubDate>
     </item>
@@ -97,16 +104,16 @@
       <pubDate>Fri, 03 Jan 2025 09:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果自動選擇讓每個人的照片接受人工智慧地標分析</title>
+      <title>蘋果自動選擇每個人都讓人工智慧分析他們的照片以尋找地標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</link>
-      <description><![CDATA[基於同態的增強視覺搜尋非常保護隱私，iPhone 巨頭無需詢問即可啟用它 Apple 去年部署了一種機制，用於識別其照片應用程式中儲存的圖像中的地標和名勝古蹟。]]></description>
+      <description><![CDATA[基於同態的增強視覺搜尋非常保護隱私，iPhone 巨頭在沒有詢問的情況下就激活了它 蘋果去年部署了一種機制，用於識別存儲在其照片應用程序中的圖像中的地標和名勝古蹟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/apple_enhanced_visual_search/</guid>
       <pubDate>Fri, 03 Jan 2025 08:34:13 GMT</pubDate>
     </item>
     <item>
       <title>技術支援戰士離開角色扮演戰鬥，徒步前往辦公室</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</link>
-      <description><![CDATA[把bat&#39;leth 放在一邊，為p&#39;takh 解決瑣碎問題 隨叫隨到 歡迎來到2025 年，就在三天前，這還是未來！另外，歡迎來到 The Register 週五專欄的新一期，該專欄的持續使命是收集您對技術支援故事的善意貢獻，並與世界分享。]]></description>
+      <description><![CDATA[放下 bat&#39;leth 來解決 p&#39;takh 的瑣碎問題 隨叫隨到 歡迎來到 2025 年，三天前這還在未來！另外，歡迎收看《On Call》的新一期，這是The Register的星期五專欄，其持續使命是收集您善意貢獻的技術支持故事並與全世界分享。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</guid>
       <pubDate>Fri, 03 Jan 2025 07:33:13 GMT</pubDate>
     </item>
@@ -120,12 +127,12 @@
     <item>
       <title>據報道，中國網路間諜在美國財政部突襲中瞄準了製裁情報</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</link>
-      <description><![CDATA[美國財政部辦公室 OFAC 擔心在資料竊取行動中受創 據報道，入侵美國財政部工作站的中國間諜竊取了負責對組織和個人實施制裁的政府辦公室的資料。 ]]></description>
+      <description><![CDATA[財政部長辦公室 OFAC 擔心遭到資料竊聽攻擊 據報道，侵入美國財政部工作站的中國間諜竊取了負責制裁組織和個人的政府辦公室的資料。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</guid>
       <pubDate>Thu, 02 Jan 2025 22:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
+      <title>上訴法院支持大型電信公司，FCC 網路中立規則再次失效</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
       <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[據稱，即使是拉鍊的聲音也足以開始錄音 蘋果公司已在加利福尼亞州提交了一份擬議和解協議，建議支付 9500 萬美元來解決 Siri 記錄用戶對話的指控未經同意並允許承包商監聽......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/apple_siri_lawsuit/</guid>
       <pubDate>Thu, 02 Jan 2025 21:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>千年蟲問題已經過去 25 年了，讓我們都很高興這件事發生在很久以前</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</link>
-      <description><![CDATA[憑藉當今的互聯技術，類似規模的錯誤將很難消除 評價  25 年前的 1 月 1 日，儘管人們對世界陷入恐慌和恐懼很快就陷入混亂，什麼事也沒發生。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/twentyfive_years_y2k/</guid>
-      <pubDate>Thu, 02 Jan 2025 20:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
