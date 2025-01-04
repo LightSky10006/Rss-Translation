@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 04 Jan 2025 02:59:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 08:39:26 GMT</lastBuildDate>
+    <item>
+      <title>Atos 用「但是」否認了 Space Bears 的勒索軟體指控</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/</link>
+      <description><![CDATA[指責第三方基礎設施遭到破壞 法國科技巨頭 Atos 今天否認 Space Bears 犯罪分子破壞了其係統，但指出第三方基礎設施已被勒索軟體人員破壞，並且該文件騙子存取的內容包括「提及Atos 公司名稱的資料。」...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/</guid>
+      <pubDate>Sat, 04 Jan 2025 08:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Honey 聯合創辦人 Pie Adblock 呼籲複製 GPL 的 uBlock Origin 文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/pie_adblock_ublock_origin_code/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 04 Jan 2025 01:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>先是富士康，現在是微軟：威斯康辛州小鎮被大型科技公司鄙視</title>
+      <title>先是富士康，現在是微軟：威斯康辛州小鎮遭科技巨頭鄙視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</link>
       <description><![CDATA[芒特普萊森特官員表示，雷德蒙德暫停重新設計計畫中的資料中心不會破壞這個專案 統計一下威斯康辛州芒特普萊森特反對他們的城鎮成為科技中心的居民幸運的是：首先，富士康放棄了原來在該鎮投資100 億美元的LCD 工廠計劃，據報道，現在微軟已暫停其價值33 億美元的數據中心園區的部分建設，該園區正在最初為富士康大型項目選擇的土地上建設。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</guid>
@@ -55,9 +62,9 @@
       <pubDate>Fri, 03 Jan 2025 15:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 與 GlobalFoundries 就價值數十億美元的商業機密和合約訴訟達成和解</title>
+      <title>IBM 和 GlobalFoundries 達成數十億美元商業機密和合約訴訟和解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/</link>
-      <description><![CDATA[雙方表示，為合作的「新機會」掃清了道路 IBM 和半導體製造商 GlobalFoundries 已經解決了彼此之間的所有訴訟，包括違反合約、專利和商業機密訴訟，對說… ]]></description>
+      <description><![CDATA[為合作「新機會」掃清道路 IBM 和半導體製造商 GlobalFoundries 已經解決了彼此之間的所有訴訟，包括違反合約、專利和商業機密訴訟，對說… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/</guid>
       <pubDate>Fri, 03 Jan 2025 14:44:05 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 03 Jan 2025 14:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>CAPTCHA 現在以噩夢模式運行 Doom</title>
+      <title>驗證碼現在可以在惡夢模式下運行 Doom</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/captcha_doom_nightmare/</link>
       <description><![CDATA[好像機器人防禦措施還不夠令人討厭 雖然對於我們大多數凡人來說不能這麼說，但Vercel 首席執行官Guillermo Rauch 度過了一個富有成效的節日期間，產生了驗證碼這要求使用者在《毀滅戰士》中在惡夢模式下殺死三個怪物。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/captcha_doom_nightmare/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
-      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 代碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
+      <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
       <pubDate>Fri, 03 Jan 2025 12:33:11 GMT</pubDate>
     </item>
@@ -92,19 +99,19 @@
     <item>
       <title>儘管承諾“分解”，埃森哲在沒有競爭的情況下贏得了 3500 萬英鎊的英國稅務工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</link>
-      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在沒有競爭的情況下向埃森哲額外提供了一份7040 萬英鎊的合同，該合同從未招標過.... ]]></description>
+      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在未進行投標的7040 萬英鎊合約中，在沒有競爭的情況下向埃森哲額外提供了3520 萬英鎊.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</guid>
       <pubDate>Fri, 03 Jan 2025 11:02:06 GMT</pubDate>
     </item>
     <item>
       <title>ERP 專案陷入困境，導致銷售損失超過預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</link>
-      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者將熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
+      <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者會熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</guid>
       <pubDate>Fri, 03 Jan 2025 10:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>HMD Fusion：一款具有模組化功能的廉價可修復智慧型手機</title>
+      <title>HMD Fusion：具有模組化特色的廉價可修復智慧型手機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/hmd_fusion_review/</link>
       <description><![CDATA[背面的擴展端口可讓您添加具有附加功能的服裝 評論 HMD 的Fusion 智慧型手機背面有一個彈簧針端口，可連接一些漂亮的外圍設​​備，包括遊戲控件，其規格是開放的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/hmd_fusion_review/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 03 Jan 2025 08:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>技術支援戰士離開角色扮演大賽並徒步前往辦公室</title>
+      <title>技術支援戰士離開角色扮演戰鬥，徒步前往辦公室</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</link>
       <description><![CDATA[把bat&#39;leth 放在一邊，為p&#39;takh 解決瑣碎問題 隨叫隨到 歡迎來到2025 年，就在三天前，這還是未來！另外，歡迎來到 The Register 週五專欄的新一期，該專欄的持續使命是收集您對技術支援故事的善意貢獻，並與世界分享。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/on_call/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[財政部長辦公室 OFAC 擔心遭到資料竊聽攻擊 據報道，侵入美國財政部工作站的中國間諜竊取了負責制裁組織和個人的政府辦公室的資料。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/chinese_spies_targeted_sanctions_intel/</guid>
       <pubDate>Thu, 02 Jan 2025 22:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦通訊委員會網路中立規則再次失效，上訴法院支持大型電信公司</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</link>
-      <description><![CDATA[不再來回：Rosenworcel 告訴國會這個問題需要立法 隨著 FCC 重新制定的法規被上訴小組否決，美國爭取網絡中立性的長期鬥爭再次發生了變化今天的法庭法官……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/</guid>
-      <pubDate>Thu, 02 Jan 2025 21:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
