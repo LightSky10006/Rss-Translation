@@ -4,9 +4,9 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 05 Jan 2025 13:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 14:10:29 GMT</lastBuildDate>
     <item>
-      <title>OS/2 失敗的真正原因繼續塑造了現代軟體</title>
+      <title>OS/2 失敗的真正原因影響了現代軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/05/os2_flopped_reason/</link>
       <description><![CDATA[就連Microsoft 的首席架構師也誤解了這次失敗 意見 本月早些時候，1995 年Usenet 帖子的重新出現促使Reg  FOSS 部門重新發布檢查一個關鍵的作業系統失敗…及其長期後果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/05/os2_flopped_reason/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Sat, 04 Jan 2025 09:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Atos 用「但是」否認了 Space Bears 的勒索軟體指控</title>
+      <title>Atos 否認 Space Bears 勒索軟體指控 – 並附上一個“但是”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/</link>
       <description><![CDATA[指責第三方基礎設施遭到破壞 法國科技巨頭 Atos 今天否認 Space Bears 犯罪分子破壞了其係統，但指出第三方基礎設施已被勒索軟體人員破壞，並且該文件騙子存取的內容包括「提及Atos 公司名稱的資料。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/atos_denies_space_bears_ransomware/</guid>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 03 Jan 2025 21:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>我們為得不到的東西付出了代價：華盛頓特區東部的鄰居對亞馬遜 Prime 配送服務被排除感到沮喪</title>
+      <title>我們正在為得不到的東西付出代價：東特區的鄰居對亞馬遜的 Prime 送貨排除感到沮喪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/amazon_delivery_exclusions_dc/</link>
       <description><![CDATA[當地人要求透明度- 退款不會有什麼壞處 專題 當資料科學家Andrew Breza 得知華盛頓特區總檢察長正在起訴亞馬遜排除他的郵遞區號時透過最快的送貨服務，他立即想親眼看看證據 - 他找到了。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/amazon_delivery_exclusions_dc/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>科技巨頭躲在陰影中等待川普的關稅威脅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</link>
-      <description><![CDATA[在擔心惹惱下一任美國總統的情況下，採取比政客更圓滑的外交手段是有道理的 科技高管群體中出現了一種詭異的沉默，甚至那些通常在最高職位上更直言不諱的人也陷入了沉默。]]></description>
+      <description><![CDATA[由於擔心惹怒下一任美國總統，比政客更加外交是有道理的 技術高管界的一些人，甚至是最高席位上通常更敢於發聲的人，都陷入了一種令人毛骨悚然的安靜在某位當選總統上台之前，企業害怕邁出錯誤的一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</guid>
       <pubDate>Fri, 03 Jan 2025 14:00:08 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 03 Jan 2025 13:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>科學家們瓜分了 C，因此程式碼可以轉換為 Rust</title>
+      <title>科學家將 C 語言分解，以便將程式碼轉換為 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</link>
       <description><![CDATA[Mini-C 是C 的子集，可以毫不費力地自動轉換為Rust 隸屬於法國Inria 和Microsoft 的電腦科學家設計了一種方法，可以自動將C 程式碼子集轉換為安全代碼Rust 程式碼，努力滿足對記憶體安全不斷增長的需求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/mini_c_microsoft_inria/</guid>
@@ -134,12 +134,12 @@
     <item>
       <title>儘管承諾“分解”，埃森哲在沒有競爭的情況下贏得了 3500 萬英鎊的英國稅務工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</link>
-      <description><![CDATA[稅務部門稱，2009 年上線的系統無法由其他供應商支持 英國稅務部門在未經競爭的情況下向埃森哲額外提供了3520 萬英鎊，用於一份從未招標的價值7040 萬英鎊的合約.… ]]></description>
+      <description><![CDATA[稅務員表示，2009 年上線的系統無法得到其他供應商的支持 英國稅務員在未進行投標的7040 萬英鎊合約中，在沒有競爭的情況下向埃森哲額外提供了3520 萬英鎊.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/accenture_wins_35_million_more/</guid>
       <pubDate>Fri, 03 Jan 2025 11:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>ERP 專案陷入困境，導致銷售損失超過預算</title>
+      <title>失敗的 ERP 專案導致銷售損失超過預算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</link>
       <description><![CDATA[南非零售商在SAP 實施方面遇到困難，表示正在做出改進 讀者將熟悉投資回報(ROI) 的概念- 當一個技術項目節省的成本超過其成本時- 但少於成本眾所周知的想法是，就像在粒子物理學中一樣，存在反投資回報率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/erp_project_sap_sales_losses/</guid>

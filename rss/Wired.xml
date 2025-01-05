@@ -4,11 +4,18 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 05 Jan 2025 13:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 14:10:35 GMT</lastBuildDate>
+    <item>
+      <title>經過測試和評測的 15 款最佳無線耳機（2025 年）</title>
+      <link>https://www.wired.com/gallery/best-wirefree-earbuds/</link>
+      <description><![CDATA[準備好切斷電源線了嗎？這些是我們最喜歡的花蕾，永遠不會纏結。]]></description>
+      <guid>https://www.wired.com/gallery/best-wirefree-earbuds/</guid>
+      <pubDate>Sun, 05 Jan 2025 14:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>AlphaTheta DDJ-FLX2 評測：一款優秀的入門 DJ 控制器</title>
       <link>https://www.wired.com/review/akphtatheta-ddj-flx2/</link>
-      <description><![CDATA[AlphaTheta 的全新廉價選項為您提供可靠的基礎功能，同時又不會偷工減料。]]></description>
+      <description><![CDATA[AlphaTheta 的新廉價選項為您提供可靠的基礎知識，而無需走太多捷徑。]]></description>
       <guid>https://www.wired.com/review/akphtatheta-ddj-flx2/</guid>
       <pubDate>Sun, 05 Jan 2025 13:00:00 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 05 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧硬體正進入「要嘛接受，要嘛閉嘴」的時代</title>
+      <title>人工智慧硬體正處於「要放開或閉嘴」的時代</title>
       <link>https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/</link>
       <description><![CDATA[本週在 CES 上，各種規模的公司都將展示他們所有的新型人工智慧設備。希望它們不會只做你手機已經擅長的事。]]></description>
       <guid>https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/</guid>
@@ -41,9 +48,9 @@
       <pubDate>Sun, 05 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆馬斯克談到 NASA 的登月雄心：“我們要直接去火星”</title>
+      <title>伊隆馬斯克提出美國太空總署的月球野心：“我們將直接前往火星”</title>
       <link>https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/</link>
-      <description><![CDATA[美國太空總署計劃透過阿爾忒彌斯任務讓人類重返月球，但伊隆馬斯克對火星的偏好可能會對川普政府產生影響。]]></description>
+      <description><![CDATA[美國太空總署計劃透過阿爾忒彌斯 (Artemis) 任務讓人類重返月球，但伊隆馬斯克對火星的偏好可能會對川普政府產生影響。]]></description>
       <guid>https://www.wired.com/story/elon-musk-mars-moon-artemis-nasa/</guid>
       <pubDate>Sat, 04 Jan 2025 17:30:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>野火煙霧比任何人想像的都更危險</title>
       <link>https://www.wired.com/story/what-we-learned-about-wildfire-smoke-in-2024/</link>
-      <description><![CDATA[研究人員發現，接觸煙霧會增加罹患癡呆症、精神健康不佳、生育問題和神經退化性疾病的風險。]]></description>
+      <description><![CDATA[研究人員發現，接觸菸霧會增加罹患失智症、心理健康狀況不佳、生育問題和神經退化性疾病的風險。]]></description>
       <guid>https://www.wired.com/story/what-we-learned-about-wildfire-smoke-in-2024/</guid>
       <pubDate>Sat, 04 Jan 2025 12:00:00 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Sat, 04 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉年銷量首次下降，但電動車產業持續成長</title>
+      <title>特斯拉年銷量首次下滑，但電動車產業仍在持續成長</title>
       <link>https://www.wired.com/story/tesla-may-be-in-a-sales-slump-but-evs-overall-are-doing-ok/</link>
       <description><![CDATA[儘管特斯拉最近銷量下滑，但全球電動車銷量整體仍在成長。]]></description>
       <guid>https://www.wired.com/story/tesla-may-be-in-a-sales-slump-but-evs-overall-are-doing-ok/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>USB-C 現已成為歐洲的法律</title>
       <link>https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/</link>
-      <description><![CDATA[蘋果已經下架了符合歐盟委員會新的通用充電器指令的設備。]]></description>
+      <description><![CDATA[蘋果已經撤下相關設備，以遵守歐盟委員會新的通用充電器指令。]]></description>
       <guid>https://www.wired.com/story/usb-c-is-now-a-legal-requirement-for-most-rechargeable-gadgets-in-europe/</guid>
       <pubDate>Fri, 03 Jan 2025 19:55:55 GMT</pubDate>
     </item>
     <item>
       <title>伊隆馬斯克不斷發布有關「美容集團」的謊言</title>
       <link>https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/</link>
-      <description><![CDATA[馬斯克的貼文在 X 上已獲得數億瀏覽量，這是他介入英國政壇的最新努力。]]></description>
+      <description><![CDATA[馬斯克的貼文在 X 上獲得了數億的瀏覽量，這是他融入英國政壇的最新舉措。]]></description>
       <guid>https://www.wired.com/story/elon-musk-disinformation-uk-grooming-gangs/</guid>
       <pubDate>Fri, 03 Jan 2025 16:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州人稱 X 阻止他們觀看有關 14 歲青少年失踪的安珀警報</title>
-      <link>https://www.wired.com/story/amber-alert-paywall-california/</link>
-      <description><![CDATA[許多人報告說，他們碰到了一個螢幕，除非他們登錄，否則無法看到警報。]]></description>
-      <guid>https://www.wired.com/story/amber-alert-paywall-california/</guid>
-      <pubDate>Fri, 03 Jan 2025 15:36:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
