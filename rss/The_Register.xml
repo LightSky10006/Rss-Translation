@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 06 Jan 2025 11:11:00 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 06 Jan 2025 12:24:36 GMT</lastBuildDate>
+    <item>
+      <title>Google Chromebook 10 年生命線讓舊筆電走向矽墓地</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/chromebook_end_of_life/</link>
+      <description><![CDATA[對新型號的更長時間支援不會將舊版本從廢品堆中拯救出來 Google 承諾在2023 年對其Chromebook 進行為期十年的更新，以防止它們在購買後很快就被丟棄，但許多產品仍準備這樣做2025 年以及接下來的幾年裡，我們將到達路的盡頭。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/chromebook_end_of_life/</guid>
+      <pubDate>Mon, 06 Jan 2025 11:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>迫在眉睫的能源危機使資料中心的未來充滿不確定性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/energy_crunch_datacenters/</link>
-      <description><![CDATA[但由於人工智慧和雲端運算需求，投資人仍在大舉押注比特倉 資料中心營運商正面臨著一場自相矛盾的危機——對其服務的需求比以往任何時候都要大，就像電力供應、環境問題一樣、成本上升和技能短缺已開始威脅必要的基礎設施擴建。]]></description>
+      <description><![CDATA[但由於人工智慧和雲端需求，投資者仍然在比特穀倉上押下重註 數據中心運營商正面臨著一場矛盾的危機- 對他們的服務的需求比以往任何時候都大，就像電力供應、環境問題一樣，成本上升和技能短缺已開始威脅必要的基礎設施擴張。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/energy_crunch_datacenters/</guid>
       <pubDate>Mon, 06 Jan 2025 11:01:12 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>括號放在<i>那裡</i>嗎？哎呀。那不是我使用它們的地方，現在東西壞了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</link>
-      <description><![CDATA[奇怪的語法和/或初級技術人員對企業來說非常糟糕 誰，我？ The Register 之所以提出這個問題，是因為很多時候小事情都會導致大問題，我們每週都會在“誰，我？”專欄中分享此類問題，以慶祝讀者擺脫錯誤。 …]]></description>
+      <description><![CDATA[奇怪的語法和/或初級技術人員可能對業務非常不利 誰，我？ The Register之所以提出這個問題，是因為小事情往往會造成大問題，我們每週都會在“誰，我？”專欄中分享這些大問題，該專欄慶祝讀者擺脫錯誤。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</guid>
       <pubDate>Mon, 06 Jan 2025 07:35:10 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Sun, 05 Jan 2025 11:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>資料中心如何用水以及為什麼戒掉這種習慣幾乎是不可能的</title>
+      <title>資料中心如何使用水以及為什麼戒掉這個習慣幾乎是不可能的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</link>
       <description><![CDATA[如果他們不直接消耗 H2O，那麼發電廠幾乎肯定會 特徵 繼 ChatGPT 之後，資料中心出現爆炸性成長2022年首次亮相，讓人們關注這些耗電設施對環境的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 04 Jan 2025 14:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>樂高積木中的沙克爾頓「堅忍號」啟航前往極地</title>
+      <title>樂高沙克爾頓的堅忍號啟航前往極地危險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/lego_endurance/</link>
       <description><![CDATA[因為我們都還是小孩——只是更富有 關於樂高是否是玩具的爭論很大程度上取決於你作為成年人是否願意接受重溫童年的興奮，尤其是當它現在已經很遙遠的時候更有可能是你買單，而不是你的父母。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/lego_endurance/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[不僅是 AWS、微軟等公司押注核能，13 個聯邦機構也紛紛行動 Constellation Energy 已從美國政府贏得了價值超過 10 億美元的核電供應合約超過13 個聯邦機構，驗證資料中心營運商為保護自己的原子源所做的努力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/us_gov_nuclear_energy/</guid>
       <pubDate>Fri, 03 Jan 2025 18:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國的邏輯有問題，但也許美國的記憶仍然可以佔上風</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/</link>
-      <description><![CDATA[英特爾晶圓代工前景存疑，美光在美國晶片法案推動中佔據中心地位 評價 美國在半導體和集成電路的開發和製造方面曾經領先世界。耗資 2800 億美元的美國晶片和科學法案旨在重建美國作為半導體製造超級大國的地位，並減輕對外國晶圓廠的依賴。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/</guid>
-      <pubDate>Fri, 03 Jan 2025 16:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
