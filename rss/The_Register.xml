@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 06 Jan 2025 10:40:56 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 06 Jan 2025 11:11:00 GMT</lastBuildDate>
+    <item>
+      <title>迫在眉睫的能源危機使資料中心的未來充滿不確定性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/energy_crunch_datacenters/</link>
+      <description><![CDATA[但由於人工智慧和雲端運算需求，投資人仍在大舉押注比特倉 資料中心營運商正面臨著一場自相矛盾的危機——對其服務的需求比以往任何時候都要大，就像電力供應、環境問題一樣、成本上升和技能短缺已開始威脅必要的基礎設施擴建。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/energy_crunch_datacenters/</guid>
+      <pubDate>Mon, 06 Jan 2025 11:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟與 ValueLicensing 的爭執將在 2026 年攤牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/valuelicensing_microsoft_trial_date/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>括號放在<i>那裡</i>嗎？哎呀。那不是我使用它們的地方，現在東西壞了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</link>
-      <description><![CDATA[奇怪的語法和/或初級技術人員可能對業務非常不利 誰，我？ The Register之所以提出這個問題，是因為小事情往往會造成大問題，我們每週都會在“誰，我？”專欄中分享這些大問題，該專欄慶祝讀者擺脫錯誤。 ...]]></description>
+      <description><![CDATA[奇怪的語法和/或初級技術人員對企業來說非常糟糕 誰，我？ The Register 之所以提出這個問題，是因為很多時候小事情都會導致大問題，我們每週都會在“誰，我？”專欄中分享此類問題，以慶祝讀者擺脫錯誤。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</guid>
       <pubDate>Mon, 06 Jan 2025 07:35:10 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 06 Jan 2025 01:24:09 GMT</pubDate>
     </item>
     <item>
-      <title>Pornhub 退出佛羅裡達州，VPN 需求“激增 1150%”</title>
+      <title>Pornhub 退出佛羅裡達州 VPN 需求“激增 1150%”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/05/pornhub_vpn_demand_surge/</link>
       <description><![CDATA[州終於掩蓋了 - 它的 IP 位址，即 在 Pornhub 開始禁止人們從陽光州境內訪問其網站後，佛羅裡達州在元旦那天見證了 VPN 需求的大幅增長，這是聲稱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/05/pornhub_vpn_demand_surge/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Sun, 05 Jan 2025 13:28:05 GMT</pubDate>
     </item>
     <item>
-      <title>Twigstats 軟體揭開歐洲老派移民的神秘面紗</title>
+      <title>Twigstats 軟體揭開了歐洲老派移民的神秘面紗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/05/twigstats_genetic_analysis/</link>
       <description><![CDATA[新的遺傳分析工具有望從古代DNA 的提取中獲得更深入的見解 在一篇描述歐洲人口流動的論文發表後，本週，用於研究古代DNA 數據之間更詳細差異的軟體證明了其價值公元第一個千年發表在科學雜誌《自然》上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/05/twigstats_genetic_analysis/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[英特爾晶圓代工前景存疑，美光在美國晶片法案推動中佔據中心地位 評價 美國在半導體和集成電路的開發和製造方面曾經領先世界。耗資 2800 億美元的美國晶片和科學法案旨在重建美國作為半導體製造超級大國的地位，並減輕對外國晶圓廠的依賴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/micron_us_memory/</guid>
       <pubDate>Fri, 03 Jan 2025 16:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>一筆好的生意如何讓我們低估 BASIC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/reevaluating_basics_legacy/</link>
-      <description><![CDATA[稍微精明的硬體舉措可能會損害一種重要語言的街頭信譽 功能 一代白髮IT人員在20 世紀80 年代的家用電腦上使用BASIC 學習計算。從那時起，每個職業選手都對它不屑一顧。發生了什麼事？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/reevaluating_basics_legacy/</guid>
-      <pubDate>Fri, 03 Jan 2025 15:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
