@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 06 Jan 2025 14:12:10 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 06 Jan 2025 14:39:00 GMT</lastBuildDate>
+    <item>
+      <title>聯發科技以一系列晶片組漏洞迎接新年</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/mediatek_chipset_vulnerabilities/</link>
+      <description><![CDATA[製造商應該有充足的時間來應用修復 聯發科在新年第一個完整工作週開始時披露了一系列安全漏洞，其中包括一個影響51 個晶片組的嚴重遠端程式碼執行漏洞.… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/mediatek_chipset_vulnerabilities/</guid>
+      <pubDate>Mon, 06 Jan 2025 14:28:12 GMT</pubDate>
+    </item>
     <item>
       <title>微軟承諾 2025 年投入 80B 美元，人工智慧支出熱潮仍在持續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/ai_spending_spree_continues_as/</link>
@@ -34,14 +41,14 @@
       <pubDate>Mon, 06 Jan 2025 11:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟與 ValueLicensing 的爭執將在 2026 年決出結果</title>
+      <title>微軟與 ValueLicensing 的爭執將在 2026 年攤牌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/valuelicensing_microsoft_trial_date/</link>
-      <description><![CDATA[有關轉售本地永久許可證的法律糾紛四年前拉開序幕 涉及經銷商ValueLicensing、微軟和永久許可證的法律糾紛一直持續到2024 年，並將於2026 年開庭審理。]]></description>
+      <description><![CDATA[關於轉售本地永久許可證的法律糾紛始於四年前 涉及經銷商ValueLicensing、Microsoft 和永久許可證的法律糾紛一直持續到2024 年，並將於2026 年進行審判。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/valuelicensing_microsoft_trial_date/</guid>
       <pubDate>Mon, 06 Jan 2025 10:15:10 GMT</pubDate>
     </item>
     <item>
-      <title>中國鹽颱風過後，重建工作現已啟動</title>
+      <title>中國鹽颱風過後重建工作現已開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/opinion_column_cybersec/</link>
       <description><![CDATA[如果 40 年的缺陷建築被吹倒，不要用廢墟重建 意見 當颱風摧毀一片土地時，需要一段時間才能了解其規模的破壞。救災開始，通訊重建，消息傳出。鹽颱風也不例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/opinion_column_cybersec/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>括號放在<i>那裡</i>嗎？哎呀。那不是我使用它們的地方，現在東西壞了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</link>
-      <description><![CDATA[奇怪的語法和/或初級技術人員可能對業務非常不利 誰，我？ The Register之所以提出這個問題，是因為小事情往往會造成大問題，我們每週都會在“誰，我？”專欄中分享這些大問題，該專欄慶祝讀者擺脫錯誤。 ...]]></description>
+      <description><![CDATA[奇怪的語法和/或初級技術人員對企業來說非常糟糕 誰，我？ The Register 之所以提出這個問題，是因為很多時候小事情都會導致大問題，我們每週都會在“誰，我？”專欄中分享此類問題，以慶祝讀者擺脫錯誤。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</guid>
       <pubDate>Mon, 06 Jan 2025 07:35:10 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Sun, 05 Jan 2025 11:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>資料中心如何用水以及為什麼戒掉這種習慣幾乎是不可能的</title>
+      <title>資料中心如何使用水以及為什麼戒掉這個習慣幾乎是不可能的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</link>
       <description><![CDATA[如果他們不直接消耗 H2O，那麼發電廠幾乎肯定會 特徵 繼 ChatGPT 之後，資料中心出現爆炸性成長2022年首次亮相，讓人們關注這些耗電設施對環境的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>亞馬遜員工在新奧爾良恐怖攻擊中遭到槍擊，最初拒絕休假</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</link>
-      <description><![CDATA[網路巨頭現在承諾全力支持 阿拉巴馬州莫比爾市亞馬遜工廠的一名倉庫工人在新奧爾良元旦致命恐怖襲擊中被卡車撞倒併中槍，最初遭到否認網路巨頭請病假，可能是由於人力資源混亂…]]></description>
+      <description><![CDATA[網路巨頭現在承諾全力支持 阿拉巴馬州莫比爾市亞馬遜工廠的一名倉庫工人在新奧爾良元旦致命恐怖襲擊中被卡車撞倒併中槍，最初遭到否認網路巨頭請病假，可能是由於人力資源混亂......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</guid>
       <pubDate>Sat, 04 Jan 2025 01:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>先是富士康，現在是微軟：威斯康辛州小鎮被大型科技公司鄙視</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</link>
-      <description><![CDATA[芒特普萊森特官員表示，雷德蒙德暫停重新設計計畫中的資料中心不會破壞這個專案 統計一下威斯康辛州芒特普萊森特反對他們的城鎮成為科技中心的居民幸運的是：首先，富士康放棄了原來在該鎮投資100 億美元的LCD 工廠計劃，據報道，現在微軟已暫停其價值33 億美元的數據中心園區的部分建設，該園區正在最初為富士康大型項目選擇的土地上建設。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</guid>
-      <pubDate>Fri, 03 Jan 2025 21:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
