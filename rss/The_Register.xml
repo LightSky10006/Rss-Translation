@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 06 Jan 2025 08:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 09:37:20 GMT</lastBuildDate>
+    <item>
+      <title>中國鹽颱風過後重建工作現已開始</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/opinion_column_cybersec/</link>
+      <description><![CDATA[如果 40 年的缺陷建築被吹倒，不要用廢墟重建 意見 當颱風摧毀一片土地時，需要一段時間才能了解其規模的破壞。救災開始，通訊重建，消息傳出。鹽颱風也不例外。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/opinion_column_cybersec/</guid>
+      <pubDate>Mon, 06 Jan 2025 09:31:10 GMT</pubDate>
+    </item>
     <item>
       <title>括號放在<i>那裡</i>嗎？哎呀。那不是我使用它們的地方，現在東西壞了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</link>
-      <description><![CDATA[奇怪的語法和/或初級技術人員可能對業務非常不利 誰，我？ The Register之所以提出這個問題，是因為小事情往往會造成大問題，我們每週都會在“誰，我？”專欄中分享這些大問題，該專欄慶祝讀者擺脫錯誤。 ...]]></description>
+      <description><![CDATA[奇怪的語法和/或初級技術人員對企業來說非常糟糕 誰，我？ The Register 之所以提出這個問題，是因為很多時候小事情都會導致大問題，我們每週都會在“誰，我？”專欄中分享此類問題，以慶祝讀者擺脫錯誤。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/who_me/</guid>
       <pubDate>Mon, 06 Jan 2025 07:35:10 GMT</pubDate>
     </item>
@@ -41,14 +48,14 @@
       <pubDate>Sun, 05 Jan 2025 23:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>OS/2 的失敗如何繼續塑造現代軟體</title>
+      <title>OS/2 的失敗如何影響了現代軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/05/microsoft_os2_flop_future/</link>
       <description><![CDATA[就連Microsoft 的首席架構師也誤解了這次失敗 意見 本月早些時候，1995 年Usenet 帖子的重新出現促使Reg  FOSS 部門重新發布檢查一個關鍵的作業系統失敗…及其長期後果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/05/microsoft_os2_flop_future/</guid>
       <pubDate>Sun, 05 Jan 2025 13:28:05 GMT</pubDate>
     </item>
     <item>
-      <title>Twigstats 軟體揭開了歐洲老派移民的神秘面紗</title>
+      <title>Twigstats 軟體揭開歐洲老派移民的神秘面紗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/05/twigstats_genetic_analysis/</link>
       <description><![CDATA[新的遺傳分析工具有望從古代DNA 的提取中獲得更深入的見解 在一篇描述歐洲人口流動的論文發表後，本週，用於研究古代DNA 數據之間更詳細差異的軟體證明了其價值公元第一個千年發表在科學雜誌《自然》上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/05/twigstats_genetic_analysis/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>資料中心如何用水以及為什麼戒掉這種習慣幾乎是不可能的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</link>
-      <description><![CDATA[如果他們不直接消耗 H2O，那麼發電廠幾乎肯定會消耗 特徵  繼 ChatGPT 之後資料中心的爆炸性增長2022 年的首次亮相讓人們關注這些耗電設施對環境的影響…]]></description>
+      <description><![CDATA[如果他們不直接消耗 H2O，那麼發電廠幾乎肯定會 特徵 繼 ChatGPT 之後，資料中心出現爆炸性成長2022年首次亮相，讓人們關注這些耗電設施對環境的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/how_datacenters_use_water/</guid>
       <pubDate>Sat, 04 Jan 2025 18:30:10 GMT</pubDate>
     </item>
@@ -92,12 +99,12 @@
     <item>
       <title>亞馬遜員工在新奧爾良恐怖攻擊中遭到槍擊，最初拒絕休假</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</link>
-      <description><![CDATA[網路巨頭現在承諾全力支持 阿拉巴馬州莫比爾市亞馬遜工廠的一名倉庫工人在新奧爾良元旦致命恐怖襲擊中被卡車撞倒併中槍，最初遭到否認網路巨頭請病假，可能是由於人力資源混亂......]]></description>
+      <description><![CDATA[網路巨頭現在承諾全力支持 阿拉巴馬州莫比爾市亞馬遜工廠的一名倉庫工人在新奧爾良元旦致命恐怖襲擊中被卡車撞倒併中槍，最初遭到否認網路巨頭請病假，可能是由於人力資源混亂…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/04/amazon_worker_health/</guid>
       <pubDate>Sat, 04 Jan 2025 01:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>先是富士康，現在是微軟：威斯康辛州小鎮被大型科技公司鄙視</title>
+      <title>先是富士康，現在是微軟：威斯康辛州小鎮遭科技巨頭鄙視</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</link>
       <description><![CDATA[芒特普萊森特官員表示，雷德蒙德暫停重新設計計畫中的資料中心不會破壞這個專案 統計一下威斯康辛州芒特普萊森特反對他們的城鎮成為科技中心的居民幸運的是：首先，富士康放棄了原來在該鎮投資100 億美元的LCD 工廠計劃，據報道，現在微軟已暫停其價值33 億美元的數據中心園區的部分建設，該園區正在最初為富士康大型項目選擇的土地上建設。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/microsoft_pauses_datacenter_construction/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>我們正在為得不到的東西付出代價：東特區的鄰居對亞馬遜的 Prime 送貨排除感到沮喪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/amazon_delivery_exclusions_dc/</link>
-      <description><![CDATA[當地人要求透明度- 退款不會有壞處 特寫  當資料科學家Andrew Breza 得知華盛頓特區總檢察長因亞馬遜未提供其郵遞區號而對其提起訴訟時由於其送貨服務速度極快，他立即想親眼看看這個證據——而且他找到了。 …]]></description>
+      <description><![CDATA[當地人要求透明度- 退款不會有什麼壞處 專題 當資料科學家Andrew Breza 得知華盛頓特區總檢察長正在起訴亞馬遜排除他的郵遞區號時透過最快的送貨服務，他立即想親眼看看證據 - 他找到了。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/amazon_delivery_exclusions_dc/</guid>
       <pubDate>Fri, 03 Jan 2025 19:30:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[為合作「新機會」掃清道路 IBM 和半導體製造商 GlobalFoundries 已經解決了彼此之間的所有訴訟，包括違反合約、專利和商業秘密訴訟，一對說.. . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/ibm_globalfoundries_settle_lawsuits/</guid>
       <pubDate>Fri, 03 Jan 2025 14:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨頭躲在陰影中等待川普的關稅威脅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</link>
-      <description><![CDATA[由於擔心惹怒下一任美國總統，比政客更加外交是有道理的 技術高管界的一些人，甚至是最高席位上通常更敢於發聲的人，都陷入了一種令人毛骨悚然的安靜在某位當選總統上台之前，企業害怕邁出錯誤的一步。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/03/tech_titans_hide_in_shadows/</guid>
-      <pubDate>Fri, 03 Jan 2025 14:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
