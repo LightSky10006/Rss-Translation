@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 07 Jan 2025 20:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 21:12:04 GMT</lastBuildDate>
     <item>
-      <title>約翰迪爾擁有無人駕駛車隊－誰還需要操作員？</title>
+      <title>很多人都說杜拜豪華房地產開發商將斥資 200 億美元興建美國資料中心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</link>
+      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，總部位於杜拜的豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設資料中心的投資額達 10 億美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>約翰迪爾擁有無人駕駛車隊－到底誰需要操作員？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</link>
       <description><![CDATA[有許多降低勞動成本的新方法，但沒有提及可修復性 CES  約翰迪爾(John Deere) 對農業、採石場和景觀美化未來的願景已在CES 2025 上浮現，設備操作員的工作要少得多，而機器驅動的獨立性要高得多。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</guid>
@@ -22,14 +29,14 @@
     <item>
       <title>人工智慧可以改進它寫的程式碼，但你必須知道如何提問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/</link>
-      <description><![CDATA[LLM 可以為已經知道自己在做什麼的開發人員做更多事情 如果您要求的話，大型語言模型(LLM) 會編寫出更好的程式碼，儘管需要一些軟體開發經驗才能有效地做到這一點–這限制了人工智慧程式碼幫助新手的實用性。]]></description>
+      <description><![CDATA[LLM 可以為已經知道自己在做什麼的開發人員做更多事情 如果您要求的話，大型語言模型(LLM) 會編寫出更好的程式碼，儘管需要一些軟體開發經驗才能有效地做到這一點–這限制了人工智慧程式碼幫助新手的效用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/</guid>
       <pubDate>Tue, 07 Jan 2025 17:00:10 GMT</pubDate>
     </item>
     <item>
       <title>高通最新的 Snapdragon X 晶片面向 600 美元的 Copilot+ PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/</link>
-      <description><![CDATA[希望在基於 Arm 的硬體上擠出競爭對手 CES 高通推出了其驍龍 X 系列的最新 Arm 晶片，用於驅動 Copilot+ PC，目標是600 美元左右的系統。]]></description>
+      <description><![CDATA[希望在基於 Arm 的硬體上排除競爭 CES 高通公司推出了最新的 Snapdragon X 系列基於 Arm 的晶片，為 Copilot+ PC 提供支持，目標是600美元範圍內的系統...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/</guid>
       <pubDate>Tue, 07 Jan 2025 16:15:11 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Tue, 07 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源公司的新格倫火箭將於 1 月 10 日首次發射</title>
+      <title>藍色起源的新格倫火箭將於 1 月 10 日首次發射</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</link>
-      <description><![CDATA[貝佐斯助推器終於準備好投入使用 藍色起源已將其新格倫火箭的首次發射日期定為1 月10 日。 ]]></description>
+      <description><![CDATA[貝佐斯助推器終於準備好行動 藍色起源已確定其新格倫火箭首次發射的日期為1 月10 日。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</guid>
       <pubDate>Tue, 07 Jan 2025 14:00:07 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 07 Jan 2025 13:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>AWS真的能修復AI幻覺嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
+      <title>AWS 真的可以解決 AI 幻覺問題嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</link>
       <description><![CDATA[致力於證明程式碼在數學上正確的方法的工程師發現他的領域突然不再那麼晦澀 採訪 人工智慧的一個顯著缺陷是它的“產生幻覺、 「編造看似合理的答案，但沒有現實世界數據的基礎。 AWS 正在嘗試透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</guid>
@@ -118,14 +125,14 @@
       <pubDate>Tue, 07 Jan 2025 05:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 縮小 Grace-Blackwell 超級晶片的尺寸，為 3000 美元的迷你 PC 提供動力</title>
+      <title>Nvidia 縮小 Grace-Blackwell 超級晶片以驅動價值 3000 美元的迷你電腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/nvidia_project_digits_mini_pc/</link>
       <description><![CDATA[專為在具有128GB RAM、定制Ubuntu 的桌面上運行厚重模型而進行了調整 CES  Nvidia 宣布推出一款搭載全新GB10 Grace-Blackwell 超級晶片並配備了擁有128GB 內存，為AI 開發人員、研究人員和學生提供在桌面上運行大型模型所需的工具。 _whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/nvidia_project_digits_mini_pc/</guid>
       <pubDate>Tue, 07 Jan 2025 04:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>哥們，你買的是戴爾電腦，就是這樣！ RIP XPS、Inspiron、Latitude、Precision</title>
+      <title>老兄，你有一台戴爾，就這樣！ RIP XPS、Inspiron、Latitude、Precision</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/dell_renaming_pc_brands/</link>
       <description><![CDATA[這一切都將以層級結束 戴爾利用本週在拉斯維加斯舉行的年度CES 盛會，宣布了與蘋果硬體命名政策非常相似的品牌重組。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/dell_renaming_pc_brands/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[ChainPatrol 表示，工作人員複製貼上了錯誤的YouTube URL 格蘭特桑德森(Grant Sanderson) 紅極一時的YouTube 頻道3Blue1Brown 上解釋比特幣的熱門影片的版權被錯誤刪除，該視頻已被撤銷，原因歸咎於人為錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/3blue1brown_video_takedown_mistake/</guid>
       <pubDate>Tue, 07 Jan 2025 01:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>新奧爾良襲擊者使用Meta智慧眼鏡策劃元旦大屠殺</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/new_orleans_attacker_meta_glasses/</link>
-      <description><![CDATA[但 FBI 證實，賈巴爾並沒有直播 1 月 1 日的行為 元旦那天在新奧爾良開著一輛皮卡車衝撞人群，造成 14 人死亡的男子穿著 Meta 的智慧型手機據聯邦調查局稱，眼鏡可以在襲擊前偵察位置。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/new_orleans_attacker_meta_glasses/</guid>
-      <pubDate>Mon, 06 Jan 2025 23:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
