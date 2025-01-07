@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 07 Jan 2025 02:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 13:24:15 GMT</lastBuildDate>
+    <item>
+      <title>美國發射公司年度實力排名墊底換血</title>
+      <link>https://arstechnica.com/space/2025/01/annual-power-ranking-of-us-launch-companies-finds-a-shake-up-at-the-bottom/</link>
+      <description><![CDATA[第一名應該不足為奇，但我們打賭你不會猜到不是。 10.]]></description>
+      <guid>https://arstechnica.com/space/2025/01/annual-power-ranking-of-us-launch-companies-finds-a-shake-up-at-the-bottom/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>BBC 標題錯誤後蘋果將更新 iOS 通知摘要</title>
       <link>https://arstechnica.com/gadgets/2025/01/apple-plans-software-update-after-ai-summaries-get-news-headlines-wrong/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>AMD 的新筆記型電腦 CPU 系列混合了新晶片和舊晶片的新名稱</title>
       <link>https://arstechnica.com/gadgets/2025/01/amds-2025-ryzen-laptop-lineup-a-mix-of-powerful-new-and-renamed-old/</link>
-      <description><![CDATA[新款 Ryzen AI CPU 提升了速度，但價格更便宜的筆記型電腦又獲得了 Ryzen 品牌重塑。]]></description>
+      <description><![CDATA[新的 Ryzen AI CPU 提高了速度，但更便宜的筆記型電腦獲得了另一個 Ryzen 品牌重塑。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/amds-2025-ryzen-laptop-lineup-a-mix-of-powerful-new-and-renamed-old/</guid>
       <pubDate>Mon, 06 Jan 2025 20:31:08 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>如果您購買最好的一款，AMD 的新款 Ryzen Z2 CPU 將提升遊戲手持裝置的效能</title>
       <link>https://arstechnica.com/gadgets/2025/01/amds-new-ryzen-z2-cpus-boost-gaming-handhelds-if-you-buy-the-best-one/</link>
-      <description><![CDATA[Z2 Extreme 是唯一一款比 AMD 之前提供的產品更快的產品。]]></description>
+      <description><![CDATA[Z2 Extreme 是唯一一款比 AMD 先前推出的產品速度更快的產品。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/amds-new-ryzen-z2-cpus-boost-gaming-handhelds-if-you-buy-the-best-one/</guid>
       <pubDate>Mon, 06 Jan 2025 19:45:18 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Mon, 06 Jan 2025 19:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>新款 Radeon RX 9000 GPU 有望修復 AMD 的兩個最大弱點</title>
+      <title>新款 Radeon RX 9000 GPU 有望解決 AMD 的兩個最大弱點</title>
       <link>https://arstechnica.com/gadgets/2025/01/new-radeon-rx-9000-gpus-promise-to-fix-two-of-amds-biggest-weaknesses/</link>
-      <description><![CDATA[更好的光線追蹤和 ML 支援的 FSR 升級可能會縮小與 Nvidia 的差距。]]></description>
+      <description><![CDATA[更好的光線追蹤和 ML 支援的 FSR 升級可以縮小與 Nvidia 的差距。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/new-radeon-rx-9000-gpus-promise-to-fix-two-of-amds-biggest-weaknesses/</guid>
       <pubDate>Mon, 06 Jan 2025 19:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>每當我們擁有 8K 電視和內容時，HDMI 2.2 將需要新的“Ultra96”電纜</title>
-      <link>https://arstechnica.com/gadgets/2025/01/hdmi-2-2-will-require-new-ultra96-cables-whenever-we-have-8k-tvs-and-content/</link>
-      <description><![CDATA[令人困惑的是，實體連接器是相同的。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/hdmi-2-2-will-require-new-ultra96-cables-whenever-we-have-8k-tvs-and-content/</guid>
-      <pubDate>Mon, 06 Jan 2025 17:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
