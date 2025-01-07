@@ -4,9 +4,16 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 07 Jan 2025 13:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 15:08:10 GMT</lastBuildDate>
     <item>
-      <title>我們評測過的 12 款最佳電視以及購買建議（2025 年）</title>
+      <title>Meta 在川普第二任期前放棄事實查核人員</title>
+      <link>https://www.wired.com/story/meta-ditches-fact-checkers-in-favor-of-x-style-community-notes/</link>
+      <description><![CDATA[Meta 顯然正在向即將上任的川普政府示好，宣布對其內容審核進行徹底改變，包括不再進行事實核查，並遷往德州。]]></description>
+      <guid>https://www.wired.com/story/meta-ditches-fact-checkers-in-favor-of-x-style-community-notes/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們評測過的 12 款最佳電視，以及購買建議 (2025)</title>
       <link>https://www.wired.com/gallery/best-tvs/</link>
       <description><![CDATA[從 LED 到精美的 OLED 型號，這些都是我們最喜歡的各種價位的電視。]]></description>
       <guid>https://www.wired.com/gallery/best-tvs/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>衛星現在可以識別甲烷“超級排放者”</title>
       <link>https://www.wired.com/story/satellites-global-methane-emissions-greenhouse-gas/</link>
-      <description><![CDATA[天空中的兩隻眼睛如今正瞄準地球，尋找最嚴重的甲烷排放者，無論身在何處。]]></description>
+      <description><![CDATA[天空中的兩隻眼睛現在正盯著地球，尋找釋放甲烷的最嚴重的罪犯，無論他們在哪裡。]]></description>
       <guid>https://www.wired.com/story/satellites-global-methane-emissions-greenhouse-gas/</guid>
       <pubDate>Tue, 07 Jan 2025 09:00:00 GMT</pubDate>
     </item>
@@ -125,9 +132,9 @@
       <pubDate>Mon, 06 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>HTML 其實是一種程式語言。和我戰鬥</title>
+      <title>HTML 其實是一種程式語言。跟我戰鬥</title>
       <link>https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/</link>
-      <description><![CDATA[事實上，HTML 是迄今為止所開發的最重要的計算語言。低估它會讓你陷入危險。]]></description>
+      <description><![CDATA[事實上，HTML 是有史以來最重要的運算語言。低估它，後果自負。]]></description>
       <guid>https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/</guid>
       <pubDate>Mon, 06 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[透過解決存在的混亂和不可預測的一面，機器學習可以產生超越數位化的影響。]]></description>
       <guid>https://www.wired.com/story/ai-physical-intelligence-machine-learning/</guid>
       <pubDate>Mon, 06 Jan 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年最值得購買的 iPad（以及一些避免購買的 iPad）</title>
-      <link>https://www.wired.com/gallery/the-best-ipad/</link>
-      <description><![CDATA[我們對目前的 iPad 系列進行了細分，以幫助您找出哪一款 Apple 平板電腦最適合您。]]></description>
-      <guid>https://www.wired.com/gallery/the-best-ipad/</guid>
-      <pubDate>Sun, 05 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
