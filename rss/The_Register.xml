@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 07 Jan 2025 12:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 12:58:11 GMT</lastBuildDate>
+    <item>
+      <title>AWS真的能修復AI幻覺嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</link>
+      <description><![CDATA[致力於證明程式碼數學正確性的工程師發現他的領域突然變得不那麼晦澀難懂 採訪  人工智慧的一個顯著缺陷是它習慣於“產生幻覺”，即編造這些看似合理的答案毫無現實世界的數據依據。 AWS 正試圖透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</guid>
+      <pubDate>Tue, 07 Jan 2025 12:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆馬斯克的銀河自我在歐洲政治中播下混亂的種子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/musk_political_adventures/</link>
@@ -57,19 +64,19 @@
     <item>
       <title>Nvidia 縮小 Grace-Blackwell 超級晶片的尺寸，為 3000 美元的迷你 PC 提供動力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/nvidia_project_digits_mini_pc/</link>
-      <description><![CDATA[針對在配備128GB RAM 的桌上型電腦上運行大型車型進行了調整，定制的Ubuntu CES  Nvidia 宣布推出一款桌上型電腦，採用新的GB10 Grace- Blackwell 超級晶片，並配備配備128GB 內存，為AI 開發人員、研究人員和學生提供在桌面上運行大型模型所需的工具。 /_whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
+      <description><![CDATA[專為在具有128GB RAM、定制Ubuntu 的桌面上運行厚重模型而進行了調整 CES  Nvidia 宣布推出一款搭載全新GB10 Grace-Blackwell 超級晶片並配備了擁有128GB 內存，為AI 開發人員、研究人員和學生提供在桌面上運行大型模型所需的工具。 _whitepaper_textlinks_top.html&#39; - -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/nvidia_project_digits_mini_pc/</guid>
       <pubDate>Tue, 07 Jan 2025 04:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>老兄，你有一台戴爾，就這樣！ RIP XPS、Inspiron、Latitude、Precision</title>
+      <title>哥們，你買的是戴爾電腦，就是這樣！ RIP XPS、Inspiron、Latitude、Precision</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/dell_renaming_pc_brands/</link>
       <description><![CDATA[這一切都將以層級結束 戴爾利用本週在拉斯維加斯舉行的年度CES 盛會，宣布了與蘋果硬體命名政策非常相似的品牌重組。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/dell_renaming_pc_brands/</guid>
       <pubDate>Tue, 07 Jan 2025 03:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧產業的 3Blue1Brown 版權刪除失誤歸咎於人為錯誤</title>
+      <title>人工智慧公司 3Blue1Brown 版權刪除失誤歸咎於人為錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/3blue1brown_video_takedown_mistake/</link>
       <description><![CDATA[ChainPatrol 表示，工作人員複製貼上了錯誤的YouTube URL 格蘭特桑德森(Grant Sanderson) 紅極一時的YouTube 頻道3Blue1Brown 上解釋比特幣的熱門影片的版權被錯誤刪除，該視頻已被撤銷，原因歸咎於人為錯誤。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/3blue1brown_video_takedown_mistake/</guid>
@@ -99,12 +106,12 @@
     <item>
       <title>據報道，Charter、Consolidated、Windstream 均已加入中國鹽颱風受害者名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/charter_consolidated_windstream_salt_typhoon/</link>
-      <description><![CDATA[受損的電信網路仍在緩慢流失 隨著一份新報告將Charter Communications、Consolidated Communications 和Windstream 列為中國政府窺探所破壞的對象，鹽颱風網路攻擊中的電信受害者名單繼續增加...]]></description>
+      <description><![CDATA[受感染的電信網路仍在緩慢蔓延 「鹽颱風」網路攻擊的電信受害者名單繼續增加，一份新報告指出，Charter Communications、Consolidated Communications 和Windstream 均是中國政府間諜機構入侵的對象…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/charter_consolidated_windstream_salt_typhoon/</guid>
       <pubDate>Mon, 06 Jan 2025 20:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>厭倦了乞討，微軟現在試圖欺騙用戶，讓他們認為 Bing 是谷歌</title>
+      <title>微軟厭倦了乞求，現在試圖欺騙用戶，讓他們認為 Bing 是 Google</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/microsoft_bing_spoof_google/</link>
       <description><![CDATA[如果你不能打敗他們，就模仿他們的品牌，隱藏你的品牌，希望他們不會注意到 看起來微軟想出了一個新技巧來留住那些不小心結束的人們對 Bing 離開 Google 的不滿：簡單地模仿 Google 主頁的外觀，希望沒有人會注意到。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/microsoft_bing_spoof_google/</guid>
@@ -120,14 +127,14 @@
     <item>
       <title>Eutelsat OneWeb將48小時約會災難歸咎於第366天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/eutelsat_oneweb_leap_year/</link>
-      <description><![CDATA[衛星寬頻供應商遭遇閏年詛咒 Eutelsat 的 OneWeb 星座上周遭遇了與日期相關的崩潰，而 IT 世界的其他部門則為自己在 25 年來避免了 Y2K 災難而沾沾自喜以前……]]></description>
+      <description><![CDATA[閏年詛咒攻擊衛星寬頻供應商 上週，Eutelsat 的OneWeb 衛星星座遭遇了與日期相關的故障，而IT 界的其他人則為自己在四分之一世紀內避免了Y2K 災難而沾沾自喜前…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/eutelsat_oneweb_leap_year/</guid>
       <pubDate>Mon, 06 Jan 2025 15:22:05 GMT</pubDate>
     </item>
     <item>
       <title>聯發科技以一系列晶片組漏洞迎接新年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/mediatek_chipset_vulnerabilities/</link>
-      <description><![CDATA[製造商應該有充足的時間來應用修復 聯發科在新年第一個完整工作週開始時披露了一系列安全漏洞，其中包括一個影響51 個晶片組的嚴重遠端程式碼執行漏洞.… ]]></description>
+      <description><![CDATA[製造商應該有足夠的時間來應用修復 聯發科透過揭露一系列安全漏洞拉開了新年第一個完整工作週的序幕，其中包括影響51 個晶片組的關鍵遠程程式碼執行錯誤.... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/mediatek_chipset_vulnerabilities/</guid>
       <pubDate>Mon, 06 Jan 2025 14:28:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[憑藉那些可能會與前提爭論的巨額回報......哦等等 人工智慧資料中心的支出大舉看來可能會在2025 年繼續下去，僅微軟一家就表示今年將投資800 億美元用於建設訓練和部署人工智慧模型的基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/ai_spending_spree_continues_as/</guid>
       <pubDate>Mon, 06 Jan 2025 13:46:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 將在下一次 Starship 測試中嘗試部署衛星</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/spacex_starship_test/</link>
-      <description><![CDATA[十個亞軌道星鏈模擬器將從馬斯克的飛船上發射 SpaceX 正在推進下一次星艦測試，並概述了該任務的目標，包括部署十個星鏈模擬器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/spacex_starship_test/</guid>
-      <pubDate>Mon, 06 Jan 2025 12:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
