@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 07 Jan 2025 16:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 17:11:33 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧可以改進它所寫的程式碼，但你必須知道如何提出要求</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/</link>
+      <description><![CDATA[LLM 可以為已經知道自己在做什麼的開發人員做更多事情 如果您要求的話，大型語言模型(LLM) 會編寫出更好的程式碼，儘管需要一些軟體開發經驗才能有效地做到這一點–這限制了人工智慧程式碼幫助新手的實用性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>高通最新的 Snapdragon X 晶片面向 600 美元的 Copilot+ PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 07 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源的新格倫火箭將於 1 月 10 日首次發射</title>
+      <title>藍色起源公司的新格倫火箭將於 1 月 10 日首次發射</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</link>
       <description><![CDATA[貝佐斯助推器終於準備好行動 藍色起源已確定其新格倫火箭首次發射的日期- 1 月10 日。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>AWS真的能修復AI幻覺嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</link>
-      <description><![CDATA[致力於證明程式碼在數學上正確的方法的工程師發現他的領域突然不再那麼晦澀 採訪 人工智慧的一個顯著缺陷是它的“產生幻覺、 「編造看似合理的答案，但沒有現實世界數據的基礎。 AWS 正在嘗試透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
+      <description><![CDATA[致力於證明程式碼在數學上正確的工程師發現他的領域突然變得不那麼晦澀難懂 採訪  人工智慧的一個顯著缺陷是它習慣於「產生幻覺， 「編造出看似合理的答案，但毫無現實世界的數據依據。 AWS 正試圖透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</guid>
       <pubDate>Tue, 07 Jan 2025 12:30:13 GMT</pubDate>
     </item>
@@ -62,21 +69,21 @@
       <pubDate>Tue, 07 Jan 2025 11:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>未經授權的 OneDrive 免費服務將於本月結束</title>
+      <title>未經許可的 OneDrive 免費乘車服務將於本月結束</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/unlicensed_onedrive_fun_ends/</link>
-      <description><![CDATA[老微軟擔心安全性和合規性...與免費儲存漏洞無關 仍然將資料保留在長期消失的用戶的未經許可的 OneDrive 帳戶中？是時候採取行動了：資料可能很快就會變得無法訪問，甚至永久刪除。 ...  ]]></description>
+      <description><![CDATA[老牌微軟擔心安全性和合規性...與免費儲存漏洞無關 仍將資料保存在早已離去的用戶的未經授權的 OneDrive 帳戶中？現在是採取行動的時候了：這些資料可能很快就會變得無法訪問，甚至被永久刪除。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/unlicensed_onedrive_fun_ends/</guid>
       <pubDate>Tue, 07 Jan 2025 10:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>GNU 編譯器系列中的最新語言：Algol-68</title>
+      <title>GNU 編譯器集合中的最新語言：Algol-68</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/algol_68_comes_to_gcc/</link>
       <description><![CDATA[這並沒有消亡，它可以永遠謊言......包括C 的祖父母，顯然 一個37 歲的編譯器正在獲得對一種新語言的支持.... ..儘管語言已經有57 歲了，我們可能比我們的節後腰帶更延伸了形容詞“新”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/algol_68_comes_to_gcc/</guid>
       <pubDate>Tue, 07 Jan 2025 09:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾首次推出不符合微軟「Copilot+ PC」標誌的筆記型電腦晶片</title>
+      <title>英特爾首次推出不符合微軟「Copilot+ PC」徽章資格的筆記型電腦晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/intel_arrow_lake_laptop_chips/</link>
       <description><![CDATA[TOPS，SCHMOPS，Chipzilla 說，我們的NPU 可能很慢，但這並不重要 英特爾已經發布了用於邊緣的新晶片，以及用於缺乏這種晶片的筆記型電腦的產品。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/intel_arrow_lake_laptop_chips/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>富士康對人工智慧伺服器的需求快速成長，供應商也隨之而來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/foxconn_q4_2024/</link>
-      <description><![CDATA[合約製造巨頭創紀錄的季度收入表明對各種硬體的需求強勁 富士康將人工智慧伺服器列為其創紀錄收入的原因，其供應商的股價受此消息推動飆升。]]></description>
+      <description><![CDATA[合約製造巨頭創紀錄的季度收入表明對各種硬體的強勁需求 富士康將人工智慧伺服器列為創紀錄收入的一個原因，消息傳出後，其供應商股價飆升。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/foxconn_q4_2024/</guid>
       <pubDate>Tue, 07 Jan 2025 05:33:08 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Tue, 07 Jan 2025 03:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧產業的 3Blue1Brown 版權刪除失誤歸咎於人為錯誤</title>
+      <title>人工智慧公司 3Blue1Brown 版權刪除失誤歸咎於人為失誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/3blue1brown_video_takedown_mistake/</link>
-      <description><![CDATA[ChainPatrol 表示，工作人員複製貼上了錯誤的YouTube URL 格蘭特桑德森(Grant Sanderson) 紅極一時的YouTube 頻道3Blue1Brown 上解釋比特幣的熱門影片的版權被錯誤刪除，該視頻已被撤銷，原因歸咎於人為錯誤。]]></description>
+      <description><![CDATA[ChainPatrol 稱工作人員複製粘貼了錯誤的YouTube URL 格蘭特·桑德森(Grant Sanderson) 的熱門YouTube 頻道3Blue1Brown 發布了一段解釋比特幣的熱門視頻，但由於版權問題，該影片被刪除。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/3blue1brown_video_takedown_mistake/</guid>
       <pubDate>Tue, 07 Jan 2025 01:11:03 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[市場佔有率下滑、不需要的功能......不，錯的是消費者！  CES 微軟正在繼續推動用戶採用其新的軟體範例，宣布 2025 年為“Windows 11 PC 更新之年”，並提醒大家 Windows 10 的支援終止日期即將到來。 .html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/microsoft_2025_windows_refresh/</guid>
       <pubDate>Mon, 06 Jan 2025 21:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報道，Charter、Consolidated 和 Windstream 均成為中國鹽颱風的受害者</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/06/charter_consolidated_windstream_salt_typhoon/</link>
-      <description><![CDATA[受損的電信網路仍在緩慢流失 隨著一份新報告將Charter Communications、Consolidated Communications 和Windstream 列為中國政府窺探所破壞的對象，鹽颱風網路攻擊中的電信受害者名單繼續增加...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/06/charter_consolidated_windstream_salt_typhoon/</guid>
-      <pubDate>Mon, 06 Jan 2025 20:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
