@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 07 Jan 2025 11:10:52 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 07 Jan 2025 11:35:19 GMT</lastBuildDate>
+    <item>
+      <title>我們在 2025 年 CES 上看到的另外 10 款最酷的東西</title>
+      <link>https://www.wired.com/gallery/ces-2025-photo-gallery-day-2/</link>
+      <description><![CDATA[本週我們將在拉斯維加斯舉行的科技大展上看到更多瘋狂的想法和巧妙的創新。]]></description>
+      <guid>https://www.wired.com/gallery/ces-2025-photo-gallery-day-2/</guid>
+      <pubDate>Tue, 07 Jan 2025 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用下一代 Crispr 糾正遺傳拼寫錯誤</title>
       <link>https://www.wired.com/story/correcting-genetic-spelling-errors-with-next-generation-crispr/</link>
@@ -20,14 +27,14 @@
       <pubDate>Tue, 07 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Dyson 促銷代碼：20% + 最高折扣 300 美元</title>
+      <title>戴森促銷代碼：20% + 最高減 $300</title>
       <link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code/</link>
       <description><![CDATA[使用戴森優惠券代碼可享 20% 的折扣，此外，購買吸塵器、工具等還可節省高達 300 美元的費用。]]></description>
       <guid>https://www.wired.com/story/dyson-cordless-vacuum-promo-code/</guid>
       <pubDate>Tue, 07 Jan 2025 07:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的「Cosmos」人工智慧幫助人形機器人環遊世界</title>
+      <title>Nvidia 的「Cosmos」人工智慧幫助人形機器人探索世界</title>
       <link>https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/</link>
       <description><![CDATA[Nvidia 執行長 Jensen Huang 表示，新的基礎人工智慧模型系列經過了 2000 萬小時的「人類行走、手部移動、操縱事物」的訓練。]]></description>
       <guid>https://www.wired.com/story/nvidia-cosmos-ai-helps-robots-self-driving-cars/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>掃地機器人現在是您夢想中的小管家</title>
       <link>https://www.wired.com/story/robot-vacuum-roborock-arm-omnigrip-ces/</link>
-      <description><![CDATA[今年推出的這款機器人吸塵器可以爬樓梯，並吸走擋路的髒襪子。很快他們就可以和你的貓一起玩了。祝我們大家好運。]]></description>
+      <description><![CDATA[今年的掃地機器人可以爬樓梯並撿起擋路的髒襪子。很快他們就能和你的貓一起玩了。祝我們大家好運。]]></description>
       <guid>https://www.wired.com/story/robot-vacuum-roborock-arm-omnigrip-ces/</guid>
       <pubDate>Mon, 06 Jan 2025 17:00:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>經過測試和審查的 7 種最佳空間加熱器（2025 年）</title>
       <link>https://www.wired.com/gallery/the-best-space-heaters/</link>
-      <description><![CDATA[這些便攜式加熱器可以快速、安靜、安全地加熱房間。]]></description>
+      <description><![CDATA[這些便攜式加熱器可以快速、安靜、安全地為房間加熱。]]></description>
       <guid>https://www.wired.com/gallery/the-best-space-heaters/</guid>
       <pubDate>Mon, 06 Jan 2025 12:39:00 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 06 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>HTML 其實是一種程式語言。跟我戰鬥</title>
+      <title>HTML 其實是一種程式語言。和我戰鬥</title>
       <link>https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/</link>
       <description><![CDATA[事實上，HTML 是有史以來最重要的運算語言。低估它，後果自負。]]></description>
       <guid>https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Sun, 05 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧硬體正進入「要嘛接受，要嘛閉嘴」的時代</title>
+      <title>人工智慧硬體正處於「要么關閉要么關閉」的時代</title>
       <link>https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/</link>
       <description><![CDATA[本週在 CES 上，各種規模的公司都將展示他們所有新的人工智慧設備。希望他們不會只做你手機已經擅長的事。]]></description>
       <guid>https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/</guid>
       <pubDate>Sun, 05 Jan 2025 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過專家測試和評審的 2025 年最佳 Wi-Fi 路由器</title>
-      <link>https://www.wired.com/gallery/best-wifi-routers/</link>
-      <description><![CDATA[不要遭受緩衝之苦。無論您的需求或預算如何，這些經過有線測試的系統都可以在您的家中提供可靠的網路。]]></description>
-      <guid>https://www.wired.com/gallery/best-wifi-routers/</guid>
-      <pubDate>Sun, 05 Jan 2025 11:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
