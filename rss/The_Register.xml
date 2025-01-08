@@ -3,10 +3,17 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 20:14:09 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 08 Jan 2025 20:36:56 GMT</lastBuildDate>
     <item>
-      <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
+      <title>Mitel 0day、5 年之久的 Oracle RCE 漏洞正被積極利用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</link>
+      <description><![CDATA[CISA 目錄中新增了3 個CVE 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，其中包括一個零日漏洞，以及Oracle WebLogic Server 中的一個嚴重遠端程式碼執行漏洞，該漏洞已被利用至少五年。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子？沒有安慰：英偉達執行長因「20年後」預測而下挫QC股票</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
       <description><![CDATA[D-Wave、Rigetti 等公司在黃仁勳說出顯而易見的事實後暴跌近 50% CES  量子運算產業似乎與其所依賴的量子位元一樣脆弱。 Nvidia 執行長 Jensen Huang 在 CES 上發表相當合理的言論，即實用的量子系統可能還需要 20 年時間，隨後一些上市量子運算公司的股價今天大幅下跌。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>Garmin Connect 中斷導致人們無法分享他們的健身美德訊號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</link>
-      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 一度癱瘓，但在一次不明原因的中斷讓健身愛好者感到困惑之後，又重新恢復了活力。]]></description>
+      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 被擊倒，但在一次不明原因的中斷讓外向的健身者感到困惑之後又重新站了起來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
       <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>別介意那些中國間諜：美國空軍選擇 Verizon 進行 35 個基地網路升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</link>
-      <description><![CDATA[鹽颱風？未打補丁的網路套件？抱歉，我想你們要分手了 別介意整個鹽颱風的小問題- Verizon 的聲譽受損並沒有阻止它達成協議，為35 個美國空軍基地升級網絡，配備新的4G 和5G套件。 ...]]></description>
+      <description><![CDATA[鹽颱風？未打補丁的網路套件？抱歉，我認為你們要分手了 別介意整個鹽颱風的小問題- Verizon 的聲譽受損並沒有阻止它達成協議，為35 個美國空軍基地升級網絡，配備新的4G 和5G套件。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</guid>
       <pubDate>Wed, 08 Jan 2025 16:25:39 GMT</pubDate>
     </item>
     <item>
       <title>DNA 定序儀運行古老的 BIOS，對臨床研究構成風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</link>
-      <description><![CDATA[使用六年舊韌體的設備容易被接管和破壞 已更新 阿根廷網路安全商店Eclypsium 聲稱，影響領先DNA 定序設備的安全問題可能會導致關鍵臨床試驗的中斷研究… ]]></description>
+      <description><![CDATA[使用六年舊韌體的設備容易被接管和破壞 已更新 阿根廷網路安全商店Eclypsium 聲稱，影響領先DNA 定序設備的安全問題可能會導致關鍵臨床試驗的中斷研究… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</guid>
       <pubDate>Wed, 08 Jan 2025 15:30:08 GMT</pubDate>
     </item>
@@ -69,16 +76,16 @@
       <pubDate>Wed, 08 Jan 2025 13:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>通路已修正：硬體現在是一個更新周期業務</title>
+      <title>頻道已修正：硬體現在是一個更新周期業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</link>
       <description><![CDATA[“30 年來，你一直認為自己是商業天才”，資深分析師告訴經銷商和分銷商 觀點 科技硬體產業可能會面臨某種生存危機，如果資深分析師是正確的——移動盒子的日子將僅限於更換週期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</guid>
       <pubDate>Wed, 08 Jan 2025 12:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌聘請前微軟高階主管執掌英國雲端業務</title>
+      <title>谷歌聘請前微軟高階主管掌舵英國雲端運算業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/google_cloud_uk_vp/</link>
-      <description><![CDATA[莫琳·科斯特洛希望利用人工智慧「賦能」企業 Google聘請了微軟和埃森哲資深人士莫琳·科斯特洛擔任英國、愛爾蘭和撒哈拉以南非洲地區副總裁，擔任英國競爭市場管理局(CMA) 準備發布關於其雲端服務市場調查的臨時決定。 &lt;/對]]></description>
+      <description><![CDATA[Maureen Costello 希望透過 AI 為企業「賦能」 Google 已聘請微軟和埃森哲資深人士 Maureen Costello 擔任英國、愛爾蘭和撒哈拉以南非洲地區副總裁英國競爭市場管理局(CMA ) 準備發布關於其雲端服務市場調查的臨時決定。 !--#include virtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/google_cloud_uk_vp/</guid>
       <pubDate>Wed, 08 Jan 2025 12:00:08 GMT</pubDate>
     </item>
@@ -90,14 +97,14 @@
       <pubDate>Wed, 08 Jan 2025 11:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>就在你以為終端模擬器已經不能再好了的時候，Ghostty 卻出現了</title>
+      <title>正當你認為終端模擬器已經不能再好了，Ghostty 來了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
-      <description><![CDATA[HashiCorp 聯合創始人的副業項目達到 1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因如下：誰編寫了它，它做了什麼，以及它編寫的語言都比它執行的表面上簡單的任務更不尋常。]]></description>
+      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
       <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國數位市場監管機構預計本月利用新權力展開調查</title>
+      <title>英國數位市場監管機構預計本月內利用新權力展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/</link>
       <description><![CDATA[監管機構在處以罰款之前將採取「參與式」方式 英國市場監管機構表示，將採取「參與式」方式根據旨在遏制科技市場力量的立法行使新權力巨人並促進成長。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/</guid>
@@ -113,21 +120,21 @@
     <item>
       <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代象山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
+      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
       <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
     </item>
     <item>
       <title>Akamai 退出在中國的 CDN，似乎不是因為北京方面的麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
-      <description><![CDATA[安全和雲端運算比枯燥的資料傳輸業務有更多優勢 Akamai 已決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難。]]></description>
+      <description><![CDATA[安全和雲端運算比無聊的資料傳輸業務有更多的優勢 Akamai 決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難中央王國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
       <pubDate>Wed, 08 Jan 2025 06:31:06 GMT</pubDate>
     </item>
     <item>
       <title>本田將機器人大腦升級為未來電動車的作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/</link>
-      <description><![CDATA[還記得可以踢球和倒啤酒的人形機器人‘Asimo’嗎？它以電動車軟體的形式存在 Honda宣布已經開發出一種電動車操作系統，該系統使用的技術最初是為名為「Asimo」的人形機器人開發而成的。 /p&gt;]]></description>
+      <description><![CDATA[還記得可以踢球和倒啤酒的人形機器人「Asimo」嗎？它以電動車軟體的形式存在 Honda宣布已經開發了一種電動車作業系統，使用了最初為名為「阿西莫」的人形機器人開發的技術。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/</guid>
       <pubDate>Wed, 08 Jan 2025 05:29:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果它的拼寫像A.S.S，表現得像屁股，也許它只是...... 美國國家公路交通安全管理局(NHTSA) 已對特斯拉允許汽車運行的軟體發起調查在有報告指出程式碼在物理意義上崩潰後，可以在短距離內自主進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/</guid>
       <pubDate>Wed, 08 Jan 2025 01:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆大叔現在針對涉嫌演算法租金定價的六家房東巨頭展開戰爭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</link>
-      <description><![CDATA[檢察官稱，你們中的一個人會像金絲雀一樣唱歌 美國司法部周二擴大了對物業管理軟體供應商RealPage 的反壟斷訴訟，該公司被指控非法演算法固定租金，至包括美國最大的六家房東，同時也提出了和解方案，以解決針對其中一名被告的案件。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</guid>
-      <pubDate>Wed, 08 Jan 2025 00:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
