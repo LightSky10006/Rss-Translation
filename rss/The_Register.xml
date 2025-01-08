@@ -4,9 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:57:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 14:12:21 GMT</lastBuildDate>
     <item>
-      <title>通路已修正：硬體現在是一個更新周期業務</title>
+      <title>聯合國航空機構證實招募資料庫遭到攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</link>
+      <description><![CDATA[多個資料點遭到洩露，但對飛行安全沒有風險 聯合國航空機構國際民航組織 (ICAO) 已向登記冊確認，網路犯罪確實從其招聘資料庫中竊取了42,000 筆記錄。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</guid>
+      <pubDate>Wed, 08 Jan 2025 14:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智慧炒作導致 2024 年企業資料中心支出狂潮，但這種熱潮不會持續太久</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</link>
+      <description><![CDATA[GPU 與生成式AI 系統目前非常熱門...但分析師表示，「長期趨勢依然存在」 對AI 未來需求的押注推動公有雲支出猛增48 %去年，隨著雲端供應商和企業紛紛投資伺服器和 GPU 以支援生成式 AI 工作負載，基礎設施出現了巨大的變化。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</guid>
+      <pubDate>Wed, 08 Jan 2025 13:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>通路被修正：硬體現在是一個更新周期的業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</link>
       <description><![CDATA[“30 年來，你一直認為自己是商業天才”，資深分析師告訴經銷商和分銷商 觀點 科技硬體產業可能會面臨某種生存危機，如果資深分析師是正確的——移動盒子的日子將僅限於更換週期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>就在你以為終端模擬器已經不能再好了的時候，Ghostty 卻出現了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
-      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做了什麼，以及它編寫的語言都比它執行的表面上簡單的任務更不尋常。]]></description>
+      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
       <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
@@ -41,23 +55,23 @@
       <pubDate>Wed, 08 Jan 2025 09:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>其他微處理器解碼：AMD 下一步為 AI PC、遊戲玩家和企業推出的產品快速指南</title>
+      <title>解碼其他微處理器：AMD 下一步將為 AI PC、遊戲玩家和企業推出哪些產品的快速指南</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amd_ai_nvidia/</link>
-      <description><![CDATA[Plus：Nvidia 最新炒作一覽 CES  AMD 在本週於拉斯維加斯舉行的年度CES 超級大會上推出了大量CPU – 涵蓋各個領域的晶片從高階桌上型處理器到針對遊戲筆記型電腦、手持設備以及所謂的人工智慧 PC 的處理器。]]></description>
+      <description><![CDATA[另外：一窺Nvidia 的最新炒作 CES  AMD 在本週於拉斯維加斯舉行的年度CES 超級會議上推出了大量CPU，這些晶片涵蓋了各個領域從高階桌上型電腦處理器到針對遊戲筆電、手持裝置以及所謂的 AI PC 的處理器…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amd_ai_nvidia/</guid>
       <pubDate>Wed, 08 Jan 2025 08:24:08 GMT</pubDate>
     </item>
     <item>
       <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代象山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
+      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC 打造的 Neoverse 2 的性能 中國推動基於 RISC-V 指令集架構的處理器開發的關鍵人物表示，項目將於2025 年交付，其設計或將成為資料中心的有力競爭者… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
       <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
     </item>
     <item>
       <title>Akamai 退出在中國的 CDN，似乎不是因為北京方面的麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
-      <description><![CDATA[安全和雲端運算比枯燥的資料傳輸業務有更多優勢 Akamai 已決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難。]]></description>
+      <description><![CDATA[安全和雲端運算比無聊的資料傳輸業務有更多的優勢 Akamai 決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難中央王國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
       <pubDate>Wed, 08 Jan 2025 06:31:06 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 08 Jan 2025 05:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國監管機構就所謂「智慧召喚」事故報告對 260 萬輛特斯拉展開調查</title>
+      <title>美國監管機構對 260 萬輛特斯拉汽車展開調查，稱其存在所謂的「智慧召喚」碰撞報告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/</link>
       <description><![CDATA[如果它的拼寫像A.S.S，表現得像屁股，也許它只是...... 美國國家公路交通安全管理局(NHTSA) 已對特斯拉允許汽車運行的軟體發起調查在有報告指出程式碼在物理意義上崩潰後，可以在短距離內自主進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/</guid>
@@ -92,7 +106,7 @@
     <item>
       <title>現在川普的進口關稅可能會使美國人的筆記型電腦成本增加 68%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trumps_tariff_electronics_prices/</link>
-      <description><![CDATA[讓美國再次憤怒 CES 消費者科技協會發布了一些新的預測，如果唐納德·川普強硬進口，美國人可能需要為硬體支付多少費用關稅已頒布。]]></description>
+      <description><![CDATA[讓美國再次憤怒 CES  美國消費科技協會發布了一些新的預測，如果唐納德·川普的強硬進口政策關稅頒布…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trumps_tariff_electronics_prices/</guid>
       <pubDate>Tue, 07 Jan 2025 23:42:40 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>很多人都說杜拜豪華房地產開發商將斥資 200 億美元興建美國資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</link>
-      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧…… 在周二的新聞發布會上，當選總統唐納德·特朗普表示，總部位於迪拜的豪華房地產開發商DAMAC 計劃投資20在美國建造數據中心的期限未公開…]]></description>
+      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，迪拜豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設數據中心的投資額達 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</guid>
       <pubDate>Tue, 07 Jan 2025 20:57:11 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[LLM 可以為已經知道自己在做什麼的開發人員做更多事情 如果您要求的話，大型語言模型(LLM) 會編寫出更好的程式碼，儘管需要一些軟體開發經驗才能有效地做到這一點–這限制了人工智慧程式碼幫助新手的實用性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/ai_can_write_improved_code_research/</guid>
       <pubDate>Tue, 07 Jan 2025 17:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通最新的 Snapdragon X 晶片面向 600 美元的 Copilot+ PC</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/</link>
-      <description><![CDATA[希望在基於 Arm 的硬體上排除競爭 CES 高通公司推出了最新的 Snapdragon X 系列基於 Arm 的晶片，為 Copilot+ PC 提供支持，目標是600美元範圍內的系統...]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/qualcomms_snapdragon_x_chip/</guid>
-      <pubDate>Tue, 07 Jan 2025 16:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果對 BBC 的投訴不以為然，承諾「進一步澄清」人工智慧內容</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/apple_responds_bbc_complaint/</link>
-      <description><![CDATA[這取決於用戶自己進行事實查核 Apple 計畫更新一項人工智慧功能，該功能對 BBC 新聞報導產生了極其錯誤的摘要。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/apple_responds_bbc_complaint/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
