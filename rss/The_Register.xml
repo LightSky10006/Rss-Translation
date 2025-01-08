@@ -4,32 +4,39 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:43:02 GMT</lastBuildDate>
+    <item>
+      <title>Garmin Connect 中斷導致人們無法分享他們的健身美德訊號</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</link>
+      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 被擊倒，但在一次不明原因的中斷讓外向的健身者感到困惑之後又重新站了起來。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜斥資 110 億美元在喬治亞州建造人工智慧資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</link>
-      <description><![CDATA[桃州已經擁有超過 50 個比特穀倉 亞馬遜在美國喬治亞州的資料中心足跡將會擴大，擬議投資 110 億美元。]]></description>
+      <description><![CDATA[Peach State 已擁有 50 多個比特穀倉 亞馬遜在美國喬治亞州的資料中心足跡將會擴大，擬議投資 110 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</guid>
       <pubDate>Wed, 08 Jan 2025 17:47:09 GMT</pubDate>
     </item>
     <item>
       <title>美國宇航局只剩下兩個火星樣本返回任務著陸器選項</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</link>
-      <description><![CDATA[JPL 的天空起重機技術或私人供應商將獲得5-70 億美元的合同，然後再與ESA 搭便車返回地球 NASA 表示需要到2026 年才能就如何返回火星樣本做出最終決定（MSR）任務將會成功。]]></description>
+      <description><![CDATA[JPL 的空中起重機技術或私人供應商將獲得50-70 億美元的合同，然後搭乘ESA 返回地球 NASA 表示，它需要到2026 年才能最終決定如何將火星樣本帶回地球（MSR）任務將會成功。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</guid>
       <pubDate>Wed, 08 Jan 2025 17:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>別介意那些中國間諜：美國空軍選擇 Verizon 進行 35 個基地網路升級</title>
+      <title>別在意那些中國間諜：美國空軍選擇 Verizon 進行 35 個基地網路升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</link>
       <description><![CDATA[鹽颱風？未打補丁的網路套件？抱歉，我認為你們要分手了 別介意整個鹽颱風的小問題- Verizon 的聲譽受損並沒有阻止它達成協議，為35 個美國空軍基地升級網絡，配備新的4G 和5G套件。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</guid>
       <pubDate>Wed, 08 Jan 2025 16:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>DNA 定序儀運行古老的 BIOS，對臨床研究構成風險</title>
+      <title>DNA 定序儀發現運行古老的 BIOS，對臨床研究構成風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</link>
-      <description><![CDATA[使用六年舊韌體的設備容易被接管和破壞 已更新 阿根廷網路安全商店Eclypsium 聲稱，影響領先DNA 定序設備的安全問題可能會導致關鍵臨床試驗的中斷研究… ]]></description>
+      <description><![CDATA[使用六年舊韌體的設備易受接管和破壞 更新 阿根廷網路安全商店 Eclypsium 聲稱影響領先 DNA 定序設備的安全問題可能會導致關鍵臨床研究…… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</guid>
       <pubDate>Wed, 08 Jan 2025 15:30:08 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>就在你以為終端模擬器已經不能再好了的時候，Ghostty 卻出現了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
-      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
+      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做了什麼，以及它編寫的語言都比它執行的表面上簡單的任務更不尋常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
       <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
@@ -99,14 +106,14 @@
     <item>
       <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC 打造的 Neoverse 2 的性能 中國推動基於 RISC-V 指令集架構的處理器開發的關鍵人物表示，項目將於2025 年交付，其設計或將成為資料中心的有力競爭者… ]]></description>
+      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
       <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
     </item>
     <item>
       <title>Akamai 退出在中國的 CDN，似乎不是因為北京方面的麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
-      <description><![CDATA[安全和雲端運算比枯燥的資料傳輸業務有更多優勢 Akamai 已決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難。]]></description>
+      <description><![CDATA[安全和雲端運算比無聊的資料傳輸業務有更多的優勢 Akamai 決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難中央王國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
       <pubDate>Wed, 08 Jan 2025 06:31:06 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 08 Jan 2025 01:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔現在針對涉嫌演算法租金定價的六家房東巨頭展開戰爭</title>
+      <title>山姆大叔現在針對六家房東巨頭發起了一場針對演算法操縱租金的戰爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</link>
       <description><![CDATA[檢察官稱，你們中的一個人會像金絲雀一樣唱歌 美國司法部周二擴大了對物業管理軟體供應商RealPage 的反壟斷訴訟，該公司被指控非法演算法固定租金，至包括美國最大的六家房東，同時也提出了和解方案，以解決針對其中一名被告的案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[電信公司將有效資助保護國家安全的撥款 即將離任的FCC 主席傑西卡·羅森沃塞爾(Jessica Rosenworcel) 呼籲她的同事“迅速”通過規則，允許美國監管機構制定無線電頻譜拍賣的收益將用於資助從美國網路中移除中國供應商華為和中興製造的設備。 /_whitepaper_textlinks_top.html&#39; --&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/fcc_chief_urges_spectrum_auction/</guid>
       <pubDate>Wed, 08 Jan 2025 00:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在川普的進口關稅可能會使美國人的筆記型電腦成本增加 68%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trumps_tariff_electronics_prices/</link>
-      <description><![CDATA[讓美國再次憤怒 CES  美國消費科技協會發布了一些新的預測，如果唐納德·川普的強硬進口政策關稅頒布…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trumps_tariff_electronics_prices/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
