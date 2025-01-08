@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 05:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:43:04 GMT</lastBuildDate>
+    <item>
+      <title>Akamai 退出在中國的 CDN，似乎不是因為北京方面的麻煩</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
+      <description><![CDATA[安全和雲端運算比無聊的資料傳輸業務有更多的優勢 Akamai 決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難中央王國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
+      <pubDate>Wed, 08 Jan 2025 06:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>本田將機器人大腦升級為未來電動車的作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 08 Jan 2025 01:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔現在針對涉嫌演算法租金定價的六家房東巨頭展開戰爭</title>
+      <title>山姆大叔現在針對六家房東巨頭發起了一場針對演算法操縱租金的戰爭</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</link>
       <description><![CDATA[檢察官稱，你們中的一個人會像金絲雀一樣唱歌 美國司法部周二擴大了對物業管理軟體供應商RealPage 的反壟斷訴訟，該公司被指控非法演算法固定租金，至包括美國最大的六家房東，同時也提出了和解方案，以解決針對其中一名被告的案件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/feds_expand_algorithmic_rent_lawsuit/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 07 Jan 2025 13:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 真的可以解決 AI 幻覺問題嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
+      <title>AWS真的能修復AI幻覺嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</link>
       <description><![CDATA[致力於證明程式碼在數學上正確的方法的工程師發現他的領域突然不再那麼晦澀 採訪 人工智慧的一個顯著缺陷是它的“產生幻覺、 「編造看似合理的答案，但沒有現實世界數據的基礎。 AWS 正在嘗試透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[老微軟擔心安全性和合規性...與免費儲存漏洞無關 仍然將資料保留在長期消失的用戶的未經許可的 OneDrive 帳戶中？是時候採取行動了：資料可能很快就會變得無法訪問，甚至永久刪除。 ...  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/unlicensed_onedrive_fun_ends/</guid>
       <pubDate>Tue, 07 Jan 2025 10:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU 編譯器集合中的最新語言：Algol-68</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/algol_68_comes_to_gcc/</link>
-      <description><![CDATA[這並沒有消亡，它可以永遠謊言......包括C 的祖父母，顯然 一個37 歲的編譯器正在獲得對一種新語言的支持.... ..儘管語言已經有57 歲了，我們可能比我們的節後腰帶更延伸了形容詞“新”。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/algol_68_comes_to_gcc/</guid>
-      <pubDate>Tue, 07 Jan 2025 09:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
