@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 09:36:30 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 08 Jan 2025 10:38:44 GMT</lastBuildDate>
+    <item>
+      <title>就在你以為終端模擬器已經不能再好了的時候，Ghostty 卻出現了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
+      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
+      <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>英國數位市場監管機構預計本月內利用新權力展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
+      <description><![CDATA[第三代象山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
       <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>本田將機器人大腦升級為未來電動車的作業系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/</link>
-      <description><![CDATA[還記得可以踢球和倒啤酒的人形機器人‘Asimo’嗎？它以電動車軟體的形式存在 Honda宣布已經開發出一種電動車操作系統，該系統使用的技術最初是為名為「Asimo」的人形機器人開發而成的。 /p&gt;]]></description>
+      <description><![CDATA[還記得可以踢球和倒啤酒的人形機器人「Asimo」嗎？它以電動車軟體的形式存在 Honda宣布已經開發了一種電動車作業系統，使用了最初為名為「阿西莫」的人形機器人開發的技術。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/honda_upgrades_robot_brain_into/</guid>
       <pubDate>Wed, 08 Jan 2025 05:29:12 GMT</pubDate>
     </item>
@@ -71,28 +78,28 @@
     <item>
       <title>扎克向馬斯克學習：Meta 拋棄了事實查核程序，放鬆了言論限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/meta_eliminate_fact_check/</link>
-      <description><![CDATA[Facebook 大亨承認，“我們會發現更少的壞事”，但讓川普擺脫困境是值得的 更新 Meta 首席執行官馬克·扎克柏克(Mark Zuckerberg) 宣布一系列旨在「回到言論自由的根源」的變革，其中包括放棄事實查核主持人，以及放鬆內容政策以允許以前受限制的言論擴散。 ...]]></description>
+      <description><![CDATA[「我們會發現更少的壞東西，」Facebook 大亨承認，但為了擺脫川普的糾纏，這是值得的 更新 Meta 執行長馬克·祖克柏宣布一系列旨在「回歸言論自由根源」的改變，包括放棄事實查核版主、放鬆內容政策以允許先前受限制的言論自由傳播。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/meta_eliminate_fact_check/</guid>
       <pubDate>Tue, 07 Jan 2025 21:52:16 GMT</pubDate>
     </item>
     <item>
-      <title>很多人都說杜拜豪華房地產開發商將在美國資料中心上砸下 200 億美元</title>
+      <title>很多人都說杜拜豪華房地產開發商將斥資 200 億美元興建美國資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</link>
-      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，總部位於杜拜的豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設資料中心的投資額達 10 億美元。]]></description>
+      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，迪拜豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設數據中心的投資額達 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</guid>
       <pubDate>Tue, 07 Jan 2025 20:57:11 GMT</pubDate>
     </item>
     <item>
       <title>約翰迪爾擁有無人駕駛車隊－到底誰需要操作員？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</link>
-      <description><![CDATA[有許多降低勞動成本的新方法，但沒有提及可修復性 CES  約翰迪爾(John Deere) 對農業、採石場和景觀美化未來的願景已在CES 2025 上浮現，設備操作員的工作要少得多，而機器驅動的獨立性要高得多。]]></description>
+      <description><![CDATA[有許多新方法來削減勞動成本，但沒有提到可修復性 CES  約翰迪爾對農業、採石和園林綠化未來的願景已在CES 2025 上亮相，而且它需要設備操作員的工作量大大減少，而機器驅動的獨立性則大大增強。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</guid>
       <pubDate>Tue, 07 Jan 2025 18:30:13 GMT</pubDate>
     </item>
     <item>
       <title>隨著對潛在數據盜竊的調查開始，聯合國航空機構出現動盪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/icao_data_theft_investigation/</link>
-      <description><![CDATA[犯罪論壇居民聲稱洩露了42,000 份包含個人資訊的文件 在一名網路犯罪分子聲稱他們洩露了42,000 份包含個人資訊的文件後，聯合國航空機構正在調查「潛在的資訊安全事件」分行的文件... ]]></description>
+      <description><![CDATA[犯罪論壇居民聲稱洩露了42,000 份包含個人資訊的文件 在一名網路犯罪分子聲稱他們洩露了42,000 份包含個人資訊的文件後，聯合國航空機構正在調查「潛在的資訊安全事件」分支機構的文件... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/icao_data_theft_investigation/</guid>
       <pubDate>Tue, 07 Jan 2025 17:45:11 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Tue, 07 Jan 2025 16:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果對 BBC 的投訴不以為然，承諾「進一步澄清」人工智慧內容</title>
+      <title>蘋果對 BBC 的投訴不屑一顧，承諾「進一步澄清」人工智慧內容</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/apple_responds_bbc_complaint/</link>
-      <description><![CDATA[這取決於用戶自己進行事實核查 蘋果計劃更新一項人工智慧功能，該功能對 BBC 新聞報導產生了極其錯誤的摘要。]]></description>
+      <description><![CDATA[這取決於用戶自己進行事實查核 Apple 計畫更新一項人工智慧功能，該功能對 BBC 新聞報導產生了極其錯誤的摘要。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/apple_responds_bbc_complaint/</guid>
       <pubDate>Tue, 07 Jan 2025 15:31:13 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Tue, 07 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源新格倫火箭將於 1 月 10 日首次發射</title>
+      <title>藍色起源公司的新格倫火箭將於 1 月 10 日首次發射</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</link>
       <description><![CDATA[貝佐斯助推器終於準備好行動 藍色起源已確定其新格倫火箭首次發射的日期- 1 月10 日。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/new_glenn_launch_date/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>Windows 11 24H2 可以在 184MB 記憶體中運行</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/windows_11_24h2_can_run/</link>
-      <description><![CDATA[您真的需要一台新電腦來搭載微軟最新最好的產品嗎？ /p&gt;]]></description>
+      <description><![CDATA[你真的需要一台新電腦來使用微軟最新最好的產品嗎？ /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/windows_11_24h2_can_run/</guid>
       <pubDate>Tue, 07 Jan 2025 13:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS真的能修復AI幻覺嗎？我們訪問了自動推理部門負責人 Byron Cook</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</link>
-      <description><![CDATA[致力於證明程式碼在數學上正確的方法的工程師發現他的領域突然不再那麼晦澀 採訪 人工智慧的一個顯著缺陷是它的“產生幻覺、 「編造看似合理的答案，但沒有現實世界數據的基礎。 AWS 正在嘗試透過引入 Amazon Bedrock 自動推理檢查來解決這個問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/interview_with_aws_byron_cook/</guid>
-      <pubDate>Tue, 07 Jan 2025 12:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
