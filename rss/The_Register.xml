@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 15:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 16:43:02 GMT</lastBuildDate>
     <item>
-      <title>DNA 定序儀發現運行古老的 BIOS，對臨床研究構成風險</title>
+      <title>別在意那些中國間諜：美國空軍選擇 Verizon 進行 35 個基地網路升級</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</link>
+      <description><![CDATA[鹽颱風？未打補丁的網路套件？抱歉，我認為你們要分手了 別介意整個鹽颱風的小問題- Verizon 的聲譽受損並沒有阻止它達成協議，為35 個美國空軍基地升級網絡，配備新的4G 和5G套件。 ...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:25:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNA 定序儀運行古老的 BIOS，對臨床研究構成風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</link>
-      <description><![CDATA[使用六年的韌體的設備容易被接管和破壞 阿根廷網路安全商店Eclypsium 聲稱影響領先DNA 測序設備的安全問題可能會導致關鍵臨床研究的中斷。 p&gt; &lt; p&gt;]]></description>
+      <description><![CDATA[使用六年舊韌體的設備容易被接管和破壞 已更新 阿根廷網路安全商店Eclypsium 聲稱，影響領先DNA 定序設備的安全問題可能會導致關鍵臨床試驗的中斷研究… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</guid>
       <pubDate>Wed, 08 Jan 2025 15:30:08 GMT</pubDate>
     </item>
@@ -22,19 +29,19 @@
     <item>
       <title>聯合國航空機構證實招募資料庫遭到攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</link>
-      <description><![CDATA[多個資料點遭到洩露，但對飛行安全沒有風險 聯合國航空機構國際民航組織 (ICAO) 已向登記冊確認，網路犯罪確實從其招聘資料庫中竊取了42,000 筆記錄。]]></description>
+      <description><![CDATA[多個數據點受到損害，但對飛行安全沒有風險 聯合國航空機構國際民用航空組織 (ICAO) 已向The Register證實，網路犯罪確實從其招募資料庫中竊取了42,000 筆記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</guid>
       <pubDate>Wed, 08 Jan 2025 14:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧炒作導致 2024 年企業資料中心支出狂潮，但這種情況不會持續太久</title>
+      <title>人工智慧炒作導致 2024 年企業資料中心支出狂潮，但這種情況不會持續</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</link>
-      <description><![CDATA[GPU 和生成式 AI 系統目前如此熱門…但分析師表示「長期趨勢依然存在」 對未來 AI 需求的押注推動公有雲支出成長 48%去年，雲端供應商和企業都爭相投資伺服器和GPU 來支援生成性AI 工作負載。]]></description>
+      <description><![CDATA[GPU 與生成式AI 系統目前非常熱門...但分析師表示，「長期趨勢依然存在」 對AI 未來需求的押注推動公有雲支出猛增48 %去年，隨著雲端供應商和企業紛紛投資伺服器和 GPU 以支援生成式 AI 工作負載，基礎設施出現了巨大的變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</guid>
       <pubDate>Wed, 08 Jan 2025 13:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>通路被修正：硬體現在是一個更新周期的業務</title>
+      <title>通路已修正：硬體現在是一個更新周期業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</link>
       <description><![CDATA[“30 年來，你一直認為自己是商業天才”，資深分析師告訴經銷商和分銷商 觀點 科技硬體產業可能會面臨某種生存危機，如果資深分析師是正確的——移動盒子的日子將僅限於更換週期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</guid>
@@ -55,9 +62,9 @@
       <pubDate>Wed, 08 Jan 2025 11:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>就在你以為終端模擬器已經不能再好了的時候，Ghostty 卻出現了</title>
+      <title>正當你認為終端模擬器已經不能再好了，Ghostty 來了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
-      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
+      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做了什麼，以及它編寫的語言都比它執行的表面上簡單的任務更不尋常。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
       <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
+      <description><![CDATA[第三代象山可能接近 Arm 專為 HPC Neoverse 2 設計的性能 中國推動開發基於 RISC-V 指令集架構的處理器的一位關鍵人物表示項目將於2025 年交付，其設計可能會成為資料中心競爭者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
       <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>Akamai 將退出中國 CDN 業務，似乎並非因為北京的麻煩</title>
+      <title>Akamai 退出在中國的 CDN，似乎不是因為北京方面的麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
       <description><![CDATA[安全和雲端運算比無聊的資料傳輸業務有更多的優勢 Akamai 決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難中央王國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 08 Jan 2025 05:29:12 GMT</pubDate>
     </item>
     <item>
-      <title>美國監管機構對 260 萬輛特斯拉汽車展開調查，稱其存在所謂的「智慧召喚」碰撞報告</title>
+      <title>美國監管機構就所謂「智慧召喚」事故報告對 260 萬輛特斯拉展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/</link>
       <description><![CDATA[如果它的拼寫像A.S.S，表現得像屁股，也許它只是...... 美國國家公路交通安全管理局(NHTSA) 已對特斯拉允許汽車運行的軟體發起調查在有報告指出程式碼在物理意義上崩潰後，可以在短距離內自主進行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nhtsa_tesla_smart_summon/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 07 Jan 2025 21:52:16 GMT</pubDate>
     </item>
     <item>
-      <title>很多人都說杜拜豪華房地產開發商將在美國資料中心上砸下 200 億美元</title>
+      <title>很多人都說杜拜豪華房地產開發商將斥資 200 億美元興建美國資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</link>
-      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，總部位於杜拜的豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設資料中心的投資額達 10 億美元。]]></description>
+      <description><![CDATA[一位成功的房地產億萬富翁和唐納德·特朗普走進一家酒吧... 在周二的新聞發布會上，候任總統唐納德·特朗普表示，迪拜豪華房地產開發商DAMAC 計劃投資20 美元在一段未公開的時間內在美國建設數據中心的投資額達 10 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/trump_20_billion_datacenter_investment/</guid>
       <pubDate>Tue, 07 Jan 2025 20:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>約翰迪爾擁有無人駕駛車隊－到底誰需要操作員？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</link>
-      <description><![CDATA[有許多降低勞動成本的新方法，但沒有提及可修復性 CES  約翰迪爾(John Deere) 對農業、採石場和景觀美化未來的願景已在CES 2025 上浮現，設備操作員的工作要少得多，而機器驅動的獨立性要高得多。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/07/john_deere_new_autonomous_tractors/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
