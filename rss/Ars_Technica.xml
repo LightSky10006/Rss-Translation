@@ -4,25 +4,46 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 19:09:37 GMT</lastBuildDate>
     <item>
-      <title>報導稱，歐盟「積極」調查虛假資訊和對 X 的右翼偏見</title>
+      <title>美國宇航局將火星樣本返回的決定推遲到川普政府</title>
+      <link>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</link>
+      <description><![CDATA[“我們希望以最快、最便宜的方式取回這 30 個樣本。”]]></description>
+      <guid>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>新影片展示了更大的 Nintendo Switch 2、卡扣式 Joy-Con</title>
+      <link>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</link>
+      <description><![CDATA[配件製造商表示 CES 上的 3D 型號來自實際的控制台。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>配置錯誤的車牌讀取器會即時洩漏資料和視頻</title>
+      <link>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</link>
+      <description><![CDATA[至少 150 台摩托羅拉車牌閱讀器的影片來源無需密碼即可存取。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
+      <pubDate>Wed, 08 Jan 2025 17:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>報導稱，歐盟「大力」調查 X 上的假訊息和右翼偏見</title>
       <link>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</link>
       <description><![CDATA[伊隆馬斯克進一步涉足全球右翼政治，在歐盟敲響了警鐘。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</guid>
       <pubDate>Wed, 08 Jan 2025 17:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>本田在 CES 上展示「接近量產」的電動車和新作業系統</title>
+      <title>本田在 CES 上展示「即將量產」的電動車和新作業系統</title>
       <link>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</link>
       <description><![CDATA[本田 Zero SUV 將於 2026 年在俄亥俄州開始生產。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</guid>
       <pubDate>Wed, 08 Jan 2025 16:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>美國出現首例 H5N1 禽流感死亡病例，世界衛生組織和疾病預防控制中心表示風險仍然較低</title>
+      <title>美國出現首例 H5N1 禽流感死亡病例 世衛組織和疾病預防控制中心表示風險仍然很低</title>
       <link>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</link>
-      <description><![CDATA[未發現人際傳播，也沒有發現令人擔憂的變異。]]></description>
+      <description><![CDATA[沒有發現人際傳播，也沒有相關的突變傳播。]]></description>
       <guid>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</guid>
       <pubDate>Tue, 07 Jan 2025 23:14:34 GMT</pubDate>
     </item>
@@ -34,7 +55,7 @@
       <pubDate>Tue, 07 Jan 2025 22:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>美國因「演算法定價計畫」起訴六大房東</title>
+      <title>美國因「演算法定價方案」起訴六家最大房東</title>
       <link>https://arstechnica.com/tech-policy/2025/01/big-landlord-settles-with-us-will-cooperate-in-price-fixing-investigation/</link>
       <description><![CDATA[六位房東加入 RealPage 訴訟；科特蘭和解並會合作。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/big-landlord-settles-with-us-will-cooperate-in-price-fixing-investigation/</guid>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 07 Jan 2025 20:51:59 GMT</pubDate>
     </item>
     <item>
-      <title>丹佛的骯髒行為：前檢察官偽造簡訊、銷毀設備來陷害同事</title>
+      <title>丹佛的骯髒行徑：前檢察官偽造簡訊、銷毀設備以陷害同事</title>
       <link>https://arstechnica.com/tech-policy/2025/01/dirty-deeds-in-denver-ex-prosecutor-faked-texts-destroyed-devices-to-frame-colleague/</link>
       <description><![CDATA[有時，資料收集對您有用。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/dirty-deeds-in-denver-ex-prosecutor-faked-texts-destroyed-devices-to-frame-colleague/</guid>
       <pubDate>Tue, 07 Jan 2025 20:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新款 GeForce 50 系列 GPU：有售價 1,999 美元的 5090，還有其他所有產品</title>
-      <link>https://arstechnica.com/gadgets/2025/01/geforce-rtx-50-gpus-run-from-1999-to-549-lean-heavily-on-ai-generated-frames/</link>
-      <description><![CDATA[Nvidia 嚴重依賴 DLSS 4 和人工智慧產生的幀來進行速度比較。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/geforce-rtx-50-gpus-run-from-1999-to-549-lean-heavily-on-ai-generated-frames/</guid>
-      <pubDate>Tue, 07 Jan 2025 20:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>科學論文盜版網站 Sci-Hub 分享了大量撤回的論文</title>
-      <link>https://arstechnica.com/science/2025/01/science-paper-piracy-site-sci-hub-shares-lots-of-retracted-papers/</link>
-      <description><![CDATA[85% 的無效論文在撤回後仍繼續被分享。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/science-paper-piracy-site-sci-hub-shares-lots-of-retracted-papers/</guid>
-      <pubDate>Tue, 07 Jan 2025 19:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>螞蟻與人類：解決鋼琴移動難題</title>
-      <link>https://arstechnica.com/science/2025/01/ants-vs-humans-solving-the-piano-mover-puzzle/</link>
-      <description><![CDATA[“人類因個人認知能力而脫穎而出，而螞蟻則因合作而出類拔萃。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/ants-vs-humans-solving-the-piano-mover-puzzle/</guid>
-      <pubDate>Tue, 07 Jan 2025 19:20:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
