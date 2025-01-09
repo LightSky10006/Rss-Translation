@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 18:43:43 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 19:35:28 GMT</lastBuildDate>
+    <item>
+      <title>轉瞬即逝的閃亮、愚蠢的智慧產品等等：2025 年 CES 上最差的產品</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</link>
+      <description><![CDATA[這些榮譽令人生疑，但科技也是如此 ces  消費電子展再次展現了創新的前沿，也展現了最糟糕的當現代科技與當今資本當主義過度文化發生碰撞時，會發生什麼事呢？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</guid>
+      <pubDate>Thu, 09 Jan 2025 19:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>微軟準備迎接影響企業的 M365 一年的退役</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 09 Jan 2025 18:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉和馬斯克呼籲加倍支付560億美元薪水</title>
+      <title>特斯拉、馬斯克雙倍下注 56B 美元發薪日上訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</link>
       <description><![CDATA[繼續打官司的動機是什麼？ 特斯拉執行長馬斯克和這家電動車公司的其他一批高階主管已對一系列法庭裁決提起上訴，這些裁決阻止了他 560 億美元的薪酬方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</guid>
@@ -34,21 +41,21 @@
       <pubDate>Thu, 09 Jan 2025 15:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>零時差漏洞連續第二年困擾 Ivanti Connect Secure 設備</title>
+      <title>Ivanti Connect Secure 設備連續第二年遭受零時差漏洞攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/zeroday_exploits_ivanti/</link>
       <description><![CDATA[其他設備延遲兩週，建議恢復出廠設定並應用修補程式 網路安全產業敦促那些負責保護其組織的人員「認真」採取緩解措施，因為Ivanti 正在應對兩個危險的新漏洞，其中一個已被利用為零日漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/zeroday_exploits_ivanti/</guid>
       <pubDate>Thu, 09 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>川普對華關稅“掩蓋”人工智慧個人電腦的“進步”</title>
+      <title>川普對中國徵收關稅“掩蓋”人工智慧個人電腦的“進步”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</link>
       <description><![CDATA[基於 NPU 的盒子成本已經膨脹，進口稅將大幅上漲 人工智慧 PC 的「進步」正被企業對經濟狀況的擔憂和美國當選總統的擔憂所「掩蓋」。市場觀察家和數據分析公司IDC 稱，川普威脅對中國製造的設備徵收關稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</guid>
       <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全專家用虛假的 Windows LDAP 漏洞陷阱當誘餌</title>
+      <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
       <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 09 Jan 2025 11:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>£3.8B 之後，老科技供應商的火焰仍在為 HMRC 燃燒</title>
+      <title>耗資 38 億英鎊後，老科技供應商的熱情仍在為 HMRC 燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
       <description><![CDATA[預計於2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已經向技術供應商花費了38 億英鎊，其中5.91 億英鎊是在沒有外部競爭的情況下花費的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
-      <description><![CDATA[Linux 基金會能源認為，快速去中心化的電力部門無法在孤島中取得成功 能源產業需要採用開源人工智慧軟體以及用於創建該軟體的協作流程，以滿足對所創造能源的需求透過越來越多地使用......人工智慧......]]></description>
+      <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
       <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
     </item>
@@ -118,14 +125,14 @@
       <pubDate>Thu, 09 Jan 2025 00:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>即將離任的美國國家網路總監承認，我盡了最大努力，但未能解決所有網路安全問題</title>
+      <title>即將離任的美國國家網路總監承認，我努力嘗試，但沒有解決所有網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</link>
       <description><![CDATA[令人吃驚的是，ONCD 負責人Harry Coker 表示，還需要做更多工作 即將卸任的美國國家網絡總監辦公室負責人向當選總統特朗普挑選的人傳達了一個明確的信息他的繼任者：還有很多工作要做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</guid>
       <pubDate>Wed, 08 Jan 2025 23:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>我們確實警告過您 – 2025 年可能是人工智慧機器人接管 Meta 的“宇宙”</title>
+      <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
       <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[消防隊員奮力保護人員、房屋和科學研究的安全 洛杉磯縣發生多起失控的重大山火，消防隊員冒著生命危險保護人員、房屋和 NASA 的重要設施…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</guid>
       <pubDate>Wed, 08 Jan 2025 21:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mitel 0 日漏洞、5 年前的 Oracle RCE 漏洞正被積極利用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</link>
-      <description><![CDATA[3 個CVE 被加入到CISA 目錄中 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，包括一個零日漏洞，以及Oracle WebLogic Server 中一個嚴重的遠端程式碼執行漏洞，該漏洞已被濫用至少五年…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
-      <pubDate>Wed, 08 Jan 2025 20:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
