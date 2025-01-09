@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 22:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 23:13:01 GMT</lastBuildDate>
     <item>
-      <title>CES 2025 預示著智慧電視未來將充斥著不必要的軟體和噱頭</title>
+      <title>美國出售 6.9 萬枚被扣押的比特幣可能會擾亂川普的加密儲備計劃</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/us-selling-69k-seized-bitcoins-could-mess-with-trump-plans-for-crypto-reserve/</link>
+      <description><![CDATA[以比特幣當前價格計算，美國可從此次出售中獲得約 64 億美元。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/us-selling-69k-seized-bitcoins-could-mess-with-trump-plans-for-crypto-reserve/</guid>
+      <pubDate>Thu, 09 Jan 2025 22:44:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是關於可怕的帕利塞茲山火我們知道和不知道的事情</title>
+      <link>https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/</link>
+      <description><![CDATA[“我認為目前我們的問題比答案還多。”]]></description>
+      <guid>https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/</guid>
+      <pubDate>Thu, 09 Jan 2025 22:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>針對 Ivanti VPN 的持續攻擊安裝了大量精心編寫的惡意軟體</title>
+      <link>https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/</link>
+      <description><![CDATA[野外攻擊會竄改內建安全工具來抑制感染警告。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/</guid>
+      <pubDate>Thu, 09 Jan 2025 22:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 更高、更重、更聰明的星際飛船即將準備升空</title>
+      <link>https://arstechnica.com/space/2025/01/a-taller-heavier-smarter-version-of-spacexs-starship-is-almost-ready-to-fly/</link>
+      <description><![CDATA[星際飛船將在第七次試飛中測試其有效載荷部署機制。]]></description>
+      <guid>https://arstechnica.com/space/2025/01/a-taller-heavier-smarter-version-of-spacexs-starship-is-almost-ready-to-fly/</guid>
+      <pubDate>Thu, 09 Jan 2025 21:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>為什麼我對 CES 2025 上的電視感到失望</title>
       <link>https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/</link>
       <description><![CDATA[專欄：電視台因優先考慮企業需求而錯失真正改進的機會。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[但售價 120 美元的新主機板必須與更廣泛的迷你電腦競爭。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/new-120-16gb-raspberry-pi-5-is-for-the-people-who-use-it-like-an-everyday-pc/</guid>
       <pubDate>Thu, 09 Jan 2025 17:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 基金會在「中立空間」將 Chromium 瀏覽器製造商聯合起來</title>
-      <link>https://arstechnica.com/gadgets/2025/01/google-meta-microsoft-and-opera-agree-on-something-supporting-chromium/</link>
-      <description><![CDATA[開源組織的目的是更好地組織和資助瀏覽器的開發。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/google-meta-microsoft-and-opera-agree-on-something-supporting-chromium/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國首次上網的歷程</title>
-      <link>https://arstechnica.com/culture/2025/01/how-the-uk-was-connected-to-the-internet-for-the-first-time/</link>
-      <description><![CDATA[幾個月後，網路的第一個密碼誕生了。]]></description>
-      <guid>https://arstechnica.com/culture/2025/01/how-the-uk-was-connected-to-the-internet-for-the-first-time/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>直覺機器公司準備第二次登陸，尋求建立月球經濟</title>
-      <link>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</link>
-      <description><![CDATA[“你不能拋棄與月球有關的一切然後前往火星。”]]></description>
-      <guid>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</guid>
-      <pubDate>Thu, 09 Jan 2025 15:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年電動車稅收抵免規則變化，贏家與輸家</title>
-      <link>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</link>
-      <description><![CDATA[目前有 27 輛電動車符合稅收抵免資格，高於 2024 年的 24 輛。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</guid>
-      <pubDate>Thu, 09 Jan 2025 15:30:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
