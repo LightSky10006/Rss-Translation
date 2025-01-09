@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 05:37:03 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 07:12:54 GMT</lastBuildDate>
+    <item>
+      <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
+      <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
+      <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
+    </item>
     <item>
       <title>微軟邀請中國軟體供應商在其市場和透過其合作夥伴進行銷售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>日本警方聲稱中國針對地方組織進行了為期五年的網路攻擊活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</link>
-      <description><![CDATA[「MirrorFace」組織找到了在Windows 沙盒中運行惡意軟體的方法，令人擔憂 日本國家警察廳和網路安全事件準備和戰略中心已證實第三方報告的針對當地組織的攻擊事件透過公佈多年來一系列被歸咎於中國支持的消息來源的襲擊的細節…]]></description>
+      <description><![CDATA[「MirrorFace」組織發現了在Windows 沙盒中運行惡意軟體的方法，這可能令人擔憂 日本國家警察廳和網路安全事件準備和戰略中心已經證實了第三方關於本地組織發布了多年來一系列歸因於中國支持的消息來源的攻擊的詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</guid>
       <pubDate>Thu, 09 Jan 2025 03:56:11 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
-      <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
+      <description><![CDATA[無法再成長？讓我們創造參與度！年聊天機器人計劃的殘餘，該計劃在2023 年被終止低利息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
       <pubDate>Wed, 08 Jan 2025 23:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯山火迫使數萬人撤離，NASA JPL 關閉</title>
+      <title>洛杉磯山火迫使數萬人撤離 NASA 噴射推進實驗室關閉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</link>
       <description><![CDATA[消防隊員奮力保護人員、房屋和科學研究的安全 洛杉磯縣發生多起失控的重大山火，消防隊員冒著生命危險保護人員、房屋和 NASA 的重要設施…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>Mitel 0 日漏洞、5 年前的 Oracle RCE 漏洞正被積極利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</link>
-      <description><![CDATA[CISA 目錄中新增了3 個CVE 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，其中包括一個零日漏洞以及Oracle WebLogic Server 中的一個嚴重遠端程式碼執行漏洞，該漏洞已被濫用至少五年。]]></description>
+      <description><![CDATA[3 個CVE 被加入到CISA 目錄中 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，包括一個零日漏洞，以及Oracle WebLogic Server 中一個嚴重的遠端程式碼執行漏洞，該漏洞已被濫用至少五年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
       <pubDate>Wed, 08 Jan 2025 20:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>量子？沒有安慰：英偉達執行長因「20年後」預測而下挫QC股票</title>
+      <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
       <description><![CDATA[黃仁勳表示，D-Wave、Rigetti 等公司股價暴跌近 50% CES 量子運算產業似乎和它所依賴的量子位元一樣脆弱。先前 Nvidia 執行長黃仁勳在 CES 上發表了相當合理的言論，稱實用的量子系統可能還需要 20 年才能實現，此後，一些上市量子計算公司的股價今日大幅下跌。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜斥資 110 億美元在喬治亞州建造人工智慧資料中心</title>
+      <title>亞馬遜斥資 110 億美元在喬治亞州建造 AI 資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</link>
       <description><![CDATA[Peach State 已經擁有 50 多個比特倉庫 亞馬遜在美國喬治亞州的資料中心規模將不斷擴大，計劃投資 110 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</guid>
@@ -104,9 +111,9 @@
       <pubDate>Wed, 08 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>聯合國航空機構證實招募資料庫遭到攻擊</title>
+      <title>聯合國航空機構確認招募資料庫遭受攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</link>
-      <description><![CDATA[多個數據點受到損害，但對飛行安全沒有風險 聯合國航空機構國際民用航空組織 (ICAO) 已向The Register證實，網路犯罪確實從其招募資料庫中竊取了42,000 筆記錄。]]></description>
+      <description><![CDATA[多個資料點遭到洩露，但對飛行安全沒有風險 聯合國航空機構國際民航組織 (ICAO) 已向登記冊確認，網路犯罪確實從其招聘資料庫中竊取了42,000 筆記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</guid>
       <pubDate>Wed, 08 Jan 2025 14:00:06 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>通路被修正：硬體現在是一個更新周期的業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</link>
-      <description><![CDATA[「30 年來，你們一直以為自己是商業天才，」資深分析師告訴經銷商和經銷商 觀點  如果出現以下情況，科技硬體產業可能正面臨某種生存危機：資深分析師是正確的－移動箱子的日子將僅限於更換週期。]]></description>
+      <description><![CDATA[「30 年來，你們一直以為自己是商業天才，」資深分析師告訴經銷商和經銷商 觀點  如果一家科技硬體公司資深分析師是正確的－移動箱子的日子將僅限於更換週期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/channel_stands_corrected/</guid>
       <pubDate>Wed, 08 Jan 2025 12:30:09 GMT</pubDate>
     </item>
     <item>
       <title>谷歌聘請前微軟高階主管掌舵英國雲端運算業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/google_cloud_uk_vp/</link>
-      <description><![CDATA[莫琳·科斯特洛希望利用人工智慧「賦能」企業 Google聘請了微軟和埃森哲資深人士莫琳·科斯特洛擔任英國、愛爾蘭和撒哈拉以南非洲地區副總裁，英國競爭市場管理局(CMA) 準備發布關於其雲端服務市場調查的臨時決定。 /對]]></description>
+      <description><![CDATA[莫琳·科斯特洛希望利用人工智慧「賦能」企業 Google聘請了微軟和埃森哲資深人士莫琳·科斯特洛擔任英國、愛爾蘭和撒哈拉以南非洲地區副總裁，擔任英國競爭市場管理局(CMA) 準備發布關於其雲端服務市場調查的臨時決定。 &lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/google_cloud_uk_vp/</guid>
       <pubDate>Wed, 08 Jan 2025 12:00:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這些天20 美元能為你帶來什麼 超過4,000 個獨特的後門正在使用過期的域名和/或廢棄的基礎設施，其中許多暴露了政府和學術界擁有的主機——從而為這些主機設置了犯罪分子劫持後，其利他意圖可能不如發現同樣後門的安全研究人員那麼大。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/backdoored_backdoors/</guid>
       <pubDate>Wed, 08 Jan 2025 11:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>正當你認為終端模擬器已經不能再好了，Ghostty 來了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</link>
-      <description><![CDATA[HashiCorp 聯合創始人的業餘項目達到1.0 – 呃，1.0.1 Ghostty 比聽起來更有趣，原因有幾個：誰寫了它，它做什麼，以及它用什麼語言編寫都比它執行的表面上簡單的任務更不尋常。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/ghostty_1/</guid>
-      <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
