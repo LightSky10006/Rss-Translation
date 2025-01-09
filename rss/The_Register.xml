@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 16:42:46 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 17:36:38 GMT</lastBuildDate>
     <item>
-      <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
+      <title>特斯拉和馬斯克呼籲加倍支付560億美元薪水</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</link>
+      <description><![CDATA[繼續打官司的動機是什麼？ 特斯拉執行長馬斯克和這家電動車公司的其他一批高階主管已對一系列法庭裁決提起上訴，這些裁決阻止了他 560 億美元的薪酬方案。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</guid>
+      <pubDate>Thu, 09 Jan 2025 17:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haiku Beta 5 / 在測試中它（火）更狡猾 / 它讓我們很高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
-      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有達到版本一點零的魔力線，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
+      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有完全達到版本一點零的魔力，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
       <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
-      <description><![CDATA[狡猾的攻擊者再次試圖欺騙國內的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次是利用嚴重的Microsoft 安全漏洞進行虛假攻擊。 p &gt; ]]></description>
+      <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
       <pubDate>Thu, 09 Jan 2025 13:16:06 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>耗資 38 億英鎊後，老科技供應商的熱情仍在為 HMRC 燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
-      <description><![CDATA[預計於2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已經向技術供應商花費了38 億英鎊，其中5.91 億英鎊是在沒有外部競爭的情況下花費的。]]></description>
+      <description><![CDATA[預計2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已在技術供應商身上花費了38 億英鎊（其中在沒有任何外部競爭的情況下花費了5.91 億英鎊），計劃於 2017 年結束的 100 億英鎊項目的頂部。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
       <pubDate>Thu, 09 Jan 2025 10:32:07 GMT</pubDate>
     </item>
@@ -69,14 +76,14 @@
       <pubDate>Thu, 09 Jan 2025 09:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>終極版 Pi 5 搭載 16GB 記憶體…價格也相當合理</title>
+      <title>終極 Pi 5 上市，內存為 16GB……價格也相匹配</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/</link>
       <description><![CDATA[發燒友真正需要多少 RAM？  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/</guid>
       <pubDate>Thu, 09 Jan 2025 08:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
+      <title>開源機構表示，要從人工智慧中拯救能源網絡，請使用開源人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
       <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟邀請中國軟體供應商在其市場和透過其合作夥伴進行銷售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</link>
-      <description><![CDATA[祝你好運，讓買家和經銷商對此感到興奮 你會採用中國供應商的軟體嗎？我們提出這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和通路進行銷售。]]></description>
+      <description><![CDATA[祝福買家和經銷商對此感到興奮 您會採用中國供應商的軟體嗎？我們問這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和管道進行銷售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</guid>
       <pubDate>Thu, 09 Jan 2025 05:33:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>網路攻擊中 PowerSchool 竊取學生、教師資訊資料庫表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</link>
-      <description><![CDATA[典型行為：雲端業務僅為全球超過6,000 萬用戶提供服務，沒什麼大不了的 一家領先的教育軟體製造商承認，其IT 環境在網路攻擊中受到損害，學生和教師的個人資料包括一些社會安全號碼和醫療資訊 - 被盜。]]></description>
+      <description><![CDATA[優雅之舉：雲端運算業務僅服務全球6000 多萬用戶，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社會安全號碼和醫療資訊被盜… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</guid>
       <pubDate>Thu, 09 Jan 2025 00:44:13 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
-      <description><![CDATA[D-Wave、Rigetti 等公司在黃仁勳說出顯而易見的事實後暴跌近 50% CES  量子運算產業似乎與其所依賴的量子位元一樣脆弱。 Nvidia 執行長 Jensen Huang 在 CES 上發表相當合理的言論，即實用的量子系統可能還需要 20 年時間，隨後一些上市量子運算公司的股價今天大幅下跌。 … ]]></description>
+      <description><![CDATA[黃仁勳表示，D-Wave、Rigetti 等公司股價暴跌近 50% CES 量子運算產業似乎和它所依賴的量子位元一樣脆弱。先前 Nvidia 執行長黃仁勳在 CES 上發表了相當合理的言論，稱實用的量子系統可能還需要 20 年才能實現，此後，一些上市量子計算公司的股價今日大幅下跌。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
       <pubDate>Wed, 08 Jan 2025 19:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Garmin Connect 中斷導致人們無法分享他們的健身美德訊號</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</link>
-      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 一度癱瘓，但在一次不明原因的中斷讓健身愛好者感到困惑之後，又重新恢復了活力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
