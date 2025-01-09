@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 12:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 13:23:31 GMT</lastBuildDate>
+    <item>
+      <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
+      <description><![CDATA[狡猾的攻擊者再次試圖欺騙國內的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次是利用嚴重的Microsoft 安全漏洞進行虛假攻擊。 p &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
+      <pubDate>Thu, 09 Jan 2025 13:16:06 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空總署的月球 Roomba 將吸取月球灰塵以供研究</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>英國政府承諾制定法律打擊色情深度偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</link>
-      <description><![CDATA[不僅要製作，還要分享 英國政府已承諾將製作和分享色情深度偽造圖像定為刑事犯罪。]]></description>
+      <description><![CDATA[不僅製作它們，還分享它們 英國政府已承諾將創建和分享露骨的深度偽造圖像定為刑事犯罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</guid>
       <pubDate>Thu, 09 Jan 2025 09:28:12 GMT</pubDate>
     </item>
@@ -43,19 +50,19 @@
     <item>
       <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
-      <description><![CDATA[Linux 基金會能源認為，快速去中心化的電力部門無法在孤島中取得成功 能源產業需要採用開源人工智慧軟體以及用於創建該軟體的協作流程，以滿足對所創造能源的需求透過越來越多地使用......人工智慧。]]></description>
+      <description><![CDATA[Linux 基金會能源認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
       <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
     </item>
     <item>
       <title>微軟邀請中國軟體供應商在其市場和透過其合作夥伴進行銷售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</link>
-      <description><![CDATA[祝你好運，讓買家和經銷商對此感到興奮 你會採用中國供應商的軟體嗎？我們提出這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和通路進行銷售。]]></description>
+      <description><![CDATA[祝福買家和經銷商對此感到興奮 您會採用中國供應商的軟體嗎？我們問這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和管道進行銷售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</guid>
       <pubDate>Thu, 09 Jan 2025 05:33:06 GMT</pubDate>
     </item>
     <item>
-      <title>日本警方聲稱中國針對地方組織進行了為期五年的網路攻擊活動</title>
+      <title>日本警方稱中國針對當地組織進行了長達五年的網路攻擊活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</link>
       <description><![CDATA[「MirrorFace」組織發現了在Windows 沙盒中運行惡意軟體的方法，這可能令人擔憂 日本國家警察廳和網路安全事件準備和戰略中心已經證實了第三方關於本地組織發布了多年來一系列歸因於中國支持的消息來源的攻擊的詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>即將離任的美國國家網路總監承認，我盡了最大努力，但未能解決所有網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</link>
-      <description><![CDATA[令人驚訝的是，ONCD 老闆 Harry Coker 表示需要做更多工作 美國國家網路總監辦公室即將卸任的領導人向當選總統川普挑選的人發出了明確的訊息他的繼任者：還有很多工作要做。]]></description>
+      <description><![CDATA[令人吃驚的是，ONCD 負責人Harry Coker 表示，還需要做更多工作 即將卸任的美國國家網絡總監辦公室負責人向當選總統特朗普挑選的人傳達了一個明確的信息他的繼任者：還有很多工作要做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</guid>
       <pubDate>Wed, 08 Jan 2025 23:56:07 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 08 Jan 2025 23:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯山火迫使數萬人撤離 NASA 噴射推進實驗室關閉</title>
+      <title>洛杉磯山火迫使數萬人撤離，NASA JPL 關閉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</link>
       <description><![CDATA[消防隊員奮力保護人員、房屋和科學研究的安全 洛杉磯縣發生多起失控的重大山火，消防隊員冒著生命危險保護人員、房屋和 NASA 的重要設施…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[使用六年舊韌體的設備易受接管和破壞 更新  網路安全商店 Eclypsium 聲稱影響領先 DNA 定序設備的安全問題可能會導致關鍵臨床研究中斷.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</guid>
       <pubDate>Wed, 08 Jan 2025 15:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本木製衛星離開國際太空站</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/japans_wooden_satellite_leaves_the/</link>
-      <description><![CDATA[精心打造的木箱 LignoSat 獨樹一格 日本的木製衛星 LignoSat 已從國際太空站 (ISS) 發射進入軌道。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/japans_wooden_satellite_leaves_the/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
