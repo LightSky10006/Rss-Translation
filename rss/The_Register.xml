@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 13:23:31 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 14:12:04 GMT</lastBuildDate>
+    <item>
+      <title>川普對中國徵收關稅“掩蓋”人工智慧個人電腦的“進步”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</link>
+      <description><![CDATA[基於 NPU 的盒子成本已經膨脹，進口稅將大幅上漲 人工智慧 PC 的「進步」正被企業對經濟狀況的擔憂和美國當選總統的擔憂所「掩蓋」。市場觀察家和數據分析公司IDC 稱，川普威脅對中國製造的設備徵收關稅。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</guid>
+      <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
@@ -22,47 +29,47 @@
     <item>
       <title>當有人傳喚 Cloudflare 揭露部落客的真面目時會發生什麼事？這...</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_blog_cloudflare_subpoena/</link>
-      <description><![CDATA[英國前政客聲稱自己遭到誹謗——並在美國法庭尋求答案 英國前副市長已向美國 Cloudflare 發出傳票，要求查明一位匿名英國政客的身份博主…]]></description>
+      <description><![CDATA[英國前政客聲稱自己遭到誹謗——並在美國法庭尋求答案 英國前副市長已向 Cloudflare 發出傳票，要求其在美國查明一位匿名英國政客的身份博主…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_blog_cloudflare_subpoena/</guid>
       <pubDate>Thu, 09 Jan 2025 11:13:13 GMT</pubDate>
     </item>
     <item>
       <title>耗資 38 億英鎊後，老科技供應商的熱情仍在為 HMRC 燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
-      <description><![CDATA[預計於2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已經向技術供應商花費了38 億英鎊，其中5.91 億英鎊是在沒有外部競爭的情況下花費的。]]></description>
+      <description><![CDATA[預計2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已在技術供應商身上花費了38 億英鎊（其中在沒有任何外部競爭的情況下花費了5.91 億英鎊），計劃於 2017 年結束的 100 億英鎊項目的頂部。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
       <pubDate>Thu, 09 Jan 2025 10:32:07 GMT</pubDate>
     </item>
     <item>
       <title>英國政府承諾制定法律打擊色情深度偽造</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</link>
-      <description><![CDATA[不僅製作它們，還分享它們 英國政府已承諾將創建和分享露骨的深度偽造圖像定為刑事犯罪。]]></description>
+      <description><![CDATA[不僅要製作，還要分享 英國政府已承諾將製作和分享色情深度偽造圖像定為刑事犯罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</guid>
       <pubDate>Thu, 09 Jan 2025 09:28:12 GMT</pubDate>
     </item>
     <item>
-      <title>終極版 Pi 5 搭載 16GB 記憶體…價格也相當合理</title>
+      <title>終極 Pi 5 上市，內存為 16GB……價格也相匹配</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/</link>
-      <description><![CDATA[發燒友真正需要多少 RAM？  ]]></description>
+      <description><![CDATA[發燒友真正需要多少 RAM？ . ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/</guid>
       <pubDate>Thu, 09 Jan 2025 08:00:09 GMT</pubDate>
     </item>
     <item>
       <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
-      <description><![CDATA[Linux 基金會能源認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
+      <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
       <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
     </item>
     <item>
       <title>微軟邀請中國軟體供應商在其市場和透過其合作夥伴進行銷售</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</link>
-      <description><![CDATA[祝福買家和經銷商對此感到興奮 您會採用中國供應商的軟體嗎？我們問這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和管道進行銷售。]]></description>
+      <description><![CDATA[祝你好運，讓買家和經銷商對此感到興奮 你會採用中國供應商的軟體嗎？我們提出這個問題是因為微軟已經開始幫助中國開發商透過其線上市場和通路進行銷售。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_invites_chinese_isvs_to_marketplaces/</guid>
       <pubDate>Thu, 09 Jan 2025 05:33:06 GMT</pubDate>
     </item>
     <item>
-      <title>日本警方稱中國針對當地組織進行了長達五年的網路攻擊活動</title>
+      <title>日本警方聲稱中國針對地方組織進行了為期五年的網路攻擊活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</link>
       <description><![CDATA[「MirrorFace」組織發現了在Windows 沙盒中運行惡意軟體的方法，這可能令人擔憂 日本國家警察廳和網路安全事件準備和戰略中心已經證實了第三方關於本地組織發布了多年來一系列歸因於中國支持的消息來源的攻擊的詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/japan_mirrorface_china_attack/</guid>
@@ -78,12 +85,12 @@
     <item>
       <title>即將離任的美國國家網路總監承認，我盡了最大努力，但未能解決所有網路安全問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</link>
-      <description><![CDATA[令人吃驚的是，ONCD 負責人Harry Coker 表示，還需要做更多工作 即將卸任的美國國家網絡總監辦公室負責人向當選總統特朗普挑選的人傳達了一個明確的信息他的繼任者：還有很多工作要做。]]></description>
+      <description><![CDATA[令人驚訝的是，ONCD 老闆 Harry Coker 表示需要做更多工作 美國國家網路總監辦公室即將卸任的領導人向當選總統川普挑選的人發出了明確的訊息他的繼任者：還有很多工作要做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</guid>
       <pubDate>Wed, 08 Jan 2025 23:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>我們確實警告過您 – 2025 年可能是人工智慧機器人接管 Meta 的“宇宙”</title>
+      <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
       <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
@@ -99,12 +106,12 @@
     <item>
       <title>Mitel 0 日漏洞、5 年前的 Oracle RCE 漏洞正被積極利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</link>
-      <description><![CDATA[3 個CVE 被加入到CISA 目錄中 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，包括一個零日漏洞，以及Oracle WebLogic Server 中一個關鍵的遠端程式碼執行漏洞，該漏洞已被濫用至少五年…]]></description>
+      <description><![CDATA[CISA 目錄中新增了3 個CVE 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，其中包括一個零日漏洞以及Oracle WebLogic Server 中的一個嚴重遠端程式碼執行漏洞，該漏洞已被濫用至少五年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
       <pubDate>Wed, 08 Jan 2025 20:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
+      <title>量子？沒有安慰：英偉達執行長因「20年後」預測而下挫QC股票</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
       <description><![CDATA[黃仁勳表示，D-Wave、Rigetti 等公司股價暴跌近 50% CES 量子運算產業似乎和它所依賴的量子位元一樣脆弱。先前 Nvidia 執行長黃仁勳在 CES 上發表了相當合理的言論，稱實用的量子系統可能還需要 20 年才能實現，此後，一些上市量子計算公司的股價今日大幅下跌。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>美國宇航局只剩下兩個火星樣本返回任務著陸器選項</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</link>
-      <description><![CDATA[JPL 的天空起重機技術或私人供應商將獲得5-7B 美元的合同，然後再與ESA 搭便車返回地球 NASA 表示需要到2026 年才能就如何返回火星樣本做出最終決定 ( MSR）任務將會成功。]]></description>
+      <description><![CDATA[JPL 的空中起重機技術或私人供應商將獲得50-70 億美元的合同，然後搭乘ESA 返回地球 NASA 表示，它需要到2026 年才能最終決定如何將火星樣本帶回地球（ MSR）任務將會成功。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</guid>
       <pubDate>Wed, 08 Jan 2025 17:06:58 GMT</pubDate>
     </item>
     <item>
       <title>別在意那些中國間諜：美國空軍選擇 Verizon 進行 35 個基地網路升級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</link>
-      <description><![CDATA[鹽颱風？未修補的網路套件？對不起，我想你要分手了 別介意整個 Salt Typhoon 故障 - Verizon 的聲譽受損並沒有阻止它達成協議，為 35 個美國空軍基地的網絡升級，並提供新的 4G 和5G套件。 …]]></description>
+      <description><![CDATA[鹽颱風？未打補丁的網路套件？抱歉，我想你們要分手了 別介意整個鹽颱風的小問題- Verizon 的聲譽受損並沒有阻止它達成協議，為35 個美國空軍基地升級網絡，配備新的4G 和5G套件。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/usaf_picks_verizon_network/</guid>
       <pubDate>Wed, 08 Jan 2025 16:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNA 定序儀發現運行古老的 BIOS，對臨床研究構成風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</link>
-      <description><![CDATA[使用六年舊韌體的設備易受接管和破壞 更新  網路安全商店 Eclypsium 聲稱影響領先 DNA 定序設備的安全問題可能會導致關鍵臨床研究中斷.… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/dna_sequencer_vulnerabilities/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
