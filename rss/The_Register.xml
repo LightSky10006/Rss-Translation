@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 00:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 02:48:19 GMT</lastBuildDate>
     <item>
       <title>網路攻擊中 PowerSchool 竊取學生、教師資訊資料庫表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</link>
-      <description><![CDATA[優雅行為：Biz 只為全美6000 萬人提供服務，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社交安全號碼和醫療資訊 - 被盜… ]]></description>
+      <description><![CDATA[優雅之舉：雲端運算業務僅服務全球6000 多萬用戶，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社會安全號碼和醫療資訊被盜… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</guid>
       <pubDate>Thu, 09 Jan 2025 00:44:13 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 08 Jan 2025 21:04:21 GMT</pubDate>
     </item>
     <item>
-      <title>Mitel 0 日漏洞、5 年前的 Oracle RCE 漏洞正被積極利用</title>
+      <title>Mitel 0day、已有 5 年歷史的 Oracle RCE 漏洞正在被積極利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</link>
       <description><![CDATA[3 個CVE 被加入到CISA 目錄中 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，包括一個零日漏洞，以及Oracle WebLogic Server 中一個嚴重的遠端程式碼執行漏洞，該漏洞已被濫用至少五年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
@@ -50,12 +50,12 @@
     <item>
       <title>Garmin Connect 中斷導致人們無法分享他們的健身美德訊號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</link>
-      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 被擊倒，但在一次不明原因的中斷讓外向的健身者感到困惑之後又重新站了起來。]]></description>
+      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 一度癱瘓，但在一次不明原因的中斷讓健身愛好者感到困惑之後，又重新恢復了活力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
       <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜斥資 110 億美元在喬治亞州建造人工智慧資料中心</title>
+      <title>亞馬遜斥資 110 億美元在喬治亞州建造 AI 資料中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</link>
       <description><![CDATA[Peach State 已經擁有 50 多個比特倉庫 亞馬遜在美國喬治亞州的資料中心規模將不斷擴大，計劃投資 110 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>美國宇航局只剩下兩個火星樣本返回任務著陸器選項</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</link>
-      <description><![CDATA[JPL 的空中起重機技術或私人供應商將獲得50-70 億美元的合同，然後搭乘ESA 返回地球 NASA 表示，它需要到2026 年才能最終決定如何將火星樣本帶回地球（ MSR）任務將會成功。]]></description>
+      <description><![CDATA[JPL 的天空起重機技術或私人供應商將獲得5-7B 美元的合同，然後再與ESA 搭便車返回地球 NASA 表示需要到2026 年才能就如何返回火星樣本做出最終決定 ( MSR）任務將會成功。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/nasa_whittles_down_mars_sample/</guid>
       <pubDate>Wed, 08 Jan 2025 17:06:58 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 08 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>聯合國航空機構證實招募資料庫遭到攻擊</title>
+      <title>聯合國航空機構確認招募資料庫遭受攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</link>
       <description><![CDATA[多個數據點受到損害，但對飛行安全沒有風險 聯合國航空機構國際民用航空組織 (ICAO) 已向The Register證實，網路犯罪確實從其招募資料庫中竊取了42,000 筆記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>人工智慧炒作導致 2024 年企業資料中心支出狂潮，但這種熱潮不會持續太久</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</link>
-      <description><![CDATA[GPU 和生成式 AI 系統目前如此熱門…但分析師表示「長期趨勢依然存在」 對未來 AI 需求的押注推動公有雲支出成長 48%去年，雲端供應商和企業都爭相投資伺服器和GPU 來支援生成性AI 工作負載。]]></description>
+      <description><![CDATA[GPU 與生成式AI 系統目前非常熱門...但分析師表示，「長期趨勢依然存在」 對AI 未來需求的押注推動公有雲支出猛增48 %去年，隨著雲端供應商和企業紛紛投資伺服器和 GPU 以支援生成式 AI 工作負載，基礎設施出現了巨大的變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/synergy_research_dc_report/</guid>
       <pubDate>Wed, 08 Jan 2025 13:43:57 GMT</pubDate>
     </item>
