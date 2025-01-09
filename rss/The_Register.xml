@@ -3,10 +3,24 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 08 Jan 2025 23:35:19 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 00:58:46 GMT</lastBuildDate>
     <item>
-      <title>我們確實警告過您 – 2025 年可能是人工智慧機器人接管 Meta 的“宇宙”</title>
+      <title>網路攻擊中 PowerSchool 竊取學生、教師資訊資料庫表</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</link>
+      <description><![CDATA[優雅行為：Biz 只為全美6000 萬人提供服務，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社交安全號碼和醫療資訊 - 被盜… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</guid>
+      <pubDate>Thu, 09 Jan 2025 00:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>即將離任的美國國家網路總監承認，我盡了最大努力，但未能解決所有網路安全問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</link>
+      <description><![CDATA[令人吃驚的是，ONCD 負責人Harry Coker 表示，還需要做更多工作 即將卸任的美國國家網絡總監辦公室負責人向當選總統特朗普挑選的人傳達了一個明確的信息他的繼任者：還有很多工作要做。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/oncd_director_harry_coker_exit_remarks/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
       <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>洛杉磯山火迫使數萬人撤離，NASA JPL 關閉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</link>
-      <description><![CDATA[消防隊員奮力保護人員、房屋和科學研究的安全 洛杉磯縣發生多起失控的重大野火，消防隊員冒著生命危險保護人員、房屋和 NASA 的關鍵設施。 /p&gt;]]></description>
+      <description><![CDATA[消防隊員奮力保護人員、房屋和科學研究的安全 洛杉磯縣發生多起失控的重大山火，消防隊員冒著生命危險保護人員、房屋和 NASA 的重要設施…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/los_angeles_fires_jpl/</guid>
       <pubDate>Wed, 08 Jan 2025 21:04:21 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>Garmin Connect 中斷導致人們無法分享他們的健身美德訊號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</link>
-      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 一度癱瘓，但在一次不明原因的中斷讓健身愛好者感到困惑之後，又重新恢復了活力。]]></description>
+      <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 被擊倒，但在一次不明原因的中斷讓外向的健身者感到困惑之後又重新站了起來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
       <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 08 Jan 2025 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>聯合國航空機構確認招募資料庫遭受攻擊</title>
+      <title>聯合國航空機構證實招募資料庫遭到攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</link>
       <description><![CDATA[多個數據點受到損害，但對飛行安全沒有風險 聯合國航空機構國際民用航空組織 (ICAO) 已向The Register證實，網路犯罪確實從其招募資料庫中竊取了42,000 筆記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uns_aviation_agency_confirms_attack/</guid>
@@ -106,7 +120,7 @@
     <item>
       <title>犯罪分子將提供給其他犯罪分子的後門嵌入其中。然後域名失效了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/backdoored_backdoors/</link>
-      <description><![CDATA[這就是現在20 美元可以給你帶來的東西 超過4,000 個獨特的後門正在使用過期的域名和/或廢棄的基礎設施，其中許多暴露了政府和學術界擁有的主機- 從而將這些主機設置為與發現相同後門的安全研究人員相比，犯罪分子的利他意圖可能更少。]]></description>
+      <description><![CDATA[這些天20 美元能為你帶來什麼 超過4,000 個獨特的後門正在使用過期的域名和/或廢棄的基礎設施，其中許多暴露了政府和學術界擁有的主機——從而為這些主機設置了犯罪分子劫持後，其利他意圖可能不如發現同樣後門的安全研究人員那麼大。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/backdoored_backdoors/</guid>
       <pubDate>Wed, 08 Jan 2025 11:00:07 GMT</pubDate>
     </item>
@@ -118,7 +132,7 @@
       <pubDate>Wed, 08 Jan 2025 10:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國數位市場監管機構預計本月內利用新權力展開調查</title>
+      <title>英國數位市場監管機構預計本月利用新權力展開調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/</link>
       <description><![CDATA[監管機構將在處以罰款前採取「參與式」方法 英國市場監管機構表示，將採取「參與式」方法，根據旨在遏制科技公司市場力量的立法行使新權力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/uk_markets_watchdog/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[另外：一窺Nvidia 的最新炒作 CES  AMD 在本週於拉斯維加斯舉行的年度CES 超級會議上推出了大量CPU，這些晶片涵蓋了各個領域從高階桌上型電腦處理器到針對遊戲筆電、手持裝置以及所謂的 AI PC 的處理器…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amd_ai_nvidia/</guid>
       <pubDate>Wed, 08 Jan 2025 08:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國 RISC-V 計畫將於 2025 年首次推出免費授權的先進晶片設計</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</link>
-      <description><![CDATA[第三代香山可能接近 Arm 專為 HPC 打造的 Neoverse 2 的性能 中國推動基於 RISC-V 指令集架構的處理器開發的關鍵人物表示，項目將於2025 年交付，其設計或將成為資料中心的有力競爭者… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/chinese_riscv_project_teases_2025/</guid>
-      <pubDate>Wed, 08 Jan 2025 07:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akamai 將退出中國 CDN 市場，似乎並非因為北京的麻煩</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</link>
-      <description><![CDATA[安全和雲端運算比枯燥的資料傳輸業務有更多優勢 Akamai 已決定終止其在中國的內容交付網路服務，但這並不是因為它發現在中國開展業務很困難。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/akamai_eol_china_cdn/</guid>
-      <pubDate>Wed, 08 Jan 2025 06:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

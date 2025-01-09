@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 Jan 2025 23:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 00:58:10 GMT</lastBuildDate>
     <item>
-      <title>末日戰士闖入藝廊，禮貌地啜飲葡萄酒</title>
+      <title>騙子如何操縱 Google 來推廣可疑的 Chrome 擴充功能</title>
+      <link>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</link>
+      <description><![CDATA[如何將 18,000 個關鍵字融入描述中？事實證明這很容易。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>義大利購買星鏈數據計畫對歐洲太空網路造成嚴重打擊</title>
+      <link>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</link>
+      <description><![CDATA[“如果我們團結一致並捍衛我們的基礎設施，我們就會強大。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在法學碩士課程中引入新的醫學錯誤訊息非常容易</title>
+      <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
+      <description><![CDATA[只要將 0.001% 的輸入改為錯誤訊息，就會降低人工智慧的準確性。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
+      <pubDate>Wed, 08 Jan 2025 22:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>高級版《毀滅戰士》重製版將電鋸換成起司刀</title>
       <link>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</link>
-      <description><![CDATA[翻拍 1993 年經典作品，讓您一邊品嚐葡萄酒、吃開胃小菜，一邊欣賞藝術史上的傑作。]]></description>
+      <description><![CDATA[1993 年經典電影的翻拍讓您可以一邊喝葡萄酒、吃開胃小菜，一邊欣賞藝術史上的傑作。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</guid>
       <pubDate>Wed, 08 Jan 2025 22:46:42 GMT</pubDate>
     </item>
@@ -34,16 +55,16 @@
       <pubDate>Wed, 08 Jan 2025 19:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>美國宇航局推遲向川普政府做出有關火星樣本返回的決定</title>
+      <title>美國宇航局將火星樣本返回的決定推遲到川普政府</title>
       <link>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</link>
       <description><![CDATA[“我們希望以最快、最便宜的方式取回這 30 個樣本。”]]></description>
       <guid>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</guid>
       <pubDate>Wed, 08 Jan 2025 18:44:04 GMT</pubDate>
     </item>
     <item>
-      <title>新影片展示了更大的 Nintendo Switch 2 和可卡入式 Joy-Cons</title>
+      <title>新影片展示了更大的 Nintendo Switch 2、卡扣式 Joy-Con</title>
       <link>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</link>
-      <description><![CDATA[配件製造商表示，CES 上的 3D 模型源自於實際的遊戲機。]]></description>
+      <description><![CDATA[配件製造商表示 CES 上的 3D 型號來自實際的控制台。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
       <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[至少 150 台摩托羅拉車牌閱讀器的影片來源無需密碼即可存取。]]></description>
       <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
       <pubDate>Wed, 08 Jan 2025 17:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>報導稱，歐盟「大力」調查 X 上的假訊息和右翼偏見</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</link>
-      <description><![CDATA[伊隆馬斯克進一步涉足全球右翼政治，在歐盟敲響了警鐘。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本田在 CES 上展示「接近量產」的電動車和新作業系統</title>
-      <link>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</link>
-      <description><![CDATA[本田 Zero SUV 將於 2026 年開始在俄亥俄州生產。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:13:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國出現首例 H5N1 禽流感死亡病例 世衛組織和疾病預防控制中心表示風險仍然很低</title>
-      <link>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</link>
-      <description><![CDATA[未發現人際傳播，也沒有發現令人擔憂的變異。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:14:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
