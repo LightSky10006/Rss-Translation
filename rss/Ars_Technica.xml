@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 03:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 13:38:16 GMT</lastBuildDate>
+    <item>
+      <title>考古學家剛剛繪製了喬治亞州一座青銅時代的巨型堡壘的地圖</title>
+      <link>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</link>
+      <description><![CDATA[這座最近繪製的青銅時代堡壘只是數百座堡壘中的一座。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</guid>
+      <pubDate>Thu, 09 Jan 2025 12:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>騙子如何操縱 Google 來推廣可疑的 Chrome 擴充功能</title>
       <link>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</link>
@@ -13,21 +20,21 @@
       <pubDate>Wed, 08 Jan 2025 23:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>義大利購買星鏈數據的計畫對歐洲太空網路造成嚴重打擊</title>
+      <title>義大利購買星鏈數據計畫對歐洲太空網路造成嚴重打擊</title>
       <link>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</link>
       <description><![CDATA[“如果我們團結一致並捍衛我們的基礎設施，我們就會強大。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</guid>
       <pubDate>Wed, 08 Jan 2025 23:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>向法學碩士注入新的醫療錯誤訊息非常容易</title>
+      <title>在法學碩士課程中引入新的醫學錯誤訊息非常容易</title>
       <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
-      <description><![CDATA[僅將 0.001% 的輸入更改為錯誤訊息就會導致人工智慧的準確性降低。]]></description>
+      <description><![CDATA[只要將 0.001% 的輸入改為錯誤訊息，就會降低人工智慧的準確性。]]></description>
       <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 22:58:45 GMT</pubDate>
     </item>
     <item>
-      <title>紳士化的《毀滅戰士》重製版用電鋸換成起司刀</title>
+      <title>高級版《毀滅戰士》重製版將電鋸換成起司刀</title>
       <link>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</link>
       <description><![CDATA[1993 年經典電影的翻拍讓您可以一邊喝葡萄酒、吃開胃小菜，一邊欣賞藝術史上的傑作。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</guid>
@@ -36,21 +43,21 @@
     <item>
       <title>儘管普遍擔心 HMPV，但中國仍處於正常流感季節</title>
       <link>https://arstechnica.com/science/2025/01/chinas-illness-spike-is-mostly-just-seasonal-flu-and-other-usual-bugs/</link>
-      <description><![CDATA[世界衛生組織表示，數據顯示呼吸道疾病季節完全正常。]]></description>
+      <description><![CDATA[世衛組織稱，數據顯示呼吸道疾病季節完全正常。]]></description>
       <guid>https://arstechnica.com/science/2025/01/chinas-illness-spike-is-mostly-just-seasonal-flu-and-other-usual-bugs/</guid>
       <pubDate>Wed, 08 Jan 2025 21:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>遭遇尷尬失誤後，AT&T 承諾未來發生斷電時將提供帳單信用</title>
+      <title>遭遇尷尬失誤後，AT&T 承諾未來發生斷電事件時將提供帳單信用</title>
       <link>https://arstechnica.com/tech-policy/2025/01/att-promises-bill-credits-for-outages-see-fine-print-many-exceptions-apply/</link>
-      <description><![CDATA[如果您失去了服務，但只有 9 座手機訊號塔倒塌，您將不會獲得帳單信用。]]></description>
+      <description><![CDATA[如果您失去服務但只有 9 個手機訊號塔出現故障，您將無法獲得帳單抵免。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/att-promises-bill-credits-for-outages-see-fine-print-many-exceptions-apply/</guid>
       <pubDate>Wed, 08 Jan 2025 20:10:29 GMT</pubDate>
     </item>
     <item>
       <title>我如何利用法學碩士學位進行編程</title>
       <link>https://arstechnica.com/ai/2025/01/how-i-program-with-llms/</link>
-      <description><![CDATA[如果您願意調整您的方法，生成模型會非常有用。]]></description>
+      <description><![CDATA[如果您願意調整自己的方法，生成模型將會非常有用。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/how-i-program-with-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 19:51:36 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[配件製造商表示，CES 上的 3D 模型源自於實際的遊戲機。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
       <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>配置錯誤的車牌讀取器正在即時洩露資料和視頻</title>
-      <link>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</link>
-      <description><![CDATA[至少 150 台摩托羅拉車牌閱讀器的影片來源無需密碼即可存取。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:52:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
