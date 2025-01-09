@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 16:15:40 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 16:42:46 GMT</lastBuildDate>
+    <item>
+      <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
+      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有達到版本一點零的魔力線，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
+      <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>新年伊始，微軟削減更多職位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_cutting_more_jobs/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>川普對華關稅“掩蓋”人工智慧個人電腦的“進步”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</link>
-      <description><![CDATA[基於 NPU 的盒子成本已經很高，進口稅也將增加 人工智慧 PC 的「進步」正被企業擔心經濟狀況和美國當選總統的「光芒籠罩」據市場觀察家和數據分析機構IDC 稱，川普對中國製造的裝備發出關稅威脅。]]></description>
+      <description><![CDATA[基於 NPU 的盒子成本已經膨脹，進口稅將大幅上漲 人工智慧 PC 的「進步」正被企業對經濟狀況的擔憂和美國當選總統的擔憂所「掩蓋」。市場觀察家和數據分析公司IDC 稱，川普威脅對中國製造的設備徵收關稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</guid>
       <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
     </item>
     <item>
       <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
-      <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
+      <description><![CDATA[狡猾的攻擊者再次試圖欺騙國內的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次是利用嚴重的Microsoft 安全漏洞進行虛假攻擊。 p &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
       <pubDate>Thu, 09 Jan 2025 13:16:06 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>網路攻擊中 PowerSchool 竊取學生、教師資訊資料庫表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</link>
-      <description><![CDATA[優雅之舉：雲端運算業務僅服務全球6000 多萬用戶，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社會安全號碼和醫療資訊被盜… ]]></description>
+      <description><![CDATA[典型行為：雲端業務僅為全球超過6,000 萬用戶提供服務，沒什麼大不了的 一家領先的教育軟體製造商承認，其IT 環境在網路攻擊中受到損害，學生和教師的個人資料包括一些社會安全號碼和醫療資訊 - 被盜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</guid>
       <pubDate>Thu, 09 Jan 2025 00:44:13 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
-      <description><![CDATA[無法再成長？讓我們創造參與度！年聊天機器人計劃的殘餘，該計劃在2023 年被終止低利息。]]></description>
+      <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
       <pubDate>Wed, 08 Jan 2025 23:29:09 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
-      <description><![CDATA[黃仁勳表示，D-Wave、Rigetti 等公司股價暴跌近 50% CES 量子運算產業似乎和它所依賴的量子位元一樣脆弱。先前 Nvidia 執行長黃仁勳在 CES 上發表了相當合理的言論，稱實用的量子系統可能還需要 20 年才能實現，此後，一些上市量子計算公司的股價今日大幅下跌。 … ]]></description>
+      <description><![CDATA[D-Wave、Rigetti 等公司在黃仁勳說出顯而易見的事實後暴跌近 50% CES  量子運算產業似乎與其所依賴的量子位元一樣脆弱。 Nvidia 執行長 Jensen Huang 在 CES 上發表相當合理的言論，即實用的量子系統可能還需要 20 年時間，隨後一些上市量子運算公司的股價今天大幅下跌。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
       <pubDate>Wed, 08 Jan 2025 19:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[運行/停止 健身應用程式 Garmin Connect 一度癱瘓，但在一次不明原因的中斷讓健身愛好者感到困惑之後，又重新恢復了活力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/garmin_connect_outage/</guid>
       <pubDate>Wed, 08 Jan 2025 18:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜斥資 110 億美元在喬治亞州建造 AI 資料中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</link>
-      <description><![CDATA[Peach State 已經擁有 50 多個比特倉庫 亞馬遜在美國喬治亞州的資料中心規模將不斷擴大，計劃投資 110 億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/amazons_latest_investment_is_11b/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:47:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
