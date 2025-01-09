@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 13:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 17:11:00 GMT</lastBuildDate>
+    <item>
+      <title>直覺機器公司準備第二次登陸，尋求建立月球經濟</title>
+      <link>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</link>
+      <description><![CDATA[“你不能拋棄與月球有關的一切然後前往火星。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</guid>
+      <pubDate>Thu, 09 Jan 2025 15:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年電動車稅收抵免規則發生變化，贏家和輸家</title>
+      <link>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</link>
+      <description><![CDATA[目前有 27 輛電動車符合稅收抵免資格，高於 2024 年的 24 輛。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</guid>
+      <pubDate>Thu, 09 Jan 2025 15:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>考古學家剛剛繪製了喬治亞州一座青銅時代的巨型堡壘的地圖</title>
       <link>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 09 Jan 2025 12:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>騙子如何操縱 Google 來推廣可疑的 Chrome 擴充功能</title>
+      <title>以下是小販如何操縱 Google 推廣可疑的 Chrome 擴充功能</title>
       <link>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</link>
       <description><![CDATA[如何將 18,000 個關鍵字融入描述中？事實證明這很容易。]]></description>
       <guid>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</guid>
@@ -48,9 +62,9 @@
       <pubDate>Wed, 08 Jan 2025 21:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>遭遇尷尬失誤後，AT&T 承諾未來發生斷電事件時將提供帳單信用</title>
+      <title>遭遇尷尬失誤後，AT&T 承諾未來發生斷電時將提供帳單信用</title>
       <link>https://arstechnica.com/tech-policy/2025/01/att-promises-bill-credits-for-outages-see-fine-print-many-exceptions-apply/</link>
-      <description><![CDATA[如果您失去服務但只有 9 個手機訊號塔出現故障，您將無法獲得帳單抵免。]]></description>
+      <description><![CDATA[如果您失去了服務，但只有 9 座手機訊號塔倒塌，您將不會獲得帳單信用。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/att-promises-bill-credits-for-outages-see-fine-print-many-exceptions-apply/</guid>
       <pubDate>Wed, 08 Jan 2025 20:10:29 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[如果您願意調整自己的方法，生成模型將會非常有用。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/how-i-program-with-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 19:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國宇航局將火星樣本返回的決定推遲到川普政府</title>
-      <link>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</link>
-      <description><![CDATA[“我們希望以最快、最便宜的方式取回這 30 個樣本。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>新影片展示了更大的 Nintendo Switch 2 和可卡入式 Joy-Cons</title>
-      <link>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</link>
-      <description><![CDATA[配件製造商表示，CES 上的 3D 模型源自於實際的遊戲機。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
