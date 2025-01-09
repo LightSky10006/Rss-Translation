@@ -3,8 +3,22 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 09 Jan 2025 07:34:11 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Thu, 09 Jan 2025 08:16:26 GMT</lastBuildDate>
+    <item>
+      <title>Sephora 促銷代碼和優惠：50% 折扣</title>
+      <link>https://www.wired.com/story/sephora-promo-code/</link>
+      <description><![CDATA[當您在絲芙蘭購買每日特價商品時，您最喜愛的（或即將成為最愛的）護膚產品可享受 50% 的折扣。]]></description>
+      <guid>https://www.wired.com/story/sephora-promo-code/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>H&R 集體優惠券和交易：2025 年稅務準備優惠 15%</title>
+      <link>https://www.wired.com/story/hr-block-coupon/</link>
+      <description><![CDATA[當您在 H&amp;R Block 軟體（或人工，如果您需要的話）的幫助下自行報稅時，您可以獲得 15% 的折扣。]]></description>
+      <guid>https://www.wired.com/story/hr-block-coupon/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>阿迪達斯促銷代碼和優惠：20% 折扣</title>
       <link>https://www.wired.com/story/adidas-promo-code/</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 08 Jan 2025 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最佳降噪耳機（2025 年）：頭戴式耳機、無線耳塞、健身耳機</title>
+      <title>最佳降噪耳機（2025 年）：頭戴式耳機、無線耳塞式耳機、健身耳機</title>
       <link>https://www.wired.com/gallery/best-noise-canceling-headphones/</link>
       <description><![CDATA[使用我們最喜歡的耳罩式耳機和耳塞來調節（或搖滾）音樂。]]></description>
       <guid>https://www.wired.com/gallery/best-noise-canceling-headphones/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>我們在 CES 上看到的 11 件最有趣的東西</title>
       <link>https://www.wired.com/gallery/ces-2025-photo-gallery-day-3/</link>
-      <description><![CDATA[隨著我們在拉斯維加斯的一周即將結束，讓我們最後回顧一下 2025 年 CES 上最聰明、最聰明、最具前瞻性的技術。]]></description>
+      <description><![CDATA[隨著我們在拉斯維加斯的一周即將結束，以下是 CES 2025 上最聰明、最聰明、最具前瞻性的技術的最後一瞥。]]></description>
       <guid>https://www.wired.com/gallery/ces-2025-photo-gallery-day-3/</guid>
       <pubDate>Wed, 08 Jan 2025 11:30:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[配置錯誤的車牌辨識系統會洩漏單一攝影機的即時視訊串流以及它們收集的每輛經過的車輛的大量資料。]]></description>
       <guid>https://www.wired.com/story/license-plate-reader-live-video-data-exposed/</guid>
       <pubDate>Tue, 07 Jan 2025 18:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的事實查核合作夥伴表示，他們被砍掉的決定“措手不及”</title>
-      <link>https://www.wired.com/story/metas-fact-checking-partners-blindsided/</link>
-      <description><![CDATA[事實查核人員聲稱，他們不知道該公司將終止合作關係，並忙於弄清楚此舉的財務影響。]]></description>
-      <guid>https://www.wired.com/story/metas-fact-checking-partners-blindsided/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>人類偏肺病毒終於受到重視</title>
-      <link>https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/</link>
-      <description><![CDATA[中國爆發的一種經常與流感混淆的病毒受到關注，這表明呼吸道感染的追蹤正在改善。]]></description>
-      <guid>https://www.wired.com/story/human-metapneumovirus-is-the-forgotten-burden-of-public-health-china-flu-rsv-covid/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:42:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
