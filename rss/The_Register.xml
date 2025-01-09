@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 09 Jan 2025 18:17:29 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 09 Jan 2025 18:43:43 GMT</lastBuildDate>
+    <item>
+      <title>微軟準備迎接影響企業的 M365 一年的退役</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</link>
+      <description><![CDATA[嘿，管理員們－繫好安全帶。 2025 年將是一段瘋狂的旅程 微軟商店的管理員將迎來瘋狂的2025 年，因為雷德蒙德準備棄用和淘汰的不僅僅是對Windows 10 的支持…&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</guid>
+      <pubDate>Thu, 09 Jan 2025 18:36:12 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉和馬斯克呼籲加倍支付560億美元薪水</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
     </item>
     <item>
-      <title>新年伊始微軟裁員更多</title>
+      <title>新年伊始，微軟削減更多職位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_cutting_more_jobs/</link>
       <description><![CDATA[雷德蒙德聲稱裁員是基於績效的 微軟在新的一年裡進行了更多裁員，據報道，只有不到1％ 的員工面臨被裁員的風險。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_cutting_more_jobs/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
+      <title>安全專家用虛假的 Windows LDAP 漏洞陷阱當誘餌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
       <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 09 Jan 2025 11:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>耗資 38 億英鎊後，老科技供應商的熱情仍在為 HMRC 燃燒</title>
+      <title>£3.8B 之後，老科技供應商的火焰仍在為 HMRC 燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
       <description><![CDATA[預計於2017 年結束的交易繼續困擾HMRC 的採購 在過去五年中，英國稅務機關已經向技術供應商花費了38 億英鎊，其中5.91 億英鎊是在沒有外部競爭的情況下花費的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
-      <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
+      <description><![CDATA[Linux 基金會能源認為，快速去中心化的電力部門無法在孤島中取得成功 能源產業需要採用開源人工智慧軟體以及用於創建該軟體的協作流程，以滿足對所創造能源的需求透過越來越多地使用......人工智慧......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
       <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 09 Jan 2025 03:56:11 GMT</pubDate>
     </item>
     <item>
-      <title>網路攻擊中 PowerSchool 竊取學生、教師資訊資料庫表</title>
+      <title>PowerSchool 的學生資料庫表、教師資訊在網路攻擊中被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</link>
       <description><![CDATA[優雅之舉：雲端運算業務僅服務全球6000 多萬用戶，沒什麼大不了的 一家領先的教育軟體製造商承認其IT 環境在一次網路攻擊中遭到破壞，學生和教師的個人資料（包括一些社會安全號碼和醫療資訊被盜… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/powerschool_school_data/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 08 Jan 2025 23:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>我們確實警告過你——2025 年可能是人工智慧機器人接管 Meta 宇宙的一年</title>
+      <title>我們確實警告過您 – 2025 年可能是人工智慧機器人接管 Meta 的“宇宙”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</link>
       <description><![CDATA[不能再生長了嗎？讓我們發明互動吧！聊天機器人計劃的殘餘，該計劃在低利率…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/meta_ai_bots/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[3 個CVE 被加入到CISA 目錄中 網路犯罪分子正在積極利用Mitel MiCollab 中的兩個漏洞，包括一個零日漏洞，以及Oracle WebLogic Server 中一個嚴重的遠端程式碼執行漏洞，該漏洞已被濫用至少五年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/mitel_0_day_oracle_rce_under_exploit/</guid>
       <pubDate>Wed, 08 Jan 2025 20:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子？無可安慰：Nvidia 執行長預測 QC 股票將“再過 20 年”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</link>
-      <description><![CDATA[黃仁勳表示，D-Wave、Rigetti 等公司股價暴跌近 50% CES 量子運算產業似乎和它所依賴的量子位元一樣脆弱。先前 Nvidia 執行長黃仁勳在 CES 上發表了相當合理的言論，稱實用的量子系統可能還需要 20 年才能實現，此後，一些上市量子計算公司的股價今日大幅下跌。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/08/quantum_no_solace_nvidia_ceo/</guid>
-      <pubDate>Wed, 08 Jan 2025 19:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
