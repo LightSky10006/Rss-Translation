@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 07:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 08:41:10 GMT</lastBuildDate>
+    <item>
+      <title>開發人員因「原本有用的功能…直到不再有用」而陷入安全恐慌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</link>
+      <description><![CDATA[螢幕截圖顯示這不是可能的攻擊– 除非你將Google 所做的一切都視為威脅 On Call  Velkomin，Vælkomin，Hoş geldin，歡迎來到星期五，因此，請收看另一期《On Call》——The Register 的周末慶祝活動，慶祝您成功解決的技術支援任務，而沒有造成太大的創傷…&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>動手工作成長最快，因為人工智慧無法觸及它們</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ai_jobs_wef/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>拜登將在最後一刻的貿易戰閃電戰中考慮全球對人工智慧出口的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/</link>
-      <description><![CDATA[中國面臨徹底禁令，而其他國家則在爭奪山姆大叔的青睞 據報道，拜登政府正在權衡正在進行的中美貿易戰的新限制，這將禁止向敵對國家提供高階人工智慧加速器，對他人的人工智慧模式施加限制…]]></description>
+      <description><![CDATA[中國面臨全面禁令，而其他國家則在爭取山姆大叔的支持 據報道，拜登政府正在考慮在正在進行的中美貿易戰中實施新的限制，這將禁止向對手國家提供高端人工智慧加速器，對他人的人工智慧模式施加限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/</guid>
       <pubDate>Thu, 09 Jan 2025 20:30:26 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
-      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有完全達到版本一點零的魔力，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
+      <description><![CDATA[簡直就是 Windows 和 Unix 系列之外最好的 FOSS 桌面作業系統 Haiku 仍然沒有完全達到神奇的版本一點零線，部分原因是它的開發人員設定的標準遠高於任何其他自由和​​開源作業系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
       <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[發燒友真正需要多少 RAM？  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/the_ultimate_pi_5_arrives/</guid>
       <pubDate>Thu, 09 Jan 2025 08:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>開源機構表示，要保護電網免受人工智慧的侵害，請使用開源人工智慧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</link>
-      <description><![CDATA[Linux Foundation Energy 認為，快速分散的電力產業無法透過孤島取得成功 能源產業需要採用開源 AI 軟體及其用於創建它的協作流程，以滿足對能源的需求通過越來越多使用......人工智慧......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/linux_foundation_ai_energy_report/</guid>
-      <pubDate>Thu, 09 Jan 2025 06:55:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
