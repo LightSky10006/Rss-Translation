@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 20:37:01 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 10 Jan 2025 22:11:58 GMT</lastBuildDate>
+    <item>
+      <title>中國網路間諜偷看官員調查美國軍事基地附近的房地產交易</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</link>
+      <description><![CDATA[哎呀，想知道為什麼北京如此熱衷於 - 檢查筆記 - 美國外國投資委員會 闖入美國財政部的中國網絡間諜還竊取了調查真實情況的官員的文件據報道，美國軍事基地附近的房地產銷售。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>CES 上推出的電擊舌頭湯匙、茶冷卻貓機器人、懶人吸塵器等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
+      <title>詐騙者利用英國數位固定電話交換機刷現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>尋找標籤：白宮為智慧型裝置推出“網路信任標誌”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/white_house_smart_device_security_label/</link>
-      <description><![CDATA[當心沒有安全標籤的物聯網 白宮本週推出了一項針對技術產品的自願網路安全標籤計劃，以便消費者可以在一定程度上保證他們的智慧型裝置不會受到監視他們…]]></description>
+      <description><![CDATA[警惕沒有安全標籤的物聯網 白宮本週推出了一項針對技術產品的自願網路安全標籤計劃，以便消費者可以放心他們的智慧型裝置不會被監視他們。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/white_house_smart_device_security_label/</guid>
       <pubDate>Thu, 09 Jan 2025 21:45:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[繼續打官司的動機是什麼？ 特斯拉執行長馬斯克和這家電動車公司的其他一批高階主管已對一系列法庭裁決提起上訴，這些裁決阻止了他 560 億美元的薪酬方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</guid>
       <pubDate>Thu, 09 Jan 2025 17:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
-      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有完全達到版本一點零的魔力，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
