@@ -3,17 +3,17 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 19:10:07 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 10 Jan 2025 19:34:48 GMT</lastBuildDate>
     <item>
-      <title>Azure 網路故障已進入第二天，部分服務仍運作不良</title>
+      <title>Azure 網路故障進入第二天，部分服務仍不穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</link>
       <description><![CDATA[難以連線到雲端？你並不孤單 微軟週五警告 Azure 雲端服務用戶可能會繼續遇到“間歇性錯誤”，並將問題歸咎於美國東部區域網路服務配置變更。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</guid>
       <pubDate>Fri, 10 Jan 2025 17:59:58 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源公司將新格倫號的首飛推遲至 1 月 12 日</title>
+      <title>藍色起源將新格倫火箭首飛推遲至 1 月 12 日</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</link>
       <description><![CDATA[現在定於SpaceX 下一次星際飛船測試的前一天進行 傑夫·貝佐斯旗下的藍色起源公司已將其新格倫火箭的首次發射推遲到1 月12日，即SpaceX 希望發射另一艘星際飛船測試的前一天飛行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</guid>
@@ -36,12 +36,12 @@
     <item>
       <title>自由軟體鬥士們慶祝強制執行 GNU LGPL 的里程碑式案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</link>
-      <description><![CDATA[On the Fritz：德國路由器製造商 AVM 在交出原始碼後拒絕就設備權利案提出上訴 德國軟體開發人員 Sebastian Steck 獲得了他的AVM FRITZ!Box 4020 路由器，這要感謝軟體自由保護協會(SFC) 資助的一場訴訟。]]></description>
+      <description><![CDATA[關於 Fritz：德國路由器製造商 AVM 在交出原始程式碼後解決了設備權利案 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM FRITZ 的源代碼和庫安裝腳本!Box 4020 路由器，感謝軟體自由保護協會(SFC) 資助的一項訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</guid>
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話開關竊取現金</title>
+      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 10 Jan 2025 09:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>開發人員因“有用的功能...直到它沒有”而陷入安全恐慌</title>
+      <title>開發人員因「原本有用的功能…直到不再有用」而陷入安全恐慌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</link>
       <description><![CDATA[螢幕截圖顯示這不是可能的攻擊– 除非你將Google 所做的一切都視為威脅 On Call  Velkomin，Vælkomin，Hoş geldin，歡迎來到星期五，因此，請收看另一期《On Call》——The Register 的周末慶祝活動，慶祝您成功解決的技術支援任務，而沒有造成太大的創傷…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</guid>
@@ -76,16 +76,16 @@
       <pubDate>Fri, 10 Jan 2025 07:26:14 GMT</pubDate>
     </item>
     <item>
-      <title>法庭文件稱 Meta 使用大量可能為盜版的內容來訓練其 AI 模型</title>
+      <title>法庭文件稱，Meta 使用有爭議的可能盜版內容來訓練其人工智慧模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</link>
-      <description><![CDATA[祖克柏對「言論自由」的定義是不是變得更寬泛了？公司希望利用這些資料來訓練其AI 模型。]]></description>
+      <description><![CDATA[扎克對「自由表達」的定義是否變得更加廣泛？其人工智慧模型到新的法庭文件......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</guid>
       <pubDate>Fri, 10 Jan 2025 06:16:09 GMT</pubDate>
     </item>
     <item>
       <title>那是鳥巢、無線寬頻基地台，還是兩者兼具？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</link>
-      <description><![CDATA[澳洲的一切都致命，在這種情況下，巨型鷹在無線寬頻技術人員需要到達的地方守護著鳥蛋 澳洲國家寬頻網路已開始建造鳥巢。 &gt;]]></description>
+      <description><![CDATA[澳洲的一切都是致命的，在這種情況下，巨型鷹在無線寬頻技術人員需要到達的地方守護著鳥蛋 澳洲的國家寬頻網路已經開始建造鳥巢。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</guid>
       <pubDate>Fri, 10 Jan 2025 04:59:12 GMT</pubDate>
     </item>
@@ -99,42 +99,42 @@
     <item>
       <title>尋找標籤：白宮為智慧型裝置推出“網路信任標誌”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/white_house_smart_device_security_label/</link>
-      <description><![CDATA[當心沒有安全標籤的物聯網 白宮本週推出了一項針對技術產品的自願網路安全標籤計劃，以便消費者可以在一定程度上保證他們的智慧型裝置不會受到監視他們…]]></description>
+      <description><![CDATA[警惕沒有安全標籤的物聯網 白宮本週推出了一項針對技術產品的自願網路安全標籤計劃，以便消費者可以放心他們的智慧型裝置不會被監視他們。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/white_house_smart_device_security_label/</guid>
       <pubDate>Thu, 09 Jan 2025 21:45:05 GMT</pubDate>
     </item>
     <item>
       <title>拜登將在最後一刻的貿易戰閃電戰中考慮全球對人工智慧出口的限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/</link>
-      <description><![CDATA[中國面臨全面禁令，而其他國家則在爭取山姆大叔的支持 更新據報道，拜登政府正在考慮在正在進行的中美貿易戰中實施新的限制，這將禁止高- 向敵對國家提供人工智慧加速器，並對其他國家的人工智慧模型施加限制。]]></description>
+      <description><![CDATA[中國面臨徹底禁令，而其他國家則在爭奪山姆大叔的青睞 更新 據報道，拜登政府正在權衡正在進行的中美貿易戰的新限制，這將禁止高額關稅-終止敵對國家的人工智慧加速器，並對其他國家的人工智慧模型施加限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/</guid>
       <pubDate>Thu, 09 Jan 2025 20:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>短暫的閃亮、愚蠢的智慧產品等等：2025 年 CES 上最差的產品</title>
+      <title>轉瞬即逝的閃亮、愚蠢的智慧產品等等：2025 年 CES 上最差的產品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</link>
       <description><![CDATA[這些榮譽令人生疑，但科技也是如此 ces  消費電子展再次展現了創新的前沿，也展現了最糟糕的當現代科技與當今資本當主義過度文化發生碰撞時，會發生什麼事呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</guid>
       <pubDate>Thu, 09 Jan 2025 19:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 為影響企業的 M365 退役做好準備</title>
+      <title>微軟準備迎接影響企業的 M365 一年的退役</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</link>
       <description><![CDATA[嘿，管理員們－繫好安全帶。 2025 年將是一段瘋狂的旅程 微軟商店的管理員將迎來瘋狂的2025 年，因為雷德蒙德準備棄用和淘汰的不僅僅是對Windows 10 的支持…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</guid>
       <pubDate>Thu, 09 Jan 2025 18:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉和馬斯克呼籲加倍支付560億美元薪水</title>
+      <title>特斯拉、馬斯克雙倍下注 56B 美元發薪日上訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</link>
-      <description><![CDATA[繼續打官司的動機是什麼？  特斯拉執行長馬斯克和這家電動車公司的其他一批高階主管已對一系列法庭裁決提起上訴，這些裁決阻止了他 560 億美元的薪酬方案。]]></description>
+      <description><![CDATA[繼續打官司的動機是什麼？ 特斯拉執行長馬斯克和這家電動車公司的其他一批高階主管已對一系列法庭裁決提起上訴，這些裁決阻止了他 560 億美元的薪酬方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/musk_appeal_tesla_pay/</guid>
       <pubDate>Thu, 09 Jan 2025 17:32:12 GMT</pubDate>
     </item>
     <item>
       <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
-      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有達到版本一點零的魔力線，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
+      <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有完全達到版本一點零的魔力，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
       <pubDate>Thu, 09 Jan 2025 16:31:11 GMT</pubDate>
     </item>
