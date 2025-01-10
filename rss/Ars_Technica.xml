@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 23:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 02:20:43 GMT</lastBuildDate>
     <item>
-      <title>美國出售 6.9 萬枚被扣押的比特幣可能會擾亂川普的加密儲備計劃</title>
+      <title>即使沒有環保署的發電廠監管，煤炭也可能消失</title>
+      <link>https://arstechnica.com/science/2025/01/epas-power-plant-rules-may-not-have-made-a-huge-difference-anyway/</link>
+      <description><![CDATA[這些即將被川普廢除的規則，大多鎖定了現有的趨勢。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/epas-power-plant-rules-may-not-have-made-a-huge-difference-anyway/</guid>
+      <pubDate>Thu, 09 Jan 2025 23:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國出售 6.9 萬枚沒收的比特幣可能會擾亂川普的加密貨幣儲備計劃</title>
       <link>https://arstechnica.com/tech-policy/2025/01/us-selling-69k-seized-bitcoins-could-mess-with-trump-plans-for-crypto-reserve/</link>
       <description><![CDATA[以比特幣當前價格計算，美國可從此次出售中獲得約 64 億美元。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/us-selling-69k-seized-bitcoins-could-mess-with-trump-plans-for-crypto-reserve/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>針對 Ivanti VPN 的持續攻擊安裝了大量精心編寫的惡意軟體</title>
       <link>https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/</link>
-      <description><![CDATA[野外攻擊會竄改內建安全工具來抑制感染警告。]]></description>
+      <description><![CDATA[野生攻擊會篡改內建安全工具以抑制感染警告。]]></description>
       <guid>https://arstechnica.com/security/2025/01/ivanti-vpn-users-are-getting-hacked-by-actors-exploiting-a-critical-vulnerability/</guid>
       <pubDate>Thu, 09 Jan 2025 22:17:26 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 09 Jan 2025 21:59:02 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼我對 CES 2025 上的電視感到失望</title>
+      <title>為什麼我對 2025 年 CES 上的電視感到失望</title>
       <link>https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/</link>
       <description><![CDATA[專欄：電視台因優先考慮企業需求而錯失真正改進的機會。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/</guid>
@@ -57,23 +64,16 @@
     <item>
       <title>X 執行長表示廣告抵制已經結束。外部資料描繪了一幅不同的景象。</title>
       <link>https://arstechnica.com/tech-policy/2025/01/x-ceo-signals-ad-boycott-is-over-external-data-paints-a-different-picture/</link>
-      <description><![CDATA[數據顯示，選舉並沒有讓 X 用戶數量激增，也沒有結束廣告抵制。]]></description>
+      <description><![CDATA[數據顯示，選舉並沒有增加 X 用戶或結束廣告抵制。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/x-ceo-signals-ad-boycott-is-over-external-data-paints-a-different-picture/</guid>
       <pubDate>Thu, 09 Jan 2025 19:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>當然，雅達利的新款掌上型遊戲機配備了軌跡球、旋轉器和數位鍵盤</title>
+      <title>當然，雅達利的新款掌上型電腦包括軌跡球、旋轉器和數位鍵盤</title>
       <link>https://arstechnica.com/gaming/2025/01/of-course-ataris-new-handheld-includes-a-trackball-spinner-and-numpad/</link>
       <description><![CDATA[My Arcade 的「GameStation」合作關係意味著真正的便攜式Tempest、Missile Command等。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/of-course-ataris-new-handheld-includes-a-trackball-spinner-and-numpad/</guid>
       <pubDate>Thu, 09 Jan 2025 18:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>售價 120 美元的 16GB Raspberry Pi 5 適合將其用作日常 PC 的人</title>
-      <link>https://arstechnica.com/gadgets/2025/01/new-120-16gb-raspberry-pi-5-is-for-the-people-who-use-it-like-an-everyday-pc/</link>
-      <description><![CDATA[但售價 120 美元的新主機板必須與更廣泛的迷你電腦競爭。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/new-120-16gb-raspberry-pi-5-is-for-the-people-who-use-it-like-an-everyday-pc/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:24:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
