@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 09:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 10:40:47 GMT</lastBuildDate>
+    <item>
+      <title>保險公司錯誤向客戶提供退款，導致郵寄瘋狂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</link>
+      <description><![CDATA[黑斯廷斯有一個謎團需要解決——這些客戶是如何獲得退款的？  英國保險公司Hastings Direct 本週遇到了一些技術問題，此前該公司的一些客戶被告知他們將收到退款，但他們的希望卻因一聲匆忙的道歉而破滅了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</guid>
+      <pubDate>Fri, 10 Jan 2025 10:21:05 GMT</pubDate>
+    </item>
     <item>
       <title>兩人被控違反《電腦濫用法》涉嫌 COVID-19 疫苗欺詐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/covid19_vaccine_fraud_charges/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>法庭文件稱 Meta 使用大量可能為盜版的內容來訓練其 AI 模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</link>
-      <description><![CDATA[祖克柏對「言論自由」的定義是不是變得更寬泛了？公司希望利用這些資料來訓練其AI 模型。]]></description>
+      <description><![CDATA[扎克對「自由表達」的定義是否變得更加廣泛？其人工智慧模型到新的法庭文件......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</guid>
       <pubDate>Fri, 10 Jan 2025 06:16:09 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 09 Jan 2025 17:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>Haiku Beta 5 / 在測試中它（火）更狡猾 / 它讓我們很高興</title>
+      <title>Haiku Beta 5 / 在測試中它更 (Fire)foxier / 它讓我們很滿意</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</link>
       <description><![CDATA[除了 Windows 和 Unix 系列之外，它是最好的 FOSS 桌面作業系統 Haiku 仍然沒有達到版本一點零的魔力線，部分原因是它的開發人員設定的標準比任何其他FOSS OS 都要高很多…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/testing_haiku_beta_5/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
+      <title>安全專家用假的 Windows LDAP 漏洞陷阱當誘餌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
       <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>美國太空總署的月球 Roomba 將吸取月球灰塵以供研究</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/</link>
-      <description><![CDATA[利用氣體爆炸收集風化層樣本 NASA 將在下週的「藍色幽靈1 號」登陸月球表面任務中，將一台「吸塵器」作為有效載荷送往月球。 ]]></description>
+      <description><![CDATA[用一股氣體收集風化層樣本 美國宇航局將向月球發送一台“真空吸塵器”，作為下週藍色幽靈1 號登陸月球表面任務的有效載荷。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/</guid>
       <pubDate>Thu, 09 Jan 2025 12:16:09 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 09 Jan 2025 11:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>耗資 38 億英鎊後，老科技供應商的熱情仍在為 HMRC 燃燒</title>
+      <title>£3.8B 之後，老科技供應商的火焰仍在為 HMRC 燃燒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
       <description><![CDATA[原定於2017 年結束的交易繼續困擾著稅務機關的採購 在過去五年中，英國稅務機關已向技術供應商花費了38 億英鎊- 其中5.91 億英鎊是在沒有外部競爭的情況下花費的 -這是一個耗資 100 億英鎊的項目，預計於 2017 年完工。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
       <pubDate>Thu, 09 Jan 2025 10:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府承諾制定法律打擊色情深度偽造</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</link>
-      <description><![CDATA[不僅要製作，還要分享 英國政府已承諾將製作和分享色情深度偽造圖像定為刑事犯罪。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_government_promises_law_against_deepfake_smut/</guid>
-      <pubDate>Thu, 09 Jan 2025 09:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
