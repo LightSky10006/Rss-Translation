@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 10:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 11:35:05 GMT</lastBuildDate>
+    <item>
+      <title>詐騙者利用英國數位固定電話開關竊取現金</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
+      <description><![CDATA[2025 年 1 月的舊截止日期被用來迫使受害者付款 英國消費者冠軍 Which？警告詐騙者正在利用英國和北愛爾蘭正在進行的電話線數字轉換計劃來誘騙客戶交出他們的付款詳細信息。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
+      <pubDate>Fri, 10 Jan 2025 11:26:11 GMT</pubDate>
+    </item>
     <item>
       <title>保險公司錯誤向客戶提供退款，導致郵寄瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>法庭文件稱 Meta 使用大量可能為盜版的內容來訓練其 AI 模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</link>
-      <description><![CDATA[扎克對「自由表達」的定義是否變得更加廣泛？其人工智慧模型到新的法庭文件......]]></description>
+      <description><![CDATA[祖克柏對「言論自由」的定義是不是變得更寬泛了？公司希望利用這些資料來訓練其AI 模型。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</guid>
       <pubDate>Fri, 10 Jan 2025 06:16:09 GMT</pubDate>
     </item>
     <item>
       <title>那是鳥巢、無線寬頻基地台，還是兩者兼具？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</link>
-      <description><![CDATA[澳洲的一切都致命，在這種情況下，巨型鷹在無線寬頻技術人員需要到達的地方守護著鳥蛋 澳洲國家寬頻網路已開始建造鳥巢。 &gt;]]></description>
+      <description><![CDATA[澳洲的一切都是致命的，在這種情況下，巨鷹在無線寬頻技術需要到達的地方守護著鳥蛋 澳洲國家寬頻網路已經開始建造鳥巢。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</guid>
       <pubDate>Fri, 10 Jan 2025 04:59:12 GMT</pubDate>
     </item>
@@ -111,14 +118,14 @@
       <pubDate>Thu, 09 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>川普對華關稅“掩蓋”人工智慧個人電腦的“進步”</title>
+      <title>川普對中國徵收關稅“掩蓋”人工智慧個人電腦的“進步”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</link>
-      <description><![CDATA[基於 NPU 的盒子成本已經膨脹，進口稅將大幅上漲 人工智慧 PC 的「進步」正被企業對經濟狀況的擔憂和美國當選總統的擔憂所「掩蓋」。市場觀察家和數據分析公司IDC 稱，川普威脅對中國製造的設備徵收關稅。]]></description>
+      <description><![CDATA[基於 NPU 的盒子成本已經很高，進口稅也將增加 人工智慧 PC 的「進步」正被企業擔心經濟狀況和美國當選總統的「光芒籠罩」據市場觀察家和數據分析機構IDC 稱，川普對中國製造的裝備發出關稅威脅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/trump_tariffs_ai_pc/</guid>
       <pubDate>Thu, 09 Jan 2025 14:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>安全專家用假的 Windows LDAP 漏洞陷阱當誘餌</title>
+      <title>安全專家被假冒的 Windows LDAP 漏洞陷阱所誘騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</link>
       <description><![CDATA[狡猾的攻擊者再次試圖欺騙本土的好人 安全研究人員再次被攻擊者引誘落入陷阱，這次他們利用的是微軟嚴重安全漏洞的虛假漏洞… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/security_pros_baited_by_fake/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>美國太空總署的月球 Roomba 將吸取月球灰塵以供研究</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/</link>
-      <description><![CDATA[用一股氣體收集風化層樣本 美國宇航局將向月球發送一台“真空吸塵器”，作為下週藍色幽靈1 號登陸月球表面任務的有效載荷。 .]]></description>
+      <description><![CDATA[利用氣體爆炸收集風化層樣本 NASA 將在下週的「藍色幽靈1 號」登陸月球表面任務中，將一台「吸塵器」作為有效載荷送往月球。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/nasa_moon_vacuum_cleaner/</guid>
       <pubDate>Thu, 09 Jan 2025 12:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>當有人傳喚 Cloudflare 揭露部落客的真面目時會發生什麼事？這...</title>
+      <title>當有人傳喚 Cloudflare 揭露部落客時會發生什麼事？這...</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_blog_cloudflare_subpoena/</link>
-      <description><![CDATA[英國前政客聲稱自己遭到誹謗——並在美國法庭尋求答案 英國前副市長已向美國 Cloudflare 發出傳票，要求查明一位匿名英國政客的身份博主…]]></description>
+      <description><![CDATA[英國前政客聲稱自己受到誹謗，並前往美國法庭尋求答案 英國前副市長已傳喚美國的 Cloudflare，以查明一位匿名英國政客的身份博主。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/uk_blog_cloudflare_subpoena/</guid>
       <pubDate>Thu, 09 Jan 2025 11:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>£3.8B 之後，老科技供應商的火焰仍在為 HMRC 燃燒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</link>
-      <description><![CDATA[原定於2017 年結束的交易繼續困擾著稅務機關的採購 在過去五年中，英國稅務機關已向技術供應商花費了38 億英鎊- 其中5.91 億英鎊是在沒有外部競爭的情況下花費的 -這是一個耗資 100 億英鎊的項目，預計於 2017 年完工。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/hmrc_aspire_supplier_deals/</guid>
-      <pubDate>Thu, 09 Jan 2025 10:32:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
