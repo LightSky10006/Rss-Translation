@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 10 Jan 2025 22:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:58:40 GMT</lastBuildDate>
+    <item>
+      <title>微軟起訴該服務利用 AI 平台創建非法內容</title>
+      <link>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</link>
+      <description><![CDATA[服務使用未記錄的 API 和其他技巧來繞過安全護欄。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</guid>
+      <pubDate>Fri, 10 Jan 2025 23:10:57 GMT</pubDate>
+    </item>
     <item>
       <title>洛杉磯發生毀滅性山火，宣布進入公共衛生緊急狀態</title>
       <link>https://arstechnica.com/health/2025/01/public-health-emergency-declared-amid-las-devastating-wildfires/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 10 Jan 2025 18:58:48 GMT</pubDate>
     </item>
     <item>
-      <title>男子因不明銀暴露而變得不可逆轉的灰色</title>
+      <title>男子因接觸不明銀元素而皮膚不可逆轉地變白</title>
       <link>https://arstechnica.com/health/2025/01/man-turns-irreversibly-gray-from-an-unidentified-silver-exposure/</link>
       <description><![CDATA[他的皮膚、手、指甲和眼睛因暴露在空氣中而變成了銀灰色。]]></description>
       <guid>https://arstechnica.com/health/2025/01/man-turns-irreversibly-gray-from-an-unidentified-silver-exposure/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>大家都同意：2024 年是溫度計發明以來最熱的一年</title>
       <link>https://arstechnica.com/science/2025/01/its-official-2024-was-the-warmest-year-on-record/</link>
-      <description><![CDATA[2024 年是一個異常炎熱的異常值，這意味著最熱年份的連續年份將達到 11 年。]]></description>
+      <description><![CDATA[2024 年是一個異常炎熱的異常值，意味著最熱年份的連續出現次數將達到 11 個。]]></description>
       <guid>https://arstechnica.com/science/2025/01/its-official-2024-was-the-warmest-year-on-record/</guid>
       <pubDate>Fri, 10 Jan 2025 18:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[由於 AGI 討論引發人們對失業的擔憂，新的 WEF 報告預測到 2030 年人工智慧將推動淨就業成長。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/ai-could-create-78-million-more-jobs-than-it-eliminates-by-2030-report/</guid>
       <pubDate>Fri, 10 Jan 2025 17:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Viral ChatGPT 驅動的哨戒槍被 OpenAI 關閉</title>
-      <link>https://arstechnica.com/ai/2025/01/viral-chatgpt-powered-sentry-gun-gets-shut-down-by-openai/</link>
-      <description><![CDATA[但實際的自主人工智慧武器系統更加可怕。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/viral-chatgpt-powered-sentry-gun-gets-shut-down-by-openai/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
