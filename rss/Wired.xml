@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 11 Jan 2025 09:34:32 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Sat, 11 Jan 2025 10:11:59 GMT</lastBuildDate>
+    <item>
+      <title>2025年最亮的彗星即將到來。您可以透過以下方式看到它的光芒</title>
+      <link>https://www.wired.com/story/brightest-comet-2025-atlas-c-2024g3/</link>
+      <description><![CDATA[1月13日，Atlas C/2024 G3 將到達距離太陽最近的點。]]></description>
+      <guid>https://www.wired.com/story/brightest-comet-2025-atlas-c-2024g3/</guid>
+      <pubDate>Sat, 11 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>逃離野火的科學不斷發展（且不精確）</title>
       <link>https://www.wired.com/story/the-growing-and-inexact-science-of-fleeing-a-wildfire/</link>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 10 Jan 2025 12:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>你的車可以成為你的朋友嗎？</title>
+      <title>你的汽車能成為你的朋友嗎？</title>
       <link>https://www.wired.com/story/can-your-car-be-your-friend/</link>
       <description><![CDATA[汽車製造商正在展示用於汽車內裝的尖端技術，旨在重塑駕駛員與汽車的關係。]]></description>
       <guid>https://www.wired.com/story/can-your-car-be-your-friend/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 10 Jan 2025 03:25:18 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯大火最終可能會扭轉局面</title>
+      <title>洛杉磯大火最終或將迎來轉機</title>
       <link>https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/</link>
       <description><![CDATA[隨著風速下降、消防增援部隊從外州趕來以及水源增多，當局現在迎來了控制局勢的關鍵時機。]]></description>
       <guid>https://www.wired.com/story/the-tide-could-finally-be-turning-against-the-la-fires/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>關於 Nintendo Switch 2 的謠言和洩漏不會改變任何事情</title>
       <link>https://www.wired.com/story/nintendo-switch-2-rumors-and-leaks-are-everywhere/</link>
-      <description><![CDATA[關於這款掌上型遊戲機的新資訊似乎每天都會出現，但目前尚不清楚 Switch 的繼任者何時會出現。這也沒什麼。]]></description>
+      <description><![CDATA[關於這款掌上型遊戲機的新資訊似乎每天都會出現，但目前尚不清楚 Switch 的繼任者何時會出現。這也無所謂。]]></description>
       <guid>https://www.wired.com/story/nintendo-switch-2-rumors-and-leaks-are-everywhere/</guid>
       <pubDate>Thu, 09 Jan 2025 23:59:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[位置資料公司 Gravy Analytics 遭到駭客攻擊，揭露了哪些應用程式被有意或無意地用於幕後收集您的資訊。]]></description>
       <guid>https://www.wired.com/story/gravy-location-data-app-leak-rtb/</guid>
       <pubDate>Thu, 09 Jan 2025 21:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>德州總檢察長兒童隱私調查的 15 個目標之一</title>
-      <link>https://www.wired.com/story/texas-social-media-investigation-children-privacy/</link>
-      <description><![CDATA[德克薩斯州已成為互聯網規則的主要執行者。其最新調查涉及一些被隱私專家稱為「不尋常嫌疑」的平台。]]></description>
-      <guid>https://www.wired.com/story/texas-social-media-investigation-children-privacy/</guid>
-      <pubDate>Thu, 09 Jan 2025 21:02:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
