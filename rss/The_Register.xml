@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 10 Jan 2025 23:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 09:34:27 GMT</lastBuildDate>
     <item>
-      <title>Google 和 Linux 基金會組成 Chromium 愛情俱樂部</title>
+      <title>用樂高月球車慶祝電動車登上月球</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/</link>
+      <description><![CDATA[Technic 系列的用途甚至比火星探測器更好- 但有一個很大的警告 最初的阿波羅月球車看起來就像是用一個超大的麥卡諾套件串起來的。因此，找到用該公司的 Technic 零件建造的樂高變體並不令人感到驚訝。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/</guid>
+      <pubDate>Sat, 11 Jan 2025 09:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 與 Linux 基金會組成 Chromium 愛情俱樂部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</link>
-      <description><![CDATA[就在山姆大叔推動 Chrome 拋售之際，是嗎？ Linux 基金會宣布了一項倡議，旨在支援Chrome 瀏覽器所依賴的開源Chromium 專案。]]></description>
+      <description><![CDATA[就在山姆大叔推動 Chrome 拋售的時候，嗯？將宣布一項計劃，支援Chrome 瀏覽器所依賴的開源Chromium 項目。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</guid>
       <pubDate>Fri, 10 Jan 2025 22:58:10 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 10 Jan 2025 20:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 網路故障已進入第二天，部分服務仍運作不良</title>
+      <title>Azure 網路故障進入第二天，部分服務仍不穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</link>
       <description><![CDATA[難以連線到雲端？你並不孤單 微軟週五警告 Azure 雲端服務用戶可能會繼續遇到“間歇性錯誤”，並將問題歸咎於美國東部區域網路服務配置變更。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</guid>
@@ -36,14 +43,14 @@
     <item>
       <title>藍色起源將新格倫火箭首飛推遲至 1 月 12 日</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</link>
-      <description><![CDATA[現在定於SpaceX 下一次星際飛船測試的前一天進行 傑夫·貝佐斯旗下的藍色起源公司已將其新格倫火箭的首次發射推遲到1 月12日，即SpaceX 希望發射另一艘星際飛船測試的前一天飛行。]]></description>
+      <description><![CDATA[現在定於SpaceX 下一次星艦測試的前一天 傑夫·貝佐斯(Jeff Bezos) 旗下的藍色起源(Blue Origin) 已將其新格倫火箭的首次發射推遲到1 月12 日，即SpaceX 希望發射另一次星艦測試的前一天飛行...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</guid>
       <pubDate>Fri, 10 Jan 2025 16:31:04 GMT</pubDate>
     </item>
     <item>
       <title>藥物成癮治療服務機構承認攻擊者竊取了患者的敏感數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</link>
-      <description><![CDATA[網路上公佈了患者的病情和治療細節 BayMark Health Services 是美國最大的戒毒治療機構之一，該機構表示，本週它通知一些患者，他們的敏感個人資訊被盜了。]]></description>
+      <description><![CDATA[網路上貼有痛苦和照護的詳細資料 BayMark 健康服務公司是美國最大的毒癮治療機構之一，該公司表示本週通知一些患者，他們的敏感個人資訊被盜了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</guid>
       <pubDate>Fri, 10 Jan 2025 15:37:07 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>自由軟體鬥士們慶祝強制執行 GNU LGPL 的里程碑式案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</link>
-      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，得益於軟體自由保護協會(SFC) 資助的一項訴訟。]]></description>
+      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始程式碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，感謝軟體自由保護協會(SFC) 資助的一項訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</guid>
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話開關竊取現金</title>
+      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
@@ -97,21 +104,21 @@
       <pubDate>Fri, 10 Jan 2025 07:26:14 GMT</pubDate>
     </item>
     <item>
-      <title>法庭文件稱，Meta 使用有爭議的可能盜版內容來訓練其人工智慧模型</title>
+      <title>法庭文件稱 Meta 使用大量可能為盜版的內容來訓練其 AI 模型</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</link>
-      <description><![CDATA[祖克柏對「言論自由」的定義是不是變得更寬泛了？公司希望利用這些資料來訓練其AI 模型。]]></description>
+      <description><![CDATA[扎克對「自由表達」的定義是否變得更加廣泛？其人工智慧模型到新的法庭文件......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</guid>
       <pubDate>Fri, 10 Jan 2025 06:16:09 GMT</pubDate>
     </item>
     <item>
       <title>那是鳥巢、無線寬頻基地台，還是兩者兼具？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</link>
-      <description><![CDATA[澳洲的一切都致命，在這種情況下，巨型鷹在無線寬頻技術人員需要到達的地方守護著鳥蛋 澳洲國家寬頻網路已開始建造鳥巢。 &gt;]]></description>
+      <description><![CDATA[澳洲的一切都是致命的，在這種情況下，巨型鷹在無線寬頻技術人員需要到達的地方守護著鳥蛋 澳洲的國家寬頻網路已經開始建造鳥巢。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/nbn_australia_broadband_nests/</guid>
       <pubDate>Fri, 10 Jan 2025 04:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>三星稱可捲曲筆記型電腦顯示器將於 4 月下線</title>
+      <title>三星稱可捲曲筆記型電腦顯示器將於四月下線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/lenovo_samsung_rollable_laptop_screens/</link>
       <description><![CDATA[聯想已經在一款瘋狂的筆記型電腦中展示了它們 CES  得益於聯想和三星，帶有可捲曲顯示屏並允許擴展屏幕的筆記本電腦即將成為一種時尚。 …&lt; /p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/lenovo_samsung_rollable_laptop_screens/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 09 Jan 2025 20:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>短暫的閃亮、愚蠢的智慧產品等等：2025 年 CES 上最差的產品</title>
+      <title>轉瞬即逝的閃亮、愚蠢的智慧產品等等：2025 年 CES 上最差的產品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</link>
       <description><![CDATA[這些榮譽令人生疑，但科技也是如此 ces  消費電子展再次展現了創新的前沿，也展現了最糟糕的當現代科技與當今資本當主義過度文化發生碰撞時，會發生什麼事呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/ces_worst_in_show_awards/</guid>
       <pubDate>Thu, 09 Jan 2025 19:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟準備迎接影響企業的 M365 一年的退役</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</link>
-      <description><![CDATA[嘿，管理員們－繫好安全帶。 2025 年將是一段瘋狂的旅程 微軟商店的管理員將迎來瘋狂的2025 年，因為雷德蒙德準備棄用和淘汰的不僅僅是對Windows 10 的支持…&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/09/microsoft_enterprise_impacting_retirements/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:36:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
