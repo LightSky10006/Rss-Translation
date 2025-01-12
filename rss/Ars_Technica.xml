@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 12 Jan 2025 01:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 12:53:25 GMT</lastBuildDate>
     <item>
-      <title>新格倫火箭位於發射台，等待平靜的海面著陸</title>
+      <title>利用全光學人工智慧來處理非線性數學</title>
+      <link>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</link>
+      <description><![CDATA[與其感測光子並處理結果，為什麼不處理光子呢？]]></description>
+      <guid>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</guid>
+      <pubDate>Sun, 12 Jan 2025 12:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>新格倫火箭已抵達發射台，等待平靜的海面著陸</title>
       <link>https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/</link>
       <description><![CDATA[“將我們的助推器降落在海上是雄心勃勃的目標——但我們會努力實現它。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>2025 年 CES 上將推出三款奇怪的家用設備和幾款好東西</title>
       <link>https://arstechnica.com/gadgets/2025/01/three-bizarre-home-devices-and-a-couple-good-things-at-ces-2025/</link>
-      <description><![CDATA[在人工智慧的浪潮中，一些好東西在 2025 年國際消費電子展 (CES) 上悄悄亮相。]]></description>
+      <description><![CDATA[在人工智慧一片混亂的背景下，一些悄悄出現的好東西在 CES 2025 上亮相。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/three-bizarre-home-devices-and-a-couple-good-things-at-ces-2025/</guid>
       <pubDate>Sat, 11 Jan 2025 12:30:11 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 11 Jan 2025 12:15:43 GMT</pubDate>
     </item>
     <item>
-      <title>希爾瑪·阿夫·克林特 (Hilma af Klint) 是否從 19 世紀物理學中汲取了靈感？</title>
+      <title>Hilma af Klint 是否從 19 世紀物理學中汲取了靈感？</title>
       <link>https://arstechnica.com/science/2025/01/did-hilma-af-klint-draw-inspiration-from-19th-century-physics/</link>
       <description><![CDATA[托馬斯楊 (Thomas Young) 1807 年講座中的圖表與 af Klint 作品中的抽象圖形有著驚人的相似之處。]]></description>
       <guid>https://arstechnica.com/science/2025/01/did-hilma-af-klint-draw-inspiration-from-19th-century-physics/</guid>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 10 Jan 2025 20:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>火箭通報：中國發射加油示範；國防部對高超音速技術的龐大需求</title>
+      <title>火箭通報：中國啟動燃料加油展示；國防部對高超音速技術的龐大需求</title>
       <link>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</link>
       <description><![CDATA[再過幾天，我們就會迎來雙倍劑量的重型火箭發射。]]></description>
       <guid>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</guid>
       <pubDate>Fri, 10 Jan 2025 19:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>德國路由器製造商成為最新一家無意中澄清 LGPL 授權的公司</title>
-      <link>https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/</link>
-      <description><![CDATA[德國的一個案例明確指出，LGPL 原始碼是不夠的——它還需要可用。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:58:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
