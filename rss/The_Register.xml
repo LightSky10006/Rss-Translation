@@ -3,12 +3,12 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 21:11:31 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 13 Jan 2025 21:35:04 GMT</lastBuildDate>
     <item>
-      <title>攻擊者濫用 Aviatrix Controller 漏洞，導致加密劫持和後門氾濫</title>
+      <title>惡意攻擊者濫用 Aviatrix Controller 漏洞，導致加密劫持和後門氾濫</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/severe_aviatrix_controller_vulnerability/</link>
-      <description><![CDATA[這是立即發布PoC 時發生的情況 研究人員稱，在Aviatrix Controller 中的最高嚴重性漏洞被披露後，「多個雲端部署」已經受到威脅。 &gt;]]></description>
+      <description><![CDATA[這就是您立即發布PoC 時發生的情況，嗯？ …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/severe_aviatrix_controller_vulnerability/</guid>
       <pubDate>Mon, 13 Jan 2025 21:00:11 GMT</pubDate>
     </item>
@@ -20,14 +20,14 @@
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟起訴「外國」網路騙子，查封用於濫用人工智慧的網站</title>
+      <title>微軟起訴「外國」網路犯罪分子，查封濫用人工智慧的網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</link>
       <description><![CDATA[據稱，有人竊取了API 金鑰，然後開始了駭客即服務業務 微軟起訴了一群未透露姓名的網路犯罪分子，他們開發了繞過其生成式AI 工具中的安全護欄的工具。這些工具被用來創造有害內容，而這些工具的使用權被當作服務出售給其他犯罪者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</guid>
       <pubDate>Mon, 13 Jan 2025 19:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>Azure、Microsoft 365 MFA 中斷導致跨地區使用者無法存取</title>
+      <title>Azure、Microsoft 365 MFA 中斷導致跨區域使用者無法存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</link>
       <description><![CDATA[在歐洲人經歷了一個瘋狂的星期一之後，這個問題基本上已經解決 週一歐洲用戶開始繁忙時，微軟針對Azure 和Microsoft 365 (M365) 的多因素身份驗證( MFA) 離線了四個小時。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國準備放棄大型資料中心的規劃規則</title>
+      <title>英國準備拋棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
       <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>微軟在亞太地區測試 M365 漲價 45%，看看你對 AI 的喜愛程度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續約時面臨價格大幅上漲。]]></description>
+      <description><![CDATA[不會說其他國家是否會受到打擊，但會根據買家的反應「傾聽、學習和改進」——到目前為止還很憤怒 微軟已向六個亞洲國家的M365 套件用戶提供建議-太平洋國家在續約時面臨價格大幅上漲...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
