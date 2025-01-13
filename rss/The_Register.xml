@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 08:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:37:57 GMT</lastBuildDate>
     <item>
-      <title>人生教訓：不要在去看牙醫的同一天刪除數百萬個帳戶</title>
+      <title>英國準備放棄大型資料中心的規劃規則</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
+      <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
+      <pubDate>Mon, 13 Jan 2025 09:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
       <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
@@ -15,14 +22,14 @@
     <item>
       <title>歐洲雲端運算公司 Anexia 將 12,000 台虛擬機器從 VMware 遷移到自製的 KVM 平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</link>
-      <description><![CDATA[面對授權成本的大幅上漲，供應商和客戶都樂於將遷移作為一項使命 獨家 Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia已將 12,000 個虛擬機器（其中一些由歐洲主要企業租用）轉移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
+      <description><![CDATA[面對龐大的許可證成本增加，提供者和客戶都樂意將遷移作為一項任務 獨家  Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</guid>
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能暴露數百萬智慧型手機用戶的風險。]]></description>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>新版 Outlook 即將登陸 Windows 10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</link>
-      <description><![CDATA[注定失敗的作業系統用戶將透過更新收到不受歡迎的應用程式 作為即將發布的每月安全版本的一部分，微軟的新版Outlook 將自動安裝在Windows 10 機器上。]]></description>
+      <description><![CDATA[注定作業系統的使用者將透過更新接收不受歡迎的應用程式 作為即將推出的每月安全版本的一部分，微軟的新Outlook 將自動安裝在Windows 10 電腦上。 ..  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</guid>
       <pubDate>Fri, 10 Jan 2025 14:32:11 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
+      <title>詐騙者利用英國數位固定電話交換機刷現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
       <pubDate>Fri, 10 Jan 2025 11:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>保險公司錯誤地向客戶提供退款，導致郵寄瘋狂</title>
+      <title>保險公司錯誤向客戶提供退款，導致郵寄瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</link>
       <description><![CDATA[黑斯廷斯有一個謎團需要解決——這些客戶是如何獲得退款的？  英國保險公司Hastings Direct 本週遇到了一些技術問題，此前該公司的一些客戶被告知他們將收到退款，但他們的希望卻因一聲匆忙的道歉而破滅了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</guid>
       <pubDate>Fri, 10 Jan 2025 10:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>兩人被控違反《電腦濫用法》涉嫌 COVID-19 疫苗欺詐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/covid19_vaccine_fraud_charges/</link>
-      <description><![CDATA[調查稱，該騙局涉嫌牟取14.5 萬英鎊，並向未接種疫苗的人出售了近2,000 份虛假記錄 英國國家犯罪局(NCA) 進一步對兩名盧頓男子提起訴訟，指控他們涉嫌分發虛假的 COVID-19 疫苗接種記錄。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/covid19_vaccine_fraud_charges/</guid>
-      <pubDate>Fri, 10 Jan 2025 09:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
