@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 13:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 14:12:50 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
+      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊瞄準了AWS S3 儲存桶，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
+      <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉因後視攝影機問題召回 239,382 輛汽車</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/tesla_recalls_239382_vehicles_over/</link>
+      <description><![CDATA[軟體故障可能會燒毀馬斯克電動車車主的電腦零件 美國缺陷調查辦公室(ODI) 開始對特斯拉的Actually Smart Summon 技術進行調查幾天后，特斯拉現在正在召回近因另一個問題（部分車型的後視攝影機故障）而導致 25 萬輛汽車受損…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/tesla_recalls_239382_vehicles_over/</guid>
+      <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國公佈計畫將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
@@ -29,12 +43,12 @@
     <item>
       <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
-      <description><![CDATA[偵測到未經授權的活動，但未發現後門 英國網域註冊機構Nominet 正在調查與最新Ivanti 零日漏洞相關的對其網路的潛在入侵。 &gt;]]></description>
+      <description><![CDATA[偵測到未經授權的活動，但未發現後門 英國網域註冊局 Nominet 正在調查與最新的 Ivanti 零日漏洞相關的潛在網路入侵行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國準備放棄大型資料中心的規劃規則</title>
+      <title>英國準備拋棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
       <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>微軟在亞洲測試 M365 價格上漲 45%，以確保您可以享受 AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告國家在續訂時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告他們在續訂訂閱時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -118,7 +132,7 @@
       <pubDate>Fri, 10 Jan 2025 21:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>CES 上的舌尖勺、茶冷貓機器人、懶人吸塵器等</title>
+      <title>CES 上推出的電擊舌頭湯匙、茶冷卻貓機器人、懶人吸塵器等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</link>
       <description><![CDATA[你無論如何都不想親眼看到的所有消費性電子產品 CES  隨著充滿各種電子產品的盛會CES 接近尾聲，還有很多值得期待的東西這也讓我們感到困惑不解…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[難以連線到雲端？你並不孤單 微軟週五警告 Azure 雲端服務用戶可能會繼續遇到“間歇性錯誤”，並將問題歸咎於美國東部區域網路服務配置變更。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</guid>
       <pubDate>Fri, 10 Jan 2025 17:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>藍色起源將新格倫號的首飛推遲至 1 月 12 日</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</link>
-      <description><![CDATA[現在定於SpaceX 下一次星際飛船測試的前一天進行 傑夫·貝佐斯旗下的藍色起源公司已將其新格倫火箭的首次發射推遲到1 月12日，即SpaceX 希望發射另一艘星際飛船測試的前一天飛行。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</guid>
-      <pubDate>Fri, 10 Jan 2025 16:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>藥物成癮治療服務機構承認攻擊者竊取了患者的敏感數據</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</link>
-      <description><![CDATA[網路上貼有痛苦和照護的詳細資料 BayMark 健康服務公司是美國最大的毒癮治療機構之一，該公司表示本週通知一些患者，他們的敏感個人資訊被盜了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</guid>
-      <pubDate>Fri, 10 Jan 2025 15:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
