@@ -4,11 +4,53 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:11:05 GMT</lastBuildDate>
     <item>
-      <title>Sonos 災難性應用程式背後的執行長可獲得 190 萬美元遣散費</title>
+      <title>Mastodon 創辦人放棄控制權，拒絕成為下一個馬斯克或祖克柏</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/mastodon-becomes-nonprofit-to-make-sure-its-never-ruined-by-billionaire-ceo/</link>
+      <description><![CDATA[Mastodon 轉向非營利所有權，呼籲捐款 500 萬美元以擴大規模。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/mastodon-becomes-nonprofit-to-make-sure-its-never-ruined-by-billionaire-ceo/</guid>
+      <pubDate>Mon, 13 Jan 2025 20:21:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>2002 年的《無冬之夜》在 2025 年得到了「無薪軟體工程師」的補丁</title>
+      <link>https://arstechnica.com/gaming/2025/01/2002s-neverwinter-nights-gets-a-patch-in-2025-from-unpaid-software-engineers/</link>
+      <description><![CDATA[Bioware 深受喜愛的《地下城》 《龍》CRPG 仍然是一個豐富的說故事空間。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/2002s-neverwinter-nights-gets-a-patch-in-2025-from-unpaid-software-engineers/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽車的超級巡航如何從豪華轎車駕駛發展到變換車道和拖車</title>
+      <link>https://arstechnica.com/cars/2025/01/how-gms-super-cruise-went-from-limo-driving-to-lane-changes-and-towing/</link>
+      <description><![CDATA[每輛車上都會運行一個自學習演算法來了解駕駛條件。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/how-gms-super-cruise-went-from-limo-driving-to-lane-changes-and-towing/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>紐約開始執行 ISP 曾經試圖廢除的 15 美元寬頻法</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/</link>
+      <description><![CDATA[紐約在取得法庭勝利後表示，低收入計畫必須在周三開始實施。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:27:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>長期以來人們一直認為這具頭骨屬於克莉奧佩特拉的妹妹，但實際上它是一名小男孩</title>
+      <link>https://arstechnica.com/science/2025/01/nope-this-skull-is-not-cleopatras-half-sister/</link>
+      <description><![CDATA[1929 年在以弗所遺址中發現的頭骨被認為是阿爾西諾伊四世 (Arsinoë IV)，但實際上是一名 11-14 歲男孩的頭骨。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/nope-this-skull-is-not-cleopatras-half-sister/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:19:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>報導稱：經過多次洩露，Switch 2 將於「本週」發布</title>
+      <link>https://arstechnica.com/gaming/2025/01/report-after-many-leaks-switch-2-announcement-could-come-this-week/</link>
+      <description><![CDATA[據報導，Reveal 將專注於硬件，稍後將發布遊戲公告。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/report-after-many-leaks-switch-2-announcement-could-come-this-week/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos 執行長因應用程式離職慘遭解僱，離職費達 190 萬美元</title>
       <link>https://arstechnica.com/gadgets/2025/01/sonos-ceo-behind-disastrous-app-exits-with-1-9-million-severance/</link>
-      <description><![CDATA[沮喪的用戶認為史賓塞的下台是「當之無愧的」。]]></description>
+      <description><![CDATA[沮喪的用戶認為 Spence 的被除名是「罪有應得」。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/sonos-ceo-behind-disastrous-app-exits-with-1-9-million-severance/</guid>
       <pubDate>Mon, 13 Jan 2025 17:29:52 GMT</pubDate>
     </item>
@@ -27,53 +69,11 @@
       <pubDate>Mon, 13 Jan 2025 16:18:20 GMT</pubDate>
     </item>
     <item>
-      <title>冰冷的通風口線可能是導致藍色起源取消新格倫號首次發射的原因</title>
+      <title>冰冷的排氣管可能導致藍色起源取消新格倫號的首次發射</title>
       <link>https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/</link>
       <description><![CDATA[對於大型新型火箭來說，出現此類問題是完全可以預料到的，也是正常的。]]></description>
       <guid>https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/</guid>
       <pubDate>Mon, 13 Jan 2025 08:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管試圖登陸新格倫火箭是“瘋狂的”，但貝佐斯表示嘗試是很重要的</title>
-      <link>https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/</link>
-      <description><![CDATA[“有些東西只有在飛行中才能進行測試。”]]></description>
-      <guid>https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/</guid>
-      <pubDate>Mon, 13 Jan 2025 00:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 CES 上最有趣的 8 款 PC 顯示器</title>
-      <link>https://arstechnica.com/gadgets/2025/01/the-8-most-interesting-pc-monitors-from-ces-2025/</link>
-      <description><![CDATA[以下是即將推出的具有去年還未出現的功能的電腦螢幕。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/the-8-most-interesting-pc-monitors-from-ces-2025/</guid>
-      <pubDate>Sun, 12 Jan 2025 13:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用全光學人工智慧來處理非線性數學</title>
-      <link>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</link>
-      <description><![CDATA[與其感測光子並處理結果，為什麼不處理光子呢？]]></description>
-      <guid>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</guid>
-      <pubDate>Sun, 12 Jan 2025 12:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>新格倫火箭正在發射台等待平靜的海面著陸</title>
-      <link>https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/</link>
-      <description><![CDATA[“將我們的助推器降落在海上是雄心勃勃的目標——但我們會努力實現它。”]]></description>
-      <guid>https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/</guid>
-      <pubDate>Sat, 11 Jan 2025 17:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 CES 上將推出三款奇怪的家用設備和幾款好東西</title>
-      <link>https://arstechnica.com/gadgets/2025/01/three-bizarre-home-devices-and-a-couple-good-things-at-ces-2025/</link>
-      <description><![CDATA[在人工智慧的浪潮中，一些好東西在 2025 年國際消費電子展 (CES) 上悄悄亮相。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/three-bizarre-home-devices-and-a-couple-good-things-at-ces-2025/</guid>
-      <pubDate>Sat, 11 Jan 2025 12:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>161 年前，一位紐西蘭牧羊人預言了人工智慧的末日</title>
-      <link>https://arstechnica.com/ai/2025/01/161-years-ago-a-new-zealand-sheep-farmer-predicted-ai-doom/</link>
-      <description><![CDATA[巴特勒的《機器中的達爾文》警告未來機械種族可能會征服人類。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/161-years-ago-a-new-zealand-sheep-farmer-predicted-ai-doom/</guid>
-      <pubDate>Sat, 11 Jan 2025 12:15:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

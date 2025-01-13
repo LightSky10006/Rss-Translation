@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 20:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:11:31 GMT</lastBuildDate>
+    <item>
+      <title>攻擊者濫用 Aviatrix Controller 漏洞，導致加密劫持和後門氾濫</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/severe_aviatrix_controller_vulnerability/</link>
+      <description><![CDATA[這是立即發布PoC 時發生的情況 研究人員稱，在Aviatrix Controller 中的最高嚴重性漏洞被披露後，「多個雲端部署」已經受到威脅。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/severe_aviatrix_controller_vulnerability/</guid>
+      <pubDate>Mon, 13 Jan 2025 21:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>CoreWeave 在英國資料中心投入 10 億英鎊——但不要指望 Nvidia 的最新魔力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟起訴「外國」網路犯罪分子，查封濫用人工智慧的網站</title>
+      <title>微軟起訴「外國」網路騙子，查封用於濫用人工智慧的網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</link>
       <description><![CDATA[據稱，有人竊取了API 金鑰，然後開始了駭客即服務業務 微軟起訴了一群未透露姓名的網路犯罪分子，他們開發了繞過其生成式AI 工具中的安全護欄的工具。這些工具被用來創造有害內容，而這些工具的使用權被當作服務出售給其他犯罪者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[加上：扔掉價值數百萬比特幣驅動器的男子被禁止在垃圾場挖掘 一位上帝之人因一項加密貨幣投資業務而與山姆大叔的檢察官一起陷入罪孽，他聲稱該業務是透過一項加密貨幣投資業務獲得的夢想…]]></description>
+      <description><![CDATA[另外：男子丟掉價值數百萬的比特幣硬碟，被禁止在垃圾場挖礦 一位神職人員因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 13 Jan 2025 15:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>勒索軟體人員濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
+      <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
       <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊瞄準了AWS S3 儲存桶，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 13 Jan 2025 12:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>Pornhub 封鎖和不講事實的 Zuckbots——歡迎來到 2025 年</title>
+      <title>Pornhub 被封鎖，Zuckbots 真相不明——歡迎來到 2025 年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/smut_meta_opinion/</link>
       <description><![CDATA[您認為自己很擅長發現趨勢嗎？試試這些尺寸 觀點  本專欄在發表兩天後可能會過期。屆時，美國最高法院將決定憲法賦予的言論自由權是否凌駕於許多南部州制定的反網路色情法之上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/smut_meta_opinion/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國準備拋棄大型資料中心的規劃規則</title>
+      <title>英國準備放棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
       <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>微軟在亞太地區測試 M365 漲價 45%，看看你對 AI 的喜愛程度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到打擊，但會根據買家的反應「傾聽、學習和改進」——到目前為止還很憤怒 微軟已向六個亞洲國家的M365 套件用戶提供建議- 太平洋國家在續訂時面臨價格大幅上漲，並表示需要漲價以「確保微軟客戶成為第一批使用我們應用程式中強大人工智慧功能的客戶。」...]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續約時面臨價格大幅上漲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[另外：中國計劃統一 API；新加坡允許警方查閱詐騙受害者的銀行帳戶；富士通現在太酷了，不適合空調 亞洲簡訊 台灣晶片製造商台積電公佈強勁的年收入增長。 include virtual=&#39; /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/12/asia_tech_news_roundup/</guid>
       <pubDate>Sun, 12 Jan 2025 23:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>CES 的低迷讓我們不禁想知道 2025 年的科技將會是什麼樣子</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</link>
-      <description><![CDATA[El Reg 禿鷹盤旋在消費電子展上 Kettle  一年一度的消費電子展本週在拉斯維加斯舉行——對我們來說，這場盛會感覺有點低調。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

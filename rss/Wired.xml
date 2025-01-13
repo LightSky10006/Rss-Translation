@@ -3,8 +3,8 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 13 Jan 2025 20:36:20 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Mon, 13 Jan 2025 21:11:37 GMT</lastBuildDate>
     <item>
       <title>法官結束了一名男子透過挖掘垃圾掩埋場來追回 7.65 億美元比特幣的 11 年歷程</title>
       <link>https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/</link>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 13 Jan 2025 12:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯山火引發了另一個問題——飲用水不安全</title>
+      <title>洛杉磯山火又引發另一個問題——不安全的飲用水</title>
       <link>https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/</link>
       <description><![CDATA[熔化的塑膠管和急劇的水壓下降可能會將有毒化學物質和污染物滲入當地水源。洛杉磯北部的多家水務部門已發布了「禁止飲用」通知。]]></description>
       <guid>https://www.wired.com/story/wildfires-have-given-los-angeles-a-contaminated-water-problem/</guid>
@@ -48,13 +48,6 @@
       <pubDate>Mon, 13 Jan 2025 11:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>奧茲姆皮克國王嚇得要命</title>
-      <link>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</link>
-      <description><![CDATA[諾和諾德如今已成為全球減重巨頭，它是否要背叛它的第一批患者－1型糖尿病患者？]]></description>
-      <guid>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>繪製伊隆馬斯克的全球帝國</title>
       <link>https://www.wired.com/story/mapping-elon-musk-global-empire/</link>
       <description><![CDATA[從隧道到特斯拉工廠，再到 SpaceX 發射設施，地球上幾乎沒有一個地方不受人類最富有的回覆者的引力吸引。]]></description>
@@ -64,12 +57,19 @@
     <item>
       <title>金錢金錢問題</title>
       <link>https://www.wired.com/money-issue/</link>
-      <description><![CDATA[《連線》雜誌派遣記者到四方尋找誰控制著世界財富。他們發現了什麼？男人。從川普、馬斯克和普丁到執行長、加密貨幣傻瓜和太陽能兄弟，都會遇到控制錢包的父權制。]]></description>
+      <description><![CDATA[《連線》雜誌派出記者走遍各地尋找誰控制著世界財富。他們發現了什麼？男人。從川普、馬斯克和普丁到執行長、加密貨幣專家和太陽能兄弟，都見識過控制錢袋的父權制。]]></description>
       <guid>https://www.wired.com/money-issue/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>太陽能板銷售員的驚人倦怠</title>
+      <title>奧茲姆皮克國王嚇得要命</title>
+      <link>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</link>
+      <description><![CDATA[諾和諾德如今已成為全球減重巨頭，它是否要背叛它的第一批患者－1型糖尿病患者？]]></description>
+      <guid>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>太陽能板推銷員的驚人倦怠</title>
       <link>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</link>
       <description><![CDATA[他認為挨家挨戶銷售太陽能板可以賺取數百萬美元。事實卻更加黑暗。]]></description>
       <guid>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</guid>
@@ -120,21 +120,21 @@
     <item>
       <title>新的超導材料剛被發現</title>
       <link>https://www.wired.com/story/new-superconductive-materials-have-just-been-discovered/</link>
-      <description><![CDATA[去年發現了三種奇特的超導新物種，說明電子可以透過無數種方式結合在一起形成無摩擦的量子湯。]]></description>
+      <description><![CDATA[去年發現了三種奇怪的超導新物種，說明了電子可以透過多種方式結合在一起形成無摩擦的量子湯。]]></description>
       <guid>https://www.wired.com/story/new-superconductive-materials-have-just-been-discovered/</guid>
       <pubDate>Sun, 12 Jan 2025 07:00:00 GMT</pubDate>
     </item>
     <item>
       <title>拉丁美洲事實查核人員為 Meta 的下一步行動做好準備</title>
       <link>https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/</link>
-      <description><![CDATA[到目前為止，Meta 僅放棄了在美國的事實查核。如果它擴大，此舉將對拉丁美洲新聞生態系統造成重大打擊。]]></description>
+      <description><![CDATA[到目前為止，Meta 僅在美國放棄了事實查核。一旦擴張，此舉將對拉丁美洲新聞生態系統造成重大打擊。]]></description>
       <guid>https://www.wired.com/story/hispanic-fact-checkers-react-meta-disinformation/</guid>
       <pubDate>Sat, 11 Jan 2025 18:03:15 GMT</pubDate>
     </item>
     <item>
       <title>一枚發光的金屬環墜落到地球。沒人知道它從何而來</title>
       <link>https://www.wired.com/story/a-glowing-metal-ring-crashed-to-earth-no-one-knows-where-it-came-from/</link>
-      <description><![CDATA[這個重達 1,100 磅的神秘物體於 12 月底降落在肯亞。專家們仍然感到困惑。]]></description>
+      <description><![CDATA[這個重達 1100 磅的神秘物體於 12 月底降落在肯亞。專家們仍感到困惑。]]></description>
       <guid>https://www.wired.com/story/a-glowing-metal-ring-crashed-to-earth-no-one-knows-where-it-came-from/</guid>
       <pubDate>Sat, 11 Jan 2025 16:30:00 GMT</pubDate>
     </item>
