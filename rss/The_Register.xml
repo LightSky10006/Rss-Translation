@@ -3,12 +3,12 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:18:23 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 13 Jan 2025 18:44:17 GMT</lastBuildDate>
     <item>
       <title>Azure、Microsoft 365 MFA 中斷導致跨地區使用者無法存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</link>
-      <description><![CDATA[在歐洲人度過了一個瘋狂的星期一之後，該問題基本上得到了修復 在周一歐洲訂戶繁忙的開始期間，Microsoft 針對Azure 和Microsoft 365 (M365) 的多重身份驗證(MFA) 離線了四個小時。]]></description>
+      <description><![CDATA[在歐洲人經歷了一個瘋狂的星期一之後，這個問題基本上已經解決 週一歐洲用戶開始繁忙時，微軟針對Azure 和Microsoft 365 (M365) 的多因素身份驗證( MFA) 離線了四個小時。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</guid>
       <pubDate>Mon, 13 Jan 2025 17:55:09 GMT</pubDate>
     </item>
@@ -22,40 +22,40 @@
     <item>
       <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子丟掉價值數百萬的比特幣硬碟，被禁止在垃圾場挖礦 一位神職人員因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
+      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的人因一項加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 反擊拜登「扼殺創新」的 AI 晶片出口限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</link>
-      <description><![CDATA[GPU 霸主表示，「新規定可能會浪費美國來之不易的技術優勢」 英偉達對即將離任的拜登政府的人工智慧晶片技術出口限制進行了反擊，該限制旨在加強美國對供應鏈的束縛並維持市場主導地位。]]></description>
+      <description><![CDATA[「新規則可能會浪費美國來之不易的技術優勢」 GPU 巨頭表示 Nvidia 對即將離任的拜登政府的AI 晶片技術出口限制進行了反擊，這些限制旨在加強美國對供應鏈的控制並維持市場主導地位…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</guid>
       <pubDate>Mon, 13 Jan 2025 15:02:08 GMT</pubDate>
     </item>
     <item>
       <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
-      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊瞄準了AWS S3 儲存桶，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
+      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
       <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉因後視攝影機問題召回 239,382 輛汽車</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/tesla_recalls_239382_vehicles_over/</link>
-      <description><![CDATA[軟體故障可能會燒毀馬斯克電動車車主的電腦組件 美國缺陷調查辦公室(ODI) 開始對該公司的「實際智慧召喚」技術進行調查幾天后，特斯拉正在召回幾乎所有的產品25萬輛汽車因一個單獨的問題而受到影響——某些車型上的後視攝像頭出現故障。]]></description>
+      <description><![CDATA[軟體故障可能會燒毀馬斯克電動車車主的電腦零件 美國缺陷調查辦公室(ODI) 開始對特斯拉的Actually Smart Summon 技術進行調查幾天后，特斯拉現在正在召回近因另一個問題（部分車型的後視攝影機故障）而導致 25 萬輛汽車受損…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/tesla_recalls_239382_vehicles_over/</guid>
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計畫將人工智慧引入國民血液</title>
+      <title>英國公佈計劃，將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
-      <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府正在採納創投家提出的全部50 項建議，利用人工智慧推動經濟復甦，甚至沒有承認由此帶來的能源挑戰該策略可能會造成......  ]]></description>
+      <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
       <pubDate>Mon, 13 Jan 2025 13:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>距離發射窗口還有 2 小時，藍色起源放棄了新格倫發射</title>
+      <title>藍色起源放棄新格倫火箭發射計劃，發射窗口已過 2 小時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</link>
       <description><![CDATA[火箭子系統問題導致發射失敗 藍色起源公司已放棄今天發射新格倫火箭的計劃，並確認火箭在發射窗口期剛過兩個多小時就停止了發射… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲違反 GDPR 資料保護規則後向賭客罰款 400 歐元</title>
+      <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
+      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能暴露數百萬智慧型手機用戶的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在亞太地區測試M365漲價45%，確保你能享有AI</title>
+      <title>微軟在亞太地區測試M365漲價45%，看看你對AI有多喜愛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</link>
       <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續訂時面臨價格大幅上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能。」…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</guid>
@@ -125,9 +125,9 @@
       <pubDate>Sun, 12 Jan 2025 23:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>CES 的低迷讓我們不禁想知道 2025 年的科技將會是什麼樣子</title>
+      <title>CES 的低迷讓我們想知道 2025 年技術方面會是什麼樣子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</link>
-      <description><![CDATA[El Reg 禿鷹圍繞著消費電子展 Kettle  一年一度的消費電子展本週在拉斯維加斯舉行- 對我們來說，這場盛會感覺有點壓抑。]]></description>
+      <description><![CDATA[El Reg 禿鷹盤旋在消費電子展上 Kettle  一年一度的消費電子展本週在拉斯維加斯舉行——對我們來說，這場盛會感覺有點低調。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</guid>
       <pubDate>Sun, 12 Jan 2025 14:59:12 GMT</pubDate>
     </item>
