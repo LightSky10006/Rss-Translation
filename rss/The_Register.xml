@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 13:39:24 GMT</lastBuildDate>
     <item>
-      <title>距離發射窗口還有 2 小時，藍色起源放棄了新格倫發射</title>
+      <title>英國公佈計畫將人工智慧引入國民血液</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
+      <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
+      <pubDate>Mon, 13 Jan 2025 13:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>藍色起源放棄新格倫火箭發射計劃，發射窗口已過 2 小時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</link>
       <description><![CDATA[火箭子系統問題導致發射失敗 藍色起源公司已放棄今天發射新格倫火箭的計劃，並確認火箭在發射窗口期剛過兩個多小時就停止了發射… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</guid>
@@ -22,12 +29,12 @@
     <item>
       <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
-      <description><![CDATA[偵測到未經授權的活動，但未發現後門 英國網域註冊局 Nominet 正在調查與最新的 Ivanti 零日漏洞相關的潛在網路入侵事件。]]></description>
+      <description><![CDATA[偵測到未經授權的活動，但未發現後門 英國網域註冊機構Nominet 正在調查與最新Ivanti 零日漏洞相關的對其網路的潛在入侵。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國準備拋棄大型資料中心的規劃規則</title>
+      <title>英國準備放棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
       <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>歐洲雲端運算公司 Anexia 將 12,000 台虛擬機器從 VMware 遷移到自製的 KVM 平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</link>
-      <description><![CDATA[面對授權成本的大幅上漲，供應商和客戶都樂於將遷移作為一項使命 獨家 Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia 已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
+      <description><![CDATA[面對龐大的許可證成本增加，提供者和客戶都樂於將遷移作為一項任務 獨家  Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia 已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</guid>
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體集團可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能會暴露數百萬智慧型手機用戶的風險。]]></description>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>微軟在亞洲測試 M365 價格上漲 45%，以確保您可以享受 AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到打擊，但會根據買家的反應「傾聽、學習和改進」——到目前為止還很憤怒 微軟已向六個亞洲國家的M365 套件用戶提供建議這些國家在續訂時面臨價格大幅上漲，並表示需要漲價以「確保微軟客戶成為第一批使用我們應用程式中強大人工智慧功能的客戶」。]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告國家在續訂時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -118,32 +125,25 @@
       <pubDate>Fri, 10 Jan 2025 20:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>Azure 網路出現混亂進入第二天，有些服務仍步履蹣跚</title>
+      <title>Azure 網路故障進入第二天，部分服務仍不穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</link>
       <description><![CDATA[難以連線到雲端？你並不孤單 微軟週五警告 Azure 雲端服務用戶可能會繼續遇到“間歇性錯誤”，並將問題歸咎於美國東部區域網路服務配置變更。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</guid>
       <pubDate>Fri, 10 Jan 2025 17:59:58 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源將新格倫火箭首飛推遲至 1 月 12 日</title>
+      <title>藍色起源將新格倫號的首飛推遲至 1 月 12 日</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</link>
       <description><![CDATA[現在定於SpaceX 下一次星際飛船測試的前一天進行 傑夫·貝佐斯旗下的藍色起源公司已將其新格倫火箭的首次發射推遲到1 月12日，即SpaceX 希望發射另一艘星際飛船測試的前一天飛行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/blue_origin_new_glenn/</guid>
       <pubDate>Fri, 10 Jan 2025 16:31:04 GMT</pubDate>
     </item>
     <item>
-      <title>毒癮治療服務承認攻擊者竊取了敏感的患者數據</title>
+      <title>藥物成癮治療服務機構承認攻擊者竊取了患者的敏感數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</link>
-      <description><![CDATA[網路上公佈了患者的病情和治療細節 BayMark Health Services 是美國最大的戒毒治療機構之一，該機構表示，本週它通知一些患者，他們的敏感個人資訊被盜了。]]></description>
+      <description><![CDATA[網路上貼有痛苦和照護的詳細資料 BayMark 健康服務公司是美國最大的毒癮治療機構之一，該公司表示本週通知一些患者，他們的敏感個人資訊被盜了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/baymark_data_breach/</guid>
       <pubDate>Fri, 10 Jan 2025 15:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版 Outlook 即將登陸 Windows 10</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</link>
-      <description><![CDATA[注定失敗的作業系統用戶將透過更新收到不受歡迎的應用程式 作為即將發布的每月安全版本的一部分，微軟的新Outlook 將自動安裝在Windows 10 機器上。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</guid>
-      <pubDate>Fri, 10 Jan 2025 14:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
