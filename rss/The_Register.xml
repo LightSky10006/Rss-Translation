@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 10:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:41:59 GMT</lastBuildDate>
+    <item>
+      <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
+      <description><![CDATA[偵測到未經授權的活動，但未發現後門 英國網域註冊商 Nominet 正在調查與最新的 Ivanti 零時差漏洞相關的潛在網路入侵行為。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
+      <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國準備拋棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您即將做一些危險事情的文件 誰，我？  起床發光，親愛的讀者，今天是星期一，因此是時候全力以赴了新一週的工作，《The Register》以新版《誰，我？在本專欄中，您將分享一些故事，講述您貪多嚼不爛，卻又摸索著讀完的故事。 _whitepaper_textlinks_top.html&#39; -- &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
+      <title>歐洲因違反自己的 GDPR 資料保護規則而向下注者支付 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
       <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在亞洲測試 M365 漲價 45%，以確保您可以享受 AI</title>
+      <title>微軟在亞洲測試 M365 價格上漲 45%，以確保您可以享受 AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</link>
       <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告國家在續訂時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>Google 與 Linux 基金會組成 Chromium 愛情俱樂部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</link>
-      <description><![CDATA[就在山姆大叔推動 Chrome 拋售之際，是嗎？ Linux 基金會宣布了一項倡議，旨在支援Chrome 瀏覽器所依賴的開源Chromium 專案。]]></description>
+      <description><![CDATA[就在山姆大叔推動 Chrome 拋售的時候，嗯？將宣布一項計劃，支援Chrome 瀏覽器所依賴的開源Chromium 項目。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</guid>
       <pubDate>Fri, 10 Jan 2025 22:58:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
       <pubDate>Fri, 10 Jan 2025 11:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>保險公司錯誤地向客戶提供退款，導致郵寄瘋狂</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</link>
-      <description><![CDATA[黑斯廷斯有一個謎團需要解決——這些客戶是如何獲得退款的？  英國保險公司Hastings Direct 本週遇到了一些技術問題，此前該公司的一些客戶被告知他們將收到退款，但他們的希望卻因一聲匆忙的道歉而破滅了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</guid>
-      <pubDate>Fri, 10 Jan 2025 10:21:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
