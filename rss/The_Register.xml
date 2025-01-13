@@ -3,33 +3,40 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 08:17:58 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 13 Jan 2025 08:43:07 GMT</lastBuildDate>
+    <item>
+      <title>人生教訓：不要在去看牙醫的同一天刪除數百萬個帳戶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲雲端運算公司 Anexia 將 12,000 台虛擬機器從 VMware 遷移到自製的 KVM 平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</link>
-      <description><![CDATA[面對龐大的許可證成本增加，提供者和客戶都樂意將遷移作為一項任務 獨家  Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統…]]></description>
+      <description><![CDATA[面對授權成本的大幅上漲，供應商和客戶都樂於將遷移作為一項使命 獨家 Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia已將 12,000 個虛擬機器（其中一些由歐洲主要企業租用）轉移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</guid>
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
+      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能暴露數百萬智慧型手機用戶的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
     <item>
       <title>Linus Torvalds 提議為核心開發人員建立吉他效果器踏板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/linus_torvalds_guitar_pedal_offer/</link>
-      <description><![CDATA[在 Linux 6.13-rc7 發佈時他警告說，「我是一名拿著烙鐵的軟體人」 Linux 霸主 Linus Torvalds 已提出為一個幸運的內核手工構建一個吉他效果踏板貢獻者。]]></description>
+      <description><![CDATA[“我是一個拿著烙鐵的軟體人”，他在發布 Linux 6.13-rc7 時警告道 Linux 霸主 Linus Torvalds 已提出為一個幸運的內核手工打造一個吉他效果踏板貢獻者…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/linus_torvalds_guitar_pedal_offer/</guid>
       <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
     </item>
     <item>
       <title>微軟在亞洲測試 M365 價格上漲 45%，以確保您可以享受 AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告國家在續訂時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告他們在續訂訂閱時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Sun, 12 Jan 2025 14:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>難道真的是接手格陵蘭和巴拿馬運河的計畫嗎？這是奇怪的一周</title>
+      <title>這真的是接管格陵蘭島和巴拿馬運河的計畫嗎？這真是奇怪的一周</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/</link>
       <description><![CDATA[同時，科技巨頭們也紛紛為川普助選 觀點  我們都知道，美國新任總統川普的言論已經偏離了劇本，幾乎很滑稽。美國灣？讓格陵蘭再次偉大？接管巴拿馬運河？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/</guid>
@@ -71,12 +78,12 @@
     <item>
       <title>中國網路間諜偷看官員調查美國軍事基地附近房地產交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</link>
-      <description><![CDATA[哎呀，想知道為什麼北京如此熱衷於 - 檢查筆記 - 美國外國投資委員會 闖入美國財政部的中國網絡間諜還竊取了調查真實情況的官員的文件據報道，美國軍事基地附近的房地產銷售。]]></description>
+      <description><![CDATA[哎呀，不知道為什麼北京如此熱衷於 – 檢查記錄 – 美國外國投資委員會 闖入美國財政部的中國網絡間諜還竊取了調查房地產官員的文件 -據報道，美國軍事基地附近的房地產銷售… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</guid>
       <pubDate>Fri, 10 Jan 2025 21:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>CES 上的舌尖勺、茶冷貓機器人、懶人吸塵器等</title>
+      <title>CES 上推出的電擊舌頭湯匙、茶冷卻貓機器人、懶人吸塵器等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</link>
       <description><![CDATA[你無論如何都不想親眼看到的所有消費性電子產品 CES  隨著充滿各種電子產品的盛會CES 接近尾聲，還有很多值得期待的東西這也讓我們感到困惑不解…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</guid>
@@ -106,26 +113,26 @@
     <item>
       <title>新版 Outlook 即將登陸 Windows 10</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</link>
-      <description><![CDATA[注定失敗的作業系統用戶將透過更新收到不受歡迎的應用程式 作為即將發布的每月安全版本的一部分，微軟的新Outlook 將自動安裝在Windows 10 機器上。]]></description>
+      <description><![CDATA[注定失敗的作業系統用戶將透過更新收到不受歡迎的應用程式 作為即將發布的每月安全版本的一部分，微軟的新版Outlook 將自動安裝在Windows 10 機器上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/new_outlook_windows_10/</guid>
       <pubDate>Fri, 10 Jan 2025 14:32:11 GMT</pubDate>
     </item>
     <item>
       <title>自由軟體鬥士們慶祝強制執行 GNU LGPL 的里程碑式案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</link>
-      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，得益於軟體自由保護協會(SFC) 資助的訴訟。]]></description>
+      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，感謝軟體自由保護協會(SFC) 資助的一項訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</guid>
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話開關竊取現金</title>
+      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
       <pubDate>Fri, 10 Jan 2025 11:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>保險公司錯誤向客戶提供退款，導致郵寄瘋狂</title>
+      <title>保險公司錯誤地向客戶提供退款，導致郵寄瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</link>
       <description><![CDATA[黑斯廷斯有一個謎團需要解決——這些客戶是如何獲得退款的？  英國保險公司Hastings Direct 本週遇到了一些技術問題，此前該公司的一些客戶被告知他們將收到退款，但他們的希望卻因一聲匆忙的道歉而破滅了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/hastings_direct_mailout_error/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[調查稱，該騙局涉嫌牟取14.5 萬英鎊，並向未接種疫苗的人出售了近2,000 份虛假記錄 英國國家犯罪局(NCA) 進一步對兩名盧頓男子提起訴訟，指控他們涉嫌分發虛假的 COVID-19 疫苗接種記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/covid19_vaccine_fraud_charges/</guid>
       <pubDate>Fri, 10 Jan 2025 09:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>開發人員因「原本有用的功能…直到不再有用」而陷入安全恐慌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</link>
-      <description><![CDATA[螢幕截圖顯示這不是可能的攻擊– 除非你將Google 所做的一切都視為威脅 On Call  Velkomin，Vælkomin，Hoş geldin，歡迎來到星期五，因此，請收看另一期《On Call》——The Register 的周末慶祝活動，慶祝您成功解決的技術支援任務，而沒有造成太大的創傷…&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/on_call/</guid>
-      <pubDate>Fri, 10 Jan 2025 08:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
