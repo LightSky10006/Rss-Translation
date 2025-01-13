@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 14:12:50 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 13 Jan 2025 15:14:08 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 反擊拜登「扼殺創新」的 AI 晶片出口限制</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</link>
+      <description><![CDATA[「新規則可能會浪費美國來之不易的技術優勢」 GPU 巨頭表示 Nvidia 對即將離任的拜登政府的AI 晶片技術出口限制進行了反擊，這些限制旨在加強美國對供應鏈的控制並維持市場主導地位…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</guid>
+      <pubDate>Mon, 13 Jan 2025 15:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
-      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊瞄準了AWS S3 儲存桶，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
+      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
       <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計畫將人工智慧引入國民血液</title>
+      <title>英國宣布了將人工智慧納入國家血統的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
       <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Sat, 11 Jan 2025 09:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Google 與 Linux 基金會組成 Chromium 愛情俱樂部</title>
+      <title>Google 和 Linux 基金會組成 Chromium 愛情俱樂部</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</link>
       <description><![CDATA[就在山姆大叔推動 Chrome 拋售之際，是嗎？ Linux 基金會宣布了一項倡議，旨在支援Chrome 瀏覽器所依賴的開源Chromium 專案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/google_linux_foundation_chromium/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>CES 上推出的電擊舌頭湯匙、茶冷卻貓機器人、懶人吸塵器等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</link>
-      <description><![CDATA[你無論如何都不想親眼看到的所有消費性電子產品 CES  隨著充滿各種電子產品的盛會CES 接近尾聲，還有很多值得期待的東西這也讓我們感到困惑不解…]]></description>
+      <description><![CDATA[所有你不想親眼看到的消費性電子產品 CES 隨著充滿小玩意的 CES 展會接近尾聲，有很多值得期待的事情同樣，這讓我們完全困惑......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ces_weird_gadgets/</guid>
       <pubDate>Fri, 10 Jan 2025 20:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure 網路故障進入第二天，部分服務仍不穩定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</link>
-      <description><![CDATA[難以連線到雲端？你並不孤單 微軟週五警告 Azure 雲端服務用戶可能會繼續遇到“間歇性錯誤”，並將問題歸咎於美國東部區域網路服務配置變更。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/microsoft_azure_networking_snafu/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:59:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
