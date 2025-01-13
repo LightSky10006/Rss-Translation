@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:44:17 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 13 Jan 2025 19:10:28 GMT</lastBuildDate>
+    <item>
+      <title>微軟起訴「外國」犯罪分子，查封濫用人工智慧的網站</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</link>
+      <description><![CDATA[騙子竊取了API 金鑰，然後開始了駭客即服務業務 微軟起訴了一群未透露姓名的網路犯罪分子，他們開發了繞過其生成式AI 工具中的安全護欄的工具。這些工具被用來創造有害內容，而這些工具的使用權被當作服務出售給其他犯罪者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>Azure、Microsoft 365 MFA 中斷導致跨地區使用者無法存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的人因一項加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
+      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的信徒因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計劃，將人工智慧引入國民血液</title>
+      <title>英國公佈計畫將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
       <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
-      <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家 英國網域註冊商Nominet 正在調查與最新的Ivanti 零日漏洞有關的潛在網路入侵行為。]]></description>
+      <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家英國網域註冊機構Nominet 正在調查與最新Ivanti 零日漏洞相關的對其網路的潛在入侵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能暴露數百萬智慧型手機用戶的風險。]]></description>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在亞太地區測試M365漲價45%，看看你對AI有多喜愛</title>
+      <title>微軟在亞太地區測試 M365 漲價 45%，看看你對 AI 的喜愛程度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續訂時面臨價格大幅上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能。」…]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續訂時面臨價格大幅上漲，並表示需要漲價以「確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Sun, 12 Jan 2025 23:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>CES 的低迷讓我們想知道 2025 年技術方面會是什麼樣子</title>
+      <title>CES 的低迷讓我們不禁想知道 2025 年的科技將會是什麼樣子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</link>
       <description><![CDATA[El Reg 禿鷹盤旋在消費電子展上 Kettle  一年一度的消費電子展本週在拉斯維加斯舉行——對我們來說，這場盛會感覺有點低調。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/12/ces_kettle/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[同時，科技巨頭們也紛紛為川普助選 觀點  我們都知道，美國新任總統川普的言論已經偏離了劇本，幾乎很滑稽。美國灣？讓格陵蘭再次偉大？接管巴拿馬運河？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/11/opinion_column_us_moves/</guid>
       <pubDate>Sat, 11 Jan 2025 15:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>用樂高月球車慶祝電動車登上月球</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/</link>
-      <description><![CDATA[Technic 系列的用途甚至比火星探測器更好- 但有一個很大的警告 最初的阿波羅月球車看起來就像是用一個超大的麥卡諾套件串起來的。因此，找到用該公司的 Technic 零件建造的樂高變體並不令人感到驚訝。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/11/lego_lunar_roving_vehicle/</guid>
-      <pubDate>Sat, 11 Jan 2025 09:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
