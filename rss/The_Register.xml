@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 13 Jan 2025 04:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 05:38:46 GMT</lastBuildDate>
+    <item>
+      <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，該公司遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
+      <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>Linus Torvalds 提議為核心開發人員建立吉他效果器踏板</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/linus_torvalds_guitar_pedal_offer/</link>
@@ -13,14 +20,14 @@
       <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟在亞洲測試 M365 漲價 45%，以確保您可以享受 AI</title>
+      <title>微軟在亞洲測試 M365 價格上漲 45%，以確保您可以享受 AI</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告他們在續訂訂閱時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
+      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲國家的用戶發出了M365 套件警告國家在續訂時面臨大幅價格上漲，並表示需要漲價「以確保微軟客戶能夠率先使用我們應用程式中強大的 AI 功能」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rises_asia_test/</guid>
       <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>台積電營收激增，你不需要人工智慧就能知道原因</title>
+      <title>台積電收入激增，你不需要人工智慧來找出原因</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/12/asia_tech_news_roundup/</link>
       <description><![CDATA[另外：中國計劃統一 API；新加坡允許警方查閱詐騙受害者的銀行帳戶；富士通現在太酷了，不適合空調 亞洲簡訊 台灣晶片製造商台積電公佈強勁的年收入增長。 include virtual=&#39; /data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/12/asia_tech_news_roundup/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>中國網路間諜偷看官員調查美國軍事基地附近房地產交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</link>
-      <description><![CDATA[哎呀，不知道為什麼北京如此熱衷於 – 支票記錄 – 美國外國投資委員會 闖入美國財政部的中國網絡間諜還竊取了調查房地產官員的文件 -據報道，美國軍事基地附近的房地產銷售… ]]></description>
+      <description><![CDATA[哎呀，不知道為什麼北京如此熱衷於 – 檢查記錄 – 美國外國投資委員會 闖入美國財政部的中國網絡間諜還竊取了調查房地產官員的文件 -據報道，美國軍事基地附近的房地產銷售… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/china_treasury_foreign_investment/</guid>
       <pubDate>Fri, 10 Jan 2025 21:45:06 GMT</pubDate>
     </item>
@@ -99,12 +106,12 @@
     <item>
       <title>自由軟體鬥士們慶祝強制執行 GNU LGPL 的里程碑式案件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</link>
-      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始程式碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，感謝軟體自由保護協會(SFC) 資助的一項訴訟。]]></description>
+      <description><![CDATA[出事了：德國路由器製造商 AVM 在交出原始碼後讓設備權利案結束 德國軟體開發人員 Sebastian Steck 獲得了他的 AVM 的源代碼和庫安裝腳本FRITZ!Box 4020 路由器，得益於軟體自由保護協會(SFC) 資助的訴訟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/german_router_maker_avm_lgpl/</guid>
       <pubDate>Fri, 10 Jan 2025 13:37:10 GMT</pubDate>
     </item>
     <item>
-      <title>詐騙者利用英國數位固定電話交換機竊取現金</title>
+      <title>詐騙者利用英國數位固定電話開關竊取現金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</link>
       <description><![CDATA[2025 年 1 月的舊期限被用來迫使受害者付款 英國消費者冠軍哪一個？警告稱，詐騙者正在利用英國和北愛爾蘭正在進行的電話線數位轉換計劃誘騙客戶交出他們的付款詳細資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/digital_landline_switch_scam/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>動手工作成長最快，因為人工智慧無法觸及它們</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ai_jobs_wef/</link>
-      <description><![CDATA[世界經濟論壇發現對腦力技能的需求巨大，有關它如何改變你的角色的新聞 智庫和倡導組織世界經濟論壇預測，人工智慧無法取代的工作崗位將強勁增長，此外對能夠實現自動化的技能的需求很大…]]></description>
+      <description><![CDATA[世界經濟論壇發現對腦力技能的需求巨大，有關它如何改變你的角色的新聞 智庫和倡導組織世界經濟論壇預測，人工智慧無法取代的工作將強勁增長，此外對能夠實現自動化的技能的需求很大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/ai_jobs_wef/</guid>
       <pubDate>Fri, 10 Jan 2025 07:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>法庭文件稱 Meta 使用大量可能為盜版的內容來訓練其 AI 模型</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</link>
-      <description><![CDATA[扎克對「自由表達」的定義是否變得更加廣泛？其人工智慧模型到新的法庭文件......]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/10/meta_libgen_allegation/</guid>
-      <pubDate>Fri, 10 Jan 2025 06:16:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
