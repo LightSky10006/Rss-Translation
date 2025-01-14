@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 13:36:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 14:12:14 GMT</lastBuildDate>
+    <item>
+      <title>微軟做出不正當調整後，英特爾和 AMD 工程師急於挽救 Linux 6.13</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/microsoft_linux_change_pulled/</link>
+      <description><![CDATA[「請不要再這樣做了」...發布日期前幾天 英特爾和AMD 工程師已於11 日介入，處理來自微軟開發人員的程式碼貢獻，該程式碼可能會破壞Linux在某些系統上為 6.13…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/microsoft_linux_change_pulled/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>Snyk 似乎出於未知原因部署了針對 Cursor 的「惡意」軟體包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/snyk_npm_deployment_removed/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>不只是大型科技公司：英國的《網路安全法》適用於所有公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/online_safety_act/</link>
-      <description><![CDATA[這個已經運行了20 年的利基論壇- 做好準備，還有工作要做 分析 距離第一個法定截止日期（英國在線安全）還有兩個多月的時間該法案引起了其影響範圍內的小型線上論壇的擔憂。該法案於 2023 年秋季生效，適用於搜尋服務和允許用戶在線上發佈內容或相互互動的服務。]]></description>
+      <description><![CDATA[這個小眾論壇已經運作了20 年－做好準備，還有很多工作要做 分析  距離第一個法定截止日期只剩兩個個多月，英國的線上安全此舉引發了受其影響的小型線上論壇的擔憂。該法案於 2023 年秋季生效，適用於搜尋服務以及允許使用者在線上發佈內容或相互互動的服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/online_safety_act/</guid>
       <pubDate>Tue, 14 Jan 2025 12:15:10 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 14 Jan 2025 11:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國推出公共部門勒索軟體支付禁令</title>
+      <title>英國對公共部門實施勒索軟體支付禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</link>
       <description><![CDATA[更強有力的提案也可能讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門可能全面禁止勒索軟體支付犯罪分子鎖定整個系統並由納稅人買單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>歐洲希望川普勝過拜登的計劃，讓美國扮演人工智慧守門人的角色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</link>
-      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計劃感到不滿。 …&lt;/對]]></description>
+      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計畫感到不滿。 …&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</guid>
       <pubDate>Tue, 14 Jan 2025 08:14:12 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 14 Jan 2025 06:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 領導者 Matt Mullenweg 放逐了五位貢獻者</title>
+      <title>WordPress 領導者 Matt Mullenweg 驅逐了五名貢獻者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</link>
       <description><![CDATA[WordPress.org 帳戶被取消，異議人士被要求分叉 WordPress 聯合創始人馬修·穆倫維格(Matthew Mullenweg) 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯護說，將鼓勵他們分叉開源內容管理系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>微軟起訴「外國」網路犯罪分子，查封濫用人工智慧的網站</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</link>
-      <description><![CDATA[據稱，渣男竊取了API 金鑰，然後開始了駭客即服務業務 微軟已起訴一群未透露姓名的網路犯罪分子，這些犯罪分子在其生成式AI 工具中開發了繞過安全護欄的工具。這些工具被用來創建有害內容，並且這些工具的存取權限被作為服務出售給其他不法分子。]]></description>
+      <description><![CDATA[據稱，有人竊取了API 金鑰，然後開始了駭客即服務業務 微軟起訴了一群未透露姓名的網路犯罪分子，他們開發了繞過其生成式AI 工具中的安全護欄的工具。這些工具被用來創造有害內容，而這些工具的使用權被當作服務出售給其他犯罪者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</guid>
       <pubDate>Mon, 13 Jan 2025 19:00:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[“瑞典已經改變”，三艘軍艦加入防禦行動，首相警告 在俄羅斯再次懷疑襲擊該地區的水下電纜後，瑞典已承諾向波羅的海派遣海軍力量。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/sweden_baltic_cable_attack/</guid>
       <pubDate>Mon, 13 Jan 2025 16:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的信徒因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
