@@ -3,8 +3,22 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 00:56:30 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 02:09:50 GMT</lastBuildDate>
+    <item>
+      <title>惡意攻擊者「大規模利用」了 Fortinet 防火牆，極有可能使用了零時差漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</link>
+      <description><![CDATA[Arctic Wolf 威脅獵人告訴 El Reg，勒索軟體「並非不可能」 針對 Fortinet 防火牆進行「大規模攻擊活動」的不法分子可能正在使用未修補的零日漏洞安全研究人員表示，他們已經觀察到了這些入侵行為，並表示這些漏洞可能會危害設備。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</guid>
+      <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>HPE 可能已從 Elon Musk 的 X 公司獲得 10 億美元的 AI 伺服器訂單</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</link>
+      <description><![CDATA[這就是Cray cray 據報道，惠普企業已獲得一份合同，為伊隆馬斯克的X（即眾所周知的Twitter 網站）提供價值超過10 億美元的人工智能加速伺服器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</guid>
+      <pubDate>Tue, 14 Jan 2025 01:00:58 GMT</pubDate>
+    </item>
     <item>
       <title>在推動 AI 代理方面，微軟重組以創建“CoreAI - 平台和工具”團隊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_corea_team_reorg/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的信徒因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
+      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的人因一項加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
-      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
+      <description><![CDATA[「Codefinger」犯罪分子正在尋找受損金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C)在要求為解密所需的對稱 AES-256 金鑰支付贖金之前鎖定受害者的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
       <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -76,14 +90,14 @@
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計畫將人工智慧引入國民血液</title>
+      <title>英國公佈計劃，將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
       <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
       <pubDate>Mon, 13 Jan 2025 13:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>距離發射窗口還有 2 小時，藍色起源放棄了新格倫發射</title>
+      <title>藍色起源放棄新格倫火箭發射計劃，發射窗口已過 2 小時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</link>
       <description><![CDATA[火箭子系統問題導致發射失敗 藍色起源公司已放棄今天發射新格倫火箭的計劃，並確認火箭在發射窗口期剛過兩個多小時就停止了發射… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</guid>
@@ -111,39 +125,25 @@
       <pubDate>Mon, 13 Jan 2025 09:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
+      <title>人生教訓：不要在去看牙醫的同一天刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
     <item>
       <title>歐洲雲端運算公司 Anexia 將 12,000 台虛擬機器從 VMware 遷移到自製的 KVM 平台</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</link>
-      <description><![CDATA[面對授權成本的大幅上漲，供應商和客戶都樂於將遷移作為一項使命 獨家 Broadcom 失去了其VMware 平台的另一個大客戶：奧地利雲端供應商Anexia 已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
+      <description><![CDATA[面對龐大的許可證成本增加，提供者和客戶都樂於將遷移作為一項任務 獨家  Broadcom 又失去了其VMware 平台的另一位大客戶：奧地利雲端供應商Anexia 已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</guid>
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
     </item>
     <item>
       <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[PLUS：資料經紀人外洩揭示了資訊交易的程度；熱門的新勒索軟體集團可能全是人工智慧，沒有任何吠叫；等等 資訊安全簡介  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年就其涉嫌非法出售位置問題與美國當局達成和解，據報道，該公司已被遭到駭客攻擊 – 可能會暴露數百萬智慧型手機用戶的風險。]]></description>
+      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
       <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds 提議為核心開發人員建立吉他效果器踏板</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/linus_torvalds_guitar_pedal_offer/</link>
-      <description><![CDATA[“我是一個拿著烙鐵的軟體人”，他在發布 Linux 6.13-rc7 時警告道 Linux 霸主 Linus Torvalds 已提出為一個幸運的內核手工打造一個吉他效果踏板貢獻者…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/linus_torvalds_guitar_pedal_offer/</guid>
-      <pubDate>Mon, 13 Jan 2025 03:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在亞太地區測試 M365 漲價 45%，看看你對 AI 的喜愛程度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</link>
-      <description><![CDATA[不會說其他國家是否會受到影響，但會“傾聽、學習和改進”，因為買家的反應——到目前為止是憤怒 微軟已經向六個亞洲地區的M365 套件用戶發出警告-太平洋國家在續約時面臨價格大幅上漲。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/m365_price_rise_asia_pacific_test/</guid>
-      <pubDate>Mon, 13 Jan 2025 00:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
