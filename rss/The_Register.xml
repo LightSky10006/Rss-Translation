@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 16:41:45 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 17:11:17 GMT</lastBuildDate>
+    <item>
+      <title>開源霸主甲骨文宣布退出，帶走巨額股份</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/oracle_chief_corporate_architect_retires/</link>
+      <description><![CDATA[擁有38 年經驗的Edward Screven 自Sun 合併以來一直領導技術和架構決策 Oracle 任職時間最長的高級團隊成員之一、首席企業架構師Edward Screven 已宣布計劃以一筆豐厚的退休金退休。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/oracle_chief_corporate_architect_retires/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:45:13 GMT</pubDate>
+    </item>
     <item>
       <title>分析師統計數據證實，微軟和 OEM 廠商在第四季降低了歐洲 Copilot+ PC 的價格</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ai_pcs_europe_sales/</link>
@@ -34,16 +41,16 @@
       <pubDate>Tue, 14 Jan 2025 13:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>提姆在蘋果的薪資上漲 18%，達到 7,460 萬美元，他正在努力賺錢</title>
+      <title>提姆在蘋果的薪資上漲 18% 至 7,460 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</link>
       <description><![CDATA[他可以用這筆錢買49,766 台半MacBook Pro 根據監管文件顯示，蘋果掌門人蒂姆·庫克(Tim Cook) 在2024 年的薪酬增長了18%，使他的總薪酬達到7,460 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</guid>
       <pubDate>Tue, 14 Jan 2025 13:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>不僅僅是大型科技公司：英國的線上安全法案全面適用</title>
+      <title>不只是大型科技公司：英國的《網路安全法》適用於所有公司</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/online_safety_act/</link>
-      <description><![CDATA[這個小眾論壇已經運作了20 年－做好準備，還有很多工作要做 分析  距離第一個法定截止日期只剩兩個個多月，英國的線上安全此舉引發了受其影響的小型線上論壇的擔憂。該法案於 2023 年秋季生效，適用於搜尋服務以及允許使用者在線上發佈內容或相互互動的服務。]]></description>
+      <description><![CDATA[這個已經運行了20 年的利基論壇- 做好準備，還有工作要做 分析 距離第一個法定截止日期（英國在線安全）還有兩個多月的時間該法案引起了其影響範圍內的小型線上論壇的擔憂。該法案於 2023 年秋季生效，適用於搜尋服務和允許用戶在線上發佈內容或相互互動的服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/online_safety_act/</guid>
       <pubDate>Tue, 14 Jan 2025 12:15:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>英國推出公共部門勒索軟體支付禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</link>
-      <description><![CDATA[更有力的提案可能會讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門全面禁止勒索軟體支付實際上可能會發生犯罪者鎖定了整個系統，納稅人為此買單。]]></description>
+      <description><![CDATA[更強有力的提案也可能讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門可能全面禁止勒索軟體支付犯罪分子鎖定整個系統並由納稅人買單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</guid>
       <pubDate>Tue, 14 Jan 2025 11:04:22 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>歐洲希望川普勝過拜登的計劃，讓美國扮演人工智慧守門人的角色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</link>
-      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計畫感到不滿。 …&lt;/對]]></description>
+      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計劃感到不滿。 …&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</guid>
       <pubDate>Tue, 14 Jan 2025 08:14:12 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 14 Jan 2025 07:06:13 GMT</pubDate>
     </item>
     <item>
-      <title>Sonos 智慧音箱應用程式升級遭遇挫折，CEO 辭職</title>
+      <title>Sonos執行長在智慧音箱應用程式升級失敗後辭職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</link>
       <description><![CDATA[董事會任命臨時領導人，以跟​​上公司扭虧為盈的步伐，兩位高管都聽到了現金入賬的甜蜜聲音 智能音箱公司Sonos 與首席執行官Patrick Spence 分道揚鑣，後者曾負責發布該應用程式被宣傳為升級，但實際上卻使公司的產品變得更糟並激怒了客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</guid>
@@ -106,14 +113,14 @@
     <item>
       <title>惡意攻擊者「大規模利用」了 Fortinet 防火牆，極有可能使用了零時差漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</link>
-      <description><![CDATA[北極狼威脅獵人告訴El Reg，勒索軟體「並非不可能」 針對Fortinet 防火牆開展「大規模利用活動」的不法分子可能正在使用未修補的零日漏洞，該活動在12 月達到頂峰據安全研究人員稱，他們觀察到了這些入侵行為，這些漏洞可能會破壞設備。]]></description>
+      <description><![CDATA[Arctic Wolf 威脅獵人告訴 El Reg，勒索軟體「並非不可能」 針對 Fortinet 防火牆進行「大規模攻擊活動」的不法分子可能正在使用未修補的零日漏洞安全研究人員表示，他們已經觀察到了這些入侵行為，並表示這些漏洞可能會危害設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</guid>
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
     </item>
     <item>
       <title>HPE 可能已獲得 Elon Musk 的 X 10 億美元 AI 伺服器訂單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</link>
-      <description><![CDATA[這就是Cray cray 據報道，惠普企業已獲得一份合同，為伊隆馬斯克的X（即眾所周知的Twitter 網站）提供價值超過10 億美元的人工智能加速伺服器。]]></description>
+      <description><![CDATA[那是Cray cray 據報道，惠普企業(Hewlett Packard Enterprise) 已獲得一份合同，為埃隆·馬斯克(Elon Musk) 的X（該網站更廣為人知的名稱為推特）提供價值超過10 億美元的人工智慧加速伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</guid>
       <pubDate>Tue, 14 Jan 2025 01:00:58 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Rent-a-GPU 租賃公司的最新資料中心擠滿了H200 隨著英國政府重申其成為AI 超級大國的願望，CoreWeave 表示，兩個新的GPU 位元倉庫擠滿了Nvidia 加速器已準備好投入使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</guid>
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟起訴「外國」網路犯罪分子，查封濫用人工智慧的網站</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</link>
-      <description><![CDATA[據稱，有人竊取了API 金鑰，然後開始了駭客即服務業務 微軟起訴了一群未透露姓名的網路犯罪分子，他們開發了繞過其生成式AI 工具中的安全護欄的工具。這些工具被用來創造有害內容，而這些工具的使用權被當作服務出售給其他犯罪者。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_sues_foreignbased_crims_seizes/</guid>
-      <pubDate>Mon, 13 Jan 2025 19:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
