@@ -3,24 +3,31 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 19:34:48 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 20:13:37 GMT</lastBuildDate>
+    <item>
+      <title>FBI 從美國數千台 Windows PC 清除了中國 PlugX 惡意軟體</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</link>
+      <description><![CDATA[嘿，習近平：再見！被中國政府支持的犯罪分子感染根據最新公佈的法庭文件顯示…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>拜登向耗電巨大的人工智慧資料中心開放聯邦土地</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/biden_ai_executive_order/</link>
-      <description><![CDATA[問題出在哪裡？沒有足夠的能源來贏得軍備競賽？ 美國總統拜登週二簽署了一項行政命令，旨在確保美國人工智慧的領導地位不會因為劣質的能源基礎設施而落後。 ...]]></description>
+      <description><![CDATA[問題是什麼？能源不足以贏得軍備競賽？ p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/biden_ai_executive_order/</guid>
       <pubDate>Tue, 14 Jan 2025 19:15:06 GMT</pubDate>
     </item>
     <item>
       <title>價格操縱作為一種服務——針對健康保險軟體製造商 MultiPlan 的索賠案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/price_fixing_as_a_service/</link>
-      <description><![CDATA[Jennifer Scullion 律師就演算法抑制競爭的指控 訪談 定價（競爭對手之間確定價格水準的協議）自此以來根據美國謝爾曼反壟斷法一直是非法的1890....]]></description>
+      <description><![CDATA[律師Jennifer Scullion 談到演算法抑制競爭的指控 訪談  價格操縱（競爭對手之間達成的價格水平協議）自1999 年以來一直違反美國《謝爾曼反壟斷法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/price_fixing_as_a_service/</guid>
       <pubDate>Tue, 14 Jan 2025 18:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>隨著人工智慧蓬勃發展，2024 年資料中心交易額達到創紀錄的 570 億美元</title>
+      <title>隨著人工智慧熱潮的全面爆發，2024 年資料中心交易將達到 57B 美元的記錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/2024_datacenter_deals/</link>
       <description><![CDATA[在比特倉房狂潮中，大型交易減少，但小型交易增加 資料中心合併活動在 2024 年飆升至新的高度，12 個月內完成的交易總額達到 570 億美元。如果您正在尋找原因，那麼您已經猜到了：預期生成式人工智慧將獲得收益。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/2024_datacenter_deals/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 14 Jan 2025 13:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>提姆在蘋果的薪資上漲 18% 至 7,460 萬美元</title>
+      <title>提姆在蘋果的薪水上漲 18%，達到 7,460 萬美元，他正在努力賺錢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</link>
       <description><![CDATA[他可以用這筆錢買49,766 台半MacBook Pro 根據監管文件顯示，蘋果掌門人蒂姆·庫克(Tim Cook) 在2024 年的薪酬增長了18%，使他的總薪酬達到7,460 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</guid>
@@ -78,12 +85,12 @@
     <item>
       <title>Absolute Linux 已經走到盡頭 – 下一步要去哪裡？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/the_end_of_absolute_linux/</link>
-      <description><![CDATA[不存在但我們希望存在的 Linux 發行版 分析  在一個充滿發行版的擁擠領域中，仍然存在許多空白。 The Register 想指出幾個方向… ]]></description>
+      <description><![CDATA[不存在但我們希望存在的 Linux 發行版 分析 在一個充滿發行版的擁擠領域，仍然存在許多空白。 登記冊想指出一些方向... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/the_end_of_absolute_linux/</guid>
       <pubDate>Tue, 14 Jan 2025 11:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國推出公共部門勒索軟體支付禁令</title>
+      <title>英國對公共部門實施勒索軟體支付禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</link>
       <description><![CDATA[更強有力的提案也可能讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門可能全面禁止勒索軟體支付犯罪分子鎖定整個系統並由納稅人買單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>歐洲希望川普勝過拜登的計劃，讓美國扮演人工智慧守門人的角色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</link>
-      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計畫感到不滿。 …&lt;/對]]></description>
+      <description><![CDATA[出口管制將限制GPU 向歐盟大片地區的運輸 歐盟委員會對拜登政府將人工智慧晶片和模型的出口管制擴大到世界大部分地區的計劃感到不滿。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</guid>
       <pubDate>Tue, 14 Jan 2025 08:14:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Arctic Wolf 威脅獵人告訴El Reg，勒索軟體“並非不可能” 更新 惡意分子針對Fortinet 防火牆開展“大規模攻擊活動”，該活動在12月達到頂峰，安全研究人員表示，他們已經觀察到了入侵行為，他們可能正在使用未修補的零日漏洞來破壞設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</guid>
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE 可能已從 Elon Musk 的 X 公司獲得 10 億美元的 AI 伺服器訂單</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</link>
-      <description><![CDATA[這就是Cray cray 據報道，惠普企業已獲得一份合同，為伊隆馬斯克的X（即眾所周知的Twitter 網站）提供價值超過10 億美元的人工智能加速伺服器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</guid>
-      <pubDate>Tue, 14 Jan 2025 01:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
