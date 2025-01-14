@@ -3,8 +3,8 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 14 Jan 2025 03:36:25 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 14 Jan 2025 04:14:43 GMT</lastBuildDate>
     <item>
       <title>法官結束了一名男子透過挖掘垃圾掩埋場來追回 7.65 億美元比特幣的 11 年歷程</title>
       <link>https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/</link>
@@ -13,7 +13,7 @@
       <pubDate>Mon, 13 Jan 2025 20:25:06 GMT</pubDate>
     </item>
     <item>
-      <title>隨著 TikTok 禁令的臨近，用戶紛紛轉向中國應用程式“Red Note”</title>
+      <title>TikTok 禁令迫在眉睫，用戶紛紛轉用中國應用“Red Note”</title>
       <link>https://www.wired.com/story/red-note-tiktok-xiaohongshu/</link>
       <description><![CDATA[有人說，他們加入小紅書是為了在 TikTok 被禁的可能性越來越大後，對美國政府表示不滿。]]></description>
       <guid>https://www.wired.com/story/red-note-tiktok-xiaohongshu/</guid>
@@ -48,13 +48,6 @@
       <pubDate>Mon, 13 Jan 2025 11:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>繪製伊隆馬斯克的全球帝國</title>
-      <link>https://www.wired.com/story/mapping-elon-musk-global-empire/</link>
-      <description><![CDATA[從隧道到特斯拉工廠，再到 SpaceX 發射設施，地球上幾乎沒有一個地方不受人類最富有的回覆者的引力吸引。]]></description>
-      <guid>https://www.wired.com/story/mapping-elon-musk-global-empire/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>金錢金錢問題</title>
       <link>https://www.wired.com/money-issue/</link>
       <description><![CDATA[《連線》雜誌派出記者走遍各地尋找誰控制著世界財富。他們發現了什麼？男人。從川普、馬斯克和普丁到執行長、加密貨幣專家和太陽能兄弟，都見識過控制錢袋的父權制。]]></description>
@@ -62,16 +55,30 @@
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>繪製伊隆馬斯克的全球帝國</title>
+      <link>https://www.wired.com/story/mapping-elon-musk-global-empire/</link>
+      <description><![CDATA[從隧道到特斯拉工廠，再到 SpaceX 發射設施，地球上幾乎沒有一個地方不受人類最富有的回覆者的引力吸引。]]></description>
+      <guid>https://www.wired.com/story/mapping-elon-musk-global-empire/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>奧茲姆皮克國王嚇得要命</title>
       <link>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</link>
-      <description><![CDATA[諾和諾德如今已成為全球減重巨頭，它是否要背叛它的第一批患者－1型糖尿病患者？]]></description>
+      <description><![CDATA[既然諾和諾德是世界減肥巨頭，它是否必須背叛其第一批患者——1 型糖尿病患者？]]></description>
       <guid>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>19 款不會讓你破產的精美小玩意</title>
+      <link>https://www.wired.com/gallery/cheap-thrills-affordable-fancy-gadgets/</link>
+      <description><![CDATA[下一件新事物的花費不一定相當於下個月的薪水。]]></description>
+      <guid>https://www.wired.com/gallery/cheap-thrills-affordable-fancy-gadgets/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>太陽能板銷售員的驚人倦怠</title>
       <link>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</link>
-      <description><![CDATA[他認為挨家挨戶銷售太陽能板可以賺數百萬美元。現實要黑暗得多。]]></description>
+      <description><![CDATA[他認為挨家挨戶銷售太陽能板可以賺取數百萬美元。事實卻更加黑暗。]]></description>
       <guid>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -85,21 +92,14 @@
     <item>
       <title>富人統治世界</title>
       <link>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</link>
-      <description><![CDATA[世界上絕大多數財富的持有者？男人。這麼多人——從川普、馬斯克、普丁到每一位執行長、加密貨幣傻瓜和太陽能兄弟。]]></description>
+      <description><![CDATA[世界上絕大多數財富的持有者？男人。這麼多男人——從川普、馬斯克和普丁到每一位執行長、加密貨幣專家和太陽能專家。]]></description>
       <guid>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>19 款不會讓你破產的精美小玩意</title>
-      <link>https://www.wired.com/gallery/cheap-thrills-affordable-fancy-gadgets/</link>
-      <description><![CDATA[下一件新事物的花費不一定相當於下個月的薪水。]]></description>
-      <guid>https://www.wired.com/gallery/cheap-thrills-affordable-fancy-gadgets/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>預測性旅行監控的黑盒子內部</title>
       <link>https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/</link>
-      <description><![CDATA[在幕後，公司和政府正在將大量有關國際旅行者的資料輸入到不透明的人工智慧工具中，旨在預測誰是安全的，誰是威脅。]]></description>
+      <description><![CDATA[在幕後，公司和政府正在將大量有關國際旅行者的資料輸入不透明的人工智慧工具，旨在預測誰是安全的，誰是威脅。]]></description>
       <guid>https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/</guid>
       <pubDate>Mon, 13 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Sat, 11 Jan 2025 18:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>一枚發光的金屬環墜落到地球。沒人知道它從何而來</title>
+      <title>一個發光的金屬環墜落到地球。沒有人知道它從哪裡來</title>
       <link>https://www.wired.com/story/a-glowing-metal-ring-crashed-to-earth-no-one-knows-where-it-came-from/</link>
       <description><![CDATA[這個重達 1,100 磅的神秘物體於 12 月底降落在肯亞。專家們仍然感到困惑。]]></description>
       <guid>https://www.wired.com/story/a-glowing-metal-ring-crashed-to-earth-no-one-knows-where-it-came-from/</guid>
