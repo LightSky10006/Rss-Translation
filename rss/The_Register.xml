@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 15:12:45 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 15:36:34 GMT</lastBuildDate>
+    <item>
+      <title>英國監管機構調查谷歌的搜尋和廣告帝國</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/cma_google_search_investigation/</link>
+      <description><![CDATA[在美國和歐洲監管機構的持續審查下，第三條戰線打開了 英國競爭和市場管理局(CMA) 是最新一家調查谷歌在搜尋和搜尋廣告業務中地位的監管機構。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/cma_google_search_investigation/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:17:15 GMT</pubDate>
+    </item>
     <item>
       <title>微軟做出不正當調整後，英特爾和 AMD 工程師急於挽救 Linux 6.13</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/microsoft_linux_change_pulled/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>英國推出公共部門勒索軟體支付禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</link>
-      <description><![CDATA[更強有力的提案也可能讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門可能全面禁止勒索軟體支付犯罪分子鎖定整個系統並由納稅人買單。]]></description>
+      <description><![CDATA[更有力的提案可能會讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門全面禁止勒索軟體支付實際上可能會發生犯罪者鎖定了整個系統，納稅人為此買單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</guid>
       <pubDate>Tue, 14 Jan 2025 11:04:22 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>歐洲希望川普勝過拜登的計劃，讓美國扮演人工智慧守門人的角色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</link>
-      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計畫感到不滿。 …&lt;/對]]></description>
+      <description><![CDATA[出口管制將限制GPU 向歐盟大片地區的運輸 歐盟委員會對拜登政府將人工智慧晶片和模型的出口管制擴大到世界大部分地區的計劃感到不滿。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</guid>
       <pubDate>Tue, 14 Jan 2025 08:14:12 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Sonos 智慧音箱應用程式升級遭遇挫折，CEO 辭職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</link>
-      <description><![CDATA[董事會任命臨時領導者以與其扭虧為盈之歌保持一致，兩位高管都聽到了現金登陸銀行的甜美聲音 智能音箱公司Sonos 已與負責監督發布的首席執行官帕特里克·斯賓塞(Patrick Spence) 分道揚鑣一款被宣傳為升級版的應用程序，結果卻使公司的產品變得更糟並激怒了客戶。]]></description>
+      <description><![CDATA[董事會任命臨時領導人，以跟​​上公司扭虧為盈的步伐，兩位高管都聽到了現金入賬的甜蜜聲音 智能音箱公司Sonos 與首席執行官Patrick Spence 分道揚鑣，後者曾負責發布該應用程式被宣傳為升級，但實際上卻使公司的產品變得更糟並激怒了客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</guid>
       <pubDate>Tue, 14 Jan 2025 06:15:09 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>CoreWeave 在英國資料中心投入 10 億英鎊——但不要指望 Nvidia 的最新魔力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</link>
-      <description><![CDATA[Rent-a-GPU 租賃公司的最新資料中心擠滿了H200 隨著英國政府重申其成為AI 超級大國的願望，CoreWeave 表示，兩個新的GPU 位元倉庫擠滿了Nvidia 加速器已準備好投入使用。]]></description>
+      <description><![CDATA[Rent-a-GPU 機構的最新資料中心擠滿了 H200 隨著英國政府重申其成為 AI 超級大國的願望，CoreWeave 表示兩個新的 GPU 比特倉擠滿了Nvidia加速器已準備好投入使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</guid>
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在歐洲人經歷了一個瘋狂的星期一之後，這個問題基本上已經解決 週一歐洲用戶開始繁忙時，微軟針對Azure 和Microsoft 365 (M365) 的多因素身份驗證( MFA) 離線了四個小時。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</guid>
       <pubDate>Mon, 13 Jan 2025 17:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>北約最新成員國在波羅的海光纜遭遇最新攻擊後採取強硬措施</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/sweden_baltic_cable_attack/</link>
-      <description><![CDATA[“瑞典已經改變”，三艘軍艦加入防禦行動，首相警告 在俄羅斯再次懷疑襲擊該地區的水下電纜後，瑞典已承諾向波羅的海派遣海軍力量。 p&gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/sweden_baltic_cable_attack/</guid>
-      <pubDate>Mon, 13 Jan 2025 16:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
