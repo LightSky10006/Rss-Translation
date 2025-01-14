@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 02:09:50 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 02:55:02 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 領導者 Matt Mullenweg 放逐了五位貢獻者</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</link>
+      <description><![CDATA[WordPress.org 帳戶被取消，異議人士被要求分叉 WordPress 聯合創始人馬修·穆倫維格(Matthew Mullenweg) 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯護說，將鼓勵他們分叉開源內容管理系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</guid>
+      <pubDate>Tue, 14 Jan 2025 02:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>惡意攻擊者「大規模利用」了 Fortinet 防火牆，極有可能使用了零時差漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 可能已從 Elon Musk 的 X 公司獲得 10 億美元的 AI 伺服器訂單</title>
+      <title>HPE 可能已獲得 Elon Musk 的 X 10 億美元 AI 伺服器訂單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</link>
       <description><![CDATA[這就是Cray cray 據報道，惠普企業已獲得一份合同，為伊隆馬斯克的X（即眾所周知的Twitter 網站）提供價值超過10 億美元的人工智能加速伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Azure、Microsoft 365 MFA 中斷導致跨地區使用者無法存取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</link>
-      <description><![CDATA[在歐洲人經歷了一個瘋狂的星期一之後，這個問題基本上已經解決 週一歐洲用戶開始繁忙時，微軟針對Azure 和Microsoft 365 (M365) 的多因素身份驗證( MFA) 離線了四個小時。]]></description>
+      <description><![CDATA[在歐洲人度過了一個瘋狂的星期一之後，該問題基本上得到了修復 在周一歐洲訂戶繁忙的開始期間，Microsoft 針對Azure 和Microsoft 365 (M365) 的多重身份驗證(MFA) 離線了四個小時。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/azure_m365_outage/</guid>
       <pubDate>Mon, 13 Jan 2025 17:55:09 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的人因一項加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
+      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的信徒因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
-      <description><![CDATA[「Codefinger」犯罪分子正在尋找受損金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C)在要求為解密所需的對稱 AES-256 金鑰支付贖金之前鎖定受害者的資料。]]></description>
+      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
       <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計劃，將人工智慧引入國民血液</title>
+      <title>英國公佈計畫將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
       <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>藍色起源放棄新格倫火箭發射計劃，發射窗口已過 2 小時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</link>
-      <description><![CDATA[火箭子系統問題導致發射失敗 藍色起源公司已放棄今天發射新格倫火箭的計劃，並確認火箭在發射窗口期剛過兩個多小時就停止了發射… ]]></description>
+      <description><![CDATA[車輛子系統問題被歸咎於擦洗 藍色起源已經放棄了今天的新格倫火箭升空嘗試，確認它在車輛發射窗口兩個多小時後就停了下來. ..]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</guid>
       <pubDate>Mon, 13 Jan 2025 12:04:25 GMT</pubDate>
     </item>
@@ -113,21 +120,21 @@
     <item>
       <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
-      <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家 英國網域註冊商Nominet 正在調查與最新的Ivanti 零日漏洞有關的潛在網路入侵行為。]]></description>
+      <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家英國網域註冊機構Nominet 正在調查與最新Ivanti 零日漏洞相關的對其網路的潛在入侵。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國準備拋棄大型資料中心的規劃規則</title>
+      <title>英國準備放棄大型資料中心的規劃規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
       <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
       <pubDate>Mon, 13 Jan 2025 09:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>人生教訓：不要在去看牙醫的同一天刪除數百萬個帳戶</title>
+      <title>人生教訓：去看牙醫的同一天不要刪除數百萬個帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</link>
-      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一週工作開始了，The Register 出版了新一期的《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
+      <description><![CDATA[或忽略警告您將要做一些危險事情的文件 誰，我？ 親愛的讀者們，今天是星期一，所以是時候開始認真思考了。新的一周工作開始了，The Register 用新版《誰，我？在這個專欄中，您可以分享自己承擔了超出自己能力範圍的事情但最終還是失敗的故事。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/who_me/</guid>
       <pubDate>Mon, 13 Jan 2025 08:31:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[面對龐大的許可證成本增加，提供者和客戶都樂於將遷移作為一項任務 獨家  Broadcom 又失去了其VMware 平台的另一位大客戶：奧地利雲端供應商Anexia 已將 12,000 台虛擬機器（其中一些由歐洲主要企業租用）遷移到基於 KVM 虛擬機器管理程式的開源系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/</guid>
       <pubDate>Mon, 13 Jan 2025 07:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲因違反 GDPR 資料保護規則向博彩者罰款 400 歐元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</link>
-      <description><![CDATA[另外：資料經紀人的外洩揭示了資訊交易的程度；熱門的新勒索軟體團夥可能全是人工智慧，不會叫喊；等等 資安簡訊  Gravy Analytics 是一家為行銷人員提供位置情報資訊的供應商，去年因涉嫌非法出售位置資訊與美國當局達成和解，據報道，遭到駭客攻擊－可能會暴露數百萬智慧型手機用戶的資訊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/data_broker_hacked/</guid>
-      <pubDate>Mon, 13 Jan 2025 05:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
