@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 14 Jan 2025 21:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 22:36:25 GMT</lastBuildDate>
     <item>
-      <title>在一片炒作聲中，微軟重組了整個人工智慧開發團隊</title>
+      <title>ChatGPT 新增排程任務功能，更像 Siri</title>
+      <link>https://arstechnica.com/ai/2025/01/chatgpt-becomes-more-siri-like-with-new-scheduled-tasks-feature/</link>
+      <description><![CDATA[兩個截然不同的人工智慧工具領域正在融合。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/chatgpt-becomes-more-siri-like-with-new-scheduled-tasks-feature/</guid>
+      <pubDate>Tue, 14 Jan 2025 22:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一片炒作聲中，微軟重組了整個 AI 開發團隊</title>
       <link>https://arstechnica.com/gadgets/2025/01/amid-a-flurry-of-hype-microsoft-reorganizes-entire-dev-team-around-ai/</link>
       <description><![CDATA[Shift 確保微軟的大部分開發資源將集中在人工智慧上。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/amid-a-flurry-of-hype-microsoft-reorganizes-entire-dev-team-around-ai/</guid>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 14 Jan 2025 20:05:52 GMT</pubDate>
     </item>
     <item>
-      <title>Razer 假冒「N95」Zephyr 口罩的買家獲得超過 100 萬美元的退款</title>
+      <title>Razer 假冒「N95」Zephyr 面具的購買者獲得超過 100 萬美元的退款</title>
       <link>https://arstechnica.com/tech-policy/2025/01/razer-sold-bogus-n95-mask-for-100-in-2021-users-finally-get-refunds/</link>
       <description><![CDATA[由於 Razer 與 FTC 達成和解，總共向 6,764 名消費者發放了 100 萬美元。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/razer-sold-bogus-n95-mask-for-100-in-2021-users-finally-get-refunds/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>禁止中國車聯網軟體已近在眼前</title>
       <link>https://arstechnica.com/cars/2025/01/bidens-ban-on-chinese-and-russian-car-software-moves-ahead/</link>
-      <description><![CDATA[有一些豁免，但是該規則將阻止從 MY2027 開始的進口。]]></description>
+      <description><![CDATA[有一些豁免，但該規則將阻止 2027 年起的進口。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/bidens-ban-on-chinese-and-russian-car-software-moves-ahead/</guid>
       <pubDate>Tue, 14 Jan 2025 19:09:56 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在第三次進入軌道期間，佩蒂特表現得非常出色。]]></description>
       <guid>https://arstechnica.com/space/2025/01/a-nasa-astronaut-may-have-just-taken-the-best-photo-from-space-ever/</guid>
       <pubDate>Tue, 14 Jan 2025 15:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜必須先解決幻覺問題，才能推出支援人工智慧的 Alexa</title>
-      <link>https://arstechnica.com/ai/2025/01/amazon-must-solve-hallucination-problem-before-launching-ai-enabled-alexa/</link>
-      <description><![CDATA[升級版語音助理的推出受到延遲。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/amazon-must-solve-hallucination-problem-before-launching-ai-enabled-alexa/</guid>
-      <pubDate>Tue, 14 Jan 2025 14:18:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
