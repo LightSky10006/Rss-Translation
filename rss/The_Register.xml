@@ -3,19 +3,26 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 07:34:47 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 14 Jan 2025 08:40:05 GMT</lastBuildDate>
+    <item>
+      <title>歐洲希望川普勝過拜登的計劃，讓美國扮演人工智慧守門人的角色</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</link>
+      <description><![CDATA[出口管制將限制GPU 向歐盟大部分地區的出貨量 歐盟委員會對拜登政府計劃將AI 晶片和模型的出口管制擴大到全球大部分地區的計劃感到不滿。 …&lt;/對]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/ec_biden_ai_order_concerns/</guid>
+      <pubDate>Tue, 14 Jan 2025 08:14:12 GMT</pubDate>
+    </item>
     <item>
       <title>綠巨人粉碎馬斯克和祖克柏！演員馬克魯法洛和非億萬富翁朋友支持 Bluesky 的網路技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/</link>
-      <description><![CDATA[Free Our Feeds 募集資金以促進為去中心化社交媒體提供支持的AT 協議 為了向億萬富翁控制的社交媒體平台發起挑戰，一群由九位不太富裕的技術由領袖組成的團體成立了一個旨在籌集 3000 萬美元支持去中心化社交媒體平台的發展…]]></description>
+      <description><![CDATA[Free Our Feeds 募集資金，以培育為去中心化社交媒體提供動力的AT 協議 為了向億萬富翁控制的社交媒體平台發起挑戰，一群九名不太富裕的技術領導者組成了一個團體，旨在籌集 3000 萬美元用於支持去中心化社交媒體平台的開發。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/</guid>
       <pubDate>Tue, 14 Jan 2025 07:24:09 GMT</pubDate>
     </item>
     <item>
       <title>英特爾資料中心架構主管及至強負責人跳槽至高通</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/intel_xeon_lead_qualcommm_move/</link>
-      <description><![CDATA[Sailesh Kottapalli 在 Snapdragon 公司看到了「職業生涯一次的機會」——也許是伺服器 CPU 或 AI 晶片？  英特爾研究員 Sailesh Kottapalli，一位在 Chipzilla 工作了 28 年的老員工身為許多至強伺服器處理器的首席工程師，已離開公司並加入高通。 ... ]]></description>
+      <description><![CDATA[Sailesh Kottapalli 在驍龍公司看到了「千載難逢的機會」——也許是伺服器CPU 或AI 晶片？曾在擔任多款Xeon 伺服器處理器的首席工程師，已離開公司並加入高通。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/intel_xeon_lead_qualcommm_move/</guid>
       <pubDate>Tue, 14 Jan 2025 07:06:13 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>WordPress 領導者 Matt Mullenweg 放逐了五位貢獻者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</link>
-      <description><![CDATA[WordPress.org 帳戶被取消，持不同政見者被告知分叉 WordPress 聯合創始人Matthew Mullenweg 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯解：將鼓勵他們分叉開源內容管理系統。]]></description>
+      <description><![CDATA[WordPress.org 帳戶被取消，異議人士被要求分叉 WordPress 聯合創始人馬修·穆倫維格(Matthew Mullenweg) 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯護說，將鼓勵他們分叉開源內容管理系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</guid>
       <pubDate>Tue, 14 Jan 2025 02:36:11 GMT</pubDate>
     </item>
     <item>
       <title>惡意攻擊者「大規模利用」了 Fortinet 防火牆，極有可能使用了零時差漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</link>
-      <description><![CDATA[北極狼威脅獵人告訴El Reg，勒索軟體「並非不可能」 針對Fortinet 防火牆開展「大規模利用活動」的不法分子可能正在使用未修補的零日漏洞，該活動在12 月達到頂峰據安全研究人員稱，他們觀察到了這些入侵行為，這些漏洞可能會損害設備。]]></description>
+      <description><![CDATA[Arctic Wolf 威脅獵人告訴 El Reg，勒索軟體「並非不可能」 針對 Fortinet 防火牆進行「大規模攻擊活動」的不法分子可能正在使用未修補的零日漏洞安全研究人員表示，他們已經觀察到了這些入侵行為，並表示這些漏洞可能會危害設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</guid>
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>在推動 AI 代理方面，微軟重組以創建“CoreAI - 平台和工具”團隊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_corea_team_reorg/</link>
-      <description><![CDATA[納德拉表示，30 年的變革將在3 年內發生…我們確實感受到了時間的壓縮 微軟透露，它已經成立了一支工程團隊，執行長薩蒂亞·納德拉認為這是應對人工智慧可能會為軟體開發流程和應用程式帶來巨大變化。 -&gt;]]></description>
+      <description><![CDATA[納德小伙子說3 年的變化發生在3 年內......我們確實感受到了時間的壓縮 微軟透露，它已經創建了一個工程團隊，首席執行官薩蒂亞·納德拉(Satya Nadella) 認為需要應對這個團隊的壓力人工智慧為軟體開發流程和應用程式帶來了潛在的巨大變化… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/microsoft_corea_team_reorg/</guid>
       <pubDate>Mon, 13 Jan 2025 23:43:07 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>CoreWeave 在英國資料中心投入 10 億英鎊——但不要指望 Nvidia 的最新魔力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</link>
-      <description><![CDATA[Rent-a-GPU 機構的最新資料中心擠滿了 H200 隨著英國政府重申其成為 AI 超級大國的願望，CoreWeave 表示兩個新的 GPU 比特倉擠滿了Nvidia加速器已準備好投入使用。]]></description>
+      <description><![CDATA[Rent-a-GPU 租賃公司的最新資料中心擠滿了H200 隨著英國政府重申其成為AI 超級大國的願望，CoreWeave 表示，兩個新的GPU 位元倉庫擠滿了Nvidia 加速器已準備好投入使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</guid>
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
     </item>
@@ -90,16 +97,16 @@
       <pubDate>Mon, 13 Jan 2025 16:47:22 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔指控牧師的神聖「夢想」加密計劃</title>
+      <title>牧師的神聖「夢想」加密計畫被山姆大叔起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</link>
-      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的信徒因加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
+      <description><![CDATA[另外：男子將價值數百萬的比特幣硬碟丟進垃圾場，被禁止挖礦 一位虔誠的人因一項加密貨幣投資業務而被山姆大叔的檢察官判處有期徒刑，他聲稱這項業務是他夢想。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/crypto_pastor_charged/</guid>
       <pubDate>Mon, 13 Jan 2025 15:45:05 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 反擊拜登「扼殺創新」的 AI 晶片出口限制</title>
+      <title>英偉達反擊拜登「扼殺創新」的人工智慧晶片出口限制</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</link>
-      <description><![CDATA[「新規則可能會浪費美國來之不易的技術優勢」 GPU 巨頭表示 Nvidia 對即將離任的拜登政府的AI 晶片技術出口限制進行了反擊，這些限制旨在加強美國對供應鏈的控制並維持市場主導地位…]]></description>
+      <description><![CDATA[GPU 霸主表示，「新規定可能會浪費美國來之不易的技術優勢」 英偉達對即將離任的拜登政府的人工智慧晶片技術出口限制進行了反擊，該限制旨在加強美國對供應鏈的束縛並維持市場主導地位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nvidia_us_ai_chips/</guid>
       <pubDate>Mon, 13 Jan 2025 15:02:08 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 13 Jan 2025 13:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國公佈計畫將人工智慧引入國民血液</title>
+      <title>英國公佈計劃，將人工智慧引入國民血液</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</link>
       <description><![CDATA[政府採納了創投家的全部50 項建議，但資料中心能源難題仍未解決 英國政府採納了創投家提出的全部50 項建議，以利用人工智慧推動經濟復甦，但甚至沒有意識到由此帶來的能源挑戰這一策略很可能構成威脅。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_government_ai_plans/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>藍色起源放棄新格倫火箭發射計劃，發射窗口已過 2 小時</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</link>
-      <description><![CDATA[火箭子系統問題導致發射失敗 藍色起源公司已放棄今天發射新格倫火箭的計劃，並確認火箭在發射窗口期剛過兩個多小時就停止了發射… ]]></description>
+      <description><![CDATA[運載器子系統問題導致火箭發射失敗 更新  藍色起源公司已放棄今天新格倫火箭的發射嘗試，並確認將再推遲一段時間距離火箭發射窗口結束不到兩小時…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/blue_origin_gives_up_on/</guid>
       <pubDate>Mon, 13 Jan 2025 12:04:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您認為自己很擅長發現趨勢嗎？試試這些尺寸 觀點  本專欄在發表兩天後可能會過期。屆時，美國最高法院將決定憲法賦予的言論自由權是否凌駕於許多南部州制定的反網路色情法之上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/smut_meta_opinion/</guid>
       <pubDate>Mon, 13 Jan 2025 11:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nominet 調查與 Ivanti 零日漏洞相關的網路入侵</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</link>
-      <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家 英國網域註冊商Nominet 正在調查與最新的Ivanti 零日漏洞有關的潛在網路入侵行為。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
-      <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
