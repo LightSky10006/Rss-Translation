@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 07:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 07:34:47 GMT</lastBuildDate>
     <item>
-      <title>英特爾至強伺服器 CPU 首席工程師跳槽至高通</title>
+      <title>綠巨人粉碎馬斯克和祖克柏！演員馬克魯法洛和非億萬富翁朋友支持 Bluesky 的網路技術</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/</link>
+      <description><![CDATA[Free Our Feeds 募集資金以促進為去中心化社交媒體提供支持的AT 協議 為了向億萬富翁控制的社交媒體平台發起挑戰，一群由九位不太富裕的技術由領袖組成的團體成立了一個旨在籌集 3000 萬美元支持去中心化社交媒體平台的發展…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/free_our_feeds_decentralized_social_media/</guid>
+      <pubDate>Tue, 14 Jan 2025 07:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特爾資料中心架構主管及至強負責人跳槽至高通</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/intel_xeon_lead_qualcommm_move/</link>
-      <description><![CDATA[Sailesh Kottapalli 在驍龍公司看到了「千載難逢的機會」——也許是伺服器CPU 或AI 晶片？曾在擔任多款Xeon 伺服器處理器的首席工程師，已離開公司並加入高通。 … ]]></description>
+      <description><![CDATA[Sailesh Kottapalli 在 Snapdragon 公司看到了「職業生涯一次的機會」——也許是伺服器 CPU 或 AI 晶片？  英特爾研究員 Sailesh Kottapalli，一位在 Chipzilla 工作了 28 年的老員工身為許多至強伺服器處理器的首席工程師，已離開公司並加入高通。 ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/intel_xeon_lead_qualcommm_move/</guid>
       <pubDate>Tue, 14 Jan 2025 07:06:13 GMT</pubDate>
     </item>
@@ -22,14 +29,14 @@
     <item>
       <title>WordPress 領導者 Matt Mullenweg 放逐了五位貢獻者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</link>
-      <description><![CDATA[WordPress.org 帳戶被取消，異議人士被要求分叉 WordPress 聯合創始人馬修·穆倫維格(Matthew Mullenweg) 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯護說，將鼓勵他們分叉開源內容管理系統。]]></description>
+      <description><![CDATA[WordPress.org 帳戶被取消，持不同政見者被告知分叉 WordPress 聯合創始人Matthew Mullenweg 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯解：將鼓勵他們分叉開源內容管理系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</guid>
       <pubDate>Tue, 14 Jan 2025 02:36:11 GMT</pubDate>
     </item>
     <item>
       <title>惡意攻擊者「大規模利用」了 Fortinet 防火牆，極有可能使用了零時差漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</link>
-      <description><![CDATA[Arctic Wolf 威脅獵人告訴 El Reg，勒索軟體「並非不可能」 針對 Fortinet 防火牆進行「大規模攻擊活動」的不法分子可能正在使用未修補的零日漏洞安全研究人員表示，他們已經觀察到了這些入侵行為，並表示這些漏洞可能會危害設備。]]></description>
+      <description><![CDATA[北極狼威脅獵人告訴El Reg，勒索軟體「並非不可能」 針對Fortinet 防火牆開展「大規模利用活動」的不法分子可能正在使用未修補的零日漏洞，該活動在12 月達到頂峰據安全研究人員稱，他們觀察到了這些入侵行為，這些漏洞可能會損害設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/miscreants_mass_exploited_fortinet_firewalls/</guid>
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>CoreWeave 在英國資料中心投入 10 億英鎊——但不要指望 Nvidia 的最新魔力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</link>
-      <description><![CDATA[Rent-a-GPU 租賃公司的最新資料中心擠滿了H200 隨著英國政府重申其成為AI 超級大國的願望，CoreWeave 表示，兩個新的GPU 位元倉庫擠滿了Nvidia 加速器已準備好投入使用。]]></description>
+      <description><![CDATA[Rent-a-GPU 機構的最新資料中心擠滿了 H200 隨著英國政府重申其成為 AI 超級大國的願望，CoreWeave 表示兩個新的 GPU 比特倉擠滿了Nvidia加速器已準備好投入使用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/coreweave_datacenter_uk/</guid>
       <pubDate>Mon, 13 Jan 2025 20:30:12 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>勒索軟體團隊濫用 AWS 原生加密，將資料銷毀計時器設定為 7 天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</link>
-      <description><![CDATA[「Codefinger」 犯罪者正在尋找被盜金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端運算巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C) 來鎖定受害者的數據，然後要求支付解密所需的對稱 AES-256 金鑰的贖金。]]></description>
+      <description><![CDATA[「Codefinger」犯罪分子正在尋找受損金鑰 一個名為Codefinger 的新勒索軟體團隊以AWS S3 儲存桶為目標，並使用雲端巨頭自己的伺服器端加密和客戶提供的金鑰(SSE-C)在要求為解密所需的對稱 AES-256 金鑰支付贖金之前鎖定受害者的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/</guid>
       <pubDate>Mon, 13 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[偵測到未經授權的活動，但未發現後門 獨家 英國網域註冊商Nominet 正在調查與最新的Ivanti 零日漏洞有關的潛在網路入侵行為。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/nominet_ivanti_zero_day/</guid>
       <pubDate>Mon, 13 Jan 2025 10:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國準備拋棄大型資料中心的規劃規則</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</link>
-      <description><![CDATA[國家重大基礎設施項目的指定可能會打破更多限制 英國的規劃體系仍然被視為資料中心發展的重大障礙。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/13/uk_datacenter_planning_rules/</guid>
-      <pubDate>Mon, 13 Jan 2025 09:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
