@@ -3,12 +3,19 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 14 Jan 2025 11:35:12 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 14 Jan 2025 12:23:00 GMT</lastBuildDate>
+    <item>
+      <title>如何在線繳稅</title>
+      <link>https://www.wired.com/story/how-to-pay-taxes-online/</link>
+      <description><![CDATA[在線繳納美國聯邦稅和州稅可能會令人困惑，一個錯誤的舉動可能會導致罰款或額外的欠款。我們將其分解開來，以便您可以盡可能無憂地進行納稅申報。]]></description>
+      <guid>https://www.wired.com/story/how-to-pay-taxes-online/</guid>
+      <pubDate>Tue, 14 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GPS 容易受到攻擊。磁導航可以提供協助</title>
       <link>https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/</link>
-      <description><![CDATA[來自全球導航衛星系統的訊號可能會受到干擾和欺騙，因此Google的一家子公司正在開發一種利用地球磁場的替代定位和導航系統。]]></description>
+      <description><![CDATA[全球導航衛星系統的訊號可能會受到干擾和欺騙，因此Google分拆出來的公司正在研發一種利用地球磁場的替代定位和導航系統。]]></description>
       <guid>https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/</guid>
       <pubDate>Tue, 14 Jan 2025 11:30:00 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>VistaPrint 優惠券：消費滿 $100 可享 $20 專屬折扣</title>
       <link>https://www.wired.com/story/vistaprint-coupon-code/</link>
-      <description><![CDATA[從個人化禮品到商務必需品，《連線》可以透過我們精選的 VistaPrint 促銷代碼幫助您節省開支。]]></description>
+      <description><![CDATA[從個人化禮品到商業必需品，WIRED 可以透過我們精選的 VistaPrint 促銷代碼幫助您節省開支。]]></description>
       <guid>https://www.wired.com/story/vistaprint-coupon-code/</guid>
       <pubDate>Tue, 14 Jan 2025 07:53:00 GMT</pubDate>
     </item>
     <item>
       <title>AirDoctor 優惠券代碼：空氣清淨機 25% 折扣</title>
       <link>https://www.wired.com/story/airdoctor-coupon-code/</link>
-      <description><![CDATA[迎接新年，AirDoctor 將為您帶來大額優惠，使用我們的促銷代碼可享 25% 的折扣。]]></description>
+      <description><![CDATA[進入新的一年，AirDoctor 將為您帶來巨額優惠，其中包括使用我們的促銷代碼可享 25% 的折扣。]]></description>
       <guid>https://www.wired.com/story/airdoctor-coupon-code/</guid>
       <pubDate>Tue, 14 Jan 2025 07:49:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>法官結束了一名男子透過挖掘垃圾掩埋場來追回 7.65 億美元比特幣的 11 年歷程</title>
       <link>https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/</link>
-      <description><![CDATA[英國一名法官對詹姆斯·豪威爾斯 (James Howells) 做出了敗訴判決，豪威爾斯十多年來一直試圖從垃圾掩埋場找回一個存有加密貨幣財富私鑰的硬碟。]]></description>
+      <description><![CDATA[一位英國法官做出了不利於詹姆斯·豪厄爾斯的裁決，十多年來，他一直試圖從垃圾掩埋場中取出一個帶有加密貨幣財富私鑰的硬碟。]]></description>
       <guid>https://www.wired.com/story/bitcoin-landfill-excavation-james-howells-judge-ruling/</guid>
       <pubDate>Mon, 13 Jan 2025 20:25:06 GMT</pubDate>
     </item>
@@ -104,6 +111,13 @@
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>奧澤姆皮克國王害怕極了</title>
+      <link>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</link>
+      <description><![CDATA[諾和諾德如今已成為全球減重巨頭，它是否要背叛它的第一批患者－1型糖尿病患者？]]></description>
+      <guid>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>金錢金錢問題</title>
       <link>https://www.wired.com/money-issue/</link>
       <description><![CDATA[《連線》雜誌派出記者走遍各地尋找誰控制著世界財富。他們發現了什麼？男人。從川普、馬斯克和普丁到執行長、加密貨幣專家和太陽能兄弟，都見識過控制錢袋的父權制。]]></description>
@@ -111,10 +125,10 @@
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>奧茲姆皮克國王嚇得要命</title>
-      <link>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</link>
-      <description><![CDATA[諾和諾德如今已成為全球減重巨頭，它是否要背叛它的第一批患者－1型糖尿病患者？]]></description>
-      <guid>https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/</guid>
+      <title>人工智慧財務顧問瞄準月光族年輕人</title>
+      <link>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</link>
+      <description><![CDATA[人工智慧金融應用程式正在透過個人化的聊天機器人向 Z 世代和千禧世代用戶提供理財建議，並大力推銷他們。]]></description>
+      <guid>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -125,23 +139,9 @@
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>太陽能板銷售員的驚人倦怠</title>
-      <link>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</link>
-      <description><![CDATA[他認為挨家挨戶銷售太陽能板可以賺數百萬美元。現實要黑暗得多。]]></description>
-      <guid>https://www.wired.com/story/spectacular-burnout-solar-panel-salesman/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧財務顧問瞄準月光族年輕人</title>
-      <link>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</link>
-      <description><![CDATA[人工智慧金融應用程式正在透過個人化的聊天機器人吸引 Z 世代和千禧世代用戶，這些機器人可以提供理財建議，並大量向他們追加銷售。]]></description>
-      <guid>https://www.wired.com/story/ai-financial-advisers-apps-chatbots/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有錢人統治世界</title>
+      <title>富人統治世界</title>
       <link>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</link>
-      <description><![CDATA[世界上絕大多數財富的持有者？男人。這麼多男人——從川普、馬斯克和普丁到每一位執行長、加密貨幣專家和太陽能專家。]]></description>
+      <description><![CDATA[世界上絕大多數財富的持有者？男人。這麼多人——從川普、馬斯克、普丁到每一位執行長、加密貨幣傻瓜和太陽能兄弟。]]></description>
       <guid>https://www.wired.com/story/editor-letter-rich-men-rule-the-world/</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
