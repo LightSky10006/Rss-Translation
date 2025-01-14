@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 14 Jan 2025 14:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 15:12:45 GMT</lastBuildDate>
     <item>
       <title>微軟做出不正當調整後，英特爾和 AMD 工程師急於挽救 Linux 6.13</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/microsoft_linux_change_pulled/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Snyk 似乎出於未知原因部署了針對 Cursor 的「惡意」軟體包</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/snyk_npm_deployment_removed/</link>
-      <description><![CDATA[軟體包被刪除，供應商據稱已向AI 代碼編輯器道歉，旁觀者稱這可能是一次測試 開發安全公司Snyk 正處於有關可能針對或測試Cursor 的指控的中心，一家 AI 程式碼編輯器公司，使用上傳到 NPM 的「惡意」軟體包…]]></description>
+      <description><![CDATA[軟體包被刪除，供應商據稱已向AI 程式碼編輯器道歉，旁觀者稱這可能是一次測試 更新 開發者安全公司Snyk 正處於有關指控的焦點可能使用上傳到 NPM 的「惡意」軟體包來針對或測試 AI 程式碼編輯器公司 Cursor…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/snyk_npm_deployment_removed/</guid>
       <pubDate>Tue, 14 Jan 2025 13:13:06 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 14 Jan 2025 11:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國對公共部門實施勒索軟體支付禁令</title>
+      <title>英國推出公共部門勒索軟體支付禁令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</link>
       <description><![CDATA[更強有力的提案也可能讓私部門申請支付「許可證」 在英國政府就如何應對這一趨勢展開磋商後，公共部門可能全面禁止勒索軟體支付犯罪分子鎖定整個系統並由納稅人買單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/uk_ransomware_payout_ban/</guid>
@@ -78,12 +78,12 @@
     <item>
       <title>Sonos 智慧音箱應用程式升級遭遇挫折，CEO 辭職</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</link>
-      <description><![CDATA[董事會任命臨時領導人，以跟​​上公司扭虧為盈的步伐，兩位高管都聽到了現金入賬的甜蜜聲音 智能音箱公司Sonos 與首席執行官Patrick Spence 分道揚鑣，後者曾負責發布該應用程式被宣傳為升級，但實際上卻使公司的產品變得更糟並激怒了客戶。]]></description>
+      <description><![CDATA[董事會任命臨時領導者以與其扭虧為盈之歌保持一致，兩位高管都聽到了現金登陸銀行的甜美聲音 智能音箱公司Sonos 已與負責監督發布的首席執行官帕特里克·斯賓塞(Patrick Spence) 分道揚鑣一款被宣傳為升級版的應用程序，結果卻使公司的產品變得更糟並激怒了客戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/sonos_ceo_steps_down/</guid>
       <pubDate>Tue, 14 Jan 2025 06:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 領導者 Matt Mullenweg 驅逐了五名貢獻者</title>
+      <title>WordPress 領導者 Matt Mullenweg 放逐了五位貢獻者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</link>
       <description><![CDATA[WordPress.org 帳戶被取消，異議人士被要求分叉 WordPress 聯合創始人馬修·穆倫維格(Matthew Mullenweg) 於週六停用了WordPress 社區五名成員的WordPress.org 帳戶，並為自己的行為辯護說，將鼓勵他們分叉開源內容管理系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/wordpress_leader_matthew_mullenweg_exiles/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 14 Jan 2025 01:43:10 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 可能已獲得 Elon Musk 的 X 10 億美元 AI 伺服器訂單</title>
+      <title>HPE 可能已從 Elon Musk 的 X 公司獲得 10 億美元的 AI 伺服器訂單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</link>
       <description><![CDATA[這就是Cray cray 據報道，惠普企業已獲得一份合同，為伊隆馬斯克的X（即眾所周知的Twitter 網站）提供價值超過10 億美元的人工智能加速伺服器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/hpe_x_ai/</guid>
