@@ -4,18 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:10:58 GMT</lastBuildDate>
+    <item>
+      <title>新創公司死靈術：失效的 Google Apps 網域可能會被新所有者破壞</title>
+      <link>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</link>
+      <description><![CDATA[不正確地關閉 Google Apps 網域可能會使登入可存取。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:51:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>德克薩斯州向最高法院辯護要求觀看色情片需出示身份證：“我們一直都是這麼做的”</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</link>
+      <description><![CDATA[專家稱，最高法院可能會裁定德州對色情內容的年齡限制違憲。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>《夜魔俠：重生》預告片現已發布</title>
       <link>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</link>
-      <description><![CDATA[「這座城市不能不受控制。有時和平需要被打破。混亂必須佔據主導地位。”]]></description>
+      <description><![CDATA[「這座城市不能不受控制。有時和平需要被打破。混亂必須盛行。”]]></description>
       <guid>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</guid>
       <pubDate>Wed, 15 Jan 2025 17:23:08 GMT</pubDate>
     </item>
     <item>
       <title>開發完全可重複使用火箭的公司籌集了 2.5 億美元</title>
       <link>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</link>
-      <description><![CDATA[“與五年前相比，這次與投資者的對話截然不同。”]]></description>
+      <description><![CDATA[“與投資者的對話與五年前相比有很大不同。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</guid>
       <pubDate>Wed, 15 Jan 2025 16:54:46 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>輪胎模擬效果非常好，可以取代真實世界的測試</title>
       <link>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</link>
-      <description><![CDATA[現在，它可以在製作實體測試輪胎之前在動態模擬中嘗試新輪胎。]]></description>
+      <description><![CDATA[現在，它可以在製作實體測試輪胎之前在動態模擬中試用新輪胎。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</guid>
       <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Wed, 15 Jan 2025 16:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>人類在宇宙中是孤獨的嗎？科學家的真實想法。</title>
+      <title>人類在宇宙中是孤獨的嗎？科學家們真正的想法。</title>
       <link>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</link>
       <description><![CDATA[這是科學家的推測嗎？]]></description>
       <guid>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</guid>
       <pubDate>Wed, 15 Jan 2025 15:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>昨晚地球與月球和火星發生了直線碰撞</title>
-      <link>https://arstechnica.com/space/2025/01/there-was-a-straight-shot-from-earth-to-the-moon-and-mars-last-night/</link>
-      <description><![CDATA[即使在距離地球最近的地方，火星也比月球遠 250 倍。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/there-was-a-straight-shot-from-earth-to-the-moon-and-mars-last-night/</guid>
-      <pubDate>Tue, 14 Jan 2025 23:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國聯邦調查局強制中國惡意軟體從數千台美國電腦中刪除</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</link>
-      <description><![CDATA[被徵用的伺服器向受感染電腦上的惡意軟體發送自我刪除命令。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:51:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
