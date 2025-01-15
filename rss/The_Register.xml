@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 15 Jan 2025 11:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:22:57 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 發射兩台月球登陸器奔向月球</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/</link>
+      <description><![CDATA[藍色幽靈的首次發射，也是日本公司ispace 的第二次幸運？著陸器。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/</guid>
+      <pubDate>Wed, 15 Jan 2025 11:44:53 GMT</pubDate>
+    </item>
     <item>
       <title>英國法庭的訴訟旨在對蘋果在應用商店收費問題上採取報復措施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>FBI 從美國數千台 Windows PC 清除了中國 PlugX 惡意軟體</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</link>
-      <description><![CDATA[嘿，習近平：再見！被中國政府支持的犯罪分子感染根據最新公佈的法庭文件顯示…]]></description>
+      <description><![CDATA[嘿，Xi：Zài jiàn！惡意軟體，根據新近公開的法庭文件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</guid>
       <pubDate>Tue, 14 Jan 2025 19:40:54 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>價格操縱即服務：針對醫療成本控制者 MultiPlan 的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/multiplan_legal_action/</link>
-      <description><![CDATA[律師Jennifer Scullion 談到演算法抑制競爭的指控 訪談  價格操縱（競爭對手之間達成的價格水平協議）自1999 年以來一直違反美國《謝爾曼反壟斷法》。]]></description>
+      <description><![CDATA[Jennifer Scullion 律師就演算法抑制競爭的指控 訪談 定價（競爭對手之間確定價格水準的協議）自此以來根據美國謝爾曼反壟斷法一直是非法的1890....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/multiplan_legal_action/</guid>
       <pubDate>Tue, 14 Jan 2025 18:30:08 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>開源霸主甲骨文宣布退出，帶走巨額股份</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/oracle_chief_corporate_architect_retires/</link>
-      <description><![CDATA[自Sun 合併以來，擁有38 年經驗的資深人士Edward Screven 領導了技術和架構決策 Oracle 任職時間最長的高級團隊成員之一、首席企業架構師Edward Screven 已宣布計劃以豐厚的收入退休。]]></description>
+      <description><![CDATA[擁有38 年經驗的Edward Screven 自Sun 合併以來一直領導技術和架構決策 Oracle 任職時間最長的高級團隊成員之一、首席企業架構師Edward Screven 已宣布計劃以一筆豐厚的退休金退休。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/oracle_chief_corporate_architect_retires/</guid>
       <pubDate>Tue, 14 Jan 2025 16:45:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[軟體包被刪除，供應商據稱已向AI 程式碼編輯器道歉，旁觀者稱這可能是一次測試 更新 開發者安全公司Snyk 正處於有關指控的焦點可能使用上傳到 NPM 的「惡意」軟體包來針對或測試 AI 程式碼編輯器公司 Cursor…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/snyk_npm_deployment_removed/</guid>
       <pubDate>Tue, 14 Jan 2025 13:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>提姆在蘋果的薪資上漲 18% 至 7,460 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</link>
-      <description><![CDATA[他可以用這筆錢買49,766 台半MacBook Pro 根據監管文件顯示，蘋果掌門人蒂姆·庫克(Tim Cook) 在2024 年的薪酬增長了18%，使他的總薪酬達到7,460 萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/tim_cook_apple_salary/</guid>
-      <pubDate>Tue, 14 Jan 2025 13:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
