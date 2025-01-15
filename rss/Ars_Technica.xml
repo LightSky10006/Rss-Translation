@@ -4,7 +4,63 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 Jan 2025 15:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 17:35:37 GMT</lastBuildDate>
+    <item>
+      <title>《夜魔俠：重生》預告片現已發布</title>
+      <link>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</link>
+      <description><![CDATA[「這座城市不能不受控制。有時和平需要被打破。混亂必須盛行。”]]></description>
+      <guid>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</guid>
+      <pubDate>Wed, 15 Jan 2025 17:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>開發完全可重複使用火箭的公司籌集了 2.5 億美元</title>
+      <link>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</link>
+      <description><![CDATA[“與五年前相比，這次與投資者的對話截然不同。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:54:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>此 PDF 包含可玩的 Doom 副本</title>
+      <link>https://arstechnica.com/gaming/2025/01/this-pdf-contains-a-playable-copy-of-doom/</link>
+      <description><![CDATA[Adobe Acrobat 很少使用的 JavaScript 支援在 Chromium 瀏覽器中被利用。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/this-pdf-contains-a-playable-copy-of-doom/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>輪胎模擬效果非常好，可以取代真實世界的測試</title>
+      <link>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</link>
+      <description><![CDATA[現在，它可以在製作實體測試輪胎之前在動態模擬中試用新輪胎。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEC 起訴伊隆馬斯克，稱他騙取 Twitter 投資者 1.5 億美元</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</link>
+      <description><![CDATA[SEC：延遲披露幫助馬斯克以 1.5 億美元的折扣購買了 Twitter 股票。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人員利用人工智慧設計阻斷蛇毒毒素的蛋白質</title>
+      <link>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</link>
+      <description><![CDATA[這是電腦發展如何應用於解決實際問題的一個很好的例子。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 讓我們更接近《星際爭霸戰》的通用翻譯器</title>
+      <link>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</link>
+      <description><![CDATA[從 100 種源語言翻譯語音背後的電腦科學。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</guid>
+      <pubDate>Wed, 15 Jan 2025 16:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人類在宇宙中是孤獨的嗎？科學家們真正的想法。</title>
+      <link>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</link>
+      <description><![CDATA[這是科學家的推測嗎？]]></description>
+      <guid>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</guid>
+      <pubDate>Wed, 15 Jan 2025 15:44:18 GMT</pubDate>
+    </item>
     <item>
       <title>昨晚地球與月球和火星發生了直線碰撞</title>
       <link>https://arstechnica.com/space/2025/01/there-was-a-straight-shot-from-earth-to-the-moon-and-mars-last-night/</link>
@@ -13,67 +69,11 @@
       <pubDate>Tue, 14 Jan 2025 23:21:11 GMT</pubDate>
     </item>
     <item>
-      <title>美國聯邦調查局強制中國惡意軟體從數千台美國電腦中刪除</title>
+      <title>FBI 強制中國惡意軟體從數千台美國電腦中移除自身</title>
       <link>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</link>
       <description><![CDATA[被徵用的伺服器向受感染電腦上的惡意軟體發送自我刪除命令。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</guid>
       <pubDate>Tue, 14 Jan 2025 22:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>執行長離職後，Sonos 也解雇了首席產品官</title>
-      <link>https://arstechnica.com/gadgets/2025/01/sonos-ousts-executive-blamed-for-rushing-botched-app-update/</link>
-      <description><![CDATA[Sonos 不會取代 Maxime Bouvat-Merlin 擔任「冗餘」職務。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/sonos-ousts-executive-blamed-for-rushing-botched-app-update/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>減肥藥製造商要求川普暫停價格談判：報道</title>
-      <link>https://arstechnica.com/health/2025/01/maker-of-weight-loss-drugs-to-ask-trump-to-pause-price-negotiations-report/</link>
-      <description><![CDATA[下一步談判的 15 種藥物即將公佈，其中可能包括 GLP-1。]]></description>
-      <guid>https://arstechnica.com/health/2025/01/maker-of-weight-loss-drugs-to-ask-trump-to-pause-price-negotiations-report/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 新增排程任務功能，更像 Siri</title>
-      <link>https://arstechnica.com/ai/2025/01/chatgpt-becomes-more-siri-like-with-new-scheduled-tasks-feature/</link>
-      <description><![CDATA[兩個截然不同的人工智慧工具領域正在融合。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/chatgpt-becomes-more-siri-like-with-new-scheduled-tasks-feature/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一片炒作聲中，微軟重組了整個人工智慧開發團隊</title>
-      <link>https://arstechnica.com/gadgets/2025/01/amid-a-flurry-of-hype-microsoft-reorganizes-entire-dev-team-around-ai/</link>
-      <description><![CDATA[Shift 確保微軟的大部分開發資源將集中在人工智慧上。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/amid-a-flurry-of-hype-microsoft-reorganizes-entire-dev-team-around-ai/</guid>
-      <pubDate>Tue, 14 Jan 2025 21:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 將裁掉 5% 不適合祖克柏 AI 未來的員工</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/meta-says-5-staff-cut-is-critical-to-further-ai-social-media/</link>
-      <description><![CDATA[Meta 計劃引進頂尖人才來填補職位空缺，以實現其在 AI 和 AR 方面的抱負。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/meta-says-5-staff-cut-is-critical-to-further-ai-social-media/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Razer 假冒「N95」Zephyr 口罩的買家獲得超過 100 萬美元的退款</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/razer-sold-bogus-n95-mask-for-100-in-2021-users-finally-get-refunds/</link>
-      <description><![CDATA[由於 Razer 與 FTC 達成和解，總共向 6,764 名消費者發放了 100 萬美元。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/razer-sold-bogus-n95-mask-for-100-in-2021-users-finally-get-refunds/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>對中國連網汽車軟體的禁令即將準備就緒</title>
-      <link>https://arstechnica.com/cars/2025/01/bidens-ban-on-chinese-and-russian-car-software-moves-ahead/</link>
-      <description><![CDATA[有一些豁免，但是該規則將阻止從 MY2027 開始的進口。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/bidens-ban-on-chinese-and-russian-car-software-moves-ahead/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>在《蟲蟲危機》第二季中近距離接觸鍬形蟲</title>
-      <link>https://arstechnica.com/science/2025/01/up-close-and-personal-with-the-stag-beetle-in-a-real-bugs-life-s2/</link>
-      <description><![CDATA[這只是國家地理紀錄片第二季中介紹的眾多迷人昆蟲物種之一。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/up-close-and-personal-with-the-stag-beetle-in-a-real-bugs-life-s2/</guid>
-      <pubDate>Tue, 14 Jan 2025 18:43:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
