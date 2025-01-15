@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 15 Jan 2025 17:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:17:08 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 計劃在 GTC 2025 上舉辦「量子日」——對於技術而言，它稱其為遙不可及的夢想</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/nvidia_quantum_day_gtc/</link>
+      <description><![CDATA[不相信炒作？ GPU 製造商無論如何都會加入這股潮流 一週前，Nvidia 執行長黃仁勳(Jensen Huang) 表示，這項技術距離實用還有20 年的時間，這大大降低了上市量子運算品牌的市場估值。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/nvidia_quantum_day_gtc/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 修補程式星期二遇到 Citrix 軟體問題，解決方法已發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/windows_patch_tuesday_citrix/</link>
@@ -34,9 +41,9 @@
       <pubDate>Wed, 15 Jan 2025 14:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧招聘代理 Megan 的加入，讓人力資源部門可以“減少重複性工作”</title>
+      <title>人工智慧招聘代理 Megan 上任，讓老闆不再需要招募人力資源人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</link>
-      <description><![CDATA[她不會感到憐憫、悔恨或恐懼，但她會撰寫一封禮貌的電子郵件 採訪  總部位於佛羅裡達州的人力資源新創公司 Mega HR，今天推出了一項名為Megan 的人工智慧代理服務，該公司聲稱該服務可以自動化大多數招聘和僱用任務，同時改善與求職者的溝通。]]></description>
+      <description><![CDATA[她不會感到憐憫、悔恨或恐懼，但她會在拒絕你時撰寫一封禮貌的電子郵件 面試  Mega HR，一家佛羅裡達州人力資源新創公司今天推出了一項名為Megan 的人工智慧代理服務，該公司聲稱該服務可以自動化大多數招聘和僱用任務，同時改善與求職者的溝通。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</guid>
       <pubDate>Wed, 15 Jan 2025 14:00:06 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 15 Jan 2025 11:44:53 GMT</pubDate>
     </item>
     <item>
-      <title>英國法庭的訴訟旨在對蘋果在應用商店收費問題上採取報復措施</title>
+      <title>英國法庭提出索賠，旨在透過應用程式商店收費問題對蘋果造成損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</link>
       <description><![CDATA[集體訴訟命令要求 iGiant 賠償 15 億英鎊 本週，英國競爭上訴法庭 (CAT) 審理了蘋果涉嫌違反競爭法的案件，開始了為期七週的法庭審理。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>英國企業將人工智慧視為比實際員工更便宜、更無怨言的替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</link>
-      <description><![CDATA[成本上升是罪魁禍首，儘管有任何藉口可以用更少的資源做更多的事情 根據新的研究，英國公司正在將人工智慧視為削減員工投資的一種方式。]]></description>
+      <description><![CDATA[儘管有任何藉口可以少花錢多辦事，但成本上升仍是罪魁禍首 根據最新研究，英國公司正在將人工智慧視為削減員工投資的一種方式。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</guid>
       <pubDate>Wed, 15 Jan 2025 10:16:06 GMT</pubDate>
     </item>
     <item>
       <title>表格資料的基礎模型將訓練時間從幾小時縮短至幾秒鐘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/foundation_model_tabular_data/</link>
-      <description><![CDATA[傳統電子表格資料可從「革命性」機器學習推理方法中獲益 超越ChatGPT 和DALL-E：電子表格資料正在獲得自己的基礎機器學習模型，讓使用者可以立即進行推理關於最多包含 10,000 行和 500 列的資料集的新資料點… ]]></description>
+      <description><![CDATA[優秀的電子表格資料可以受益於機器學習推理的「革命性」方法 超越ChatGPT 和DALL-E：電子表格資料正在獲得自己的基礎機器學習模型，允許使用者立即做出推理關於最多 10,000 行和 500 列的資料集的新資料點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/foundation_model_tabular_data/</guid>
       <pubDate>Wed, 15 Jan 2025 09:32:08 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>SEC 起訴伊隆馬斯克，指控其在收購 Twitter 前欺騙投資者 1.5 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/sec_musk_complaint/</link>
-      <description><![CDATA[Plus：SpaceX 火箭重返大氣層引發航班延誤 美國金融監管機構已起訴 Elon Musk，指控這位億萬富翁未能及時披露其收購Twitter 股票的情況，因此能夠收購社交網路的成本比其他情況少 1.5 億美元。]]></description>
+      <description><![CDATA[另外：SpaceX火箭重返大氣層引發航班延誤 美國金融監管機構起訴伊隆馬斯克，指控這位億萬富翁未能及時披露其收購推特股份的情況，因此能夠收購社群網路的收購價格比原本低了 1.5 億美元…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/sec_musk_complaint/</guid>
       <pubDate>Wed, 15 Jan 2025 02:21:11 GMT</pubDate>
     </item>
     <item>
       <title>微軟修復 Hyper-V 中受到攻擊的特權升級漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/patch_tuesday_january_2025/</link>
-      <description><![CDATA[另外：Excel 地獄、Adobe 粉絲的焦慮以及Cisco 的生活太Snort 星期二補丁 2025 年第一個補丁星期二，微軟解決了三個受到攻擊的特權問題- Hyper-V 管理程式中的升級缺陷，以及更多值得您關注的問題。 &gt;]]></description>
+      <description><![CDATA[另外：Excel 地獄、Adobe 粉絲的焦慮，以及思科的生活太過Snort 補丁星期二  2025 年的第一個補丁星期二，微軟解決了三個受到攻擊的特權-Hyper-V 虛擬機器管理程式中的升級缺陷，以及更多值得您關注的問題。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/patch_tuesday_january_2025/</guid>
       <pubDate>Wed, 15 Jan 2025 01:33:04 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[保險巨頭因未經同意使用監控來抬高保費、拒絕承保而被德克薩斯州起訴 德克薩斯州總檢察長肯·帕克斯頓週一對Allstate Corporation及其行動分析子公司Arity 提起訴訟，指控該公司美國保險巨頭與行動應用程式開發商合謀在未經同意的情況下收集數百萬駕駛員的遠端資訊處理數據，違反了消費者保護法。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/allstate_accused_of_paying_app/</guid>
       <pubDate>Tue, 14 Jan 2025 20:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI 從美國數千台 Windows PC 清除了中國 PlugX 惡意軟體</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</link>
-      <description><![CDATA[嘿，習近平：再見！被中國政府支持的犯罪分子感染根據最新公佈的法庭文件顯示…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/14/fbi_french_cops_boot_chinas/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:40:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
