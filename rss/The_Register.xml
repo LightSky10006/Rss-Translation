@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 06:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 07:34:28 GMT</lastBuildDate>
     <item>
-      <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
+      <title>印度成為第四個將衛星送上軌道的國家</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
+      <description><![CDATA[正當歐空局慶祝其太陽記錄儀分拆計畫之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</guid>
+      <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國將台積電涉嫌協助華為製造GPU的中國RISC-V廠商列入風險公司登記名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
       <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
@@ -29,28 +36,28 @@
     <item>
       <title>GoDaddy 因多年安全鬆懈和「多次重大違規」而受到嚴厲批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</link>
-      <description><![CDATA[Watchdog 聲稱其沒有SIEM 或MFA，命令快速採用基本資訊安全工具 據FTC 稱，自2018 年以來，GoDaddy 甚至未能透過基本資訊安全工具和實踐來保護其網站託管平台，但這家互聯網巨頭不會因其許多所謂的不作為行為而面臨任何直接後果。]]></description>
+      <description><![CDATA[監管機構指控其沒有SIEM 或MFA，要求其迅速採用基本的資訊安全工具 根據FTC 的說法，自2018 年以來，GoDaddy 甚至未能使用基本的資訊安全工具和實踐來保護其網站託管平台，但這家網路巨頭不會因其多項涉嫌不作為行為而面臨任何立即後果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</guid>
       <pubDate>Wed, 15 Jan 2025 23:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>DJI 放寬飛行限制，決定信任業者遵守 FAA 規則</title>
+      <title>大疆創新放寬飛行限制，決定信任業者遵守 FAA 規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</link>
       <description><![CDATA[就在其一架無人機撞上一架正在撲滅加州野火的飛機之後？時機很好 無人機製造商大疆已決定縮減其地理圍欄限制，這意味著其軟體不會自動阻止操作員飛入被標記為禁飛區的區域。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</guid>
       <pubDate>Wed, 15 Jan 2025 22:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>噢，迪爾！聯邦貿易委員會起訴拖拉機製造商，指控其數十年來壟斷維修業務</title>
+      <title>哦，迪爾！聯邦貿易委員會起訴拖拉機製造商，指控數十年的壟斷維修</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</link>
-      <description><![CDATA[即將上任的川普挑選的監管機構老闆提出異議，稱訴訟“倉促”且“極其輕率”，那麼它會堅持下去嗎？美國最高消費者監管機構已起訴拖拉機製造商約翰迪爾公司壟斷了其機械的技術維修服務，不過該訴訟是否能在即將到來的總統過渡期間倖存下來還有待觀察。 ...]]></description>
+      <description><![CDATA[川普挑選的即將上任的監管機構負責人表示反對，稱訴訟“草率”且“極其不謹慎”，那麼它會堅持下去嗎？ strong&gt;  美國最高消費者監管機構起訴拖拉機製造商約翰迪爾 (John Deere) 因壟斷機械技術維修服務而遭起訴，不過這場訴訟能否在即將到來的總統過渡期中繼續存在還有待觀察。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</guid>
       <pubDate>Wed, 15 Jan 2025 21:16:12 GMT</pubDate>
     </item>
     <item>
       <title>CISA 負責人稱，中國「鹽颱風」間諜在電信公司之前就已在美國政府網路上發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</link>
-      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，美國政府網絡中就曾發現北京的「鹽颱風」網路間諜活動老闆 Jen Easterly… ]]></description>
+      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，北京的「鹽颱風」網路間諜就已經出現在美國政府網路老闆 Jen Easterly… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</guid>
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 15 Jan 2025 19:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>即使是淡妝也會阻礙臉部辨識</title>
+      <title>即使是淡妝也會影響臉部識別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</link>
       <description><![CDATA[你可能不需要為了隱私而完全使用 Juggalo 網路防禦承包商 PeopleTec 的研究人員發現，臉部辨識演算法專注於臉部的特定區域，這為更微妙的監視規避策略。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>北韓去年僅 5 次竊盜就盜取了 6.59 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</link>
-      <description><![CDATA[美日韓誓言加強反擊 美日韓稱，光是 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。]]></description>
+      <description><![CDATA[美日韓誓言加大反擊力 美國、日本和韓國稱，僅在 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</guid>
       <pubDate>Wed, 15 Jan 2025 14:45:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[藍色幽靈的首次發射，也是日本公司ispace 的第二次幸運？著陸器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/</guid>
       <pubDate>Wed, 15 Jan 2025 11:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國法庭的訴訟旨在對蘋果在應用商店收費問題上採取報復措施</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</link>
-      <description><![CDATA[集體訴訟命令要求 iGiant 賠償 15 億英鎊 本週，英國競爭上訴法庭 (CAT) 審理了蘋果涉嫌違反競爭法的案件，開始了為期七週的法庭審理。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
