@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 07:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 08:39:27 GMT</lastBuildDate>
+    <item>
+      <title>監管機構稱英國政府技術採購缺乏了解</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</link>
+      <description><![CDATA[NAO 報告強調IT 項目成本超支30 億英鎊，累計延期29 年 根據支出監督機構對英國政府在140 億英鎊的IT 採購項目中進行的分析，英國政府在規劃技術採購時，對技術可行性的評估有限。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</guid>
+      <pubDate>Thu, 16 Jan 2025 08:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>印度成為第四個將衛星送上軌道的國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
@@ -13,14 +20,14 @@
       <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>美國將台積電涉嫌協助華為製造GPU的中國RISC-V廠商列入風險公司登記名單</title>
+      <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
       <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
       <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
+      <title>Parallels 恢復了 Windows 啟動等待七分鐘的魔力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
       <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
@@ -34,21 +41,21 @@
       <pubDate>Thu, 16 Jan 2025 00:47:45 GMT</pubDate>
     </item>
     <item>
-      <title>GoDaddy 因多年安全鬆懈和「多次重大違規」而受到嚴厲批評</title>
+      <title>GoDaddy 因多年鬆懈的安全措施和「數次重大違規行為」而受到濕生菜處罰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</link>
-      <description><![CDATA[監管機構指控其沒有SIEM 或MFA，要求其迅速採用基本的資訊安全工具 根據FTC 的說法，自2018 年以來，GoDaddy 甚至未能使用基本的資訊安全工具和實踐來保護其網站託管平台，但這家網路巨頭不會因其多項涉嫌不作為行為而面臨任何立即後果。]]></description>
+      <description><![CDATA[Watchdog 聲稱其沒有SIEM 或MFA，命令快速採用基本資訊安全工具 據FTC 稱，自2018 年以來，GoDaddy 甚至未能透過基本資訊安全工具和實踐來保護其網站託管平台，但這家互聯網巨頭不會因其許多所謂的不作為行為而面臨任何直接後果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</guid>
       <pubDate>Wed, 15 Jan 2025 23:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>大疆創新放寬飛行限制，決定信任業者遵守 FAA 規則</title>
+      <title>DJI 放寬飛行限制，決定信任業者遵守 FAA 規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</link>
       <description><![CDATA[就在其一架無人機撞上一架正在撲滅加州野火的飛機之後？時機很好 無人機製造商大疆已決定縮減其地理圍欄限制，這意味著其軟體不會自動阻止操作員飛入被標記為禁飛區的區域。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</guid>
       <pubDate>Wed, 15 Jan 2025 22:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>哦，迪爾！聯邦貿易委員會起訴拖拉機製造商，指控數十年的壟斷維修</title>
+      <title>噢，迪爾！聯邦貿易委員會起訴拖拉機製造商，指控其數十年來壟斷維修業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</link>
       <description><![CDATA[川普挑選的即將上任的監管機構負責人表示反對，稱訴訟“草率”且“極其不謹慎”，那麼它會堅持下去嗎？ strong&gt;  美國最高消費者監管機構起訴拖拉機製造商約翰迪爾 (John Deere) 因壟斷機械技術維修服務而遭起訴，不過這場訴訟能否在即將到來的總統過渡期中繼續存在還有待觀察。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</guid>
@@ -57,19 +64,19 @@
     <item>
       <title>CISA 負責人稱，中國「鹽颱風」間諜在電信公司之前就已在美國政府網路上發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</link>
-      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，北京的「鹽颱風」網路間諜就已經出現在美國政府網路老闆 Jen Easterly… ]]></description>
+      <description><![CDATA[Easterly 警告說，我們看到的只是「冰山一角」 根據CISA 的說法，在電信公司在自己的系統中發現同樣的外國入侵者之前，北京的鹽颱風網路間諜就已出現在美國政府網絡老闆 Jen Easterly... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</guid>
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>IT 就業市場仍在萎縮，但速度沒有去年那麼快</title>
+      <title>IT 就業市場仍在萎縮，但萎縮速度不如去年那麼快</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</link>
       <description><![CDATA[一半的職位被裁員，沒錯－你可以繼續歸咎於人工智慧 技術顧問公司 Janco Associates 表示，IT 就業市場已連續第二年萎縮，但至少情況並沒有2024年的情況不會像2023 年那麼糟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</guid>
       <pubDate>Wed, 15 Jan 2025 19:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>即使是淡妝也會影響臉部識別</title>
+      <title>即使是淡妝也會阻礙臉部辨識</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</link>
       <description><![CDATA[你可能不需要為了隱私而完全使用 Juggalo 網路防禦承包商 PeopleTec 的研究人員發現，臉部辨識演算法專注於臉部的特定區域，這為更微妙的監視規避策略。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>Windows 修補程式星期二遇到 Citrix 軟體問題，解決方法已發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/windows_patch_tuesday_citrix/</link>
-      <description><![CDATA[微軟開啟2025 年，但願這並不意味著會繼續 安裝了Citrix 的Session Recording 軟體的設備在完成本月的Microsoft Patch Tuesday 更新時遇到問題，該更新包含重要修復。]]></description>
+      <description><![CDATA[Microsoft 開始了2025 年，因為它希望不會繼續 安裝了Citrix Session Recording 軟體的裝置在完成本月的Microsoft 週二修補程式更新（其中包括重要修復）時遇到問題。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/windows_patch_tuesday_citrix/</guid>
       <pubDate>Wed, 15 Jan 2025 17:15:14 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>北韓去年僅 5 次竊盜就盜取了 6.59 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</link>
-      <description><![CDATA[美日韓誓言加大反擊力 美國、日本和韓國稱，僅在 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。 &gt;]]></description>
+      <description><![CDATA[美日韓誓言加強反擊 美日韓稱，光是 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</guid>
       <pubDate>Wed, 15 Jan 2025 14:45:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[涉及賄賂、串通投標和內幕信息的計劃可能已讓美國納稅人損失130 萬美元 四名被告已在美國政府IT 採購欺詐案中認罪，檢察官聲稱該案已讓納稅人損失至少130 萬美元損失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/four_plead_guilty_in_us/</guid>
       <pubDate>Wed, 15 Jan 2025 12:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 發射兩台月球登陸器奔向月球</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/</link>
-      <description><![CDATA[藍色幽靈的首次發射，也是日本公司ispace 的第二次幸運？著陸器。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/spacex_sends_landers_to_moon/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:44:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
