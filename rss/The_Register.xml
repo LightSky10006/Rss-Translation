@@ -4,9 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 15 Jan 2025 23:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 00:56:55 GMT</lastBuildDate>
     <item>
-      <title>大疆創新放寬飛行限制，決定信任業者遵守 FAA 規則</title>
+      <title>Nvidia 斥資 5 億美元開發以色列超級計算機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nvidia_israel_blackwell/</link>
+      <description><![CDATA[系統將配備數百個液冷 Blackwell 系統 Nvidia 正在以色列北部建造一台 30 兆瓦的研發超級計算機，該計算機配備了最新一代 Blackwell GPU，預計成本為十億美元……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nvidia_israel_blackwell/</guid>
+      <pubDate>Thu, 16 Jan 2025 00:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>GoDaddy 因多年安全鬆懈和「多次重大違規」而受到嚴厲批評</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</link>
+      <description><![CDATA[Watchdog 聲稱其沒有SIEM 或MFA，命令快速採用基本資訊安全工具 據FTC 稱，自2018 年以來，GoDaddy 甚至未能透過基本資訊安全工具和實踐來保護其網站託管平台，但這家互聯網巨頭不會因其許多所謂的不作為行為而面臨任何直接後果。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</guid>
+      <pubDate>Wed, 15 Jan 2025 23:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>DJI 放寬飛行限制，決定信任業者遵守 FAA 規則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</link>
       <description><![CDATA[就在其一架無人機撞上一架正在撲滅加州野火的飛機之後？時機很好 無人機製造商大疆已決定縮減其地理圍欄限制，這意味著其軟體不會自動阻止操作員飛入被標記為禁飛區的區域。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/dji_ditch_geofencing/</guid>
@@ -22,19 +36,19 @@
     <item>
       <title>CISA 負責人稱，中國「鹽颱風」間諜在電信公司之前就已在美國政府網路上發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</link>
-      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，北京的「鹽颱風」網路間諜就已經出現在美國政府網路老闆 Jen Easterly… ]]></description>
+      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，美國政府網絡中就曾發現北京的「鹽颱風」網路間諜活動老闆 Jen Easterly… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</guid>
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
     </item>
     <item>
       <title>IT 就業市場仍在萎縮，但萎縮速度不如去年那麼快</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</link>
-      <description><![CDATA[一半的職位被裁員，沒錯－你可以繼續歸咎於人工智慧 技術顧問公司 Janco Associates 表示，IT 就業市場已連續第二年萎縮，但至少情況並沒有2024年的情況不會像2023 年那麼糟。]]></description>
+      <description><![CDATA[職位數量減少了一半，是的- 你可以繼續歸咎於人工智慧 科技諮詢公司Janco Associates 表示，IT 就業市場已連續第二年萎縮，但至少情況並沒有發生變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</guid>
       <pubDate>Wed, 15 Jan 2025 19:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>即使是淡妝也會影響臉部識別</title>
+      <title>即使是淡妝也會阻礙臉部辨識</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</link>
       <description><![CDATA[你可能不需要為了隱私而完全使用 Juggalo 網路防禦承包商 PeopleTec 的研究人員發現，臉部辨識演算法專注於臉部的特定區域，這為更微妙的監視規避策略。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</guid>
@@ -71,12 +85,12 @@
     <item>
       <title>北韓去年僅 5 次竊盜就盜取了 6.59 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</link>
-      <description><![CDATA[美日韓誓言加大反擊力 美國、日本和韓國稱，僅在 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。 &gt;]]></description>
+      <description><![CDATA[美日韓誓言加強反擊 美日韓稱，光是 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</guid>
       <pubDate>Wed, 15 Jan 2025 14:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧招募代理梅根上崗，讓老闆少了僱用人力資源的理由</title>
+      <title>人工智慧招聘代理 Megan 上任，讓老闆不再需要招募人力資源人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</link>
       <description><![CDATA[她不會感到憐憫、悔恨或恐懼，但她會在拒絕你時撰寫一封禮貌的電子郵件 面試  Mega HR，一家佛羅裡達州人力資源新創公司今天推出了一項名為Megan 的人工智慧代理服務，該公司聲稱該服務可以自動化大多數招聘和僱用任務，同時改善與求職者的溝通。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</guid>
@@ -118,7 +132,7 @@
       <pubDate>Wed, 15 Jan 2025 11:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>英國企業將人工智慧視為比實際員工更便宜、更無怨言的替代方案</title>
+      <title>英國企業將人工智慧視為比實際員工更便宜、更無抱怨的替代方案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</link>
       <description><![CDATA[成本上升是罪魁禍首，儘管有任何藉口可以用更少的資源做更多的事情 根據新的研究，英國公司正在將人工智慧視為削減員工投資的一種方式。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[傳統電子表格資料可從「革命性」機器學習推理方法中獲益 超越ChatGPT 和DALL-E：電子表格資料正在獲得自己的基礎機器學習模型，讓使用者可以立即進行推理關於最多包含 10,000 行和 500 列的資料集的新資料點… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/foundation_model_tabular_data/</guid>
       <pubDate>Wed, 15 Jan 2025 09:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟最新的本機 Azure 適用於你不想在雲端運行但可以從雲端進行管理的應用程式</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/azure_local_explained/</link>
-      <description><![CDATA[Azure Local 專注於混合管理，而非混合資源池，正在追趕虛擬競爭對手 微軟最新的本地 Azure 產品更注重統一管理，而非混合雲作為彈性或靈活的資源池……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/azure_local_explained/</guid>
-      <pubDate>Wed, 15 Jan 2025 08:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>生產放緩和困境持續，波音公司倒退</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/boeing_airbus_commercial_deliveries_2024/</link>
-      <description><![CDATA[空中巴士沒有這樣的問題，去年該公司的巡航水平很高，每天幾乎運送兩架飛機 陷入困境的航空航天公司波音公司公佈了它在2024 年運送了多少架商用飛機，這消息並不不太好…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/boeing_airbus_commercial_deliveries_2024/</guid>
-      <pubDate>Wed, 15 Jan 2025 06:25:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
