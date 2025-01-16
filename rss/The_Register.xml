@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 17:36:04 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 16 Jan 2025 18:41:08 GMT</lastBuildDate>
+    <item>
+      <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
+      <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
+      <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Enzo Biochem 以 750 萬美元和解 2023 年勒索軟體攻擊訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/enzo_biochem_ransomware_lawsuit/</link>
@@ -43,14 +50,14 @@
     <item>
       <title>監管機構稱，英國人必須在七月之前在成人網站上證明自己的年齡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</link>
-      <description><![CDATA[監管機構要求人們將他們的信用卡、行動帳戶或臉部掃描與色情內容關聯起來，以保護兒童 英國通訊監管機構發布了針對網站經營者的指導意見，旨在防止18 歲以下的人造訪色情內容透過「高效年齡保證」技術在線上發佈內容…]]></description>
+      <description><![CDATA[監管機構要求人們將他們的信用卡、行動帳戶或臉部掃描關聯起來，以防止色情內容被使用，以保護兒童 英國通訊監管機構發布了針對網站運營商的指導意見，旨在防止18 歲以下的人訪問色情內容透過「高效年齡保證」技術在線上發佈內容…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</guid>
       <pubDate>Thu, 16 Jan 2025 13:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>Debian 12.9 發布，MX Linux 23.5 也即將發布</title>
+      <title>Debian 12.9 發布，MX Linux 23.5 緊隨其後</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/</link>
-      <description><![CDATA[Bookworm 的第八個版本 - 是的，你沒看錯 - 以及帶有新 Xfce 的最新 MX Debian 12.9 - Debian“Bookworm”的最新版本 - 於週末發布緊隨其後的是更有趣的下游版本之一MX Linux 23.5。]]></description>
+      <description><![CDATA[Bookworm 的第八個單點版本- 是的，你沒看錯- 以及帶有新Xfce 的最新MX Debian 12.9 - Debian“Bookworm”的最新單點版本- 於週末出現緊隨其後的是更有趣的下游產品之一，MX Linux 23.5。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/</guid>
       <pubDate>Thu, 16 Jan 2025 12:35:51 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
-      <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
+      <description><![CDATA[Sophgo 入實體名單，印度核科學家被除名 疑似華為 AI 晶片供應商的中國晶片設計商 Sophgo 已被列入美國組織「實體名單」代表國家安全風險，因此禁止與美國公司合作，除非獲得允許此類交易的許可證。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
       <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
     </item>
     <item>
       <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
-      <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
+      <description><![CDATA[在Apple 晶片上運行的x86_64 虛擬機器預覽版中，因此目前還情有可原 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽版，允許虛擬機器運行針對x86_64 架構編碼的作業系統，例如Microsoft Windows，在Apple 的Arm 晶片上運行。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
       <pubDate>Thu, 16 Jan 2025 01:38:12 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>CISA 負責人稱，中國「鹽颱風」間諜在電信公司之前就已在美國政府網路上發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</link>
-      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，美國政府網絡中就曾發現北京的「鹽颱風」網路間諜活動老闆 Jen Easterly… ]]></description>
+      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，北京的「鹽颱風」網路間諜就已經出現在美國政府網路老闆 Jen Easterly… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</guid>
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT 就業市場仍在萎縮，但萎縮速度不如去年那麼快</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</link>
-      <description><![CDATA[職位數量減少了一半，是的- 你可以繼續歸咎於人工智慧 科技諮詢公司Janco Associates 表示，IT 就業市場已連續第二年萎縮，但至少情況並沒有發生變化。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:29:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
