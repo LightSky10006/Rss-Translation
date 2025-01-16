@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 10:49:22 GMT</lastBuildDate>
+    <item>
+      <title>Infoseccer：私人保全公司放鬆警惕，洩漏了 12 萬多份文件</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/</link>
+      <description><![CDATA[Assist Security 的客戶名單包括時尚偶像、關鍵基礎設施組織 一位資訊安全人員告訴The Register&lt;，一家位於倫敦的私人安全公司涉嫌透過不安全的伺服器在線提供超過120,000 份檔案&lt; /em&gt;.… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:36:10 GMT</pubDate>
+    </item>
     <item>
       <title>倡導團體認為，蘋果的互通性努力不符合歐盟法律的精神或文字</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/apple_dma_compliance_criticized/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
-      <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
+      <description><![CDATA[在Apple 晶片上運行的x86_64 虛擬機器預覽版中，因此目前還情有可原 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽版，允許虛擬機器運行針對x86_64 架構編碼的作業系統，例如Microsoft Windows，在Apple 的Arm 晶片上運行。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
       <pubDate>Thu, 16 Jan 2025 01:38:12 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>CISA 負責人稱，中國「鹽颱風」間諜在電信公司之前就已在美國政府網路上發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</link>
-      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，美國政府網絡中就曾發現北京的「鹽颱風」網路間諜活動老闆 Jen Easterly… ]]></description>
+      <description><![CDATA[伊斯特利警告稱，我們看到的只是「冰山一角」 據CISA 稱，在電信公司發現其自身系統中有同樣的外國入侵者之前，北京的「鹽颱風」網路間諜就已經出現在美國政府網路老闆 Jen Easterly… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/salt_typhoon_us_govt_networks/</guid>
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 15 Jan 2025 19:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>即使是淡妝也會阻礙臉部辨識</title>
+      <title>即使是淡妝也會影響臉部識別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</link>
       <description><![CDATA[你可能不需要為了隱私而完全使用 Juggalo 網路防禦承包商 PeopleTec 的研究人員發現，臉部辨識演算法專注於臉部的特定區域，這為更微妙的監視規避策略。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/make_up_thwart_facial_recognition/</guid>
@@ -120,30 +127,23 @@
     <item>
       <title>北韓去年僅 5 次竊盜就盜取了 6.59 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</link>
-      <description><![CDATA[美國、日本、韓國誓言加大反制力度 美國、日本和韓國稱，北韓區塊鏈強盜僅在2024 年就竊取了超過5 億美元的加密貨幣。 .&lt; /p&gt;]]></description>
+      <description><![CDATA[美日韓誓言加大反擊力 美國、日本和韓國稱，僅在 2024 年，北韓區塊鏈匪徒就竊取了超過 5 億美元的加密貨幣。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/north_korea_crypto_heists/</guid>
       <pubDate>Wed, 15 Jan 2025 14:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧招聘代理 Megan 上任，讓老闆不再需要招募人力資源人員</title>
+      <title>人工智慧招募代理梅根上崗，讓老闆少了僱用人力資源的理由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</link>
       <description><![CDATA[她不會感到憐憫、悔恨或恐懼，但她會在拒絕你時撰寫一封禮貌的電子郵件 面試  Mega HR，一家佛羅裡達州人力資源新創公司今天推出了一項名為Megan 的人工智慧代理服務，該公司聲稱該服務可以自動化大多數招聘和僱用任務，同時改善與求職者的溝通。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/megan_ai_recruiting_agent/</guid>
       <pubDate>Wed, 15 Jan 2025 14:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>當企業意識到人工智慧的電力和冷卻需求時，他們會大吃一驚</title>
+      <title>當企業意識到人工智慧的電源和冷卻需求時，他們會感到震驚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_power_cooling_demands/</link>
       <description><![CDATA[到2027 年，能源消耗將成為一項關鍵績效指標 大多數急於採用人工智慧的企業都沒有做好應對其基礎設施能源需求的準備，而且很少有企業能夠控制電力消耗人工智慧系統或對其資料中心的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_power_cooling_demands/</guid>
       <pubDate>Wed, 15 Jan 2025 13:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>推開辦公室規定，人們仍然喜歡在家工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/shove_your_mandates_people_still/</link>
-      <description><![CDATA[人們仍然更願意威脅辭職，而不是乘坐擁擠的公共交通工具 在疫情改變了世界各地的工作方式多年之後，許多員工仍然在抵制企業讓他們重返辦公室的努力，而是更願意為了更靈活的雇主而辭職。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/shove_your_mandates_people_still/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
