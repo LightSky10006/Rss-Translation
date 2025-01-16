@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 Jan 2025 17:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 19:09:31 GMT</lastBuildDate>
+    <item>
+      <title>RedNote 或將設立「TikTok難民」隔離牆，以防止美國對中國用戶產生影響</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/rednote-may-wall-off-tiktok-refugees-to-prevent-us-influence-on-chinese-users/</link>
+      <description><![CDATA[有傳言稱，RedNote 可能最早在下週隔離中國用戶。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/rednote-may-wall-off-tiktok-refugees-to-prevent-us-influence-on-chinese-users/</guid>
+      <pubDate>Thu, 16 Jan 2025 18:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 因紐約州法律要求 15 美元或 20 美元套餐而停止提供家庭網路服務</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/att-complies-with-law-requiring-cheap-internet-by-ending-a-service-in-ny/</link>
+      <description><![CDATA[AT&amp;T 撤出紐約的 5G 家庭網路服務，以抗議該州的可負擔性法案。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/att-complies-with-law-requiring-cheap-internet-by-ending-a-service-in-ny/</guid>
+      <pubDate>Thu, 16 Jan 2025 17:34:46 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 完成雙重登月後，兩台月球登陸器正在前往月球的途中</title>
       <link>https://arstechnica.com/science/2025/01/two-lunar-landers-are-on-the-way-to-the-moon-after-spacexs-double-moonshot/</link>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 16 Jan 2025 14:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾 Arc B570 評測：219 美元，最便宜的優質顯示卡</title>
+      <title>Intel Arc B570評測：219美元，最便宜的好顯示卡</title>
       <link>https://arstechnica.com/gadgets/2025/01/intel-arc-b570-review-at-219-the-cheapest-good-graphics-card/</link>
       <description><![CDATA[與 4060 具有競爭力，具有 10GB RAM 且價格更低（如果您能買到的話）。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/intel-arc-b570-review-at-219-the-cheapest-good-graphics-card/</guid>
@@ -43,12 +57,12 @@
     <item>
       <title>微軟修補 Windows 以消除安全啟動繞過威脅</title>
       <link>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</link>
-      <description><![CDATA[中止安全啟動的文件通過了 Microsoft 的內部審查流程。]]></description>
+      <description><![CDATA[閹割安全啟動的文件通過了微軟的內部審查流程。]]></description>
       <guid>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</guid>
       <pubDate>Thu, 16 Jan 2025 13:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>ChargePoint 開發不可切割的充電電纜來阻止小偷</title>
+      <title>ChargePoint 開發不可剪斷的充電線以防小偷</title>
       <link>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</link>
       <description><![CDATA[ChargePoint 的執行長對這個問題感到非常厭煩，他開始製作原型。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[小說為維基百科專家提供了探索一個小而強大的社區的空間。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/the-editors-weaves-wikipedias-volunteers-into-a-global-suspense-tale/</guid>
       <pubDate>Thu, 16 Jan 2025 12:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>藍色起源巨型新格倫火箭首次飛行，成功入軌</title>
-      <link>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</link>
-      <description><![CDATA[繞過發動機冷卻問題和失控的飛船，藍色起源達到了 T-0。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</guid>
-      <pubDate>Thu, 16 Jan 2025 07:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>新創企業的巫術：已登出的 Google Apps 網域可能會被新所有者盜用</title>
-      <link>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</link>
-      <description><![CDATA[不正確地關閉 Google Apps 網域可能會導致登入資訊仍可存取。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:51:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
