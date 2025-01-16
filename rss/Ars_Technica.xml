@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 Jan 2025 15:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 17:35:50 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 完成雙重登月後，兩台月球登陸器正在前往月球的途中</title>
+      <link>https://arstechnica.com/science/2025/01/two-lunar-landers-are-on-the-way-to-the-moon-after-spacexs-double-moonshot/</link>
+      <description><![CDATA[登陸器由總部位於德州的 Firefly Aerospace 和日本新創公司 ispace 開發。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/two-lunar-landers-are-on-the-way-to-the-moon-after-spacexs-double-moonshot/</guid>
+      <pubDate>Thu, 16 Jan 2025 16:41:05 GMT</pubDate>
+    </item>
     <item>
       <title>比特幣價格逼近 10 萬美元，連退休基金也在購買加密貨幣</title>
       <link>https://arstechnica.com/tech-policy/2025/01/with-bitcoin-over-100000-even-pension-funds-are-buying-cryptocurrency/</link>
-      <description><![CDATA[密西根州和威斯康辛州的州僱員退休基金是最大的持有者之一。]]></description>
+      <description><![CDATA[密西根州和威斯康辛州的州僱員退休基金位居最大持有者之列。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/with-bitcoin-over-100000-even-pension-funds-are-buying-cryptocurrency/</guid>
       <pubDate>Thu, 16 Jan 2025 14:32:56 GMT</pubDate>
     </item>
@@ -29,19 +36,19 @@
     <item>
       <title>官方消息：先睹為快 Switch 2</title>
       <link>https://arstechnica.com/gaming/2025/01/its-official-take-a-first-look-at-the-switch-2/</link>
-      <description><![CDATA[更大的螢幕和 Joy-Con、新的《瑪利歐賽車》和滑鼠模式？]]></description>
+      <description><![CDATA[更大的螢幕和 Joy-Cons、新的Mario Kart和滑鼠模式？]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/its-official-take-a-first-look-at-the-switch-2/</guid>
       <pubDate>Thu, 16 Jan 2025 13:54:43 GMT</pubDate>
     </item>
     <item>
       <title>微軟修補 Windows 以消除安全啟動繞過威脅</title>
       <link>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</link>
-      <description><![CDATA[閹割安全啟動的文件通過了微軟的內部審查流程。]]></description>
+      <description><![CDATA[中止安全啟動的文件通過了 Microsoft 的內部審查流程。]]></description>
       <guid>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</guid>
       <pubDate>Thu, 16 Jan 2025 13:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>ChargePoint 開發不可剪斷的充電線以防小偷</title>
+      <title>ChargePoint 開發不可切割的充電電纜來阻止小偷</title>
       <link>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</link>
       <description><![CDATA[ChargePoint 的執行長對這個問題感到非常厭煩，他開始製作原型。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[不正確地關閉 Google Apps 網域可能會導致登入資訊仍可存取。]]></description>
       <guid>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</guid>
       <pubDate>Wed, 15 Jan 2025 19:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克薩斯州向最高法院辯護要求觀看色情片需出示身份證：“我們一直都是這麼做的”</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</link>
-      <description><![CDATA[專家稱，最高法院可能會裁定德州對色情內容的年齡限制違憲。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:38:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
