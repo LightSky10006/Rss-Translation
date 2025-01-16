@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 02:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 06:17:03 GMT</lastBuildDate>
+    <item>
+      <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
+      <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
+      <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
+    </item>
     <item>
       <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>GoDaddy 因多年安全鬆懈和「多次重大違規」而受到嚴厲批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</link>
-      <description><![CDATA[監管機構指控其沒有SIEM 或MFA，要求其迅速採用基本的資訊安全工具 根據FTC 的說法，自2018 年以來，GoDaddy 甚至未能使用基本的資訊安全工具和實踐來保護其網站託管平台，但這家網路巨頭不會因其多項涉嫌不作為行為而面臨任何立即後果。]]></description>
+      <description><![CDATA[Watchdog 聲稱其沒有SIEM 或MFA，命令快速採用基本資訊安全工具 據FTC 稱，自2018 年以來，GoDaddy 甚至未能透過基本資訊安全工具和實踐來保護其網站託管平台，但這家互聯網巨頭不會因其許多所謂的不作為行為而面臨任何直接後果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</guid>
       <pubDate>Wed, 15 Jan 2025 23:47:18 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>噢，迪爾！聯邦貿易委員會起訴拖拉機製造商，指控其數十年來壟斷維修業務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</link>
-      <description><![CDATA[川普挑選的即將上任的監管機構負責人表示反對，稱訴訟“草率”且“極其不謹慎”，那麼它會堅持下去嗎？ strong&gt;  美國最高消費者監管機構起訴拖拉機製造商約翰迪爾 (John Deere) 因壟斷機械技術維修服務而遭起訴，不過這場訴訟能否在即將到來的總統過渡期中繼續存在還有待觀察。 …]]></description>
+      <description><![CDATA[即將上任的川普挑選的監管機構老闆提出異議，稱訴訟“倉促”且“極其輕率”，那麼它會堅持下去嗎？美國最高消費者監管機構已起訴拖拉機製造商約翰迪爾公司壟斷了其機械的技術維修服務，不過該訴訟是否能在即將到來的總統過渡期間倖存下來還有待觀察。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ftc_sues_john_deere/</guid>
       <pubDate>Wed, 15 Jan 2025 21:16:12 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 15 Jan 2025 20:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>IT 就業市場仍在萎縮，但萎縮速度不如去年那麼快</title>
+      <title>IT 就業市場仍在萎縮，但速度沒有去年那麼快</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</link>
       <description><![CDATA[一半的職位被裁員，沒錯－你可以繼續歸咎於人工智慧 技術顧問公司 Janco Associates 表示，IT 就業市場已連續第二年萎縮，但至少情況並沒有2024年的情況不會像2023 年那麼糟。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/it_job_market/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 15 Jan 2025 14:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>當企業意識到人工智慧的電源和冷卻需求時，他們會感到震驚</title>
+      <title>當企業意識到人工智慧的電力和冷卻需求時，他們會大吃一驚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_power_cooling_demands/</link>
       <description><![CDATA[到2027 年，能源消耗將成為一項關鍵績效指標 大多數急於採用人工智慧的企業都沒有做好應對其基礎設施能源需求的準備，而且很少有企業能夠控制電力消耗人工智慧系統或對其資料中心的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/ai_power_cooling_demands/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>英國法庭的訴訟旨在對蘋果在應用商店收費問題上採取報復措施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</link>
-      <description><![CDATA[集體訴訟令要求 iGiant 支付 1.5 億英鎊 英國競爭上訴法庭 (CAT) 審理了一起蘋果涉嫌違反競爭法的案件，本週開始了為期七週的法庭訴訟。 .]]></description>
+      <description><![CDATA[集體訴訟命令要求 iGiant 賠償 15 億英鎊 本週，英國競爭上訴法庭 (CAT) 審理了蘋果涉嫌違反競爭法的案件，開始了為期七週的法庭審理。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_tribunal_apple_fees/</guid>
       <pubDate>Wed, 15 Jan 2025 11:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國企業將人工智慧視為比實際員工更便宜、更無怨言的替代方案</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</link>
-      <description><![CDATA[成本上升是罪魁禍首，儘管有任何藉口可以用更少的資源做更多的事情 根據新的研究，英國公司正在將人工智慧視為削減員工投資的一種方式。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/uk_companies_ai_report/</guid>
-      <pubDate>Wed, 15 Jan 2025 10:16:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
