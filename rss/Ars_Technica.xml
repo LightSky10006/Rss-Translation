@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 13:36:23 GMT</lastBuildDate>
     <item>
-      <title>藍色起源巨型新格倫火箭首次飛行，成功入軌</title>
+      <title>微軟修補 Windows 以消除安全啟動繞過威脅</title>
+      <link>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</link>
+      <description><![CDATA[閹割安全啟動的文件通過了微軟的內部審查流程。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChargePoint 開發不可剪斷的充電線以防小偷</title>
+      <link>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</link>
+      <description><![CDATA[ChargePoint 的執行長對這個問題感到非常厭煩，他開始製作原型。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>編輯們將維基百科的志工編織成一個全球懸疑故事</title>
+      <link>https://arstechnica.com/gadgets/2025/01/the-editors-weaves-wikipedias-volunteers-into-a-global-suspense-tale/</link>
+      <description><![CDATA[小說為維基百科專家提供了探索一個小而強大的社區的空間。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/the-editors-weaves-wikipedias-volunteers-into-a-global-suspense-tale/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>藍色起源公司的泰坦尼克號新格倫火箭首次飛行進入軌道</title>
       <link>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</link>
       <description><![CDATA[繞過發動機冷卻問題和失控的飛船，藍色起源達到了 T-0。]]></description>
       <guid>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[現在，它可以在製作實體測試輪胎之前在動態模擬中試用新輪胎。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</guid>
       <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEC 起訴伊隆馬斯克，稱他騙取 Twitter 投資者 1.5 億美元</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</link>
-      <description><![CDATA[SEC：延遲披露幫助馬斯克以 1.5 億美元的折扣購買了 Twitter 股票。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員利用人工智慧設計阻斷蛇毒毒素的蛋白質</title>
-      <link>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</link>
-      <description><![CDATA[這是電腦發展如何應用於解決實際問題的一個很好的例子。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 讓我們更接近《星際爭霸戰》的通用翻譯器</title>
-      <link>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</link>
-      <description><![CDATA[從 100 種源語言翻譯語音背後的電腦科學。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
