@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 14:11:21 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 14:37:13 GMT</lastBuildDate>
+    <item>
+      <title>德國推出採用 AMD 技術的 Hunter 超級計算機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</link>
+      <description><![CDATA[耗資1,500 萬歐元的系統將作為2027 年推出的更大型Herder 超級電腦的試驗台 週四，數百台AMD APU 啟動，德國斯圖加特大學高效能運算中心(HLRS)宣布其最新的超級電腦 Hunter 的完成… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</guid>
+      <pubDate>Fri, 17 Jan 2025 14:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>Copilot 以每月 3 美元的價格入侵 Microsoft 365 個人版和家用版</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
-      <description><![CDATA[在洩漏網站上貼上據稱被盜的文件，要求支付 60 萬英鎊 又一年，又一個英國地方當局被勒索軟體人員攻陷。這次是美杜莎集團手中的英格蘭東北部蓋茨黑德委員會。]]></description>
+      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
       <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
     </item>
     <item>
       <title>英國政府承包商 CloudKubed 進入破產程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
-      <description><![CDATA[英國內政部、工作和退休金部供應商FRP Advisory 負責 一家自稱為英國政府提供「轉型數據和人工智慧解決方案」的專業供應商已召集行政接管人.. ....  ]]></description>
+      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
       <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
-      <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務已經打開了一對工作站級雲端桌面的開關，諷刺的是，這凸顯了該技術的問題...]]></description>
+      <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
       <pubDate>Fri, 17 Jan 2025 06:27:09 GMT</pubDate>
     </item>
@@ -85,12 +92,12 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三發表了最後一次全國講話，他說，在網上虛假信息氾濫…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>聯準會起訴西南航空長期延誤和不切實際的時間表</title>
+      <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
       <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
@@ -99,14 +106,14 @@
     <item>
       <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
-      <description><![CDATA[微軟表示，FSB 網路間諜涉足一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的多產網路釣魚組織，開展了一項新活動，旨在危害WhatsApp 帳戶和根據微軟的說法，可以存取他們的訊息和數據。]]></description>
+      <description><![CDATA[微軟表示，FSB 網路間諜涉足一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的多產網路釣魚組織，開展了一項新活動，旨在危害WhatsApp 帳戶和根據微軟的說法，可以存取他們的訊息和資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
       <pubDate>Thu, 16 Jan 2025 19:15:14 GMT</pubDate>
     </item>
     <item>
       <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
-      <description><![CDATA[你必須花錢——例如360 億美元以上——來製造，呃，人工智慧晶片 台積電將2025 年的資本支出提高到380 億至420 億美元，以期獲得更多晶片人工智慧處理器領域的製造合約。]]></description>
+      <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
       <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Raspberry Pi 為 RP2350 黑客挑戰賽中的所有人頒發獎品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</link>
-      <description><![CDATA[電源引起的故障、雷射和電磁場都是交易工具 Raspberry Pi 為從一次性可編程 (OTP) 內存中提取秘密值的人提供了獎勵Raspberry Pi RP2350 微控制器–為所有四位參賽者獎勵一大筆現金。]]></description>
+      <description><![CDATA[電源引起的故障、雷射和電磁場都是行業工具 Raspberry Pi 因從一次性可編程 (OTP) 內存中提取秘密值而頒發了獎品Raspberry Pi RP2350 微控制器– 向四位參賽者頒發一大筆現金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</guid>
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[巧克力工廠品嚐自己的“狗糧”，擺脫特定領域的苦差事 谷歌與微軟一樣熱衷於兜售人工智能軟體，據報道，它正在品嚐自己的人工智能混合物，並在離開實驗室時感受到了令人愉悅的體驗它的嘴巴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</guid>
       <pubDate>Thu, 16 Jan 2025 14:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧資料中心讓零排放承諾遙不可及</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
-      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 由於人工智慧的增長有可能超越永續發展承諾和權威，數據中心產業看起來將迎來動盪的2025 年公眾對新項目的敵意可能會越來越大…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
