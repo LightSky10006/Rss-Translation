@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 09:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 10:38:48 GMT</lastBuildDate>
+    <item>
+      <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
+      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
+      <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>英國政府承包商 CloudKubed 進入破產程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
-      <description><![CDATA[你必須花錢——例如360 億美元以上——來製造，呃，人工智慧晶片 台積電將2025 年的資本支出提高到380 億至420 億美元，以期獲得更多晶片人工智慧處理器領域的製造合約。]]></description>
+      <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
       <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>Raspberry Pi 為 RP2350 黑客挑戰賽中的所有人頒發獎品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</link>
-      <description><![CDATA[電源引起的故障、雷射和電磁場都是交易工具 Raspberry Pi 為從一次性可編程 (OTP) 內存中提取秘密值的人提供了獎勵Raspberry Pi RP2350 微控制器–為所有四位參賽者獎勵一大筆現金。]]></description>
+      <description><![CDATA[電源引起的故障、雷射和電磁場都是行業工具 Raspberry Pi 因從一次性可編程 (OTP) 內存中提取秘密值而頒發了獎品Raspberry Pi RP2350 微控制器– 向四位參賽者頒發一大筆現金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</guid>
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>人工智慧資料中心讓零排放承諾遙不可及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
-      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 由於人工智慧的增長有可能超越永續發展承諾和權威，數據中心產業看起來將迎來動盪的2025 年公眾對新項目的敵意可能會越來越大…]]></description>
+      <description><![CDATA[另外：比特倉庫對水、土地和電力的需求可能會引起居民的「日益強烈的反對」 由於人工智慧的成長威脅到永續發展承諾和權威，資料中心產業似乎將迎來動盪的2025 年公眾對新項目的敵意很可能會日益增加…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
       <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>藍色起源火箭「新格倫號」進入軌道，第一階段回收失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</link>
-      <description><![CDATA[傑夫貝佐斯的太空公司實現里程碑，有效載荷交付 今天早上，隨著藍色起源的新格倫火箭發射，傑夫貝佐斯加入了軌道精英的行列。]]></description>
+      <description><![CDATA[傑夫貝佐斯的航太公司在交付有效載荷方面實現了里程碑 傑夫貝佐斯今天早上發射了藍色起源的新格倫火箭，加入了軌道精英行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</guid>
       <pubDate>Thu, 16 Jan 2025 11:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infoseccer：私人保全公司放鬆警惕，洩漏了 12 萬多份文件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/</link>
-      <description><![CDATA[Assist Security 的客戶名單包括時尚偶像、關鍵基礎設施組織 一位資訊安全人員告訴The Register&lt;，一家位於倫敦的私人安全公司涉嫌透過不安全的伺服器在線提供超過120,000 份檔案&lt; /em&gt;.… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
