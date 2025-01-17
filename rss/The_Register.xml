@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 19:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 20:13:09 GMT</lastBuildDate>
     <item>
-      <title>Fortinet：FortiGate 設定洩漏確實存在，但具有誤導性</title>
+      <title>出口限制令盟友不安 中國將調查美國晶片補貼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/china_us_chip_subsidies/</link>
+      <description><![CDATA[北京調查成熟半導體領域不公平競爭指控 隨著北京準備調查美國是否對其本國半導體公司進行不公平補貼，中美之間的「晶片戰爭」沒有降溫的跡象。同時，華盛頓最新的出口限制甚至激怒了其部分盟友。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/china_us_chip_subsidies/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fortinet：FortiGate 設定洩漏是真實的，但具有誤導性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</link>
       <description><![CDATA[Ivanti 的競爭愈演愈烈，誰能迎來最糟糕的一年 Fortinet 已確認，之前對貝爾森集團洩露的記錄的分析確實是零日襲擊期間竊取的真正的 FortiGate 配置在2022年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>歐盟要求深入了解 X 的推薦演算法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</link>
-      <description><![CDATA[委員會堅稱，這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加強對伊隆馬斯克的 X 的調查，並要求審查最近對平台的推薦算法。]]></description>
+      <description><![CDATA[委員會堅稱這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加緊對埃隆·馬斯克的 X 進行持續調查，並要求審查最近對平台的推薦演算法......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</guid>
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>蘋果透過關閉人工智慧來解決突發新聞警報問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</link>
-      <description><![CDATA[當 Apple Intelligence 得到「改進」後，摘要將會恢復 Apple 發布了 iOS 18.3 的新測試版，並預設其 AI 產生的通知摘要需要進一步改進。]]></description>
+      <description><![CDATA[當Apple Intelligence「改進」時，摘要將會回傳 Apple 發布了iOS 18.3 的新測試版，並預設承認，是的，其人工智慧產生的通知摘要需要做更多工作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</guid>
       <pubDate>Fri, 17 Jan 2025 12:31:13 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>技術支援人員沒有預算、沒有幫助、沒有培訓，也沒有對他的困境表示同情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</link>
-      <description><![CDATA[無論如何都解決了問題——沒有批准購買，也沒有使用設備的權限 隨叫隨到  週末來臨時，沒有人需要獲得許可才能做他們想做的事慾望。當然，除非他們必須隨時待命以支援技術——這是我們每週在 On Call 中標記的限制，該專欄旨在慶祝儘管有笨拙的傻瓜仍能完成出色的修復壯舉。]]></description>
+      <description><![CDATA[無論如何都解決了問題- 沒有購買批准，也沒有使用設備的權限 隨叫隨到 當週末到來時，沒有人需要獲得許可才能做他們想做的事情慾望。當然，除非他們需要隨時為技術提供支援——我們每週都會在“待命”專欄中標記這一限制，該專欄慶祝儘管傻瓜們手足無措，但仍取得了良好的修復壯舉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</guid>
       <pubDate>Fri, 17 Jan 2025 08:32:09 GMT</pubDate>
     </item>
@@ -99,19 +106,19 @@
     <item>
       <title>SpaceX 將「星際飛船爆炸以來的天數」計數器重設為零</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</link>
-      <description><![CDATA[第七次試飛在地面上表現更好，助推器成功回收 SpaceX 再次損失了一艘星際飛船，此前飛船的第七次試飛以“快速非計劃解體”告終，但儘管如此慶祝這次任務以超重型助推器第二次成功回收而結束…]]></description>
+      <description><![CDATA[第七次試飛在地面上表現更好，助推器成功捕獲– 飛機避開墜落的碎片 更新 在第七次試飛後，SpaceX 再次失去了一艘星際飛船飛船的「快速非計劃解體」最終以失敗告終，但人們仍在慶祝這次任務，因為它的超重型助推器第二次成功回收。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</guid>
       <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
     </item>
     <item>
       <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
-      <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人，或者允許「影子人工智慧」悄悄潛入 思科和Nvidia 都認識到，儘管今天的人工智慧可能很有用，但這項技術同樣不安全，而且/或不可靠——並提供了工具試圖幫助解決這些弱點。 ]]></description>
+      <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人或允許「影子人工智慧」潛入 思科和Nvidia 都認識到，儘管當今的人工智慧可能很有用，但該技術同樣可能不安全，並且/或不可靠- 並且已提供工具試圖幫助解決這些弱點。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</guid>
       <pubDate>Fri, 17 Jan 2025 02:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽車公園聲稱司機位置數據已提供給保險公司，推高保費</title>
+      <title>通用汽車停車場聲稱司機位置數據被提供給保險公司，導致保費上漲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</link>
       <description><![CDATA[我們下次一定會請求許可，汽車製造商告訴聯邦貿易委員會 通用汽車週四表示，已與聯邦貿易委員會達成和解，「以解決我們現已停止的智慧駕駛員計劃的隱私問題“…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
-      <description><![CDATA[微軟表示，FSB 網路間諜涉足一款新應用程式進行間諜活動 已更新  Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的多產網絡釣魚組織，進行了一次據微軟稱，新的活動旨在破壞 WhatsApp 帳戶並獲取其訊息和數據的存取權。]]></description>
+      <description><![CDATA[微軟稱，俄羅斯聯邦安全局(FSB) 網路間諜進入一款新應用進行間諜活動 更新  Star Blizzard 是一個由俄羅斯聯邦安全局(FSB)支援的網路釣魚團隊，他們進行了一次據微軟稱，新的活動旨在入侵 WhatsApp 帳戶並獲取其訊息和資料的存取權限…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
       <pubDate>Thu, 16 Jan 2025 19:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
-      <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
-      <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
