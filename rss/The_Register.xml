@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 07:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 08:15:56 GMT</lastBuildDate>
+    <item>
+      <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
+      <description><![CDATA[如果你想要一幅未來的圖景，想像一下你的資安團隊永遠在軟體上打上烙印 微軟的聰明人調查了這家軟體巨頭自己的100 多種生成式人工智慧產品的安全性，得出了一個令人警醒的結論訊息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</guid>
+      <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
+    </item>
     <item>
       <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
-      <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務已經打開了一對工作站級雲端桌面的開關，諷刺的是，這凸顯了該技術的問題...]]></description>
+      <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
       <pubDate>Fri, 17 Jan 2025 06:27:09 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
+      <title>正當你的法學碩士再次脫軌時，思科、英偉達正在門口微笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
       <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人，或者允許「影子人工智慧」悄悄潛入 思科和Nvidia 都認識到，儘管今天的人工智慧可能很有用，但這項技術同樣不安全，而且/或不可靠——並提供了工具試圖幫助解決這些弱點。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
+      <description><![CDATA[歡迎進入寡頭們不再在陰影中沉默的十年 美國總統喬·拜登週三向全國發表最後一次講話，並表示美國正在明顯滑入寡頭壟斷的局面網上虛假資訊氾濫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>聯準會起訴西南航空長期延誤和不切實際的時間表</title>
+      <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
       <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>谷歌報告稱，借助人工智慧將程式碼遷移時間縮短了一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</link>
-      <description><![CDATA[巧克力工廠品嚐自己的“狗糧”，擺脫特定領域的苦差事 谷歌與微軟一樣熱衷於兜售人工智能軟體，據報道，它正在品嚐自己的人工智能混合物，並在離開實驗室時感受到了令人愉悅的體驗它的嘴巴。]]></description>
+      <description><![CDATA[巧克力工廠吸食自己的狗糧，在特定領域擺脫苦差事 谷歌以與微軟一樣狂熱的熱情兜售人工智能軟體，報告稱狗食了自己的人工智能混合物，並在離開實驗室時品嚐到了令人愉悅的味道它的嘴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</guid>
       <pubDate>Thu, 16 Jan 2025 14:32:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[NAO 報告強調IT 項目成本超支30 億英鎊，累計延期29 年 根據支出監督機構對英國政府在140 億英鎊的IT 採購項目中進行的分析，英國政府在規劃技術採購時，對技術可行性的評估有限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</guid>
       <pubDate>Thu, 16 Jan 2025 08:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度成為第四個將衛星送上軌道的國家</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
-      <description><![CDATA[正當歐空局慶祝其太陽記錄儀分拆計畫之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</guid>
-      <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
