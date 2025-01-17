@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 17 Jan 2025 15:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 15:35:53 GMT</lastBuildDate>
+    <item>
+      <title>美國最高法院裁定 TikTok 可被禁止</title>
+      <link>https://www.wired.com/story/tiktok-ban-supreme-court/</link>
+      <description><![CDATA[大法官尼爾·戈薩奇在一份同意意見中寫道：“毫無疑問，國會和總統在這裡選擇的補救措施是戲劇性的。” “我不知道這項法律是否能夠成功實現其目的。”]]></description>
+      <guid>https://www.wired.com/story/tiktok-ban-supreme-court/</guid>
+      <pubDate>Fri, 17 Jan 2025 15:18:24 GMT</pubDate>
+    </item>
     <item>
       <title>馬克·祖克柏背棄媒體</title>
       <link>https://www.wired.com/story/plaintext-mark-zuckerberg-turns-his-back-on-the-media/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 17 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您能使用 Raspberry Pi 挖掘加密貨幣致富嗎？</title>
+      <title>使用 Raspberry Pi 挖掘加密貨幣可以致富嗎？</title>
       <link>https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/</link>
       <description><![CDATA[加密挖掘的利潤率完全取決於電腦物理和能量轉換。]]></description>
       <guid>https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>RedNote 爭相招募英文內容版主</title>
       <link>https://www.wired.com/story/xiaohongshu-english-moderators-red-note/</link>
-      <description><![CDATA[本週在中國發布的招聘資訊顯示，小紅書（也稱為 RedNote）正難以應對從 TikTok 加入該平台的大量新用戶。]]></description>
+      <description><![CDATA[本週在中國發布的招聘資訊表明，小紅書（又稱 RedNote）正在努力應對大量從 TikTok 加入該平台的新用戶。]]></description>
       <guid>https://www.wired.com/story/xiaohongshu-english-moderators-red-note/</guid>
       <pubDate>Fri, 17 Jan 2025 02:07:06 GMT</pubDate>
     </item>
@@ -90,9 +97,9 @@
       <pubDate>Fri, 17 Jan 2025 00:44:35 GMT</pubDate>
     </item>
     <item>
-      <title>駭客可能竊取了 AT&T 的 FBI 通話記錄，這可能會危及線人的利益</title>
+      <title>駭客可能從 AT&T 竊取 FBI 通話記錄，這可能會危及線人的安全</title>
       <link>https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/</link>
-      <description><![CDATA[AT&amp;T 的一次違規事件暴露了該公司「幾乎所有」客戶的身份，其中可能包括與聯邦調查局機密消息來源相關的記錄，這可能解釋了該局為何開始採用端對端加密。]]></description>
+      <description><![CDATA[AT&amp;T 遭遇資料外洩事件，導致該公司「幾乎所有」客戶資訊遭洩露，其中可能包括與 FBI 機密消息來源相關的記錄，這或許可以解釋該局為何新近採用端到端加密技術。]]></description>
       <guid>https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/</guid>
       <pubDate>Fri, 17 Jan 2025 00:14:45 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 16 Jan 2025 16:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>Nubia Redmagic 10 Pro評論：對遊戲玩家的價值</title>
+      <title>Nubia Redmagic 10 Pro 評測：遊戲玩家的理想選擇</title>
       <link>https://www.wired.com/review/nubia-redmagic-10-pro/</link>
       <description><![CDATA[努比亞的 Redmagic 10 Pro 以中階價格提供了出色的手機遊戲體驗，但非遊戲玩家應該另尋他處。]]></description>
       <guid>https://www.wired.com/review/nubia-redmagic-10-pro/</guid>
       <pubDate>Thu, 16 Jan 2025 15:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lovense Osci 3 評測：一款可以加熱的震動器</title>
-      <link>https://www.wired.com/review/lovense-osci-3/</link>
-      <description><![CDATA[該振動器有兩個馬達，甚至可以加熱到體溫，以獲得更自然的感覺。]]></description>
-      <guid>https://www.wired.com/review/lovense-osci-3/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
