@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 08:39:02 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 09:35:17 GMT</lastBuildDate>
+    <item>
+      <title>英國政府承包商 CloudKubed 進入破產程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
+      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
+      <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>技術支援人員沒有預算、沒有幫助、沒有培訓，也沒有對他的困境表示同情</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 為其雲端桌面增加了 32 個 vCPU 選項和更簡單的入口</title>
+      <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
       <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
@@ -50,19 +57,19 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎進入寡頭們不再在陰影中沉默的十年 美國總統喬·拜登週三向全國發表最後一次講話，並表示美國正在明顯滑入寡頭壟斷的局面網上虛假資訊氾濫。]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
     <item>
       <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
-      <description><![CDATA[交通部也希望參與拜登政府最後一刻的行動 交通部加入了拜登政府最後一刻行動的行列，提起訴訟，指控西南航空公司運營長期延誤航班。 ...]]></description>
+      <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
       <pubDate>Thu, 16 Jan 2025 20:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>俄羅斯 Star Blizzard 網路釣魚團隊被發現針對 WhatsApp 帳戶</title>
+      <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
       <description><![CDATA[微軟稱，俄羅斯聯邦安全局網路間諜進入一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的網路釣魚團隊，他們開展了一項新活動，旨在入侵WhatsApp 帳戶並據微軟稱，可以存取他們的資訊和資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>人工智慧資料中心讓零排放承諾遙不可及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
-      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 隨著人工智慧的增長有可能超越永續發展承諾和權威，資料中心產業看起來將迎來動盪的2025 年公眾對新專案的敵意可能會越來越大…]]></description>
+      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 由於人工智慧的增長有可能超越永續發展承諾和權威，數據中心產業看起來將迎來動盪的2025 年公眾對新項目的敵意可能會越來越大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
       <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Assist Security 的客戶名單包括時尚偶像、關鍵基礎設施組織 一位資訊安全人員告訴The Register&lt;，一家位於倫敦的私人安全公司涉嫌透過不安全的伺服器在線提供超過120,000 份檔案&lt; /em&gt;.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/private_security_biz_lets_guard/</guid>
       <pubDate>Thu, 16 Jan 2025 10:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>倡導團體認為，蘋果的互通性努力不符合歐盟法律的精神或文字</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/apple_dma_compliance_criticized/</link>
-      <description><![CDATA[歐洲自由軟體基金會和其他組織敦促歐盟委員會加倍重視DMA 數位權利倡導組織認為，蘋果未能遵守歐盟《數位市場法案》（DMA）規定的互通義務。 … ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/apple_dma_compliance_criticized/</guid>
-      <pubDate>Thu, 16 Jan 2025 09:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
