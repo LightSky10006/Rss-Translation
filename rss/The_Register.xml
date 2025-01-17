@@ -3,26 +3,33 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 16:14:36 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 17:10:41 GMT</lastBuildDate>
+    <item>
+      <title>歐盟要求深入了解 X 的推薦演算法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</link>
+      <description><![CDATA[委員會堅稱這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加緊對埃隆·馬斯克的 X 進行持續調查，並要求審查最近對平台的推薦演算法......]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</guid>
+      <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
+    </item>
     <item>
       <title>無所不在的 rsync 工具中存在六個漏洞，一天內被公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
-      <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，12 月初，rsync 中發現了大量可能影響數十萬用戶的 CVE，並於週二公佈，但修復版本於同一天發布，並於第二天進一步調整以提高兼容性…… ]]></description>
+      <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
       <pubDate>Fri, 17 Jan 2025 15:49:09 GMT</pubDate>
     </item>
     <item>
-      <title>德國推出採用 AMD 技術的 Hunter 超級計算機</title>
+      <title>德國推出 AMD 驅動的 Hunter 超級計算機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</link>
       <description><![CDATA[耗資1,500 萬歐元的系統將作為2027 年推出的更大型Herder 超級電腦的試驗台 週四，數百台AMD APU 啟動，德國斯圖加特大學高效能運算中心(HLRS)宣布其最新的超級電腦 Hunter 的完成… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</guid>
       <pubDate>Fri, 17 Jan 2025 14:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>Copilot 以每月 3 美元的價格入侵 Microsoft 365 個人版和家用版</title>
+      <title>Copilot 每月額外支付 3 美元入侵 Microsoft 365 個人版和家用版</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</link>
-      <description><![CDATA[許多使用者對 Word 中意外出現的 AI 助理並不滿意 Copilot 即將登陸 Microsoft 365 個人版和家用版，Vulture Central 已經親身體驗了這款生成式 AI 助理的嘗試很有幫助…]]></description>
+      <description><![CDATA[許多用戶對 Word 中 AI 助理的意外到來印像不深 Copilot 即將推出 Microsoft 365 個人版和家庭版，Vulture Central 已經透過生成式 AI 助理的嘗試獲得了一些實踐經驗有幫助。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</guid>
       <pubDate>Fri, 17 Jan 2025 13:35:06 GMT</pubDate>
     </item>
@@ -64,12 +71,12 @@
     <item>
       <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
-      <description><![CDATA[如果你想要一幅未來的圖景，想像一下你的資安團隊永遠在軟體上打上烙印 微軟的聰明人調查了這家軟體巨頭自己的100 多種生成式人工智慧產品的安全性，得出了一個令人警醒的結論訊息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
+      <description><![CDATA[如果你想了解未來的情況，想像一下你的資訊安全團隊永遠在軟體上留下痕跡 微軟的天才們對軟體巨頭自己的100 多種生成式人工智慧產品的安全性進行了調查，得出了一個發人深省的結論消息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</guid>
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
+      <title>AWS 為其雲端桌面增加了 32 個 vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
       <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 17 Jan 2025 00:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
+      <title>拜登在告別演說中痛斥科技產業綜合體、假訊息瓦解民主</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
       <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
@@ -113,12 +120,12 @@
     <item>
       <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
-      <description><![CDATA[微軟表示，FSB 網路間諜涉足一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的多產網路釣魚組織，開展了一項新活動，旨在危害WhatsApp 帳戶和根據微軟的說法，可以存取他們的訊息和數據。]]></description>
+      <description><![CDATA[微軟稱，俄羅斯聯邦安全局(FSB) 網路間諜進入一款新應用進行間諜活動 更新  Star Blizzard 是一個由俄羅斯聯邦安全局(FSB)支援的網路釣魚團隊，他們進行了一次據微軟稱，新的活動旨在入侵 WhatsApp 帳戶並獲取其訊息和資料的存取權限…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
       <pubDate>Thu, 16 Jan 2025 19:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
+      <title>台積電計劃到 2026 年「量產」1.6 奈米晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
       <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>Anduril 選擇俄亥俄州建造 500 萬平方英尺的自主武器工廠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/anduril_auto_weapon_factory/</link>
-      <description><![CDATA[該超大規模工廠旨在每年生產數萬輛 AV Anduril 在中美洲找到了新家，今天確認這家國防科技製造商計劃在俄亥俄州哥倫布市。 …]]></description>
+      <description><![CDATA[超大規模工廠旨在每年生產數萬輛自動駕駛汽車 Anduril 在美國中部找到了新家，今天確認這家國防技術製造商計劃在俄亥俄州哥倫布市。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/anduril_auto_weapon_factory/</guid>
       <pubDate>Thu, 16 Jan 2025 16:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 為 RP2350 黑客挑戰賽中的所有人頒發獎品</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</link>
-      <description><![CDATA[電源引起的故障、雷射和電磁場都是交易工具 Raspberry Pi 為從一次性可編程 (OTP) 內存中提取秘密值的人提供了獎勵Raspberry Pi RP2350 微控制器–為所有四位參賽者獎勵一大筆現金。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</guid>
-      <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
