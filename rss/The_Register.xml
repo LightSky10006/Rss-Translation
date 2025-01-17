@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 10:38:48 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 11:35:09 GMT</lastBuildDate>
+    <item>
+      <title>摩托羅拉退出後，IBM 出手拯救英國緊急服務網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</link>
+      <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 14 億英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</guid>
+      <pubDate>Fri, 17 Jan 2025 11:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
-      <description><![CDATA[如果你想要一幅未來的圖景，想像一下你的資安團隊永遠在軟體上打上烙印 微軟的聰明人調查了這家軟體巨頭自己的100 多種生成式人工智慧產品的安全性，得出了一個令人警醒的結論訊息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
+      <description><![CDATA[如果你想了解未來的情況，想像一下你的資訊安全團隊永遠在軟體上留下痕跡 微軟的天才們對軟體巨頭自己的100 多種生成式人工智慧產品的安全性進行了調查，得出了一個發人深省的結論消息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</guid>
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
@@ -64,12 +71,12 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三發表了最後一次全國講話，他說，在網上虛假信息氾濫…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
+      <title>聯準會起訴西南航空長期延誤和不切實際的時間表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
       <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>Raspberry Pi 為 RP2350 黑客挑戰賽中的所有人頒發獎品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</link>
-      <description><![CDATA[電源引起的故障、雷射和電磁場都是行業工具 Raspberry Pi 因從一次性可編程 (OTP) 內存中提取秘密值而頒發了獎品Raspberry Pi RP2350 微控制器– 向四位參賽者頒發一大筆現金。]]></description>
+      <description><![CDATA[電源引起的故障、雷射和電磁場都是交易工具 Raspberry Pi 為從一次性可編程 (OTP) 內存中提取秘密值的人提供了獎勵Raspberry Pi RP2350 微控制器–為所有四位參賽者獎勵一大筆現金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</guid>
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Bookworm 的第八個版本 - 是的，你沒看錯 - 以及帶有新 Xfce 的最新 MX Debian 12.9 - Debian“Bookworm”的最新版本 - 於週末發布緊隨其後的是更有趣的下游版本之一MX Linux 23.5。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/</guid>
       <pubDate>Thu, 16 Jan 2025 12:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>藍色起源火箭「新格倫號」進入軌道，第一階段回收失敗</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</link>
-      <description><![CDATA[傑夫貝佐斯的航太公司在交付有效載荷方面實現了里程碑 傑夫貝佐斯今天早上發射了藍色起源的新格倫火箭，加入了軌道精英行列。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</guid>
-      <pubDate>Thu, 16 Jan 2025 11:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
