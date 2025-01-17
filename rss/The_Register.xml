@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 20:35:02 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 22:11:21 GMT</lastBuildDate>
+    <item>
+      <title>聯邦通訊委員會問電信業者：你是否知道，根據法律規定，你必須保護你的網路免受外國間諜的攻擊？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fcc_telcos_calea/</link>
+      <description><![CDATA[另外：山姆大叔對這家中國企業因「鹽颱風」大規模監聽而感到不滿 數十年前製定的一項立法要求美國電信公司鎖定其係統，以防止外國監聽者攔截通信，這不僅僅是法律書籍頁面上的裝飾——這實際上意味著運營商需要保護他們的網絡，FCC 對此表示不滿。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fcc_telcos_calea/</guid>
+      <pubDate>Fri, 17 Jan 2025 22:07:27 GMT</pubDate>
+    </item>
     <item>
       <title>拜登簽署全面網路安全命令，但川普及時將其廢除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/biden_cybersecurity_eo/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Fortinet：FortiGate 設定洩漏確實存在，但具有誤導性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</link>
-      <description><![CDATA[與 Ivanti 的競爭愈演愈烈，誰的開局最差 Fortinet 已確認，之前對 Belsen Group 洩露的記錄的分析確實是在零日襲擊期間竊取的真正的 FortiGate 配置2022 年。 ...]]></description>
+      <description><![CDATA[Ivanti 的競爭愈演愈烈，誰能迎來最糟糕的一年 Fortinet 已確認，之前對貝爾森集團洩露的記錄的分析確實是零日襲擊期間竊取的真正的 FortiGate 配置在2022年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</guid>
       <pubDate>Fri, 17 Jan 2025 18:32:06 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>無所不在的 rsync 工具中存在六個漏洞，一天內被公佈並修復</title>
+      <title>無處不在的 rsync 工具中六個漏洞在一天內公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
       <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>Copilot 以每月 3 美元的價格入侵 Microsoft 365 個人版和家用版</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</link>
-      <description><![CDATA[許多使用者對 Word 中意外出現的 AI 助理並不滿意 Copilot 即將登陸 Microsoft 365 個人版和家用版，Vulture Central 已經親身體驗了這款生成式 AI 助理的嘗試很有幫助…]]></description>
+      <description><![CDATA[許多用戶對 Word 中 AI 助理的意外到來印像不深 Copilot 即將推出 Microsoft 365 個人版和家庭版，Vulture Central 已經透過生成式 AI 助理的嘗試獲得了一些實踐經驗有幫助。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</guid>
       <pubDate>Fri, 17 Jan 2025 13:35:06 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
-      <description><![CDATA[在洩漏網站上貼上據稱被盜的文件，要求支付 60 萬英鎊 又一年，又一個英國地方當局被勒索軟體人員攻陷。這次是美杜莎集團手中的英格蘭東北部蓋茨黑德委員會。]]></description>
+      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
       <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
-      <description><![CDATA[如果你想要一幅未來的圖景，想像一下你的資安團隊永遠在軟體上打上烙印 微軟的聰明人調查了這家軟體巨頭自己的100 多種生成式人工智慧產品的安全性，得出了一個令人警醒的結論訊息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
+      <description><![CDATA[如果你想了解未來的情況，想像一下你的資訊安全團隊永遠在軟體上留下痕跡 微軟的天才們對軟體巨頭自己的100 多種生成式人工智慧產品的安全性進行了調查，得出了一個發人深省的結論消息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</guid>
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 17 Jan 2025 02:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽車停車場聲稱司機位置數據被提供給保險公司，導致保費上漲</title>
+      <title>通用汽車公園聲稱司機位置數據已提供給保險公司，推高保費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</link>
       <description><![CDATA[我們下次一定會請求許可，汽車製造商告訴聯邦貿易委員會 通用汽車週四表示，已與聯邦貿易委員會達成和解，「以解決我們現已停止的智慧駕駛員計劃的隱私問題“…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三發表了最後一次全國講話，他說，在網上虛假信息氾濫…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
-      <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
-      <pubDate>Thu, 16 Jan 2025 20:00:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
