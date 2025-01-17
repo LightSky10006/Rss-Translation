@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 17 Jan 2025 14:37:19 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 17 Jan 2025 15:12:48 GMT</lastBuildDate>
+    <item>
+      <title>馬克·祖克柏背棄媒體</title>
+      <link>https://www.wired.com/story/plaintext-mark-zuckerberg-turns-his-back-on-the-media/</link>
+      <description><![CDATA[Meta 執行長放棄了對真相的承諾，轉而採用川普式的策略。]]></description>
+      <guid>https://www.wired.com/story/plaintext-mark-zuckerberg-turns-his-back-on-the-media/</guid>
+      <pubDate>Fri, 17 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>您能使用 Raspberry Pi 挖掘加密貨幣致富嗎？</title>
       <link>https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>WiiM Amp Pro 評論：說出更好的網路擴大機，我們拭目以待</title>
       <link>https://www.wired.com/review/wiim-amp-pro/</link>
-      <description><![CDATA[這是您現在可以買到的最便宜的網路擴大機。]]></description>
+      <description><![CDATA[這是您現在可以買到的最好的廉價網路擴大機。]]></description>
       <guid>https://www.wired.com/review/wiim-amp-pro/</guid>
       <pubDate>Fri, 17 Jan 2025 13:33:00 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 17 Jan 2025 12:34:00 GMT</pubDate>
     </item>
     <item>
-      <title>1 月 21 日六大行星連成一線</title>
+      <title>1 月 21 日看到 6 顆行星對齊</title>
       <link>https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/</link>
       <description><![CDATA[五顆或更多行星連成一線的情況非常罕見——今年將再出現兩次五顆或更多行星連成一線的情況，但下一次要等到 2040 年了。]]></description>
       <guid>https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>Polestar 有一個大膽的計劃——提高汽車銷量</title>
       <link>https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/</link>
-      <description><![CDATA[這家中國控制的電動車品牌每賣出一輛汽車就損失數萬美元。隨著美國對中國汽車銷售的禁令迫在眉睫，該公司需要迅速扭轉局面。]]></description>
+      <description><![CDATA[該中國控股的電動車品牌每賣出一輛車就會損失數萬美元。隨著美國即將對中國汽車實施銷售禁令，該公司需要迅速扭轉局面。]]></description>
       <guid>https://www.wired.com/story/polestars-plan-to-save-itself-from-ruin/</guid>
       <pubDate>Fri, 17 Jan 2025 11:56:35 GMT</pubDate>
     </item>
@@ -85,12 +92,12 @@
     <item>
       <title>駭客可能竊取了 AT&T 的 FBI 通話記錄，這可能會危及線人的利益</title>
       <link>https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/</link>
-      <description><![CDATA[AT&amp;T 遭遇資料外洩事件，導致該公司「幾乎所有」客戶資訊遭洩露，其中可能包括與 FBI 機密消息來源相關的記錄，這或許可以解釋該局為何新近採用端到端加密技術。]]></description>
+      <description><![CDATA[AT&amp;T 的一次違規事件暴露了該公司「幾乎所有」客戶的身份，其中可能包括與聯邦調查局機密消息來源相關的記錄，這可能解釋了該局為何開始採用端對端加密。]]></description>
       <guid>https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/</guid>
       <pubDate>Fri, 17 Jan 2025 00:14:45 GMT</pubDate>
     </item>
     <item>
-      <title>Mira Murati 的人工智慧新創公司進行了首批招聘，包括前 OpenAI 高管</title>
+      <title>Mira Murati 的 AI 新創公司首次招募員工，包括前 OpenAI 高階主管</title>
       <link>https://www.wired.com/story/mira-murati-startup-hire-staff/</link>
       <description><![CDATA[對於穆拉蒂的神秘新創公司來說，這是一個重大收穫，該公司也從許多其他知名人工智慧公司挖走了工程師和研究人員。]]></description>
       <guid>https://www.wired.com/story/mira-murati-startup-hire-staff/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>一本用 DNA 寫成的書——你可以花 60 美元買到</title>
       <link>https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/</link>
-      <description><![CDATA[這可能是第一本保存在 DNA 中的商業書籍，它是消費者如何使用分子資料儲存的最新範例。]]></description>
+      <description><![CDATA[這可能是第一本以 DNA 保存的商業化書籍，這是消費者使用分子資料儲存的最新例子。]]></description>
       <guid>https://www.wired.com/story/entire-book-written-in-dna-buy-it-60-dollars/</guid>
       <pubDate>Thu, 16 Jan 2025 22:51:48 GMT</pubDate>
     </item>
@@ -120,12 +127,12 @@
     <item>
       <title>看看這些非凡的水星新圖像</title>
       <link>https://www.wired.com/gallery/images-of-mercury-bepicolombo-mission/</link>
-      <description><![CDATA[歐洲和日本聯合 BepiColombo 任務期間拍攝的水星新照片揭示了這顆小岩石行星的迷人細節。]]></description>
+      <description><![CDATA[歐洲和日本聯合發射的貝皮哥倫布號任務拍攝的水星新照片揭示了這顆小岩石行星的迷人細節。]]></description>
       <guid>https://www.wired.com/gallery/images-of-mercury-bepicolombo-mission/</guid>
       <pubDate>Thu, 16 Jan 2025 16:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>Nubia Redmagic 10 Pro 評測：遊戲玩家的理想選擇</title>
+      <title>Nubia Redmagic 10 Pro評論：對遊戲玩家的價值</title>
       <link>https://www.wired.com/review/nubia-redmagic-10-pro/</link>
       <description><![CDATA[努比亞的 Redmagic 10 Pro 以中階價格提供了出色的手機遊戲體驗，但非遊戲玩家應該另尋他處。]]></description>
       <guid>https://www.wired.com/review/nubia-redmagic-10-pro/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[該振動器有兩個馬達，甚至可以加熱到體溫，以獲得更自然的感覺。]]></description>
       <guid>https://www.wired.com/review/lovense-osci-3/</guid>
       <pubDate>Thu, 16 Jan 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>任天堂正式發表 Switch 2</title>
-      <link>https://www.wired.com/story/switch-2-announcement-nintendo/</link>
-      <description><![CDATA[經過數週的洩密和瘋狂猜測，任天堂於週四向粉絲們首次展示了其稍大一些的新產品 Switch。該公司還發布了一款新的馬裡奧賽車遊戲。]]></description>
-      <guid>https://www.wired.com/story/switch-2-announcement-nintendo/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:49:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
