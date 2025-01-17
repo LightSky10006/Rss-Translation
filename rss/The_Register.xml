@@ -3,24 +3,31 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 18:16:11 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 18:41:54 GMT</lastBuildDate>
+    <item>
+      <title>Fortinet：FortiGate 設定洩漏確實存在，但具有誤導性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</link>
+      <description><![CDATA[Ivanti 的競爭愈演愈烈，誰能迎來最糟糕的一年 Fortinet 已確認，之前對貝爾森集團洩露的記錄的分析確實是零日襲擊期間竊取的真正的 FortiGate 配置在2022年…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</guid>
+      <pubDate>Fri, 17 Jan 2025 18:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報道，拜登計劃繞過執法部門，將責任推給川普，這場鬧劇可能仍未結束 美國最高法院維持了一項法律，要求TikTok 要么從其中國母公司位元組跳動撤資否則將在美國面臨禁令。該裁決消除了聯邦政府於1月19日強制關閉該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報道，拜登計劃規避執法，將責任推給川普，這場傳奇可能還沒有結束 美國最高法院維持了一項法律，要求TikTok 要么從其中國母公司位元組跳動撤資或在美國面臨禁令。該決定消除了聯邦政府於 1 月 19 日強制關閉該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>歐盟要求了解 X 推薦演算法的幕後黑手</title>
+      <title>歐盟要求深入了解 X 的推薦演算法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</link>
       <description><![CDATA[委員會堅稱，這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加強對伊隆馬斯克的 X 的調查，並要求審查最近對平台的推薦算法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</guid>
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>無處不在的 rsync 工具中六個漏洞在一天內公佈並修復</title>
+      <title>無處不在的 rsync 工具中的六個漏洞在一天內公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
       <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
@@ -43,28 +50,28 @@
     <item>
       <title>蘋果透過關閉人工智慧來解決突發新聞警報問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</link>
-      <description><![CDATA[當Apple Intelligence「改進」時，摘要將會回傳 Apple 發布了iOS 18.3 的新測試版，並預設承認，是的，其人工智慧產生的通知摘要需要做更多工作。]]></description>
+      <description><![CDATA[當 Apple Intelligence 得到「改進」後，摘要將會恢復 Apple 發布了 iOS 18.3 的新測試版，並預設其 AI 產生的通知摘要需要進一步改進。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</guid>
       <pubDate>Fri, 17 Jan 2025 12:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>摩托羅拉解救後 IBM 出手救援英國緊急服務網絡</title>
+      <title>摩托羅拉退出後，IBM 出手拯救英國緊急服務網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</link>
       <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 14 億英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</guid>
       <pubDate>Fri, 17 Jan 2025 11:26:10 GMT</pubDate>
     </item>
     <item>
-      <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
+      <title>美杜莎勒索軟體組織聲稱襲擊了英國蓋茨黑德委員會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
-      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
+      <description><![CDATA[在洩漏網站上貼上據稱被盜的文件，要求支付 60 萬英鎊 又一年，又一個英國地方當局被勒索軟體人員攻陷。這次是美杜莎集團手中的英格蘭東北部蓋茨黑德委員會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
       <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
     </item>
     <item>
       <title>英國政府承包商 CloudKubed 進入破產程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
-      <description><![CDATA[英國內政部、工作和退休金部供應商FRP Advisory 負責 一家自稱為英國政府提供「轉型數據和人工智慧解決方案」的專業供應商已召集行政接管人.. ....  ]]></description>
+      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
       <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Fri, 17 Jan 2025 00:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
+      <title>拜登在告別演說中痛斥科技產業綜合體、假訊息瓦解民主</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三發表了最後一次全國講話，他說，在網上虛假信息氾濫…]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 16 Jan 2025 19:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
+      <title>台積電計劃到 2026 年「量產」1.6 奈米晶片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
       <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
       <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enzo Biochem 以 750 萬美元和解 2023 年勒索軟體攻擊訴訟</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/enzo_biochem_ransomware_lawsuit/</link>
-      <description><![CDATA[這是在去年向三位州檢察長支付的450 萬美元罰款之外的 Enzo Biochem 已就其2023 年勒索軟體事件以750 萬美元的價格達成和解，並達成了一項合併集體訴訟。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/enzo_biochem_ransomware_lawsuit/</guid>
-      <pubDate>Thu, 16 Jan 2025 17:32:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
