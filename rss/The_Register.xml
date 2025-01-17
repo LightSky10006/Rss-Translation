@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 04:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 06:42:30 GMT</lastBuildDate>
+    <item>
+      <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
+      <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
+      <pubDate>Fri, 17 Jan 2025 06:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 將「星際飛船墜毀以來的天數」計數器重設為零</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
+      <title>正當你的法學碩士再次脫軌時，思科、英偉達正在門口微笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
       <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人，或者允許「影子人工智慧」悄悄潛入 思科和Nvidia 都認識到，儘管今天的人工智慧可能很有用，但這項技術同樣不安全，而且/或不可靠——並提供了工具試圖幫助解決這些弱點。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</guid>
@@ -83,14 +90,14 @@
       <pubDate>Thu, 16 Jan 2025 14:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧資料中心使零排放承諾變得遙不可及</title>
+      <title>人工智慧資料中心讓零排放承諾遙不可及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
       <description><![CDATA[另外：比特倉庫對水、土地和電力的需求可能會引起居民的「日益強烈的反對」 由於人工智慧的成長威脅到永續發展承諾和權威，資料中心產業似乎將迎來動盪的2025 年公眾對新項目的敵意很可能會日益增加…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
       <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>監管機構表示英國人必須在七月前在成人網站上證明自己的年齡</title>
+      <title>監管機構稱，英國人必須在七月之前在成人網站上證明自己的年齡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</link>
       <description><![CDATA[監管機構要求人們將他們的信用卡、行動帳戶或臉部掃描關聯起來，以防止色情內容被使用，以保護兒童 英國通訊監管機構發布了針對網站運營商的指導意見，旨在防止18 歲以下的人訪問色情內容透過「高效年齡保證」技術在線上發佈內容…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</guid>
@@ -99,14 +106,14 @@
     <item>
       <title>Debian 12.9 發布，MX Linux 23.5 緊隨其後</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/</link>
-      <description><![CDATA[Bookworm 的第八個版本 - 是的，你沒看錯 - 以及帶有新 Xfce 的最新 MX Debian 12.9 - Debian“Bookworm”的最新版本 - 於週末發布緊隨其後的是更有趣的下游版本之一MX Linux 23.5。]]></description>
+      <description><![CDATA[Bookworm 的第八個單點版本- 是的，你沒看錯- 以及帶有新Xfce 的最新MX Debian 12.9 - Debian“Bookworm”的最新單點版本- 於週末出現緊隨其後的是更有趣的下游產品之一，MX Linux 23.5。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/debian_12_9_mx_12_5/</guid>
       <pubDate>Thu, 16 Jan 2025 12:35:51 GMT</pubDate>
     </item>
     <item>
       <title>藍色起源火箭「新格倫號」進入軌道，第一階段回收失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</link>
-      <description><![CDATA[傑夫貝佐斯的太空公司實現里程碑，有效載荷交付 今天早上，隨著藍色起源的新格倫火箭發射，傑夫貝佐斯加入了軌道精英的行列。]]></description>
+      <description><![CDATA[傑夫貝佐斯的航太公司在交付有效載荷方面實現了里程碑 傑夫貝佐斯今天早上發射了藍色起源的新格倫火箭，加入了軌道精英行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</guid>
       <pubDate>Thu, 16 Jan 2025 11:30:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>印度成為第四個將衛星送上軌道的國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
-      <description><![CDATA[在歐空局慶祝其太陽記錄儀計劃中的分離之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國家。]]></description>
+      <description><![CDATA[正當歐空局慶祝其太陽記錄儀分拆計畫之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</guid>
       <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
-      <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
-      <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
