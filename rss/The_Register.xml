@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 00:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 02:10:37 GMT</lastBuildDate>
     <item>
-      <title>通用汽車停車場聲稱駕駛員位置數據被分享給保險公司，推高了保費</title>
+      <title>通用汽車公園聲稱司機位置數據已提供給保險公司，推高保費</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</link>
-      <description><![CDATA[我們下次一定會請求許可，汽車製造商告訴聯邦貿易委員會 通用汽車週四表示，已與聯邦貿易委員會達成和解，「以解決我們現已停止的智慧駕駛員計劃的隱私問題“…]]></description>
+      <description><![CDATA[汽車製造商告訴FTC，我們下次一定會請求許可 通用汽車週四表示，它已與FTC 達成和解，「以解決對我們現已終止的智慧駕駛員計劃的隱私問題” ”...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</guid>
       <pubDate>Fri, 17 Jan 2025 00:49:27 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 16 Jan 2025 20:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
+      <title>俄羅斯 Star Blizzard 網路釣魚團隊被發現針對 WhatsApp 帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
       <description><![CDATA[微軟稱，俄羅斯聯邦安全局網路間諜進入一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的網路釣魚團隊，他們開展了一項新活動，旨在入侵WhatsApp 帳戶並據微軟稱，可以存取他們的資訊和資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌報告在人工智慧的幫助下將程式碼遷移時間減半</title>
+      <title>谷歌報告稱，借助人工智慧將程式碼遷移時間縮短了一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</link>
       <description><![CDATA[巧克力工廠品嚐自己的“狗糧”，擺脫特定領域的苦差事 谷歌與微軟一樣熱衷於兜售人工智能軟體，據報道，它正在品嚐自己的人工智能混合物，並在離開實驗室時感受到了令人愉悅的體驗它的嘴巴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>監管機構表示英國人必須在七月前在成人網站上證明自己的年齡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</link>
-      <description><![CDATA[監管機構要求人們將他們的信用卡、行動帳戶或臉部掃描關聯起來，以防止色情內容被使用，以保護兒童 英國通訊監管機構發布了針對網站運營商的指導意見，旨在防止18 歲以下的人訪問色情內容透過「高效年齡保證」技術在線上發佈內容…]]></description>
+      <description><![CDATA[監管機構要求人們關聯其信用卡、行動帳戶或臉部掃描以用於色情內容，以保護兒童 英國通訊監管機構已發布針對網站運營商的指南，旨在防止18 歲以下青少年存取色情內容透過「高效年齡保證」技術線上內容。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ofcom_age_verification/</guid>
       <pubDate>Thu, 16 Jan 2025 13:02:52 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
-      <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
+      <description><![CDATA[在Apple 晶片上運行的x86_64 虛擬機器預覽版中，因此目前還情有可原 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽版，允許虛擬機器運行針對x86_64 架構編碼的作業系統，例如Microsoft Windows，在Apple 的Arm 晶片上運行。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
       <pubDate>Thu, 16 Jan 2025 01:38:12 GMT</pubDate>
     </item>
