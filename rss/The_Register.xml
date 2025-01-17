@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 08:15:56 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 08:39:02 GMT</lastBuildDate>
+    <item>
+      <title>技術支援人員沒有預算、沒有幫助、沒有培訓，也沒有對他的困境表示同情</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</link>
+      <description><![CDATA[無論如何都解決了問題——沒有批准購買，也沒有使用設備的權限 隨叫隨到  週末來臨時，沒有人需要獲得許可才能做他們想做的事慾望。當然，除非他們必須隨時待命以支援技術——這是我們每週在 On Call 中標記的限制，該專欄旨在慶祝儘管有笨拙的傻瓜仍能完成出色的修復壯舉。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</guid>
+      <pubDate>Fri, 17 Jan 2025 08:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
+      <title>AWS 為其雲端桌面增加了 32 個 vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
       <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>正當你的法學碩士再次脫軌時，思科、英偉達正在門口微笑</title>
+      <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
       <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人，或者允許「影子人工智慧」悄悄潛入 思科和Nvidia 都認識到，儘管今天的人工智慧可能很有用，但這項技術同樣不安全，而且/或不可靠——並提供了工具試圖幫助解決這些弱點。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>聯邦政府起訴西南航空長期延誤、不切實際的時刻表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</link>
-      <description><![CDATA[交通部也希望參與拜登政府的最後一刻行動 交通部加入了拜登政府的一系列最後一刻行動，提起訴訟，指控西南航空運營航班長期延誤航班。 …]]></description>
+      <description><![CDATA[交通部也希望參與拜登政府最後一刻的行動 交通部加入了拜登政府最後一刻行動的行列，提起訴訟，指控西南航空公司運營長期延誤航班。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/us_government_sues_southwest_airlines/</guid>
       <pubDate>Thu, 16 Jan 2025 20:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
+      <title>俄羅斯 Star Blizzard 網路釣魚團隊被發現針對 WhatsApp 帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
       <description><![CDATA[微軟稱，俄羅斯聯邦安全局網路間諜進入一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的網路釣魚團隊，他們開展了一項新活動，旨在入侵WhatsApp 帳戶並據微軟稱，可以存取他們的資訊和資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
-      <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
+      <description><![CDATA[你必須花錢——例如360 億美元以上——來製造，呃，人工智慧晶片 台積電將2025 年的資本支出提高到380 億至420 億美元，以期獲得更多晶片人工智慧處理器領域的製造合約。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
       <pubDate>Thu, 16 Jan 2025 18:26:10 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>谷歌報告稱，借助人工智慧將程式碼遷移時間縮短了一半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</link>
-      <description><![CDATA[巧克力工廠吸食自己的狗糧，在特定領域擺脫苦差事 谷歌以與微軟一樣狂熱的熱情兜售人工智能軟體，報告稱狗食了自己的人工智能混合物，並在離開實驗室時品嚐到了令人愉悅的味道它的嘴。]]></description>
+      <description><![CDATA[巧克力工廠品嚐自己的“狗糧”，擺脫特定領域的苦差事 谷歌與微軟一樣熱衷於兜售人工智能軟體，據報道，它正在品嚐自己的人工智能混合物，並在離開實驗室時感受到了令人愉悅的體驗它的嘴巴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</guid>
       <pubDate>Thu, 16 Jan 2025 14:32:15 GMT</pubDate>
     </item>
     <item>
       <title>人工智慧資料中心讓零排放承諾遙不可及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
-      <description><![CDATA[另外：比特倉庫對水、土地和電力的需求可能會引起居民的「日益強烈的反對」 由於人工智慧的成長威脅到永續發展承諾和權威，資料中心產業似乎將迎來動盪的2025 年公眾對新項目的敵意很可能會日益增加…]]></description>
+      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 隨著人工智慧的增長有可能超越永續發展承諾和權威，資料中心產業看起來將迎來動盪的2025 年公眾對新專案的敵意可能會越來越大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
       <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[歐洲自由軟體基金會和其他組織敦促歐盟委員會加倍重視DMA 數位權利倡導組織認為，蘋果未能遵守歐盟《數位市場法案》（DMA）規定的互通義務。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/apple_dma_compliance_criticized/</guid>
       <pubDate>Thu, 16 Jan 2025 09:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>監管機構稱英國政府技術採購缺乏了解</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</link>
-      <description><![CDATA[NAO 報告強調IT 項目成本超支30 億英鎊，累計延期29 年 根據支出監督機構對英國政府在140 億英鎊的IT 採購項目中進行的分析，英國政府在規劃技術採購時，對技術可行性的評估有限。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</guid>
-      <pubDate>Thu, 16 Jan 2025 08:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
