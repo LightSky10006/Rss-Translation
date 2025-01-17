@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 16 Jan 2025 23:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:57:13 GMT</lastBuildDate>
+    <item>
+      <title>通用汽車停車場聲稱駕駛員位置數據被分享給保險公司，推高了保費</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</link>
+      <description><![CDATA[我們下次一定會請求許可，汽車製造商告訴聯邦貿易委員會 通用汽車週四表示，已與聯邦貿易委員會達成和解，「以解決我們現已停止的智慧駕駛員計劃的隱私問題“…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gm_settles_ftc_charges/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:49:27 GMT</pubDate>
+    </item>
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌報告稱，借助人工智慧將程式碼遷移時間縮短了一半</title>
+      <title>谷歌報告在人工智慧的幫助下將程式碼遷移時間減半</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</link>
       <description><![CDATA[巧克力工廠品嚐自己的“狗糧”，擺脫特定領域的苦差事 谷歌與微軟一樣熱衷於兜售人工智能軟體，據報道，它正在品嚐自己的人工智能混合物，並在離開實驗室時感受到了令人愉悅的體驗它的嘴巴。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/google_ai_code_migration/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 16 Jan 2025 12:35:51 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源與新格倫號一起進入軌道，但第一階段回收失敗</title>
+      <title>藍色起源火箭「新格倫號」進入軌道，第一階段回收失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</link>
       <description><![CDATA[傑夫貝佐斯的太空公司實現里程碑，有效載荷交付 今天早上，隨著藍色起源的新格倫火箭發射，傑夫貝佐斯加入了軌道精英的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>印度成為第四個將衛星送上軌道的國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
-      <description><![CDATA[在歐空局慶祝其太陽記錄儀計劃中的分離之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國家。]]></description>
+      <description><![CDATA[正當歐空局慶祝其太陽記錄儀分拆計畫之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</guid>
       <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
     </item>
     <item>
-      <title>Parallels 恢復了 Windows 啟動等待七分鐘的魔力</title>
+      <title>Parallels 讓等待 Windows 啟動七分鐘的神奇功能重現於世</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
       <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[系統將配備數百個液冷 Blackwell 系統 Nvidia 正在以色列北部建造一台 30 兆瓦的研發超級計算機，該計算機配備了最新一代 Blackwell GPU，預計成本為十億美元……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nvidia_israel_blackwell/</guid>
       <pubDate>Thu, 16 Jan 2025 00:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoDaddy 因多年安全鬆懈和「多次重大違規」而受到嚴厲批評</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</link>
-      <description><![CDATA[監管機構指控其沒有SIEM 或MFA，要求其迅速採用基本的資訊安全工具 根據FTC 的說法，自2018 年以來，GoDaddy 甚至未能使用基本的資訊安全工具和實踐來保護其網站託管平台，但這家網路巨頭不會因其多項涉嫌不作為行為而面臨任何立即後果。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/15/godaddy_ftc_order/</guid>
-      <pubDate>Wed, 15 Jan 2025 23:47:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
