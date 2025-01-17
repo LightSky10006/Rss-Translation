@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 17 Jan 2025 02:56:01 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 17 Jan 2025 04:41:02 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 將「星際飛船墜毀以來的天數」計數器重設為零</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</link>
+      <description><![CDATA[第七次試飛在地面上表現更好，助推器成功回收 SpaceX 再次損失了一艘星際飛船，此前飛船的第七次試飛以“快速非計劃解體”告終，但儘管如此慶祝這次任務以超重型助推器第二次成功回收而結束…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>拜登在告別演講中抨擊科技工業複合體和破壞民主的假訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</link>
-      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三發表了最後一次全國講話，他說，在網上虛假信息氾濫…]]></description>
+      <description><![CDATA[歡迎來到寡頭不再沉默的十年 美國總統喬·拜登週三向全國發表了最後一次講話，並表示美國明顯在滑向寡頭壟斷，而網上虛假信息氾濫……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/biden_oligopoly_ai/</guid>
       <pubDate>Thu, 16 Jan 2025 21:33:37 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>俄羅斯「星暴雪」網路釣魚團隊針對 WhatsApp 帳號展開攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</link>
-      <description><![CDATA[微軟稱，俄羅斯聯邦安全局網路間諜進入一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的網路釣魚團隊，他們開展了一項新活動，旨在入侵WhatsApp 帳戶並據微軟稱，可以存取他們的資訊和資料。]]></description>
+      <description><![CDATA[微軟表示，FSB 網路間諜涉足一款新應用程式進行間諜活動 Star Blizzard 是一個由俄羅斯聯邦安全局(FSB) 支持的多產網路釣魚組織，開展了一項新活動，旨在危害WhatsApp 帳戶和根據微軟的說法，可以存取他們的訊息和數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/russia_star_blizzard_whatsapp/</guid>
       <pubDate>Thu, 16 Jan 2025 19:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>台積電計劃到 2026 年「量產」1.6 奈米晶片</title>
+      <title>台積電計劃在 2026 年實現 1.6nm 晶片量產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</link>
       <description><![CDATA[你必須花錢－例如360 億美元以上－來製造AI 晶片 台積電將在2025 年將資本支出提高到380 億美元至420 億美元之間，以期獲得更多晶片人工智慧處理器領域的製造合約… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/tsmc_says_16nm_chips_volume_2026/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Raspberry Pi 為 RP2350 黑客挑戰賽中的所有人頒發獎品</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</link>
-      <description><![CDATA[電源引起的故障、雷射和電磁場都是行業工具 Raspberry Pi 因從一次性可編程 (OTP) 內存中提取秘密值而頒發了獎品Raspberry Pi RP2350 微控制器– 向四位參賽者頒發一大筆現金。]]></description>
+      <description><![CDATA[電源引起的故障、雷射和電磁場都是交易工具 Raspberry Pi 為從一次性可編程 (OTP) 內存中提取秘密值的人提供了獎勵Raspberry Pi RP2350 微控制器–為所有四位參賽者獎勵一大筆現金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/raspberry_pi_awards_prizes_for/</guid>
       <pubDate>Thu, 16 Jan 2025 15:15:07 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Thu, 16 Jan 2025 14:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧資料中心讓零排放承諾遙不可及</title>
+      <title>人工智慧資料中心使零排放承諾變得遙不可及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</link>
-      <description><![CDATA[加上：比特穀倉對水、土地和電力的需求可能會招致居民「日益強烈的反對」 由於人工智慧的增長有可能超越永續發展承諾和權威，數據中心產業看起來將迎來動盪的2025 年公眾對新項目的敵意可能會越來越大…]]></description>
+      <description><![CDATA[另外：比特倉庫對水、土地和電力的需求可能會引起居民的「日益強烈的反對」 由於人工智慧的成長威脅到永續發展承諾和權威，資料中心產業似乎將迎來動盪的2025 年公眾對新項目的敵意很可能會日益增加…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/ai_datacenters_putting_zero_emissions/</guid>
       <pubDate>Thu, 16 Jan 2025 14:08:35 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 16 Jan 2025 12:35:51 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源與新格倫號一起進入軌道，但第一階段回收失敗</title>
+      <title>藍色起源火箭「新格倫號」進入軌道，第一階段回收失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</link>
       <description><![CDATA[傑夫貝佐斯的太空公司實現里程碑，有效載荷交付 今天早上，隨著藍色起源的新格倫火箭發射，傑夫貝佐斯加入了軌道精英的行列。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/new_glenn_reaches_orbit/</guid>
@@ -120,30 +127,23 @@
     <item>
       <title>監管機構稱英國政府技術採購缺乏了解</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</link>
-      <description><![CDATA[NAO 報告強調了IT 項目30 億英鎊的成本超支和29 年的累計延誤 根據支出監管機構對14 英鎊的分析，英國政府計劃其技術採購，但對技術可行性的評估有限。]]></description>
+      <description><![CDATA[NAO 報告強調IT 項目成本超支30 億英鎊，累計延期29 年 根據支出監督機構對英國政府在140 億英鎊的IT 採購項目中進行的分析，英國政府在規劃技術採購時，對技術可行性的評估有限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/nao_uk_government_tech/</guid>
       <pubDate>Thu, 16 Jan 2025 08:30:13 GMT</pubDate>
     </item>
     <item>
       <title>印度成為第四個將衛星送上軌道的國家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</link>
-      <description><![CDATA[正當歐空局慶祝其太陽記錄儀分拆計畫之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國。]]></description>
+      <description><![CDATA[在歐空局慶祝其太陽記錄儀計劃中的分離之際 印度太空研究組織(ISRO) 已成功對接兩顆衛星，使該國成為第四個實現這一壯舉的國家。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/isro_spadex_satellite_docking_succeeds/</guid>
       <pubDate>Thu, 16 Jan 2025 07:30:09 GMT</pubDate>
     </item>
     <item>
       <title>美國將台積電涉嫌協助華為製造 GPU 的中國 RISC-V 廠商列入高風險公司名單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</link>
-      <description><![CDATA[Sophgo 入實體名單，印度核科學家被除名 疑似華為 AI 晶片供應商的中國晶片設計商 Sophgo 已被列入美國組織「實體名單」代表國家安全風險，因此禁止與美國公司合作，除非獲得允許此類交易的許可證。]]></description>
+      <description><![CDATA[Sophgo 被列入實體名單，印度核科學家被除名 中國晶片設計公司Sophgo 被列入美國“實體名單”，該公司涉嫌為華為提供AI 晶片，目前已被列入美國「實體名單」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/entity_list_chinese_expansion/</guid>
       <pubDate>Thu, 16 Jan 2025 06:14:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parallels 恢復了 Windows 啟動等待七分鐘的魔力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</link>
-      <description><![CDATA[在Apple 晶片上運行x86_64 VM 的預覽中，因此目前是可以原諒的 桌面虛擬機管理程式專家Parallels 發布了程式碼的早期技術預覽，允許虛擬機器運行為x86_64 架構編碼的作業系統，例如 Microsoft Windows，可以在 Apple 的 Arm 驅動晶片上運作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/16/parallels_x86_vms_on_apple_silicon/</guid>
-      <pubDate>Thu, 16 Jan 2025 01:38:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
