@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 18 Jan 2025 06:15:25 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Sat, 18 Jan 2025 09:34:18 GMT</lastBuildDate>
+    <item>
+      <title>Windows 如何發展到第 3 版—圖解歷史</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</link>
+      <description><![CDATA[增加了漫畫和諷刺。有什麼不喜歡的？微軟是如何利用 Windows 3 實現有史以來最偉大的回歸之一的？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</guid>
+      <pubDate>Sat, 18 Jan 2025 09:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>CISA：哇，那次選舉受到了很多外國的惡意攻擊。川普的國土安全部長人選：這不關你的事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</link>
-      <description><![CDATA[新任負責人克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“距離使命太遠” 美國領先的網絡安全機構週五對即將到來的選舉安全真相以及CISA 在維護選舉安全方面所扮演的角色發出了最後的吶喊…]]></description>
+      <description><![CDATA[即將上任的老闆克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“離使命太遠了” 美國主要網絡安全機構週五對即將到來的選舉安全真相真空以及CISA在維護選舉安全方面所扮演的角色發出了最後的尖叫聲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</guid>
       <pubDate>Sat, 18 Jan 2025 02:37:22 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 遵守的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
@@ -62,9 +69,9 @@
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>無所不在的 rsync 工具中存在六個漏洞，一天內被公佈並修復</title>
+      <title>無處不在的 rsync 工具中的六個漏洞在一天內公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
-      <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
+      <description><![CDATA[事實證明，該工具可以快速進行文件傳輸和安全修復 不要驚慌。是的，12 月初在rsync 中發現了一堆CVE，可能影響數十萬用戶，並在週二公開，但同一天發布了一個修復版本，並在第二天進行了進一步調整，以獲得更好的相容性...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
       <pubDate>Fri, 17 Jan 2025 15:49:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>摩托羅拉退出後，IBM 出手拯救英國緊急服務網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</link>
-      <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 14 億英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
+      <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 1.4B 英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</guid>
       <pubDate>Fri, 17 Jan 2025 11:26:10 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>英國政府承包商 CloudKubed 進入破產程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
-      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
+      <description><![CDATA[英國內政部、工作和退休金部供應商FRP Advisory 負責 一家自稱為英國政府提供「轉型數據和人工智慧解決方案」的專業供應商已召集行政接管人.. ....  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
       <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 為其雲端桌面添加了 32-vCPU 選項和更簡單的入口</title>
+      <title>AWS 為其雲端桌面增加了 32 個 vCPU 選項和更簡單的入口</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</link>
       <description><![CDATA[奇怪的是，這顯示了託管Windows 的弱點，並承認了視訊聊天 亞馬遜網路服務公司(Amazon Web Services) 已經打開了一對工作站級雲端桌面的開關，具有諷刺意義的是，這凸顯了該技術的一個問題…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/aws_workspaces_upgrades/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[第七次試飛在地面上表現更好，助推器成功捕獲- 當飛機從墜落的碎片中轉向時 更新  在第七次試飛後，SpaceX 再次失去了一艘星際飛船太空船的最終階段以「快速、計劃外的拆卸」結束，但仍在慶祝這次任務，因為它以第二次成功捕獲其超重型助推器而結束。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/spacex_starship_explosion_booster_catch/</guid>
       <pubDate>Fri, 17 Jan 2025 04:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>就在你的法學碩士再次脫軌時，思科、Nvidia 卻在門口微笑</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</link>
-      <description><![CDATA[你們中的一些人顯然已經搞砸了聊天機器人，或者允許「影子人工智慧」悄悄潛入 思科和Nvidia 都認識到，儘管今天的人工智慧可能很有用，但這項技術同樣不安全，而且/或不可靠——並提供了工具試圖幫助解決這些弱點。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/nvidia_cisco_ai_guardrails_security/</guid>
-      <pubDate>Fri, 17 Jan 2025 02:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
