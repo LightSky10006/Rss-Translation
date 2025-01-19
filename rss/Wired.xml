@@ -3,10 +3,17 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 19 Jan 2025 12:20:28 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sun, 19 Jan 2025 12:51:47 GMT</lastBuildDate>
     <item>
-      <title>數學家發現了一種計算素數的新方法</title>
+      <title>Our Place Always Pan 2.0 評論：我最喜歡的炊具</title>
+      <link>https://www.wired.com/review/our-place-always-pan-2/</link>
+      <description><![CDATA[這款多功能平底鍋是我廚房的必備品。]]></description>
+      <guid>https://www.wired.com/review/our-place-always-pan-2/</guid>
+      <pubDate>Sun, 19 Jan 2025 12:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一種計算素數的新方法</title>
       <link>https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/</link>
       <description><![CDATA[為了在數論最基本的問題之一上取得進展，兩位數學家向一個意想不到的地方尋求幫助。]]></description>
       <guid>https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>LG M4 電視評測：一款漂亮的無線 OLED</title>
       <link>https://www.wired.com/review/lg-m4-oled/</link>
-      <description><![CDATA[這款高階 OLED 配備無線連接功能，可在高級房間內呈現簡潔的線條。]]></description>
+      <description><![CDATA[這款高階 OLED 配備無線連接功能，可在豪華房間內保持乾淨的線條。]]></description>
       <guid>https://www.wired.com/review/lg-m4-oled/</guid>
       <pubDate>Sat, 18 Jan 2025 13:33:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Netflix 上目前最佳的 45 部電影（2025 年 1 月）</title>
       <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
-      <description><![CDATA[《巴巴杜》、吉列爾莫·德爾·托羅的《木偶奇遇記》和《艾米莉亞·佩雷斯》只是您本月應該在 Netflix 上觀看的幾部電影。]]></description>
+      <description><![CDATA[《巴巴杜克》、吉勒摩戴托羅的《皮諾丘》和《艾米莉亞佩雷斯》只是本月您應該在 Netflix 上觀看的幾部電影。]]></description>
       <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
       <pubDate>Sat, 18 Jan 2025 12:00:00 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>榮耀 Magic 7 Pro 評測：精緻旗艦</title>
       <link>https://www.wired.com/review/honor-magic-7-pro/</link>
-      <description><![CDATA[榮耀最新的旗艦手機是硬體和人工智慧軟體的完美結合。]]></description>
+      <description><![CDATA[榮耀的最新旗艦手機是硬體和人工智慧軟體的完美結合。]]></description>
       <guid>https://www.wired.com/review/honor-magic-7-pro/</guid>
       <pubDate>Fri, 17 Jan 2025 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美國聯邦通訊委員會的傑西卡·羅森沃塞爾不會輕易離開</title>
+      <title>FCC 的 Jessica Rosenworcel 不會不戰而逃</title>
       <link>https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/</link>
       <description><![CDATA[當美國面臨中國「鹽颱風」駭客組織發起的「我國史上最嚴重的電信攻擊」時，即將離任的聯邦通訊委員會主席決心加強網路安全，即使這是她要做的最後一件事。]]></description>
       <guid>https://www.wired.com/story/the-fccs-jessica-rosenworcel-isnt-leaving-without-a-fight/</guid>
       <pubDate>Fri, 17 Jan 2025 18:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國最高法院維持TikTok禁令</title>
-      <link>https://www.wired.com/story/tiktok-ban-supreme-court/</link>
-      <description><![CDATA[「毫無疑問，國會和總統在這裡選擇的補救措施是戲劇性的，」法官尼爾·戈薩奇在一致意見中寫道。 “我不知道這項法律能否成功實現其目的。”]]></description>
-      <guid>https://www.wired.com/story/tiktok-ban-supreme-court/</guid>
-      <pubDate>Fri, 17 Jan 2025 15:18:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
