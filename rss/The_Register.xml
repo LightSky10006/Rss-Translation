@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 19 Jan 2025 12:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 19:09:03 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 ChatGPT 爬蟲可被誘騙進入 DDoSing 網站，回答你的查詢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
+      <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
+      <pubDate>Sun, 19 Jan 2025 19:03:14 GMT</pubDate>
+    </item>
     <item>
       <title>Windows Insider 現在可以從設定中啟用管理員保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</link>
-      <description><![CDATA[安全功能擴大到更多Windows 11 用戶，包括家庭用戶 Microsoft 正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除IT 管理員啟動該功能的要求。]]></description>
+      <description><![CDATA[安全功能擴展至更多Windows 11 用戶，包括家庭用戶 微軟正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除要求 IT 管理員啟動該功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</guid>
       <pubDate>Sat, 18 Jan 2025 14:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
+      <title>有望遠鏡嗎？告別歐空局即將退休的銀河系繪圖員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
       <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報道，拜登計劃規避執法並將責任推給川普，這場傳奇可能還沒有結束 更新 美國最高法院維持了一項法律，要求TikTok要么從中國母公司位元組跳動撤資，要么在美國面臨禁令。該決定消除了聯邦政府於 1 月 19 日強制關閉該平台對美國用戶的最終法律障礙。]]></description>
+      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
-      <description><![CDATA[在洩漏網站上貼上據稱被盜的文件，要求支付 60 萬英鎊 又一年，又一個英國地方當局被勒索軟體人員攻陷。這次是美杜莎集團手中的英格蘭東北部蓋茨黑德委員會。]]></description>
+      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
       <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>英國政府承包商 CloudKubed 進入託管狀態</title>
+      <title>英國政府承包商 CloudKubed 進入破產管理程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
-      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
+      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人。 …  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
       <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[無論如何都解決了問題——沒有批准購買，也沒有使用設備的權限 隨叫隨到  週末來臨時，沒有人需要獲得許可才能做他們想做的事慾望。當然，除非他們必須隨時待命以支援技術——這是我們每週在 On Call 中標記的限制，該專欄旨在慶祝儘管有笨拙的傻瓜仍能完成出色的修復壯舉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/on_call/</guid>
       <pubDate>Fri, 17 Jan 2025 08:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟專家稱，在測試了雷德蒙自己的產品後，人工智慧永遠不可能變得安全</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</link>
-      <description><![CDATA[如果你想要一幅未來的圖景，想像一下你的資安團隊永遠在軟體上打上烙印 微軟的聰明人調查了這家軟體巨頭自己的100 多種生成式人工智慧產品的安全性，得出了一個令人警醒的結論訊息：這些模型放大了現有的安全風險並產生了新的風險。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/microsoft_ai_redteam_infosec_warning/</guid>
-      <pubDate>Fri, 17 Jan 2025 07:42:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
