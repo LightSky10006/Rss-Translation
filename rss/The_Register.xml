@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 20 Jan 2025 03:38:40 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 20 Jan 2025 05:37:12 GMT</lastBuildDate>
+    <item>
+      <title>Datacus extractus：哈利波特出版商未借助魔法就遭入侵</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</link>
+      <description><![CDATA[另外：Allstate 因涉嫌追蹤司機而被起訴；荷蘭 DDoS；平壤提供更多虛假工作；等等 資安簡介  霍格華茲並沒有教任何咒語，而這種咒語本可以拯救哈利波特出版商學樂公司，使其免受網絡魔術師的威力，後者竊取了數百萬客戶記錄- 也許除了多因素身份驗證的魔力之外…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</guid>
+      <pubDate>Mon, 20 Jan 2025 05:27:06 GMT</pubDate>
+    </item>
     <item>
       <title>當外賣應用進入印尼時，每個人的體重都增加了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/asia_tech_news_roundup/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
-      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成了其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
+      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
       <pubDate>Sat, 18 Jan 2025 12:28:08 GMT</pubDate>
     </item>
     <item>
       <title>Windows 如何發展到第 3 版—圖解歷史</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</link>
-      <description><![CDATA[增加了漫畫和諷刺。有什麼不喜歡的？微軟是如何利用 Windows 3 實現有史以來最偉大的回歸之一的？]]></description>
+      <description><![CDATA[增加了漫畫和惡作劇。有什麼理由不喜歡呢？ Microsoft 是如何憑藉 Windows 3 實現史上最偉大的逆轉之一的？ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</guid>
       <pubDate>Sat, 18 Jan 2025 09:30:11 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Fri, 17 Jan 2025 20:23:12 GMT</pubDate>
     </item>
     <item>
-      <title>出口限制令盟友不安 中國將調查美國晶片補貼</title>
+      <title>出口限制令盟友不安，中國將調查美國晶片補貼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/china_us_chip_subsidies/</link>
-      <description><![CDATA[北京調查成熟半導體領域不公平競爭指控 隨著北京準備調查美國是否對其本國半導體公司進行不公平補貼，中美之間的「晶片戰爭」沒有降溫的跡象。同時，華盛頓最新的出口限制甚至激怒了其部分盟友。]]></description>
+      <description><![CDATA[北京調查成熟半導體領域不公平競爭指控 隨著北京準備調查美國是否對其自己的半導體公司進行不公平補貼，中美之間的「晶片戰爭」沒有降溫的跡象。同時，華盛頓最新的出口限制甚至激怒了其部分盟友。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/china_us_chip_subsidies/</guid>
       <pubDate>Fri, 17 Jan 2025 19:34:15 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報道，拜登計劃規避執法並將責任推給川普，這場傳奇可能還沒有結束 更新 美國最高法院維持了一項法律，要求TikTok要么從中國母公司位元組跳動撤資，要么在美國面臨禁令。該決定消除了聯邦政府於 1 月 19 日強制關閉該平台對美國用戶的最終法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>無處不在的 rsync 工具中六個漏洞在一天內公佈並修復</title>
+      <title>無所不在的 rsync 工具中存在六個漏洞，一天內被公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
       <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 17 Jan 2025 12:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>摩托羅拉解救後 IBM 出手救援英國緊急服務網絡</title>
+      <title>摩托羅拉退出後，IBM 出手拯救英國緊急服務網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</link>
-      <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 14 億英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
+      <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 1.4B 英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</guid>
       <pubDate>Fri, 17 Jan 2025 11:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Medusa 勒索軟體組織聲稱對英國蓋茨黑德市議會發動攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</link>
-      <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
-      <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
