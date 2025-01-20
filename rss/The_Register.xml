@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 20 Jan 2025 10:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 12:23:52 GMT</lastBuildDate>
     <item>
-      <title>英國電信取消將舊機櫃改造成電動車充電站的計劃</title>
+      <title>勒索軟體攻擊迫使英國高中關閉</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</link>
+      <description><![CDATA[學生們同時需要在家完成作業 英國一所高中成為勒索軟體犯罪分子公共部門的最新受害者，因此今天和明天將不得不關閉至少兩天。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</guid>
+      <pubDate>Mon, 20 Jan 2025 12:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>英國電信取消將舊櫃子改造成電動車充電點的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</link>
-      <description><![CDATA[你的電池可能沒電了，但 Wi-Fi 信號會很好 英國電信巨頭 BT 因距離 60,000 條街的充電樁還很遠而放棄了其電動汽車充電計劃它認為櫥櫃可以再利用。]]></description>
+      <description><![CDATA[你的電池可能沒電了，但Wi-Fi 訊號會很好 英國電信巨頭BT 因距離60,000 條街的充電樁還差得很遠而放棄了其電動車充電計劃它認為櫥櫃可以重新利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</guid>
       <pubDate>Mon, 20 Jan 2025 10:01:05 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>Sage Copilot 因修復 AI 錯誤行為而短暫飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</link>
-      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認暫時停用其Sage Copilot，這是英國商業軟體製造商會計工具的人工智慧助手，本月，該公司向其他用戶洩露了客戶資訊。]]></description>
+      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認已暫時停止使用Sage Copilot，這是一款為這家英國商業軟體製造商的會計工具提供的人工智慧助手，本月它向其他用戶洩露了客戶資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</guid>
       <pubDate>Mon, 20 Jan 2025 07:23:14 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 20 Jan 2025 00:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 ChatGPT 爬蟲可以被誘騙進入 DDoSing 網站，回答您的查詢</title>
+      <title>OpenAI 的 ChatGPT 爬蟲可被誘騙進入 DDoSing 網站，回答你的查詢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
       <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
@@ -64,28 +71,28 @@
     <item>
       <title>Windows Insider 現在可以從設定中啟用管理員保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</link>
-      <description><![CDATA[安全功能擴展至更多Windows 11 用戶，包括家庭用戶 微軟正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除要求 IT 管理員啟動該功能。]]></description>
+      <description><![CDATA[安全功能擴大到更多Windows 11 用戶，包括家庭用戶 Microsoft 正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除IT 管理員啟動該功能的要求。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</guid>
       <pubDate>Sat, 18 Jan 2025 14:30:13 GMT</pubDate>
     </item>
     <item>
       <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
-      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
+      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成了其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
       <pubDate>Sat, 18 Jan 2025 12:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 如何發展到第 3 版—圖解歷史</title>
+      <title>Windows 如何發展到版本 3——圖文並茂的歷史</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</link>
-      <description><![CDATA[增加了漫畫和諷刺。有什麼不喜歡的？微軟是如何利用 Windows 3 實現有史以來最偉大的回歸之一的？]]></description>
+      <description><![CDATA[增加了漫畫和惡作劇。有什麼理由不喜歡呢？ Microsoft 是如何憑藉 Windows 3 實現史上最偉大的逆轉之一的？ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</guid>
       <pubDate>Sat, 18 Jan 2025 09:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>CISA：哇，那次選舉受到了很多外國的惡意攻擊。川普的國土安全部長人選：這不關你的事</title>
+      <title>CISA：哇，那次選舉有很多外國惡搞。川普的國土安全部人選：這不關你的事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</link>
-      <description><![CDATA[即將上任的老闆克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“離使命太遠了” 美國主要網絡安全機構週五對即將到來的選舉安全真相真空以及CISA在維護選舉安全方面所扮演的角色發出了最後的尖叫。]]></description>
+      <description><![CDATA[新任負責人克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“距離使命太遠” 美國領先的網絡安全機構週五對即將到來的選舉安全真相以及CISA 在維護選舉安全方面所扮演的角色發出了最後的吶喊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</guid>
       <pubDate>Sat, 18 Jan 2025 02:37:22 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 17 Jan 2025 22:07:27 GMT</pubDate>
     </item>
     <item>
-      <title>拜登簽署全面網路安全命令，但川普及時將其廢除</title>
+      <title>拜登簽署了全面的網路安全命令，正好趕上川普將其摧毀</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/biden_cybersecurity_eo/</link>
       <description><![CDATA[勒索軟體、人工智慧、安全軟體、數位身分證——總統指令中每個人都有自己的內容 分析  喬拜登在美國總統任期的最後幾天發布了另一個網路安全秩序的範圍幾乎和遊戲後期一樣廣泛…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/biden_cybersecurity_eo/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 遵守的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[委員會堅稱，這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加強對伊隆馬斯克的 X 的調查，並要求審查最近對平台的推薦算法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</guid>
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>無處不在的 rsync 工具中的六個漏洞在一天內公佈並修復</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
-      <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
-      <pubDate>Fri, 17 Jan 2025 15:49:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
