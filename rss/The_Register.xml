@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 20 Jan 2025 02:14:26 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 20 Jan 2025 03:38:40 GMT</lastBuildDate>
+    <item>
+      <title>當外賣應用進入印尼時，每個人的體重都增加了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/asia_tech_news_roundup/</link>
+      <description><![CDATA[另外：Salt Typhoon 和 IT 工作者詐騙者受到製裁；阿里雲K8s走向全球；亞馬遜收購印度BNPL 公司 亞洲簡訊  當食品配送「超級應用程式」在印尼開始營運時，用戶開始增加體重——這並不是一件完全壞事。 … ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/asia_tech_news_roundup/</guid>
+      <pubDate>Mon, 20 Jan 2025 03:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>唐納德·川普提議美國政府收購 TikTok 一半股份，TikTok 對此表示感謝並恢復服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_tiktok_nationalization_idea/</link>
@@ -15,21 +22,21 @@
     <item>
       <title>OpenAI 的 ChatGPT 爬蟲可被誘騙進入 DDoSing 網站，回答你的查詢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
-      <description><![CDATA[LLM 中的 S 代表安全 OpenAI 的 ChatGPT 爬蟲似乎願意對任意網站發動分散式阻斷服務 (DDoS) 攻擊，這是該科技巨頭尚未承認的報告漏洞。 /p&gt;]]></description>
+      <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
       <pubDate>Sun, 19 Jan 2025 19:03:14 GMT</pubDate>
     </item>
     <item>
       <title>Windows Insider 現在可以從設定中啟用管理員保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</link>
-      <description><![CDATA[安全功能擴大到更多Windows 11 用戶，包括家庭用戶 Microsoft 正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除IT 管理員啟動該功能的要求。]]></description>
+      <description><![CDATA[安全功能擴展至更多Windows 11 用戶，包括家庭用戶 微軟正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除要求 IT 管理員啟動該功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</guid>
       <pubDate>Sat, 18 Jan 2025 14:30:13 GMT</pubDate>
     </item>
     <item>
       <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
-      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
+      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成了其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
       <pubDate>Sat, 18 Jan 2025 12:28:08 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 遵守的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
     <item>
       <title>歐盟要求深入了解 X 的推薦演算法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</link>
-      <description><![CDATA[委員會堅稱這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加緊對埃隆·馬斯克的 X 進行持續調查，並要求審查最近對平台的推薦演算法......]]></description>
+      <description><![CDATA[委員會堅稱，這一時機與馬斯克在選舉前乾預德國政治無關 歐盟委員會正在加強對伊隆馬斯克的 X 的調查，並要求審查最近對平台的推薦算法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/eu_x_algorithm_changes/</guid>
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 17 Jan 2025 12:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>摩托羅拉退出後，IBM 出手拯救英國緊急服務網絡</title>
+      <title>摩托羅拉解救後 IBM 出手救援英國緊急服務網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</link>
       <description><![CDATA[價格上漲近 5 億英鎊，合約價值達到 14 億英鎊 IBM 已與英國內政部達成協議，為陷入困境的緊急服務網絡 (ESN) 提供用戶服務升級，在摩托羅拉退出此專案後提供語音和數據通訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/ibm_esn_contract/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[將涉嫌被盜文件貼到洩密網站上並索要 60 萬英鎊 又一年，又有一個英國地方當局遭到勒索軟體團隊的攻擊。這次，英格蘭東北部的蓋茨黑德議會落入了美杜莎集團之手。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/gateshead_council_cybersecurity_incident/</guid>
       <pubDate>Fri, 17 Jan 2025 10:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府承包商 CloudKubed 進入破產程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</link>
-      <description><![CDATA[內政部、工作和退休金部供應商落入FRP Advisory 手中 一家自稱專門為英國政府提供「轉型數據和人工智慧解決方案」的供應商已召集行政接管人… …  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/cloudkubed_administration/</guid>
-      <pubDate>Fri, 17 Jan 2025 09:28:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
