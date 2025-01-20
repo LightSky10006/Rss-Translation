@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 20 Jan 2025 08:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 10:13:31 GMT</lastBuildDate>
     <item>
-      <title>開發人員擔心攜帶棒球棒的大個子可能會膝蓋攻擊他們的…測試帳戶？</title>
+      <title>英國電信取消將舊機櫃改造成電動車充電站的計劃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</link>
+      <description><![CDATA[你的電池可能沒電了，但 Wi-Fi 信號會很好 英國電信巨頭 BT 因距離 60,000 條街的充電樁還很遠而放棄了其電動汽車充電計劃它認為櫥櫃可以再利用。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</guid>
+      <pubDate>Mon, 20 Jan 2025 10:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>開發人員擔心手持棒球棒的大個子可能會打斷他們的膝蓋……測試帳戶？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/who_me/</link>
       <description><![CDATA[一種完全不同的「技術債」變成了現實世界的麻煩 誰，我？ Register 在《誰，我？ 》的新一期中慶祝他們——以及你擺脫後果的舉措。這是讀者投稿的專欄，詳細介紹了從事技術工作的不利之處。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/who_me/</guid>
@@ -15,14 +22,14 @@
     <item>
       <title>Sage Copilot 因修復 AI 錯誤行為而短暫飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</link>
-      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認已暫時停止使用Sage Copilot，這是一款為這家英國商業軟體製造商的會計工具提供的人工智慧助手，本月它向其他用戶洩露了客戶資訊。]]></description>
+      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認暫時停用其Sage Copilot，這是英國商業軟體製造商會計工具的人工智慧助手，本月，該公司向其他用戶洩露了客戶資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</guid>
       <pubDate>Mon, 20 Jan 2025 07:23:14 GMT</pubDate>
     </item>
     <item>
       <title>微軟對 NPU 的迷戀對 Nvidia 的 AI PC 野心有何影響？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_nvidia_ai_pcs/</link>
-      <description><![CDATA[在微軟推動AI PC 體驗的同時，Nvidia 正忙於吸引開發人員 評論  Nvidia 是AI 基礎設施領域無可爭議的冠軍——至少在資料中心是如此。在人工智慧 PC 的新興領域，事情並沒有那麼明確。]]></description>
+      <description><![CDATA[當微軟推動AI PC 體驗時，Nvidia 正忙於吸引開發人員 評論  Nvidia 是AI 基礎設施無可爭議的冠軍——至少在資料中心是如此。在人工智慧個人電腦這個新興領域，事情就沒那麼簡單了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_nvidia_ai_pcs/</guid>
       <pubDate>Mon, 20 Jan 2025 06:44:08 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>唐納德·川普提議美國政府收購 TikTok 一半股份，TikTok 對此表示感謝並恢復服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_tiktok_nationalization_idea/</link>
-      <description><![CDATA[新任總統承諾允許持續運營90 天，就在這款中國製造的應用程序開始陷入癱瘓之際 美國當選總統唐納德·特朗普似乎已提議，他即將領導的政府應該收購中國製造的社群媒體服務 TikTok 美國業務的一半。]]></description>
+      <description><![CDATA[即將上任的總統承諾允許在中國製造的應用程序開始關閉之際允許持續運營 90 天 美國當選總統唐納德·特朗普似乎已提議他即將領導的政府應該收購中國製造的社群媒體服務TikTok 在美國本土業務的一半。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_tiktok_nationalization_idea/</guid>
       <pubDate>Mon, 20 Jan 2025 00:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 ChatGPT 爬蟲可被誘騙進入 DDoSing 網站，回答你的查詢</title>
+      <title>OpenAI 的 ChatGPT 爬蟲可以被誘騙進入 DDoSing 網站，回答您的查詢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
       <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
-      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成了其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
+      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
       <pubDate>Sat, 18 Jan 2025 12:28:08 GMT</pubDate>
     </item>
@@ -78,19 +85,19 @@
     <item>
       <title>CISA：哇，那次選舉受到了很多外國的惡意攻擊。川普的國土安全部長人選：這不關你的事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</link>
-      <description><![CDATA[新任負責人克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“距離使命太遠” 美國領先的網絡安全機構週五對即將到來的選舉安全真相以及CISA 在維護選舉安全方面所扮演的角色發出了最後的吶喊…]]></description>
+      <description><![CDATA[即將上任的老闆克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“離使命太遠了” 美國主要網絡安全機構週五對即將到來的選舉安全真相真空以及CISA在維護選舉安全方面所扮演的角色發出了最後的尖叫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</guid>
       <pubDate>Sat, 18 Jan 2025 02:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>Capital One 兩天停電讓客戶陷入自由落體狀態</title>
+      <title>第一資本銀行兩天停電導致客戶數量大幅下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/capital_one_outage/</link>
       <description><![CDATA[第三方供應商被指責導致人們無法獲取資金 Capital One 仍在努力修復週三導致其係統崩潰的任何問題，該問題導致人們無法獲取他們的資金。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/capital_one_outage/</guid>
       <pubDate>Fri, 17 Jan 2025 23:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 致電信公司：根據法律，您必須保護您的網路免受外國間諜的侵害。開始吧</title>
+      <title>聯邦通訊委員會對電信業者說：根據法律，你們必須保護自己的網路免受外國間諜的攻擊。開始吧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fcc_telcos_calea/</link>
       <description><![CDATA[另外：山姆大叔對這家中國企業因「鹽颱風」大規模監聽而感到不滿 數十年前製定的一項立法要求美國電信公司鎖定其係統，以防止外國監聽者攔截通信，這不僅僅是法律書籍頁面上的裝飾——這實際上意味著運營商需要保護他們的網絡，FCC 對此表示不滿。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fcc_telcos_calea/</guid>
@@ -113,14 +120,14 @@
     <item>
       <title>Fortinet：FortiGate 設定洩漏確實存在，但具有誤導性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</link>
-      <description><![CDATA[與 Ivanti 的競爭愈演愈烈，誰的開局最差 Fortinet 已確認，之前對 Belsen Group 洩露的記錄的分析確實是在零日襲擊期間竊取的真正的 FortiGate 配置2022 年。 ...]]></description>
+      <description><![CDATA[Ivanti 的競爭愈演愈烈，誰能迎來最糟糕的一年 Fortinet 已確認，之前對貝爾森集團洩露的記錄的分析確實是零日襲擊期間竊取的真正的 FortiGate 配置在2022年…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/fortinet_fortigate_config_leaks/</guid>
       <pubDate>Fri, 17 Jan 2025 18:32:06 GMT</pubDate>
     </item>
     <item>
       <title>美國最高法院維持禁令 TikTok 所剩無幾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</link>
-      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 停止使用美國政府應用程式的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
+      <description><![CDATA[據報導，拜登計劃繞過執法部門，把責任推給川普，這場鬧劇可能仍未結束 更新  美國最高法院維持了一項要求TikTok 遵守的法律。該裁決消除了聯邦政府於 1 月 19 日強制關閉美國用戶該平台的最後法律障礙。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/scotus_upholds_tiktok_ban/</guid>
       <pubDate>Fri, 17 Jan 2025 17:15:07 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 17 Jan 2025 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>無處不在的 rsync 工具中六個漏洞在一天內公佈並修復</title>
+      <title>無處不在的 rsync 工具中的六個漏洞在一天內公佈並修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</link>
-      <description><![CDATA[事實證明，該工具可以快速進行文件傳輸和安全修復 不要驚慌。是的，12 月初在rsync 中發現了一堆CVE，可能影響數十萬用戶，並於週二公開，但同一天發布了一個修復版本，並在第二天進行了進一步調整以獲得更好的兼容性...]]></description>
+      <description><![CDATA[事實證明該工具可以快速完成文件傳輸和安全修復 不要驚慌。是的，去年 12 月初，rsync 中發現了一堆 CVE，可能影響了數十萬用戶，並於週二公佈，但修復版本也於同一天發布，並在第二天進行了進一步調整以提高兼容性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/rsync_vulnerabilities/</guid>
       <pubDate>Fri, 17 Jan 2025 15:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>德國推出採用 AMD 技術的 Hunter 超級計算機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</link>
-      <description><![CDATA[耗資1,500 萬歐元的系統將作為2027 年推出的更大型Herder 超級電腦的試驗台 週四，數百台AMD APU 啟動，德國斯圖加特大學高效能運算中心(HLRS)宣布其最新的超級電腦 Hunter 的完成… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</guid>
-      <pubDate>Fri, 17 Jan 2025 14:32:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
