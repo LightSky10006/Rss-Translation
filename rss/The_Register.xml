@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 20 Jan 2025 07:12:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 07:34:31 GMT</lastBuildDate>
     <item>
-      <title>微軟對 NPU 的迷戀對 Nvidia 的 AI PC 野心有何影響？</title>
+      <title>Sage Copilot 因人工智慧不當行為而短暫飛行</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</link>
+      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認已暫時停止使用Sage Copilot，這是一款為這家英國商業軟體製造商的會計工具提供的人工智慧助手，本月它向其他用戶洩露了客戶資訊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</guid>
+      <pubDate>Mon, 20 Jan 2025 07:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟對 NPU 的執著讓 Nvidia 的 AI PC 野心何去何從？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_nvidia_ai_pcs/</link>
       <description><![CDATA[當微軟推動AI PC 體驗時，Nvidia 正忙於吸引開發人員 評論  Nvidia 是AI 基礎設施無可爭議的冠軍——至少在資料中心是如此。在人工智慧個人電腦這個新興領域，事情就沒那麼簡單了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_nvidia_ai_pcs/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>Datacus extractus：哈利波特出版商未借助魔法就遭入侵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</link>
-      <description><![CDATA[PLUS：Allstate 因涉嫌跟蹤司機而被起訴；荷蘭 DDoS；更多來自平壤的假工作；以及更多內容 資訊安全簡介 霍格華茲並沒有教授任何咒語，可以讓《哈利波特》出版商Scholastic 免於感受到一名竊取了數百萬客戶記錄的線上魔術師的力量- 也許除了多因素身份驗證的魔力。]]></description>
+      <description><![CDATA[另外：Allstate 因涉嫌追蹤司機而被起訴；荷蘭 DDoS；平壤提供更多虛假工作；等等 資安簡介  霍格華茲並沒有教咒語，這咒語本可以拯救哈利波特出版商學樂公司，使其免受網路魔術師的威力，後者竊取了數百萬客戶記錄- 也許除了多因素身份驗證的魔力之外…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</guid>
       <pubDate>Mon, 20 Jan 2025 05:27:06 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 20 Jan 2025 03:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>唐納德·川普提議美國政府收購 TikTok 一半股份，TikTok 對此表示感謝並恢復服務</title>
+      <title>唐納德·特朗普提議美國政府收購 TikTok 的一半股份，TikTok 感謝他並恢復了服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_tiktok_nationalization_idea/</link>
       <description><![CDATA[新任總統承諾允許持續運營90 天，就在這款中國製造的應用程序開始陷入癱瘓之際 美國當選總統唐納德·特朗普似乎已提議，他即將領導的政府應該收購中國製造的社群媒體服務 TikTok 美國業務的一半。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_tiktok_nationalization_idea/</guid>
@@ -36,14 +43,14 @@
     <item>
       <title>OpenAI 的 ChatGPT 爬蟲可被誘騙進入 DDoSing 網站，回答你的查詢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
-      <description><![CDATA[LLM 中的 S 代表安全 OpenAI 的 ChatGPT 爬蟲似乎願意對任意網站發動分散式阻斷服務 (DDoS) 攻擊，這是該科技巨頭尚未承認的報告漏洞。 /p&gt;]]></description>
+      <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
       <pubDate>Sun, 19 Jan 2025 19:03:14 GMT</pubDate>
     </item>
     <item>
-      <title>Windows Insider 現在可以從設定中啟用管理員保護</title>
+      <title>Windows 預覽體驗成員現在可以從設定中開啟管理員保護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</link>
-      <description><![CDATA[安全功能擴大到更多Windows 11 用戶，包括家庭用戶 Microsoft 正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除IT 管理員啟動該功能的要求。]]></description>
+      <description><![CDATA[安全功能擴展至更多Windows 11 用戶，包括家庭用戶 微軟正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除要求 IT 管理員啟動該功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</guid>
       <pubDate>Sat, 18 Jan 2025 14:30:13 GMT</pubDate>
     </item>
@@ -57,12 +64,12 @@
     <item>
       <title>Windows 如何發展到第 3 版—圖解歷史</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</link>
-      <description><![CDATA[增加了漫畫和諷刺。有什麼不喜歡的？微軟是如何利用 Windows 3 實現有史以來最偉大的回歸之一的？]]></description>
+      <description><![CDATA[增加了漫畫和惡作劇。有什麼理由不喜歡呢？ Microsoft 是如何憑藉 Windows 3 實現史上最偉大的逆轉之一的？ ... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/how_windows_got_to_v3/</guid>
       <pubDate>Sat, 18 Jan 2025 09:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>CISA：哇，那次選舉有很多外國惡搞。川普的國土安全部人選：這不關你的事</title>
+      <title>CISA：哇，那次選舉受到了很多外國的惡意攻擊。川普的國土安全部長人選：這不關你的事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</link>
       <description><![CDATA[新任負責人克里斯蒂·諾姆(Kristi Noem) 表示，網絡機構“距離使命太遠” 美國領先的網絡安全機構週五對即將到來的選舉安全真相以及CISA 在維護選舉安全方面所扮演的角色發出了最後的吶喊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/cisa_election_security_isnt_political/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>德國推出採用 AMD 技術的 Hunter 超級計算機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</link>
-      <description><![CDATA[價值1500 萬歐元的系統將作為2027 年推出的大型Herder 超級電腦的測試平台 週四，斯圖加特大學的德國高效能運算中心(HLRS) 宣布，數百個AMD APU啟動名為 Hunter 的最新超級電腦完成。]]></description>
+      <description><![CDATA[耗資1,500 萬歐元的系統將作為2027 年推出的更大型Herder 超級電腦的試驗台 週四，數百台AMD APU 啟動，德國斯圖加特大學高效能運算中心(HLRS)宣布其最新的超級電腦 Hunter 的完成… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/hlrs_supercomputer_hunter/</guid>
       <pubDate>Fri, 17 Jan 2025 14:32:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[許多使用者對 Word 中意外出現的 AI 助理並不滿意 Copilot 即將登陸 Microsoft 365 個人版和家用版，Vulture Central 已經親身體驗了這款生成式 AI 助理的嘗試很有幫助…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/copilot_microsoft_365/</guid>
       <pubDate>Fri, 17 Jan 2025 13:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果透過關閉人工智慧來解決突發新聞警報問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</link>
-      <description><![CDATA[當 Apple Intelligence 得到「改進」後，摘要將會恢復 Apple 發布了 iOS 18.3 的新測試版，並預設其 AI 產生的通知摘要需要進一步改進。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/17/apple_intelligence_summaries_disabled/</guid>
-      <pubDate>Fri, 17 Jan 2025 12:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
