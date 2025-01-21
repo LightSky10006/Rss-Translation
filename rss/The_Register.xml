@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 02:11:36 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 21 Jan 2025 04:15:16 GMT</lastBuildDate>
+    <item>
+      <title>川普政府效率部發布技術現代化使命</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/doge_us_digital_service_renamed/</link>
+      <description><![CDATA[美國數位服務部更名，並被要求審計政府技術並開展資料共享工作 美國總統川普將美國數位服務部更名為政府效率部，並賦予其使命實現政府技術的現代化…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/doge_us_digital_service_renamed/</guid>
+      <pubDate>Tue, 21 Jan 2025 03:34:39 GMT</pubDate>
+    </item>
     <item>
       <title>中國對美國可能出售 TikTok 的立場略有軟化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/president_trump_tech_actions_tiktok/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Linux Mint 22.1 Xia 姍姍來遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</link>
-      <description><![CDATA[基於 Ubuntu 和 Debian 的版本都獲得了 Cinnamon 6.4 和其他好東西 這比我們預期的要晚一些，但最新的 Mint 已經到來，應該很快就會開始提供升級。 ...]]></description>
+      <description><![CDATA[Ubuntu 和基於 Debian 的版本均配備了 Cinnamon 6.4 和其他好東西 比我們預期的晚了一點，但最新的 Mint 已經到來，應該很快就會開始作為升級提供。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</guid>
       <pubDate>Mon, 20 Jan 2025 22:01:13 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>駭客與美國海軍對中國展開資訊戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</link>
-      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
+      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家，中國對此感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</guid>
       <pubDate>Mon, 20 Jan 2025 18:54:09 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>勒索軟體攻擊迫使英國高中關閉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</link>
-      <description><![CDATA[與此同時，學生們還有作業要在家完成 英國一所高中在成為勒索軟體犯罪分子的最新公共部門受害者後，今天和明天將不得不關閉至少兩天。]]></description>
+      <description><![CDATA[學生們同時需要在家完成作業 英國一所高中成為勒索軟體犯罪分子公共部門的最新受害者，因此今天和明天將不得不關閉至少兩天。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</guid>
       <pubDate>Mon, 20 Jan 2025 12:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>英國電信取消將舊機櫃改造成電動車充電站的計劃</title>
+      <title>英國電信取消將舊櫃子改造成電動車充電點的計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</link>
-      <description><![CDATA[你的電池可能沒電了，但Wi-Fi 訊號會很好 英國電信巨頭BT 因距離60,000 條街的充電樁還差得很遠而放棄了其電動車充電計劃它認為櫥櫃可以重新利用。]]></description>
+      <description><![CDATA[你的電池可能沒電了，但 Wi-Fi 訊號會很好 英國電信巨頭 BT 在距離 60,000 條街道還很遠之後，正在終止其電動車充電雄心它認為櫥櫃可以重新利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/bt_ev_chargepoints/</guid>
       <pubDate>Mon, 20 Jan 2025 10:01:05 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Sage Copilot 因修復 AI 錯誤行為而短暫飛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</link>
-      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認已暫時停止使用Sage Copilot，這是一款為這家英國商業軟體製造商的會計工具提供的人工智慧助手，本月它向其他用戶洩露了客戶資訊。]]></description>
+      <description><![CDATA[向會計客戶顯示「不相關的業務資訊」的「小問題」需要修復 Sage Group plc 已確認已暫時停止使用Sage Copilot，這是一款為英國商業軟體製造商的會計工具提供的人工智慧助手，本月它向其他用戶洩露了客戶資訊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/sage_copilot_data_issue/</guid>
       <pubDate>Mon, 20 Jan 2025 07:23:14 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>當外賣應用進入印尼時，每個人的體重都增加了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/asia_tech_news_roundup/</link>
-      <description><![CDATA[另外：Salt Typhoon 和 IT 工作者詐騙者受到製裁；阿里雲K8s走向全球；亞馬遜收購印度BNPL 公司 亞洲簡訊  當食品配送「超級應用程式」在印尼開始營運時，用戶開始增加體重——這並不是一件完全壞事。 … ]]></description>
+      <description><![CDATA[PLUS：Salt Typhoon 和 IT 工人詐騙者受到製裁；阿里雲K8s走向全球；亞馬遜收購印度BNPL 公司 亞洲簡介 當食品配送「超級應用」在印尼開始營運時，用戶開始體重增加- 這並不是一件完全壞事。  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/asia_tech_news_roundup/</guid>
       <pubDate>Mon, 20 Jan 2025 03:30:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 20 Jan 2025 00:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 ChatGPT 爬蟲可以被誘騙到 DDoSing 網站，回答您的查詢</title>
+      <title>OpenAI 的 ChatGPT 爬蟲可以被誘騙進入 DDoSing 網站，回答您的查詢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</link>
       <description><![CDATA[LLM 中的S 代表安全 OpenAI 的ChatGPT 爬蟲似乎願意對任意網站發起分佈式拒絕服務(DDoS) 攻擊，這是該科技巨頭尚未承認的一個已報告的漏洞。 .. ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/19/openais_chatgpt_crawler_vulnerability/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[安全功能擴展至更多Windows 11 用戶，包括家庭用戶 微軟正在嘗試一種在Windows 11 中啟用管理員保護的新方法。設置，可刪除要求 IT 管理員啟動該功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/windows_insider_administrator_protection/</guid>
       <pubDate>Sat, 18 Jan 2025 14:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有望遠鏡嗎？向歐空局即將退役的銀河系測繪儀告別</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</link>
-      <description><![CDATA[蓋亞完成最後一次科學觀測 歐洲太空總署(ESA) 的銀河系測繪儀蓋亞已經完成了其任務的天空掃描階段，在過去十年中累計進行了超過三萬億次觀測。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/18/esa_gaia_mapping/</guid>
-      <pubDate>Sat, 18 Jan 2025 12:28:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
