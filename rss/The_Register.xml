@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 15:12:53 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 21 Jan 2025 15:37:17 GMT</lastBuildDate>
+    <item>
+      <title>僅靠言語無法將星條旗帶到火星</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</link>
+      <description><![CDATA[所以你會想去這顆紅色星球。你的口袋有多深，你有多少時間？典禮上說。經過數十年的機器人探索，美國已經到達了那裡。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</guid>
+      <pubDate>Tue, 21 Jan 2025 15:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 和 X 簽署歐盟委員會關於仇恨言論的行為準則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 21 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
+      <title>關稅不確定性對預算敏感的資訊長來說非常嚴重</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
       <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨著不確定性，他們等著看川普一再承諾的美國全球進口關稅付諸實施…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>HPE 調查 IntelBroker 的大膽資料竊取行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</link>
-      <description><![CDATA[在聲稱原始碼被盜後啟動事件回應協定 惠普企業(HPE) 正在調查多產的科技巨頭入侵者IntelBroker 的斷言，他們聲稱他們闖入了這家美國公司的系統並存取了原始程式碼，其中包括其他事情… ]]></description>
+      <description><![CDATA[事件回應協議在原始碼盜竊指控後啟動 惠普企業(HPE) 正在調查多產的大型科技入侵者IntelBroker 的斷言，即他們闖入了這家美國公司的系統並存取了原始程式碼，其中其他事情...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</guid>
       <pubDate>Tue, 21 Jan 2025 13:19:41 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>阿斯達科技與沃爾瑪分道揚鑣 55 家門市切換延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</link>
-      <description><![CDATA[超市採取「務實的方法」實施「歐洲最大的IT 轉型計畫」 Asda 推遲了55 家商店向其新系統的技術過渡，因為美國零售巨頭沃爾瑪繼續為其銷售的門市提供IT 支援2021 年交給新主人。]]></description>
+      <description><![CDATA[超市採取「務實態度」實施「歐洲最大的IT 轉型計畫」 Asda 延後了55 家門市向新系統的技術轉型，而美國零售巨頭沃爾瑪則繼續為其銷售的門市提供IT 支援2021 年將移交給新主人…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</guid>
       <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 21 Jan 2025 09:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>Gartner 警告稱，VMware 遷移過程漫長、成本高且風險高</title>
+      <title>Gartner 警告稱，VMware 遷移將是漫長、昂貴且充滿風險的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/vmware_migration_gartner_advice/</link>
       <description><![CDATA[如果您不盡快開始規劃，情況可能會更糟 如果 Broadcom 為 VMware 帶來的改變讓您考慮轉向其他虛擬化平台，那麼這將是一個漫長、昂貴且風險很大型的專案－如果你推遲考慮這項舉措，那麼這個專案可能耗時更長、成本更高、風險也更大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/vmware_migration_gartner_advice/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 21 Jan 2025 00:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>改進的 Windows 搜尋現已推出...但僅適用於 Copilot+ 電腦</title>
+      <title>改良的 Windows Search 現已推出…但僅適用於 Copilot+ PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</link>
       <description><![CDATA[語意索引透過內部人員的本機抽屜進行了一些謹慎的搜尋 Windows Search 在最新的Dev Channel Windows Insider 版本中得到了改進，但你需要一台搭載Snapdragon 的Copilot + PC才能使用它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</guid>
@@ -104,9 +111,9 @@
       <pubDate>Mon, 20 Jan 2025 20:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>駭客與美國海軍對中國展開資訊戰</title>
+      <title>駭客與美國海軍針對中國展開資訊戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</link>
-      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家，中國對此感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
+      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</guid>
       <pubDate>Mon, 20 Jan 2025 18:54:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[明確的規則和必然的後果能讓人高度集中註意力。只要問一個俄羅斯人 觀點 「像波羅的海的軍艦一樣過時」是 Prefab Sprout 1985 年的傑作 Faron Young 中有一句很棒的流行歌詞。很棒，但諷刺的是它本身已經過時了。瑞典剛剛在同一海域部署了多艘軍艦，以防範水下電纜被剪斷這一極為現代化的威脅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/opinion_column_submarine_cables/</guid>
       <pubDate>Mon, 20 Jan 2025 13:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體攻擊迫使英國高中關閉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</link>
-      <description><![CDATA[學生們同時需要在家完成作業 英國一所高中成為勒索軟體犯罪分子公共部門的最新受害者，因此今天和明天將不得不關閉至少兩天。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/blacon_high_school_ransomware/</guid>
-      <pubDate>Mon, 20 Jan 2025 12:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
