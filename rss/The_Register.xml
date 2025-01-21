@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:42:40 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 21 Jan 2025 19:10:03 GMT</lastBuildDate>
+    <item>
+      <title>修補延遲導致 50,000 個 Fortinet 防火牆易受零時差攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/</link>
+      <description><![CDATA[數據顯示，漏洞披露七天后，幾乎沒有採取任何行動 Fortinet 客戶需要加入該計劃並應用最新更新，因為近 50,000 個管理介面仍然容易受到最新零日漏洞的攻擊。 …]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/</guid>
+      <pubDate>Tue, 21 Jan 2025 18:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>川普撤銷拜登人工智慧命令、電動車授權、排放標準等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
-      <description><![CDATA[分析師表示，這是一個功能而不是錯誤，也是美國選民投票支持的內容 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領導者面臨著不確定性，因為他們等待著看看是否會重複承諾全球美國進口關稅已付諸行動…]]></description>
+      <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨著不確定性，他們等著看川普一再承諾的美國全球進口關稅付諸實施…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
       <pubDate>Tue, 21 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 21 Jan 2025 07:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>據報道台積電因台灣強震而暫停生產</title>
+      <title>據報道，台積電因台灣強震而暫停生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</link>
       <description><![CDATA[一天是地緣政治的轟鳴，第二天是地質的轟鳴 台灣經歷了一場如此嚴重的地震，以至於芯片製造巨頭台積電關閉了工廠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>Linux Mint 22.1 Xia 姍姍來遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</link>
-      <description><![CDATA[基於 Ubuntu 和 Debian 的版本均配備了 Cinnamon 6.4 和其他好東西 比我們預期的晚了一點，但最新的 Mint 已經到來，應該很快就會開始作為升級提供。 …]]></description>
+      <description><![CDATA[Ubuntu 和基於 Debian 的版本均配備了 Cinnamon 6.4 和其他好東西 比我們預期的晚了一點，但最新的 Mint 已經到來，應該很快就會開始作為升級提供。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</guid>
       <pubDate>Mon, 20 Jan 2025 22:01:13 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>駭客與美國海軍對中國展開資訊戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</link>
-      <description><![CDATA[台北邀請資安機構來其主場玩耍 想像一下：2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到憤怒。在決定全面軍事入侵後，中國試圖首先削弱其叛逆鄰國的關鍵基礎設施。]]></description>
+      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</guid>
       <pubDate>Mon, 20 Jan 2025 18:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>微軟強製家庭和專業用戶使用 Windows 11 24H2</title>
+      <title>微軟強製家庭和專業用戶升級 Windows 11 24H2</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_to_force_windows_11/</link>
-      <description><![CDATA[無論準備好與否，我來了 隨著公司進入作業系統推出的下一階段，微軟已開始向用戶設備分發Windows 11 24H2。 p&gt;]]></description>
+      <description><![CDATA[不管準備好沒有，我來了 隨著微軟進入作業系統推出的下一階段，該公司已開始向用戶設備分發Windows 11 24H2。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_to_force_windows_11/</guid>
       <pubDate>Mon, 20 Jan 2025 17:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 和 Blue Origin 都面臨 FAA 事故調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/spacex_blue_origin_faa/</link>
-      <description><![CDATA[只有一家公司稱加勒比海上空火箭爆炸是「娛樂」 SpaceX 並不是唯一一家捲入美國聯邦航空管理局 (FAA) 事故調查的公司。傑夫·貝佐斯的藍色起源公司在失去新格倫火箭第一級後也受到了審查。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/spacex_blue_origin_faa/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
