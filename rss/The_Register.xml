@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 20:14:18 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 21 Jan 2025 20:36:12 GMT</lastBuildDate>
+    <item>
+      <title>Atlassian 的 Bitbucket Cloud 今天遭遇「嚴重」宕機</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</link>
+      <description><![CDATA[一樣，大A，一樣 如果您今天無法訪問Atlassian 的Bitbucket Cloud，那是因為用這家IT 巨頭的話來說，該服務“很難關閉”。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</guid>
+      <pubDate>Tue, 21 Jan 2025 20:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>修補延遲導致 50,000 個 Fortinet 防火牆易受零時差攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>川普撤銷拜登人工智慧命令、電動車授權、排放標準等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</link>
-      <description><![CDATA[此外，為川普2.0 暫停的風電項目和美洲灣做好準備- 這只是第一天 美國總統唐納德·特朗普不遺餘力地剔除拜登時代的項目，包括消除前政府關於人工智慧安全和電動汽車的行政命令，並凍結電動汽車基礎設施的資金。 -&gt;]]></description>
+      <description><![CDATA[此外，川普2.0時代暫停風電項目和美國灣項目，這僅僅是第一天 美國總統唐納德·川普毫不猶豫地削減了拜登時代的項目，包括取消前政府關於人工智慧安全和電動車的行政命令，以及凍結電動車基礎設施資金…  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</guid>
       <pubDate>Tue, 21 Jan 2025 17:30:10 GMT</pubDate>
     </item>
@@ -64,19 +71,19 @@
     <item>
       <title>英國計劃借助人工智慧 Humphrey 修復政府 IT 問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphrey_uk_government/</link>
-      <description><![CDATA[按鈴嗎？以英國首相的操縱大師命名的工具套件 英國政府正在努力通過“將技術應用於公共服務的計劃”來結束其在管理大型項目方面的混亂記錄。]]></description>
+      <description><![CDATA[響起？以「是，大臣」操縱大師命名的工具套件 英國政府正努力透過「將技術應用於公共服務的計劃」來結束其在管理大型專案方面的不良記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphrey_uk_government/</guid>
       <pubDate>Tue, 21 Jan 2025 11:26:13 GMT</pubDate>
     </item>
     <item>
       <title>阿斯達科技與沃爾瑪分道揚鑣 55 家門市切換延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</link>
-      <description><![CDATA[超市採取「務實的方法」實施「歐洲最大的IT 轉型計畫」 Asda 推遲了55 家商店向其新系統的技術過渡，因為美國零售巨頭沃爾瑪繼續為其銷售的門市提供IT 支援2021 年交給新主人。]]></description>
+      <description><![CDATA[超市採取「務實態度」實施「歐洲最大的IT 轉型計畫」 Asda 延後了55 家門市向新系統的技術轉型，而美國零售巨頭沃爾瑪則繼續為其銷售的門市提供IT 支援2021 年將移交給新主人…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</guid>
       <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧坑洞巡邏將修復英國破舊道路的缺陷</title>
+      <title>人工智慧坑洞巡邏可以發現英國搖搖欲墜的道路上的缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</link>
       <description><![CDATA[如果議會有能力填補這些坑洼就好了 一個經常被提及的誤解是，坑洼是由表面裂縫、水和交通共同形成的，但實際上坑洼是長期水準造成的公共基礎設施投資不足…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 21 Jan 2025 07:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>據報道台積電因台灣強震而暫停生產</title>
+      <title>據報道，台積電因台灣強震而暫停生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</link>
       <description><![CDATA[一天是地緣政治的轟鳴，第二天是地質的轟鳴 台灣經歷了一場如此嚴重的地震，以至於芯片製造巨頭台積電關閉了工廠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>埃隆的政府效率部將這樣運作——涵蓋美國數位服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/doge_us_digital_service_renamed/</link>
-      <description><![CDATA[大亨的審計人員將透過完全存取非機密資料來調查山姆大叔的IT 美國總統川普已將美國數位服務部重新命名為政府效率部，並賦予其實現政府技術現代化的使命。]]></description>
+      <description><![CDATA[大亨的審計人員將對非機密資料進行全面訪問，以調查山姆大叔的IT 情況 美國總統川普將美國數位服務部門更名為政府效率部，並賦予其實現政府技術現代化的使命。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/doge_us_digital_service_renamed/</guid>
       <pubDate>Tue, 21 Jan 2025 03:34:39 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>改良的 Windows Search 現已推出…但僅適用於 Copilot+ PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</link>
-      <description><![CDATA[語意索引會透過Insiders 的本機抽屜進行一些謹慎的搜尋 Windows 搜尋在最新的開發頻道Windows Insider 版本中得到了改進，但您需要一台支援Snapdragon 的Copilot+ PC 才能使用它。]]></description>
+      <description><![CDATA[語意索引透過內部人員的本機抽屜進行了一些謹慎的搜尋 Windows Search 在最新的Dev Channel Windows Insider 版本中得到了改進，但你需要一台搭載Snapdragon 的Copilot + PC才能使用它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</guid>
       <pubDate>Mon, 20 Jan 2025 23:30:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>駭客與美國海軍對中國展開資訊戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</link>
-      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
+      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家，中國對此感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</guid>
       <pubDate>Mon, 20 Jan 2025 18:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟強製家庭和專業用戶升級 Windows 11 24H2</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_to_force_windows_11/</link>
-      <description><![CDATA[不管準備好沒有，我來了 隨著微軟進入作業系統推出的下一階段，該公司已開始向用戶設備分發Windows 11 24H2。 ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_to_force_windows_11/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
