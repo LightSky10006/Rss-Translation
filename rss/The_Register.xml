@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 10:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 11:34:54 GMT</lastBuildDate>
+    <item>
+      <title>英國計劃借助人工智慧 Humphrey 修復政府 IT 問題</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphry_uk_government/</link>
+      <description><![CDATA[響起？以「是，大臣」操縱大師命名的工具套件 英國政府正努力透過「將技術應用於公共服務的計劃」來結束其在管理大型專案方面的不良記錄。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphry_uk_government/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:26:13 GMT</pubDate>
+    </item>
     <item>
       <title>阿斯達科技與沃爾瑪分道揚鑣 55 家門市切換延遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</link>
-      <description><![CDATA[超市採取「務實態度」實施「歐洲最大的IT 轉型計畫」 Asda 延後了55 家門市向新系統的技術轉型，而美國零售巨頭沃爾瑪則繼續為其銷售的門市提供IT 支援2021 年將移交給新主人…]]></description>
+      <description><![CDATA[超市採取「務實的方法」實施「歐洲最大的IT 轉型計畫」 Asda 推遲了55 家商店向其新系統的技術過渡，因為美國零售巨頭沃爾瑪繼續為其銷售的門市提供IT 支援2021 年交給新主人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</guid>
       <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧坑洞巡邏將修復英國破舊道路的缺陷</title>
+      <title>人工智慧坑洞巡邏可以發現英國搖搖欲墜的道路上的缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</link>
-      <description><![CDATA[現在，如果議會有能力填補它們就好了 一個經常被重複的神話是，坑洼是由表面裂縫、水和交通共同形成的，但它們實際上是由長期水位造成的公共基礎建設投資不足......]]></description>
+      <description><![CDATA[如果議會有能力填補這些坑洼就好了 一個經常被提及的誤解是，坑洼是由表面裂縫、水和交通共同形成的，但實際上坑洼是長期水準造成的公共基礎設施投資不足…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</guid>
       <pubDate>Tue, 21 Jan 2025 09:30:05 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>改良的 Windows Search 現已推出…但僅適用於 Copilot+ PC</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</link>
-      <description><![CDATA[語意索引會透過Insiders 的本機抽屜進行一些謹慎的搜尋 Windows 搜尋在最新的開發頻道Windows Insider 版本中得到了改進，但您需要一台支援Snapdragon 的Copilot+ PC 才能使用它。]]></description>
+      <description><![CDATA[語意索引透過內部人員的本機抽屜進行了一些謹慎的搜尋 Windows Search 在最新的Dev Channel Windows Insider 版本中得到了改進，但你需要一台搭載Snapdragon 的Copilot + PC才能使用它。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_unveils_windows_search_improvements/</guid>
       <pubDate>Mon, 20 Jan 2025 23:30:14 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 20 Jan 2025 22:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>AWS 一直宣稱自己是“冰山一角”，除非客戶表示反對</title>
+      <title>AWS 一直宣稱它是冰山，直到客戶另有說法為止</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/aws_iceberg_support/</link>
       <description><![CDATA[雲端運算巨頭解釋其支援 Apache 開放表格式背後的想法 AWS 在其分析、機器學習和儲存堆疊中押注 Apache Iceberg 開放式表格式 (OTF)，以回應需求來自已經使用其流行的S3 物件儲存的客戶…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/aws_iceberg_support/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[當微軟推動AI PC 體驗時，Nvidia 正忙於吸引開發人員 評論  Nvidia 是AI 基礎設施無可爭議的冠軍——至少在資料中心是如此。在人工智慧個人電腦這個新興領域，事情就沒那麼簡單了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/microsoft_nvidia_ai_pcs/</guid>
       <pubDate>Mon, 20 Jan 2025 06:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datacus extractus：哈利波特出版商未借助魔法就遭入侵</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</link>
-      <description><![CDATA[另外：Allstate 因涉嫌追蹤司機而被起訴；荷蘭 DDoS；平壤提供更多虛假工作；等等 資安簡介  霍格華茲並沒有教咒語，這咒語本可以拯救哈利波特出版商學樂公司，使其免受網路魔術師的威力，後者竊取了數百萬客戶記錄- 也許除了多因素身份驗證的魔力之外…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/harry_potter_publisher_breach/</guid>
-      <pubDate>Mon, 20 Jan 2025 05:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
