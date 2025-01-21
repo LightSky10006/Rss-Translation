@@ -3,8 +3,8 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 21 Jan 2025 15:37:17 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 21 Jan 2025 16:15:50 GMT</lastBuildDate>
     <item>
       <title>僅靠言語無法將星條旗帶到火星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</link>
@@ -15,12 +15,12 @@
     <item>
       <title>Meta 和 X 簽署歐盟委員會關於仇恨言論的行為準則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</link>
-      <description><![CDATA[根據《數位服務法》，監控人員可以舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已經簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會目前已將其納入《數位服務法》。]]></description>
+      <description><![CDATA[根據《數位服務法》，監管者將被允許舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會現已將其納入《數位服務法》。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</guid>
       <pubDate>Tue, 21 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>關稅不確定性對預算敏感的資訊長來說非常嚴重</title>
+      <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
       <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨著不確定性，他們等著看川普一再承諾的美國全球進口關稅付諸實施…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
@@ -29,14 +29,14 @@
     <item>
       <title>HPE 調查 IntelBroker 的大膽資料竊取行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</link>
-      <description><![CDATA[事件回應協議在原始碼盜竊指控後啟動 惠普企業(HPE) 正在調查多產的大型科技入侵者IntelBroker 的斷言，即他們闖入了這家美國公司的系統並存取了原始程式碼，其中其他事情...... ]]></description>
+      <description><![CDATA[在聲稱原始碼被盜後啟動事件回應協定 惠普企業(HPE) 正在調查多產的科技巨頭入侵者IntelBroker 的斷言，他們聲稱他們闖入了這家美國公司的系統並存取了原始程式碼，其中包括其他事情… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</guid>
       <pubDate>Tue, 21 Jan 2025 13:19:41 GMT</pubDate>
     </item>
     <item>
-      <title>微軟加入 CISPE，試圖限制其授權的歐洲雲端運算團隊</title>
+      <title>微軟加入 CISPE，這是一個試圖限制其許可的歐洲雲端組織</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/microsoft_joins_cispe/</link>
-      <description><![CDATA[儘管AWS 投了反對票，但六個月內從鬥士變成了朋友 獨家 微軟將在幾個月後與CISPE 行業協會談判達成和解，成為該行業協會的最新成員。然而，並不是所有人都對入學感到滿意。]]></description>
+      <description><![CDATA[儘管AWS 投了反對票，但在六個月內從戰士變成了朋友 獨家 在與CISPE 的貿易協會談判達成和解協議幾個月後，微軟將成為CISPE 的最新成員歐洲雲端供應商涉嫌反競爭軟體行為。然而，並非小組中的所有人都對註冊感到滿意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/microsoft_joins_cispe/</guid>
       <pubDate>Tue, 21 Jan 2025 12:32:10 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 21 Jan 2025 09:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>Gartner 警告稱，VMware 遷移將是漫長、昂貴且充滿風險的</title>
+      <title>Gartner 警告稱，VMware 遷移過程漫長、昂貴且充滿風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/vmware_migration_gartner_advice/</link>
       <description><![CDATA[如果您不盡快開始規劃，情況可能會更糟 如果 Broadcom 為 VMware 帶來的改變讓您考慮轉向其他虛擬化平台，那麼這將是一個漫長、昂貴且風險很大型的專案－如果你推遲考慮這項舉措，那麼這個專案可能耗時更長、成本更高、風險也更大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/vmware_migration_gartner_advice/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>據報道，台積電因台灣強震而暫停生產</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</link>
-      <description><![CDATA[一天是地緣政治的轟鳴，第二天是地質的轟鳴 台灣經歷了一場如此嚴重的地震，以至於芯片製造巨頭台積電關閉了工廠。]]></description>
+      <description><![CDATA[前一天地緣政治風波，後天地質風波 台灣經歷了一場嚴重的地震，以至於晶片製造冠軍台積電已經關閉了工廠。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</guid>
       <pubDate>Tue, 21 Jan 2025 05:28:10 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 21 Jan 2025 03:34:39 GMT</pubDate>
     </item>
     <item>
-      <title>中國對美國可能出售 TikTok 的立場略有軟化</title>
+      <title>中國對美國可能出售 TikTok 的立場略微軟化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/president_trump_tech_actions_tiktok/</link>
       <description><![CDATA[川普總統允許 vid 應用程式繼續運行 75 天，同時審查安全問題並製定政策 更新  中國似乎已經軟化了對可能出售TikTok 的美國業務現在或許對這個想法持開放態度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/president_trump_tech_actions_tiktok/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>Linux Mint 22.1 Xia 姍姍來遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</link>
-      <description><![CDATA[Ubuntu 和基於 Debian 的版本均配備了 Cinnamon 6.4 和其他好東西 比我們預期的晚了一點，但最新的 Mint 已經到來，應該很快就會開始作為升級提供。 …]]></description>
+      <description><![CDATA[基於 Ubuntu 和 Debian 的版本都獲得了 Cinnamon 6.4 和其他好東西 這比我們預期的要晚一些，但最新的 Mint 已經到來，應該很快就會開始提供升級。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/linux_mint_221_xia/</guid>
       <pubDate>Mon, 20 Jan 2025 22:01:13 GMT</pubDate>
     </item>
@@ -111,9 +111,9 @@
       <pubDate>Mon, 20 Jan 2025 20:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>駭客與美國海軍針對中國展開資訊戰</title>
+      <title>駭客與美國海軍對中國展開資訊戰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</link>
-      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家後，中國對台灣感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
+      <description><![CDATA[台北邀請資安機構來其主場參展 想像一下：現在是 2030 年，台灣向聯合國申請承認為獨立國家，中國對此感到非常憤怒。在決定全面軍事入侵後，中國首先試圖摧毀其叛亂鄰國的關鍵基礎設施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/china_taiwan_wargames/</guid>
       <pubDate>Mon, 20 Jan 2025 18:54:09 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>SpaceX 和 Blue Origin 都面臨 FAA 事故調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/spacex_blue_origin_faa/</link>
-      <description><![CDATA[只有一家公司稱加勒比海上空火箭爆炸是「娛樂」 SpaceX 並不是唯一一家捲入美國聯邦航空管理局 (FAA) 事故調查的公司。傑夫·貝佐斯的藍色起源公司在失去新格倫火箭第一級後也受到了審查。]]></description>
+      <description><![CDATA[只有一家公司稱火箭在加勒比海上空爆炸是「娛樂」 SpaceX 並不是唯一參與美國聯邦航空管理局 (FAA) 事故調查的公司。傑夫·貝佐斯的藍色起源公司在失去新格倫火箭的第一級後也受到了密切關注。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/spacex_blue_origin_faa/</guid>
       <pubDate>Mon, 20 Jan 2025 15:45:11 GMT</pubDate>
     </item>
     <item>
       <title>川普新鑄造的表情包幣市值突破 100 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_meme_coin/</link>
-      <description><![CDATA[比特幣創下歷史新高，梅蘭妮亞推出自己的貨幣，加密貨幣批評者對此表示不滿 當你們中的許多人讀到這篇文章時，美國總統唐納德·川普又推出了自己的加密貨幣——$TRUMP——週五晚上，Solana 區塊鏈網路。到了週末，它的市值已達到近 150 億美元，儘管到了周日，當梅拉尼婭·川普推出自己的迷因幣時，它的市值下降。]]></description>
+      <description><![CDATA[加密貨幣批評者對BTC 創下歷史新高和梅拉尼婭推出自己的貨幣感到不滿 當你們許多人讀到這篇文章時，唐納德·特朗普再次成為美國總統，推出了他自己的加密貨幣- $TRUMP -週五晚上的 Solana 區塊鏈網路。到了週末，它的市值已達到近 150 億美元，儘管到了周日，梅拉尼婭·川普推出自己的迷因幣，市值有所下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/20/trump_meme_coin/</guid>
       <pubDate>Mon, 20 Jan 2025 14:15:08 GMT</pubDate>
     </item>
