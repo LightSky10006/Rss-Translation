@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 08:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:36:30 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
+      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
+      <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
+    </item>
     <item>
       <title>中國在17分鐘託卡馬克運行後宣布聚變取得重大進展並創下紀錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</link>
@@ -15,26 +22,26 @@
     <item>
       <title>Google DeepMind 執行長表示，2025 年我們將開始服用人工智慧幫助發明的藥物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</link>
-      <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗很快就會進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，借助人工智慧設計的首批藥物的臨床試驗可能會在今年開始。]]></description>
+      <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗將很快進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，首批利用人工智慧設計的藥物的臨床試驗可能會在今年開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</guid>
       <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
     </item>
     <item>
       <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
-      <description><![CDATA[Plus：Google 將Gemini 塞進Workspace，並帶有隱藏的關閉開關？來越多的軟體供應商預設啟用它們...]]></description>
+      <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
       <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
+      <title>OpenAI 在朋友的幫助下在人工智慧基礎設施上花費了 500B 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>PowerSchool 最新竊盜案：數十年的加拿大學生記錄和 40 多個美國州的資料恐遭竊取</title>
+      <title>PowerSchool 最新竊盜案：加拿大數十年的學生記錄、美國 40 多個州的資料擔憂被盜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</link>
       <description><![CDATA[資料庫遭惡意程式存取後訴訟不斷 加拿大最大的教育局透露，惡意程式入侵軟體供應商 PowerSchool 後，可能存取了自 1985 年以來的學生記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
-      <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨著不確定性，他們等著看川普一再承諾的美國全球進口關稅付諸實施…]]></description>
+      <description><![CDATA[分析師表示，這是一個功能而不是錯誤，也是美國選民投票支持的內容 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領導者面臨著不確定性，因為他們等待著看看是否會重複承諾全球美國進口關稅已付諸行動…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
       <pubDate>Tue, 21 Jan 2025 14:00:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您不盡快開始規劃，情況可能會更糟 如果 Broadcom 為 VMware 帶來的改變讓您考慮轉向其他虛擬化平台，那麼這將是一個漫長、昂貴且風險很大型的專案－如果你推遲考慮這項舉措，那麼這個專案可能耗時更長、成本更高、風險也更大…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/vmware_migration_gartner_advice/</guid>
       <pubDate>Tue, 21 Jan 2025 07:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>台積電因台灣強震暫停生產</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</link>
-      <description><![CDATA[一天是地緣政治的轟鳴，第二天是地質的轟鳴 台灣經歷了一場強烈的地震，以至於芯片製造巨頭台積電暫停了其工廠的生產。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/taiwan_earthquake_tsmc/</guid>
-      <pubDate>Tue, 21 Jan 2025 05:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
