@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 11:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 12:23:34 GMT</lastBuildDate>
+    <item>
+      <title>前亞馬遜高層被任命為英國競爭監管機構主席</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</link>
+      <description><![CDATA[前負責人因「沒有充分關注成長」而被解僱後，臨時任命 英國競爭和市場管理局(CMA) 在前任主席突然離職後，更換了一位新主席。 …&lt; /p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</guid>
+      <pubDate>Wed, 22 Jan 2025 12:12:58 GMT</pubDate>
+    </item>
     <item>
       <title>儘管 IT 支出激增，GenAI 的商業價值仍然難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 22 Jan 2025 10:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>勒索軟體渣滓透過冒充技術支持，為 <i>Reg</i> 讀者提供個人化服務</title>
+      <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
+      <description><![CDATA[IT 部門承諾消除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>Apple Intelligence 在即將推出的 macOS Sequoia 15.3、iOS 18.3 中預設為開啟</title>
+      <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
       <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 21 Jan 2025 17:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>神經介面讓癱瘓者駕駛虛擬四軸飛行器，為遊戲開啟新大門</title>
+      <title>神經介面讓癱瘓者能夠操縱虛擬四軸飛行器，為遊戲開啟新的大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</link>
       <description><![CDATA[研究人員旨在解決未滿足的社交聯繫和娛樂需求 美國科學家開發出了一種神經接口，透過將大腦活動解碼為不同的手指運動，癱瘓者能夠控制虛擬四軸飛行器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 21 Jan 2025 11:26:13 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯達科技與沃爾瑪分道揚鑣 55 家門市切換延遲</title>
+      <title>Asda tech 與沃爾瑪分家推遲 55 家商店的切換</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</link>
       <description><![CDATA[超市採取「務實態度」實施「歐洲最大的IT 轉型計畫」 Asda 延後了55 家門市向新系統的技術轉型，而美國零售巨頭沃爾瑪則繼續為其銷售的門市提供IT 支援2021 年將移交給新主人…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</guid>
       <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧坑洞巡邏將修復英國破舊道路的缺陷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</link>
-      <description><![CDATA[如果議會有能力填補這些坑洼就好了 一個經常被提及的誤解是，坑洼是由表面裂縫、水和交通共同形成的，但實際上坑洼是長期水準造成的公共基礎設施投資不足…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</guid>
-      <pubDate>Tue, 21 Jan 2025 09:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
