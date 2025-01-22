@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 20:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 21:09:57 GMT</lastBuildDate>
+    <item>
+      <title>川普廢除聯邦承包商 60 年來的反歧視保護</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</link>
+      <description><![CDATA[（老好人）回來了 美國政府承包商不再受到招聘、培訓和就業方面的反歧視規則的約束——此前川普總統回溯了 60 年前廢除的前總統林登·約翰遜簽署的平等機會令…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</guid>
+      <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>微軟投入更多資金重新種植巴西雨林以減輕碳排放負擔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</link>
-      <description><![CDATA[與此同時，資料中心的排放量持續飆升 微軟正在支付更多的碳信用額度來抵消其資料中心由人工智慧推動的二氧化碳排放量的螺旋式上升。 /p&gt;]]></description>
+      <description><![CDATA[與此同時，資料中心的排放量繼續飆升 微軟正在支付更多的碳信用額，以抵消其資料中心因人工智慧而不斷增加的二氧化碳排放量。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</guid>
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經發布，但不要太興奮。這不是什麼大事，考慮到時間，可能不會出現在許多熟悉的發行版中。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
     <item>
       <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
-      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈具體數據 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或科技買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明。]]></description>
+      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
       <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜前高階主管被任命為英國競爭監管機構主席</title>
+      <title>前亞馬遜高層被任命為英國競爭監管機構主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</link>
       <description><![CDATA[前負責人因「沒有充分關注成長」而被解僱後，臨時任命 英國競爭和市場管理局(CMA) 在前任主席突然離職後，更換了一位新主席。 …&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</guid>
@@ -106,21 +113,21 @@
     <item>
       <title>Google DeepMind 執行長表示，2025 年我們將開始服用人工智慧幫助發明的藥物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</link>
-      <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗將很快進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，首批利用人工智慧設計的藥物的臨床試驗可能會在今年開始。]]></description>
+      <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗很快就會進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，借助人工智慧設計的首批藥物的臨床試驗可能會在今年開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</guid>
       <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
     </item>
     <item>
       <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
-      <description><![CDATA[Plus：Google 將Gemini 塞進Workspace，並帶有隱藏的關閉開關？來越多的軟體供應商預設啟用它們...]]></description>
+      <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
       <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>應用程式商店對川普暫停 TikTok 禁令表示不滿意，因為這本身的法律依據可能並不牢固</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</link>
-      <description><![CDATA[El Reg 要求律師解釋到底發生了什麼 分析 川普總統的行政命令暫停在美國執行 TikTok 禁令這給託管或分發該應用程式的公司帶來了法律的不確定性。更令人困惑的是，甚至不清楚川普的法令是否在他有權發布或執行的範圍內。 …]]></description>
+      <description><![CDATA[El Reg 請律師解釋 WTH 的情況 分析 川普總統暫停在美國執行 TikTok 禁令的行政命令各州為託管或分發該應用程式的公司帶來了法律上的不確定性。更令人困惑的是，甚至不清楚川普的法令是否在他的權力範圍內發布或執行。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</guid>
       <pubDate>Tue, 21 Jan 2025 22:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlassian 的 Bitbucket Cloud 今天遭遇「嚴重」宕機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</link>
-      <description><![CDATA[一樣，大A，一樣 如果您今天無法訪問Atlassian 的Bitbucket Cloud，那是因為用這家IT 巨頭的話來說，該服務“很難關閉”。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</guid>
-      <pubDate>Tue, 21 Jan 2025 20:15:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
