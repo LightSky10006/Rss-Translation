@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:23:34 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 22 Jan 2025 12:57:08 GMT</lastBuildDate>
+    <item>
+      <title>英國議員稱，英國稅務部門的電話服務「故意」糟糕，以迫使用戶上網</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</link>
+      <description><![CDATA[切斷近 44,000 名等待 70 分鐘以獲得有關不可避免的家務建議的人 根據一個由議員組成的委員會指責英國稅務海關總署“故意”提供質量低下的電話服務，以迫使來電者上網。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</guid>
+      <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
+    </item>
     <item>
       <title>前亞馬遜高層被任命為英國競爭監管機構主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 部門承諾消除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
+      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>PowerSchool 最新竊盜案：數十年的加拿大學生記錄和 40 多個美國州的資料恐遭竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</link>
-      <description><![CDATA[資料庫遭惡意程式訪問後，訴訟不斷 加拿大最大的教育局透露，自1985 年以來，學生記錄可能已被惡意程式訪問，他們入侵了軟體供應商PowerSchool。 /p&gt;]]></description>
+      <description><![CDATA[資料庫遭惡意程式存取後訴訟不斷 加拿大最大的教育局透露，惡意程式入侵軟體供應商 PowerSchool 後，可能存取了自 1985 年以來的學生記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</guid>
       <pubDate>Wed, 22 Jan 2025 01:02:31 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Tue, 21 Jan 2025 15:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 和 X 簽署歐盟委員會關於仇恨言論的行為準則</title>
+      <title>Meta、X 簽署歐洲委員會仇恨言論行為準則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</link>
       <description><![CDATA[根據《數位服務法》，監控人員可以舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已經簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會目前已將其納入《數位服務法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>英國計劃借助人工智慧 Humphrey 修復政府 IT 問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphrey_uk_government/</link>
-      <description><![CDATA[響起？以「是，大臣」操縱大師命名的工具套件 英國政府正努力透過「將技術應用於公共服務的計劃」來結束其在管理大型專案方面的不良記錄。]]></description>
+      <description><![CDATA[按鈴嗎？以英國首相的操縱大師命名的工具套件 英國政府正在努力通過“將技術應用於公共服務的計劃”來結束其在管理大型項目方面的混亂記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_humphrey_uk_government/</guid>
       <pubDate>Tue, 21 Jan 2025 11:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asda tech 與沃爾瑪分家推遲 55 家商店的切換</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</link>
-      <description><![CDATA[超市採取「務實態度」實施「歐洲最大的IT 轉型計畫」 Asda 延後了55 家門市向新系統的技術轉型，而美國零售巨頭沃爾瑪則繼續為其銷售的門市提供IT 支援2021 年將移交給新主人…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/asda_walmart_cutover_delays/</guid>
-      <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
