@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 16:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 17:12:08 GMT</lastBuildDate>
     <item>
-      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
+      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
+      <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
+      <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟針對 Windows Server 2022 NUMA 故障發布帶外修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
       <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
       <pubDate>Wed, 22 Jan 2025 16:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
+      <title>川普赦免暗網大佬，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
       <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
-      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
+      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈具體數據 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或科技買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
       <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>英國議員稱，英國稅務部門的電話服務「故意」糟糕，以迫使用戶上網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</link>
-      <description><![CDATA[切斷近 44,000 名等待 70 分鐘以獲得有關不可避免的家務建議的人 根據一個由議員組成的委員會指責英國稅務海關總署“故意”提供質量低下的電話服務，以迫使來電者上網。]]></description>
+      <description><![CDATA[切斷近 44,000 名已經等待 70 分鐘以獲取有關不可避免的雜務建議的窺探 英國稅務機關必須“為自己未能向客戶提供足夠有效的數字服務的失敗負責”，由議員組成的委員會指責英國稅務海關總署「故意」提供糟糕的電話服務，以迫使來電者上網。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</guid>
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
     </item>
@@ -57,21 +64,21 @@
     <item>
       <title>儘管 IT 支出激增，GenAI 的商業價值仍然難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</link>
-      <description><![CDATA[Gartner 稱，新興技術進入技術成熟度曲線的下行階段 技術分析師預測，2025 年全球IT 支出將年增9.8%，達到5.61 兆美元，這得益於持續的AI 投資。]]></description>
+      <description><![CDATA[Gartner 表示，新興技術進入成熟度曲線的下降趨勢 技術分析師預測，在持續的人工智慧投資的推動下，2025 年全球IT 支出將年增9.8%，達到5.61兆美元，儘管「moonshot」專案失敗率很高... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</guid>
       <pubDate>Wed, 22 Jan 2025 10:15:13 GMT</pubDate>
     </item>
     <item>
       <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
+      <description><![CDATA[IT 部門承諾清除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
     <item>
       <title>中國託卡馬克裝置在運行 17 分鐘後取得重大進展並創下紀錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</link>
-      <description><![CDATA[1,066 秒穩態高約束等離子體運作及所有精彩內容 中國合肥物質科學研究院創造了維持穩態高約束等離子體運作的新世界紀錄，這是一項壯舉需要創建一個理論上可以以很小的成本產生大量能量的聚變反應器。]]></description>
+      <description><![CDATA[1,066秒穩態高約束等離子體運作等等 中國合肥物質科學研究院創造了維持穩態高約束等離子體運作的新世界紀錄，這是一項壯舉需要創建一個聚變反應堆，理論上該反應器將以很少的成本產生大量的能量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</guid>
       <pubDate>Wed, 22 Jan 2025 08:29:07 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
-      <description><![CDATA[Plus：Google 將Gemini 塞進Workspace，並帶有隱藏的關閉開關？來越多的軟體供應商預設啟用它們...]]></description>
+      <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
       <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 22 Jan 2025 01:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>應用程式商店對川普暫停 TikTok 禁令表示不滿意，因為這本身的法律依據可能並不牢固</title>
+      <title>應用程式商店對川普暫停 TikTok 的禁令並不相信，這本身的法律依據可能不可靠</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</link>
       <description><![CDATA[El Reg 要求律師解釋到底發生了什麼 分析 川普總統的行政命令暫停在美國執行 TikTok 禁令這給託管或分發該應用程式的公司帶來了法律的不確定性。更令人困惑的是，甚至不清楚川普的法令是否在他有權發布或執行的範圍內。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>Atlassian 的 Bitbucket Cloud 今天遭遇「嚴重」宕機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</link>
-      <description><![CDATA[相同，大 A，相同 如果您今天無法訪問 Atlassian 的 Bitbucket Cloud，那是因為用 IT 巨頭的話說，該服務“硬斷了”。]]></description>
+      <description><![CDATA[一樣，大A，一樣 如果您今天無法訪問Atlassian 的Bitbucket Cloud，那是因為用這家IT 巨頭的話來說，該服務“很難關閉”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</guid>
       <pubDate>Tue, 21 Jan 2025 20:15:05 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>川普撤銷拜登人工智慧安全命令、電動車授權、排放標準等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</link>
-      <description><![CDATA[此外，川普2.0時代暫停風電項目和美國灣項目，這僅僅是第一天 美國總統唐納德·川普毫不猶豫地削減了拜登時代的項目，包括取消前政府關於人工智慧安全和電動車的行政命令，以及凍結電動車基礎設施資金…  ]]></description>
+      <description><![CDATA[此外，為川普2.0 暫停的風電項目和美洲灣做好準備- 這只是第一天 美國總統唐納德·特朗普不遺餘力地剔除拜登時代的項目，包括消除前政府關於人工智慧安全和電動汽車的行政命令，並凍結電動汽車基礎設施的資金。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</guid>
       <pubDate>Tue, 21 Jan 2025 17:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[研究人員旨在解決未滿足的社交聯繫和娛樂需求 美國科學家開發出了一種神經接口，透過將大腦活動解碼為不同的手指運動，癱瘓者能夠控制虛擬四軸飛行器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</guid>
       <pubDate>Tue, 21 Jan 2025 16:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>僅靠言語無法將星條旗帶到火星</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</link>
-      <description><![CDATA[所以你會想去這顆紅色星球。你的口袋有多深，你有多少時間？典禮上說。經過數十年的機器人探索，美國已經到達了那裡。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</guid>
-      <pubDate>Tue, 21 Jan 2025 15:32:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
