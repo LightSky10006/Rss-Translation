@@ -3,8 +3,8 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 21:34:49 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 22 Jan 2025 22:11:42 GMT</lastBuildDate>
     <item>
       <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
-      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
+      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用來注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴充開發人員的供應鏈攻擊可能已經影響了數十萬人。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
       <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[羅斯·烏布利希(Ross Ulbricht) 的家人現呼籲捐款，以支持他重新融入社會 在美國總​​統唐納德·特朗普(Donald Trump) 兌現其發布聯邦赦免令的承諾後，絲綢之路創始人羅斯·烏布利希(Ross Ulbricht) 現已成為自由人。]]></description>
+      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>資訊安全實際上是川普政策計劃中的最後一項，但他的任期內可能會發生重大變化</title>
+      <title>資訊安全實際上是川普政策計劃中的最後一項，但他任職期間可能會發生重大變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</link>
       <description><![CDATA[每個人都同意防守很重要。如何做到這一點還有待商榷 特寫  川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人公開講話和專家評論的分析顯示它將給該領域帶來重大變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</guid>
@@ -90,9 +90,9 @@
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜前高階主管被任命為英國競爭監管機構主席</title>
+      <title>前亞馬遜高層被任命為英國競爭監管機構主席</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</link>
-      <description><![CDATA[前主席因未「充分關注成長」而被解僱後的臨時任命 在前任主席突然離職後，英國競爭與市場管理局(CMA) 有了新主席。 &lt; /p&gt;]]></description>
+      <description><![CDATA[前負責人因「沒有充分關注成長」而被解僱後，臨時任命 英國競爭和市場管理局(CMA) 在前任主席突然離職後，更換了一位新主席。 …&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</guid>
       <pubDate>Wed, 22 Jan 2025 12:12:58 GMT</pubDate>
     </item>
@@ -132,16 +132,16 @@
       <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
+      <title>OpenAI 希望在合作夥伴的幫助下，投入 5,000 億美元用於 AI 基礎設施建設</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年的支出超過微軟 更新  OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布了計劃未來四年內，美國將在人工智慧基礎設施上投入高達 5000 億美元，供 ChatGPT 超級實驗室使用。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
     <item>
       <title>PowerSchool 最新竊盜案：數十年的加拿大學生記錄和 40 多個美國州的資料恐遭竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</link>
-      <description><![CDATA[資料庫遭惡意程式訪問後，訴訟不斷 加拿大最大的教育局透露，自1985 年以來，學生記錄可能已被惡意程式訪問，他們入侵了軟體供應商PowerSchool。 /p&gt;]]></description>
+      <description><![CDATA[資料庫遭惡意程式存取後訴訟不斷 更新 加拿大最大的教育局透露，自1985 年以來，學生記錄可能已被惡意程式訪問，他們入侵了軟體供應商PowerSchool …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</guid>
       <pubDate>Wed, 22 Jan 2025 01:02:31 GMT</pubDate>
     </item>
