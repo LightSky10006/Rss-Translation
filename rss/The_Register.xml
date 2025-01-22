@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 13:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 14:12:11 GMT</lastBuildDate>
+    <item>
+      <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
+      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
+      <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>資訊安全實際上是川普政策計劃中的最後一項，但他任職期間可能會發生重大變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</link>
@@ -34,9 +41,9 @@
       <pubDate>Wed, 22 Jan 2025 10:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
+      <title>勒索軟體浮渣透過冒充技術支持，為 <i>Reg</i> 讀者提供個人化服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
+      <description><![CDATA[IT 部門承諾清除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 22 Jan 2025 08:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>Google DeepMind 執行長表示 2025 年我們將開始服用人工智慧幫助發明的藥丸</title>
+      <title>Google DeepMind 執行長表示，2025 年我們將開始服用人工智慧幫助發明的藥物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</link>
       <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗將很快進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，首批利用人工智慧設計的藥物的臨床試驗可能會在今年開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
@@ -85,26 +92,26 @@
     <item>
       <title>Atlassian 的 Bitbucket Cloud 今天遭遇「嚴重」宕機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</link>
-      <description><![CDATA[相同，大 A，相同 如果您今天無法訪問 Atlassian 的 Bitbucket Cloud，那是因為用 IT 巨頭的話說，該服務“硬斷了”。]]></description>
+      <description><![CDATA[一樣，大A，一樣 如果您今天無法訪問Atlassian 的Bitbucket Cloud，那是因為用這家IT 巨頭的話來說，該服務“很難關閉”。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</guid>
       <pubDate>Tue, 21 Jan 2025 20:15:05 GMT</pubDate>
     </item>
     <item>
       <title>修補延遲導致 50,000 個 Fortinet 防火牆易受零時差攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/</link>
-      <description><![CDATA[數據顯示，在披露後7 天且採取的行動很少 Fortinet 客戶需要使用該程式並應用最新更新，因為近50,000 個管理介面仍然容易受到最新的零日漏洞的攻擊。]]></description>
+      <description><![CDATA[數據顯示，漏洞披露七天后，幾乎沒有採取任何行動 Fortinet 客戶需要加入該計劃並應用最新更新，因為近 50,000 個管理介面仍然容易受到最新零日漏洞的攻擊。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/fortinet_firewalls_still_vulnerable/</guid>
       <pubDate>Tue, 21 Jan 2025 18:45:08 GMT</pubDate>
     </item>
     <item>
       <title>川普撤銷拜登人工智慧安全命令、電動車授權、排放標準等</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</link>
-      <description><![CDATA[此外，川普2.0時代暫停風電項目和美國灣項目，這僅僅是第一天 美國總統唐納德·川普毫不猶豫地削減了拜登時代的項目，包括取消前政府關於人工智慧安全和電動車的行政命令，以及凍結電動車基礎設施資金…  ]]></description>
+      <description><![CDATA[此外，為川普2.0 暫停的風電項目和美洲灣做好準備- 這只是第一天 美國總統唐納德·特朗普不遺餘力地剔除拜登時代的項目，包括消除前政府關於人工智慧安全和電動汽車的行政命令，並凍結電動汽車基礎設施的資金。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_eliminates_biden_ai_order/</guid>
       <pubDate>Tue, 21 Jan 2025 17:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>神經介面讓癱瘓者駕駛虛擬四軸飛行器，為遊戲開啟新大門</title>
+      <title>神經介面讓癱瘓者能夠操縱虛擬四軸飛行器，為遊戲開啟新的大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</link>
       <description><![CDATA[研究人員旨在解決未滿足的社交聯繫和娛樂需求 美國科學家開發出了一種神經接口，透過將大腦活動解碼為不同的手指運動，癱瘓者能夠控制虛擬四軸飛行器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</guid>
@@ -113,19 +120,19 @@
     <item>
       <title>僅靠言語無法將星條旗帶到火星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</link>
-      <description><![CDATA[所以你會想去紅色星球。您的財力有多少，您有多少時間？上說道。由於數十年的機器人探索，美國已經做到了這一點。]]></description>
+      <description><![CDATA[所以你會想去這顆紅色星球。你的口袋有多深，你有多少時間？典禮上說。經過數十年的機器人探索，美國已經到達了那裡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</guid>
       <pubDate>Tue, 21 Jan 2025 15:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 和 X 簽署歐盟委員會關於仇恨言論的行為準則</title>
+      <title>Meta、X 簽署歐洲委員會仇恨言論行為準則</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</link>
-      <description><![CDATA[根據《數位服務法》，監管者將被允許舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會現已將其納入《數位服務法》。 ...]]></description>
+      <description><![CDATA[根據《數位服務法》，監控人員可以舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已經簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會目前已將其納入《數位服務法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</guid>
       <pubDate>Tue, 21 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
+      <title>關稅不確定性對預算敏感的資訊長來說非常嚴重</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
       <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨著不確定性，他們等著看川普一再承諾的美國全球進口關稅付諸實施…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>HPE 調查 IntelBroker 的大膽資料竊取行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</link>
-      <description><![CDATA[事件回應協議在原始碼盜竊指控後啟動 惠普企業(HPE) 正在調查多產的大型科技入侵者IntelBroker 的斷言，即他們闖入了這家美國公司的系統並存取了原始程式碼，其中其他事情...... ]]></description>
+      <description><![CDATA[在聲稱原始碼被盜後啟動事件回應協定 惠普企業(HPE) 正在調查多產的科技巨頭入侵者IntelBroker 的斷言，他們聲稱他們闖入了這家美國公司的系統並存取了原始程式碼，其中包括其他事情… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</guid>
       <pubDate>Tue, 21 Jan 2025 13:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟加入 CISPE，試圖限制其授權的歐洲雲端運算團隊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/microsoft_joins_cispe/</link>
-      <description><![CDATA[儘管AWS 投了反對票，但六個月內從鬥士變成了朋友 獨家 微軟將在幾個月後與CISPE 行業協會談判達成和解，成為該行業協會的最新成員。然而，並不是所有人都對入學感到滿意。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/microsoft_joins_cispe/</guid>
-      <pubDate>Tue, 21 Jan 2025 12:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
