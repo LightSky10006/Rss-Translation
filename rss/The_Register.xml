@@ -3,17 +3,24 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:12:54 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 22 Jan 2025 15:37:15 GMT</lastBuildDate>
+    <item>
+      <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
+      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
+      <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
+      <title>分析師表示，資料中心的真實排放量是一個骯髒的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
       <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
@@ -22,14 +29,14 @@
     <item>
       <title>資訊安全實際上是川普政策計劃中的最後一項，但他任職期間可能會發生重大變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</link>
-      <description><![CDATA[每個人都同意防禦問題。如何做到這一點還有待爭論 專題 川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人的公開言論和專家評論的分析表明它將在該領域帶來重大變化。]]></description>
+      <description><![CDATA[每個人都同意防守很重要。如何做到這一點還有待商榷 特寫  川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人公開講話和專家評論的分析顯示它將給該領域帶來重大變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</guid>
       <pubDate>Wed, 22 Jan 2025 13:15:11 GMT</pubDate>
     </item>
     <item>
       <title>英國議員稱，英國稅務部門的電話服務「故意」糟糕，以迫使用戶上網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</link>
-      <description><![CDATA[切斷近 44,000 名等待 70 分鐘以獲得有關不可避免的家務建議的人 根據一個由議員組成的委員會指責英國稅務海關總署“故意”提供質量低下的電話服務，以迫使來電者上網。]]></description>
+      <description><![CDATA[切斷近 44,000 名已經等待 70 分鐘以獲取有關不可避免的雜務建議的窺探 英國稅務機關必須“為自己未能向客戶提供足夠有效的數字服務的失敗負責”，由議員組成的委員會指責英國稅務海關總署「故意」提供糟糕的電話服務，以迫使來電者上網。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</guid>
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
     <item>
       <title>PowerSchool 最新竊盜案：數十年的加拿大學生記錄和 40 多個美國州的資料恐遭竊取</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</link>
-      <description><![CDATA[資料庫遭惡意程式訪問後，訴訟不斷 加拿大最大的教育局透露，自1985 年以來，學生記錄可能已被惡意程式訪問，他們入侵了軟體供應商PowerSchool。 /p&gt;]]></description>
+      <description><![CDATA[資料庫遭惡意程式存取後訴訟不斷 加拿大最大的教育局透露，惡意程式入侵軟體供應商 PowerSchool 後，可能存取了自 1985 年以來的學生記錄。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/powerschool_canada_lawsuits/</guid>
       <pubDate>Wed, 22 Jan 2025 01:02:31 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[根據《數位服務法》，監控人員可以舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已經簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會目前已將其納入《數位服務法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</guid>
       <pubDate>Tue, 21 Jan 2025 14:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>關稅不確定性對注重預算的 CIO 造成巨大影響</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</link>
-      <description><![CDATA[分析師稱，這是一個功能，而不是一個錯誤，也是美國選民投票的結果 更新  隨著美國總統唐納德·特朗普的就職典禮成為歷史，科技領袖們面臨不確定性，因為他們等著看美國一再承諾的全球進口關稅是否會付諸實施。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/cio_value_budget_tariffs/</guid>
-      <pubDate>Tue, 21 Jan 2025 14:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
