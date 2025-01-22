@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:37:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 16:41:47 GMT</lastBuildDate>
+    <item>
+      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
+      <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
+      <pubDate>Wed, 22 Jan 2025 16:17:07 GMT</pubDate>
+    </item>
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
@@ -15,12 +22,12 @@
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經發布，但不要太興奮。這不是什麼大事，考慮到時間，可能不會出現在許多熟悉的發行版中。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>分析師表示，資料中心的真實排放量是一個骯髒的秘密</title>
+      <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
       <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>英國議員稱，英國稅務部門的電話服務「故意」糟糕，以迫使用戶上網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</link>
-      <description><![CDATA[切斷近 44,000 名已經等待 70 分鐘以獲取有關不可避免的雜務建議的窺探 英國稅務機關必須“為自己未能向客戶提供足夠有效的數字服務的失敗負責”，由議員組成的委員會指責英國稅務海關總署「故意」提供糟糕的電話服務，以迫使來電者上網。]]></description>
+      <description><![CDATA[切斷近 44,000 名等待 70 分鐘以獲得有關不可避免的家務建議的人 根據一個由議員組成的委員會指責英國稅務海關總署“故意”提供質量低下的電話服務，以迫使來電者上網。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</guid>
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
-      <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
+      <description><![CDATA[Plus：Google 將Gemini 塞進Workspace，並帶有隱藏的關閉開關？來越多的軟體供應商預設啟用它們...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
       <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 在合作夥伴的幫助下斥資 5000 億美元打造 AI 基礎設施</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</link>
-      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商組成Stargate 項目，計劃今年的支出超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布計劃斥資5000 億美元用於人工智能基礎設施建設美國未來四年，將由 ChatGPT 超級實驗室使用...... ]]></description>
+      <description><![CDATA[軟銀、甲骨文、MGX 與ChatGPT 製造商合作組成星際之門項目，計劃今年投入資金超過微軟 OpenAI、甲骨文、軟銀和投資公司MGX 週二宣布，計劃在人工智慧基礎設施上投資5000 億美元美國未來四年將使用 ChatGPT 超級實驗室… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/openai_stargate_ai_datacenter_company/</guid>
       <pubDate>Wed, 22 Jan 2025 02:37:05 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 22 Jan 2025 01:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>應用程式商店對川普暫停 TikTok 的禁令並不相信，這本身的法律依據可能不可靠</title>
+      <title>應用程式商店對川普暫停 TikTok 禁令表示不滿意，因為這本身的法律依據可能並不牢固</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</link>
       <description><![CDATA[El Reg 要求律師解釋到底發生了什麼 分析 川普總統的行政命令暫停在美國執行 TikTok 禁令這給託管或分發該應用程式的公司帶來了法律的不確定性。更令人困惑的是，甚至不清楚川普的法令是否在他有權發布或執行的範圍內。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/trump_tiktok_ban_pause/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>Atlassian 的 Bitbucket Cloud 今天遭遇「嚴重」宕機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</link>
-      <description><![CDATA[一樣，大A，一樣 如果您今天無法訪問Atlassian 的Bitbucket Cloud，那是因為用這家IT 巨頭的話來說，該服務“很難關閉”。 &gt;]]></description>
+      <description><![CDATA[相同，大 A，相同 如果您今天無法訪問 Atlassian 的 Bitbucket Cloud，那是因為用 IT 巨頭的話說，該服務“硬斷了”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/atlassian_bitbucket_cloud_outage/</guid>
       <pubDate>Tue, 21 Jan 2025 20:15:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[所以你會想去這顆紅色星球。你的口袋有多深，你有多少時間？典禮上說。經過數十年的機器人探索，美國已經到達了那裡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/usa_going_to_mars/</guid>
       <pubDate>Tue, 21 Jan 2025 15:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 和 X 簽署歐盟委員會關於仇恨言論的行為準則</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</link>
-      <description><![CDATA[根據《數位服務法》，監控人員可以舉報辱罵性語言，平台應在1 天內做出回應 包括X 和Meta 在內的線上平台公司已經簽署了一項新的行為準則，旨在針對網路仇恨言論，歐盟委員會目前已將其納入《數位服務法》。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/meta_and_x_sign_up/</guid>
-      <pubDate>Tue, 21 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
