@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 22 Jan 2025 17:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 19:34:38 GMT</lastBuildDate>
+    <item>
+      <title>三星的 Galaxy S25 發表會是一場人工智慧展示，偶爾也會展示手機硬體</title>
+      <link>https://arstechnica.com/gadgets/2025/01/samsungs-galaxy-s25-event-was-an-ai-presentation-with-occasional-phone-hardware/</link>
+      <description><![CDATA[與去年相比，三星在其活動和手機中融入了更多的人工智慧。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/samsungs-galaxy-s25-event-was-an-ai-presentation-with-occasional-phone-hardware/</guid>
+      <pubDate>Wed, 22 Jan 2025 19:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>死亡已久的星系中快速電波爆發讓天文學家困惑不已</title>
+      <link>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</link>
+      <description><![CDATA[研究結果“挑戰了將 FRB 起源與恆星形成星系現象聯繫起來的現有理論。”]]></description>
+      <guid>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:06:00 GMT</pubDate>
+    </item>
     <item>
       <title>川普宣布斥資 5000 億美元建造「星際之門」人工智慧基礎設施項目，目標是通用人工智慧</title>
       <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 22 Jan 2025 14:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>任天堂沒有告訴我們有關 Switch 2 的所有事情</title>
+      <title>關於 Switch 2，任天堂沒有告訴我們的所有事情</title>
       <link>https://arstechnica.com/gaming/2025/01/all-the-things-nintendo-didnt-tell-us-about-the-switch-2/</link>
       <description><![CDATA[從價格到電池壽命等各方面都有一些有根據的猜測。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/all-the-things-nintendo-didnt-tell-us-about-the-switch-2/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[終止對 32 位元 Windows 的支援為終結提供了一個藉口。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/rip-eas-origin-launcher-we-knew-ye-all-too-well-unfortunately/</guid>
       <pubDate>Tue, 21 Jan 2025 21:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 以前是預設啟用的，在 iOS 18.3 中自動啟用</title>
-      <link>https://arstechnica.com/gadgets/2025/01/ios-18-3-macos-15-3-updates-switch-to-enabling-apple-intelligence-by-default/</link>
-      <description><![CDATA[仍可以在「設定」中選擇退出，但只有在設定完成後才可以。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/ios-18-3-macos-15-3-updates-switch-to-enabling-apple-intelligence-by-default/</guid>
-      <pubDate>Tue, 21 Jan 2025 20:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國尖端「推理」模型可與 OpenAI o1 相媲美，而且可以免費下載</title>
-      <link>https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/</link>
-      <description><![CDATA[DeepSeek R1 可以免費在本地運行和修改，並且在多個基準測試中與 OpenAI 的 o1 相符。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/</guid>
-      <pubDate>Tue, 21 Jan 2025 18:28:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
