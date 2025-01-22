@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 22 Jan 2025 10:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 11:35:11 GMT</lastBuildDate>
     <item>
       <title>儘管 IT 支出激增，GenAI 的商業價值仍然難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</link>
@@ -13,16 +13,16 @@
       <pubDate>Wed, 22 Jan 2025 10:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
+      <title>勒索軟體渣滓透過冒充技術支持，為 <i>Reg</i> 讀者提供個人化服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 部門承諾消除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
+      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
     <item>
       <title>中國託卡馬克裝置在運行 17 分鐘後取得重大進展並創下紀錄</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</link>
-      <description><![CDATA[1,066秒穩態高約束等離子體運作等等 中國合肥物質科學研究院創造了維持穩態高約束等離子體運作的新世界紀錄，這是一項壯舉需要創建一個聚變反應堆，理論上該反應器將以很少的成本產生大量的能量。]]></description>
+      <description><![CDATA[1,066 秒穩態高約束等離子體運作及所有精彩內容 中國合肥物質科學研究院創造了維持穩態高約束等離子體運作的新世界紀錄，這是一項壯舉需要創建一個理論上可以以很小的成本產生大量能量的聚變反應器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</guid>
       <pubDate>Wed, 22 Jan 2025 08:29:07 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
+      <title>Apple Intelligence 在即將推出的 macOS Sequoia 15.3、iOS 18.3 中預設為開啟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
       <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 21 Jan 2025 17:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>神經介面讓癱瘓者能夠操縱虛擬四軸飛行器，為遊戲開啟新的大門</title>
+      <title>神經介面讓癱瘓者駕駛虛擬四軸飛行器，為遊戲開啟新大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</link>
       <description><![CDATA[研究人員旨在解決未滿足的社交聯繫和娛樂需求 美國科學家開發出了一種神經接口，透過將大腦活動解碼為不同的手指運動，癱瘓者能夠控制虛擬四軸飛行器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/brain_interface_virtual_quadcopter/</guid>
@@ -111,7 +111,7 @@
       <pubDate>Tue, 21 Jan 2025 14:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 調查 IntelBroker 大膽的資料竊取行為</title>
+      <title>HPE 調查 IntelBroker 的大膽資料竊取行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</link>
       <description><![CDATA[在聲稱原始碼被盜後啟動事件回應協定 惠普企業(HPE) 正在調查多產的科技巨頭入侵者IntelBroker 的斷言，他們聲稱他們闖入了這家美國公司的系統並存取了原始程式碼，其中包括其他事情… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/hpe_intelbroker_claims/</guid>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 21 Jan 2025 10:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧坑洞巡邏可以發現英國搖搖欲墜的道路上的缺陷</title>
+      <title>人工智慧坑洞巡邏將修復英國破舊道路的缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</link>
       <description><![CDATA[如果議會有能力填補這些坑洼就好了 一個經常被提及的誤解是，坑洼是由表面裂縫、水和交通共同形成的，但實際上坑洼是長期水準造成的公共基礎設施投資不足…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/21/ai_pothole_patrol/</guid>
