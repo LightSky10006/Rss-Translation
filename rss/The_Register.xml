@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 16:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 18:17:00 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
+      <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 全世界都在看科技界兄弟為星際之門（價值5000 億美元的人工智能基礎設施項目）爭吵不休，而成年人卻在一旁旁觀…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
+      <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
+    </item>
     <item>
       <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
@@ -27,16 +34,16 @@
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
+      <title>FortiGate 配置洩露：受害者的電子郵件地址在線發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
       <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>VMware 使用者對三年續約許可證的承諾表示不滿</title>
+      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
-      <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
+      <description><![CDATA[晶片和軟體巨頭Broadcom 表示其在許可條款上“靈活且開放”，但客戶不同意 自從這家虛擬化巨頭被Broadcom 收購以來，VMware 用戶仍然對許可變化感到不滿，並且現在抱怨他們在續訂 vSphere 許可證時被迫做出三年承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
       <pubDate>Thu, 23 Jan 2025 14:00:16 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 被指訓練人工智慧處理私人訊息</title>
+      <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
       <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[（老好人）回來了 美國聯邦政府承包商不再受到招聘、培訓和就業方面的反歧視規則的約束——此前特朗普總統回溯了 60 年前廢除的由前總統林登·約翰遜簽署的平等機會令…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</guid>
       <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
-      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
