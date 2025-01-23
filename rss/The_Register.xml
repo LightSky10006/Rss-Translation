@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 07:34:35 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 08:40:21 GMT</lastBuildDate>
+    <item>
+      <title>測試人員稱，被稱為「第一位人工智慧軟體工程師」的工具工作表現不佳</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
+      <description><![CDATA[僅完成了分配任務的15% 根據最近的評估，被稱為「第一位人工智慧軟體工程師」的服務似乎在工作中表現相當糟糕。 p&gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
+      <pubDate>Thu, 23 Jan 2025 08:17:11 GMT</pubDate>
+    </item>
     <item>
       <title>華碩讓處理器安全修復程序提前發布，AMD 確認補丁正在開發中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</link>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 22 Jan 2025 23:18:24 GMT</pubDate>
     </item>
     <item>
-      <title>國土安全部撤銷網路顧問委員會，川普“向中國駭客揮舞白旗”</title>
+      <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
-      <description><![CDATA[而且：美國“從未如此不安全”，退役海軍少將告訴國會 川普政府在上任頭幾天就廢除了關鍵的網路安全諮詢委員會，因為專家證人警告國會中國可能發動破壞性的網路攻擊…]]></description>
+      <description><![CDATA[而且：退休少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
-      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用來注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴充開發人員的供應鏈攻擊可能已經影響了數十萬人。 ...&lt; /p&gt;]]></description>
+      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
       <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
     </item>
@@ -76,14 +83,14 @@
       <pubDate>Wed, 22 Jan 2025 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
+      <title>美國太空總署太空行走者將在國際太空站擦拭微生物生命</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
       <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
       <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟針對 Windows Server 2022 NUMA 故障發布帶外修復</title>
+      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
       <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>儘管 IT 支出激增，GenAI 的商業價值仍然難以實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</link>
-      <description><![CDATA[Gartner 稱，新興技術進入技術成熟度曲線的下行階段 技術分析師預測，2025 年全球IT 支出將年增9.8%，達到5.61 兆美元，這得益於持續的AI 投資。]]></description>
+      <description><![CDATA[Gartner 表示，新興技術進入成熟度曲線的下降趨勢 技術分析師預測，在持續的人工智慧投資的推動下，2025 年全球IT 支出將年增9.8%，達到5.61兆美元，儘管「moonshot」專案失敗率很高... ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/business_value_genai_elusive/</guid>
       <pubDate>Wed, 22 Jan 2025 10:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
-      <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
