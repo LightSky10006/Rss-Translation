@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 11:10:45 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 12:23:43 GMT</lastBuildDate>
+    <item>
+      <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
+      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
+    </item>
     <item>
       <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[加上：「有史以來最大規模」的垃圾流量海嘯達到5.6 Tbps 除了中國間諜入侵組織網路和勒索軟體人員鎖定敏感檔案外，殭屍網路還攻擊分散式阻斷服務( DDoS) ）攻擊仍然會造成嚴重的傷害和網站停機，而且很可能是您的競爭對手造成的。]]></description>
+      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>測試人員稱，被稱為「第一位人工智慧軟體工程師」的工具工作表現不佳</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
-      <description><![CDATA[只完成 15% 的分配任務 根據最近的評估，被描述為「第一位 AI 軟體工程師」的服務似乎在工作中表現相當糟糕。 &gt;]]></description>
+      <description><![CDATA[僅完成了分配任務的15% 根據最近的評估，被稱為「第一位人工智慧軟體工程師」的服務似乎在工作中表現相當糟糕。 p&gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
       <pubDate>Thu, 23 Jan 2025 08:17:11 GMT</pubDate>
     </item>
@@ -71,28 +78,28 @@
     <item>
       <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
-      <description><![CDATA[而且：退休少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
+      <description><![CDATA[而且：退休海軍少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
     <item>
       <title>川普廢除聯邦承包商 60 年來的反歧視規定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</link>
-      <description><![CDATA[（好老的）男孩們回到城裡 美國聯邦政府承包商在招聘、培訓和就業方面不再受反歧視規則的約束——川普總統回溯60 年前廢除了這項規則前總統林登·約翰遜簽署的平等機會令…]]></description>
+      <description><![CDATA[（老好人）回來了 美國聯邦政府承包商不再受到招聘、培訓和就業方面的反歧視規則的約束——此前特朗普總統回溯了 60 年前廢除的由前總統林登·約翰遜簽署的平等機會令…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</guid>
       <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
     </item>
     <item>
       <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
-      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用來注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴充開發人員的供應鏈攻擊可能已經影響了數十萬人。 ...&lt; /p&gt;]]></description>
+      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
       <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
     </item>
     <item>
       <title>微軟投入更多資金重新種植巴西雨林以減輕碳排放負擔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</link>
-      <description><![CDATA[與此同時，資料中心的排放量持續飆升 微軟正在支付更多的碳信用額度來抵消其資料中心由人工智慧推動的二氧化碳排放量的螺旋式上升。 /p&gt;]]></description>
+      <description><![CDATA[與此同時，資料中心的排放量繼續飆升 微軟正在支付更多的碳信用額，以抵消其資料中心因人工智慧而不斷增加的二氧化碳排放量。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</guid>
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 22 Jan 2025 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
+      <title>美國太空總署太空行走者將在國際太空站擦拭微生物生命</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
       <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
@@ -120,14 +127,14 @@
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
+      <description><![CDATA[羅斯·烏布利希(Ross Ulbricht) 的家人現呼籲捐款，以支持他重新融入社會 在美國總​​統唐納德·特朗普(Donald Trump) 兌現其發布聯邦赦免令的承諾後，絲綢之路創始人羅斯·烏布利希(Ross Ulbricht) 現已成為自由人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
       <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>資訊安全實際上是川普政策計劃中的最後一項，但他任職期間可能會發生重大變化</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</link>
-      <description><![CDATA[每個人都同意防守很重要。如何做到這一點還有待商榷 特寫  川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人公開講話和專家評論的分析顯示它將給該領域帶來重大變化。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
