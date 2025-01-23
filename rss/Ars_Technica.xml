@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 14:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 15:13:09 GMT</lastBuildDate>
     <item>
-      <title>電動方程式錦標賽將配備 600 kW 快速充電站</title>
+      <title>OpenAI 啟動 5000 億美元「星際之門」項目，馬斯克大喊反對</title>
+      <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
+      <description><![CDATA[伊隆馬斯克質疑大規模人工智慧基礎設施項目的資金；奧特曼為資金支持辯護。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
+      <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>英國對谷歌和蘋果行動平台展開調查</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
+      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭以及如何對待開發商。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>600 千瓦快速充電站即將登陸電動方程式賽車</title>
       <link>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</link>
       <description><![CDATA[經過幾年的延遲，比賽中期充電已準備就緒。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>PowerSchool 資料外洩事件看起來非常非常嚴重</title>
       <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[學校目前正在通知各家長，他們的資料已被偷走。]]></description>
+      <description><![CDATA[學校目前正在通知家長他們的資料已被盜。]]></description>
       <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[數百個 Reddit 社群目前正在考慮禁止 X。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</guid>
       <pubDate>Wed, 22 Jan 2025 20:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>人類學家表示，2027 年後人工智慧將“在幾乎所有領域超越人類”</title>
-      <link>https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/</link>
-      <description><![CDATA[Amodei：“我認為進展確實像人們想像的那麼快。”]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.0 將 Arm Windows 應用程式引入 Linux，但仍不是模擬器</title>
-      <link>https://arstechnica.com/gadgets/2025/01/wine-10-0-released-adding-linux-compatibility-for-arm-windows-apps/</link>
-      <description><![CDATA[Wine 相容層是許多 Windows 應用程式翻譯專案的核心。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/wine-10-0-released-adding-linux-compatibility-for-arm-windows-apps/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

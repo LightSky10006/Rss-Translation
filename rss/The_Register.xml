@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 14:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 15:13:35 GMT</lastBuildDate>
     <item>
-      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
+      <title>FortiGate 配置洩露：受害者的電子郵件地址在線發布</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>VMware 使用者對三年續約許可證的承諾表示不滿</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
       <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
@@ -29,28 +36,28 @@
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
     <item>
       <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
+      <description><![CDATA[四月即將發布的 TrueNAS SCALE 版本（稱為“Fangtooth”） 最新版本的 OpenZFS 提供 RAID 擴展，以及 iXsystems 提供的更快的重複資料刪除功能。該程式碼很快就會在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
       <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
+      <description><![CDATA[加上：「有史以來最大規模」的垃圾流量海嘯達到5.6 Tbps 除了中國間諜入侵組織網路和勒索軟體人員鎖定敏感檔案外，殭屍網路還攻擊分散式阻斷服務( DDoS) ）攻擊仍然可能造成嚴重傷害以及網站停機，而且很可能是您的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國科技公司數量大幅下降。]]></description>
+      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 23 Jan 2025 05:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 發布了 603 個補丁，列出了它希望您盡快擔心的一個補丁</title>
+      <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
       <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>蘋果因在手錶錶帶中使用危險的「永久化學物質」而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</link>
-      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸到PFAS Apple 因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高含量的「永久化學物質」（稱為PFAS），可能與此有關對人類健康產生有害影響。... &lt; /p&gt;]]></description>
+      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸PFAS 蘋果公司因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高濃度的「永久性化學物質”，即PFAS，可能與對人類健康造成有害影響。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</guid>
       <pubDate>Wed, 22 Jan 2025 23:18:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
       <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
-      <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:17:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
