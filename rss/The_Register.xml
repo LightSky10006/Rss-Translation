@@ -3,17 +3,24 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 10:13:29 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 10:40:44 GMT</lastBuildDate>
+    <item>
+      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
+      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
+      <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
+      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國科技公司數量大幅下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>測試人員聲稱，被譽為「第一位人工智慧軟體工程師」的工具在工作中表現不佳</title>
+      <title>測試人員稱，被稱為「第一位人工智慧軟體工程師」的工具工作表現不佳</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
       <description><![CDATA[只完成 15% 的分配任務 根據最近的評估，被描述為「第一位 AI 軟體工程師」的服務似乎在工作中表現相當糟糕。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>華碩讓處理器安全修復程序提前發布，AMD 確認補丁正在開發中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</link>
-      <description><![CDATA[明信片上的「微程式碼簽章驗證漏洞」可能意味著什麼的答案 AMD 已確認其至少部分微處理器存在與微程式碼相關的安全漏洞，該漏洞的存在於本月意外暴露，此前個人電腦製造商華碩 (Asus) 在 Beta BIOS 更新中發布了針對該漏洞的修復程序。]]></description>
+      <description><![CDATA[明信片上「微程式碼簽章驗證漏洞」可能意義的解答 AMD 已確認至少部分微處理器存在與微程式碼相關的安全漏洞，該漏洞的存在於本月意外出現PC 製造商華碩的Beta BIOS 更新中出現了對該缺陷的修復。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</guid>
       <pubDate>Thu, 23 Jan 2025 07:19:08 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
-      <description><![CDATA[微軟的 IG-forsuits 堅稱訴訟主張毫無根據 LinkedIn 本週被指控允許第三方訪問高級客戶的私人 InMail 訊息以進行 AI 模型訓練。]]></description>
+      <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
       <pubDate>Wed, 22 Jan 2025 23:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果因在手錶錶帶中使用危險的「永久化學物質」而被起訴</title>
+      <title>蘋果因在錶帶中使用危險的「永久化學物質」而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</link>
       <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸PFAS 蘋果公司因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高濃度的「永久性化學物質”，即PFAS，可能與對人類健康造成有害影響。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>川普廢除了 60 年來針對聯邦承包商的反歧視規則</title>
+      <title>川普廢除聯邦承包商 60 年來的反歧視規定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</link>
       <description><![CDATA[（老好人）回來了 美國聯邦政府承包商不再受到招聘、培訓和就業方面的反歧視規則的約束——此前特朗普總統回溯了 60 年前廢除的由前總統林登·約翰遜簽署的平等機會令…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</guid>
@@ -90,14 +97,14 @@
       <pubDate>Wed, 22 Jan 2025 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署太空行走者將在國際太空站擦拭微生物生命</title>
+      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
-      <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
+      <description><![CDATA[學習如何處理與人類搭便車的微生物 兩名 NASA 太空人將前往國際太空站 (ISS) 外冒險尋找生命跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
       <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟針對 Windows Server 2022 NUMA 故障發布帶外修復</title>
+      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
       <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
+      <description><![CDATA[羅斯·烏布利希(Ross Ulbricht) 的家人現呼籲捐款，以支持他重新融入社會 在美國總​​統唐納德·特朗普(Donald Trump) 兌現其發布聯邦赦免令的承諾後，絲綢之路創始人羅斯·烏布利希(Ross Ulbricht) 現已成為自由人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>資訊安全實際上是川普政策計劃中的最後一項，但他任職期間可能會發生重大變化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</link>
-      <description><![CDATA[每個人都同意防禦問題。如何做到這一點還有待爭論 專題 川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人的公開言論和專家評論的分析表明它將在該領域帶來重大變化。]]></description>
+      <description><![CDATA[每個人都同意防守很重要。如何做到這一點還有待商榷 特寫  川普政府本週上任時沒有製定詳細的資訊安全政策，但對內閣提名人公開講話和專家評論的分析顯示它將給該領域帶來重大變化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_cyber_policy/</guid>
       <pubDate>Wed, 22 Jan 2025 13:15:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[切斷近 44,000 名等待 70 分鐘以獲得有關不可避免的家務建議的人 根據一個由議員組成的委員會指責英國稅務海關總署“故意”提供質量低下的電話服務，以迫使來電者上網。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/pms_say_hmrc_phone_services/</guid>
       <pubDate>Wed, 22 Jan 2025 12:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>前亞馬遜高層被任命為英國競爭監管機構主席</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</link>
-      <description><![CDATA[前負責人因「沒有充分關注成長」而被解僱後，臨時任命 英國競爭和市場管理局(CMA) 在前任主席突然離職後，更換了一位新主席。 …&lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ex_amazon_exec_on_uk_competition_watchdog_body/</guid>
-      <pubDate>Wed, 22 Jan 2025 12:12:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
