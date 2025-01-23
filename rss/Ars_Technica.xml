@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 21:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 22:36:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 Operator，一款可以操作你的電腦的 AI 代理</title>
+      <link>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</link>
+      <description><![CDATA[新研究的「電腦使用代理」人工智慧模型可以介入並幫助使用者完成螢幕上的任務。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</guid>
+      <pubDate>Thu, 23 Jan 2025 22:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有聯邦機構被要求終止遠距工作——最好在 30 天內</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</link>
+      <description><![CDATA[RTO 備忘錄稱，美國機構浪費數十億美元用於空置辦公室，令人「尷尬」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</guid>
+      <pubDate>Thu, 23 Jan 2025 21:28:47 GMT</pubDate>
+    </item>
     <item>
       <title>字節跳動董事會成員稱川普無需強制出售即可拯救 TikTok</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trump-can-save-tiktok-without-forcing-a-sale-bytedance-board-member-claims/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>川普的聯邦通訊委員會主席開始著手懲罰被指控有偏見的電視新聞電台</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trumps-fcc-chair-gets-to-work-on-punishing-news-stations-accused-of-bias/</link>
-      <description><![CDATA[主席布倫丹·卡爾 (Brendan Carr) 再次提起針對哥倫比亞廣播公司 (CBS)、美國廣播公司 (ABC) 和全國廣播公司 (NBC) 電視台的偏見投訴。]]></description>
+      <description><![CDATA[主席布倫丹·卡爾再次提出針對 CBS、ABC 和 NBC 電視台的偏見投訴。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trumps-fcc-chair-gets-to-work-on-punishing-news-stations-accused-of-bias/</guid>
       <pubDate>Thu, 23 Jan 2025 16:52:08 GMT</pubDate>
     </item>
@@ -48,9 +62,9 @@
       <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>英國對谷歌和蘋果行動平台展開調查</title>
+      <title>英國對谷歌和蘋果的行動平台展開調查</title>
       <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
-      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭、對待開發商。]]></description>
+      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭以及如何對待開發商。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
       <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[經過幾年的延遲，比賽中期充電已準備就緒。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</guid>
       <pubDate>Thu, 23 Jan 2025 13:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>凱迪拉克為 Lyriq 賦予賽車風格的光彩</title>
-      <link>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</link>
-      <description><![CDATA[現在有一款擁有 615 匹馬力和勒芒風格聲音的 Lyriq。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerSchool 資料外洩事件看起來非常非常嚴重</title>
-      <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[學校目前正在通知家長他們的資料已被盜。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
