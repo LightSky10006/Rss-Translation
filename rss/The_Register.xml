@@ -3,17 +3,31 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 15:13:35 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 15:37:05 GMT</lastBuildDate>
     <item>
-      <title>FortiGate 配置洩露：受害者的電子郵件地址在線發布</title>
+      <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
+      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
+      <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 週四休息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</link>
+      <description><![CDATA[生成式 AI 需要休息一下，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</guid>
+      <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>VMware 使用者對三年續約許可證的承諾表示不滿</title>
+      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
       <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[加上：「有史以來最大規模」的垃圾流量海嘯達到5.6 Tbps 除了中國間諜入侵組織網路和勒索軟體人員鎖定敏感檔案外，殭屍網路還攻擊分散式阻斷服務( DDoS) ）攻擊仍然可能造成嚴重傷害以及網站停機，而且很可能是您的競爭對手造成的。]]></description>
+      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
     <item>
       <title>蘋果因在手錶錶帶中使用危險的「永久化學物質」而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</link>
-      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸PFAS 蘋果公司因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高濃度的「永久性化學物質”，即PFAS，可能與對人類健康造成有害影響。… ]]></description>
+      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸到PFAS Apple 因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高含量的「永久化學物質」（稱為PFAS），可能與此有關對人類健康產生有害影響。... &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</guid>
       <pubDate>Wed, 22 Jan 2025 23:18:24 GMT</pubDate>
     </item>
@@ -118,7 +132,7 @@
       <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 擴充功能遭受供應鏈攻擊，可能導致數百萬人面臨風險</title>
+      <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
       <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[與此同時，資料中心的排放量持續飆升 微軟正在支付更多的碳信用額度來抵消其資料中心由人工智慧推動的二氧化碳排放量的螺旋式上升。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</guid>
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星Galaxy S25太聰明了，穿的是Crocs，據稱可以抵抗量子解密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</link>
-      <description><![CDATA[今年的機型增加了許多人工智慧、改進的管理功能以及對商務買家的支援 首次亮相 三星宣布推出Galaxy S25，這是其旗艦智慧型手機系列的最新版本，並且如您所期望的那樣，為英雄添加了新的AI 功能。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
-      <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
