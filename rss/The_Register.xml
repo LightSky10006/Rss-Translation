@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 13:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 14:12:08 GMT</lastBuildDate>
     <item>
-      <title>儘管 2024 年獲利創紀錄，但 SK 海力士仍因市場不確定性而搖擺不定</title>
+      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
+      <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>儘管 2024 年獲利創紀錄，SK 海力士仍因市場不確定性而舉步維艱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
       <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
@@ -22,19 +29,19 @@
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
     <item>
       <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[即將推出 4 月份的 TrueNAS SCALE 版本，稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及 iXsystems 提供的更快的重複資料刪除功能。該程式碼很快就會在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
+      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>誰在 DDoSing 你？可能是競爭對手，或是被拒於門外的用戶</title>
+      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
       <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 23 Jan 2025 05:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
+      <title>Oracle 發布了 603 個補丁，列出了它希望您盡快擔心的一個補丁</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
       <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>蘋果因在手錶錶帶中使用危險的「永久化學物質」而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</link>
-      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸PFAS 蘋果公司因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高濃度的「永久性化學物質”，即PFAS，可能與對人類健康造成有害影響。… ]]></description>
+      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸到PFAS Apple 因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高含量的「永久化學物質」（稱為PFAS），可能與此有關對人類健康產生有害影響。... &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</guid>
       <pubDate>Wed, 22 Jan 2025 23:18:24 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>三星 Galaxy S25 非常聰明，可以穿上 Crocs 鞋，據稱可以抵抗量子解密</title>
+      <title>三星Galaxy S25太聰明了，穿的是Crocs，據稱可以抵抗量子解密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</link>
       <description><![CDATA[今年的機型增加了許多人工智慧、改進的管理功能以及對商務買家的支援 首次亮相 三星宣布推出Galaxy S25，這是其旗艦智慧型手機系列的最新版本，並且如您所期望的那樣，為英雄添加了新的AI 功能。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
       <pubDate>Wed, 22 Jan 2025 16:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
