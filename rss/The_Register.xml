@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 00:57:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 02:12:12 GMT</lastBuildDate>
+    <item>
+      <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
+      <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
+    </item>
     <item>
       <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
-      <description><![CDATA[而且：美國“從未如此不安全”，退役海軍少將告訴國會 川普政府在上任頭幾天就廢除了關鍵的網路安全諮詢委員會，因為專家證人警告國會中國可能發動破壞性的網路攻擊…]]></description>
+      <description><![CDATA[而且：退休少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗將很快進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，首批利用人工智慧設計的藥物的臨床試驗可能會在今年開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</guid>
       <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>即將推出的 macOS Sequoia 15.3、iOS 18.3 預設啟用 Apple Intelligence</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</link>
-      <description><![CDATA[此外：Google 將Gemini 塞入Workspace，並帶有隱藏的關閉開關？越來越多的軟體供應商預設啟用它們…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_intelligence_enabled/</guid>
-      <pubDate>Wed, 22 Jan 2025 06:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
