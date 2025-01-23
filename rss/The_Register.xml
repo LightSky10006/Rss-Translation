@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 23:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 23:34:35 GMT</lastBuildDate>
+    <item>
+      <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
+      <description><![CDATA[但我的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞侵入美國電信和政府網絡，近四年來一直有一個修補程式可用- 儘管執法部門和私部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 23 Jan 2025 21:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>立即修補：思科修復了嚴重的 9.9 級「make-me-admin」錯誤</title>
+      <title>立即修補：思科修復會議管理中評分為 9.9 的嚴重 make-me-admin 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
-      <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
+      <description><![CDATA[尚無野外漏洞利用...... 思科已在其會議管理工具中推出了針對嚴重9.9 級漏洞的補丁，該漏洞可能允許低權限的遠端、經過身份驗證的攻擊者升級受影響設備上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
       <pubDate>Thu, 23 Jan 2025 21:00:08 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
+      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
-      <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 全世界都看到科技界兄弟為星際之門（據稱由OpenAI 領導的5000 億美元人工智能基礎設施項目）爭吵不休，而成長中的-ups 看著…]]></description>
+      <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 更新  全世界都看到科技兄弟們為星際之門（據稱價值5000 億美元的人工智慧基礎設施）爭吵不休由 OpenAI 領導的項目，而成年人則在一旁觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
+      <title>FortiGate 配置洩露：受害者的電子郵件地址在線發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
-      <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
-      <pubDate>Wed, 22 Jan 2025 23:56:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
