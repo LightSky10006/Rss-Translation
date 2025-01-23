@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 22:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 23:11:55 GMT</lastBuildDate>
     <item>
       <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 23 Jan 2025 21:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>立即修補：思科修復關鍵的 9.9 等級 make-me-admin 漏洞</title>
+      <title>立即修補：思科修復了嚴重的 9.9 級「make-me-admin」錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
       <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
-      <description><![CDATA[OpenAI 老闆告訴世界首富，錢是用來資助基礎設施項目的 科技兄弟們在Stargate 上爭論不休，Stargate 是由OpenAI 領導的據稱價值5000 億美元的人工智能基礎設施項目，而日益增長的人工智慧基礎設施項目-ups 看著...]]></description>
+      <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 全世界都看到科技界兄弟為星際之門（據稱由OpenAI 領導的5000 億美元人工智能基礎設施項目）爭吵不休，而成長中的-ups 看著…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 23 Jan 2025 07:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>北京承擔了在中國銷售的 iPhone 的部分費用</title>
+      <title>北京為在中國銷售的 iPhone 承擔部分費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/</link>
       <description><![CDATA[什麼？為什麼？習近平希望人們消費，因此將補貼計劃擴大到手機、平板電腦和智慧手錶 如果你想要一款便宜的iPhone，中國現在就是最好的選擇，這要歸功於政府的補貼計劃，這意味著經銷商正在打折這些設備確保北京能夠幫助支付賬單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
-      <description><![CDATA[不斷造成麻煩的舊缺陷困擾著大紅 Oracle 已經提供了定期的季度補丁集合：總共603 個，其中318 個用於其自己的產品，另外285 個用於其發布的Linux 碼。]]></description>
+      <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
