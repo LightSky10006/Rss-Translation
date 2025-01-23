@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 18:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 20:35:22 GMT</lastBuildDate>
+    <item>
+      <title>《毀滅戰士：黑暗時代》希望更像原版《毀滅戰士》</title>
+      <link>https://arstechnica.com/gaming/2025/01/how-doom-the-dark-ages-draws-from-the-90s-doom-games/</link>
+      <description><![CDATA[預覽：這款遊戲在許多方面都比《毀滅戰士永恆》更紮實。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/how-doom-the-dark-ages-draws-from-the-90s-doom-games/</guid>
+      <pubDate>Thu, 23 Jan 2025 19:00:37 GMT</pubDate>
+    </item>
     <item>
       <title>法院裁定聯邦調查局無證搜索違反第四修正案</title>
       <link>https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>川普的聯邦通訊委員會主席開始著手懲罰被指控有偏見的電視新聞電台</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trumps-fcc-chair-gets-to-work-on-punishing-news-stations-accused-of-bias/</link>
-      <description><![CDATA[主席布倫丹·卡爾再次提出針對 CBS、ABC 和 NBC 電視台的偏見投訴。]]></description>
+      <description><![CDATA[主席布倫丹·卡爾 (Brendan Carr) 再次提起針對哥倫比亞廣播公司 (CBS)、美國廣播公司 (ABC) 和全國廣播公司 (NBC) 電視台的偏見投訴。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trumps-fcc-chair-gets-to-work-on-punishing-news-stations-accused-of-bias/</guid>
       <pubDate>Thu, 23 Jan 2025 16:52:08 GMT</pubDate>
     </item>
@@ -34,9 +41,9 @@
       <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>英國對谷歌和蘋果移動平台展開調查</title>
+      <title>英國對谷歌和蘋果行動平台展開調查</title>
       <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
-      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭、對待開發商。]]></description>
+      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭以及如何對待開發商。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
       <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 23 Jan 2025 13:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>凱迪拉克為 Lyriq 賦予賽車靈感的光芒</title>
+      <title>凱迪拉克為 Lyriq 賦予賽車風格的光彩</title>
       <link>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</link>
       <description><![CDATA[現在有一款擁有 615 匹馬力和勒芒風格聲音的 Lyriq。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</guid>
@@ -57,23 +64,16 @@
     <item>
       <title>PowerSchool 資料外洩事件看起來非常非常嚴重</title>
       <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[學校目前正在通知各家長，他們的資料已被偷走。]]></description>
+      <description><![CDATA[學校目前正在通知家長他們的資料已被盜。]]></description>
       <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
     </item>
     <item>
       <title>研究人員稱新一輪攻擊可能會摧毀歐洲電網</title>
       <link>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</link>
-      <description><![CDATA[中歐電網使用未加密的無線電訊號來增加和削減負載。]]></description>
+      <description><![CDATA[中歐電網使用未加密的無線電訊號來增加和減少負載。]]></description>
       <guid>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</guid>
       <pubDate>Thu, 23 Jan 2025 12:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 迅速採取行動終止 DEI 計劃，要求員工「舉報」違規行為</title>
-      <link>https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/</link>
-      <description><![CDATA[“如果未能在10天內報告此信息，可能會導致不良後果。”]]></description>
-      <guid>https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/</guid>
-      <pubDate>Wed, 22 Jan 2025 23:04:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

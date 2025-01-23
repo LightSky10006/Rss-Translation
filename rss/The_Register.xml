@@ -3,10 +3,17 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 20:13:41 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 20:35:44 GMT</lastBuildDate>
     <item>
-      <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
+      <title>英特爾推出模組化 PC 設計以減輕維修痛苦</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
+      <description><![CDATA[x86 巨頭稱這種方法為“創新” - DIY 構建者可能不同意 英特爾聲稱採用更加模組化的PC 設計方法可以使系統更容易修復並減少電子廢物- 並且它為您提供了一些建議...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
+      <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
       <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 全世界都看到科技界兄弟為星際之門（據稱由OpenAI 領導的5000 億美元人工智能基礎設施項目）爭吵不休，而成長中的-ups 看著…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
+      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能受到 2022 年零日漏洞的影響。]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -57,35 +64,35 @@
     <item>
       <title>為什麼大型科技公司執意要讓人工智慧退出？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</link>
-      <description><![CDATA[當微軟、蘋果和谷歌預設啟用這項技術時，首先請求許可會發生什麼？科技業熱衷於讓服務選擇退出而不是選擇加入的最新例子… ]]></description>
+      <description><![CDATA[由於 Microsoft、Apple 和 Google 預設開啟技術，首先請求許可會發生什麼情況？業界沉迷於讓服務選擇退出而不是選擇加入的最新例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:07 GMT</pubDate>
     </item>
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
     <item>
       <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
+      <description><![CDATA[四月即將發布的 TrueNAS SCALE 版本（稱為“Fangtooth”） 最新版本的 OpenZFS 提供 RAID 擴展，以及 iXsystems 提供的更快的重複資料刪除功能。該程式碼很快就會在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
       <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[加上：「有史以來最大規模」的垃圾流量海嘯達到5.6 Tbps 除了中國間諜入侵組織網路和勒索軟體人員鎖定敏感檔案外，殭屍網路還攻擊分散式阻斷服務( DDoS) ）攻擊仍然會造成嚴重的傷害和網站停機，而且很可能是您的競爭對手造成的。]]></description>
+      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國科技公司數量大幅下降。]]></description>
+      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 被指訓練人工智慧處理私人訊息</title>
+      <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
       <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[而且：美國“從未如此不安全”，退役海軍少將告訴國會 川普政府在上任頭幾天就廢除了關鍵的網路安全諮詢委員會，因為專家證人警告國會中國可能發動破壞性的網路攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普廢除聯邦承包商 60 年來的反歧視規定</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</link>
-      <description><![CDATA[（老好人）回來了 美國聯邦政府承包商不再受到招聘、培訓和就業方面的反歧視規則的約束——此前特朗普總統回溯了 60 年前廢除的由前總統林登·約翰遜簽署的平等機會令…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/trump_federal_contractor_eo/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
