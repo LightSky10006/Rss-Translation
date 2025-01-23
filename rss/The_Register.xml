@@ -3,31 +3,38 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 15:37:05 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 16:42:33 GMT</lastBuildDate>
+    <item>
+      <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
+      <description><![CDATA[大型組織和政府是這些網關的主要使用者 SonicWall 警告客戶存在一個可能已被利用為零日漏洞的嚴重漏洞…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</guid>
+      <pubDate>Thu, 23 Jan 2025 16:36:20 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
+      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 週四休息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</link>
-      <description><![CDATA[生成式 AI 需要休息一下，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
+      <description><![CDATA[生成式人工智慧需要休息，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</guid>
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
+      <title>VMware 使用者對三年續約許可證的承諾表示不滿</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
       <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[四月即將發布的 TrueNAS SCALE 版本（稱為“Fangtooth”） 最新版本的 OpenZFS 提供 RAID 擴展，以及 iXsystems 提供的更快的重複資料刪除功能。該程式碼很快就會在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
+      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
+      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國科技公司數量大幅下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
+      <title>LinkedIn 被指訓練人工智慧處理私人訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
       <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>蘋果因在手錶錶帶中使用危險的「永久化學物質」而被起訴</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</link>
-      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸到PFAS Apple 因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高含量的「永久化學物質」（稱為PFAS），可能與此有關對人類健康產生有害影響。... &lt; /p&gt;]]></description>
+      <description><![CDATA[將智慧手錶作為健康助理進行行銷，儘管它們會讓一些用戶接觸PFAS 蘋果公司因涉嫌銷售其智慧手錶腕帶而被起訴，這些腕帶含有高濃度的「永久性化學物質”，即PFAS，可能與對人類健康造成有害影響。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/apple_watch_pfas_bands/</guid>
       <pubDate>Wed, 22 Jan 2025 23:18:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
       <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟投入更多資金重新種植巴西雨林以減輕碳排放負擔</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</link>
-      <description><![CDATA[與此同時，資料中心的排放量持續飆升 微軟正在支付更多的碳信用額度來抵消其資料中心由人工智慧推動的二氧化碳排放量的螺旋式上升。 /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
