@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 02:12:12 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 06:18:02 GMT</lastBuildDate>
+    <item>
+      <title>北京為在中國銷售的 iPhone 承擔部分費用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/</link>
+      <description><![CDATA[什麼？為什麼？習近平希望人們消費，因此將補貼計劃擴大到手機、平板電腦和智慧手錶 如果你想要一款便宜的iPhone，中國現在就是最好的選擇，這要歸功於政府的補貼計劃，這意味著經銷商正在打折這些設備確保北京能夠幫助支付賬單。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/</guid>
+      <pubDate>Thu, 23 Jan 2025 05:58:05 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 被指利用私人訊息訓練人工智慧</title>
+      <title>LinkedIn 被指訓練人工智慧處理私人訊息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</link>
       <description><![CDATA[微軟的 IG 訴訟堅稱訴訟的指控毫無根據 本週，LinkedIn 被指控向第三方提供 Premium 客戶的私人 InMail 訊息，以進行 AI 模型訓練。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/linkedin_sued_for_allegedly_training/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
-      <description><![CDATA[而且：退休少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
+      <description><![CDATA[而且：美國“從未如此不安全”，退役海軍少將告訴國會 川普政府在上任頭幾天就廢除了關鍵的網路安全諮詢委員會，因為專家證人警告國會中國可能發動破壞性的網路攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
-      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
+      <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用來注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴充開發人員的供應鏈攻擊可能已經影響了數十萬人。 ...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
       <pubDate>Wed, 22 Jan 2025 19:45:10 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 22 Jan 2025 17:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>微軟發布 Windows Server 2022 NUMA 故障的帶外修復程序</title>
+      <title>微軟針對 Windows Server 2022 NUMA 故障發布帶外修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</link>
       <description><![CDATA[更新解決了多節點系統上的啟動失敗問題 微軟正在發布一個帶外補丁來解決導致某些 Windows Server 2022 機器無法啟動的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/windows_server_numa_glitch/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[羅斯·烏布利希(Ross Ulbricht) 的家人現呼籲捐款，以支持他重新融入社會 在美國總​​統唐納德·特朗普(Donald Trump) 兌現其發布聯邦赦免令的承諾後，絲綢之路創始人羅斯·烏布利希(Ross Ulbricht) 現已成為自由人。]]></description>
+      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>分析人士稱，資料中心的真實排放是一個骯髒的秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
-      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
+      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈具體數據 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或科技買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
       <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>勒索軟體騙子冒充技術支持，對<i>Reg</i>讀者進行人身攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</link>
-      <description><![CDATA[IT 承諾會清理垃圾郵件風暴的 Teams 通話邀請可能並非表面看起來的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而這些騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫…]]></description>
+      <description><![CDATA[IT 部門承諾消除垃圾郵件風暴的 Teams 通話邀請可能並非表面上的那樣 兩個勒索軟體活動正在濫用 Microsoft Teams 來感染組織並竊取數據，而騙子可能已經據Sophos 稱，與Black Basta 和FIN7 有聯繫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/ransomware_crews_abuse_microsoft_teams/</guid>
       <pubDate>Wed, 22 Jan 2025 09:29:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[1,066 秒穩態高約束等離子體運作及所有精彩內容 中國合肥物質科學研究院創造了維持穩態高約束等離子體運作的新世界紀錄，這是一項壯舉需要創建一個理論上可以以很小的成本產生大量能量的聚變反應器。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/china_tokamak_plasma_record_claim/</guid>
       <pubDate>Wed, 22 Jan 2025 08:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 執行長表示，2025 年我們將開始服用人工智慧幫助發明的藥物</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</link>
-      <description><![CDATA[諾貝爾獎得主Demis Hassabis 認為人體試驗將很快進行 GoogleDeepMind 執行長Demis Hassabis 週二表示，首批利用人工智慧設計的藥物的臨床試驗可能會在今年開始。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/google_deepmind_ai_drugs/</guid>
-      <pubDate>Wed, 22 Jan 2025 07:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
