@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 12:56:51 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 13:20:23 GMT</lastBuildDate>
+    <item>
+      <title>儘管 2024 年獲利創紀錄，但 SK 海力士仍因市場不確定性而搖擺不定</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
+      <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
+      <pubDate>Thu, 23 Jan 2025 13:16:37 GMT</pubDate>
+    </item>
     <item>
       <title>為什麼大型科技公司執意要讓人工智慧退出？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</link>
@@ -15,19 +22,19 @@
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>OpenZFS 2.3 現已推出，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
+      <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
+      <description><![CDATA[即將推出 4 月份的 TrueNAS SCALE 版本，稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及 iXsystems 提供的更快的重複資料刪除功能。該程式碼很快就會在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
+      <title>誰在 DDoSing 你？可能是競爭對手，或是被拒於門外的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
       <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
+      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國科技公司數量大幅下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 22 Jan 2025 20:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>供應鏈攻擊影響 Chrome 擴充程序，可能使數百萬用戶面臨風險</title>
+      <title>Chrome 擴充功能遭受供應鏈攻擊，可能導致數百萬人面臨風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</link>
       <description><![CDATA[威脅行為者利用網路釣魚和OAuth 濫用注入惡意程式碼 網路安全機構Sekoia 警告Chrome 用戶，針對瀏覽器擴展開發人員的供應鏈攻擊可能已經影響了數十萬個人。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/supply_chain_attack_chrome_extension/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>三星Galaxy S25太聰明了，穿的是Crocs，據稱能抵抗量子解密</title>
+      <title>三星 Galaxy S25 非常聰明，可以穿上 Crocs 鞋，據稱可以抵抗量子解密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</link>
       <description><![CDATA[今年的機型增加了許多人工智慧、改進的管理功能以及對商務買家的支援 首次亮相 三星宣布推出Galaxy S25，這是其旗艦智慧型手機系列的最新版本，並且如您所期望的那樣，為英雄添加了新的AI 功能。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
