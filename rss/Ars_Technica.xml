@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 02:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:56:22 GMT</lastBuildDate>
+    <item>
+      <title>PowerSchool 資料外洩事件看起來非常非常嚴重</title>
+      <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
+      <description><![CDATA[學校目前正在通知家長他們的資料已被盜。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人員稱新一輪攻擊可能會摧毀歐洲電網</title>
+      <link>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</link>
+      <description><![CDATA[中歐電網使用未加密的無線電訊號來增加和削減負載。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 迅速採取行動終止 DEI 計劃，要求員工「舉報」違規行為</title>
       <link>https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 22 Jan 2025 21:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 不會干涉用戶透過 subreddit 禁令來反抗 X</title>
+      <title>Reddit 不會透過 subreddit 禁令來幹擾用戶反抗 X</title>
       <link>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</link>
       <description><![CDATA[數百個 Reddit 社群目前正在考慮禁止 X。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 22 Jan 2025 20:25:08 GMT</pubDate>
     </item>
     <item>
-      <title>川普政府解雇了調查中國大型網路服務供應商駭客攻擊的安全委員會</title>
+      <title>川普政府解散調查中國駭客攻擊大型網路服務供應商的安全委員會</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trump-admin-fires-homeland-security-advisory-boards-blaming-agendas/</link>
       <description><![CDATA[已解散的網路安全審查委員會正在調查 Salt Typhoon 電信駭客事件。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trump-admin-fires-homeland-security-advisory-boards-blaming-agendas/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[與去年相比，三星在其活動和手機中融入了更多的人工智慧。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/samsungs-galaxy-s25-event-was-an-ai-presentation-with-occasional-phone-hardware/</guid>
       <pubDate>Wed, 22 Jan 2025 19:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>死亡已久的星系中快速電波爆發讓天文學家困惑不已</title>
-      <link>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</link>
-      <description><![CDATA[研究結果“挑戰了將 FRB 起源與恆星形成星系現象聯繫起來的現有理論。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普宣布斥資 5000 億美元建造「星際之門」人工智慧基礎設施項目，目標是通用人工智慧</title>
-      <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
-      <description><![CDATA[川普：“這是歷史上最大的人工智慧基礎設施項目，而且它就在美國。”]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:20:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

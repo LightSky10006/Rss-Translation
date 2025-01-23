@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 12:23:43 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 23 Jan 2025 12:56:51 GMT</lastBuildDate>
+    <item>
+      <title>為什麼大型科技公司執意要讓人工智慧退出？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</link>
+      <description><![CDATA[當微軟、蘋果和谷歌預設啟用這項技術時，首先請求許可會發生什麼？科技業熱衷於讓服務選擇退出而不是選擇加入的最新例子… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
+      <title>OpenZFS 2.3 現已推出，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
       <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>測試人員稱，被稱為「第一位人工智慧軟體工程師」的工具工作表現不佳</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</link>
-      <description><![CDATA[僅完成了分配任務的15% 根據最近的評估，被稱為「第一位人工智慧軟體工程師」的服務似乎在工作中表現相當糟糕。 p&gt; ]]></description>
+      <description><![CDATA[只完成 15% 的分配任務 根據最近的評估，被描述為「第一位 AI 軟體工程師」的服務似乎在工作中表現相當糟糕。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
       <pubDate>Thu, 23 Jan 2025 08:17:11 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>國土安全部取消網路諮詢委員會 川普“向中國駭客揮舞白旗”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</link>
-      <description><![CDATA[而且：退休海軍少將告訴國會，美國「從未如此安全」 川普政府在上任的第一天就解散了關鍵的網路安全顧問委員會，因為專家證人警告國會中國可能發動破壞性網路攻擊...]]></description>
+      <description><![CDATA[而且：美國“從未如此不安全”，退役海軍少將告訴國會 川普政府在上任頭幾天就廢除了關鍵的網路安全諮詢委員會，因為專家證人警告國會中國可能發動破壞性的網路攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/dhs_axes_cyber_advisory_boards/</guid>
       <pubDate>Wed, 22 Jan 2025 21:30:10 GMT</pubDate>
     </item>
@@ -99,19 +106,19 @@
     <item>
       <title>微軟投入更多資金重新種植巴西雨林以減輕碳排放負擔</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</link>
-      <description><![CDATA[與此同時，資料中心的排放量繼續飆升 微軟正在支付更多的碳信用額，以抵消其資料中心因人工智慧而不斷增加的二氧化碳排放量。 ]]></description>
+      <description><![CDATA[與此同時，資料中心的排放量持續飆升 微軟正在支付更多的碳信用額度來抵消其資料中心由人工智慧推動的二氧化碳排放量的螺旋式上升。 /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/microsoft_carbon_credits/</guid>
       <pubDate>Wed, 22 Jan 2025 19:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>三星 Galaxy S25 非常聰明，可以穿上 Crocs 鞋，據稱可以抵抗量子解密</title>
+      <title>三星Galaxy S25太聰明了，穿的是Crocs，據稱能抵抗量子解密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</link>
       <description><![CDATA[今年的機型增加了許多人工智慧、改進的管理功能以及對商務買家的支援 首次亮相 三星宣布推出Galaxy S25，這是其旗艦智慧型手機系列的最新版本，並且如您所期望的那樣，為英雄添加了新的AI 功能。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/samsung_galaxy_s25/</guid>
       <pubDate>Wed, 22 Jan 2025 18:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署太空行走者將在國際太空站擦拭微生物生命</title>
+      <title>美國太空總署太空行走者將在國際太空站採集微生物樣本</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</link>
       <description><![CDATA[學習如何應對隨人類而來的微生物 兩名美國太空總署太空人準備在國際太空站 (ISS) 外進行冒險，尋找生命跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/nasa_spacewalkers_microbes/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>川普赦免暗網頭目，絲路恐怖海盜羅伯茲重獲自由</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</link>
-      <description><![CDATA[羅斯·烏布利希(Ross Ulbricht) 的家人現呼籲捐款，以支持他重新融入社會 在美國總​​統唐納德·特朗普(Donald Trump) 兌現其發布聯邦赦免令的承諾後，絲綢之路創始人羅斯·烏布利希(Ross Ulbricht) 現已成為自由人。]]></description>
+      <description><![CDATA[Ross Ulbricht 的家人現在正在呼籲捐款，以支持他重新融入社會 絲綢之路創始人Ross Ulbricht 現已重獲自由，此前美國總統唐納德·特朗普兌現了對Ross Ulbricht 簽發聯邦赦免的承諾。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/silk_road_founder_freed/</guid>
       <pubDate>Wed, 22 Jan 2025 15:30:11 GMT</pubDate>
     </item>
     <item>
       <title>Linux 核心 6.13 中更好的電源管理、安全性和調度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</link>
-      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，而且考慮到時間安排，可能不會出現在許多熟悉的發行版中。 --&gt;]]></description>
+      <description><![CDATA[但 bcachefs 沒有變化 Linux 核心 6.13 已經到來，但不要太興奮。這不是什麼大問題，考慮到時間安排，可能不會出現在許多熟悉的發行版中。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/kernel_613/</guid>
       <pubDate>Wed, 22 Jan 2025 14:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>資料中心的真實排放是一個骯髒的秘密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</link>
-      <description><![CDATA[亞馬遜沒有公佈具體數據，但微軟和谷歌也沒有公佈 隨著越來越多的企業將越來越多的工作負載轉移到雲端，超大規模企業並沒有採取足夠的措施來幫助CIO 或技術買家已經面臨立法壓力，要求他們對自己公司在計算服務方面的碳足跡更加透明…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/22/datacenter_emissions_not_accurate/</guid>
-      <pubDate>Wed, 22 Jan 2025 14:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
