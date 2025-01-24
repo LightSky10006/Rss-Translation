@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 22:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:57:29 GMT</lastBuildDate>
+    <item>
+      <title>調查顯示，開發 PC 遊戲的遊戲開發商比以往任何時候都多</title>
+      <link>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</link>
+      <description><![CDATA[80% 的遊戲開發者正在從事 PC 項目，比去年的 66% 有所上升。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 推出 Operator，一款可以操作你的電腦的 AI 代理</title>
       <link>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>喬治·R·R·馬丁與他人合著了一篇物理學論文</title>
       <link>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</link>
-      <description><![CDATA[“我不禁想知道一個簡單的底層模型是否可以整理經典。”]]></description>
+      <description><![CDATA[“我忍不住想知道一個簡單的基礎模型是否可以整理標準。”]]></description>
       <guid>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</guid>
       <pubDate>Thu, 23 Jan 2025 16:22:35 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>英國對谷歌和蘋果的行動平台展開調查</title>
+      <title>英國對谷歌和蘋果行動平台展開調查</title>
       <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
       <description><![CDATA[監管機構將審查科技巨頭如何相互競爭以及如何對待開發商。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
       <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>600 千瓦快速充電站即將登陸電動方程式賽車</title>
-      <link>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</link>
-      <description><![CDATA[經過幾年的延遲，比賽中期充電已準備就緒。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

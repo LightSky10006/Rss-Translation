@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 23 Jan 2025 23:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:57:56 GMT</lastBuildDate>
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
-      <description><![CDATA[但我的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞侵入美國電信和政府網絡，近四年來一直有一個修補程式可用- 儘管執法部門和私部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞入侵美國電信和政府網絡，近四年來一直有補丁可用- 儘管執法部門和私營部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
@@ -22,19 +22,19 @@
     <item>
       <title>立即修補：思科修復會議管理中評分為 9.9 的嚴重 make-me-admin 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
-      <description><![CDATA[尚無野外漏洞利用...... 思科已在其會議管理工具中推出了針對嚴重9.9 級漏洞的補丁，該漏洞可能允許低權限的遠端、經過身份驗證的攻擊者升級受影響設備上的管理員。]]></description>
+      <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
       <pubDate>Thu, 23 Jan 2025 21:00:08 GMT</pubDate>
     </item>
     <item>
       <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
-      <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
+      <description><![CDATA[x86 巨頭稱這種方法為“創新” - DIY 構建者可能不同意 英特爾聲稱採用更加模組化的PC 設計方法可以使系統更容易修復並減少電子廢物- 並且它為您提供了一些建議...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
+      <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
       <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 更新  全世界都看到科技兄弟們為星際之門（據稱價值5000 億美元的人工智慧基礎設施）爭吵不休由 OpenAI 領導的項目，而成年人則在一旁觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>FortiGate 配置洩露：受害者的電子郵件地址在線發布</title>
+      <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
       <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
@@ -85,14 +85,14 @@
     <item>
       <title>為什麼大型科技公司執意要讓人工智慧退出？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</link>
-      <description><![CDATA[當微軟、蘋果和谷歌預設啟用這項技術時，首先請求許可會發生什麼？科技業熱衷於讓服務選擇退出而不是選擇加入的最新例子… ]]></description>
+      <description><![CDATA[由於 Microsoft、Apple 和 Google 預設開啟技術，首先請求許可會發生什麼情況？業界沉迷於讓服務選擇退出而不是選擇加入的最新例子。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/why_is_ai_optout/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:07 GMT</pubDate>
     </item>
     <item>
       <title>英國競爭監管機構瞄準谷歌和蘋果的行動生態系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</link>
-      <description><![CDATA[CMA 展示其新的戰略市場地位實力 英國競爭與市場管理局(CMA) 正在對Apple 和Google 發起戰略市場地位(SMS) 調查，調查這兩家公司對各自移動設備的控制狀況生態系......]]></description>
+      <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
+      <title>誰在 DDoSing 你？可能是競爭對手，或是被拒於門外的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
       <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
