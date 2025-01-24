@@ -4,30 +4,37 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 14:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:13:00 GMT</lastBuildDate>
     <item>
-      <title>波音公司警告稱，由於罷工、零件價格上漲和星際客機事件，公司將面臨更多財務費用</title>
+      <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
+      <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
+      <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音公司警告稱，由於罷工、零件價格上漲和星際客機事件，該公司將面臨更多財務費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</link>
       <description><![CDATA[災難艙繼續對利潤造成災難性的影響 波音公司警告稱，其利潤將再次受到打擊，至少部分原因是該公司的災難艙 CST-100 星際客機… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</guid>
       <pubDate>Fri, 24 Jan 2025 14:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>自稱「Bane」的北韓開發者被指控實施 IT 工人詐欺計劃</title>
+      <title>北韓開發者改名為“Bane”，被指控實施 IT 工作者詐欺計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</link>
       <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了朝鮮長期的欺詐行為遠程IT 工作者計畫－其中包括一名將自己的姓氏改為「Bane」並在舊金山的科技公司找到工作的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</guid>
       <pubDate>Fri, 24 Jan 2025 13:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
+      <title>英國大型資料中心獲準，但我們仍然不知道誰會搬進來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
       <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
       <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>WINE 10 仍然不是模擬器，但 Windows 應用程式不會知道其中的區別</title>
+      <title>WINE 10 仍然不是一個模擬器，但 Windows 應用程式不會知道其中的區別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</link>
       <description><![CDATA[新的兩位數復古與各種事物相得益彰 經過32 年的成熟，即使到現在，WINE 也不是一個模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 24 Jan 2025 10:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>用戶說他沒有做任何事情來解釋他的電腦壞了——新主機板算不算？</title>
+      <title>用戶說他沒有做任何事情來解釋他的電腦死機了——換一塊新主機板算嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</link>
       <description><![CDATA[然後建議酒吧裡的一個小伙子也許能幫忙修理它 隨叫隨到  星期五帶來了與親人共度時光的前景。但在我們到達那裡之前，The Register 提供了另一期 On Call，該專欄記錄了全球讀者家庭在技術支援方面遭遇的痛苦經歷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</guid>
@@ -62,21 +69,21 @@
       <pubDate>Fri, 24 Jan 2025 04:31:55 GMT</pubDate>
     </item>
     <item>
-      <title>精神損失：規模人工智慧、異常值被人類起訴，目的是讓人工智慧遠離我們最黑暗的深淵</title>
+      <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
-      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞入侵美國電信和政府網絡，近四年來一直有補丁可用- 儘管執法部門和私營部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補了 中國鹽颱風利用的一個嚴重安全漏洞破壞了美國電信和政府網絡，該漏洞已經有近四年的可用修補程式了- 然而，儘管執法部門和私人安全公司一再發出警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 Operator 代理程式希望解決您的線上雜務 - 只是不要指望它能夠完成所有任務</title>
+      <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
       <description><![CDATA[您好，接線生？你能給我九號嗎？我可以待會兒見你嗎？你能把我的一角錢還給我嗎？或至少嘗試這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>立即修補：思科修復會議管理中評分為 9.9 的嚴重 make-me-admin 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
-      <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
+      <description><![CDATA[尚無野外漏洞利用...... 思科已在其會議管理工具中推出了針對嚴重9.9 級漏洞的補丁，該漏洞可能允許低權限的遠端、經過身份驗證的攻擊者升級受影響設備上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
       <pubDate>Thu, 23 Jan 2025 21:00:08 GMT</pubDate>
     </item>
     <item>
       <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
-      <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
+      <description><![CDATA[x86 巨頭稱這種方法「創新」 - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
@@ -120,14 +127,14 @@
     <item>
       <title>ChatGPT 週四休息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</link>
-      <description><![CDATA[生成式 AI 需要休息一下，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
+      <description><![CDATA[生成式人工智慧需要休息，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</guid>
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
       <pubDate>Thu, 23 Jan 2025 14:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管 2024 年獲利創紀錄，SK 海力士仍因市場不確定性而舉步維艱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
-      <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:16:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
