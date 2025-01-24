@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 05:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 06:17:09 GMT</lastBuildDate>
     <item>
-      <title>法院裁定 FISA 第 702 條對美國居民的監視違憲</title>
+      <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
+      <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
+      <pubDate>Fri, 24 Jan 2025 05:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>法院裁定《外國情報監視法》第 702 條對美國居民的監視違憲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</link>
       <description><![CDATA[法官稱「公共利益本身不足以證明無證查詢的正當性」 本周有消息透露，紐約一家法院做出了一項具有里程碑意義的裁決，反對美國政府無證監視人民的私人通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
@@ -29,19 +36,19 @@
     <item>
       <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
-      <description><![CDATA[接線生您好？你能給我九號嗎？稍後我可以見到你嗎？你能把我的一毛錢還給我嗎？或至少嘗試這樣做。]]></description>
+      <description><![CDATA[您好，接線生？你能給我九號嗎？我可以待會兒見你嗎？你能把我的一角錢還給我嗎？或至少嘗試這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</guid>
       <pubDate>Thu, 23 Jan 2025 21:26:23 GMT</pubDate>
     </item>
     <item>
       <title>立即修補：思科修復會議管理中評分為 9.9 的嚴重 make-me-admin 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
-      <description><![CDATA[尚無野外漏洞利用...... 思科已在其會議管理工具中推出了針對嚴重9.9 級漏洞的補丁，該漏洞可能允許低權限的遠端、經過身份驗證的攻擊者升級受影響設備上的管理員。]]></description>
+      <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
       <pubDate>Thu, 23 Jan 2025 21:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
+      <title>英特爾推出模組化 PC 設計以減輕維修痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
       <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>SonicWall 將可能被利用為零日漏洞的關鍵錯誤標記為零日漏洞，並推出了修補程序</title>
+      <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
       <description><![CDATA[大型組織和政府是這些網關的主要使用者 SonicWall 警告客戶存在一個可能已被利用為零日漏洞的嚴重漏洞…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
+      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>VMware 使用者抱怨 3 年續約許可證的承諾</title>
+      <title>VMware 使用者對三年續約許可證的承諾表示不滿</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</link>
       <description><![CDATA[晶片和軟體巨頭博通表示其許可條款“靈活且開放”，但客戶不同意 自從虛擬化巨頭被博通收購以來，VMware 用戶一直對許可變更感到不滿，現在抱怨他們在續訂vSphere 許可證時被迫做出三年的承諾…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/customers_gripe_at_threeyear_commitment/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
     <item>
-      <title>商業稅上漲、通貨膨脹和高利息。為什麼 2024 年成立的英國科技公司越來越少</title>
+      <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
       <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[只完成 15% 的分配任務 根據最近的評估，被描述為「第一位 AI 軟體工程師」的服務似乎在工作中表現相當糟糕。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/</guid>
       <pubDate>Thu, 23 Jan 2025 08:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>華碩讓處理器安全修復程序提前發布，AMD 確認補丁正在開發中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</link>
-      <description><![CDATA[明信片上的「微程式碼簽章驗證漏洞」可能意味著什麼的答案 AMD 已確認其至少部分微處理器存在與微程式碼相關的安全漏洞，該漏洞的存在於本月意外暴露，此前個人電腦製造商華碩 (Asus) 在 Beta BIOS 更新中發布了針對該漏洞的修復程序。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</guid>
-      <pubDate>Thu, 23 Jan 2025 07:19:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
