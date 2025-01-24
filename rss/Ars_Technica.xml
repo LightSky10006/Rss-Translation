@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 02:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 13:17:48 GMT</lastBuildDate>
+    <item>
+      <title>火箭報道：中國的可重複使用火箭成功了嗎？ DOT 可能會審查 SpaceX 的罰款</title>
+      <link>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</link>
+      <description><![CDATA[Rocket Lab 宣布很快就會發射一批八顆德國野火偵測衛星。]]></description>
+      <guid>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</guid>
+      <pubDate>Fri, 24 Jan 2025 12:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>感染後門的 VPN 使用「魔術包」來確保隱身性和安全性</title>
       <link>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</link>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 23 Jan 2025 16:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>小馬丁 (George R.R. Martin) 合著了一篇物理學論文</title>
+      <title>喬治·R·R·馬丁與他人合著了一篇物理學論文</title>
       <link>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</link>
       <description><![CDATA[“我不禁想知道一個簡單的底層模型是否可以整理經典。”]]></description>
       <guid>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</guid>
       <pubDate>Thu, 23 Jan 2025 16:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 啟動 5000 億美元「星際之門」項目，批評者表示質疑</title>
-      <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
-      <description><![CDATA[伊隆馬斯克質疑大規模人工智慧基礎設施項目的資金；奧特曼為資金支持辯護。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
-      <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

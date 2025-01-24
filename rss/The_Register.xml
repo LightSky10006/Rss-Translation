@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 12:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 13:18:17 GMT</lastBuildDate>
+    <item>
+      <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
+      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
+      <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
+    </item>
     <item>
       <title>WINE 10 仍然不是一個模擬器，但 Windows 應用程式不會知道其中的區別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 24 Jan 2025 11:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>第一批全印度晶片將於今年首次亮相，另有 25 款本地設計正在進行中</title>
+      <title>首批全印度晶片將於今年亮相，另有 25 款本土設計正在研發中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/india_semiconductor_industry_designs_debut/</link>
       <description><![CDATA[部長表示，隨著半導體供應鏈參與者紛紛獲利，印度將首先採用28nm 和更大規模的工藝 印度成為半導體製造大國的雄心將在今年晚些時候結出碩果，屆時將推出首款矽基設計並在全國範圍內建設…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/india_semiconductor_industry_designs_debut/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
+      <title>OpenAI 的 Operator 代理程式希望解決您的線上雜務 - 只是不要指望它能夠完成所有任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
       <description><![CDATA[您好，接線生？你能給我九號嗎？我可以待會兒見你嗎？你能把我的一角錢還給我嗎？或至少嘗試這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>儘管 2024 年獲利創紀錄，SK 海力士仍因市場不確定性而舉步維艱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
-      <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
+      <description><![CDATA[由於世界對地緣政治的擔憂，韓國「最賺錢」公司的股價下跌 市場的不確定性和對貿易保護主義的擔憂給SK 海力士的最新收益蒙上了陰影，儘管本財年營收翻了一番，但其股價仍出現下滑剛剛完成。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
       <pubDate>Thu, 23 Jan 2025 13:16:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[CMA 展示其新的戰略市場地位力量 英國競爭與市場管理局 (CMA) 正在對蘋果和谷歌啟動戰略市場地位 (SMS) 調查，調查這兩家公司對各自移動生態系…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cma_google_apple_mobile/</guid>
       <pubDate>Thu, 23 Jan 2025 12:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenZFS 2.3 現已發布，具有 RAID 擴充功能和更快的重複資料刪除功能</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</link>
-      <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
