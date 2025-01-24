@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 13:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 13:36:24 GMT</lastBuildDate>
     <item>
       <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
@@ -57,12 +57,12 @@
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
-      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞入侵美國電信和政府網絡，近四年來一直有補丁可用- 儘管執法部門和私營部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補了 中國鹽颱風利用的一個嚴重安全漏洞破壞了美國電信和政府網絡，該漏洞已經有近四年的可用修補程式了- 然而，儘管執法部門和私人安全公司一再發出警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 Operator 代理程式希望解決您的線上雜務 - 只是不要指望它能夠完成所有任務</title>
+      <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
       <description><![CDATA[您好，接線生？你能給我九號嗎？我可以待會兒見你嗎？你能把我的一角錢還給我嗎？或至少嘗試這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
-      <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
+      <description><![CDATA[x86 巨頭稱這種方法「創新」 - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能受到 2022 年零日漏洞的影響。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>儘管 2024 年獲利創紀錄，SK 海力士仍因市場不確定性而舉步維艱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
-      <description><![CDATA[由於世界對地緣政治的擔憂，韓國「最賺錢」公司的股價下跌 市場的不確定性和對貿易保護主義的擔憂給SK 海力士的最新收益蒙上了陰影，儘管本財年營收翻了一番，但其股價仍出現下滑剛剛完成。]]></description>
+      <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
       <pubDate>Thu, 23 Jan 2025 13:16:37 GMT</pubDate>
     </item>
