@@ -4,39 +4,46 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 17:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 17:35:46 GMT</lastBuildDate>
+    <item>
+      <title>高通大佬克里斯蒂亞諾·阿蒙的薪水上漲 10%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/</link>
+      <description><![CDATA[執行長的薪酬為2,591 萬美元，價值相當於261 名員工 高通公司的高階主管克里斯蒂安‧阿蒙(Cristian Amon) 在2024 財年的總財務薪酬年比成長了10%，達到2,591 萬美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/</guid>
+      <pubDate>Fri, 24 Jan 2025 17:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲、英國權衡對川普擬議關稅的回應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/eu_uk_trump_tariffs/</link>
-      <description><![CDATA[脫歐後會出現浪漫嗎？議院本週聽取了…]]></description>
+      <description><![CDATA[脫歐後會出現浪漫情緣嗎？議院本週聽取了…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/eu_uk_trump_tariffs/</guid>
       <pubDate>Fri, 24 Jan 2025 16:22:07 GMT</pubDate>
     </item>
     <item>
       <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
-      <description><![CDATA[透過 API 參數 *chef&#39;s Kiss* 進行系統級命令注入 遠端攻擊者可以利用 Kubernetes 中現已修復的命令注入錯誤，在所有 Windows 端點上以系統權限獲取代碼執行Akamai 研究員Tomer Peled 表示，在一個叢集中，從而完全接管這些系統。]]></description>
+      <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
       <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司警告稱，由於罷工、零件價格上漲和星際客機事件，公司將面臨更多財務費用</title>
+      <title>波音公司警告稱，由於罷工、昂貴的零件和星際客機，將產生更多財務費用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</link>
       <description><![CDATA[災難艙繼續對利潤造成災難性的影響 波音公司警告稱，其利潤將再次受到打擊，至少部分原因是該公司的災難艙 CST-100 星際客機… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</guid>
       <pubDate>Fri, 24 Jan 2025 14:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>自稱「Bane」的北韓開發者被控 IT 工人詐欺計劃</title>
+      <title>北韓開發者改名為“Bane”，被指控實施 IT 工作者詐欺計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</link>
       <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了朝鮮長期的欺詐行為遠程IT 工作者計畫－其中包括一名將自己的姓氏改為「Bane」並在舊金山的科技公司找到工作的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</guid>
       <pubDate>Fri, 24 Jan 2025 13:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
+      <title>英國大型資料中心獲批，但我們仍然不知道誰會搬進來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
-      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱最終佔用者為超大規模營運商，但其身分尚未揭露。]]></description>
+      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
       <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 24 Jan 2025 08:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
+      <title>中國和朋友聲稱成功消除了技術支援網路詐騙奴隸營</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
       <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
-      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補了 中國鹽颱風利用的一個嚴重安全漏洞破壞了美國電信和政府網絡，該漏洞已經有近四年的可用修補程式了- 然而，儘管執法部門和私人安全公司一再發出警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞入侵美國電信和政府網絡，近四年來一直有補丁可用- 儘管執法部門和私營部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 23 Jan 2025 21:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>立即修補：思科修復了會議管理中嚴重的 9.9 級「make-me-admin」錯誤</title>
+      <title>立即修補：思科修復會議管理中評分為 9.9 的嚴重 make-me-admin 錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</link>
       <description><![CDATA[尚未發現野外攻擊...... 思科已發布針對其會議管理工具中一個嚴重、評級為9.9 的漏洞的補丁，該漏洞可能允許具有較低權限的遠程、經過驗證的攻擊者升級受影響裝置上的管理員。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/cisco_fixes_critical_bug/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
+      <title>SonicWall 將可能被利用為零日漏洞的關鍵錯誤標記為零日漏洞，並推出了修補程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
       <description><![CDATA[大型組織和政府是這些網關的主要使用者 SonicWall 警告客戶存在一個可能已被利用為零日漏洞的嚴重漏洞…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
+      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[生成式人工智慧需要休息，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</guid>
       <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密，因為長達數年的洩露可能仍未被發現 Belsen Group 上週轉儲的FortiGate 配置中包含的數千個電子郵件地址現已在線公開，揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
-      <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
