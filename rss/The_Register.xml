@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 10:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:22:46 GMT</lastBuildDate>
     <item>
-      <title>首批全印度晶片將於今年亮相，另有 25 款本土設計正在研發中</title>
+      <title>WINE 10 仍然不是一個模擬器，但 Windows 應用程式不會知道其中的區別</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</link>
+      <description><![CDATA[新的兩位數復古與各種事物相得益彰 經過32 年的成熟，即使到現在，WINE 也不是一個模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</guid>
+      <pubDate>Fri, 24 Jan 2025 11:35:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一批全印度晶片將於今年首次亮相，另有 25 款本地設計正在進行中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/india_semiconductor_industry_designs_debut/</link>
       <description><![CDATA[部長表示，隨著半導體供應鏈參與者紛紛獲利，印度將首先採用28nm 和更大規模的工藝 印度成為半導體製造大國的雄心將在今年晚些時候結出碩果，屆時將推出首款矽基設計並在全國範圍內建設…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/india_semiconductor_industry_designs_debut/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
-      <description><![CDATA[以緬甸為目標，承諾更多資訊共享以完成工作 由六個亞洲國家成立的一個組織，旨在打擊肆虐該地區的犯罪網絡詐騙奴隸營，聲稱已取得良好進展拆除操作。 ... ]]></description>
+      <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
       <pubDate>Fri, 24 Jan 2025 05:59:05 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
-      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補了 中國鹽颱風利用的一個嚴重安全漏洞破壞了美國電信和政府網絡，該漏洞已經有近四年的可用修補程式了- 然而，儘管執法部門和私人安全公司一再發出警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
+      <description><![CDATA[但我們的意思是，你已經有近四年的時間來修補 中國「鹽颱風」利用的一個關鍵安全漏洞入侵美國電信和政府網絡，近四年來一直有補丁可用- 儘管執法部門和私營部門安全公司一再警告，但幾乎所有面向公眾的具有此漏洞的 Microsoft Exchange Server 實例仍未修補。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</guid>
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
@@ -62,16 +69,16 @@
       <pubDate>Thu, 23 Jan 2025 21:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾推出模組化 PC 設計以減輕維修痛苦</title>
+      <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
       <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
+      <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
-      <description><![CDATA[OpenAI 老闆告訴世界首富，錢是用來資助基礎設施項目的 已更新  科技兄弟們圍繞Stargate 展開爭吵，據稱價值5000 億美元的人工智慧基礎設施由 OpenAI 領導的項目，而大人們則在一旁觀看…]]></description>
+      <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 更新  全世界都看到科技兄弟們為星際之門（據稱價值5000 億美元的人工智慧基礎設施）爭吵不休由 OpenAI 領導的項目，而成年人則在一旁觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
+      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密，因為長達數年的洩露可能仍未被發現 Belsen Group 上週轉儲的FortiGate 配置中包含的數千個電子郵件地址現已在線公開，揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>儘管 2024 年獲利創紀錄，SK 海力士仍因市場不確定性而舉步維艱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</link>
-      <description><![CDATA[由於世界對地緣政治的擔憂，韓國「最賺錢」公司的股價下跌 市場的不確定性和對貿易保護主義的擔憂給SK 海力士的最新收益蒙上了陰影，儘管本財年營收翻了一番，但其股價仍出現下滑剛剛完成。]]></description>
+      <description><![CDATA[由於全球對地緣政治的擔憂，韓國「最賺錢」公司股價下跌 市場不確定性和對貿易保護主義的擔憂掩蓋了SK 海力士的最新業績，儘管本財年營收翻了一番，但其股價卻出現下滑剛完成…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sk_hynix_wobbles_on_market/</guid>
       <pubDate>Thu, 23 Jan 2025 13:16:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[即將在 4 月推出的 TrueNAS SCALE 版本，被稱為「Fangtooth」 最新版本的 OpenZFS 提供 RAID 擴展，以及由 iXsystems 捐贈的更快的資料重複資料刪除功能。該程式碼將很快在 TrueNAS SCALE 25.04 測試版中提供。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openzfs_23_raid_expansion/</guid>
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
-      <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
