@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 00:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 02:12:51 GMT</lastBuildDate>
+    <item>
+      <title>精神損失：規模人工智慧、異常值被人類起訴，目的是讓人工智慧遠離我們最黑暗的深淵</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
+      <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
+    </item>
     <item>
       <title>Salt Typhoon 最喜歡利用的漏洞之一仍然存在於 91% 的高風險 Exchange 伺服器上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/proxylogon_flaw_salt_typhoons_open/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 23 Jan 2025 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的 Operator 代理商希望解決您的線上瑣事——但不要指望它能完成每項任務</title>
+      <title>OpenAI 的 Operator 代理程式希望解決您的線上雜務 - 只是不要指望它能夠完成所有任務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</link>
       <description><![CDATA[您好，接線生？你能給我九號嗎？我可以待會兒見你嗎？你能把我的一角錢還給我嗎？或至少嘗試這樣做。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/openai_unveils_operator_agent/</guid>
@@ -29,12 +36,12 @@
     <item>
       <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
-      <description><![CDATA[x86 巨頭稱這種方法為“創新” - DIY 構建者可能不同意 英特爾聲稱採用更加模組化的PC 設計方法可以使系統更容易修復並減少電子廢物- 並且它為您提供了一些建議...]]></description>
+      <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克放棄 5,000 億美元星際之門人工智慧計劃，奧爾特曼反擊</title>
+      <title>馬斯克燒毀 500B 美元的 Stargate AI 計劃，奧特曼反擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</link>
       <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 更新  全世界都看到科技兄弟們為星際之門（據稱價值5000 億美元的人工智慧基礎設施）爭吵不休由 OpenAI 領導的項目，而成年人則在一旁觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>FortiGate 設定洩漏：受害者電子郵件地址被公開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</link>
-      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響。]]></description>
+      <description><![CDATA[專家警告不要輕視洩密事件，因為長達數年的入侵可能仍未被發現 上週，貝爾森集團洩露的FortiGate 配置中包含的數千個電子郵件地址現已在網路上公佈，這揭示了哪些組織可能擁有受到 2022 年零日漏洞的影響…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/fortigate_config_leaks_infoseccers_list_victim_emails/</guid>
       <pubDate>Thu, 23 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -104,16 +111,16 @@
       <pubDate>Thu, 23 Jan 2025 11:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>誰在 DDoSing 你？可能是競爭對手，或是被拒於門外的用戶</title>
+      <title>誰在對你實施 DDoS 攻擊？可能是競爭對手，也可能是惱人的用戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</link>
-      <description><![CDATA[另外：「史上最大」流量海嘯達到 5.6 Tbps 除了中國間諜入侵組織網路、勒索軟體團隊鎖定敏感檔案外，殭屍網路還爆發分散式阻斷服務 (DDoS ) 攻擊仍然會造成巨大的損失，甚至導致網站宕機，而這很可能是你的競爭對手造成的。]]></description>
+      <description><![CDATA[加上：「有史以來最大規模」的垃圾流量海嘯達到5.6 Tbps 除了中國間諜入侵組織網路和勒索軟體人員鎖定敏感檔案外，殭屍網路還攻擊分散式阻斷服務( DDoS) ）攻擊仍然會造成嚴重的傷害和網站停機，而且很可能是您的競爭對手造成的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/who_is_ddosing_you_competitors/</guid>
       <pubDate>Thu, 23 Jan 2025 10:19:06 GMT</pubDate>
     </item>
     <item>
       <title>商業稅上漲、通貨膨脹和高利息。為何 2024 年英國成立的科技公司數量會減少</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</link>
-      <description><![CDATA[政府認為人工智慧和解除大型科技公司的束縛會有所幫助嗎？上帝保佑英國 自疫情爆發以來，英國成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟低迷。]]></description>
+      <description><![CDATA[政府認為人工智慧和擺脫大型科技的束縛會有所幫助嗎？天佑英國 自疫情爆發以來，在英國註冊成立的科技公司數量首次出現下降，經濟萎縮，高通膨和高利率導致英國經濟下滑。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/uk_startup_incorporation_drop/</guid>
       <pubDate>Thu, 23 Jan 2025 09:30:08 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 23 Jan 2025 08:17:11 GMT</pubDate>
     </item>
     <item>
-      <title>華碩讓處理器安全修復程序提前發布，AMD 確認補丁正在開發中</title>
+      <title>華碩讓處理器安全修復提前洩露，AMD 確認補丁正在進行中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</link>
       <description><![CDATA[明信片上的「微程式碼簽章驗證漏洞」可能意味著什麼的答案 AMD 已確認其至少部分微處理器存在與微程式碼相關的安全漏洞，該漏洞的存在於本月意外暴露，此前個人電腦製造商華碩 (Asus) 在 Beta BIOS 更新中發布了針對該漏洞的修復程序。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/asus_amd_processor_fix/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[什麼？為什麼？習近平希望人們消費，因此將補貼計劃擴大到手機、平板電腦和智慧手錶 如果你想要一款便宜的iPhone，中國現在就是最好的選擇，這要歸功於政府的補貼計劃，這意味著經銷商正在打折這些設備確保北京能夠幫助支付賬單。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/china_consumer_technology_subsidy/</guid>
       <pubDate>Thu, 23 Jan 2025 05:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle 發布 603 個補丁，並指出其中一個補丁希望您盡快關注</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</link>
-      <description><![CDATA[不斷製造麻煩的舊缺陷困擾著Big Red Oracle 已發布其常規季度補丁集合：總共603 個，其中318 個針對其自己的產品，另外285 個針對其發布的Linux代碼。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/oracle_patch_linux/</guid>
-      <pubDate>Thu, 23 Jan 2025 01:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

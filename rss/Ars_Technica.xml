@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 00:57:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 02:12:28 GMT</lastBuildDate>
     <item>
-      <title>調查顯示，開發 PC 遊戲的遊戲開發商比以往任何時候都多</title>
+      <title>感染後門的 VPN 使用「魔術包」來確保隱身性和安全性</title>
+      <link>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</link>
+      <description><![CDATA[J-Magic後門感染了各行各業的組織。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>調查顯示，開發 PC 遊戲的遊戲開發者數量比以往任何時候都多</title>
       <link>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</link>
       <description><![CDATA[80% 的遊戲開發者正在從事 PC 項目，比去年的 66% 有所上升。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>所有聯邦機構被要求終止遠距工作——最好在 30 天內</title>
       <link>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</link>
-      <description><![CDATA[RTO 備忘錄稱，美國機構浪費數十億美元用於空置辦公室，令人「尷尬」。]]></description>
+      <description><![CDATA[RTO 備忘錄稱，美國機構在空蕩蕩的辦公室上浪費數十億美元是「令人尷尬的」。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</guid>
       <pubDate>Thu, 23 Jan 2025 21:28:47 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 23 Jan 2025 16:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>喬治·R·R·馬丁與他人合著了一篇物理學論文</title>
+      <title>小馬丁 (George R.R. Martin) 合著了一篇物理學論文</title>
       <link>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</link>
-      <description><![CDATA[“我忍不住想知道一個簡單的基礎模型是否可以整理標準。”]]></description>
+      <description><![CDATA[“我不禁想知道一個簡單的底層模型是否可以整理經典。”]]></description>
       <guid>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</guid>
       <pubDate>Thu, 23 Jan 2025 16:22:35 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[伊隆馬斯克質疑大規模人工智慧基礎設施項目的資金；奧特曼為資金支持辯護。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
       <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國對谷歌和蘋果行動平台展開調查</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
-      <description><![CDATA[監管機構將審查科技巨頭如何相互競爭以及如何對待開發商。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
-      <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
