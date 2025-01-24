@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 21:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 23:11:28 GMT</lastBuildDate>
+    <item>
+      <title>美國退出日期定為 2026 年 1 月，世衛組織開始削減成本</title>
+      <link>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</link>
+      <description><![CDATA[美國目前是世衛組織最大的資助國，貢獻了該組織預算的約18%。]]></description>
+      <guid>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 開始停止對舊 GPU 的支持，包括壽命較長的 GTX 1060</title>
+      <link>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</link>
+      <description><![CDATA[Nvidia 上次放棄舊 GPU 的 Game Ready 驅動程式支援是在 2021 年。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 使用新的 Citations API 將 RAG 直接建置到 Claude 模型中</title>
       <link>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</link>
@@ -48,32 +62,18 @@
       <pubDate>Fri, 24 Jan 2025 16:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>研究人員優化量子電腦上的分子模擬</title>
+      <title>研究人員在量子電腦上優化分子模擬</title>
       <link>https://arstechnica.com/science/2025/01/researchers-optimize-simulations-of-molecules-on-quantum-computers/</link>
-      <description><![CDATA[模擬催化劑等小分子電子的新方法。]]></description>
+      <description><![CDATA[一種模擬催化劑等小分子電子的新方法。]]></description>
       <guid>https://arstechnica.com/science/2025/01/researchers-optimize-simulations-of-molecules-on-quantum-computers/</guid>
       <pubDate>Fri, 24 Jan 2025 15:51:10 GMT</pubDate>
     </item>
     <item>
       <title>由於安全漏洞，數百萬輛斯巴魯汽車可能會遠端解鎖和追蹤</title>
       <link>https://arstechnica.com/cars/2025/01/millions-of-subarus-could-be-remotely-unlocked-tracked-due-to-security-flaws/</link>
-      <description><![CDATA[缺陷還允許存取一年的位置歷史記錄。]]></description>
+      <description><![CDATA[該漏洞還可能導致訪問一年的位置歷史記錄。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/millions-of-subarus-could-be-remotely-unlocked-tracked-due-to-security-flaws/</guid>
       <pubDate>Fri, 24 Jan 2025 14:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報道：中國的可重複使用火箭成功了嗎？ DOT 可能會審查 SpaceX 的罰款</title>
-      <link>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</link>
-      <description><![CDATA[Rocket Lab 宣布很快就會發射一批八顆德國野火偵測衛星。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</guid>
-      <pubDate>Fri, 24 Jan 2025 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>感染 VPN 的後門使用「魔法資料包」來實現隱藏性和安全性</title>
-      <link>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</link>
-      <description><![CDATA[J-Magic後門感染了各行各業的組織。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</guid>
-      <pubDate>Thu, 23 Jan 2025 23:42:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
