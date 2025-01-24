@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 24 Jan 2025 15:13:06 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 24 Jan 2025 15:36:05 GMT</lastBuildDate>
+    <item>
+      <title>DOGE 將允許伊隆馬斯克從內部監視美國政府</title>
+      <link>https://www.wired.com/story/doge-elon-musk/</link>
+      <description><![CDATA[美國金融服務部一名前員工稱，將數位服務重新命名為 DOGE 是「A+ 官僚柔術之舉」。它將使馬斯克和他的同事能夠存取每個政府機構的非機密資料。]]></description>
+      <guid>https://www.wired.com/story/doge-elon-musk/</guid>
+      <pubDate>Fri, 24 Jan 2025 15:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>「我們看到了更多的仇恨」：跨性別者已經感到恐懼</title>
       <link>https://www.wired.com/story/trump-executive-order-transgender-kids/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>川普想與卡特爾組織開戰——也許真的會成功</title>
       <link>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</link>
-      <description><![CDATA[將卡特爾組織指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並有可能產生美國尚未準備好的反彈風險。]]></description>
+      <description><![CDATA[將卡特爾指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並可能帶來美國措手不及的反彈風險。]]></description>
       <guid>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</guid>
       <pubDate>Fri, 24 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Nvidia GeForce RTX 5090 評測：具有 AI 功能的顯示卡</title>
       <link>https://www.wired.com/review/nvidia-rtx-5090-fe-review/</link>
-      <description><![CDATA[這款超優質顯示卡可能並不便宜，但它讓我們得以一睹 Nvidia 人工智慧驅動的未來。]]></description>
+      <description><![CDATA[這款超高階顯示卡可能不便宜，但它讓我們得以一窺 Nvidia 的人工智慧未來。]]></description>
       <guid>https://www.wired.com/review/nvidia-rtx-5090-fe-review/</guid>
       <pubDate>Thu, 23 Jan 2025 14:00:00 GMT</pubDate>
     </item>
@@ -113,21 +120,21 @@
     <item>
       <title>你現在應該知道的 MAGA 影響者名人錄</title>
       <link>https://www.wired.com/story/maga-influencers-content-creators/</link>
-      <description><![CDATA[歡迎來到川普 2.0，在這裡這些創作者不僅得到了觀眾的關注，也得到了總統的關注。]]></description>
+      <description><![CDATA[歡迎來到川普 2.0，在這裡，這些創作者不僅能聽到觀眾的聲音，也能聽到總統的聲音。]]></description>
       <guid>https://www.wired.com/story/maga-influencers-content-creators/</guid>
       <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>「新納粹瘋狂」：Meta 頂尖人工智慧律師談為何解僱公司</title>
+      <title>《新納粹瘋狂》：Meta 的頂級 AI 律師解釋他為何解僱該公司</title>
       <link>https://www.wired.com/story/lawmaker-meta-copyright-cases/</link>
       <description><![CDATA[在接受《連線》雜誌的獨家採訪時，著名智慧財產權律師馬克·萊姆利詳細闡述了他辭職的原因以及他對人工智慧版權戰場的看法。]]></description>
       <guid>https://www.wired.com/story/lawmaker-meta-copyright-cases/</guid>
       <pubDate>Thu, 23 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>川普上台後，美國網路防禦失去領導力</title>
+      <title>在川普的領導下，美國網路防禦失去了理智</title>
       <link>https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/</link>
-      <description><![CDATA[中國的駭客攻擊、猖獗的勒索軟體和唐納德·川普的預算削減都威脅著美國的安全。在《連線》雜誌的離職採訪中，前 CISA 負責人 Jen Easterly 為她的機構的生存辯護。]]></description>
+      <description><![CDATA[中國駭客、猖獗的勒索軟體以及唐納德·川普的預算削減都威脅著美國安全。在接受《連線》雜誌的離職採訪時，前 CISA 負責人 Jen Easterly 為該機構的生存而辯護。]]></description>
       <guid>https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/</guid>
       <pubDate>Thu, 23 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有組織的暴力行為必將增多，但社群媒體推動的讓潛在極端分子麵臨威脅的機制也可用於激發同情心。]]></description>
       <guid>https://www.wired.com/story/global-violent-extremism-psychology-social-media/</guid>
       <pubDate>Thu, 23 Jan 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Therabody 促銷代碼和優惠：10% 折扣</title>
-      <link>https://www.wired.com/story/therabody-promo-code/</link>
-      <description><![CDATA[使用 10% 的 Therabody 折扣代碼和高達 30% 的優惠，您可以節省一直關注的科學支援設備的費用。]]></description>
-      <guid>https://www.wired.com/story/therabody-promo-code/</guid>
-      <pubDate>Thu, 23 Jan 2025 06:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
