@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 17:35:46 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 24 Jan 2025 18:41:45 GMT</lastBuildDate>
+    <item>
+      <title>當我們無法再建立更大的 AI 資料中心時會發生什麼？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</link>
+      <description><![CDATA[我們當然將其他小型超級電腦拼接起來，打造出巨型超級電腦 特徵 生成式人工智慧模型不僅在過去兩年中人氣爆棚，而且以驚人的速度發展，需要越來越多的加速器來跟上…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>高通大佬克里斯蒂亞諾·阿蒙的薪水上漲 10%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
-      <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
+      <description><![CDATA[透過 API 參數 *chef&#39;s Kiss* 進行系統級命令注入 遠端攻擊者可以利用 Kubernetes 中現已修復的命令注入錯誤，在所有 Windows 端點上以系統權限獲取代碼執行Akamai 研究員Tomer Peled 表示，在一個叢集中，從而完全接管這些系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
       <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 24 Jan 2025 13:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>英國大型資料中心獲批，但我們仍然不知道誰會搬進來</title>
+      <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
       <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 24 Jan 2025 08:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>中國和朋友聲稱成功消除了技術支援網路詐騙奴隸營</title>
+      <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
       <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>SonicWall 將可能被利用為零日漏洞的關鍵錯誤標記為零日漏洞，並推出了修補程序</title>
+      <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
       <description><![CDATA[大型組織和政府是這些網關的主要使用者 SonicWall 警告客戶存在一個可能已被利用為零日漏洞的嚴重漏洞…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>Meta 的付費或同意模式受到歐盟消費者組織的批評</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</link>
-      <description><![CDATA[公司「強烈反對」違法指控 Meta 因其在歐盟的「付費或同意」模式再次受到批評。]]></description>
+      <description><![CDATA[公司「強烈反對」法律侵權指控 Meta 因其在歐盟的付費或同意模式再次受到抨擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/metas_payorconsent_model_under_fire/</guid>
       <pubDate>Thu, 23 Jan 2025 15:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 週四休息</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</link>
-      <description><![CDATA[生成式人工智慧需要休息，就像我們其他人一樣，好嗎？ ChatGPT 已關閉。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/chatgpt_has_a_thursday_lie/</guid>
-      <pubDate>Thu, 23 Jan 2025 15:16:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
