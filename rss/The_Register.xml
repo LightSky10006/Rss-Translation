@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 24 Jan 2025 20:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 20:33:57 GMT</lastBuildDate>
+    <item>
+      <title>維修權現況：已取得進展，但關鍵障礙仍存在</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</link>
+      <description><![CDATA[許多產業仍無法取得示意圖、維修手冊和零件編號 美國公共利益研究小組 (PIRG) 發布了一份關於維修權現狀的報告。好消息是，對於一些小器件來說，事情似乎正在朝著正確的方向發展。壞消息是，進步並不平等，而且有些小玩意兒並沒有任何改進。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</guid>
+      <pubDate>Fri, 24 Jan 2025 20:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 為微軟 Copilot 金鑰鋪平了道路</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/copilot_key_linux/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 24 Jan 2025 16:22:07 GMT</pubDate>
     </item>
     <item>
-      <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
+      <title>不希望您的 Kubernetes Windows 節點被劫持？現在修補這個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
       <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
-      <description><![CDATA[赫特福德郡準備迎接比特穀倉閃電戰，超大規模的神秘面紗加深 昨晚，赫特福德郡靠近倫敦M25 軌道高速公路的大型數據中心獲得批准，為開始建設掃清了道路。最終佔用者（據說是超大規模運營商）的身份尚未披露。]]></description>
+      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱最終佔用者為超大規模營運商，但其身分尚未揭露。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
       <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 24 Jan 2025 10:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>使用者說他沒有做任何事情來解釋他的電腦死了——新主機板算不算？</title>
+      <title>用戶說他沒有做任何事情來解釋他的電腦死機了——換一塊新主機板算嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</link>
       <description><![CDATA[然後建議酒吧裡的一個小伙子也許能幫忙修理它 隨叫隨到  星期五帶來了與親人共度時光的前景。但在我們到達那裡之前，The Register 提供了另一期 On Call，該專欄記錄了全球讀者家庭在技術支援方面遭遇的痛苦經歷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
-      <description><![CDATA[以緬甸為目標，承諾更多資訊共享以完成工作 由六個亞洲國家成立的一個組織，旨在打擊肆虐該地區的犯罪網絡詐騙奴隸營，聲稱已取得良好進展拆除操作。 ... ]]></description>
+      <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
       <pubDate>Fri, 24 Jan 2025 05:59:05 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>英特爾推出模組化 PC 設計，讓維修不再那麼痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</link>
-      <description><![CDATA[x86 巨頭稱這種方法「創新」 - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
+      <description><![CDATA[x86 巨頭稱這種方法“創新” - DIY 建造者可能不同意 英特爾聲稱，更模組化的PC 設計方法可以使系統更易於維修並減少電子垃圾- 而且它為您提供了一些建議…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/intel_modular_pc_designs/</guid>
       <pubDate>Thu, 23 Jan 2025 20:16:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[OpenAI 老闆告訴世界首富，資金將用於資助基礎設施項目 更新  全世界都看到科技兄弟們為星際之門（據稱價值5000 億美元的人工智慧基礎設施）爭吵不休由 OpenAI 領導的項目，而成年人則在一旁觀看。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/musk_altman_stargate_ai/</guid>
       <pubDate>Thu, 23 Jan 2025 17:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>SonicWall 標記可能被利用為零日漏洞的嚴重漏洞，並推出修補程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</link>
-      <description><![CDATA[大型組織和政府是這些網關的主要使用者 SonicWall 警告客戶存在一個可能已被利用為零日漏洞的嚴重漏洞…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/23/sonicwall_critical_bug/</guid>
-      <pubDate>Thu, 23 Jan 2025 16:36:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
