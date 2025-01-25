@@ -3,8 +3,8 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 25 Jan 2025 00:54:08 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Sat, 25 Jan 2025 02:06:20 GMT</lastBuildDate>
     <item>
       <title>人工智慧聊天機器人新創公司創始人兼律師妻子被指控詐騙投資者 6000 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 24 Jan 2025 23:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>星際之門，星際之門。 Meta 創辦人祖克柏稱，今年我們在人工智慧方面的投入將超過 600 億美元</title>
+      <title>星門，智能門。 Meta 的祖克柏宣稱，今年我們在人工智慧上花了 60B+ 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/meta_ai_spending/</link>
       <description><![CDATA[無法將戲劇性的Llama 排除在這場競賽之外 Meta 首席執行官馬克·扎克伯格週五透露，計劃在2025 年投入高達600 至650 億美元，為其社群媒體購買更多的AI 資源巨型公司——並暗示他打算在未來幾年繼續大肆消費。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/meta_ai_spending/</guid>
@@ -71,12 +71,12 @@
     <item>
       <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
-      <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
+      <description><![CDATA[透過 API 參數 *chef&#39;s Kiss* 進行系統級命令注入 遠端攻擊者可以利用 Kubernetes 中現已修復的命令注入錯誤，在所有 Windows 端點上以系統權限獲取代碼執行Akamai 研究員Tomer Peled 表示，在一個叢集中，從而完全接管這些系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
       <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司警告稱，罷工和昂貴的零件將帶來更多的財務損失，當然還有星際客機</title>
+      <title>波音公司警告稱，罷工、零件價格上漲以及星際客機的停飛將帶來更多財務損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</link>
       <description><![CDATA[災難艙繼續對利潤造成災難性的影響 波音公司警告稱，其利潤將再次受到打擊，至少部分原因是該公司的災難艙 CST-100 星際客機… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</guid>
@@ -85,21 +85,21 @@
     <item>
       <title>北韓開發者改名為“Bane”，被指控涉嫌 IT 工作者欺詐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</link>
-      <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了朝鮮長期的欺詐行為遠程IT 工作者計畫－其中包括一名將自己的姓氏改為「Bane」並在舊金山的科技公司找到工作的人。]]></description>
+      <description><![CDATA[聯邦調查局警告北韓發動侵略，五名嫌疑人被起訴，據稱俄羅斯開發商也參與了這一行為 美國正在起訴另外五名嫌疑人，它認為這些嫌疑人參與了北韓長期的詐欺活動遠端 IT 員工計畫 - 包括一名將姓氏改為「Bane」並在舊金山一家科技公司找到一份工作的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</guid>
       <pubDate>Fri, 24 Jan 2025 13:45:09 GMT</pubDate>
     </item>
     <item>
       <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
-      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
+      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱最終佔用者為超大規模營運商，但其身分尚未揭露。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
       <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
     </item>
     <item>
       <title>WINE 10 仍然不是一個模擬器，但 Windows 應用程式不會知道其中的區別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</link>
-      <description><![CDATA[新的兩位數復古與各種事物相得益彰 經過32 年的成熟，即使到現在，WINE 也不是一個模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式…]]></description>
+      <description><![CDATA[新的兩位數年份與各種事物相得益彰 經過32 年的成熟，即使是現在，WINE 也不是模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</guid>
       <pubDate>Fri, 24 Jan 2025 11:35:11 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>法院裁定《外國情報監視法》第 702 條對美國居民的監視違憲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</link>
-      <description><![CDATA[法官表示，「僅憑公共利益並不能證明無根據的查詢是合理的」 據透露，紐約一家法院本週做出了一項具有里程碑意義的裁決，該裁決反對對美國人民的私人通信進行無根據的國家監視。]]></description>
+      <description><![CDATA[法官稱「公共利益本身不足以證明無證查詢的正當性」 本周有消息透露，紐約一家法院做出了一項具有里程碑意義的裁決，反對美國政府無證監視人民的私人通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</guid>
       <pubDate>Fri, 24 Jan 2025 04:31:55 GMT</pubDate>
     </item>
     <item>
-      <title>精神損失：Scale AI 和 Outlier 被人類起訴，他們僱用人類來引導 AI 遠離人類最黑暗的深淵</title>
+      <title>精神損失：規模人工智慧、異常值被人類起訴，目的是讓人工智慧遠離我們最黑暗的深淵</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，不是僱用他們的老闆 Scale AI 為機器學習模型標記培訓數據，本月與勞工平台 Outlier 一起被起訴，因為據稱未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
+      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
       <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
