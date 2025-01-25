@@ -3,8 +3,8 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 25 Jan 2025 03:12:48 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sat, 25 Jan 2025 03:36:08 GMT</lastBuildDate>
     <item>
       <title>這個男人吃了太多的奶油、起司和牛肉，膽固醇從他的皮膚裡滲出來</title>
       <link>https://www.wired.com/story/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>每個人都應該知道的 5 個物理方程</title>
       <link>https://www.wired.com/story/5-physics-equations-everyone-should-know/</link>
-      <description><![CDATA[我們的物理專家挑選了五個最佳方程式，以及一個用一桶棒球來滿足美國電力需求的方案。謝謝，愛因斯坦！]]></description>
+      <description><![CDATA[我們的物理專家挑選了他的前五個方程，以及一個用一桶棒球滿足美國電力需求的計劃。謝謝，愛因斯坦！]]></description>
       <guid>https://www.wired.com/story/5-physics-equations-everyone-should-know/</guid>
       <pubDate>Fri, 24 Jan 2025 13:00:00 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>川普想與卡特爾組織開戰——也許真的會成功</title>
       <link>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</link>
-      <description><![CDATA[將卡特爾指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並可能帶來美國措手不及的反彈風險。]]></description>
+      <description><![CDATA[將卡特爾組織指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並有可能產生美國尚未準備好的反彈風險。]]></description>
       <guid>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</guid>
       <pubDate>Fri, 24 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -71,14 +71,14 @@
     <item>
       <title>《Palworld》的創作者又回來了——這次是帶著恐怖遊戲</title>
       <link>https://www.wired.com/story/palworld-pocketpair-new-venture-surgent-studios/</link>
-      <description><![CDATA[Pocketpair 是一款被粉絲稱為「帶槍的神奇寶貝」的遊戲的創造者，它正在與《Tales of Kenzera: Zau》背後的工作室合作，旨在發行更多獨立遊戲。]]></description>
+      <description><![CDATA[Pocketpair 是被粉絲們戲稱為「帶槍的寶可夢」的遊戲的創造者，目前該公司正與 Tales of Kenzera: Zau 背後的工作室合作，旨在發行更多獨立遊戲。]]></description>
       <guid>https://www.wired.com/story/palworld-pocketpair-new-venture-surgent-studios/</guid>
       <pubDate>Thu, 23 Jan 2025 21:29:15 GMT</pubDate>
     </item>
     <item>
       <title>目前（2025 年 1 月）Max（又名 HBO Max）上最佳的 46 部節目</title>
       <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
-      <description><![CDATA[《皮特一家》、《某人某處》和《沙丘：預言》只是你本月需要在 Max 上觀看的幾部劇。]]></description>
+      <description><![CDATA[《皮特》、《某處某人》和《沙丘：預言》只是本月您需要在 Max 上觀看的幾部節目。]]></description>
       <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
       <pubDate>Thu, 23 Jan 2025 20:00:00 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 23 Jan 2025 18:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>驕傲的男孩們正密謀捲土重來。他們想要復仇</title>
+      <title>驕傲男孩正在策劃捲土重來。他們想要復仇</title>
       <link>https://www.wired.com/story/proud-boys-comeback-revenge/</link>
       <description><![CDATA[剛走出聯邦監獄的「驕傲男孩」前領導人恩里克·塔里奧表示，在這個極右翼組織尋求重組之際，他仍然是領導者。]]></description>
       <guid>https://www.wired.com/story/proud-boys-comeback-revenge/</guid>
@@ -118,7 +118,7 @@
       <pubDate>Thu, 23 Jan 2025 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>斯巴魯安全漏洞暴露其數百萬輛汽車的追蹤系統</title>
+      <title>斯巴魯安全漏洞暴露了其追蹤數百萬輛汽車的系統</title>
       <link>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</link>
       <description><![CDATA[目前已修復的網路漏洞允許駭客遠端解鎖並啟動數百萬輛斯巴魯汽車。更令人不安的是，他們還可以訪問至少一年的汽車位置歷史記錄 - 斯巴魯員工仍然可以這樣做。]]></description>
       <guid>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</guid>
