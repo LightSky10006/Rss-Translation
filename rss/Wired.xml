@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 25 Jan 2025 11:10:11 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sat, 25 Jan 2025 11:34:26 GMT</lastBuildDate>
+    <item>
+      <title>法官限制 FBI 無證搜查 美國隱私權獲得勝利</title>
+      <link>https://www.wired.com/story/section-702-fbi-searches-unconstitutional/</link>
+      <description><![CDATA[另外：一名駭客發現 Cloudflare 的系統有問題，可能會洩露應用程式使用者的大致位置，而川普政府也對一項重要的網路安全調查造成了阻礙。]]></description>
+      <guid>https://www.wired.com/story/section-702-fbi-searches-unconstitutional/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>泰勒·斯威夫特引發了體育博彩的海嘯。然後她不再出現</title>
       <link>https://www.wired.com/story/taylor-swift-triggered-a-tsunami-of-sports-bets-then-she-stopped-turning-up/</link>
@@ -43,14 +50,14 @@
     <item>
       <title>每個人都應該知道的 5 個物理方程</title>
       <link>https://www.wired.com/story/5-physics-equations-everyone-should-know/</link>
-      <description><![CDATA[我們的物理專家挑選了五個最佳方程式，以及一個用一桶棒球來滿足美國電力需求的方案。謝謝，愛因斯坦！]]></description>
+      <description><![CDATA[我們的物理專家挑選了他的前五個方程，以及一個用一桶棒球滿足美國電力需求的計劃。謝謝，愛因斯坦！]]></description>
       <guid>https://www.wired.com/story/5-physics-equations-everyone-should-know/</guid>
       <pubDate>Fri, 24 Jan 2025 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>科學讓蜘蛛人的蛛網投擲成為現實</title>
       <link>https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/</link>
-      <description><![CDATA[當美國的一個研究實驗室意外地創造出一種黏性的網狀物質時，它向彼得·帕克和漫畫故事中尋求下一步行動的靈感。]]></description>
+      <description><![CDATA[當美國的研究實驗室意外創造出一種黏稠的、類似網狀的物質時，它向彼得·帕克和漫畫書傳說尋求靈感，以決定下一步該怎麼做。]]></description>
       <guid>https://www.wired.com/story/science-has-spun-spideys-web-slinging-into-reality/</guid>
       <pubDate>Fri, 24 Jan 2025 12:30:00 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>川普想與卡特爾組織開戰——也許真的會成功</title>
       <link>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</link>
-      <description><![CDATA[將卡特爾組織指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並有可能產生美國未準備好的反彈風險。]]></description>
+      <description><![CDATA[將卡特爾指定為恐怖組織的行政命令將擴大檢察官的管轄範圍，影響與墨西哥的關係，並可能帶來美國措手不及的反彈風險。]]></description>
       <guid>https://www.wired.com/story/trump-executive-order-mexico-drug-cartels-terrorist-organizations/</guid>
       <pubDate>Fri, 24 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -136,13 +143,6 @@
       <link>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</link>
       <description><![CDATA[目前已修復的網路漏洞允許駭客遠端解鎖並啟動數百萬輛斯巴魯汽車。更令人不安的是，他們還可以訪問至少一年的汽車位置歷史記錄 - 斯巴魯員工仍然可以這樣做。]]></description>
       <guid>https://www.wired.com/story/subaru-location-tracking-vulnerabilities/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你現在應該知道的 MAGA 影響者名人錄</title>
-      <link>https://www.wired.com/story/maga-influencers-content-creators/</link>
-      <description><![CDATA[歡迎來到川普 2.0，在這裡這些創作者不僅得到了觀眾的關注，也得到了總統的關注。]]></description>
-      <guid>https://www.wired.com/story/maga-influencers-content-creators/</guid>
       <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>

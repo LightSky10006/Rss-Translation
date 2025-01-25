@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Sat, 25 Jan 2025 09:34:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 11:34:20 GMT</lastBuildDate>
+    <item>
+      <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
+      <description><![CDATA[在美國、英國、歐洲、俄羅斯，誰會對晶片、製造等如此感興趣...... 有人已經在全球範圍內的關鍵領域悄悄地對選定的瞻博網路路由器進行了後門處理，包括半導體、能源和製造業，至少從 2023 年中期開始...]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國電信公司 TalkTalk 確認正在對涉嫌資料竊取行為進行調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>當我們無法再建立更大的 AI 資料中心時會發生什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</link>
-      <description><![CDATA[我們當然將其他小型超級電腦拼接起來，打造出巨型超級電腦 特徵 生成式人工智慧模型不僅在過去兩年中人氣爆棚，而且以驚人的速度發展，需要越來越多的加速器來跟上…]]></description>
+      <description><![CDATA[當然，我們將其他小型超級電腦中的大型超級電腦拼接在一起 功能 生成式AI 模型在過去兩年中不僅人氣爆炸式增長，而且仍在不斷發展以驚人的速度，需要越來越多的加速器才能跟上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</guid>
       <pubDate>Fri, 24 Jan 2025 18:30:11 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>歐洲和英國正在權衡如何應對川普提出的關稅。一個 WTF 還是兩個？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/eu_uk_trump_tariffs/</link>
-      <description><![CDATA[脫歐後會出現浪漫嗎？總統，上議院本週聽取了…]]></description>
+      <description><![CDATA[英國脫歐後的戀情可能會出現嗎？議院本週聽取了新總統的任命。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/eu_uk_trump_tariffs/</guid>
       <pubDate>Fri, 24 Jan 2025 16:22:07 GMT</pubDate>
     </item>
     <item>
       <title>不想讓你的 Kubernetes Windows 節點被劫持嗎？立即修補這個漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</link>
-      <description><![CDATA[透過 API 參數 *chef&#39;s kiss* 進行 SYSTEM 層級命令注入 Kubernetes 中現已修復的命令注入漏洞可被遠端攻擊者利用，在所有 Windows 端點上以 SYSTEM 權限取得程式碼執行根據Akamai 研究員Tomer Peled 的說法，在一個集群中，從而完全接管這些系統。]]></description>
+      <description><![CDATA[透過 API 參數 *chef&#39;s Kiss* 進行系統級命令注入 遠端攻擊者可以利用 Kubernetes 中現已修復的命令注入錯誤，在所有 Windows 端點上以系統權限獲取代碼執行Akamai 研究員Tomer Peled 表示，在一個叢集中，從而完全接管這些系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/kubernetes_windows_nodes_bug/</guid>
       <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 24 Jan 2025 14:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>北韓開發者改名為“Bane”，被指控涉嫌 IT 工作者欺詐</title>
+      <title>自稱「Bane」的北韓開發者被指控犯有 IT 工人詐欺行為</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</link>
       <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了朝鮮長期的欺詐行為遠程IT 工作者計畫－其中包括一名將自己的姓氏改為「Bane」並在舊金山的科技公司找到工作的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>用戶說他沒有做任何事情來解釋他的電腦死機了——換一塊新主機板算嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</link>
-      <description><![CDATA[然後建議酒吧裡的一個人也許可以幫忙解決這個問題 隨時待命 週五有可能與親人共度時光。但在我們到達那裡之前，The Register 提供了On Call 的另一期，該專欄記錄了全球讀者家庭的經歷，他們有痛苦的技術支持故事要講述。 p&gt;]]></description>
+      <description><![CDATA[然後建議酒吧裡的一個小伙子也許能幫忙修理它 隨叫隨到  星期五帶來了與親人共度時光的前景。但在我們到達那裡之前，The Register 提供了另一期 On Call，該專欄記錄了全球讀者家庭在技術支援方面遭遇的痛苦經歷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</guid>
       <pubDate>Fri, 24 Jan 2025 08:32:11 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>法院裁定《外國情報監視法》第 702 條對美國居民的監視違憲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</link>
-      <description><![CDATA[法官表示，「僅憑公共利益並不能證明無根據的查詢是合理的」 據透露，紐約一家法院本週做出了一項具有里程碑意義的裁決，該裁決反對對美國人民的私人通信進行無根據的國家監視。]]></description>
+      <description><![CDATA[法官稱「公共利益本身不足以證明無證查詢的正當性」 本周有消息透露，紐約一家法院做出了一項具有里程碑意義的裁決，反對美國政府無證監視人民的私人通信。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/section_702_court/</guid>
       <pubDate>Fri, 24 Jan 2025 04:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>精神損失：規模人工智慧、異常值被人類起訴，目的是讓人工智慧遠離我們最黑暗的深淵</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</link>
-      <description><![CDATA[誰來守護護欄製造商？據稱，責任不在僱用他們的老闆身上 Scale AI 是一家為機器學習模型標註訓練資料的公司，本月與勞動力平台Outlier 一起被起訴，原因是涉嫌未能保護所僱用承包商的心理健康保護人們免受與人工智慧模型的有害互動。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/scale_ai_outlier_sued_over/</guid>
-      <pubDate>Fri, 24 Jan 2025 01:22:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
