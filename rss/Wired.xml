@@ -3,10 +3,10 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 26 Jan 2025 11:34:36 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Sun, 26 Jan 2025 12:20:26 GMT</lastBuildDate>
     <item>
-      <title>Lush Bath Bot 是一款純素、可回收的漂浮揚聲器，旨在傳達一個理念</title>
+      <title>Lush Bath Bot 是一款純素、可回收的浮動揚聲器，旨在表達觀點</title>
       <link>https://www.wired.com/story/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</link>
       <description><![CDATA[當化妝品品牌決定生產藍牙音箱時，它並不知道可持續生產它會有多難。下一個挑戰：真的有人會買它嗎？]]></description>
       <guid>https://www.wired.com/story/the-lush-bath-bot-is-a-vegan-recyclable-floating-speaker-thats-out-to-make-a-point/</guid>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 26 Jan 2025 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>小馬丁 (George R.R. Martin) 合著了一篇科學論文</title>
+      <title>喬治·R·R·馬丁合著了一篇科學論文</title>
       <link>https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/</link>
       <description><![CDATA[好的，太棒了，現在完成《凜冬的寒風》。]]></description>
       <guid>https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/</guid>
@@ -43,12 +43,12 @@
     <item>
       <title>Nikon Z6 III 評測：大眾混合相機</title>
       <link>https://www.wired.com/review/nikon-z6-iii/</link>
-      <description><![CDATA[尼康最新的中階全片幅無反光鏡相機提供專業級功能，但價格卻不高。]]></description>
+      <description><![CDATA[尼康最新的中階全片幅無反光鏡相機提供專業級功能，而無需專業價格。]]></description>
       <guid>https://www.wired.com/review/nikon-z6-iii/</guid>
       <pubDate>Sat, 25 Jan 2025 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜 Prime 上目前最佳的 22 部電影（2024 年 1 月）</title>
+      <title>Amazon Prime 目前 22 部最佳電影（2024 年 1 月）</title>
       <link>https://www.wired.com/story/best-amazon-prime-movies/</link>
       <description><![CDATA[《挑戰者》、《我的老屁股》和《殺手熱》只是您本週應該在 Amazon Prime Video 上觀看的幾部電影。]]></description>
       <guid>https://www.wired.com/story/best-amazon-prime-movies/</guid>
@@ -62,16 +62,9 @@
       <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉磯火災原因可能永遠無法查明——但人工智慧正在尋找線索</title>
-      <link>https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/</link>
-      <description><![CDATA[美國西部超過一半的山林火災的根源仍然未知，因此美國林務局與電腦科學家合作開發了可以找到答案的工具。]]></description>
-      <guid>https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/</guid>
-      <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亞馬遜 Prime 上目前最佳的 25 部節目（2025 年 2 月）</title>
       <link>https://www.wired.com/story/best-shows-amazon-prime/</link>
-      <description><![CDATA[《Citadel: Diana》、《The Rig》和《Fallout》只是您本週應該在 Amazon Prime Video 上觀看的幾部節目。]]></description>
+      <description><![CDATA[《Citadel: Diana》、《The Rig》和《Fallout》只是本週您應該在 Amazon Prime Video 上觀看的幾部戲劇。]]></description>
       <guid>https://www.wired.com/story/best-shows-amazon-prime/</guid>
       <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
     </item>
@@ -80,6 +73,13 @@
       <link>https://www.wired.com/story/netflix-best-shows-this-week/</link>
       <description><![CDATA[《魷魚遊戲》、《惡魔城：夜曲》和《坂本龍馬的日子》只是您本月需要在 Netflix 上觀看的幾部節目。]]></description>
       <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
+      <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉磯火災原因可能永遠無法查明——但人工智慧正在尋找線索</title>
+      <link>https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/</link>
+      <description><![CDATA[美國西部超過一半的野火的來源仍然未知，因此美國林業局與電腦科學家合作創建了可以找到答案的工具。]]></description>
+      <guid>https://www.wired.com/story/what-sparks-a-wildfire-the-answer-often-remains-a-mystery/</guid>
       <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
@@ -97,9 +97,9 @@
       <pubDate>Sat, 25 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>中國 AI 新創公司 DeepSeek 如何打造出可與 OpenAI 相媲美的模型</title>
+      <title>中國人工智慧新創公司 DeepSeek 如何打造與 OpenAI 相媲美的模型</title>
       <link>https://www.wired.com/story/deepseek-china-model-ai/</link>
-      <description><![CDATA[當中國量化對沖基金創辦人梁文峰進入人工智慧研究時，他拿著一萬塊英偉達晶片，組成了一支年輕、雄心勃勃的人才團隊。兩年後，DeepSeek 突然出現。]]></description>
+      <description><![CDATA[當中國量化對沖基金創始人梁文峰進入人工智慧研究時，他帶著 10,000 個 Nvidia 晶片，組建了一支年輕而雄心勃勃的人才團隊。兩年後，DeepSeek 一炮而紅。]]></description>
       <guid>https://www.wired.com/story/deepseek-china-model-ai/</guid>
       <pubDate>Sat, 25 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>每個人都應該知道的 5 個物理方程</title>
       <link>https://www.wired.com/story/5-physics-equations-everyone-should-know/</link>
-      <description><![CDATA[我們的物理專家挑選了五個最佳方程式，以及一個用一桶棒球來滿足美國電力需求的方案。謝謝，愛因斯坦！]]></description>
+      <description><![CDATA[我們的物理專家挑選了他的前五個方程，以及一個用一桶棒球滿足美國電力需求的計劃。謝謝，愛因斯坦！]]></description>
       <guid>https://www.wired.com/story/5-physics-equations-everyone-should-know/</guid>
       <pubDate>Fri, 24 Jan 2025 13:00:00 GMT</pubDate>
     </item>
