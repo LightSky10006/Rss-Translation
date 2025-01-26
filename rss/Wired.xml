@@ -3,8 +3,8 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 26 Jan 2025 22:10:52 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sun, 26 Jan 2025 22:35:02 GMT</lastBuildDate>
     <item>
       <title>這款新設計的廚房工具只是一根棍子。那我們為什麼如此痴迷它？</title>
       <link>https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>《反射紐約》為紐約舉起一面鏡子</title>
       <link>https://www.wired.com/story/reflecting-new-york-holds-a-mirror-up-to-manhattan/</link>
-      <description><![CDATA[攝影師 Sefan Falke 的一系列作品捕捉了紐約市各個行政區的標誌性景觀。]]></description>
+      <description><![CDATA[攝影師 Sefan Falke 拍攝的一系列作品捕捉了紐約市各行政區來來去去的標誌性景觀。]]></description>
       <guid>https://www.wired.com/story/reflecting-new-york-holds-a-mirror-up-to-manhattan/</guid>
       <pubDate>Sun, 26 Jan 2025 13:00:00 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>科學家重現了引發複雜生命的條件</title>
       <link>https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/</link>
-      <description><![CDATA[內共生（一種微生物在另一種微生物體內建立永久家園的細胞聯盟）推動了演化。生物學家首次在實驗室中實現了這個目標。]]></description>
+      <description><![CDATA[演化是由內共生（一種微生物在另一種微生物體內永久安家的細胞聯盟）所推動的。生物學家第一次在實驗室裡實現了這一點。]]></description>
       <guid>https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/</guid>
       <pubDate>Sun, 26 Jan 2025 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>小馬丁 (George R.R. Martin) 合著了一篇科學論文</title>
+      <title>喬治·R·R·馬丁合著了一篇科學論文</title>
       <link>https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/</link>
       <description><![CDATA[好的，太棒了，現在完成《凜冬的寒風》。]]></description>
       <guid>https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/</guid>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 25 Jan 2025 13:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>人們對人工智慧了解越少，就越喜歡它</title>
+      <title>人們對人工智慧了解得越少，就越喜歡它</title>
       <link>https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/</link>
       <description><![CDATA[你可能會認為精通科技的人最願意使用人工智慧，但研究表明，事實上，最不熟悉人工智慧的人卻最不願意使用人工智慧。]]></description>
       <guid>https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>Nikon Z6 III 評測：大眾混合相機</title>
       <link>https://www.wired.com/review/nikon-z6-iii/</link>
-      <description><![CDATA[尼康最新的中階全片幅無反光鏡相機提供專業級功能，而無需專業價格。]]></description>
+      <description><![CDATA[尼康最新的中階全片幅無反光鏡相機提供專業級功能，但價格卻不高。]]></description>
       <guid>https://www.wired.com/review/nikon-z6-iii/</guid>
       <pubDate>Sat, 25 Jan 2025 12:30:00 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 上目前最佳的 40 部電影（2025 年 2 月）</title>
+      <title>目前 Netflix 上最好的 40 部電影（2025 年 2 月）</title>
       <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
       <description><![CDATA[《巴巴杜》、《幽靈公主：雨中魅影》和《艾米莉亞佩雷茲》只是您本月應該在 Netflix 上觀看的幾部電影。]]></description>
       <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>中國 AI 新創公司 DeepSeek 如何打造出可與 OpenAI 相媲美的模型</title>
       <link>https://www.wired.com/story/deepseek-china-model-ai/</link>
-      <description><![CDATA[當中國量化對沖基金創辦人梁文峰進入人工智慧研究時，他拿著一萬塊英偉達晶片，組成了一支年輕、雄心勃勃的人才團隊。兩年後，DeepSeek 突然出現。]]></description>
+      <description><![CDATA[當中國量化對沖基金創始人梁文峰進入人工智慧研究時，他帶著 10,000 個 Nvidia 晶片，組建了一支年輕而雄心勃勃的人才團隊。兩年後，DeepSeek 一炮而紅。]]></description>
       <guid>https://www.wired.com/story/deepseek-china-model-ai/</guid>
       <pubDate>Sat, 25 Jan 2025 10:00:00 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>DOGE 將允許伊隆馬斯克從內部監視美國政府</title>
       <link>https://www.wired.com/story/doge-elon-musk/</link>
-      <description><![CDATA[一名前 USDS 員工稱將數位服務重新調整為 DOGE 是「A+ 官僚柔術之舉」。它將讓馬斯克和他的同事能夠存取每個政府機構的非機密資料。]]></description>
+      <description><![CDATA[美國金融服務部一名前員工稱，將數位服務改組為 DOGE 是「A+ 官僚柔術之舉」。它將使馬斯克和他的同事能夠存取每個政府機構的非機密資料。]]></description>
       <guid>https://www.wired.com/story/doge-elon-musk/</guid>
       <pubDate>Fri, 24 Jan 2025 15:19:15 GMT</pubDate>
     </item>
