@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 20:13:30 GMT</lastBuildDate>
+    <item>
+      <title>川普可能將 TikTok 的演算法置於位元組跳動的控制之下</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</link>
+      <description><![CDATA[業內人士都在談論川普拯救 TikTok 的計劃。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>對於放棄 Broadcom VMware 的客戶來說，這是一條漫長且代價高昂的道路</title>
+      <link>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</link>
+      <description><![CDATA[“我們喜歡 VMware，但當 Broadcom 收購它們時，我們討厭它們。”]]></description>
+      <guid>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:36:31 GMT</pubDate>
+    </item>
     <item>
       <title>馬自達推出週年紀念款 MX-5 紀念版</title>
       <link>https://arstechnica.com/cars/2025/01/mazda-celebrates-35-years-of-the-mx-5-with-anniversary-model/</link>
@@ -20,14 +34,14 @@
       <pubDate>Mon, 27 Jan 2025 16:29:53 GMT</pubDate>
     </item>
     <item>
-      <title>隨著新格倫號火箭的成功飛行，藍色起源或將迎來轉機</title>
+      <title>隨著新格倫飛行的成功，藍色起源可能終於迎來了轉機</title>
       <link>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</link>
       <description><![CDATA[“這正是太空時代的開始。”]]></description>
       <guid>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</guid>
       <pubDate>Mon, 27 Jan 2025 12:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>吉普首款電動車並不像我們預期的那樣：2024 年 Wagoneer S</title>
+      <title>Jeep 的首款電池電動車並非我們所期望的：2024 年 Wagoneer S</title>
       <link>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</link>
       <description><![CDATA[阻力優化意味著內部非常安靜，但成本也相當高。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[新功能允許克勞德參考來源文件並減少幻覺。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</guid>
       <pubDate>Fri, 24 Jan 2025 21:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>一對夫婦涉嫌欺騙人工智慧投資者資助婚禮和房屋</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</link>
-      <description><![CDATA[FBI 聲稱 GameOn 創辦人明目張膽地偽造了六年的財務記錄。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</guid>
-      <pubDate>Fri, 24 Jan 2025 20:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>複雜性物理學在國際象棋比賽中發現關鍵的臨界點</title>
-      <link>https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/</link>
-      <description><![CDATA[物理學家使用交互圖來展示棋子如何攻擊和防禦，以分析 20,000 場最佳比賽。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:02:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

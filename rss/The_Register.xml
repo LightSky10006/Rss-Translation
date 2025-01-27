@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 19:35:16 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 27 Jan 2025 20:13:52 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 不再支援老化架構的 CUDA</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
+      <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>DeepSeek 在網路攻擊中限制新帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</link>
-      <description><![CDATA[中國人工智慧新創公司努力應對突然流行的後果 更新 中國的DeepSeek 憑藉其V3 和具有推理能力的R1 LLM 系列的首次亮相震撼了美國人工智慧製造商，由於據稱正在進行的網路攻擊，其基於網路的介面及其模型的新註冊人數受到限制。]]></description>
+      <description><![CDATA[中國AI 新創公司努力應對突然流行的後果 更新  中國的DeepSeek 憑藉其V3 和具有推理能力的R1 LLM 系列的首次亮相震驚了美國AI 製造商，由於據稱正在發生的網路攻擊，已經限制了其基於網路的模型介面的新註冊人數。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</guid>
       <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
+      <title>合勤科技防火牆因更新錯誤而中斷，需要現場存取才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
       <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
@@ -55,9 +62,9 @@
       <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國人工智慧主導地位不再穩操勝券，科技股暴跌</title>
+      <title>美國人工智慧主導地位不再確定，科技股暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</link>
-      <description><![CDATA[中國新創公司DeepSeek 以極低的成本推出開放式法學碩士，與Meta、OpenAI 競爭 掀起人工智能炒作浪潮的一些美國最大科技品牌的股價今天早上在DeepSeek 的衝擊下崩潰了，一家中國新創公司上週發布了挑戰美國主導地位的法學碩士。]]></description>
+      <description><![CDATA[中國新創公司DeepSeek 推出開放式法學碩士課程，以極低的成本與Meta、OpenAI 競爭 今天早上，一些在人工智慧炒作浪潮中衝上頂峰的美國科技品牌的股價因DeepSeek 而暴跌，一家中國新創公司，上週發布了挑戰美國主導地位的法學碩士學位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</guid>
       <pubDate>Mon, 27 Jan 2025 14:19:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>微軟倫敦「體驗中心」收拾行裝回家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</link>
-      <description><![CDATA[牛津圓環空間在六年後關閉 微軟正在關閉其唯一的英國零售店，距離牛津圓環地點首次向公眾開放還不到六年。 &gt; ]]></description>
+      <description><![CDATA[牛津廣場空間在六年後關閉 微軟將關閉其在英國的唯一一家零售店，這距離牛津廣場門市首次向公眾開放還不到六年。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</guid>
       <pubDate>Mon, 27 Jan 2025 11:08:19 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Mon, 27 Jan 2025 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>大英博物館稱前承包商「關閉」IT系統，造成嚴重破壞</title>
+      <title>大英博物館稱前承包商「關閉」 IT 系統，造成嚴重破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</link>
       <description><![CDATA[前自由工作者被英國頂級旅遊景點解僱一周後被戴上手銬 大英博物館本週末被迫暫時關閉一些畫廊和展覽，原因是一名心懷不滿的前技術承包商不守規矩，關閉了一些現場IT系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Mon, 27 Jan 2025 08:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>接下來是學校、養老院的機器人嗎？這家英國企業希望實現這一目標</title>
+      <title>機器人下一步將進入學校和養老院嗎？這家英國企業希望實現這一目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</link>
       <description><![CDATA[機器人製造商應該跳出人形機器人的思維框架——除非這些製造商是工程藝術 採訪  得益於人工智慧的炒作和展示了像Waymo 這樣的機器人計程車的能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
-      <description><![CDATA[誰會對美國、英國、歐洲、俄羅斯的晶片、製造等如此感興趣… 有人一直在悄悄地為全球關鍵領域的部分瞻博網路路由器安裝後門，包括半導體、能源與製造業，至少從2023 年中期開始。]]></description>
+      <description><![CDATA[在美國、英國、歐洲、俄羅斯，誰會對晶片、製造等如此感興趣... 有人已經在全球關鍵領域悄悄地對選定的瞻博網絡路由器進行了後門處理，包括半導體、能源和製造業，至少從 2023 年中期開始...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
       <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Spinner 表示，crim 的指控「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</guid>
       <pubDate>Sat, 25 Jan 2025 09:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧聊天機器人新創公司創始人兼律師妻子被指控詐騙投資者 6000 萬美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</link>
-      <description><![CDATA[遊戲開始？對於這個行業來說，這更像是遊戲結束了 人工智慧新創公司 GameOn 的聯合創始人兼前執行長陷入了困境。去年，他不無不快地辭去執行長一職，如今，他和妻子一起被告上法庭，罪名是涉嫌詐騙其公司及其投資者 6000 多萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</guid>
-      <pubDate>Fri, 24 Jan 2025 23:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
