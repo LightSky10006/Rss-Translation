@@ -4,16 +4,37 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 27 Jan 2025 20:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:33:56 GMT</lastBuildDate>
     <item>
-      <title>川普可能將 TikTok 的演算法置於位元組跳動的控制之下</title>
+      <title>FCC 主席否決了促進公寓大樓寬頻競爭的計劃</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</link>
+      <description><![CDATA[布倫丹·卡爾 (Brendan Carr) 放棄了禁止將租戶鎖定於一個 ISP 的批量計費交易的計劃。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</guid>
+      <pubDate>Mon, 27 Jan 2025 21:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024年美國風能和太陽能發電量將超過煤炭</title>
+      <link>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</link>
+      <description><![CDATA[儘管未來充滿不確定性，公用事業規模的太陽能發電量仍增加了 30% 以上。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</guid>
+      <pubDate>Mon, 27 Jan 2025 20:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>異形：地球將把恐怖帶回家</title>
+      <link>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</link>
+      <description><![CDATA[這部前傳系列故事設定在 1979 年原版電影《異形》事件的幾年之前。]]></description>
+      <guid>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>據報道，川普拯救 TikTok 的計劃可能違反最高法院支持的法律</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</link>
       <description><![CDATA[業內人士都在談論川普拯救 TikTok 的計劃。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</guid>
       <pubDate>Mon, 27 Jan 2025 19:39:05 GMT</pubDate>
     </item>
     <item>
-      <title>對於放棄 Broadcom VMware 的客戶來說，這是一條漫長且代價高昂的道路</title>
+      <title>對於放棄 Broadcom 的 VMware 的客戶來說，前路漫漫且代價高昂</title>
       <link>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</link>
       <description><![CDATA[“我們喜歡 VMware，但當 Broadcom 收購它們時，我們討厭它們。”]]></description>
       <guid>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</guid>
@@ -34,7 +55,7 @@
       <pubDate>Mon, 27 Jan 2025 16:29:53 GMT</pubDate>
     </item>
     <item>
-      <title>隨著新格倫飛行的成功，藍色起源可能終於迎來了轉機</title>
+      <title>隨著新格倫號火箭的成功飛行，藍色起源或將迎來轉機</title>
       <link>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</link>
       <description><![CDATA[“這正是太空時代的開始。”]]></description>
       <guid>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[3D 列印的槍枝零件在黑市上價值不菲。]]></description>
       <guid>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</guid>
       <pubDate>Fri, 24 Jan 2025 23:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國退出日期定於 2026 年 1 月，世衛組織開始削減成本</title>
-      <link>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</link>
-      <description><![CDATA[美國目前是世衛組織最大的資助國，貢獻了該組織預算的約18%。]]></description>
-      <guid>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 開始停止對舊 GPU 的支持，包括壽命較長的 GTX 1060</title>
-      <link>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</link>
-      <description><![CDATA[Nvidia 上次放棄舊 GPU 的 Game Ready 驅動程式支援是在 2021 年。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 使用新的 Citations API 將 RAG 直接建置到 Claude 模型中</title>
-      <link>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</link>
-      <description><![CDATA[新功能允許克勞德參考來源文件並減少幻覺。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
