@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 19:10:00 GMT</lastBuildDate>
     <item>
       <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>微軟在 PostgreSQL 上建立開源文檔資料庫，建議使用 FerretDB 作為前端</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_builds_open_source_document/</link>
-      <description><![CDATA[我們已經不再在堪薩斯了 微軟已經推出了一個基於關係PostgreSQL 後端構建的文檔資料庫平台。 / data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[我們不再在堪薩斯州了 微軟推出了一個基於關係型PostgreSQL 後端構建的文檔資料庫平台。 =&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_builds_open_source_document/</guid>
       <pubDate>Mon, 27 Jan 2025 17:45:10 GMT</pubDate>
     </item>
@@ -27,9 +27,9 @@
       <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>在編碼員報告“我見過的最複雜的攻擊”後，谷歌採取了行動</title>
+      <title>在程式設計師報告“我見過的最複雜的攻擊”後，谷歌採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</link>
-      <description><![CDATA[最新的比喻非常狡猾，甚至可以愚弄技術人員......幾乎 Google表示，它現在正在加強對程式設計師上週記錄的複雜帳戶接管騙局的防禦。 .....]]></description>
+      <description><![CDATA[最新的比喻非常狡猾，甚至足以愚弄技術人員......幾乎 Google表示，目前正在加強防禦措施，以防範上週一名程式設計師記錄的複雜帳戶接管騙局。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</guid>
       <pubDate>Mon, 27 Jan 2025 17:01:15 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>合勤防火牆因更新錯誤而中斷，需要現場存取才能修復</title>
+      <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
       <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
@@ -111,9 +111,9 @@
       <pubDate>Mon, 27 Jan 2025 08:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>接下來是學校、養老院的機器人嗎？這家英國企業希望實現這一目標</title>
+      <title>機器人下一步將進入學校和養老院嗎？這家英國企業希望實現這一目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</link>
-      <description><![CDATA[機器人製造商應該跳出人形機器人的思維框架——除非這些製造商是工程藝術 採訪  得益於人工智慧的炒作和展示了像Waymo 這樣的機器人計程車的能力…]]></description>
+      <description><![CDATA[機器人製造商應該跳出人形形態的框框思考 - 除非這些製造商是工程藝術 採訪 由於圍繞人工智能的炒作和展示了Waymo 等機器人出租車的功能。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</guid>
       <pubDate>Mon, 27 Jan 2025 07:12:11 GMT</pubDate>
     </item>
@@ -125,16 +125,16 @@
       <pubDate>Sun, 26 Jan 2025 17:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>有人正在將一個隱藏的後門潛入全球範圍內的瞻博網路路由器，該後門由魔法資料包激活</title>
+      <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
-      <description><![CDATA[在美國、英國、歐洲、俄羅斯，誰會對晶片、製造等如此感興趣...... 有人已經在全球範圍內的關鍵領域悄悄地對選定的瞻博網路路由器進行了後門處理，包括半導體、能源和製造業，至少從 2023 年中期開始...]]></description>
+      <description><![CDATA[誰會對美國、英國、歐洲、俄羅斯的晶片、製造等如此感興趣… 有人一直在悄悄地為全球關鍵領域的部分瞻博網路路由器安裝後門，包括半導體、能源與製造業，至少從2023 年中期開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
       <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
     </item>
     <item>
       <title>英國電信公司 TalkTalk 確認正在對涉嫌資料竊取行為進行調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</link>
-      <description><![CDATA[Spinner 表示，crim 的說法「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
+      <description><![CDATA[Spinner 表示犯罪分子的說法「嚴重誇大」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上提出的指控，指控該公司的資料被盜。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</guid>
       <pubDate>Sat, 25 Jan 2025 09:30:10 GMT</pubDate>
     </item>
