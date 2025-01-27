@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 15:34:17 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 27 Jan 2025 16:41:50 GMT</lastBuildDate>
+    <item>
+      <title>Citrix 計劃取消其技術專業計劃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
+      <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
-      <description><![CDATA[盒子陷入啟動循環和各種其他故障 Zyxel 客戶正在處理一系列問題，包括週五更新出錯後的重啟循環。]]></description>
+      <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
       <pubDate>Mon, 27 Jan 2025 15:30:12 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>CDN：有利於加速互聯網，但不利於位置隱私</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</link>
-      <description><![CDATA[此外，Subaru 門戶網站洩露了用戶資訊、Tornado Cash 制裁被推翻、Stark 勒索軟體攻擊等等 資訊安全簡介 使用自訂工具，15 20 歲的駭客利用Cloudflare 的內容交付網路來大致定位Signal、Discord 等應用程式的使用者位置。]]></description>
+      <description><![CDATA[此外，Subaru入口網站洩露用戶詳細資料、Tornado Cash 制裁被推翻、Stark 勒索軟體攻擊等 資訊安全簡報  使用客製化工具，15歲的駭客利用Cloudflare 的內容傳遞網路來估計Signal、Discord 等應用程式使用者的位置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</guid>
       <pubDate>Mon, 27 Jan 2025 11:45:07 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 27 Jan 2025 07:12:11 GMT</pubDate>
     </item>
     <item>
-      <title>中國的 DeepSeek 剛剛向 OpenAI 的 o1 推出了一個免費挑戰者 - 以下是如何在您的 PC 上使用它</title>
+      <title>中國的 DeepSeek 剛剛向 OpenAI 的 o1 推出了一款免費挑戰者——以下是如何在 PC 上使用它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</link>
       <description><![CDATA[El Reg 深入研究中國最新的思維鏈模型 親身體驗 中國人工智慧新創公司DeepSeek 本週推出了一系列法學碩士學位，聲稱它不僅複製了OpenAI 的o1推理能力，但在一系列基準測試中挑戰了美國模型建構者的主導地位。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>英國電信公司 TalkTalk 確認正在對涉嫌資料竊取行為進行調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</link>
-      <description><![CDATA[Spinner 表示，crim 的說法「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
+      <description><![CDATA[Spinner 表示，crim 的指控「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</guid>
       <pubDate>Sat, 25 Jan 2025 09:30:10 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Fri, 24 Jan 2025 22:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>拒絕交換更新嗎？請考慮一下微軟的警告</title>
+      <title>交換更新拒絕尼克？認為自己受到了微軟的警告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</link>
-      <description><![CDATA[如果您的 Exchange Server“明顯過時”，緊急緩解措施可能會停止工作 請警告落後於累積更新和安全更新的 Exchange Server 管理員：Microsoft 已聲明 Exchange 緊急緩解服務( EEMS) 可能會停止開發「嚴重過時」的軟體版本。]]></description>
+      <description><![CDATA[如果您的Exchange Server 版本“嚴重過時”，緊急緩解措施可能會停止工作 Exchange Server 管理員在累積更新和安全更新方面落後，請注意：微軟已聲明Exchange 緊急緩解服務（EEMS）可能會停止執行「明顯過時」的軟體版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</guid>
       <pubDate>Fri, 24 Jan 2025 21:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>修復權的現狀：取得了進展，但仍存在主要障礙</title>
+      <title>維修權現況：已取得進展，但關鍵障礙仍存在</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</link>
       <description><![CDATA[許多產業仍無法取得示意圖、維修手冊和零件編號 美國公共利益研究小組 (PIRG) 發布了一份關於維修權現狀的報告。好消息是，對於一些小器件來說，事情似乎正在朝著正確的方向發展。壞消息是，進步並不平等，而且有些小玩意兒並沒有任何改進。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</guid>
       <pubDate>Fri, 24 Jan 2025 20:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 為微軟 Copilot 金鑰鋪平了道路</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/copilot_key_linux/</link>
-      <description><![CDATA[但是它到底該做什麼？  好消息，Linux 粉絲！ 6.14 核心中將支援 Copilot 鍵。你認為它應該做什麼？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/copilot_key_linux/</guid>
-      <pubDate>Fri, 24 Jan 2025 19:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
