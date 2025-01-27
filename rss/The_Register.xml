@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 14:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:12:09 GMT</lastBuildDate>
+    <item>
+      <title>人工智慧代理？是的，讓我們把所有實際上不需要的事情自動化</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</link>
+      <description><![CDATA[OpenAI 的 Operator 是在尋找問題的解決方案 觀點  Nvidia 的 Jim Fan 等人將生成人工智慧的當前發展狀態稱為「代理時代」 （人工智能），將會是一個巨大的失望。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>美國人工智慧主導地位不再穩操勝券，科技股暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</link>
@@ -13,9 +20,9 @@
       <pubDate>Mon, 27 Jan 2025 14:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>瑞典扣押一艘貨船，另一條海底電纜疑似遭破壞</title>
+      <title>另一艘海底電纜涉嫌蓄意破壞後，瑞典扣押了一艘貨船</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</link>
-      <description><![CDATA[北約在波羅的海加強巡邏，該地區等待海軍無人機 瑞典當局“扣押”了一艘船隻——據信是貨船Vezhen——“涉嫌進行破壞活動”，此前一條電纜穿過位於波羅的海的瑞典與拉脫維亞兩國船隻於1月26日上午遭到攻擊。]]></description>
+      <description><![CDATA[北約在波羅的海地區加強巡邏，等待海軍無人機 瑞典當局「扣押」了一艘船隻——據信是貨船Vezhen——在一條電纜穿過兩地後「涉嫌進行破壞」 1月26日上午，波羅的海的瑞典和拉脫維亞遭受破壞。...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</guid>
       <pubDate>Mon, 27 Jan 2025 13:25:09 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 27 Jan 2025 12:45:38 GMT</pubDate>
     </item>
     <item>
-      <title>CDN：有利於加速互聯網，但不利於位置隱私</title>
+      <title>CDN：非常適合加快網路速度，但不利於地點隱私</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</link>
       <description><![CDATA[此外，Subaru入口網站洩露用戶詳細資料、Tornado Cash 制裁被推翻、Stark 勒索軟體攻擊等 資訊安全簡報  使用客製化工具，15歲的駭客利用Cloudflare 的內容傳遞網路來估計Signal、Discord 等應用程式使用者的位置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>機器人下一步將進入學校和養老院嗎？這家英國企業希望實現這一目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</link>
-      <description><![CDATA[機器人製造商應該跳出人形形態的框框思考 - 除非這些製造商是工程藝術 採訪 由於圍繞人工智能的炒作和展示了Waymo 等機器人出租車的功能。]]></description>
+      <description><![CDATA[機器人製造商應該跳出人形機器人的思維框架——除非這些製造商是工程藝術 採訪  得益於人工智慧的炒作和展示了像Waymo 這樣的機器人計程車的能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</guid>
       <pubDate>Mon, 27 Jan 2025 07:12:11 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Fri, 24 Jan 2025 22:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>拒絕交換更新嗎？請考慮一下微軟的警告</title>
+      <title>拒絕交換更新？認為自己受到了微軟的警告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</link>
       <description><![CDATA[如果您的Exchange Server 版本“嚴重過時”，緊急緩解措施可能會停止工作 Exchange Server 管理員在累積更新和安全更新方面落後，請注意：微軟已聲明Exchange 緊急緩解服務（EEMS）可能會停止執行「明顯過時」的軟體版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們當然將其他小型超級電腦拼接起來，打造出巨型超級電腦 特徵 生成式人工智慧模型不僅在過去兩年中人氣爆棚，而且還在不斷發展以驚人的速度發展，需要越來越多的加速器來跟上…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</guid>
       <pubDate>Fri, 24 Jan 2025 18:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通大佬克里斯蒂亞諾·阿蒙的薪水上漲 10%</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/</link>
-      <description><![CDATA[執行長的薪酬為2,591 萬美元，價值相當於261 名員工 高通公司的高階主管克里斯蒂安‧阿蒙(Cristian Amon) 在2024 財年的總財務薪酬年比成長了10%，達到2,591 萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/qualcomm_cristiano_amon_pay_increase/</guid>
-      <pubDate>Fri, 24 Jan 2025 17:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
