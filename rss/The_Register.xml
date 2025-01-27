@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 17:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 17:36:33 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek因網路攻擊暫停新註冊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</link>
+      <description><![CDATA[中國AI 新創公司努力應對突然走紅的後果 中國的DeepSeek 憑藉其R1 模型系列的首次亮相震撼了美國AI 公司，但由於持續的網絡攻擊，其新註冊用戶數量有所限制。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</guid>
+      <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>在程式設計師報告“我見過的最複雜的攻擊”後，谷歌採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>人工智慧代理？是的，讓我們把所有實際上不需要的事情自動化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</link>
-      <description><![CDATA[OpenAI 的Operator 是尋找問題的解決方案 觀點 “代理時代”，正如Nvidia 的Jim Fan 和其他人所提到的生成式人工智能當前的演化狀態（AI），將會令人非常失望。]]></description>
+      <description><![CDATA[OpenAI 的 Operator 是在尋找問題的解決方案 觀點  Nvidia 的 Jim Fan 等人將生成人工智慧的當前發展狀態稱為「代理時代」 （人工智能），將會是一個巨大的失望。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</guid>
       <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 27 Jan 2025 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>大英博物館稱前承包商「關閉」IT系統，造成嚴重破壞</title>
+      <title>大英博物館稱前承包商「關閉」 IT 系統，造成嚴重破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</link>
       <description><![CDATA[前自由工作者被英國頂級旅遊景點解僱一周後被戴上手銬 大英博物館本週末被迫暫時關閉一些畫廊和展覽，原因是一名心懷不滿的前技術承包商不守規矩，關閉了一些現場IT系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</guid>
@@ -113,14 +120,14 @@
     <item>
       <title>英國電信公司 TalkTalk 確認正在對涉嫌資料竊取行為進行調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</link>
-      <description><![CDATA[Spinner 表示，crim 的說法「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
+      <description><![CDATA[Spinner 表示，crim 的指控「明顯誇大其詞」 英國寬頻和電視供應商TalkTalk 表示，目前正在調查網路犯罪論壇上關於該公司資料被盜取的指控…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/uk_telco_talktalk_confirms_investigation/</guid>
       <pubDate>Sat, 25 Jan 2025 09:30:10 GMT</pubDate>
     </item>
     <item>
       <title>人工智慧聊天機器人新創公司創始人兼律師妻子被指控詐騙投資者 6000 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</link>
-      <description><![CDATA[遊戲開啟？看起來這個行業的遊戲已經結束了 人工智慧新創公司 GameOn 的聯合創始人兼前執行長陷入了困境。去年，他在陰雲密布的情況下辭去最高職位後，現在與他的妻子一起上了法庭，罪名是涉嫌詐騙他的公司及其投資者超過 6000 萬美元。]]></description>
+      <description><![CDATA[遊戲開始？對於這個行業來說，這更像是遊戲結束了 人工智慧新創公司 GameOn 的聯合創始人兼前執行長陷入了困境。去年，他不無不快地辭去執行長一職，如今，他和妻子一起被告上法庭，罪名是涉嫌詐騙其公司及其投資者 6000 多萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</guid>
       <pubDate>Fri, 24 Jan 2025 23:26:07 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 24 Jan 2025 22:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Fitbit 向山姆大叔支付 1200 萬美元，以擺脫智慧手錶過熱的指控</title>
+      <title>Fitbit 向山姆大叔支付 1200 萬美元，以擺脫智慧手錶炙手可熱的說法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</link>
-      <description><![CDATA[據稱，您的鍛鍊熱身說明並未提及將手腕著火！  在因電池過熱導致人員燒傷而召回一款智能手錶數年後，Fitbit 同意賠償 12.25 美元向美國政府支付了數百萬美元的民事罰款，以解決其知曉風險但未能按照法律要求立即報告的指控。 &#39; --&gt;]]></description>
+      <description><![CDATA[據稱，您的鍛鍊熱身說明並未提及將手腕著火！  在因電池過熱導致人員燒傷而召回一款智能手錶數年後，Fitbit 同意賠償 12.25 美元向美國政府支付了數百萬美元的民事罰款，以解決有關其知曉風險但未能按照法律要求立即報告的指控。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</guid>
       <pubDate>Fri, 24 Jan 2025 22:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>拒絕交換更新嗎？請考慮一下微軟的警告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</link>
-      <description><![CDATA[如果您的Exchange Server 版本“嚴重過時”，緊急緩解措施可能會停止工作 Exchange Server 管理員在累積更新和安全更新方面落後，請注意：微軟已聲明Exchange 緊急緩解服務（EEMS）可能會停止執行「明顯過時」的軟體版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:33:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
