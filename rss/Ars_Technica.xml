@@ -4,23 +4,44 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 27 Jan 2025 22:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 23:11:44 GMT</lastBuildDate>
     <item>
-      <title>FCC 主席幫助網路服務供應商和房東達成租屋者無法逃避的協議</title>
+      <title>新款 FPGA 驅動的復古遊戲機重現了 PlayStation One，CD-ROM 光碟機可選</title>
+      <link>https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/</link>
+      <description><![CDATA[與原廠 PS1 配件搭配使用，並支援其他 MiSTer FPGA 核心。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/</guid>
+      <pubDate>Mon, 27 Jan 2025 23:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>死嬰、重症兒童：兒科醫師呼籲接種疫苗</title>
+      <link>https://arstechnica.com/health/2025/01/dead-babies-critically-ill-kids-pediatricians-make-moving-plea-for-vaccines/</link>
+      <description><![CDATA[“我記得我抱著一個因肺炎球菌性腦膜炎並發症而死去的嬰兒。”]]></description>
+      <guid>https://arstechnica.com/health/2025/01/dead-babies-critically-ill-kids-pediatricians-make-moving-plea-for-vaccines/</guid>
+      <pubDate>Mon, 27 Jan 2025 22:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 iOS 18.3 中，Apple Intelligence 現已預設為啟用</title>
+      <link>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</link>
+      <description><![CDATA[Apple 發布了 iOS、macOS、watchOS 等的軟體更新。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</guid>
+      <pubDate>Mon, 27 Jan 2025 22:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 主席幫助 ISP 和房東達成租屋者無法逃避的交易</title>
       <link>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</link>
       <description><![CDATA[布倫丹·卡爾 (Brendan Carr) 放棄了禁止將租戶鎖定於一個 ISP 的批量計費交易的計劃。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</guid>
       <pubDate>Mon, 27 Jan 2025 21:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年美國風能和太陽能發電量將超過煤炭</title>
+      <title>2024年美國風能和太陽能發電量將超過煤炭</title>
       <link>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</link>
       <description><![CDATA[儘管未來充滿不確定性，公用事業規模的太陽能發電量仍增加了 30% 以上。]]></description>
       <guid>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</guid>
       <pubDate>Mon, 27 Jan 2025 20:57:31 GMT</pubDate>
     </item>
     <item>
-      <title>外星人：地球將把恐怖帶回家</title>
+      <title>異形：地球將把恐怖帶回家</title>
       <link>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</link>
       <description><![CDATA[這部前傳系列故事設定在 1979 年原版電影《異形》事件的幾年之前。]]></description>
       <guid>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</guid>
@@ -41,7 +62,7 @@
       <pubDate>Mon, 27 Jan 2025 18:36:31 GMT</pubDate>
     </item>
     <item>
-      <title>馬自達推出週年紀念車型慶祝 MX-5 誕生 35 週年</title>
+      <title>馬自達推出週年紀念款 MX-5 紀念版</title>
       <link>https://arstechnica.com/cars/2025/01/mazda-celebrates-35-years-of-the-mx-5-with-anniversary-model/</link>
       <description><![CDATA[MX-5 是所有大型 SUV 的完美解藥。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/mazda-celebrates-35-years-of-the-mx-5-with-anniversary-model/</guid>
@@ -50,30 +71,9 @@
     <item>
       <title>中國人工智慧在 App Store 上名列前茅，DeepSeek 恐慌引發科技股拋售</title>
       <link>https://arstechnica.com/ai/2025/01/deepseek-spooks-american-tech-industry-as-it-tops-the-apple-app-store/</link>
-      <description><![CDATA[一款新的中國人工智慧應用正在引發美國人工智慧公司和投資者的生存恐慌。]]></description>
+      <description><![CDATA[中國一款新的人工智慧應用正在引發美國人工智慧公司和投資者的生存恐慌。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/deepseek-spooks-american-tech-industry-as-it-tops-the-apple-app-store/</guid>
       <pubDate>Mon, 27 Jan 2025 16:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著新格倫號火箭的成功飛行，藍色起源或將迎來轉機</title>
-      <link>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</link>
-      <description><![CDATA[“這正是太空時代的開始。”]]></description>
-      <guid>https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/</guid>
-      <pubDate>Mon, 27 Jan 2025 12:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉普首款電動車並不像我們預期的那樣：2024 年 Wagoneer S</title>
-      <link>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</link>
-      <description><![CDATA[阻力優化意味著內部非常安靜，但成本也相當高。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</guid>
-      <pubDate>Mon, 27 Jan 2025 05:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>3D 列印「幽靈槍」戒指來到我的社區——並導致一名男子死亡</title>
-      <link>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</link>
-      <description><![CDATA[3D 列印的槍枝零件在黑市上價值不菲。]]></description>
-      <guid>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</guid>
-      <pubDate>Fri, 24 Jan 2025 23:05:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

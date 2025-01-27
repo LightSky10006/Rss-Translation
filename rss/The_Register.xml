@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 22:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 23:12:11 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
+      <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
+    </item>
     <item>
       <title>美國凍結對外援助 停止向盟友提供網路安全防禦和政策資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</link>
-      <description><![CDATA[美國國務院稱山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有的對外援助資金，以進行全面的政府審查，其中包括用於國防的資金保護美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
+      <description><![CDATA[國務院表示，山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有外國援助現金，以進行全面的政府審查，包括用於保衛的資金美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</guid>
       <pubDate>Mon, 27 Jan 2025 22:16:57 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 不再支援老化架構的 CUDA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
-      <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
+      <description><![CDATA[麥克斯韋、帕斯卡和沃爾特，天啊！但不用擔心，驅動程式支援仍然安全 一系列老化的 Nvidia 顯示卡的末日即將到來，因為在最新版本的 CUDA 中，對多種架構的支援被標記為功能完整這個月運行時....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
@@ -50,21 +57,21 @@
     <item>
       <title>Citrix 計劃取消其技術專業計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>合勤科技防火牆因更新錯誤而中斷，需要現場存取才能修復</title>
+      <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
       <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
       <pubDate>Mon, 27 Jan 2025 15:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧特工？是的，讓我們自動化所有實際上不需要的事情</title>
+      <title>人工智慧代理？是的，讓我們把所有實際上不需要的事情自動化</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</link>
-      <description><![CDATA[OpenAI 的Operator 是尋找問題的解決方案 觀點 “代理時代”，正如Nvidia 的Jim Fan 和其他人所提到的生成式人工智能當前的演化狀態（AI），將會令人非常失望。]]></description>
+      <description><![CDATA[OpenAI 的 Operator 是在尋找問題的解決方案 觀點  Nvidia 的 Jim Fan 等人將生成人工智慧的當前發展狀態稱為「代理時代」 （人工智能），將會是一個巨大的失望。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</guid>
       <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>瑞典扣押一艘貨船，另一條海底電纜疑似遭破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</link>
-      <description><![CDATA[北約在波羅的海地區加強巡邏，等待海軍無人機 瑞典當局「扣押」了一艘船隻——據信是貨船Vezhen——在一條電纜穿過兩地後「涉嫌進行破壞」 1月26日上午，波羅的海的瑞典和拉脫維亞遭受破壞。...]]></description>
+      <description><![CDATA[北約在波羅的海加強巡邏，該地區等待海軍無人機 瑞典當局“扣押”了一艘船隻——據信是貨船Vezhen——“涉嫌進行破壞活動”，此前一條電纜穿過位於波羅的海的瑞典與拉脫維亞兩國船隻於1月26日上午遭到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</guid>
       <pubDate>Mon, 27 Jan 2025 13:25:09 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Mon, 27 Jan 2025 09:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>疲憊的技術人員搞砸了預防性維護，他很快就發現沒有必要</title>
+      <title>疲憊的技術人員搞砸了預防性維護，他很快就意識到不需要</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/who_me/</link>
       <description><![CDATA[如果不是秘密改變計劃的話，這次史詩般的深夜公路旅行將會非常棒 誰，我？ The Register 的讀者投稿專欄，您在其中承認偶爾的失敗，我們為您的逃脫而慶祝。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/who_me/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[El Reg 深入研究中國最新的思維鏈模型 親身體驗 中國人工智慧新創公司DeepSeek 本週推出了一系列法學碩士學位，聲稱它不僅複製了OpenAI 的o1推理能力，但在一系列基準測試中挑戰了美國模型建構者的主導地位。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</guid>
       <pubDate>Sun, 26 Jan 2025 17:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
-      <description><![CDATA[誰會對美國、英國、歐洲、俄羅斯的晶片、製造等如此感興趣… 有人一直在悄悄地為全球關鍵領域的部分瞻博網路路由器安裝後門，包括半導體、能源與製造業，至少從2023 年中期開始。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
-      <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
