@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 26 Jan 2025 19:09:57 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 27 Jan 2025 07:34:46 GMT</lastBuildDate>
+    <item>
+      <title>機器人下一步將進入學校和養老院嗎？這家英國企業希望實現這一目標</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</link>
+      <description><![CDATA[機器人製造商應該跳出人形機器人的思維框架——除非這些製造商是工程藝術 採訪  得益於人工智慧的炒作和展示了像Waymo 這樣的機器人計程車的能力…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</guid>
+      <pubDate>Mon, 27 Jan 2025 07:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>中國的 DeepSeek 剛剛向 OpenAI 的 o1 推出了一款免費挑戰者——以下是如何在 PC 上使用它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</link>
@@ -13,9 +20,9 @@
       <pubDate>Sun, 26 Jan 2025 17:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
+      <title>有人正在將一個隱藏的後門潛入全球範圍內的瞻博網路路由器，該後門由魔法資料包激活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
-      <description><![CDATA[在美國、英國、歐洲、俄羅斯，誰會對晶片、製造等如此感興趣...... 有人已經在全球範圍內的關鍵領域悄悄地對選定的瞻博網路路由器進行了後門處理，包括半導體、能源和製造業，至少從 2023 年中期開始...]]></description>
+      <description><![CDATA[誰會對美國、英國、歐洲、俄羅斯的晶片、製造等如此感興趣… 有人一直在悄悄地為全球關鍵領域的部分瞻博網路路由器安裝後門，包括半導體、能源與製造業，至少從2023 年中期開始。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
       <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 24 Jan 2025 22:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Fitbit 向山姆大叔支付 1200 萬美元，以擺脫智慧手錶過熱的指控</title>
+      <title>Fitbit 向山姆大叔支付 1200 萬美元，以擺脫智慧手錶炙手可熱的說法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</link>
       <description><![CDATA[據稱，您的鍛鍊熱身說明並未提及將手腕著火！  在因電池過熱導致人員燒傷而召回一款智能手錶數年後，Fitbit 同意賠償 12.25 美元向美國政府支付了數百萬美元的民事罰款，以解決其知曉風險但未能按照法律要求立即報告的指控。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>當我們無法再建立更大的 AI 資料中心時會發生什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</link>
-      <description><![CDATA[我們當然將其他小型超級電腦拼接起來，打造出巨型超級電腦 特徵 生成式人工智慧模型不僅在過去兩年中人氣爆棚，而且以驚人的速度發展，需要越來越多的加速器來跟上…]]></description>
+      <description><![CDATA[當然，我們將其他小型超級電腦中的大型超級電腦拼接在一起 功能 生成式AI 模型在過去兩年中不僅人氣爆炸式增長，而且仍在不斷發展以驚人的速度，需要越來越多的加速器才能跟上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</guid>
       <pubDate>Fri, 24 Jan 2025 18:30:11 GMT</pubDate>
     </item>
@@ -97,7 +104,7 @@
       <pubDate>Fri, 24 Jan 2025 15:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司警告稱，罷工、零件價格上漲以及星際客機等事件將帶來更多財務損失</title>
+      <title>波音公司警告稱，罷工、零件價格上漲以及星際客機的停飛將帶來更多財務損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</link>
       <description><![CDATA[災難艙繼續對利潤造成災難性的影響 波音公司警告稱，其利潤將再次受到打擊，至少部分原因是該公司的災難艙 CST-100 星際客機… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/boeing_results_q4/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>WINE 10 仍然不是一個模擬器，但 Windows 應用程式不會知道其中的區別</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</link>
-      <description><![CDATA[新的兩位數年份與各種事物相得益彰 經過32 年的成熟，即使是現在，WINE 也不是模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式...]]></description>
+      <description><![CDATA[新的兩位數復古與各種事物相得益彰 經過32 年的成熟，即使到現在，WINE 也不是一個模擬器，但它可以與它們一起工作，在Arm Linux 上運行Windows 應用程式…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/wine_turns_10/</guid>
       <pubDate>Fri, 24 Jan 2025 11:35:11 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 24 Jan 2025 10:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>用戶說他沒有做任何事情來解釋他的電腦死機了——換一塊新主機板算嗎？</title>
+      <title>用戶說他沒有做任何事情來解釋他的電腦壞了——新主機板算不算？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</link>
       <description><![CDATA[然後建議酒吧裡的一個小伙子也許能幫忙修理它 隨叫隨到  星期五帶來了與親人共度時光的前景。但在我們到達那裡之前，The Register 提供了另一期 On Call，該專欄記錄了全球讀者家庭在技術支援方面遭遇的痛苦經歷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/on_call/</guid>
       <pubDate>Fri, 24 Jan 2025 08:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國及其盟友聲稱成功剷除技術支援網路詐騙奴隸營</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</link>
-      <description><![CDATA[針對緬甸，承諾共享更多資訊以完成工作 由六個亞洲國家成立的一個組織旨在打擊該地區猖獗的網路犯罪奴隸營詐騙，該組織聲稱取得了良好進展拆除操作。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/lancang_mekong_anti_cyberscam_cooperation/</guid>
-      <pubDate>Fri, 24 Jan 2025 05:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
