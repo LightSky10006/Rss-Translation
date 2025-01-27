@@ -4,16 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 26 Jan 2025 03:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 05:36:48 GMT</lastBuildDate>
+    <item>
+      <title>吉普的首款電動車並不像我們預期的那樣：2024 年 Wagoneer S</title>
+      <link>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</link>
+      <description><![CDATA[阻力優化意味著內部非常安靜，但成本也相當高。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/jeeps-first-battery-ev-is-not-what-we-expected-the-2024-wagoneer-s/</guid>
+      <pubDate>Mon, 27 Jan 2025 05:01:09 GMT</pubDate>
+    </item>
     <item>
       <title>3D 列印「幽靈槍」戒指來到我的社區——並導致一名男子死亡</title>
       <link>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</link>
-      <description><![CDATA[3D 列印的槍枝零件在黑市上價值不菲。]]></description>
+      <description><![CDATA[3D列印的槍枝零件在黑市上價值不菲。]]></description>
       <guid>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</guid>
       <pubDate>Fri, 24 Jan 2025 23:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>美國退出日期定於 2026 年 1 月，世衛組織開始削減成本</title>
+      <title>美國退出日期定為 2026 年 1 月，世衛組織開始削減成本</title>
       <link>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</link>
       <description><![CDATA[美國目前是世衛組織最大的資助國，貢獻了該組織預算的約18%。]]></description>
       <guid>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 24 Jan 2025 21:05:38 GMT</pubDate>
     </item>
     <item>
-      <title>夫婦涉嫌欺騙人工智慧投資者資助婚禮、房屋</title>
+      <title>一對夫婦涉嫌欺騙人工智慧投資者資助婚禮和房屋</title>
       <link>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</link>
       <description><![CDATA[FBI 聲稱 GameOn 創辦人明目張膽地偽造了六年的財務記錄。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>複雜性物理學在國際象棋比賽中發現關鍵的臨界點</title>
       <link>https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/</link>
-      <description><![CDATA[物理學家使用交互圖來展示棋子如何進攻和防守，從而分析了 20,000 場頂級比賽。]]></description>
+      <description><![CDATA[物理學家使用交互圖來展示棋子如何攻擊和防禦，以分析 20,000 場最佳比賽。]]></description>
       <guid>https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/</guid>
       <pubDate>Fri, 24 Jan 2025 18:02:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[即使不考慮幀生成，這也是一款速度快、功耗高、售價 2,000 美元的 GPU。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/review-nvidias-geforce-rtx-5090-is-the-first-gpu-that-can-beat-the-rtx-4090/</guid>
       <pubDate>Fri, 24 Jan 2025 16:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員在量子電腦上優化分子模擬</title>
-      <link>https://arstechnica.com/science/2025/01/researchers-optimize-simulations-of-molecules-on-quantum-computers/</link>
-      <description><![CDATA[模擬催化劑等小分子電子的新方法。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/researchers-optimize-simulations-of-molecules-on-quantum-computers/</guid>
-      <pubDate>Fri, 24 Jan 2025 15:51:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
