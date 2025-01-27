@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description></description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:17:18 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 27 Jan 2025 18:42:18 GMT</lastBuildDate>
+    <item>
+      <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
+      <description><![CDATA[VC 夏季機組 2 號和 3 號於 2017 年廢棄，正在尋找買家；業主表示科技業的需求非常契合 2017 年被廢棄的南卡羅來納州一對未完工的核反應器可能會因對 AI 資料中心的供電需求日益增長而獲得新生。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>微軟在 PostgreSQL 上建立開源文檔資料庫，建議使用 FerretDB 作為前端</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_builds_open_source_document/</link>
@@ -13,16 +20,16 @@
       <pubDate>Mon, 27 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 因網路攻擊暫停新註冊</title>
+      <title>DeepSeek 在網路攻擊中限制新帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</link>
-      <description><![CDATA[中國人工智慧新創公司努力應對突然流行的後果 中國的DeepSeek 首次推出了V3 和具有推理能力的R1 LLM 系列，震驚了美國人工智慧製造商，但目前已限制其網路新註冊用戶。]]></description>
+      <description><![CDATA[中國AI 新創公司努力應對突然流行的後果 更新  中國的DeepSeek 憑藉其V3 和具有推理能力的R1 LLM 系列的首次亮相震驚了美國AI 製造商，由於據稱正在發生的網路攻擊，已經限制了其基於網路的模型介面的新註冊人數。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</guid>
       <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>在程式設計師報告“我見過的最複雜的攻擊”後，谷歌採取行動</title>
+      <title>在編碼員報告“我見過的最複雜的攻擊”後，谷歌採取了行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</link>
-      <description><![CDATA[最新的比喻非常狡猾，甚至足以愚弄技術人員......幾乎 Google表示，目前正在加強防禦措施，以防範上週一名程式設計師記錄的複雜帳戶接管騙局。]]></description>
+      <description><![CDATA[最新的比喻非常狡猾，甚至可以愚弄技術人員......幾乎 Google表示，它現在正在加強對程式設計師上週記錄的複雜帳戶接管騙局的防禦。 .....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</guid>
       <pubDate>Mon, 27 Jan 2025 17:01:15 GMT</pubDate>
     </item>
@@ -34,9 +41,9 @@
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
+      <title>合勤防火牆因更新錯誤而中斷，需要現場存取才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
-      <description><![CDATA[盒子陷入啟動循環和各種其他故障 Zyxel 客戶正在處理一系列問題，包括週五更新出錯後的重啟循環。]]></description>
+      <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
       <pubDate>Mon, 27 Jan 2025 15:30:12 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 27 Jan 2025 11:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>微軟倫敦「體驗中心」收拾行李回家</title>
+      <title>微軟倫敦「體驗中心」收拾行裝回家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</link>
       <description><![CDATA[牛津廣場空間在六年後關閉 微軟將關閉其在英國的唯一一家零售店，這距離牛津廣場門市首次向公眾開放還不到六年。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 27 Jan 2025 08:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>機器人下一步將進入學校和養老院嗎？這家英國企業希望實現這一目標</title>
+      <title>接下來是學校、養老院的機器人嗎？這家英國企業希望實現這一目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</link>
       <description><![CDATA[機器人製造商應該跳出人形機器人的思維框架——除非這些製造商是工程藝術 採訪  得益於人工智慧的炒作和展示了像Waymo 這樣的機器人計程車的能力…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/engineered_arts_robots_interview/</guid>
@@ -113,14 +120,14 @@
     <item>
       <title>中國的 DeepSeek 剛剛向 OpenAI 的 o1 推出了一款免費挑戰者——以下是如何在 PC 上使用它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</link>
-      <description><![CDATA[El Reg 深入研究中國最新的思想鏈模型 動手 中國人工智慧新創公司 DeepSeek 本週推出了一系列法學碩士，聲稱不僅複製了 OpenAI 的 o1推理能力，但挑戰了美國模型建構者在一系列基準測試中的主導地位。 /p&gt;]]></description>
+      <description><![CDATA[El Reg 深入研究中國最新的思維鏈模型 親身體驗 中國人工智慧新創公司DeepSeek 本週推出了一系列法學碩士學位，聲稱它不僅複製了OpenAI 的o1推理能力，但在一系列基準測試中挑戰了美國模型建構者的主導地位。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/26/deepseek_r1_ai_cot/</guid>
       <pubDate>Sun, 26 Jan 2025 17:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>有人在全球各地的瞻博網路路由器中植入隱藏後門，透過魔法包激活</title>
+      <title>有人正在將一個隱藏的後門潛入全球範圍內的瞻博網路路由器，該後門由魔法資料包激活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</link>
-      <description><![CDATA[誰會對美國、英國、歐洲、俄羅斯的晶片、製造等如此感興趣… 有人一直在悄悄地為全球關鍵領域的部分瞻博網路路由器安裝後門，包括半導體、能源與製造業，至少從2023 年中期開始。]]></description>
+      <description><![CDATA[在美國、英國、歐洲、俄羅斯，誰會對晶片、製造等如此感興趣...... 有人已經在全球範圍內的關鍵領域悄悄地對選定的瞻博網路路由器進行了後門處理，包括半導體、能源和製造業，至少從 2023 年中期開始...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/25/mysterious_backdoor_juniper_routers/</guid>
       <pubDate>Sat, 25 Jan 2025 11:12:13 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Sat, 25 Jan 2025 09:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>AI 聊天機器人新創公司創始人、律師妻子被指控詐騙投資者 6000 萬美元</title>
+      <title>人工智慧聊天機器人新創公司創始人兼律師妻子被指控詐騙投資者 6000 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</link>
       <description><![CDATA[遊戲開始？對於這個行業來說，這更像是遊戲結束了 人工智慧新創公司 GameOn 的聯合創始人兼前執行長陷入了困境。去年，他不無不快地辭去執行長一職，如今，他和妻子一起被告上法庭，罪名是涉嫌詐騙其公司及其投資者 6000 多萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/ai_startup_founder_wife_indicted/</guid>
       <pubDate>Fri, 24 Jan 2025 23:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>星際之門，星際之門。 Meta 創辦人祖克柏稱，今年我們在人工智慧方面的投入將超過 600 億美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/meta_ai_spending/</link>
-      <description><![CDATA[無法將戲劇性的Llama 排除在這場競賽之外 Meta 首席執行官馬克·扎克伯格週五透露，計劃在2025 年投入高達600 至650 億美元，為其社群媒體購買更多的AI 資源巨型公司——並暗示他打算在未來幾年繼續大肆消費。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/meta_ai_spending/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
