@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 27 Jan 2025 10:39:48 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 27 Jan 2025 11:11:05 GMT</lastBuildDate>
+    <item>
+      <title>微軟倫敦「體驗中心」收拾行裝回家</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</link>
+      <description><![CDATA[牛津廣場空間在六年後關閉 微軟將關閉其在英國的唯一一家零售店，這距離牛津廣場門市首次向公眾開放還不到六年。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:08:19 GMT</pubDate>
+    </item>
     <item>
       <title>英國議會出售農場（和消防站）以資助不斷膨脹的 Oracle 項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/west_sussex_oracle_assets/</link>
@@ -71,19 +78,19 @@
     <item>
       <title>Fitbit 向山姆大叔支付 1200 萬美元，以擺脫智慧手錶過熱的指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</link>
-      <description><![CDATA[據稱，您的鍛鍊熱身說明並未提及將手腕著火！  在因電池過熱導致人員燒傷而召回一款智能手錶數年後，Fitbit 同意賠償 12.25 美元向美國政府支付了數百萬美元的民事罰款，以解決其知曉風險但未能按照法律要求立即報告的指控。 &#39; --&gt;]]></description>
+      <description><![CDATA[據稱，您的鍛鍊熱身說明並未提及將手腕著火！  在因電池過熱導致人員燒傷而召回一款智能手錶數年後，Fitbit 同意賠償 12.25 美元向美國政府支付了數百萬美元的民事罰款，以解決有關其知曉風險但未能按照法律要求立即報告的指控。 html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/fitbit_unreported_battery_issue/</guid>
       <pubDate>Fri, 24 Jan 2025 22:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>拒絕交換更新嗎？請考慮一下微軟的警告</title>
+      <title>拒絕交換更新？認為自己受到了微軟的警告</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</link>
       <description><![CDATA[如果您的Exchange Server 版本“嚴重過時”，緊急緩解措施可能會停止工作 Exchange Server 管理員在累積更新和安全更新方面落後，請注意：微軟已聲明Exchange 緊急緩解服務（EEMS）可能會停止執行「明顯過時」的軟體版本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/microsoft_has_a_warning_for/</guid>
       <pubDate>Fri, 24 Jan 2025 21:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>維修權現況：已取得進展，但關鍵障礙仍存在</title>
+      <title>修復權的現狀：取得了進展，但仍存在主要障礙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</link>
       <description><![CDATA[許多產業仍無法取得示意圖、維修手冊和零件編號 美國公共利益研究小組 (PIRG) 發布了一份關於維修權現狀的報告。好消息是，對於一些小器件來說，事情似乎正在朝著正確的方向發展。壞消息是，進步並不平等，而且有些小玩意兒並沒有任何改進。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/pirg_reports_progress/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>當我們無法再建立更大的 AI 資料中心時會發生什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</link>
-      <description><![CDATA[當然，我們將其他小型超級電腦中的大型超級電腦拼接在一起 功能 生成式AI 模型在過去兩年中不僅人氣爆炸式增長，而且仍在不斷發展以驚人的速度，需要越來越多的加速器才能跟上。]]></description>
+      <description><![CDATA[我們當然將其他小型超級電腦拼接起來，打造出巨型超級電腦 特徵 生成式人工智慧模型不僅在過去兩年中人氣爆棚，而且還在不斷發展以驚人的速度發展，需要越來越多的加速器來跟上…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/build_bigger_ai_datacenters/</guid>
       <pubDate>Fri, 24 Jan 2025 18:30:11 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>北韓開發者改名為“Bane”，被指控涉嫌 IT 工作者欺詐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</link>
-      <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了北韓長期的詐欺行為。工作者計畫——其中包括一名將自己的姓氏改為「Bane」並在舊金山的一家科技公司找到工作的人……]]></description>
+      <description><![CDATA[FBI 警告北韓升級侵略行為，5 人被起訴，另外俄羅斯開發者涉嫌參與其中 美國正在起訴另外 5 名嫌疑人，認為他們參與了朝鮮長期的欺詐行為遠程IT 工作者計畫－其中包括一名將自己的姓氏改為「Bane」並在舊金山的科技公司找到工作的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/north_korean_devs_and_their/</guid>
       <pubDate>Fri, 24 Jan 2025 13:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國大型資料中心獲批，但我們仍不知道誰將入駐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</link>
-      <description><![CDATA[赫特福德郡為比特倉閃電戰做好準備，超大規模資料中心之謎愈發撲朔迷離 昨晚，英國政府批准在赫特福德郡（靠近倫敦M25 軌道高速公路）建立一個大型資料中心，為開始建設鋪平了道路。據稱，最終佔用者將是一家超大規模運營商，但其身份尚未披露。 &gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/24/uk_mega_datacenter_approved/</guid>
-      <pubDate>Fri, 24 Jan 2025 13:01:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
