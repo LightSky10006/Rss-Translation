@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 27 Jan 2025 23:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:57:01 GMT</lastBuildDate>
     <item>
-      <title>新款 FPGA 驅動的復古遊戲機重現了 PlayStation One，CD-ROM 光碟機可選</title>
+      <title>Pebble 創辦人希望為粉絲重新推出電子紙智慧手錶</title>
+      <link>https://arstechnica.com/gadgets/2025/01/pebble-smartwatch-founder-is-launching-a-smaller-scale-open-source-reboot/</link>
+      <description><![CDATA[在 Google 的幫助下，一個專注的團隊想要製造一個可持續發展的手錶。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/pebble-smartwatch-founder-is-launching-a-smaller-scale-open-source-reboot/</guid>
+      <pubDate>Mon, 27 Jan 2025 23:28:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>新型 FPGA 驅動的復古控制台重新創建了 PlayStation，可選 CD-ROM 驅動器</title>
       <link>https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/</link>
       <description><![CDATA[與原廠 PS1 配件搭配使用，並支援其他 MiSTer FPGA 核心。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/new-fpga-powered-retro-console-re-creates-the-playstation-one-cd-rom-drive-optional/</guid>
@@ -22,19 +29,19 @@
     <item>
       <title>在 iOS 18.3 中，Apple Intelligence 現已預設為啟用</title>
       <link>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</link>
-      <description><![CDATA[Apple 發布了 iOS、macOS、watchOS 等的軟體更新。]]></description>
+      <description><![CDATA[Apple 已發布 iOS、macOS、watchOS 等軟體更新。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</guid>
       <pubDate>Mon, 27 Jan 2025 22:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 主席幫助 ISP 和房東達成租屋者無法逃避的交易</title>
+      <title>FCC 主席幫助網路服務供應商和房東達成租屋者無法逃避的協議</title>
       <link>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</link>
       <description><![CDATA[布倫丹·卡爾 (Brendan Carr) 放棄了禁止將租戶鎖定於一個 ISP 的批量計費交易的計劃。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</guid>
       <pubDate>Mon, 27 Jan 2025 21:13:31 GMT</pubDate>
     </item>
     <item>
-      <title>2024年美國風能和太陽能發電量將超過煤炭</title>
+      <title>2024 年美國風能和太陽能發電量將超過煤炭</title>
       <link>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</link>
       <description><![CDATA[儘管未來充滿不確定性，公用事業規模的太陽能發電量仍增加了 30% 以上。]]></description>
       <guid>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>對於放棄 Broadcom 的 VMware 的客戶來說，前路漫漫且代價高昂</title>
       <link>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</link>
-      <description><![CDATA[“我們喜歡 VMware，但是當 Broadcom 收購它時，我們討厭它。”]]></description>
+      <description><![CDATA[“我們喜歡 VMware，但當 Broadcom 收購它們時，我們討厭它們。”]]></description>
       <guid>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</guid>
       <pubDate>Mon, 27 Jan 2025 18:36:31 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[MX-5 是所有大型 SUV 的完美解藥。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/mazda-celebrates-35-years-of-the-mx-5-with-anniversary-model/</guid>
       <pubDate>Mon, 27 Jan 2025 17:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國人工智慧在 App Store 上名列前茅，DeepSeek 恐慌引發科技股拋售</title>
-      <link>https://arstechnica.com/ai/2025/01/deepseek-spooks-american-tech-industry-as-it-tops-the-apple-app-store/</link>
-      <description><![CDATA[中國一款新的人工智慧應用正在引發美國人工智慧公司和投資者的生存恐慌。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/deepseek-spooks-american-tech-industry-as-it-tops-the-apple-app-store/</guid>
-      <pubDate>Mon, 27 Jan 2025 16:29:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
