@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 28 Jan 2025 14:37:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 16:41:19 GMT</lastBuildDate>
+    <item>
+      <title>谷歌對墨西哥灣的關注度</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/</link>
+      <description><![CDATA[“我們將迅速更新美國的谷歌地圖，以顯示麥金利山和美國灣。”]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:41:24 GMT</pubDate>
+    </item>
     <item>
       <title>為何市場對中國 AI 新秀 DeepSeek 如此關注</title>
       <link>https://arstechnica.com/ai/2025/01/why-the-markets-are-freaking-out-about-chinese-ai-newcomer-deepseek/</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 27 Jan 2025 22:37:12 GMT</pubDate>
     </item>
     <item>
-      <title>在 iOS 18.3 中，Apple Intelligence 現已預設為啟用</title>
+      <title>在 iOS 18.3 中，Apple Intelligence 現在預設為開啟</title>
       <link>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</link>
       <description><![CDATA[Apple 已發布 iOS、macOS、watchOS 等軟體更新。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/ios-18-3-disables-controversial-ai-generated-news-app-notifications/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>異形：地球將把恐怖帶回家</title>
       <link>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</link>
-      <description><![CDATA[這部前傳系列故事設定在 1979 年原版電影《異形》事件的幾年之前。]]></description>
+      <description><![CDATA[這部前傳系列故事的背景設定在 1979 年原版電影《異形》的幾年前。]]></description>
       <guid>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</guid>
       <pubDate>Mon, 27 Jan 2025 19:56:22 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[業內人士都在談論川普拯救 TikTok 的計劃。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</guid>
       <pubDate>Mon, 27 Jan 2025 19:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>對於放棄 Broadcom 的 VMware 的客戶來說，前路漫漫且代價高昂</title>
-      <link>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</link>
-      <description><![CDATA[“我們喜歡 VMware，但是當 Broadcom 收購它時，我們討厭它。”]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/01/a-long-costly-road-ahead-for-customers-abandoning-broadcoms-vmware/</guid>
-      <pubDate>Mon, 27 Jan 2025 18:36:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

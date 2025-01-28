@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 15:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 16:41:50 GMT</lastBuildDate>
+    <item>
+      <title>SAP 在非常特殊的情況下延長擺脫舊版軟體的支援期限</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/sap_extends_support_deadline/</link>
+      <description><![CDATA[符合資格的組織可能會獲得2033 年的延期，但不要稱之為U 型轉變 SAP 已確認，對於已簽約的客戶，它將在之前規定的截止日期之後延長對舊系統的支援針對特定的 ERP 雲端轉換交易…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/sap_extends_support_deadline/</guid>
+      <pubDate>Tue, 28 Jan 2025 16:16:07 GMT</pubDate>
+    </item>
     <item>
       <title>雲端市場運作良好…如果你是 AWS 和 Microsoft</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_and_aws_cma_provisional_findings/</link>
@@ -15,12 +22,12 @@
     <item>
       <title>微軟承認 1 月的 Windows 更新損壞了 USB 數位音訊轉換器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</link>
-      <description><![CDATA[在雷德蒙德，沒有人能聽到發燒友的尖叫 Windows 1 月14 日更新中的已知問題列表繼續增長，USB 音頻設備用戶成為最新受影響的問題。]]></description>
+      <description><![CDATA[在雷德蒙德，沒有人能聽到發燒友的尖叫聲 Windows 1 月14 日更新中的已知問題清單繼續增加，USB 音訊設備用戶是最新受到影響的用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</guid>
       <pubDate>Tue, 28 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>儘管遭受攻擊，安全專業人員對抵禦勒索軟體更有信心</title>
+      <title>儘管遭受攻擊，安全專家對抵禦勒索軟體更有信心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</link>
       <description><![CDATA[資料洩露，shmata 洩漏。一切都會好起來的，對吧？勒索軟體攻擊的能力更有信心過去一年的防禦… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Mon, 27 Jan 2025 22:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 不再支援老化架構的 CUDA</title>
+      <title>Nvidia 不贊成對老化架構提供 CUDA 支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
-      <description><![CDATA[麥克斯韋、帕斯卡和沃爾特，天啊！但不用擔心，驅動程式支援仍然安全 一系列老化的 Nvidia 顯示卡的末日即將到來，因為在最新版本的 CUDA 中，對多種架構的支援被標記為功能完整這個月運行時....]]></description>
+      <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[最新的比喻非常狡猾，甚至足以愚弄技術人員......幾乎 Google表示，目前正在加強防禦措施，以防範上週一名程式設計師記錄的複雜帳戶接管騙局。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</guid>
       <pubDate>Mon, 27 Jan 2025 17:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Citrix 計劃取消其技術專業計劃</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
-      <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
