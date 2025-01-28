@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 09:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 10:39:07 GMT</lastBuildDate>
+    <item>
+      <title>英國為何不斷遭受IT供應商的打擊？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</link>
+      <description><![CDATA[科技和商業職能部門需要做好準備，迎接未來的挑戰 英國人喜歡引用一句話：「你是個大人物，但你的身體狀況很糟糕。對我來說，這是一份全職工作。邁克爾凱恩在《復仇者聯盟》中扮演的主角的標誌性台詞概括了科技公司對政府的看法：政府龐大、狀況不佳，並且言出必行……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</guid>
+      <pubDate>Tue, 28 Jan 2025 10:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>啟蒙運動達到 0.27，繼續其安靜執著的旅程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/enlightenment_reaches_027/</link>
@@ -20,16 +27,16 @@
       <pubDate>Tue, 28 Jan 2025 08:17:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧臉部辨識可能會推翻這起謀殺案調查</title>
+      <title>人工智慧臉部辨識可能會使這起謀殺案調查失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</link>
-      <description><![CDATA[警方依靠不可靠的技術來獲取搜查令，省略了細節......因此法官拒絕提供證據 俄亥俄州克利夫蘭的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識獲得搜索令的軟體。]]></description>
+      <description><![CDATA[警方依賴不可靠的技術獲取搜查令，省略了細節......因此法官拒絕接受證據 俄亥俄州克利夫蘭市的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識軟體來取得搜索令。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</guid>
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek 與 OpenAI 的合作尚未結束——圖像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</link>
-      <description><![CDATA[臥虎藏龍，隱藏層 在 DeepSeek 的 R1 LLM 顛覆矽谷僅僅一周後，這家中國公司帶著一個新版本回來了，聲稱已準備好挑戰 OpenAI 的 DALL - E 3.… ]]></description>
+      <description><![CDATA[臥虎藏龍，隱藏層 DeepSeek 的R1 LLM 讓矽谷為之震驚，不到一周後，這家中國公司就帶著新版本回來了，聲稱準備挑戰OpenAI 的DALL - E 3.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</guid>
       <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>Nvidia 不再支援老化架構的 CUDA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
-      <description><![CDATA[麥克斯韋、帕斯卡和沃爾特，天啊！但不用擔心，驅動程式支援仍然安全 一系列老化的 Nvidia 顯示卡的末日即將到來，因為在最新版本的 CUDA 中，對多種架構的支援被標記為功能完整這個月運行時....]]></description>
+      <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>Citrix 計劃取消其技術專業計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[牛津廣場空間在六年後關閉 微軟將關閉其在英國的唯一一家零售店，這距離牛津廣場門市首次向公眾開放還不到六年。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_oxford_circus_closing/</guid>
       <pubDate>Mon, 27 Jan 2025 11:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國議會出售農場（和消防站）以資助不斷膨脹的 Oracle 項目</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/west_sussex_oracle_assets/</link>
-      <description><![CDATA[西薩塞克斯郡眼睜睜地看著價格從260 萬英鎊漲到「天哪」 英國議會將動用高達2500 萬英鎊（3100 萬美元）的資本資產出售資金，例如作為財產來資助基於 Oracle 的轉型項目，該項目的預期成本從 260 萬英鎊飆升至約 4000 萬英鎊（5000 萬美元）。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/west_sussex_oracle_assets/</guid>
-      <pubDate>Mon, 27 Jan 2025 10:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
