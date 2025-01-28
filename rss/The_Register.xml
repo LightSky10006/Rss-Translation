@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 11:10:50 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 28 Jan 2025 12:23:46 GMT</lastBuildDate>
+    <item>
+      <title>40年前，機密太空梭任務預示了挑戰者號的致命缺陷</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</link>
+      <description><![CDATA[發現號上的O 形圈腐蝕將在一年後帶來災難性的影響 自NASA 發射第一個專門的國防部太空梭任務以來已經過去了40 年，此後工程師發現了O 形圈密封缺陷這將導致挑戰者號在一年後遭遇厄運。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</guid>
+      <pubDate>Tue, 28 Jan 2025 11:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 10 即將消亡，但 Linux 永存</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/windows_10_demise_linux/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 28 Jan 2025 11:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼英國總是被IT供應商毆打？</title>
+      <title>英國為何不斷遭受IT供應商的打擊？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</link>
       <description><![CDATA[科技和商業職能部門需要做好準備，迎接未來的挑戰 英國人喜歡引用一句話：「你是個大人物，但你的身體狀況很糟糕。對我來說，這是一份全職工作。邁克爾凱恩在《復仇者聯盟》中扮演的主角的標誌性台詞概括了科技公司對政府的看法：政府龐大、狀況不佳，並且言出必行……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 尚未完成 OpenAI – 影像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
+      <title>DeepSeek 與 OpenAI 的合作尚未結束——圖像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</link>
       <description><![CDATA[臥虎藏龍，隱藏層 DeepSeek 的R1 LLM 讓矽谷為之震驚，不到一周後，這家中國公司就帶著新版本回來了，聲稱準備挑戰OpenAI 的DALL - E 3.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
+      <title>南卡羅來納州廢棄的核反應器將推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
       <description><![CDATA[VC 夏季機組 2 號和 3 號於 2017 年廢棄，正在尋找買家；業主表示科技業的需求非常契合 2017 年被廢棄的南卡羅來納州一對未完工的核反應器可能會因對 AI 資料中心的供電需求日益增長而獲得新生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>Citrix 計劃取消其技術專業計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國人工智慧主導地位不再穩操勝券，科技股暴跌</title>
+      <title>美國人工智慧主導地位不再確定，科技股暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</link>
-      <description><![CDATA[中國新創公司DeepSeek 以極低的成本推出開放式法學碩士，與Meta、OpenAI 競爭 掀起人工智能炒作浪潮的一些美國最大科技品牌的股價今天早上在DeepSeek 的衝擊下崩潰了，一家中國新創公司上週發布了挑戰美國主導地位的法學碩士。]]></description>
+      <description><![CDATA[中國新創公司DeepSeek 推出開放式法學碩士課程，以極低的成本與Meta、OpenAI 競爭 今天早上，一些在人工智慧炒作浪潮中衝上頂峰的美國科技品牌的股價因DeepSeek 而暴跌，一家中國新創公司，上週發布了挑戰美國主導地位的法學碩士學位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</guid>
       <pubDate>Mon, 27 Jan 2025 14:19:09 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 27 Jan 2025 13:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>天文學家將馬斯克的特斯拉跑車誤認為小行星後臉紅了</title>
+      <title>天文學家誤將馬斯克的特斯拉跑車當成小行星 顏面掃地</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</link>
       <description><![CDATA[如果沒有人造物體的中央儲存庫，情況只會變得更糟 科學家們誤將伊隆馬斯克的特斯拉跑車當成了小行星，這一失誤凸顯了追踪近地物體的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</guid>
       <pubDate>Mon, 27 Jan 2025 12:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>CDN：有利於加速互聯網，但不利於位置隱私</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</link>
-      <description><![CDATA[此外，Subaru入口網站洩露用戶詳細資料、Tornado Cash 制裁被推翻、Stark 勒索軟體攻擊等 資訊安全簡報  使用客製化工具，15歲的駭客利用Cloudflare 的內容傳遞網路來估計Signal、Discord 等應用程式使用者的位置。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/cloudflare_cdn_location_data/</guid>
-      <pubDate>Mon, 27 Jan 2025 11:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

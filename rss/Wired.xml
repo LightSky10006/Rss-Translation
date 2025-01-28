@@ -4,16 +4,23 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 28 Jan 2025 11:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 12:23:53 GMT</lastBuildDate>
+    <item>
+      <title>Ninja Crispi 評論：一款巧妙的便攜式氣炸鍋</title>
+      <link>https://www.wired.com/review/ninja-crispi-portable-glass-air-fryer/</link>
+      <description><![CDATA[這款新型 Ninja Crispi 便攜式氣炸鍋可能是聚餐、辦公室午餐以及車尾聚會的最佳解決方案。]]></description>
+      <guid>https://www.wired.com/review/ninja-crispi-portable-glass-air-fryer/</guid>
+      <pubDate>Tue, 28 Jan 2025 12:04:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bookshop.org 開始銷售電子書</title>
       <link>https://www.wired.com/story/bookshop-now-sells-ebooks/</link>
-      <description><![CDATA[該書商正在將其銷售模式（線上購買支援獨立書店）應用於數位圖書。它還發布了一款用於購物和閱讀電子書的行動應用程式。]]></description>
+      <description><![CDATA[該書商正在將其銷售模式（即網上購買支援獨立書店）應用於數位書籍。該公司還發布了一款用於購物和閱讀電子書的行動應用程式。]]></description>
       <guid>https://www.wired.com/story/bookshop-now-sells-ebooks/</guid>
       <pubDate>Tue, 28 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的新人工智慧模式引發美國競爭對手的震驚、敬畏和質疑</title>
+      <title>DeepSeek 的新 AI 模型引起美國競爭對手的震驚、敬畏和質疑</title>
       <link>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</link>
       <description><![CDATA[有些人擔心這家中國新創企業的出色技術表明美國正在失去人工智慧領域的領先地位，但這實際上可能表明一種建立模型的新方法正在獲得關注。]]></description>
       <guid>https://www.wired.com/story/deepseek-executives-reaction-silicon-valley/</guid>
@@ -36,14 +43,14 @@
     <item>
       <title>Wayfair 優惠券和促銷代碼：15% 折扣</title>
       <link>https://www.wired.com/story/wayfair-coupon/</link>
-      <description><![CDATA[使用 Wayfair 促銷代碼可享 10% 折扣，家具最高可享 70% 折扣，還有更多頂級優惠券。]]></description>
+      <description><![CDATA[使用 Wayfair 促銷代碼可享 10% 的折扣，家具高達 70% 的折扣，以及更多頂級優惠券。]]></description>
       <guid>https://www.wired.com/story/wayfair-coupon/</guid>
       <pubDate>Tue, 28 Jan 2025 06:20:00 GMT</pubDate>
     </item>
     <item>
       <title>H&R Block 優惠券和優惠：2025 年報稅服務 15% 折扣</title>
       <link>https://www.wired.com/story/hr-block-coupon/</link>
-      <description><![CDATA[當您在 H&amp;R Block 軟體（或人工，如果您需要的話）的幫助下自行報稅時，您可以獲得 15% 的折扣。]]></description>
+      <description><![CDATA[當您在 H&amp;R Block 軟體（或人工，如果您需要）的幫助下自行報稅時，您可以獲得 15% 的折扣。]]></description>
       <guid>https://www.wired.com/story/hr-block-coupon/</guid>
       <pubDate>Tue, 28 Jan 2025 06:18:00 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Mon, 27 Jan 2025 22:47:18 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的熱門 AI 應用程式明確地將美國數據發送到中國</title>
+      <title>DeepSeek 流行的人工智慧應用程式明確將美國數據發送到中國</title>
       <link>https://www.wired.com/story/deepseek-ai-china-privacy-data/</link>
-      <description><![CDATA[在人們對 TikTok 的擔憂持續不斷之際，中國生成 AI 平台 DeepSeek 表示，它正在將大量美國用戶資料直接發送到其本國，這可能會為其受到更嚴格的審查奠定基礎。]]></description>
+      <description><![CDATA[在人們對 TikTok 的持續擔憂中，中國生成人工智慧平台 DeepSeek 表示，它正在將大量美國用戶資料直接發送到其祖國，這可能為更嚴格的審查奠定基礎。]]></description>
       <guid>https://www.wired.com/story/deepseek-ai-china-privacy-data/</guid>
       <pubDate>Mon, 27 Jan 2025 22:10:34 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>這就是最嚴重的 Slack 漏洞</title>
       <link>https://www.wired.com/story/slack-bug-share-dm-history/</link>
-      <description><![CDATA[Slack 中的一個故障可能會導致您意外地將與某人的所有 DM 歷史記錄發送給其他同事。問我怎麼知道的。]]></description>
+      <description><![CDATA[Slack 中的一個故障可能會導致您與某人的所有 DM 歷史記錄意外發送給其他同事。問我怎麼知道的。]]></description>
       <guid>https://www.wired.com/story/slack-bug-share-dm-history/</guid>
       <pubDate>Mon, 27 Jan 2025 11:30:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[使用我們的絲芙蘭優惠券購買護膚品即可賺取更多積分。]]></description>
       <guid>https://www.wired.com/story/sephora-promo-code/</guid>
       <pubDate>Mon, 27 Jan 2025 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>這款新設計的廚房工具只是一根棍子。那我們為什麼如此痴迷它？</title>
-      <link>https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/</link>
-      <description><![CDATA[用它攪拌、翻轉、烹飪——丹麥廚具工作室重新發明了人類的原始工具。]]></description>
-      <guid>https://www.wired.com/story/this-new-designer-kitchen-tool-is-just-a-stick-so-why-are-we-obsessed-with-it/</guid>
-      <pubDate>Sun, 26 Jan 2025 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
