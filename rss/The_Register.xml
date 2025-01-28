@@ -3,47 +3,54 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 08:40:08 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 28 Jan 2025 09:36:22 GMT</lastBuildDate>
+    <item>
+      <title>啟蒙運動達到 0.27，繼續其安靜執著的旅程</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/enlightenment_reaches_027/</link>
+      <description><![CDATA[對於那些仍在尋找它的人來說，一位長者回歸了 Enlightenment 是Linux 桌面的祖父之一，幾年後，該項目發布了一個閃亮的新版本。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/enlightenment_reaches_027/</guid>
+      <pubDate>Tue, 28 Jan 2025 09:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果修補了 iThings 的安全漏洞，該漏洞已被 iOS 所利用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/apple_cve_2025_24085/</link>
-      <description><![CDATA[庫比蒂諾以零日漏洞開啟新的一年 Apple 已修復其iPhone、iPad、Vision Pro 護目鏡、Apple TV 和macOS Sequoia Mac 核心軟​​體中的一個安全漏洞，並發出警告一些不法分子已經利用了這個錯誤。]]></description>
+      <description><![CDATA[庫比蒂諾以零日漏洞開啟新年 蘋果公司已修補其iPhone、iPad、Vision Pro 護目鏡、Apple TV 和 macOS Sequoia Mac 核心軟​​體中的一個安全漏洞，並發出警告一些惡意者已經利用了這個漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/apple_cve_2025_24085/</guid>
       <pubDate>Tue, 28 Jan 2025 08:17:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧臉部辨識可能會使這起謀殺案調查失敗</title>
+      <title>人工智慧臉部辨識可能會推翻這起謀殺案調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</link>
-      <description><![CDATA[警方依賴不可靠的技術獲取搜查令，省略了細節......因此法官拒絕接受證據 俄亥俄州克利夫蘭市的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識軟體來取得搜索令。]]></description>
+      <description><![CDATA[警方依靠不可靠的技術來獲取搜查令，省略了細節......因此法官拒絕提供證據 俄亥俄州克利夫蘭的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識獲得搜索令的軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</guid>
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek 與 OpenAI 的合作尚未結束——圖像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</link>
-      <description><![CDATA[臥虎藏龍，隱藏層 DeepSeek 的R1 LLM 讓矽谷為之震驚，不到一周後，這家中國公司就帶著新版本回來了，聲稱準備挑戰OpenAI 的DALL - E 3.… ]]></description>
+      <description><![CDATA[臥虎藏龍，隱藏層 在 DeepSeek 的 R1 LLM 顛覆矽谷僅僅一周後，這家中國公司帶著一個新版本回來了，聲稱已準備好挑戰 OpenAI 的 DALL - E 3.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</guid>
       <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
     <item>
       <title>美國凍結對外援助 停止向盟友提供網路安全防禦和政策資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</link>
-      <description><![CDATA[國務院表示，山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有外國援助現金，以進行全面的政府審查，包括用於保衛的資金美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
+      <description><![CDATA[美國國務院稱山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有的對外援助資金，以進行全面的政府審查，其中包括用於國防的資金保護美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</guid>
       <pubDate>Mon, 27 Jan 2025 22:16:57 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 不再支援老化架構的 CUDA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
-      <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
+      <description><![CDATA[麥克斯韋、帕斯卡和沃爾特，天啊！但不用擔心，驅動程式支援仍然安全 一系列老化的 Nvidia 顯示卡的末日即將到來，因為在最新版本的 CUDA 中，對多種架構的支援被標記為功能完整這個月運行時....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>在編碼員報告“我見過的最複雜的攻擊”後，谷歌採取了行動</title>
+      <title>在程式設計師報告“我見過的最複雜的攻擊”後，谷歌採取行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</link>
       <description><![CDATA[最新的比喻非常狡猾，甚至足以愚弄技術人員......幾乎 Google表示，目前正在加強防禦措施，以防範上週一名程式設計師記錄的複雜帳戶接管騙局。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/google_confirms_action_taken_to/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>Citrix 計劃取消其技術專業計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[西薩塞克斯郡眼睜睜地看著價格從260 萬英鎊漲到「天哪」 英國議會將動用高達2500 萬英鎊（3100 萬美元）的資本資產出售資金，例如作為財產來資助基於 Oracle 的轉型項目，該項目的預期成本從 260 萬英鎊飆升至約 4000 萬英鎊（5000 萬美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/west_sussex_oracle_assets/</guid>
       <pubDate>Mon, 27 Jan 2025 10:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大英博物館稱前承包商「關閉」 IT 系統，造成嚴重破壞</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</link>
-      <description><![CDATA[前自由工作者被英國頂級旅遊景點解僱一周後被戴上手銬 大英博物館本週末被迫暫時關閉一些畫廊和展覽，原因是一名心懷不滿的前技術承包商不守規矩，關閉了一些現場IT系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</guid>
-      <pubDate>Mon, 27 Jan 2025 09:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
