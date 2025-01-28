@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 12:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 12:56:04 GMT</lastBuildDate>
+    <item>
+      <title>在運行 Linux 伺服器時，Meta 會阻止 Facebook 上的 Distrowatch 鏈接</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/facebook_blocks_distrowatch/</link>
+      <description><![CDATA[熱門社群網站變得不可提及——諷刺意味十足 Facebook 解除了一項臨時禁令，禁止用戶發布指向熱門作業系統比較網站Distrowatch 的連結——此前，該禁令甚至鎖定了該帳戶該網站的編輯。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/facebook_blocks_distrowatch/</guid>
+      <pubDate>Tue, 28 Jan 2025 12:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>40年前，機密太空梭任務預示了挑戰者號的致命缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>人工智慧臉部辨識可能會使這起謀殺案調查失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</link>
-      <description><![CDATA[警方依賴不可靠的技術獲取搜查令，省略了細節......因此法官拒絕接受證據 俄亥俄州克利夫蘭市的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識軟體來取得搜索令。]]></description>
+      <description><![CDATA[警方依靠不可靠的技術來獲取搜查令，省略了細節......因此法官拒絕提供證據 俄亥俄州克利夫蘭的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識獲得搜索令的軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</guid>
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
+      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>南卡羅來納州廢棄的核反應器將推動人工智慧資料中心的繁榮</title>
+      <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
       <description><![CDATA[VC 夏季機組 2 號和 3 號於 2017 年廢棄，正在尋找買家；業主表示科技業的需求非常契合 2017 年被廢棄的南卡羅來納州一對未完工的核反應器可能會因對 AI 資料中心的供電需求日益增長而獲得新生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>DeepSeek 在網路攻擊中限制新帳戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</link>
-      <description><![CDATA[中國AI 新創公司努力應對突然流行的後果 更新  中國的DeepSeek 憑藉其V3 和具有推理能力的R1 LLM 系列的首次亮相震驚了美國AI 製造商，由於據稱正在發生的網路攻擊，已經限制了其基於網路的模型介面的新註冊人數。]]></description>
+      <description><![CDATA[中國人工智慧新創公司努力應對突然流行的後果 更新 中國的DeepSeek 憑藉其V3 和具有推理能力的R1 LLM 系列的首次亮相震驚了美國人工智慧製造商，由於據稱正在進行的網路攻擊，其基於網路的介面的新註冊人數受到限制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_suspends_new_registrations_amid/</guid>
       <pubDate>Mon, 27 Jan 2025 17:13:48 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>Citrix 計劃取消其技術專業計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</link>
-      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，支持者也削減了開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一項短視的決定，反映了缺乏對未來的願景。]]></description>
+      <description><![CDATA[由於公司專注於“關鍵客戶的優先事項”，倡導者也削減開支 Citrix 正在結束其Citrix Technology Professional (CTP) 計劃，此舉被描述為“一個短視的決定，反映了缺乏對未來的遠見。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/citrix_axes_its_technology_professional/</guid>
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>美國人工智慧主導地位不再確定，科技股暴跌</title>
+      <title>美國人工智慧主導地位不再穩操勝券，科技股暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</link>
       <description><![CDATA[中國新創公司DeepSeek 推出開放式法學碩士課程，以極低的成本與Meta、OpenAI 競爭 今天早上，一些在人工智慧炒作浪潮中衝上頂峰的美國科技品牌的股價因DeepSeek 而暴跌，一家中國新創公司，上週發布了挑戰美國主導地位的法學碩士學位。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</guid>
       <pubDate>Mon, 27 Jan 2025 14:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>瑞典扣押一艘貨船，另一條海底電纜疑似遭破壞</title>
+      <title>另一艘海底電纜涉嫌蓄意破壞後，瑞典扣押了一艘貨船</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</link>
       <description><![CDATA[北約在波羅的海加強巡邏，該地區等待海軍無人機 瑞典當局“扣押”了一艘船隻——據信是貨船Vezhen——“涉嫌進行破壞活動”，此前一條電纜穿過位於波羅的海的瑞典與拉脫維亞兩國船隻於1月26日上午遭到攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sweden_seizes_ship/</guid>
       <pubDate>Mon, 27 Jan 2025 13:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>天文學家誤將馬斯克的特斯拉跑車當成小行星 顏面掃地</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</link>
-      <description><![CDATA[如果沒有人造物體的中央儲存庫，情況只會變得更糟 科學家們誤將伊隆馬斯克的特斯拉跑車當成了小行星，這一失誤凸顯了追踪近地物體的問題。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</guid>
-      <pubDate>Mon, 27 Jan 2025 12:45:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
