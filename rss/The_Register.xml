@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 20:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 21:11:49 GMT</lastBuildDate>
+    <item>
+      <title>你可能比即將上任的白宮資訊長擁有更多的資訊長經驗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/the_us_governments_new_cio/</link>
+      <description><![CDATA[從AI 新創公司CISO 到管理聯邦IT - 當然可以，為什麼不呢？但現在負責監督整個聯邦政府的 IT 營運和策略。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/the_us_governments_new_cio/</guid>
+      <pubDate>Tue, 28 Jan 2025 21:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 推出 ChatGPT 政府版，向山姆大叔獻媚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</link>
@@ -13,16 +20,16 @@
       <pubDate>Tue, 28 Jan 2025 20:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>川普計劃對外國半導體徵收高達100%的關稅，台積電成為瞄準目標</title>
+      <title>川普計劃對外國半導體徵收高達 100% 的關稅，台積電成為目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</link>
-      <description><![CDATA[難怪OpenAI 需要500B 美元用於Stargate 美國總統唐納德·川普週一承諾對電腦晶片徵收25-100% 的關稅，美國人很快就會看到電子產品價格飛漲。]]></description>
+      <description><![CDATA[難怪OpenAI 需要5000 億美元用於星際之門 美國總統唐納德·特朗普週一承諾對電腦晶片徵收25-100% 的進口關稅，美國人可能很快就會看到電子產品價格飆漲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</guid>
       <pubDate>Tue, 28 Jan 2025 19:15:11 GMT</pubDate>
     </item>
     <item>
       <title>DARPA 徵件有關自動洗錢檢測的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</link>
-      <description><![CDATA[隨著人工智慧的炒作不斷，你會認為有人已經破解了這個問題 追蹤和防止洗錢是一個緩慢、耗時的手動過程。 DARPA 希望透過自動化流程為疲憊不堪的分析師提供一些緩解。 ...]]></description>
+      <description><![CDATA[隨著人工智慧的炒作不斷升溫，你會認為有人已經破解了這個問題 追蹤和防止洗錢是一個緩慢、耗時、手動的過程。 DARPA 希望透過自動化流程為疲憊的分析師減輕一些負擔。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</guid>
       <pubDate>Tue, 28 Jan 2025 18:31:09 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 28 Jan 2025 14:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>對未知的恐懼讓 Broadcom 的 VMware 群體陷入困境。不要被嚇倒</title>
+      <title>對未知的恐懼讓 Broadcom 的 VMware 團隊陷入困境。不要被嚇倒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</link>
       <description><![CDATA[戰俘無法透過互相看一眼而逃脫。組成委員會，士兵們 觀點  Broadcom 對 VMware 客戶的攻擊比血庫裡的德古拉還要猖獗，這不得不讓人懷疑。為何徘徊？為什麼流血比逃跑好？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
+      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
       <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國凍結對外援助，停止為盟友提供網路安全防禦和政策資金</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</link>
-      <description><![CDATA[美國國務院稱山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有的對外援助資金，以進行全面的政府審查，其中包括用於國防的資金保護美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</guid>
-      <pubDate>Mon, 27 Jan 2025 22:16:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
