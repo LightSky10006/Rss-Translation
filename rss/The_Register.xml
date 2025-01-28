@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 14:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 15:13:33 GMT</lastBuildDate>
+    <item>
+      <title>微軟承認 1 月的 Windows 更新損壞了 USB 數位音訊轉換器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</link>
+      <description><![CDATA[在雷德蒙德，沒有人能聽到發燒友的尖叫聲 Windows 1 月14 日更新中的已知問題清單繼續增加，USB 音訊設備用戶是最新受到影響的用戶。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</guid>
+      <pubDate>Tue, 28 Jan 2025 14:45:15 GMT</pubDate>
+    </item>
     <item>
       <title>儘管遭受攻擊，安全專家對抵禦勒索軟體更有信心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</link>
@@ -13,9 +20,9 @@
       <pubDate>Tue, 28 Jan 2025 14:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>對未知的恐懼讓 Broadcom 的 VMware 群體陷入困境。不要被嚇倒</title>
+      <title>對未知的恐懼讓 Broadcom 的 VMware 團隊陷入困境。不要被嚇倒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</link>
-      <description><![CDATA[戰俘無法透過互相看一眼而逃脫。組成委員會，士兵們 觀點  Broadcom 對 VMware 客戶的攻擊比血庫裡的德古拉還要猖獗，這不得不讓人懷疑。為何徘徊？為什麼流血比逃跑好？]]></description>
+      <description><![CDATA[貨物的囚犯無法透過互相看著對方來逃脫。組成一個委員會，士兵們 意見 隨著博通對 VMware 客戶的攻擊比血庫中的德古拉還要肆無忌憚，人們不得不懷疑。為什麼要閒晃？為什麼流血比逃跑好？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</guid>
       <pubDate>Tue, 28 Jan 2025 13:15:11 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 28 Jan 2025 12:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>40年前，機密太空梭任務預示了挑戰者號的致命缺陷</title>
+      <title>40年前，機密太空梭任務預示著挑戰者號的致命缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</link>
       <description><![CDATA[發現號上的O 形圈腐蝕將在一年後帶來災難性的影響 自NASA 發射第一個專門的國防部太空梭任務以來已經過去了40 年，此後工程師發現了O 形圈密封缺陷這將導致挑戰者號在一年後遭遇厄運。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</guid>
@@ -69,21 +76,21 @@
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 與 OpenAI 的合作尚未結束——圖像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
+      <title>DeepSeek 尚未完成與 OpenAI 的合作——圖像製作商 Janus Pro 正在瞄準 DALL-E 3</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</link>
-      <description><![CDATA[臥虎藏龍，隱藏層 在 DeepSeek 的 R1 LLM 顛覆矽谷僅僅一周後，這家中國公司帶著一個新版本回來了，聲稱已準備好挑戰 OpenAI 的 DALL - E 3.… ]]></description>
+      <description><![CDATA[臥虎藏龍，隱藏層 DeepSeek 的R1 LLM 讓矽谷為之震驚，不到一周後，這家中國公司就帶著新版本回來了，聲稱準備挑戰OpenAI 的DALL - E 3.… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</guid>
       <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
+      <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
     <item>
-      <title>美國凍結對外援助，停止為盟友提供網路安全防禦和政策資金</title>
+      <title>美國凍結對外援助 停止向盟友提供網路安全防禦和政策資金</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</link>
       <description><![CDATA[美國國務院稱山姆大叔將「不再盲目地發放資金」 美國國務卿馬可·盧比奧已凍結幾乎所有的對外援助資金，以進行全面的政府審查，其中包括用於國防的資金保護美國的盟友免受網路攻擊並指導國際電腦安全政策。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/us_state_department_freezes_cyber_aid/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
       <pubDate>Mon, 27 Jan 2025 15:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧特工？是的，讓我們自動化所有實際上不需要的事情</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</link>
-      <description><![CDATA[OpenAI 的 Operator 是在尋找問題的解決方案 觀點  Nvidia 的 Jim Fan 等人將生成人工智慧的當前發展狀態稱為「代理時代」 （人工智能），將會是一個巨大的失望。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/ai_agents_automate_argument/</guid>
-      <pubDate>Mon, 27 Jan 2025 14:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
