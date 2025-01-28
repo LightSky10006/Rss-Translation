@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 02:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 02:56:10 GMT</lastBuildDate>
     <item>
       <title>人工智慧臉部辨識可能會使這起謀殺案調查失敗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>DeepSeek 的 R1 好奇地告訴 El Reg 讀者：“我的指導方針是由 OpenAI 制定的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</link>
-      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 具有推理能力的開源R1 LLM 系列擁有令人印象深刻的基準測試成績-但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
+      <description><![CDATA[儘管基準測試成績令人印象深刻，但中國製造的法學碩士也存在一些有趣的問題 DeepSeek 的開源推理能力R1 LLM 系列擁有令人印象深刻的基準測試成績- 但其不穩定的回應引發了更多關於這些模型如何接受了培訓，哪些資訊受到了審查…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_r1_identity/</guid>
       <pubDate>Mon, 27 Jan 2025 22:51:55 GMT</pubDate>
     </item>
@@ -34,14 +34,14 @@
       <pubDate>Mon, 27 Jan 2025 22:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 不再支援老化架構的 CUDA</title>
+      <title>Nvidia 不贊成對老化架構提供 CUDA 支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</link>
       <description><![CDATA[麥克斯韋、帕斯卡和伏特，天啊！但不用擔心，驅動程式支援仍然是安全的 一系列老化的 Nvidia 顯示卡即將走到盡頭，因為在其 CUDA 的最新版本中，對幾種架構的支援被標記為功能齊全本月的運行時間。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/nvidia_deprecates_cuda_support/</guid>
       <pubDate>Mon, 27 Jan 2025 19:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>南卡羅來納州廢棄的核反應器將推動人工智慧資料中心的繁榮</title>
+      <title>南卡羅來納州廢棄的核反應爐有望推動人工智慧資料中心的繁榮</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</link>
       <description><![CDATA[VC 夏季機組 2 號和 3 號於 2017 年廢棄，正在尋找買家；業主表示科技業的需求非常契合 2017 年被廢棄的南卡羅來納州一對未完工的核反應器可能會因對 AI 資料中心的供電需求日益增長而獲得新生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/sc_nuclear_reactors_ai/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>微軟在 PostgreSQL 上建立開源文檔資料庫，建議使用 FerretDB 作為前端</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_builds_open_source_document/</link>
-      <description><![CDATA[我們已經不再在堪薩斯了 微軟已經推出了一個基於關係PostgreSQL 後端構建的文檔資料庫平台。 / data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[我們不再在堪薩斯州了 微軟推出了一個基於關係型PostgreSQL 後端構建的文檔資料庫平台。 =&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/microsoft_builds_open_source_document/</guid>
       <pubDate>Mon, 27 Jan 2025 17:45:10 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 27 Jan 2025 16:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>合勤防火牆因更新錯誤而中斷，需要現場存取才能修復</title>
+      <title>Zyxel 防火牆因更新錯誤而癱瘓，需要現場訪問才能修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</link>
       <description><![CDATA[盒子陷入啟動循環並出現各種其他故障 Zyxel 客戶在周五的更新出現問題後遇到了一系列問題，包括重啟循環。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/zyxel_firewall_buggy_update/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>美國人工智慧主導地位不再穩操勝券，科技股暴跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</link>
-      <description><![CDATA[中國新創公司DeepSeek 推出開放式法學碩士課程，以極低的成本與Meta、OpenAI 競爭 今天早上，一些在人工智慧炒作浪潮中衝上頂峰的美國科技品牌的股價因DeepSeek 而暴跌，一家中國新創公司，上週發布了挑戰美國主導地位的法學碩士學位。]]></description>
+      <description><![CDATA[中國新創公司DeepSeek 以極低的成本推出開放式法學碩士，與Meta、OpenAI 競爭 掀起人工智能炒作浪潮的一些美國最大科技品牌的股價今天早上在DeepSeek 的衝擊下崩潰了，一家中國新創公司上週發布了挑戰美國主導地位的法學碩士。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/tech_stocks_tank_as_us/</guid>
       <pubDate>Mon, 27 Jan 2025 14:19:09 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 27 Jan 2025 13:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>天文學家誤將馬斯克的特斯拉跑車當成小行星 顏面掃地</title>
+      <title>天文學家將馬斯克的特斯拉跑車誤認為小行星後臉紅了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</link>
       <description><![CDATA[如果沒有人造物體的中央儲存庫，情況只會變得更糟 科學家們誤將伊隆馬斯克的特斯拉跑車當成了小行星，這一失誤凸顯了追踪近地物體的問題。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/elon_musk_tesla_asteroid/</guid>
@@ -132,7 +132,7 @@
       <pubDate>Mon, 27 Jan 2025 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>大英博物館稱前承包商「關閉」 IT 系統，造成嚴重破壞</title>
+      <title>大英博物館稱前承包商「關閉」IT系統，造成嚴重破壞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</link>
       <description><![CDATA[前自由工作者被英國頂級旅遊景點解僱一周後被戴上手銬 大英博物館本週末被迫暫時關閉一些畫廊和展覽，原因是一名心懷不滿的前技術承包商不守規矩，關閉了一些現場IT系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/contractor_trespass_british_museum/</guid>
