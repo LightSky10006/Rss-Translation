@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 15:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:36:55 GMT</lastBuildDate>
     <item>
-      <title>川普告訴馬斯克「去招募」星際航線太空人</title>
+      <title>為什麼我的 Mitel 手機會受到陌生人的 DDoSing 攻擊？哦，它被捲入了新的 Mirai 殭屍網絡</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</link>
+      <description><![CDATA[現在你不停地給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和回應團隊稱…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</guid>
+      <pubDate>Wed, 29 Jan 2025 15:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>川普告訴馬斯克「去找」星際客機太空人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</link>
-      <description><![CDATA[SpaceX 已經計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？太空界的一些皺眉，他們目前正在享受意想不到的樂趣。]]></description>
+      <description><![CDATA[SpaceX 已經在計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？機組人員，他們目前正在享受意想不到的留在國際太空站（ISS）上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</guid>
       <pubDate>Wed, 29 Jan 2025 14:47:07 GMT</pubDate>
     </item>
     <item>
       <title>只有十分之一的 Oracle Java 用戶希望繼續使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</link>
-      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 於2020 年對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。]]></description>
+      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 14:04:14 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>由於停電導致系統癱瘓，Hyperoptic 客戶陷入黑暗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</link>
-      <description><![CDATA[什麼東西掉下來了就再也爬不起來？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個長週末，由於暴風雨導致公司係統癱瘓，導致一些客戶斷網。]]></description>
+      <description><![CDATA[什麼東西跌倒後就再也站不起來了？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個漫長的周末，該公司的系統在暴風雨後癱瘓，導致一些客戶無法連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</guid>
       <pubDate>Wed, 29 Jan 2025 11:43:13 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>支出監管機構批評英國政府網路彈性建設進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
     </item>
     <item>
-      <title>人工智慧再見，露西：法國對 ChatGPT 的回應因失禮而暫停</title>
+      <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[大量令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
+      <description><![CDATA[大量令人尷尬的答案讓開源話匣子重新接受更多教育 當中國透過最新的DeepSeek 版本展示開源人工智慧模型的競爭力時，法國卻表現出了相反的情況。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
       <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
@@ -113,37 +120,30 @@
     <item>
       <title>OpenAI 推出 ChatGPT 政府版，向山姆大叔獻媚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</link>
-      <description><![CDATA[不要關注頭條新聞背後的 DeepSeek OpenAI 發布了 ChatGPT Gov，這是專門為美國政府使用而定制的產品企業版的變體。]]></description>
+      <description><![CDATA[不要關注頭條新聞背後的 DeepSeek OpenAI 已宣布推出 ChatGPT Gov，這是該產品企業版的一個變體，專為美國政府使用而量身定制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</guid>
       <pubDate>Tue, 28 Jan 2025 20:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>川普計劃對外國半導體徵收高達100%的關稅，台積電成為瞄準目標</title>
+      <title>川普計劃對外國半導體徵收高達 100% 的關稅，台積電成為目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</link>
-      <description><![CDATA[難怪OpenAI 需要500B 美元用於Stargate 美國總統川普週一承諾對電腦晶片徵收25-100% 的進口關稅，美國人很快就會看到電子產品價格飛漲。]]></description>
+      <description><![CDATA[難怪OpenAI 需要5000 億美元用於星際之門 美國總統唐納德·特朗普週一承諾對電腦晶片徵收25-100% 的進口關稅，美國人可能很快就會看到電子產品價格飆漲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</guid>
       <pubDate>Tue, 28 Jan 2025 19:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>DARPA 徵件有關自動洗錢檢測的想法</title>
+      <title>DARPA 徵求有關自動洗錢偵測的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</link>
       <description><![CDATA[隨著人工智慧的炒作不斷升溫，你會認為有人已經破解了這個問題 追蹤和防止洗錢是一個緩慢、耗時、手動的過程。 DARPA 希望透過自動化流程為疲憊的分析師減輕一些負擔。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</guid>
       <pubDate>Tue, 28 Jan 2025 18:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>昨天 DeepSeek 暴跌後，美國人工智慧股重創、重創、堅守</title>
+      <title>昨日 DeepSeek 股價暴跌後，美國人工智慧股票遭受重創，但仍保持穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/us_ai_shares_battered_bruised/</link>
       <description><![CDATA[Nvidia 表示其晶片仍有需求，OpenAI 表示將繼續大量購買，但股價仍在下跌 美國科技股昨日因據稱更有效率的 AI 模型發布而受到衝擊由中國公司DeepSeek開發的療法似乎止住了血，但尚未恢復。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/us_ai_shares_battered_bruised/</guid>
       <pubDate>Tue, 28 Jan 2025 17:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地圖將推出川普批准的德納裡峰和墨西哥灣新標誌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/google_maps_trump_order/</link>
-      <description><![CDATA[官方就是官方 唐納德·J·特朗普上週就任美國總統後，他頒布了一系列行政命令，其中最無力的一項就是“恢復尊重美國偉大的名字” 。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/google_maps_trump_order/</guid>
-      <pubDate>Tue, 28 Jan 2025 17:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
