@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 29 Jan 2025 15:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 16:40:42 GMT</lastBuildDate>
+    <item>
+      <title>評論：Nvidia 999 美元的 GeForce RTX 5080 與 4090 相比令人失望</title>
+      <link>https://arstechnica.com/gadgets/2025/01/nvidia-geforce-rtx-5080-review-more-like-a-4080-super-super/</link>
+      <description><![CDATA[這是一張良好的 4K 卡，從紙面上看，其價值不錯，但不足以進行升級。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/nvidia-geforce-rtx-5080-review-more-like-a-4080-super-super/</guid>
+      <pubDate>Wed, 29 Jan 2025 16:17:52 GMT</pubDate>
+    </item>
     <item>
       <title>氣候變遷為洛杉磯野火埋下了禍根</title>
       <link>https://arstechnica.com/science/2025/01/climate-change-set-the-table-for-los-angeles-wildfires/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>AstroForge 為「高風險、直覺」的小行星任務選定目標</title>
       <link>https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/</link>
-      <description><![CDATA[主要目標是確保奧丁開啟。]]></description>
+      <description><![CDATA[主要目標是確保 Odin 開啟。]]></description>
       <guid>https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/</guid>
       <pubDate>Wed, 29 Jan 2025 14:30:08 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 29 Jan 2025 14:11:23 GMT</pubDate>
     </item>
     <item>
-      <title>串流媒體價格已超過通貨膨脹率，2025 年將持續上漲</title>
+      <title>在已經超過通貨膨脹率後，串流媒體價格將在 2025 年攀升</title>
       <link>https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/</link>
       <description><![CDATA[一月有五項服務開始提高收費。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/</guid>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 29 Jan 2025 00:52:28 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼伊隆馬斯克剛剛說川普想帶兩名被困的太空人回家？</title>
+      <title>為什麼馬斯克剛才說川普想把兩名受困太空人帶回家？</title>
       <link>https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/</link>
-      <description><![CDATA[“我們會這麼做的。”]]></description>
+      <description><![CDATA[“我們會這麼做。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/</guid>
       <pubDate>Tue, 28 Jan 2025 23:52:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[側通道使未經身份驗證的遠端攻擊者能夠獲得他們不該擁有的存取權限。]]></description>
       <guid>https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/</guid>
       <pubDate>Tue, 28 Jan 2025 20:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>參議員泰德·克魯茲試圖封鎖學童的 Wi-Fi 熱點</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/senator-ted-cruz-is-trying-to-block-wi-fi-hotspots-for-schoolchildren/</link>
-      <description><![CDATA[克魯茲：熱點借貸可能會「審查孩子接觸保守觀點」。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/senator-ted-cruz-is-trying-to-block-wi-fi-hotspots-for-schoolchildren/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:23:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
