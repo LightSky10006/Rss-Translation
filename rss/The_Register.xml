@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 11:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:22:55 GMT</lastBuildDate>
+    <item>
+      <title>由於停電導致系統癱瘓，Hyperoptic 客戶陷入黑暗</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</link>
+      <description><![CDATA[什麼東西掉下來了就再也爬不起來？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個長週末，由於暴風雨導致公司係統癱瘓，導致一些客戶斷網。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:43:13 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲最大市議會的 Oracle 財務系統兩年半後仍有問題</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/birmingham_oracle/</link>
-      <description><![CDATA[審計人員發現解決方案設計在 2022 年上線時“尚未完全解決” 歐洲最大地方當局使用的基於 Oracle 的 ERP 系統仍然不“安全且合規”，兩方面因素據外部審計師稱，該系統上線半年後，「實際上削弱了理事會管理和報告財務的能力」。 html&#39;--&gt;]]></description>
+      <description><![CDATA[審計人員發現，解決方案設計在 2022 年上線時「尚未完全解決」 歐洲最大地方當局使用的基於 Oracle 的 ERP 系統仍然不是「安全且合規」的，外部審計員表示，該系統投入使用半年後，「實際上削弱了理事會管理和報告財務的能力」。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/birmingham_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 11:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
+      <title>Ubuntu 升級讓我們的舊 Nvidia GPU 要求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
-      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統- 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
+      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
       <pubDate>Wed, 29 Jan 2025 10:15:11 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>記憶漸漸消退。檔案被燒毀。所有訊號最終都會變成噪音</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</link>
-      <description><![CDATA[但是，哪裡有全面的檔案來保護數位作品，或是讓我們紀念朋友呢？沉重的塑膠桶， ，經檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
+      <description><![CDATA[但是，哪裡有全面的檔案庫來保護數位作品，或是讓我們紀念朋友呢？個沉重的塑膠桶， ，經過檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</guid>
       <pubDate>Wed, 29 Jan 2025 08:30:12 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[一系列令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
+      <description><![CDATA[大量令人尷尬的答案讓開源話匣子重新接受更多教育 當中國透過最新的DeepSeek 版本展示開源人工智慧模型的競爭力時，法國卻表現出了相反的情況。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
       <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>SLAP、Apple 和 FLOP：Safari、Chrome 在 iPhone、Mac、iPad 上有資料被盜風險 Silicon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</link>
-      <description><![CDATA[它是Spectre 的另一個表親，可以讀取您的電子郵件、瀏覽歷史記錄等 許多最新的Apple 筆記型電腦、桌上型電腦、平板電腦和手機均採用庫比蒂諾自主研發的矽處理器，可被用來洩露電子郵件透過對 Chrome 和 Safari 的兩個新發現的側通道攻擊來獲取內容、瀏覽行為和其他敏感資料。]]></description>
+      <description><![CDATA[它是Spectre 的另一個表親，可以讀取你的電子郵件、瀏覽歷史記錄等 許多最近推出的Apple 筆記型電腦、桌上型電腦、平板電腦和手機都採用了庫比蒂諾自主研發的Silicon 處理器，這些處理器都可能被用來洩露電子郵件透過 Chrome 和 Safari 上新發現的兩起旁道攻擊，竊取用戶內容、瀏覽行為和其他敏感資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</guid>
       <pubDate>Wed, 29 Jan 2025 00:26:29 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 28 Jan 2025 20:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>川普計劃對外國半導體徵收高達 100% 的關稅，台積電成為目標</title>
+      <title>川普計劃對外國半導體徵收高達100%的關稅，台積電成為瞄準目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</link>
       <description><![CDATA[難怪OpenAI 需要5000 億美元用於星際之門 美國總統唐納德·特朗普週一承諾對電腦晶片徵收25-100% 的進口關稅，美國人可能很快就會看到電子產品價格飆漲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>SAP 在非常特殊的情況下延長擺脫舊版軟體的支援期限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/sap_extends_support_deadline/</link>
-      <description><![CDATA[符合資格的組織可能會獲得2033 年的延期，但不要稱之為U 型轉變 SAP 已確認，對於已簽約的客戶，它將在之前規定的截止日期之後延長對舊系統的支援針對特定的 ERP 雲端轉換交易。]]></description>
+      <description><![CDATA[符合資格的組織可能會獲得2033 年的延期，但不要稱之為U 型轉變 SAP 已確認，對於已簽約的客戶，它將在之前規定的截止日期之後延長對舊系統的支援針對特定的 ERP 雲端轉換交易…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/sap_extends_support_deadline/</guid>
       <pubDate>Tue, 28 Jan 2025 16:16:07 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>儘管遭受攻擊，安全專家對抵禦勒索軟體更有信心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</link>
-      <description><![CDATA[資料洩露，shmata 洩漏。一切都會好起來的，對吧？勒索軟體攻擊的能力更有信心過去一年的防禦… ]]></description>
+      <description><![CDATA[資料洩露，shmata 洩露。一切都會解決，對嗎？軟體攻擊的能力更有信心了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</guid>
       <pubDate>Tue, 28 Jan 2025 14:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>對未知的恐懼讓 Broadcom 的 VMware 團隊陷入困境。不要被嚇倒</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</link>
-      <description><![CDATA[戰俘無法透過互相看一眼而逃脫。組成委員會，士兵們 觀點  Broadcom 對 VMware 客戶的攻擊比血庫裡的德古拉還要猖獗，這不得不讓人懷疑。為何徘徊？為什麼流血比逃跑好？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</guid>
-      <pubDate>Tue, 28 Jan 2025 13:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
