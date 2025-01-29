@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 12:22:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:55:14 GMT</lastBuildDate>
+    <item>
+      <title>「兄弟，刪除聊天記錄」：感受警方破獲重大網路詐騙集團前不久的恐慌</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</link>
+      <description><![CDATA[主謀懇求合謀者掩蓋後來用來監禁他的證據 在宣布對經營帳戶接管公司 OTP Agency 的三名英國人判刑時，國家犯罪局 (NCA) 透露了 2021 年報告讓詐騙者陷入了恐慌。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>由於停電導致系統癱瘓，Hyperoptic 客戶陷入黑暗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 29 Jan 2025 11:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 升級讓我們的舊 Nvidia GPU 要求降級</title>
+      <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
       <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>微軟在 Dev Home 簽署驅逐通知</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/microsoft_dev_home_discontinued/</link>
-      <description><![CDATA[注定要被拋棄的開發儀表板 微軟正在關閉其不受歡迎的 Dev Home 控制中心，該應用的預覽期還不到兩年。]]></description>
+      <description><![CDATA[開發儀表板注定要放棄 在該應用程式預覽不到兩年後，微軟正在取消其不受歡迎的 Dev Home 控制中心。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/microsoft_dev_home_discontinued/</guid>
       <pubDate>Wed, 29 Jan 2025 09:26:11 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>支出監管機構批評英國政府網路彈性建設進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
     </item>
     <item>
       <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[大量令人尷尬的答案讓開源話匣子重新接受更多教育 當中國透過最新的DeepSeek 版本展示開源人工智慧模型的競爭力時，法國卻表現出了相反的情況。 ...]]></description>
+      <description><![CDATA[大量令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
       <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 28 Jan 2025 20:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>川普計劃對外國半導體徵收高達100%的關稅，台積電成為瞄準目標</title>
+      <title>川普計劃對外國半導體徵收高達 100% 的關稅，台積電成為目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</link>
       <description><![CDATA[難怪OpenAI 需要5000 億美元用於星際之門 美國總統唐納德·特朗普週一承諾對電腦晶片徵收25-100% 的進口關稅，美國人可能很快就會看到電子產品價格飆漲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/trump_tariffs_semiconductors/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>微軟承認 1 月的 Windows 更新損壞了 USB 數位音訊轉換器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</link>
-      <description><![CDATA[在雷德蒙德，沒有人能聽到發燒友的尖叫 Windows 1 月14 日更新中的已知問題列表繼續增長，USB 音頻設備用戶成為最新受影響的問題。]]></description>
+      <description><![CDATA[在雷德蒙德，沒有人能聽到發燒友的尖叫聲 Windows 1 月14 日更新中的已知問題清單繼續增加，USB 音訊設備用戶是最新受到影響的用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/microsoft_admits_to_usb_digital/</guid>
       <pubDate>Tue, 28 Jan 2025 14:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管遭受攻擊，安全專家對抵禦勒索軟體更有信心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</link>
-      <description><![CDATA[資料洩露，shmata 洩露。一切都會解決，對嗎？軟體攻擊的能力更有信心了。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</guid>
-      <pubDate>Tue, 28 Jan 2025 14:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
