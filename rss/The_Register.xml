@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 21:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 22:12:59 GMT</lastBuildDate>
     <item>
       <title>還記得那些討厭的無人機嗎？事實證明，聯邦航空管理局一直在幕後操縱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/</link>
@@ -13,7 +13,7 @@
       <pubDate>Wed, 29 Jan 2025 20:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>研究人員表示，微小的 Linux 核心調整可以將資料中心的能耗減少 30%</title>
+      <title>研究人員稱，Linux 核心的微小調整可將資料中心的耗電量減少 30%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/linux_kernel_tweak/</link>
       <description><![CDATA[對於 30 行程式碼來說還不錯 硬體速度越來越快，但仍然值得定期退後一步並重新審視您的程式碼。您可能只是發現一個小小的調整，就能帶來比您預期更高的效率或額外的吞吐量。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/linux_kernel_tweak/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>Garmin 借鑒 CrowdStrike 的做法，將智慧手錶變成了精美的手鐲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</link>
-      <description><![CDATA[藍屏死亡變成手腕上的藍色死亡三角形 Garmin 經歷了自己的 CrowdStrike 事件，此前該公司智能手錶的用戶抱怨，在看似更新錯誤。 &gt;]]></description>
+      <description><![CDATA[藍屏死機變成手腕上的藍色死亡三角 Garmin 也經歷了自己的 CrowdStrike 事件，該公司智能手錶的用戶抱怨稱，在出現看似更新錯誤……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</guid>
       <pubDate>Wed, 29 Jan 2025 16:20:31 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>只有十分之一的 Oracle Java 用戶希望繼續使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</link>
-      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 於2020 年對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。]]></description>
+      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 14:04:14 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 29 Jan 2025 13:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>「兄弟刪除聊天記錄」：在警方搗毀重大網路詐騙集團之前不久感受到恐慌</title>
+      <title>「兄弟，刪除聊天記錄」：感受警方破獲重大網路詐騙集團前不久的恐慌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</link>
       <description><![CDATA[主謀懇求合謀者掩蓋後來用來監禁他的證據 在宣布對經營帳戶接管公司 OTP Agency 的三名英國人判刑時，國家犯罪局 (NCA) 透露了 2021 年報告讓詐騙者陷入了恐慌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
-      <description><![CDATA[如果您需要舊版驅動程序，您可能希望保留較舊的作業系統版本- 可能會無限期保留 RegFOSS 服務台花了一些時間降級Ubuntu以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
+      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
       <pubDate>Wed, 29 Jan 2025 10:15:11 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>支出監管機構批評英國政府在加強 IT 防禦方面進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>SLAP、Apple 和 FLOP：Safari、Chrome 在 iPhone、Mac、iPad 上有資料被盜風險 Silicon</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</link>
-      <description><![CDATA[它是Spectre 的另一個表親，可以讀取您的電子郵件、瀏覽歷史記錄等 許多最新的Apple 筆記型電腦、桌上型電腦、平板電腦和手機均採用庫比蒂諾自主研發的矽處理器，可被利用來洩露電子郵件透過對 Chrome 和 Safari 的兩個新發現的側通道攻擊來獲取內容、瀏覽行為和其他敏感資料。]]></description>
+      <description><![CDATA[它是Spectre 的另一個表親，可以讀取你的電子郵件、瀏覽歷史記錄等 許多最近推出的Apple 筆記型電腦、桌上型電腦、平板電腦和手機都採用了庫比蒂諾自主研發的Silicon 處理器，這些處理器都可能被用來洩露電子郵件透過 Chrome 和 Safari 上新發現的兩起旁道攻擊，竊取用戶內容、瀏覽行為和其他敏感資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</guid>
       <pubDate>Wed, 29 Jan 2025 00:26:29 GMT</pubDate>
     </item>
     <item>
       <title>法國棍匪徒再次發動勒索軟體攻擊，並製造了一場鬧劇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/</link>
-      <description><![CDATA[極端的大獵物狩獵 Hellcat 是感染施耐德電機並索要125,000 美元法棍的勒索軟體團隊，自2009 年中期出現以來，一直積極針對政府、教育、能源和其他關鍵行業。]]></description>
+      <description><![CDATA[大型遊戲狩獵到了極致 Hellcat 勒索軟體團隊感染了施耐德電氣並索要125,000 美元的長棍麵包，自中期左右出現以來，它一直積極針對政府、教育、能源和其他關鍵業-2024....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/</guid>
       <pubDate>Tue, 28 Jan 2025 22:15:12 GMT</pubDate>
     </item>
