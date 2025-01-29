@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 18:41:46 GMT</lastBuildDate>
+    <item>
+      <title>中國政府不想讓 DeepSeek AI 回答的問題</title>
+      <link>https://arstechnica.com/ai/2025/01/the-questions-the-chinese-government-doesnt-want-deepseek-ai-to-answer/</link>
+      <description><![CDATA[對 1000 多個「敏感提示」的研究發現「脆弱」的保護很容易被越獄]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/the-questions-the-chinese-government-doesnt-want-deepseek-ai-to-answer/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>科學面臨風險：資金暫停帶來的危害比你想像的更大</title>
       <link>https://arstechnica.com/science/2025/01/science-at-risk-the-funding-pause-is-more-damaging-than-you-might-think/</link>
-      <description><![CDATA[有助於推動經濟發展的研究暫時擱置，並可能面臨新的意識形態限制。]]></description>
+      <description><![CDATA[有助於推動經濟發展的研究被擱置，並可能面臨新的意識形態限制。]]></description>
       <guid>https://arstechnica.com/science/2025/01/science-at-risk-the-funding-pause-is-more-damaging-than-you-might-think/</guid>
       <pubDate>Wed, 29 Jan 2025 17:17:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[我們對法學碩士學位進行一系列測試，從創意寫作到複雜的教學。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/how-does-deepseek-r1-really-fare-against-openais-best-reasoning-models/</guid>
       <pubDate>Tue, 28 Jan 2025 22:44:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧反對者建立 tarpit 來誘捕和欺騙忽略 robots.txt 的人工智慧抓取工具</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/</link>
-      <description><![CDATA[攻擊者解釋了反垃圾郵件防禦如何成為人工智慧武器。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:16:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

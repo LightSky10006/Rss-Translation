@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 18:42:25 GMT</lastBuildDate>
+    <item>
+      <title>研究人員表示，微小的 Linux 核心調整可以將資料中心的能耗減少 30%</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/linux_kernel_tweak/</link>
+      <description><![CDATA[對於 30 行程式碼來說還不錯 硬體速度越來越快，但仍然值得定期退後一步並重新審視您的程式碼。您可能只是發現一個小小的調整，就能帶來比您預期更高的效率或額外的吞吐量。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/linux_kernel_tweak/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>資料中心的溫度比以往任何時候都高，我們談論的不是機架溫度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/exploding_datacenter_market/</link>
@@ -34,21 +41,21 @@
       <pubDate>Wed, 29 Jan 2025 15:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>川普告訴馬斯克「去找」星際客機太空人</title>
+      <title>川普告訴馬斯克「去招募」星際航線太空人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</link>
-      <description><![CDATA[SpaceX 已經在計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？機組人員，他們目前正在享受意想不到的留在國際太空站（ISS）上。]]></description>
+      <description><![CDATA[SpaceX 已經計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？太空界的一些皺眉，他們目前正在享受意想不到的樂趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</guid>
       <pubDate>Wed, 29 Jan 2025 14:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>只有十分之一的 Oracle Java 用戶希望繼續使用 Big Red</title>
+      <title>只有十分之一的 Oracle Java 用戶希望繼續使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</link>
       <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 14:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>ASML 趁著陽光大好時大展身手，但川普可能會潑冷水</title>
+      <title>ASML 趁著陽光曬乾草，但川普可能會在遊行中下雨</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/asml_q4_2024/</link>
       <description><![CDATA[儘管中國打擊力道迫在眉睫，但荷蘭企業仍乘著人工智慧熱潮前進 荷蘭科技巨頭ASML 受到2024 年第四季新訂單浪潮的提振，預計其在中國的業務將恢復到更正常的水平在經歷了一段高收入時期之後。然而，川普政府是否會試圖進一步限制其在當地的銷售仍存在不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/asml_q4_2024/</guid>
@@ -76,9 +83,9 @@
       <pubDate>Wed, 29 Jan 2025 11:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
+      <title>Ubuntu 升級讓我們的舊 Nvidia GPU 要求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
-      <description><![CDATA[如果您需要舊版驅動程序，您可能希望保留較舊的作業系統版本- 可能會無限期保留 RegFOSS 服務台花了一些時間降級Ubuntu以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
+      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統- 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
       <pubDate>Wed, 29 Jan 2025 10:15:11 GMT</pubDate>
     </item>
@@ -92,26 +99,26 @@
     <item>
       <title>記憶漸漸消退。檔案被燒毀。所有訊號最終都會變成噪音</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</link>
-      <description><![CDATA[但是，哪裡有全面的檔案庫來保護數位作品，或是讓我們紀念朋友呢？個沉重的塑膠桶， ，經過檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
+      <description><![CDATA[但是，哪裡有全面的檔案來保護數位作品，或是讓我們紀念朋友呢？沉重的塑膠桶， ，經檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</guid>
       <pubDate>Wed, 29 Jan 2025 08:30:12 GMT</pubDate>
     </item>
     <item>
       <title>支出監管機構批評英國政府網路彈性建設進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
     </item>
     <item>
       <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[大量令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
+      <description><![CDATA[一系列令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
       <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔人力資源部門的奇怪故事、匆忙設置的電子郵件伺服器以及對另一場網路災難的擔憂</title>
+      <title>山姆大叔人力資源部的奇怪故事、匆忙設置的電子郵件伺服器以及對另一場網路災難的擔憂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opm_email_lawsuit/</link>
       <description><![CDATA[訴訟挑戰了創建全聯邦集中收件匣的努力，該收件匣預計將用於大規模解僱 兩名匿名美國政府僱員起訴了山姆大叔的人力資源部門—人事管理辦公室，聲稱川普政府的快速推出新的聯邦電子郵件系統違反了法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opm_email_lawsuit/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[從AI 新創公司CISO 到管理聯邦IT - 當然可以，為什麼不呢？但現在負責監督整個聯邦政府的 IT 營運和策略。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/the_us_governments_new_cio/</guid>
       <pubDate>Tue, 28 Jan 2025 21:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 ChatGPT 政府版，向山姆大叔獻媚</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</link>
-      <description><![CDATA[不要關注頭條新聞背後的 DeepSeek OpenAI 已宣布推出 ChatGPT Gov，這是該產品企業版的一個變體，專為美國政府使用而量身定制。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
