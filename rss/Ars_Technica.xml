@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 28 Jan 2025 23:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 00:56:48 GMT</lastBuildDate>
+    <item>
+      <title>為什麼馬斯克剛才說川普想把兩名受困太空人帶回家？</title>
+      <link>https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/</link>
+      <description><![CDATA[“我們會這麼做。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/</guid>
+      <pubDate>Tue, 28 Jan 2025 23:52:23 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek R1 與 OpenAI 最佳推理模型相比究竟如何？</title>
       <link>https://arstechnica.com/ai/2025/01/how-does-deepseek-r1-really-fare-against-openais-best-reasoning-models/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Apple 晶片可能遭駭客攻擊，洩漏 Gmail、iCloud 等機密</title>
       <link>https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/</link>
-      <description><![CDATA[側通道為未經身份驗證的遠端攻擊者提供了他們不應該擁有的存取權限。]]></description>
+      <description><![CDATA[側通道使未經身份驗證的遠端攻擊者能夠獲得他們不該擁有的存取權限。]]></description>
       <guid>https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/</guid>
       <pubDate>Tue, 28 Jan 2025 20:56:32 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>各州表示，由於川普凍結醫療補助資金，他們被排除在醫療補助之外</title>
       <link>https://arstechnica.com/health/2025/01/states-say-theyve-been-shut-out-of-medicaid-amid-trump-funding-freeze/</link>
-      <description><![CDATA[據說凍結資金是為了確保資金符合川普的政治意識形態。]]></description>
+      <description><![CDATA[據稱凍結資金是為了確保資金符合川普的政治意識形態。]]></description>
       <guid>https://arstechnica.com/health/2025/01/states-say-theyve-been-shut-out-of-medicaid-amid-trump-funding-freeze/</guid>
       <pubDate>Tue, 28 Jan 2025 19:56:52 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>一個洩漏秘密的廁所揭示了貝葉掛毯上「失落」的遺址</title>
       <link>https://arstechnica.com/science/2025/01/a-telltale-toilet-reveals-lost-site-shown-in-bayeux-tapestry/</link>
-      <description><![CDATA[英國的一棟房屋很可能是英國最後一位盎格魯撒克遜國王哈羅德二世的失落居所。]]></description>
+      <description><![CDATA[英格蘭的一棟房屋很可能是英格蘭最後一位盎格魯撒克遜國王哈羅德二世的失落住所。]]></description>
       <guid>https://arstechnica.com/science/2025/01/a-telltale-toilet-reveals-lost-site-shown-in-bayeux-tapestry/</guid>
       <pubDate>Tue, 28 Jan 2025 18:56:34 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>谷歌對墨西哥灣的關注度</title>
       <link>https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/</link>
-      <description><![CDATA[“我們將迅速更新美國的谷歌地圖，以顯示麥金利山和美洲灣。”]]></description>
+      <description><![CDATA[“我們將迅速更新美國的谷歌地圖，以顯示麥金利山和美國灣。”]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/</guid>
       <pubDate>Tue, 28 Jan 2025 14:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>為何市場對中國 AI 新秀 DeepSeek 如此關注</title>
-      <link>https://arstechnica.com/ai/2025/01/why-the-markets-are-freaking-out-about-chinese-ai-newcomer-deepseek/</link>
-      <description><![CDATA[英偉達的市值蒸發 6000 億美元，這對賣空者來說是一個重要的日子。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/why-the-markets-are-freaking-out-about-chinese-ai-newcomer-deepseek/</guid>
-      <pubDate>Tue, 28 Jan 2025 14:22:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 28 Jan 2025 23:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 00:57:19 GMT</lastBuildDate>
+    <item>
+      <title>SLAP、Apple 和 FLOP：Safari、Chrome 在 iPhone、Mac、iPad 上有資料被盜風險 Silicon</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</link>
+      <description><![CDATA[它是Spectre 的另一個表親，可以讀取你的電子郵件、瀏覽歷史記錄等 許多最近推出的Apple 筆記型電腦、桌上型電腦、平板電腦和手機都採用了庫比蒂諾自主研發的Silicon 處理器，這些處理器都可能被用來洩露電子郵件透過 Chrome 和 Safari 上新發現的兩起旁道攻擊，竊取用戶內容、瀏覽行為和其他敏感資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</guid>
+      <pubDate>Wed, 29 Jan 2025 00:26:29 GMT</pubDate>
+    </item>
     <item>
       <title>法國棍匪徒再次發動勒索軟體攻擊，並製造了一場鬧劇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>DARPA 徵件有關自動洗錢檢測的想法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</link>
-      <description><![CDATA[隨著人工智慧的炒作不斷，你會認為有人已經破解了這個問題 追蹤和防止洗錢是一個緩慢、耗時的手動過程。 DARPA 希望透過自動化流程為疲憊不堪的分析師提供一些緩解。 ...]]></description>
+      <description><![CDATA[隨著人工智慧的炒作不斷，你可能會認為有人已經破解了這個問題 追蹤和防止洗錢是一個緩慢、耗時的手動過程。 DARPA 希望透過自動化流程為疲憊不堪的分析師提供一些緩解。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/darpa_auto_money_laundering_detection/</guid>
       <pubDate>Tue, 28 Jan 2025 18:31:09 GMT</pubDate>
     </item>
     <item>
       <title>昨日 DeepSeek 股價暴跌後，美國人工智慧股票遭受重創，但仍保持穩定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/us_ai_shares_battered_bruised/</link>
-      <description><![CDATA[Nvidia 表示仍需要其晶片，OpenAI 表示將繼續大量購買它們，但股價仍在下跌 美國科技股昨天因發布據稱更有效率的人工智慧模型而受到震動由中國公司DeepSeek 開發的，似乎已經止血，但尚未恢復。 ...]]></description>
+      <description><![CDATA[Nvidia 表示其晶片仍有需求，OpenAI 表示將繼續大量購買，但股價仍在下跌 美國科技股昨日因據稱更有效率的 AI 模型發布而受到衝擊由中國公司DeepSeek開發的療法似乎止住了血，但尚未恢復。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/us_ai_shares_battered_bruised/</guid>
       <pubDate>Tue, 28 Jan 2025 17:45:11 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>對未知的恐懼讓 Broadcom 的 VMware 團隊陷入困境。不要被嚇倒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</link>
-      <description><![CDATA[貨物的囚犯無法透過互相看著對方來逃脫。組成一個委員會，士兵們 意見 隨著博通對 VMware 客戶的攻擊比血庫中的德古拉還要肆無忌憚，人們不得不懷疑。為什麼要閒晃？為什麼流血比逃跑好？]]></description>
+      <description><![CDATA[戰俘無法透過互相看一眼而逃脫。組成委員會，士兵們 觀點  Broadcom 對 VMware 客戶的攻擊比血庫裡的德古拉還要猖獗，這不得不讓人懷疑。為何徘徊？為什麼流血比逃跑好？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/opinion_column_software_licensing/</guid>
       <pubDate>Tue, 28 Jan 2025 13:15:11 GMT</pubDate>
     </item>
@@ -97,9 +104,9 @@
       <pubDate>Tue, 28 Jan 2025 12:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>40年前，機密太空梭任務預示著挑戰者號的致命缺陷</title>
+      <title>40年前，機密太空梭任務預示了挑戰者號的致命缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</link>
-      <description><![CDATA[發現號上的O 形圈腐蝕將在一年後帶來災難性的影響 自NASA 發射第一個專門的國防部太空梭任務以來已經過去了40 年，此後工程師發現了O 形圈密封缺陷這將導致挑戰者號在一年後遭遇厄運。]]></description>
+      <description><![CDATA[發現號上的O 形圈腐蝕將在一年後造成災難性影響 自NASA 發射第一個專門的國防部太空梭任務以來，已經過去40 年了，在此之後，工程師發現了O 形圈密封缺陷一年後，這將注定挑戰者號的滅亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</guid>
       <pubDate>Tue, 28 Jan 2025 11:45:14 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 28 Jan 2025 11:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>英國為何不斷遭受IT供應商的打擊？</title>
+      <title>為什麼英國總是被IT供應商毆打？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</link>
       <description><![CDATA[科技和商業職能部門需要做好準備，迎接未來的挑戰 英國人喜歡引用一句話：「你是個大人物，但你的身體狀況很糟糕。對我來說，這是一份全職工作。邁克爾凱恩在《復仇者聯盟》中扮演的主角的標誌性台詞概括了科技公司對政府的看法：政府龐大、狀況不佳，並且言出必行……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</guid>
@@ -125,7 +132,7 @@
       <pubDate>Tue, 28 Jan 2025 09:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果修補了 iThings 的安全漏洞，該漏洞已被 iOS 所利用</title>
+      <title>Apple 修正了 iThings 中已在 iOS 中被利用的安全漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/apple_cve_2025_24085/</link>
       <description><![CDATA[庫比蒂諾以零日漏洞開啟新年 蘋果公司已修補其iPhone、iPad、Vision Pro 護目鏡、Apple TV 和 macOS Sequoia Mac 核心軟​​體中的一個安全漏洞，並發出警告一些惡意者已經利用了這個漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/apple_cve_2025_24085/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[警方依賴不可靠的技術獲取搜查令，省略了細節......因此法官放棄了證據 俄亥俄州克利夫蘭市的一起謀殺案可能會失敗，因為該市警方依賴基於人工智慧的臉部辨識軟體來取得搜索令。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/ai_facial_recognition_murder/</guid>
       <pubDate>Tue, 28 Jan 2025 01:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 與 OpenAI 的合作尚未結束——圖像製作者 Janus Pro 正在瞄準 DALL-E 3</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</link>
-      <description><![CDATA[臥虎藏龍，隱藏層 DeepSeek 的R1 LLM 讓矽谷為之震驚，不到一周後，這家中國公司就帶著新版本回來了，聲稱準備挑戰OpenAI 的DALL - E 3.… ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/27/deepseek_image_openai/</guid>
-      <pubDate>Mon, 27 Jan 2025 23:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
