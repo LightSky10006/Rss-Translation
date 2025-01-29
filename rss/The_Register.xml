@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 22:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 22:36:48 GMT</lastBuildDate>
     <item>
-      <title>還記得那些討厭的無人機嗎？事實證明，聯邦航空管理局一直在幕後操縱</title>
+      <title>白宮詢問數百萬政府工作人員是否願意立即捐款</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</link>
+      <description><![CDATA[工會擔心聯邦工作人員清洗和RTO 將引發美國人的混亂 截至2025 年9 月30 日，已有超過200 萬美國聯邦文職僱員被邀請辭職，並承諾為同意辭職的人提供獎勵在 2025 年 2 月 6 日前退出。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</guid>
+      <pubDate>Wed, 29 Jan 2025 22:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>還記得那些討厭的無人機嗎？原來聯邦航空局一直在幕後黑手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/</link>
       <description><![CDATA[喧囂背後的「研究和其他各種原因」—但為什麼一個月前沒有人這麼說呢？最後對去年年底新澤西州發生的神秘無人機目擊事件做出了解釋 - 儘管其含糊不清的聲明引發的問題比解答的還多…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/</guid>
@@ -41,16 +48,16 @@
       <pubDate>Wed, 29 Jan 2025 16:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼我的 Mitel 手機會受到陌生人的 DDoSing 攻擊？哦，它被捲入了新的 Mirai 殭屍網絡</title>
+      <title>為什麼我的 Mitel 手機 DDoSing 是陌生人？哦，它被納入了新的 Mirai 殭屍網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</link>
-      <description><![CDATA[現在你不停地給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和回應團隊稱…]]></description>
+      <description><![CDATA[現在你不停地給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡根據Akamai 的安全情報和回應團隊的說法…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</guid>
       <pubDate>Wed, 29 Jan 2025 15:32:05 GMT</pubDate>
     </item>
     <item>
       <title>川普告訴馬斯克「去招募」星際航線太空人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</link>
-      <description><![CDATA[SpaceX 已經在計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？機組人員，他們目前正在享受意想不到的留在國際太空站（ISS）上。]]></description>
+      <description><![CDATA[SpaceX 已經計劃返回「幾乎被遺棄」的太空人。埃隆忘記了嗎？太空界的一些皺眉，他們目前正在享受意想不到的樂趣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/trump_musk_starliner/</guid>
       <pubDate>Wed, 29 Jan 2025 14:47:07 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 29 Jan 2025 12:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>由於停電導致系統癱瘓，Hyperoptic 客戶陷入黑暗</title>
+      <title>由於停電導致系統癱瘓，遠視客戶陷入黑暗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</link>
       <description><![CDATA[什麼東西掉下來了就再也爬不起來？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個長週末，由於暴風雨導致公司係統癱瘓，導致一些客戶斷網。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
-      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
+      <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統- 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
       <pubDate>Wed, 29 Jan 2025 10:15:11 GMT</pubDate>
     </item>
@@ -106,26 +113,26 @@
     <item>
       <title>記憶漸漸消退。檔案被燒毀。所有訊號最終都會變成噪音</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</link>
-      <description><![CDATA[但是，哪裡有全面的檔案庫來保護數位作品，或是讓我們紀念朋友呢？個沉重的塑膠桶， ，經過檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
+      <description><![CDATA[但是，哪裡有全面的檔案來保護數位作品，或是讓我們紀念朋友呢？沉重的塑膠桶， ，經檢查，我發現其中印刷包含了我一生的工作成果。它們充滿了文章、雜誌、書籍和書籍章節。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opinion_column_better_digital_archives_needed/</guid>
       <pubDate>Wed, 29 Jan 2025 08:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>支出監管機構批評英國政府在加強 IT 防禦方面進展緩慢</title>
+      <title>支出監管機構抨擊英國政府在加強 IT 防禦方面進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
     </item>
     <item>
       <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[大量令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
+      <description><![CDATA[一系列令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
       <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>山姆大叔人力資源部的奇怪故事、匆忙設置的電子郵件伺服器以及對另一場網路災難的擔憂</title>
+      <title>山姆大叔人力資源部門的奇特故事、匆忙設置的電子郵件伺服器以及對另一場網路災難的擔憂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opm_email_lawsuit/</link>
       <description><![CDATA[訴訟挑戰了創建全聯邦集中收件匣的努力，該收件匣預計將用於大規模解僱 兩名匿名美國政府僱員起訴了山姆大叔的人力資源部門—人事管理辦公室，聲稱川普政府的快速推出新的聯邦電子郵件系統違反了法律。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/opm_email_lawsuit/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[它是Spectre 的另一個表親，可以讀取你的電子郵件、瀏覽歷史記錄等 許多最近推出的Apple 筆記型電腦、桌上型電腦、平板電腦和手機都採用了庫比蒂諾自主研發的Silicon 處理器，這些處理器都可能被用來洩露電子郵件透過 Chrome 和 Safari 上新發現的兩起旁道攻擊，竊取用戶內容、瀏覽行為和其他敏感資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/flop_and_slap_attacks_apple_silicon/</guid>
       <pubDate>Wed, 29 Jan 2025 00:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>法國棍匪徒再次發動勒索軟體攻擊，並製造了一場鬧劇</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/</link>
-      <description><![CDATA[大型遊戲狩獵到了極致 Hellcat 勒索軟體團隊感染了施耐德電氣並索要125,000 美元的長棍麵包，自中期左右出現以來，它一直積極針對政府、教育、能源和其他關鍵業-2024....]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/baguettes_bandits_strike_again/</guid>
-      <pubDate>Tue, 28 Jan 2025 22:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
