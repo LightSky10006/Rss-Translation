@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 07:12:01 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 29 Jan 2025 07:34:59 GMT</lastBuildDate>
+    <item>
+      <title>支出監管機構批評英國政府網路彈性建設進展緩慢</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，而支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這一目標。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
+      <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>再見，露西：法國對 ChatGPT 的回應因失禮行為過度而暫停</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 28 Jan 2025 21:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 與山姆大叔合作推出 ChatGPT 政府版</title>
+      <title>OpenAI 推出 ChatGPT 政府版，向山姆大叔獻媚</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</link>
       <description><![CDATA[不要關注頭條新聞背後的 DeepSeek OpenAI 已宣布推出 ChatGPT Gov，這是該產品企業版的一個變體，專為美國政府使用而量身定制。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/openai_us_government/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 28 Jan 2025 17:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌地圖將推出川普批准的德納裡峰和墨西哥灣新標誌</title>
+      <title>谷歌地圖將推出川普批准的麥金利峰和墨西哥灣品牌重塑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/google_maps_trump_order/</link>
       <description><![CDATA[官方就是官方 唐納德·J·特朗普上週就任美國總統後，他頒布了一系列行政命令，其中最無力的一項就是“恢復尊重美國偉大的名字” 。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/google_maps_trump_order/</guid>
@@ -97,9 +104,9 @@
       <pubDate>Tue, 28 Jan 2025 14:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>儘管遭受攻擊，安全專業人員對抵禦勒索軟體更有信心</title>
+      <title>儘管遭受攻擊，安全專家對抵禦勒索軟體更有信心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</link>
-      <description><![CDATA[資料洩露，shmata 洩露。一切都會解決，對嗎？軟體攻擊的能力更有信心了。]]></description>
+      <description><![CDATA[資料洩露，shmata 洩漏。一切都會好起來的，對吧？勒索軟體攻擊的能力更有信心過去一年的防禦… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/research_security_pros_gain_ransomware/</guid>
       <pubDate>Tue, 28 Jan 2025 14:02:44 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>在運行 Linux 伺服器時，Meta 會阻止 Facebook 上的 Distrowatch 鏈接</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/facebook_blocks_distrowatch/</link>
-      <description><![CDATA[熱門社群網站變得不可提及——諷刺意味十足 Facebook 解除了一項臨時禁令，禁止用戶發布指向熱門作業系統比較網站Distrowatch 的連結——此前，該禁令甚至鎖定了該帳戶該網站的編輯。]]></description>
+      <description><![CDATA[流行的社群網站變得不可提及 - 諷刺的程度足以編譯 Facebook 取消了一項臨時禁令，禁止用戶發布流行作業系統比較網站 Distrowatch 的連結 - 甚至鎖定了帳戶該網站的編輯。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/facebook_blocks_distrowatch/</guid>
       <pubDate>Tue, 28 Jan 2025 12:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>40年前，機密太空梭任務預示著挑戰者號的致命缺陷</title>
+      <title>40年前，機密太空梭任務預示了挑戰者號的致命缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</link>
-      <description><![CDATA[發現號上的O 形圈腐蝕將在一年後帶來災難性的影響 自NASA 發射第一個專門的國防部太空梭任務以來已經過去了40 年，此後工程師發現了O 形圈密封缺陷這將導致挑戰者號在一年後遭遇厄運。]]></description>
+      <description><![CDATA[發現號上的O 形圈腐蝕將在一年後造成災難性影響 自NASA 發射第一個專門的國防部太空梭任務以來，已經過去40 年了，在此之後，工程師發現了O 形圈密封缺陷一年後，這將注定挑戰者號的滅亡。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/nasa_discovery_dod_mission/</guid>
       <pubDate>Tue, 28 Jan 2025 11:45:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[科技和商業職能部門需要做好準備，迎接未來的挑戰 英國人喜歡引用一句話：「你是個大人物，但你的身體狀況很糟糕。對我來說，這是一份全職工作。邁克爾凱恩在《復仇者聯盟》中扮演的主角的標誌性台詞概括了科技公司對政府的看法：政府龐大、狀況不佳，並且言出必行……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/uk_govt_it_suppliers/</guid>
       <pubDate>Tue, 28 Jan 2025 10:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>啟蒙運動達到 0.27，繼續其安靜執著的旅程</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/28/enlightenment_reaches_027/</link>
-      <description><![CDATA[對於那些仍在尋找它的人來說，一位長者回歸了 Enlightenment 是Linux 桌面的祖父之一，幾年後，該項目發布了一個閃亮的新版本。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/28/enlightenment_reaches_027/</guid>
-      <pubDate>Tue, 28 Jan 2025 09:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
