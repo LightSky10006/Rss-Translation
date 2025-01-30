@@ -4,18 +4,25 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 30 Jan 2025 03:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 08:15:49 GMT</lastBuildDate>
     <item>
-      <title>DeepSeek並不是OpenAI和朋友們唯一需要擔心的中國LLM廠商。對吧，阿里巴巴？</title>
+      <title>現在來點有趣的變化：貝努小行星樣本中的生命組成要素</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</link>
+      <description><![CDATA[根據科學家報告，這是一塊有6500 萬年曆史的太空岩石，其中充滿了氨基酸、DNA 鹼基等 科學家分析了小行星貝努的樣本，發現了一些不同尋常的東西：儘管它很冷，大約 6500 萬年前形成的無生命瓦礫堆，其中含有豐富的有機分子——生命的關鍵成分。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</guid>
+      <pubDate>Thu, 30 Jan 2025 07:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek 並不是 OpenAI 及其合作夥伴唯一擔心的中國法學碩士創作者。對吧，阿里巴巴？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</link>
       <description><![CDATA[雲巨頭聲稱 Qwen 2.5 Max 在 DS V3 和 GPT-4o 中均名列前茅 分析  DeepSeek 聲稱訓練大型語言模型 (LLM) 的速度和效率與美國最優秀的企業競爭對於矽谷來說是一個現實考驗。然而，這家新創公司並不是唯一一家讓美國擔心的中國模型製造商…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</guid>
       <pubDate>Thu, 30 Jan 2025 03:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>Wacom 表示，騙子可能從其線上結帳平台盜取了客戶信用卡</title>
+      <title>Wacom 稱，騙子可能從其線上結帳中盜取了客戶的信用卡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</link>
-      <description><![CDATA[數位畫布騙子表示.com 資訊被盜用已有一個多月 圖形輸入板製造商Wacom 已警告客戶，他們的信用卡資訊很可能在他們從其網站購買商品時被不法分子竊取。]]></description>
+      <description><![CDATA[數位畫布投擲器表明.com 已被竊取一個多月 繪圖板製造商Wacom 警告客戶，他們的信用卡詳細信息很可能在他們從其網站購買商品時被不法分子竊取。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</guid>
       <pubDate>Thu, 30 Jan 2025 01:11:06 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 29 Jan 2025 22:44:15 GMT</pubDate>
     </item>
     <item>
-      <title>白宮詢問數百萬政府工作人員是否願意立即捐款</title>
+      <title>白宮詢問數百萬政府工作人員是否願意立即分叉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</link>
       <description><![CDATA[工會擔心聯邦工作人員清洗和RTO 將引發美國人的混亂 截至2025 年9 月30 日，已有超過200 萬美國聯邦文職僱員被邀請辭職，並承諾為同意辭職的人提供獎勵在 2025 年 2 月 6 日前退出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 29 Jan 2025 17:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>Garmin 借鑒 CrowdStrike 的做法，將智慧手錶變成了精美的手鐲</title>
+      <title>Garmin推出CrowdStrike，將智慧手錶變成精美手環</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</link>
       <description><![CDATA[藍屏死機變成手腕上的藍色死亡三角 Garmin 也經歷了自己的 CrowdStrike 事件，該公司智能手錶的用戶抱怨稱，在出現看似更新錯誤……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>為什麼我的 Mitel 手機會受到陌生人的 DDoSing 攻擊？哦，它被捲入了新的 Mirai 殭屍網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</link>
-      <description><![CDATA[現在你不會停止給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和響應團隊稱。]]></description>
+      <description><![CDATA[現在你不停地給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和回應團隊稱…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</guid>
       <pubDate>Wed, 29 Jan 2025 15:32:05 GMT</pubDate>
     </item>
@@ -97,16 +104,16 @@
       <pubDate>Wed, 29 Jan 2025 14:47:07 GMT</pubDate>
     </item>
     <item>
-      <title>只有十分之一的 Oracle Java 用戶希望繼續使用</title>
+      <title>只有十分之一的 Oracle Java 用戶希望繼續使用 Big Red</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</link>
-      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 於2020 年對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。]]></description>
+      <description><![CDATA[調查發現，2023 年每位員工的許可轉變將帶來持續影響 在Big Red 對其開發和運行時環境進行昂貴的許可變更後，只有大約十分之一的Oracle Java 客戶可能會繼續使用2023 年 1 月，根據研究。 … ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/only_one_in_ten_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 14:04:14 GMT</pubDate>
     </item>
     <item>
       <title>ASML 趁著陽光大好時大展身手，但川普可能會潑冷水</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/asml_q4_2024/</link>
-      <description><![CDATA[儘管中國打擊力道迫在眉睫，但荷蘭企業仍乘著人工智慧熱潮前進 荷蘭科技巨頭ASML 受到2024 年第四季新訂單浪潮的提振，預計其在中國的業務將恢復到更正常的水平在經歷了一段高收入時期之後。然而，川普政府是否會試圖進一步限制其在當地的銷售仍存在不確定性。]]></description>
+      <description><![CDATA[儘管中國打擊力道迫在眉睫，荷蘭企業仍乘著人工智慧熱潮 荷蘭科技巨頭ASML 受到2024 年第四季一波新訂單的提振，預計其在中國的業務將恢復到更正常的水平在經歷了一段高收入時期之後。然而，川普政府是否可能試圖進一步限制其在那裡的銷售存在不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/asml_q4_2024/</guid>
       <pubDate>Wed, 29 Jan 2025 13:54:48 GMT</pubDate>
     </item>
@@ -120,30 +127,23 @@
     <item>
       <title>由於停電導致系統癱瘓，Hyperoptic 客戶陷入黑暗</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</link>
-      <description><![CDATA[什麼東西掉下來了就再也爬不起來？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個長週末，由於暴風雨導致公司係統癱瘓，導致一些客戶斷網。]]></description>
+      <description><![CDATA[什麼東西跌倒後就再也站不起來了？格拉斯哥的全光纖寬頻 英國寬頻供應商 Hyperoptic 度過了一個漫長的周末，該公司的系統在暴風雨後癱瘓，導致一些客戶無法連線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/hyperoptic_outage_scotland/</guid>
       <pubDate>Wed, 29 Jan 2025 11:43:13 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲最大市議會的 Oracle 財務系統兩年半後仍有問題</title>
+      <title>2.5 年後，歐洲最大市議會的 Oracle 財務系統仍有不足</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/birmingham_oracle/</link>
       <description><![CDATA[審計人員發現，解決方案設計在 2022 年上線時「尚未完全解決」 歐洲最大地方當局使用的基於 Oracle 的 ERP 系統仍然不是「安全且合規」的，外部審計員表示，該系統投入使用半年後，「實際上削弱了理事會管理和報告財務的能力」。 -&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/birmingham_oracle/</guid>
       <pubDate>Wed, 29 Jan 2025 11:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 升級讓我們的舊 Nvidia GPU 要求降級</title>
+      <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
       <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
       <pubDate>Wed, 29 Jan 2025 10:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟在 Dev Home 簽署驅逐通知</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/microsoft_dev_home_discontinued/</link>
-      <description><![CDATA[注定要被拋棄的開發儀表板 微軟正在關閉其不受歡迎的 Dev Home 控制中心，該應用的預覽期還不到兩年。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/microsoft_dev_home_discontinued/</guid>
-      <pubDate>Wed, 29 Jan 2025 09:26:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
