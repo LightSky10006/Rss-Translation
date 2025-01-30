@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 30 Jan 2025 18:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 19:09:24 GMT</lastBuildDate>
     <item>
-      <title>微軟現託管被指抄襲 OpenAI 資料的 AI 模型</title>
+      <title>OpenAI 預告美國人工智慧「新時代」將加深與政府的聯繫</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/openai-partners-with-national-labs-to-supercharge-scientific-breakthroughs/</link>
+      <description><![CDATA[該公司表示，人工智慧可以幫助保護國家安全、檢測疾病和穩定電網。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/openai-partners-with-national-labs-to-supercharge-scientific-breakthroughs/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我同意 OpenAI 的觀點：未經許可，不得使用他人的作品</title>
+      <link>https://arstechnica.com/ai/2025/01/i-agree-with-openai-you-shouldnt-use-other-peoples-work-without-permission/</link>
+      <description><![CDATA[專欄：OpenAI 稱 DeepSeek 不當使用其數據。那一定很令人沮喪！]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/i-agree-with-openai-you-shouldnt-use-other-peoples-work-without-permission/</guid>
+      <pubDate>Thu, 30 Jan 2025 17:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟現在託管被指控複製 OpenAI 資料的 AI 模型</title>
       <link>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</link>
       <description><![CDATA[OpenAI 最大的投資者現在出售被指控違反 OpenAI 條款的「R1」模式的存取權。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</guid>
@@ -27,9 +41,9 @@
       <pubDate>Thu, 30 Jan 2025 14:59:21 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉 2024 年財務表現出爐，結果很糟糕</title>
+      <title>特斯拉 2024 年財務表現出爐－業績慘淡</title>
       <link>https://arstechnica.com/cars/2025/01/teslas-2024-financial-results-are-out-and-theyre-terrible/</link>
-      <description><![CDATA[其40%的利潤來自於出售監管信用。]]></description>
+      <description><![CDATA[其 40% 的利潤來自銷售監管信貸。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/teslas-2024-financial-results-are-out-and-theyre-terrible/</guid>
       <pubDate>Thu, 30 Jan 2025 13:18:11 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Wed, 29 Jan 2025 22:27:46 GMT</pubDate>
     </item>
     <item>
-      <title>計劃已久的兩名宇航員從太空返回現在成為一個政治問題</title>
+      <title>兩位太空人從太空返回的長期計劃現在成為一個政治問題</title>
       <link>https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/</link>
       <description><![CDATA[由於很多原因，這一切都相當瘋狂。]]></description>
       <guid>https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/</guid>
       <pubDate>Wed, 29 Jan 2025 21:29:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普抄襲馬斯克「岔路口」推特備忘錄，削減政府工作人員</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/copying-musk-trump-admin-offers-federal-workers-buyouts-to-resign/</link>
-      <description><![CDATA[Reddit 上的聯邦工作人員批評人事管理辦公室的電子郵件目光短淺。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/copying-musk-trump-admin-offers-federal-workers-buyouts-to-resign/</guid>
-      <pubDate>Wed, 29 Jan 2025 19:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過兩天的抗議後，川普政府撤銷了有爭議的資金凍結</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/trump-admin-rescinds-controversial-funding-freeze-after-two-days-of-protest/</link>
-      <description><![CDATA[儘管出現逆轉，但 420 億美元的寬頻計劃仍可能暫停。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/trump-admin-rescinds-controversial-funding-freeze-after-two-days-of-protest/</guid>
-      <pubDate>Wed, 29 Jan 2025 19:01:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
