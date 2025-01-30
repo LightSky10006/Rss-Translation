@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 30 Jan 2025 21:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 22:11:41 GMT</lastBuildDate>
+    <item>
+      <title>VMware 修復 Cloud Foundation 中的竊取我的憑證漏洞</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</link>
+      <description><![CDATA[考慮盡快修補，因為網路犯罪分子喜歡攻擊Broadcom 虛擬化巨頭的易受攻擊的工具 Broadcom 已修復VMware 的IT 運營和Cloud Foundation 中的日誌管理工具中的五個漏洞，統稱為“高嚴重性”，包括兩個資訊外洩漏洞，在某些情況下可能導致憑證外洩。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</guid>
+      <pubDate>Thu, 30 Jan 2025 22:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>還有什麼地方比洛斯阿拉莫斯國家實驗室更適合注入 OpenAI 的 o1 呢？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/</link>
@@ -20,9 +27,9 @@
       <pubDate>Thu, 30 Jan 2025 19:25:15 GMT</pubDate>
     </item>
     <item>
-      <title>HPE 14B 美元收購瞻博網路遭遇司法部障礙</title>
+      <title>HPE 價值 14B 美元的 Juniper 收購案撞上了司法部的障礙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</link>
-      <description><![CDATA[官員認為，合併將扼殺競爭，提高無線區域網路價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業斥資140 億美元收購瞻博網路。 &gt;]]></description>
+      <description><![CDATA[官員認為，合併將扼殺競爭，提高無線區域網路價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業以140 億美元收購瞻博網路。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</guid>
       <pubDate>Thu, 30 Jan 2025 18:21:03 GMT</pubDate>
     </item>
@@ -34,23 +41,23 @@
       <pubDate>Thu, 30 Jan 2025 18:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>微軟將 DeepSeek R1 引進 Azure AI Foundry 和 GitHub</title>
+      <title>微軟將 DeepSeek R1 推入 Azure AI Foundry，GitHub</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</link>
       <description><![CDATA[Copilot+ PC 的精簡版本也即將推出 – 太棒了！ ！  微軟已將開源 DeepSeek R1 LLM 添加到 Azure AI Foundry 和 GitHub，這表明即使是笨拙的科技巨頭也可以在需要的時候要靈活。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</guid>
       <pubDate>Thu, 30 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 激起了整個科技界的好奇和懷疑</title>
+      <title>DeepSeek 引起科技界的好奇與懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</link>
-      <description><![CDATA[中國的人工智慧顛覆者以未經證實的說法讓產業觀察者感到不安 在 GenAI 忙碌的一周裡，科技業正在權衡最新闖入者對法學碩士領域的影響。中國的DeepSeek 週一震驚股市，將昔日人工智慧金童Nvidia 的市值削減了6000 億美元。 &gt; ]]></description>
+      <description><![CDATA[中國AI 顛覆者發表未經證實的言論，令行業觀察家感到震驚 對於GenAI 來說，這是忙碌的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</guid>
       <pubDate>Thu, 30 Jan 2025 16:15:16 GMT</pubDate>
     </item>
     <item>
       <title>即使是 Windows 10 也無法擺脫新版 Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</link>
-      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
+      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說，這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</guid>
       <pubDate>Thu, 30 Jan 2025 15:32:08 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 30 Jan 2025 14:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>隨著行業對 DeepSeek 的反應，微軟談論人工智慧領域的“重大資本投資”</title>
+      <title>微軟表示將在人工智慧領域進行「重大資本投資」以應對產業對 DeepSeek 的反應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</link>
       <description><![CDATA[Windows 供應商發布了更多豐厚的財務業績，但市場對此不以為然 微軟最新的盈利結果超出預期，但首席執行官Satya Nadella 和首席財務官Amy Hood 的評論表明，人工智慧和執行方面存在動盪，同時雲端運算需求也有減弱的跡象…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 30 Jan 2025 11:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>在家辦公還能保留隱私嗎？ 85% 的英國老闆會窺探員工的隱私</title>
+      <title>在家辦公有隱私嗎？ 85% 的英國老闆窺探員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/</link>
       <description><![CDATA[雇主仍然對監控對員工的影響一無所知/故意無知 超過四分之三的英國雇主承認使用某種形式的監控技術來監視其遠端工作人員的工作效率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>現在來點有趣的變化：貝努小行星樣本中的生命組成要素</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</link>
-      <description><![CDATA[根據科學家報告，這是一塊有6500 萬年曆史的太空岩石，其中充滿了氨基酸、DNA 鹼基等 科學家分析了小行星貝努的樣本，發現了一些不同尋常的東西：儘管它很冷，大約 6500 萬年前形成的無生命瓦礫堆，其中含有豐富的有機分子——生命的關鍵成分。]]></description>
+      <description><![CDATA[研究人員報告說，這是一塊6500 萬年前的太空岩石，裡面充滿了氨基酸、DNA 鹼基等 科學家們在分析小行星Bennu 的樣本時發現了一些非凡的東西：儘管它很冷，大約 6500 萬年前形成的毫無生命的瓦礫堆，其中蘊藏著豐富的有機分子——生命的關鍵成分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</guid>
       <pubDate>Thu, 30 Jan 2025 07:34:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Wacom 稱，騙子可能從其線上結帳中盜取了客戶的信用卡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</link>
-      <description><![CDATA[數位畫布騙子表示.com 資訊被盜用已有一個多月 圖形輸入板製造商Wacom 已警告客戶，當他們從其網站購買商品時，他們的信用卡資訊可能已被不法分子竊取。]]></description>
+      <description><![CDATA[數位畫布騙子表示.com 資訊被盜用已有一個多月 圖形輸入板製造商Wacom 已警告客戶，他們的信用卡資訊很可能在他們從其網站購買商品時被不法分子竊取。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</guid>
       <pubDate>Thu, 30 Jan 2025 01:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>猜猜是誰開放了資料庫，暴露了聊天記錄、API 密鑰等等？是的，DeepSeek</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_database_left_open/</link>
-      <description><![CDATA[哦，有人在DeepShi...... 中國的人工智慧公司DeepSeek 可能已經開發出具有競爭力、成本效益的生成模型，但其網路安全能力則是另一回事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_database_left_open/</guid>
-      <pubDate>Thu, 30 Jan 2025 00:31:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
