@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 30 Jan 2025 18:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 18:41:47 GMT</lastBuildDate>
+    <item>
+      <title>HPE 斥資 140 億美元收購 Juniper 遭遇司法部阻撓</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</link>
+      <description><![CDATA[官員認為，合併會扼殺競爭，抬高無線LAN 價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業(Hewlett Packard Enterprise) 以140 億美元收購瞻博網絡(Juniper Networks)。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>前海軍上將稱川普政府對美國網路諮詢委員會的清洗是“愚蠢的”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</link>
+      <description><![CDATA[「在調查墜機事故的過程中，沒有人被踢出國家運輸安全委員會」 訪談  在網路安全審查委員會調查中國「鹽颱風」如何破壞美國網路安全時，該委員會遭到解散美國海軍退役少將馬克·蒙哥馬利認為，對政府和電信網路進行攻擊是“愚蠢的”，並且“不利於國家安全”。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>微軟將 DeepSeek R1 引進 Azure AI Foundry 和 GitHub</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</link>
@@ -13,16 +27,16 @@
       <pubDate>Thu, 30 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 引發科技界的好奇與懷疑</title>
+      <title>DeepSeek 引起科技界的好奇與懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</link>
-      <description><![CDATA[中國AI 顛覆者以未經證實的言論震驚行業觀察者 對於GenAI 來說，這是一個繁忙的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM ) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
+      <description><![CDATA[中國AI 顛覆者發表未經證實的言論，令行業觀察家感到震驚 對於GenAI 來說，這是忙碌的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</guid>
       <pubDate>Thu, 30 Jan 2025 16:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>即使是 Windows 10 也無法逃脫新的 Outlook</title>
+      <title>即使是 Windows 10 也無法擺脫新版 Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</link>
-      <description><![CDATA[微軟解決了 DAC 問題，並解決了針對 Windows 10 的新 Outlook 威脅 對於 Windows 用戶來說，消息好壞參半。微軟已經發布了一個補丁，聲稱修復了 DAC 問題。對於某些用戶來說，壞消息是新的 Outlook for Windows 應用程式已登陸 Windows 10。]]></description>
+      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</guid>
       <pubDate>Thu, 30 Jan 2025 15:32:08 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 30 Jan 2025 14:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>隨著行業對 DeepSeek 的反應，微軟談論人工智慧領域的“重大資本投資”</title>
+      <title>微軟表示將在人工智慧領域進行「重大資本投資」以應對產業對 DeepSeek 的反應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</link>
       <description><![CDATA[Windows 供應商發布了更多豐厚的財務業績，但市場對此不以為然 微軟最新的盈利結果超出預期，但首席執行官Satya Nadella 和首席財務官Amy Hood 的評論表明，人工智慧和執行方面存在動盪，同時雲端運算需求也有減弱的跡象…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</guid>
@@ -64,7 +78,7 @@
     <item>
       <title>一種好的無序：科學家透過擾亂偶極子來增強電容器技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/engineered_materials_to_boost_capacitor/</link>
-      <description><![CDATA[這項突破最終可能會影響智慧型手機和行動運算 根據《自然》雜誌發表的一項研究，一種新的材料工程方法有望克服智慧型手機、顯示器和電動車中常用電容器的限制…]]></description>
+      <description><![CDATA[突破可能最終影響智慧型手機和行動運算 根據《自然》雜誌發表的一項研究，一種新的材料工程方法有望克服智慧型手機、顯示器和電動車中常用電容器的局限性...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/engineered_materials_to_boost_capacitor/</guid>
       <pubDate>Thu, 30 Jan 2025 11:03:12 GMT</pubDate>
     </item>
@@ -97,7 +111,7 @@
       <pubDate>Thu, 30 Jan 2025 07:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek並不是OpenAI和朋友們唯一需要擔心的中國LLM廠商。對吧，阿里巴巴？</title>
+      <title>DeepSeek 並不是 OpenAI 及其合作夥伴唯一擔心的中國法學碩士創作者。對吧，阿里巴巴？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</link>
       <description><![CDATA[雲巨頭聲稱 Qwen 2.5 Max 在 DS V3 和 GPT-4o 中均名列前茅 分析  DeepSeek 聲稱訓練大型語言模型 (LLM) 的速度和效率與美國最優秀的企業競爭對於矽谷來說是一個現實考驗。然而，這家新創公司並不是唯一一家讓美國擔心的中國模型製造商…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[微軟支持的新創公司現在估值54 億美元 核融合能源新創公司Helion 尚未證明其可以發電，但這並沒有阻止投資者向該企業投入另外4.25 億美元。 &lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/helion_funding/</guid>
       <pubDate>Wed, 29 Jan 2025 22:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宮詢問數百萬政府工作人員是否願意立即捐款</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</link>
-      <description><![CDATA[工會擔心聯邦工作人員清洗和RTO 會給美國人帶來混亂 截至2025 年9 月30 日，已邀請超過200 萬美國聯邦文職僱員辭職，並承諾對那些同意辭職的人提供獎勵在 2025 年 2 月 6 日之前退出。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</guid>
-      <pubDate>Wed, 29 Jan 2025 22:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>還記得那些討厭的無人機嗎？事實證明，聯邦航空管理局一直在幕後操縱</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/</link>
-      <description><![CDATA[喧囂背後的「研究和其他各種原因」—但為什麼一個月前沒有人這麼說呢？最後對去年年底新澤西州發生的神秘無人機目擊事件做出了解釋 - 儘管其含糊不清的聲明引發的問題比解答的還多…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/white_house_explains_drone_sighting/</guid>
-      <pubDate>Wed, 29 Jan 2025 20:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
