@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 30 Jan 2025 22:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 23:12:59 GMT</lastBuildDate>
+    <item>
+      <title>想要在你的 Surface 中使用英特爾嗎？微軟稱，這將額外增加 400 美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</link>
+      <description><![CDATA[這不禁讓你懷疑，Windows-on-Arm 到底有多糟糕？  如果企業希望購買搭載英特爾最新一代 Core Ultra 處理器的 Surface Pro 平板電腦或筆記型電腦，預計需要支付與微軟現有的基於Arm 的產品相比至少要高出400 美元…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</guid>
+      <pubDate>Thu, 30 Jan 2025 22:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>VMware 修復 Cloud Foundation 中的竊取我的憑證漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>還有什麼地方比洛斯阿拉莫斯國家實驗室更適合注入 OpenAI 的 o1 呢？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/</link>
-      <description><![CDATA[對抗疾病，蜱蟲。高能物理，勾。核子安全，也打勾 OpenAI 宣布與山姆大叔達成另一項協議，這次將其最新模型交到美國政府科學家手中。包括虛擬=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[對抗疾病，蜱蟲。高能物理，勾。核安也打勾 OpenAI 宣布與山姆大叔達成另一項協議，這次將其最新模型交到從事核安全等工作的美國政府科學家手中。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/</guid>
       <pubDate>Thu, 30 Jan 2025 21:15:11 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>微軟將 DeepSeek R1 引進 Azure AI Foundry 和 GitHub</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</link>
-      <description><![CDATA[Copilot+ PC 的精煉版本也即將推出 – 太棒了！ ！  微軟已將開源 DeepSeek R1 LLM 添加到 Azure AI Foundry 和 GitHub，這表明即使是笨拙的科技巨頭也可以需要時要靈活。]]></description>
+      <description><![CDATA[Copilot+ PC 的精簡版本也即將推出 – 太棒了！ ！  微軟已將開源 DeepSeek R1 LLM 添加到 Azure AI Foundry 和 GitHub，這表明即使是笨拙的科技巨頭也可以在需要的時候要靈活。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</guid>
       <pubDate>Thu, 30 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek 引起科技界的好奇與懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</link>
-      <description><![CDATA[中國AI 顛覆者發表未經證實的言論，令行業觀察家感到震驚 對於GenAI 來說，這是忙碌的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
+      <description><![CDATA[中國的人工智慧顛覆者以未經證實的說法讓產業觀察者感到不安 在 GenAI 忙碌的一周裡，科技業正在權衡最新闖入者對法學碩士領域的影響。中國的DeepSeek 週一震驚股市，將昔日人工智慧金童Nvidia 的市值削減了6000 億美元。 &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</guid>
       <pubDate>Thu, 30 Jan 2025 16:15:16 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Thu, 30 Jan 2025 14:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>紐約血液服務提供者遭受勒索軟體攻擊——捐血者在短缺危機期間被拒之門外</title>
+      <title>紐約血液服務供應商遭遇勒索軟體攻擊——血液短缺危機期間捐血者被拒之門外</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/ransomware_attack_at_new_york/</link>
       <description><![CDATA[15 個州的 400 家醫院和醫療中心依賴其產品 紐約血液中心企業 (NYBCe) 目前已處理導致系統中斷的勒索軟體攻擊，已進入第五天。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/ransomware_attack_at_new_york/</guid>
@@ -78,12 +85,12 @@
     <item>
       <title>微軟表示將在人工智慧領域進行「重大資本投資」以應對產業對 DeepSeek 的反應</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</link>
-      <description><![CDATA[Windows 供應商公佈了更多豐碩的財務數據，但市場聳聳肩 微軟最新的盈利結果超出了預期，但首席執行官薩蒂亞·納德拉(Satya Nadella)和財務長艾米·胡德(Amy Hood) 的評論表明人工智慧和執行方面出現動盪，同時還有雲端需求減弱的跡象...]]></description>
+      <description><![CDATA[Windows 供應商發布了更多豐厚的財務業績，但市場對此不以為然 微軟最新的盈利結果超出預期，但首席執行官Satya Nadella 和首席財務官Amy Hood 的評論表明，人工智慧和執行方面存在動盪，同時雲端運算需求也有減弱的跡象…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</guid>
       <pubDate>Thu, 30 Jan 2025 13:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>沃達豐計畫從今年稍後開始提供衛星到電話的連接</title>
+      <title>沃達豐計劃於今年稍後開始提供衛星到手機的連接</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vodafone_aims_to_offer_satellitetophone/</link>
       <description><![CDATA[太空5G 應該能夠覆蓋農村地區的普通智慧型手機 沃達豐聲稱，它已經使用衛星連接和標準4G/5G 智慧型手機進行了首次移動視訊通話，並表示其目標是提供商業直接今年稍後將開始在歐洲提供蜂窩衛星服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vodafone_aims_to_offer_satellitetophone/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 30 Jan 2025 12:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>一種好的無序：科學家透過擾亂偶極子來增強電容器技術</title>
+      <title>一種很好的混亂：科學家透過幹擾偶極子來提升電容器技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/engineered_materials_to_boost_capacitor/</link>
       <description><![CDATA[這項突破最終可能會影響智慧型手機和行動運算 根據《自然》雜誌發表的一項研究，一種新的材料工程方法有望克服智慧型手機、顯示器和電動車中常用電容器的限制…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/engineered_materials_to_boost_capacitor/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>現在來點有趣的變化：貝努小行星樣本中的生命組成要素</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</link>
-      <description><![CDATA[根據科學家報告，這是一塊有6500 萬年曆史的太空岩石，其中充滿了氨基酸、DNA 鹼基等 科學家分析了小行星貝努的樣本，發現了一些不同尋常的東西：儘管它很冷，大約 6500 萬年前形成的無生命瓦礫堆，其中含有豐富的有機分子——生命的關鍵成分。]]></description>
+      <description><![CDATA[研究人員報告說，這是一塊6500 萬年前的太空岩石，裡面充滿了氨基酸、DNA 鹼基等 科學家們在分析小行星Bennu 的樣本時發現了一些非凡的東西：儘管它很冷，大約 6500 萬年前形成的毫無生命的瓦礫堆，其中蘊藏著豐富的有機分子——生命的關鍵成分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</guid>
       <pubDate>Thu, 30 Jan 2025 07:34:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[雲巨頭聲稱 Qwen 2.5 Max 在 DS V3 和 GPT-4o 中均名列前茅 分析  DeepSeek 聲稱訓練大型語言模型 (LLM) 的速度和效率與美國最優秀的企業競爭對於矽谷來說是一個現實考驗。然而，這家新創公司並不是唯一一家讓美國擔心的中國模型製造商…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</guid>
       <pubDate>Thu, 30 Jan 2025 03:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wacom 稱，騙子可能從其線上結帳中盜取了客戶的信用卡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</link>
-      <description><![CDATA[數位畫布騙子表示.com 資訊被盜用已有一個多月 圖形輸入板製造商Wacom 已警告客戶，當他們從其網站購買商品時，他們的信用卡資訊可能已被不法分子竊取。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/wacom_data_loss/</guid>
-      <pubDate>Thu, 30 Jan 2025 01:11:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
