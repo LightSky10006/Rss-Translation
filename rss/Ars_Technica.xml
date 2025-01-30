@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 30 Jan 2025 15:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 17:10:54 GMT</lastBuildDate>
+    <item>
+      <title>微軟在其 AI 託管服務中擁抱 OpenAI 競爭對手 DeepSeek</title>
+      <link>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</link>
+      <description><![CDATA[OpenAI 最大的投資者現在出售被指控違反 OpenAI 條款的「R1」模式的存取權。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</guid>
+      <pubDate>Thu, 30 Jan 2025 16:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟更新了基於英特爾的 Surface PC，但一般人仍然買不到</title>
+      <link>https://arstechnica.com/gadgets/2025/01/microsoft-updates-intel-based-surface-pcs-but-regular-people-still-cant-buy-them/</link>
+      <description><![CDATA[企業通常使用仍需要 x86 才能正常運作的硬體和軟體。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/microsoft-updates-intel-based-surface-pcs-but-regular-people-still-cant-buy-them/</guid>
+      <pubDate>Thu, 30 Jan 2025 15:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>貝努小行星樣本揭示水的歷史和生命的關鍵分子</title>
+      <link>https://arstechnica.com/science/2025/01/bennu-asteroid-samples-yield-watery-history-key-molecules-for-life/</link>
+      <description><![CDATA[關於地球生命構成要素如何被播種的線索。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/bennu-asteroid-samples-yield-watery-history-key-molecules-for-life/</guid>
+      <pubDate>Thu, 30 Jan 2025 14:59:21 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉 2024 年財務表現出爐－業績慘淡</title>
       <link>https://arstechnica.com/cars/2025/01/teslas-2024-financial-results-are-out-and-theyre-terrible/</link>
-      <description><![CDATA[其 40% 的利潤來自銷售監管信貸。]]></description>
+      <description><![CDATA[其40%的利潤來自於出售監管信用。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/teslas-2024-financial-results-are-out-and-theyre-terrible/</guid>
       <pubDate>Thu, 30 Jan 2025 13:18:11 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[儘管出現逆轉，但 420 億美元的寬頻計劃仍可能暫停。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trump-admin-rescinds-controversial-funding-freeze-after-two-days-of-protest/</guid>
       <pubDate>Wed, 29 Jan 2025 19:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>這款受螳螂蝦啟發的機械手臂可以敲碎雞蛋</title>
-      <link>https://arstechnica.com/science/2025/01/this-mantis-shrimp-inspired-robotic-arm-can-crack-an-egg/</link>
-      <description><![CDATA[只需拉動簡單的肌肉，裝置就可以像手一樣抓握、在地板上爬行或跳得很高。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/this-mantis-shrimp-inspired-robotic-arm-can-crack-an-egg/</guid>
-      <pubDate>Wed, 29 Jan 2025 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼取消了 4 款單人 Steam 遊戲的 PlayStation 帳戶要求</title>
-      <link>https://arstechnica.com/gaming/2025/01/sony-removes-playstation-account-requirement-from-4-single-player-steam-games/</link>
-      <description><![CDATA[即使要求消失了，遊戲中的物品仍然能夠提供激勵。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/sony-removes-playstation-account-requirement-from-4-single-player-steam-games/</guid>
-      <pubDate>Wed, 29 Jan 2025 18:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GOG 改進了「Dreamlist」功能，以便更好地從發行商挖走舊遊戲</title>
-      <link>https://arstechnica.com/gaming/2025/01/gog-wants-your-dreamlist-classic-games-so-it-can-use-them-to-prod-publishers/</link>
-      <description><![CDATA[社群需求在 Capcom 批准《Dino Crisis》遊戲的過程中發揮了重要作用。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/gog-wants-your-dreamlist-classic-games-so-it-can-use-them-to-prod-publishers/</guid>
-      <pubDate>Wed, 29 Jan 2025 18:32:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
