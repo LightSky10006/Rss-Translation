@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 29 Jan 2025 23:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:56:39 GMT</lastBuildDate>
     <item>
-      <title>Lazarus Group 複製開源專案以植入後門、竊取憑證</title>
+      <title>猜猜是誰開放了資料庫，暴露了聊天記錄、API 密鑰等等？是的，DeepSeek</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_database_left_open/</link>
+      <description><![CDATA[哦，有人在DeepShi...... 中國的人工智慧公司DeepSeek 可能已經開發出具有競爭力、成本效益的生成模型，但其網路安全能力則是另一回事。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_database_left_open/</guid>
+      <pubDate>Thu, 30 Jan 2025 00:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>北韓克隆開源計畫以植入後門、竊取憑證</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/lazarus_groups_supply_chain_attack/</link>
-      <description><![CDATA[竊取加密貨幣已經到了2024 年了。損害了全球數百名受害者，該攻擊是根據安全研究人員的說法，截至本月早些時候正在進行中。 ... ]]></description>
+      <description><![CDATA[竊取加密貨幣是2024 年的事。全球數百名受害者的利益，該攻擊據安全研究人員稱，截至本月初，該問題仍在繼續。 &#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/lazarus_groups_supply_chain_attack/</guid>
       <pubDate>Wed, 29 Jan 2025 23:29:05 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>白宮詢問數百萬政府工作人員是否願意立即捐款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</link>
-      <description><![CDATA[工會擔心聯邦工作人員清洗和RTO 會給美國人帶來混亂 截至2025 年9 月30 日，已邀請超過200 萬美國聯邦文職僱員辭職，並承諾對那些同意辭職的人提供獎勵在 2025 年 2 月 6 日之前退出。]]></description>
+      <description><![CDATA[工會擔心聯邦工作人員清洗和RTO 將引發美國人的混亂 截至2025 年9 月30 日，已有超過200 萬美國聯邦文職僱員被邀請辭職，並承諾為同意辭職的人提供獎勵在 2025 年 2 月 6 日前退出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/us_government_workers_resign_deal/</guid>
       <pubDate>Wed, 29 Jan 2025 22:11:37 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>資料中心的溫度比以往任何時候都高，我們談論的不是機架溫度</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/exploding_datacenter_market/</link>
-      <description><![CDATA[市場爆炸性成長導致 2024 年併購活動達到 73B 美元 Synergy Research Group 的最新數據顯示，隨著併購 (M&amp;A) 的出現，去年資料中心市場比想像中還要火熱價值突破730 億美元，沒有放緩的跡象。]]></description>
+      <description><![CDATA[市場爆炸性成長，2024 年併購活動規模將達到 730 億美元 Synergy Research Group 的最新數據顯示，去年資料中心市場比想像中還要火爆，併購活動 (M&amp;A)價值超過730 億美元，並且沒有放緩的跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/exploding_datacenter_market/</guid>
       <pubDate>Wed, 29 Jan 2025 17:44:08 GMT</pubDate>
     </item>
@@ -55,16 +62,16 @@
       <pubDate>Wed, 29 Jan 2025 17:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>Garmin推出CrowdStrike，將智慧手錶變成精美手環</title>
+      <title>Garmin 借鑒 CrowdStrike 的做法，將智慧手錶變成了精美的手鐲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</link>
       <description><![CDATA[藍屏死亡變成手腕上的藍色死亡三角形 Garmin 經歷了自己的 CrowdStrike 事件，此前該公司智能手錶的用戶抱怨，在看似更新錯誤。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/garmin_smartwatch_faulty_update/</guid>
       <pubDate>Wed, 29 Jan 2025 16:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼我的 Mitel 手機 DDoSing 是陌生人？哦，它被納入了新的 Mirai 殭屍網絡</title>
+      <title>為什麼我的 Mitel 手機會受到陌生人的 DDoSing 攻擊？哦，它被捲入了新的 Mirai 殭屍網絡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</link>
-      <description><![CDATA[現在你不停地給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和回應團隊稱…]]></description>
+      <description><![CDATA[現在你不會停止給我打電話，我有點忙 基於 Mirai 的惡意軟體 Aquabot 的新變種正在積極利用 Mitel 手機中的漏洞來構建遠程控制的殭屍網絡據Akamai 安全情報和響應團隊稱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/ddos_attacks_aquabot_mitel/</guid>
       <pubDate>Wed, 29 Jan 2025 15:32:05 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 29 Jan 2025 13:54:48 GMT</pubDate>
     </item>
     <item>
-      <title>「兄弟，刪除聊天記錄」：感受警方破獲重大網路詐騙集團前不久的恐慌</title>
+      <title>「兄弟刪除聊天記錄」：在警方搗毀重大網路詐騙集團之前不久感受到恐慌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</link>
       <description><![CDATA[主謀懇求合謀者掩蓋後來用來監禁他的證據 在宣布對經營帳戶接管公司 OTP Agency 的三名英國人判刑時，國家犯罪局 (NCA) 透露了 2021 年報告讓詐騙者陷入了恐慌。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/otp_agency_convicted/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Wed, 29 Jan 2025 11:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 升級讓我們的舊 Nvidia GPU 要求降級</title>
+      <title>Ubuntu 升級後，我們的舊 Nvidia GPU 請求降級</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</link>
       <description><![CDATA[如果您需要舊版驅動程序，您可能需要保留舊版作業系統– 可能無限期地保留 Reg FOSS 部門花了一些時間降級Ubuntu 以恢復圖形加速。我們如何以及為什麼要這樣做？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nvidia_gpu_ubuntu_downgrade/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>支出監管機構批評英國政府在加強 IT 防禦方面進展緩慢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</link>
-      <description><![CDATA[認為政府網路安全很糟糕？再猜一下。令人震驚的是，英國政府遠遠落後於其2022 年的目標，即到2025 年強化系統以抵禦網路攻擊，支出監管機構的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
+      <description><![CDATA[認為政府網路安全很差？再猜一下。  英國政府在2022 年實現到2025 年加強系統抵禦網路攻擊的目標方面已經遠遠落後，支出監管機構發布的一份新報告表明，即使到2030 年，英國政府也可能無法實現這目標。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/nao_blasts_uk_gov_cyber/</guid>
       <pubDate>Wed, 29 Jan 2025 07:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智慧再見，露西：法國對 ChatGPT 的回應因失禮而暫停</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</link>
-      <description><![CDATA[大量令人尷尬的答案讓開源喋喋不休的人回去接受更多教育 當中國透過最新的DeepSeek 版本展示開源AI 模型的競爭力時，法國卻表現出了相反的情況。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/29/french_ai_chatbot_lucie_suspended/</guid>
-      <pubDate>Wed, 29 Jan 2025 06:41:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
