@@ -3,10 +3,10 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 31 Jan 2025 13:17:47 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 31 Jan 2025 13:36:04 GMT</lastBuildDate>
     <item>
-      <title>IBM 寄望於美國的交易監管環境更加友好</title>
+      <title>IBM 依賴美國更友善的監管環境來促成交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</link>
       <description><![CDATA[預計收購 Hashicorp 的交易即將完成，計劃利用 70 億美元自由現金中的一部分進行更多併購 鑑於 Big藍色被認為是一種“更合理”和“更利於競爭」的監管環境。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</guid>
@@ -15,14 +15,14 @@
     <item>
       <title>威爾斯女子因放屁引發網路騷擾被罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</link>
-      <description><![CDATA[法院表示，她與前伴侶處理子女監護權糾紛的方式確實很糟糕 威爾斯為世界帶來了很多東西——湯姆瓊斯、拉弗麵包和等號。但來自卡那封的一名婦女將武器化的腸胃脹也列入了名單中。她對 WhatsApp 的非正統做法導致了社區命令和罰款。]]></description>
+      <description><![CDATA[法院表示，她處理與伴侶前夫的子女探視權糾紛的方式真的很糟糕 威爾士為世界帶來了很多東西 — — 湯姆瓊斯、紫菜麵包和等號。但來自卡那芬的一名女子卻將屁武器化加入了名單。她對 WhatsApp 的非常規做法使她受到社區服務命令和罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</guid>
       <pubDate>Fri, 31 Jan 2025 11:50:07 GMT</pubDate>
     </item>
     <item>
-      <title>BT 光纖覆蓋家庭數量突破 1700 萬戶，替代網路挑戰加劇</title>
+      <title>BT 光纖鋪設覆蓋 1700 萬戶家庭，替代網路挑戰日益嚴峻</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</link>
-      <description><![CDATA[然而，只有35% 的場所真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
+      <description><![CDATA[然而，這些場所中只有35% 真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</guid>
       <pubDate>Fri, 31 Jan 2025 11:12:37 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>VMware 修復 Cloud Foundation 中的竊取我的憑證漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</link>
-      <description><![CDATA[考慮盡快修補，因為網路騙子喜歡攻擊Broadcom 虛擬化巨頭的易受攻擊的工具 Broadcom 修復了VMware IT 運營和Cloud Foundation 中的日誌管理工具中的五個缺陷，這些缺陷被統稱為“高度嚴重”，其中包括兩個資訊洩露錯誤，在某些情況下可能導致憑證洩露。]]></description>
+      <description><![CDATA[考慮盡快修補，因為網路犯罪分子喜歡攻擊Broadcom 虛擬化巨頭的易受攻擊的工具 Broadcom 已修復VMware 的IT 運營和Cloud Foundation 中的日誌管理工具中的五個漏洞，統稱為“高嚴重性”，包括兩個資訊外洩漏洞，在某些情況下可能導致憑證外洩。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</guid>
       <pubDate>Thu, 30 Jan 2025 22:00:10 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>HPE 斥資 140 億美元收購 Juniper 遭遇司法部阻撓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</link>
-      <description><![CDATA[官員認為，合併將扼殺競爭，提高無線區域網路價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業以140 億美元收購瞻博網路。 &gt;]]></description>
+      <description><![CDATA[官員認為，合併會扼殺競爭，抬高無線LAN 價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業(Hewlett Packard Enterprise) 以140 億美元收購瞻博網絡(Juniper Networks)。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</guid>
       <pubDate>Thu, 30 Jan 2025 18:21:03 GMT</pubDate>
     </item>
@@ -125,16 +125,16 @@
       <pubDate>Thu, 30 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 引起科技界的好奇與懷疑</title>
+      <title>DeepSeek 引發科技界的好奇與懷疑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</link>
-      <description><![CDATA[中國AI 顛覆者發表未經證實的言論，令行業觀察家感到震驚 對於GenAI 來說，這是忙碌的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
+      <description><![CDATA[中國AI 顛覆者以未經證實的言論震驚行業觀察者 對於GenAI 來說，這是一個繁忙的一周，科技行業正在衡量這位最新闖入者對法學碩士(LLM ) 領域的影響。週一，中國的DeepSeek 震驚了股市，使昔日的AI 金童Nvidia 的市值縮水了6000 億美元。 &gt;&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/deepseek_reaction/</guid>
       <pubDate>Thu, 30 Jan 2025 16:15:16 GMT</pubDate>
     </item>
     <item>
       <title>即使是 Windows 10 也無法擺脫新版 Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</link>
-      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說，這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
+      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</guid>
       <pubDate>Thu, 30 Jan 2025 15:32:08 GMT</pubDate>
     </item>
