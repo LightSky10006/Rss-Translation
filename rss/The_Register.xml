@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 31 Jan 2025 19:09:56 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Fri, 31 Jan 2025 19:34:51 GMT</lastBuildDate>
+    <item>
+      <title>分析師稱川普的關稅和減稅措施可能會讓科技業陷入困境</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</link>
+      <description><![CDATA[Forrester 對總統經濟議程的看法對行業來說並不樂觀 唐納德·特朗普重返白宮還不到兩週，政府可能對全球科技行業產生的影響是仍遠未明朗。 …]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</guid>
+      <pubDate>Fri, 31 Jan 2025 19:18:43 GMT</pubDate>
+    </item>
     <item>
       <title>您要對該功能做什麼？微軟定義了「棄用」的含義</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_defines_what_it_means/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>DeepSeek意味著企業需要更謹慎地考慮AI投資</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</link>
-      <description><![CDATA[但分析師表示，中國新創企業重組並不意味著基礎設施建設需求「大幅下降」 分析 中國新創公司發布具有競爭力的人工智慧模型後引發的衝擊波DeepSeek 讓許多人開始質疑這樣的假設：在昂貴的大規模基於 GPU 的基礎設施上投入更多資金就能取得最好的結果…]]></description>
+      <description><![CDATA[但分析師表示，中國新創公司的重組並不預示著基礎設施建設需求「急劇下降」 分析 中國新創公司發布具有競爭力的人工智慧模型後的衝擊波DeepSeek 讓許多人質疑這樣一種假設：在昂貴的大規模基於 GPU 的基礎設施上投入更多資金可以帶來最佳結果。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</guid>
       <pubDate>Fri, 31 Jan 2025 15:33:11 GMT</pubDate>
     </item>
     <item>
       <title>「被遺棄」的太空人破紀錄進行第九次太空行走</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</link>
-      <description><![CDATA[Sunita Williams 宣稱將領導女性太空人太空行走 NASA 太空人Sunita Williams 打破了Peggy Whitson 創造的女性太空人太空行走總時間記錄，她在國際太空站(ISS) 外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
+      <description><![CDATA[蘇尼塔威廉斯(Sunita Williams) 聲稱將領導女性EVA  美國國家航空暨太空總署(NASA) 太空人蘇尼塔威廉斯(Sunita Williams) 打破了佩吉惠特森(Peggy Whitson) 保持的女宇航員太空行走總時間記錄，她在國際太空站(ISS) 外進行了一次旅行，以收集前哨站外部的樣本......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</guid>
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
     </item>
@@ -43,14 +50,14 @@
     <item>
       <title>BT 光纖覆蓋家庭數量突破 1700 萬戶，替代網路挑戰加劇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</link>
-      <description><![CDATA[然而，只有35% 的場所真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
+      <description><![CDATA[然而，這些場所中只有35% 真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</guid>
       <pubDate>Fri, 31 Jan 2025 11:12:37 GMT</pubDate>
     </item>
     <item>
       <title>歐洲太空總署選擇泰雷茲阿萊尼亞航太公司建造月球登陸器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/european_space_agency_taps_thales/</link>
-      <description><![CDATA[ESA 和Argonauts 歐洲太空總署(ESA) 與泰雷茲阿萊尼亞太空公司簽署了一項價值8.62 億歐元的協議，以開發月球登陸器。 &gt; ]]></description>
+      <description><![CDATA[歐空局和阿爾戈英雄 歐洲太空總署(ESA) 與泰雷茲阿萊尼亞航太公司簽署了價值8.62 億歐元的協議，開發月球登陸器。  ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/european_space_agency_taps_thales/</guid>
       <pubDate>Fri, 31 Jan 2025 10:17:56 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 31 Jan 2025 07:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>2032 年，直徑達 886 罐垃圾郵件的小行星可能會撞擊地球</title>
+      <title>直徑相當於 886 罐垃圾郵件的小行星可能在 2032 年撞擊地球</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</link>
       <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，有百分之一的幾率會襲擊我們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</guid>
@@ -90,9 +97,9 @@
       <pubDate>Fri, 31 Jan 2025 02:20:33 GMT</pubDate>
     </item>
     <item>
-      <title>Google向伊朗發出警告：是的，我們看到你使用 Gemini 進行網路釣魚和腳本編寫。我們已經發現了你</title>
+      <title>Google 致伊朗：是的，我們看到您使用 Gemini 進行網路釣魚和腳本編寫。我們正在關注你</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</link>
-      <description><![CDATA[而你、中國、俄羅斯、北韓......Guardrails 阻止了惡意軟體的產生 Google 表示，它發現中國、俄羅斯、伊朗和北韓政府特工將其Gemini AI 用於邪惡目的，到目前為止，德黑蘭是四個用戶中最頻繁的頑皮用戶。]]></description>
+      <description><![CDATA[還有你們，中國、俄羅斯、北韓......護欄阻止惡意軟體產生 Google表示，它發現中國、俄羅斯、伊朗和北韓政府特工利用其Gemini AI 進行邪惡目的，德黑蘭是四個使用者中行為最不禮貌的使用者。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</guid>
       <pubDate>Fri, 31 Jan 2025 01:30:11 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 30 Jan 2025 22:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>還有比洛斯阿拉莫斯國家實驗室更好的地方來注入 OpenAI 的 o1 嗎？</title>
+      <title>還有什麼地方比洛斯阿拉莫斯國家實驗室更適合注入 OpenAI 的 o1 呢？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/</link>
       <description><![CDATA[對抗疾病，蜱蟲。高能物理，勾。核安也打勾 OpenAI 宣布與山姆大叔達成另一項協議，這次將其最新模型交到從事核安全等工作的美國政府科學家手中。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/openai_los_alamos_national_lab/</guid>
@@ -127,23 +134,16 @@
     <item>
       <title>HPE 斥資 140 億美元收購 Juniper 遭遇司法部阻撓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</link>
-      <description><![CDATA[官員認為，合併將扼殺競爭，提高無線區域網路價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業以140 億美元收購瞻博網路。 &gt;]]></description>
+      <description><![CDATA[官員認為，合併將扼殺競爭，提高無線區域網路價格 美國司法部(DoJ) 已提起訴訟，阻止惠普企業斥資140 億美元收購瞻博網路。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/hpes_acquisition_juniper/</guid>
       <pubDate>Thu, 30 Jan 2025 18:21:03 GMT</pubDate>
     </item>
     <item>
       <title>前海軍上將稱川普政府對美國網路諮詢委員會的清洗是“愚蠢的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</link>
-      <description><![CDATA[「沒有人在調查墜機事件的過程中被 NTSB 踢出局」 訪談  網路安全審查委員會正在調查中國的鹽颱風如何侵入美國退役美國海軍少將馬克蒙哥馬利表示，政府和電信網路是「愚蠢的」並且「對國家安全不利」。]]></description>
+      <description><![CDATA[「在調查墜機事件的過程中，沒有人被踢出國家運輸安全委員會」 訪談  在調查中國「鹽颱風」如何違反美國網路安全審查委員會時，該委員會遭到解散美國海軍退役少將馬克·蒙哥馬利稱，對政府和電信網絡進行攻擊是“愚蠢的”，並且“不利於國家安全”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</guid>
       <pubDate>Thu, 30 Jan 2025 18:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟將 DeepSeek R1 引進 Azure AI Foundry 和 GitHub</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</link>
-      <description><![CDATA[Copilot+ PC 的精簡版本也即將推出 – 太棒了！ ！  微軟已將開源 DeepSeek R1 LLM 添加到 Azure AI Foundry 和 GitHub，這表明即使是笨拙的科技巨頭也可以在需要的時候要靈活。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_deepseek_azure_github/</guid>
-      <pubDate>Thu, 30 Jan 2025 17:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

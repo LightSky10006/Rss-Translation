@@ -3,10 +3,17 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 31 Jan 2025 19:10:02 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 31 Jan 2025 19:34:58 GMT</lastBuildDate>
     <item>
-      <title>卡什·帕特爾 (Kash Patel) 表示他從未宣傳過 QAnon。這是他所做的所有時間</title>
+      <title>OpenAI 的 o3-Mini 是一款與 DeepSeek 保持同步的更精簡的 AI 模型</title>
+      <link>https://www.wired.com/story/openai-o3-mini-release/</link>
+      <description><![CDATA[繼 DeepSeek R1 之後，OpenAI 的最新模型承諾以更低的價格提供更先進的功能。]]></description>
+      <guid>https://www.wired.com/story/openai-o3-mini-release/</guid>
+      <pubDate>Fri, 31 Jan 2025 19:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡什·帕特爾 (Kash Patel) 稱他從未宣傳過 QAnon。以下是他所做的所有事情</title>
       <link>https://www.wired.com/story/kash-patel-qanon/</link>
       <description><![CDATA[卡什·帕特爾 (Kash Patel) 幫助 QAnon 運動在 Truth Social 上保持活力，與 Q 帳戶互動，出現在 QAnon 播客中，並在他的兒童書籍上簽名 QAnon。]]></description>
       <guid>https://www.wired.com/story/kash-patel-qanon/</guid>
@@ -20,9 +27,9 @@
       <pubDate>Fri, 31 Jan 2025 18:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>小羅伯特·甘迺迪的參議院證詞因他的過往記錄而困擾</title>
+      <title>羅伯特·甘迺迪在參議院的證詞受到其過往履歷的困擾</title>
       <link>https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/</link>
-      <description><![CDATA[在本週的確認聽證會上，羅伯特·F·肯尼迪(Robert F. Kennedy Jr.) 表示，儘管他長期以來一直持反對疫苗接種的立場，但他將在擔任衛生與公眾服務部部長期間推廣疫苗接種。]]></description>
+      <description><![CDATA[在本週的確認聽證會上，小羅伯特·F·肯尼迪表示，儘管長期以來一直提倡反疫苗立場，但他將作為衛生與公共服務部部長推動疫苗的發展。]]></description>
       <guid>https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/</guid>
       <pubDate>Fri, 31 Jan 2025 17:30:42 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 31 Jan 2025 12:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>專家稱，唐納德·川普 Memecoin 的早期投資者可能已收到消息</title>
+      <title>專家稱川普 Memecoin 的早期投資者可能已收到消息</title>
       <link>https://www.wired.com/story/trumpcoin-biggest-backers/</link>
       <description><![CDATA[唐納德·川普宣布推出新貨幣後不久，交易員們就進行了高額押注，並很快獲得了回報。他們有優勢嗎？]]></description>
       <guid>https://www.wired.com/story/trumpcoin-biggest-backers/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>現在有芭比主題的 G-Shock 手錶，我們想要</title>
       <link>https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/</link>
-      <description><![CDATA[Barbiecore 仍然存在嗎？卡西歐堅信這一點。]]></description>
+      <description><![CDATA[Barbiecore 還流行嗎？卡西歐 (Casio) 打賭確實如此。]]></description>
       <guid>https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/</guid>
       <pubDate>Fri, 31 Jan 2025 01:30:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[《法櫃奇兵》、《死侍與金鋼狼》和《艾爾頓強：永遠不嫌晚》只是你本月應該在 Disney+ 上觀看的幾部電影。]]></description>
       <guid>https://www.wired.com/story/best-movies-disney-plus/</guid>
       <pubDate>Thu, 30 Jan 2025 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬克安德森眼中的世界</title>
-      <link>https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/</link>
-      <description><![CDATA[本週，在《恐怖谷》節目中，主持人討論了矽谷的非官方教父馬克安德森。]]></description>
-      <guid>https://www.wired.com/story/uncanny-valley-podcast-11-marc-andreessen/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:45:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
