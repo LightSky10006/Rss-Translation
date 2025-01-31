@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 31 Jan 2025 17:10:57 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 31 Jan 2025 17:35:40 GMT</lastBuildDate>
+    <item>
+      <title>羅伯特·甘迺迪在參議院的證詞受到其過往履歷的困擾</title>
+      <link>https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/</link>
+      <description><![CDATA[在本週的確認聽證會上，羅伯特·F·肯尼迪(Robert F. Kennedy Jr.) 表示，儘管他長期以來一直持反對疫苗接種的立場，但他將在擔任衛生與公眾服務部部長期間推廣疫苗接種。]]></description>
+      <guid>https://www.wired.com/story/rfk-jr-senate-testimony-is-haunted-by-his-track-record-robert-f-kennedy/</guid>
+      <pubDate>Fri, 31 Jan 2025 17:30:42 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek 讓 OpenAI 興奮不已</title>
       <link>https://www.wired.com/story/openai-deepseek-stargate-sam-altman/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>最佳滑雪鏡，編輯測試和評論（2025 年）</title>
       <link>https://www.wired.com/gallery/best-ski-goggles/</link>
-      <description><![CDATA[從晴朗天氣到暴風雪，《連線》雜誌測試了適合各種天氣條件的最佳滑雪鏡。]]></description>
+      <description><![CDATA[從藍鳥天到暴風雪，《連線》測試了適合所有天氣條件的最佳滑雪鏡。]]></description>
       <guid>https://www.wired.com/gallery/best-ski-goggles/</guid>
       <pubDate>Fri, 31 Jan 2025 14:32:00 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 31 Jan 2025 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>現在有一款芭比主題 G-Shock 手錶，我們想要入手</title>
+      <title>現在有芭比主題的 G-Shock 手錶，我們想要</title>
       <link>https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/</link>
       <description><![CDATA[Barbiecore 還流行嗎？卡西歐 (Casio) 打賭確實如此。]]></description>
       <guid>https://www.wired.com/story/theres-now-a-barbie-themed-g-shock-watch-and-we-want-in/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[空中交通管制員要求5342班機在降落時切換跑道。飛機和與其相撞的軍用直升機的黑盒子記錄將有助於揭示這是否是事故發生的原因。]]></description>
       <guid>https://www.wired.com/story/washington-dc-plane-crash-everything-we-know-so-far-black-hawk-faa-potomac-american-airlines-psa/</guid>
       <pubDate>Thu, 30 Jan 2025 14:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳發燒友配備（2025 年）：耳機、揚聲器、擴大機、DAC</title>
-      <link>https://www.wired.com/story/audiophile-gear-guide/</link>
-      <description><![CDATA[準備好獲得生活中最佳的音質了嗎？從揚聲器和耳機到串流媒體擴大機，以下是我們最喜歡的鍍金聆聽工具。]]></description>
-      <guid>https://www.wired.com/story/audiophile-gear-guide/</guid>
-      <pubDate>Thu, 30 Jan 2025 14:03:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
