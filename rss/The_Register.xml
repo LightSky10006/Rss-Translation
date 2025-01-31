@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 31 Jan 2025 06:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 08:15:51 GMT</lastBuildDate>
+    <item>
+      <title>谷歌員工被問到是否願意把自己埋在 Stadia、Chromecast 和 DropCam 旁邊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/googles_latest_layoffs_buyout/</link>
+      <description><![CDATA[這是專注於平台和設備團隊 Google最新一輪裁員看起來與往常有些不同，巧克力工廠向新成立的平台和部門的員工提供買斷待遇。設備部門…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/googles_latest_layoffs_buyout/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>直徑相當於 886 罐垃圾郵件的小行星可能在 2032 年撞擊地球</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</link>
-      <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，攻擊我們的幾率為百分之一。]]></description>
+      <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，有百分之一的幾率會襲擊我們…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</guid>
       <pubDate>Fri, 31 Jan 2025 06:07:14 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 30 Jan 2025 22:58:09 GMT</pubDate>
     </item>
     <item>
-      <title>VMware 堵住了 Cloud Foundation 中的竊取我憑證的漏洞</title>
+      <title>VMware 修復 Cloud Foundation 中的竊取我的憑證漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</link>
       <description><![CDATA[考慮盡快修補，因為網路犯罪分子喜歡攻擊Broadcom 虛擬化巨頭的易受攻擊的工具 Broadcom 已修復VMware 的IT 運營和Cloud Foundation 中的日誌管理工具中的五個漏洞，統稱為“高嚴重性”，包括兩個資訊外洩漏洞，在某些情況下可能導致憑證外洩。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vmware_infomration_disclosure_flaws/</guid>
@@ -62,9 +69,9 @@
       <pubDate>Thu, 30 Jan 2025 18:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>前海軍上將稱川普政府對美國網路諮詢委員會的清洗是“愚蠢的”</title>
+      <title>前海軍上將表示，川普政府對美國網路諮詢委員會的清洗是“愚蠢的”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</link>
-      <description><![CDATA[「在調查墜機事故的過程中，沒有人被踢出國家運輸安全委員會」 訪談  在網路安全審查委員會調查中國「鹽颱風」如何破壞美國網路安全時，該委員會遭到解散美國海軍退役少將馬克·蒙哥馬利認為，對政府和電信網路進行攻擊是“愚蠢的”，並且“不利於國家安全”。]]></description>
+      <description><![CDATA[「沒有人在調查墜機事件的過程中被 NTSB 踢出局」 訪談  網路安全審查委員會正在調查中國的鹽颱風如何侵入美國退役美國海軍少將馬克蒙哥馬利表示，政府和電信網路是「愚蠢的」並且「不利於國家安全」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/gutting_us_cyber_advisory_boards/</guid>
       <pubDate>Thu, 30 Jan 2025 18:15:14 GMT</pubDate>
     </item>
@@ -83,16 +90,16 @@
       <pubDate>Thu, 30 Jan 2025 16:15:16 GMT</pubDate>
     </item>
     <item>
-      <title>即使是 Windows 10 也無法擺脫新版 Outlook</title>
+      <title>即使是 Windows 10 也無法逃脫新的 Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</link>
-      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
+      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說，這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</guid>
       <pubDate>Thu, 30 Jan 2025 15:32:08 GMT</pubDate>
     </item>
     <item>
       <title>IBM 計劃在 2025 年節省 35 億美元成本，削減可自由支配的開支</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/ibm_q4_2024/</link>
-      <description><![CDATA[勞動再平衡？是的，但從積極的一面來看，未來12 個月都是關於人工智慧、人工智慧和更多人工智慧 IBM 再次預測來年將節省成本，這對於其眾多員工來說可能意味著一件事。]]></description>
+      <description><![CDATA[勞動重新平衡？是的，但從好的方面來看，未來12 個月都是關於人工智慧、人工智慧和更多的人工智慧 IBM 再次預測未來一年的成本節約，這可能對其眾多工人們－快點踩踏板，保持低調，因為裁員可能會再次發生。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/ibm_q4_2024/</guid>
       <pubDate>Thu, 30 Jan 2025 14:46:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[雇主仍然對監控對員工的影響一無所知/故意無知 超過四分之三的英國雇主承認使用某種形式的監控技術來監視其遠端工作人員的工作效率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/</guid>
       <pubDate>Thu, 30 Jan 2025 10:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>新創公司將人工智慧資料中心連結到沼氣能源</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/startup_datacenter_biogas/</link>
-      <description><![CDATA[執行長表示，繞過電網可使電力成本降低44%，排放量減少70% 一家英國資料中心新創公司意識到，它可能要等到2030 年代末才能實現電網連接，因此轉向位於再生能源現場的模組化設施。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/startup_datacenter_biogas/</guid>
-      <pubDate>Thu, 30 Jan 2025 09:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
