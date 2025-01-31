@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 31 Jan 2025 00:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 02:12:27 GMT</lastBuildDate>
+    <item>
+      <title>Google向伊朗發出警告：是的，我們看到你使用 Gemini 進行網路釣魚和腳本編寫。我們已經發現了你</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</link>
+      <description><![CDATA[還有你們，中國、俄羅斯、北韓......護欄阻止惡意軟體產生 Google表示，它發現中國、俄羅斯、伊朗和北韓政府特工利用其Gemini AI 進行邪惡目的，德黑蘭是四個使用者中行為最不禮貌的使用者。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</guid>
+      <pubDate>Fri, 31 Jan 2025 01:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>想要在你的 Surface 中使用英特爾嗎？微軟稱，這將額外增加 400 美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</link>
-      <description><![CDATA[這不禁讓你懷疑，Windows-on-Arm 到底有多糟糕？  如果企業希望購買搭載英特爾最新一代 Core Ultra 處理器的 Surface Pro 平板電腦或筆記型電腦，預計需要支付與微軟現有的基於Arm 的產品相比至少要高出400 美元…]]></description>
+      <description><![CDATA[讓您想知道，Windows-on-Arm 到底有多糟糕？  希望購買搭載英特爾最新一代Core Ultra 處理器的Surface Pro 平板電腦或筆記型電腦的企業預計將支付以下價格：與 Microsoft 現有的基於 Arm 的產品相比，至少多出 400 美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</guid>
       <pubDate>Thu, 30 Jan 2025 22:58:09 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>特斯拉的數據再次令人失望…觀眾再次瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/tesla_q4_2024/</link>
-      <description><![CDATA[多年來一直在喊狼來了的男孩發誓「這次是一隻該死的狼」 特斯拉在2024 年第四季的業績相當慘淡，從財務上來說，這一年整體來說是艱難的一年。但你不會從盤後股價上漲中知道這一點，因為執行長馬斯克預測 2025 年將創下紀錄，而這得益於更多關於全自動機器人出租車的承諾。]]></description>
+      <description><![CDATA[多年來一直對自動駕駛大喊「狼來了」的男孩發誓「這次有一隻該死的狼」 特斯拉2024 年第四季的表現相當慘淡，整體財務狀況也很艱難。但你不會從盤後股價的上漲中得知這一點，因為首席執行官埃隆·馬斯克(Elon Musk) 預測，由於更多全自動機器人出租車的承諾，2025 年將創下紀錄。 .]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/tesla_q4_2024/</guid>
       <pubDate>Thu, 30 Jan 2025 19:25:15 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>即使是 Windows 10 也無法擺脫新版 Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</link>
-      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
+      <description><![CDATA[微軟修復了 DAC 問題並針對 Windows 10 推出了新的 Outlook 威脅 對於 Windows 用戶來說，這是一個好壞參半的消息。微軟已經發布了一個補丁，聲稱可以修復 DAC 問題。對某些使用者來說，壞消息是新的 Outlook for Windows 應用程式已經登陸 Windows 10。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/outlook_arrives_on_windows_10/</guid>
       <pubDate>Thu, 30 Jan 2025 15:32:08 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 30 Jan 2025 14:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>微軟表示將在人工智慧領域進行「重大資本投資」以應對產業對 DeepSeek 的反應</title>
+      <title>隨著行業對 DeepSeek 的反應，微軟談論人工智慧領域的“重大資本投資”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</link>
       <description><![CDATA[Windows 供應商發布了更多豐厚的財務業績，但市場對此不以為然 微軟最新的盈利結果超出預期，但首席執行官Satya Nadella 和首席財務官Amy Hood 的評論表明，人工智慧和執行方面存在動盪，同時雲端運算需求也有減弱的跡象…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_q2_2025/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>沃達豐計劃於今年稍後開始提供衛星到手機的連接</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vodafone_aims_to_offer_satellitetophone/</link>
-      <description><![CDATA[太空5G 應該覆蓋農村地區的普通智慧型手機，而不是地點 沃達豐聲稱，它已經使用衛星連接和標準4G/5G 智慧型手機進行了首個行動視訊通話，並表示其目標是提供商業直接服務今年稍後將在歐洲推出蜂窩衛星服務。 &gt;]]></description>
+      <description><![CDATA[太空5G 應該能夠覆蓋農村地區的普通智慧型手機 沃達豐聲稱，它已經使用衛星連接和標準4G/5G 智慧型手機進行了首次移動視訊通話，並表示其目標是提供商業直接今年稍後將開始在歐洲提供蜂窩衛星服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/vodafone_aims_to_offer_satellitetophone/</guid>
       <pubDate>Thu, 30 Jan 2025 12:30:06 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Thu, 30 Jan 2025 11:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>在家辦公還能保留隱私嗎？ 85% 的英國老闆會窺探員工的隱私</title>
+      <title>在家辦公有隱私嗎？ 85% 的英國老闆窺探員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/</link>
       <description><![CDATA[雇主仍然對監控對員工的影響一無所知/故意無知 超過四分之三的英國雇主承認使用某種形式的監控技術來監視其遠端工作人員的工作效率。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/forget_the_idea_of_wfh/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[根據科學家報告，這是一塊有6500 萬年曆史的太空岩石，其中充滿了氨基酸、DNA 鹼基等 科學家分析了小行星貝努的樣本，發現了一些不同尋常的東西：儘管它很冷，大約 6500 萬年前形成的無生命瓦礫堆，其中含有豐富的有機分子——生命的關鍵成分。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/asteroid_bennu_life/</guid>
       <pubDate>Thu, 30 Jan 2025 07:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek並不是OpenAI和朋友們唯一需要擔心的中國LLM廠商。對吧，阿里巴巴？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</link>
-      <description><![CDATA[雲巨頭聲稱 Qwen 2.5 Max 在 DS V3 和 GPT-4o 中均名列前茅 分析  DeepSeek 聲稱訓練大型語言模型 (LLM) 的速度和效率與美國最優秀的企業競爭對於矽谷來說是一個現實考驗。然而，這家新創公司並不是唯一一家讓美國擔心的中國模型製造商…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/alibaba_qwen_ai/</guid>
-      <pubDate>Thu, 30 Jan 2025 03:06:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
