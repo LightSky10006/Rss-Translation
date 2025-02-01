@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 01 Feb 2025 17:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 22:12:05 GMT</lastBuildDate>
+    <item>
+      <title>看來，監管 SpaceX 星際飛船探測器的 FAA 辦公室仍有一些權力</title>
+      <link>https://arstechnica.com/space/2025/02/it-seems-the-faa-office-overseeing-spacexs-starship-probe-still-has-some-bite/</link>
+      <description><![CDATA[華盛頓的政治風向已經發生變化，但美國聯邦航空管理局尚未改變對星際飛船的態度。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/it-seems-the-faa-office-overseeing-spacexs-starship-probe-still-has-some-bite/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>為了幫助人工智慧理解世界，研究人員將它們放入機器人中</title>
       <link>https://arstechnica.com/science/2025/02/to-help-ais-understand-the-world-researchers-put-them-in-a-robot/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>OpenAI 以 o3-mini 推理模型反擊 DeepSeek</title>
       <link>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</link>
-      <description><![CDATA[OpenAI 表示更快、更準確的 STEM 模式將免費向所有使用者開放。]]></description>
+      <description><![CDATA[OpenAI 表示，更快、更準確的以 STEM 為重點的模式將免費提供給所有用戶。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</guid>
       <pubDate>Fri, 31 Jan 2025 20:06:52 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[我們試駕了福特最新的賽道專用野馬。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/driving-the-ford-mustang-dark-horse-r-makes-every-other-pony-feel-tame/</guid>
       <pubDate>Fri, 31 Jan 2025 17:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>「給我他媽的連結！」—咒罵會禁用Google的人工智慧概覽</title>
-      <link>https://arstechnica.com/google/2025/01/just-give-me-the-fing-links-cursing-disables-googles-ai-overviews/</link>
-      <description><![CDATA[阻止那些煩人的人工智慧答案的最新技巧也是最具宣洩作用的。]]></description>
-      <guid>https://arstechnica.com/google/2025/01/just-give-me-the-fing-links-cursing-disables-googles-ai-overviews/</guid>
-      <pubDate>Fri, 31 Jan 2025 17:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
