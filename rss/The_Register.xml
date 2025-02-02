@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 02 Feb 2025 03:20:22 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Sun, 02 Feb 2025 09:34:47 GMT</lastBuildDate>
+    <item>
+      <title>微軟資深人士哀嘆世界連牙刷都需要重啟</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</link>
+      <description><![CDATA[Raymond Chen 反思永無止境的更新和重啟循環 評價 還記得什麼時候不需要不斷更新和重啟就可以工作嗎？資深微軟工程師 Raymond Chen 指出，這種疾病甚至蔓延到了不起眼的電動牙刷。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</guid>
+      <pubDate>Sun, 02 Feb 2025 09:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾已正式錯過資料中心人工智慧的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 01 Feb 2025 15:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧周圍</title>
+      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</link>
       <description><![CDATA[如果這能讓矽穀保持警惕和誠實，我們又有什麼資格抱怨呢？ DeepSeek…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Windows 11 強勢回歸——但仍落後於老款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/windows_11_statcounter/</link>
-      <description><![CDATA[微軟最新的作業系統從 Windows 10 手中奪回了市場份額，但距離終點線還很遙遠 最新數據顯示，微軟似乎以 Windows 11 採用率反彈作為開年之計操作系統扭轉了近幾個月的長期下滑趨勢。]]></description>
+      <description><![CDATA[微軟的最新作業系統從Windows 10 手中奪回了市場份額，但距離終點線還有很長的路要走 微軟似乎以Windows 11 的採用率反彈開啟了新的一年，最新數據顯示作業系統扭轉了近幾個月的長期下滑趨勢。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/windows_11_statcounter/</guid>
       <pubDate>Sat, 01 Feb 2025 09:32:06 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>「被遺棄」的太空人破紀錄進行第九次太空行走</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</link>
-      <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 保持的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
+      <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 創造的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</guid>
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>BT 光纖覆蓋家庭數量突破 1700 萬戶，替代網路挑戰加劇</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</link>
-      <description><![CDATA[然而，這些場所中只有35% 真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
+      <description><![CDATA[然而，只有35% 的場所真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</guid>
       <pubDate>Fri, 31 Jan 2025 11:12:37 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>谷歌員工被問到是否願意把自己埋在 Stadia、Chromecast 和 DropCam 旁邊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/googles_latest_layoffs_buyout/</link>
-      <description><![CDATA[這是專注於平台和應用的一種方式。設備團隊 Google最新一輪的裁員看起來與平常有所不同，巧克力工廠為最近創建的平台和設備團隊的員工提供了買斷。設備部門。]]></description>
+      <description><![CDATA[這是專注於平台和設備團隊 Google最新一輪裁員看起來與往常有些不同，巧克力工廠向新成立的平台和部門的員工提供買斷待遇。設備部門…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/googles_latest_layoffs_buyout/</guid>
       <pubDate>Fri, 31 Jan 2025 07:34:11 GMT</pubDate>
     </item>
     <item>
       <title>直徑相當於 886 罐垃圾郵件的小行星可能在 2032 年撞擊地球</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</link>
-      <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，有百分之一的幾率會襲擊我們…]]></description>
+      <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，攻擊我們的幾率為百分之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</guid>
       <pubDate>Fri, 31 Jan 2025 06:07:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>Google向伊朗發出警告：是的，我們看到你使用 Gemini 進行網路釣魚和腳本編寫。我們已經發現了你</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</link>
-      <description><![CDATA[還有你們，中國、俄羅斯、北韓......護欄阻止惡意軟體產生 Google表示，它發現中國、俄羅斯、伊朗和北韓政府特工利用其Gemini AI 進行邪惡目的，德黑蘭是四個使用者中行為最不禮貌的使用者。]]></description>
+      <description><![CDATA[而你、中國、俄羅斯、北韓......Guardrails 阻止了惡意軟體的產生 Google 表示，它發現中國、俄羅斯、伊朗和北韓政府特工將其Gemini AI 用於邪惡目的，到目前為止，德黑蘭是四個用戶中最頻繁的頑皮用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/state_spies_google_gemini/</guid>
       <pubDate>Fri, 31 Jan 2025 01:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要在你的 Surface 中使用英特爾嗎？微軟稱，這將額外增加 400 美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</link>
-      <description><![CDATA[這不禁讓你懷疑，Windows-on-Arm 到底有多糟糕？  如果企業希望購買搭載英特爾最新一代 Core Ultra 處理器的 Surface Pro 平板電腦或筆記型電腦，預計需要支付與微軟現有的基於Arm 的產品相比至少要高出400 美元…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/30/microsoft_surface_intel/</guid>
-      <pubDate>Thu, 30 Jan 2025 22:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
