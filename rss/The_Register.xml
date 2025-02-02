@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Sun, 02 Feb 2025 13:34:22 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Sun, 02 Feb 2025 17:34:06 GMT</lastBuildDate>
+    <item>
+      <title>從頭開始建立安全性意味著什麼？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/security_design_choices/</link>
+      <description><![CDATA[好像安全設計是軟體工程最佳實踐清單中唯一的要點 系統方法  正如我的系統方法合著者 Bruce Davie 和我所思考的那樣這意味著將系統視角應用於安全性，我發現我一直在問自己，作為系統要求，安全性的獨特之處到底是什麼？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/security_design_choices/</guid>
+      <pubDate>Sun, 02 Feb 2025 17:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>歐洲警察搗毀兩大網路犯罪論壇 逮捕《吉爾莫女孩》粉絲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/eurocops_takedown_cybercrime/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 02 Feb 2025 13:19:07 GMT</pubDate>
     </item>
     <item>
-      <title>微軟獸醫感嘆世界連牙刷都需要重啟</title>
+      <title>微軟資深人士哀嘆世界連牙刷都需要重啟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</link>
       <description><![CDATA[Raymond Chen 反思永無止境的更新和重啟循環 評價 還記得什麼時候不需要不斷更新和重啟就可以工作嗎？資深微軟工程師 Raymond Chen 指出，這種疾病甚至蔓延到了不起眼的電動牙刷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</guid>
@@ -27,9 +34,9 @@
       <pubDate>Sat, 01 Feb 2025 15:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋中國最熱門的人工智慧</title>
+      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</link>
-      <description><![CDATA[如果這能讓矽穀保持警惕和誠實，我們又有什麼資格抱怨呢？ DeepSeek…]]></description>
+      <description><![CDATA[如果這讓矽穀保持警覺和誠實，我們有什麼資格抱怨呢？ DeepSeek....]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</guid>
       <pubDate>Sat, 01 Feb 2025 11:34:12 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>戴爾終止混合工作政策，儘管承諾遠距工作，但仍要求員工返回辦公室</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/</link>
-      <description><![CDATA[IT 巨頭稱，那封電子郵件本來可能是 30 秒的閒聊 戴爾科技公司打算在 3 月份結束其混合工作安排，要求那些之前被允許在家兼職工作的人在公司內度過整個五天工作週。]]></description>
+      <description><![CDATA[IT 巨頭表示，該電子郵件鏈本來可以是 30 秒的閒聊 戴爾科技集團打算在 3 月份結束其混合工作安排，要求那些以前被允許在家兼職的人在公司內部度過整個五天的工作週。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/</guid>
       <pubDate>Fri, 31 Jan 2025 23:09:06 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Fri, 31 Jan 2025 15:33:11 GMT</pubDate>
     </item>
     <item>
-      <title>「被遺棄的」太空人破紀錄地第九次太空行走</title>
+      <title>「被遺棄」的太空人破紀錄進行第九次太空行走</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</link>
-      <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 保持的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
+      <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 創造的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</guid>
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>威爾斯女子因腸胃氣脹網絡騷擾被罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</link>
-      <description><![CDATA[法院表示，她處理與伴侶前夫的子女探視權糾紛的方式真的很糟糕 威爾士為世界帶來了很多東西 — — 湯姆瓊斯、紫菜麵包和等號。但來自卡那芬的一名女子卻將屁武器化加入了名單。她對 WhatsApp 的非常規做法使她受到社區服務命令和罰款。]]></description>
+      <description><![CDATA[法院表示，她在與伴侶前任的子女撫養權糾紛中的處理方式確實很糟糕 威爾士為世界帶來了很多東西——湯姆·瓊斯、拉弗麵包和等號。但來自卡那封的一名婦女將武器化的腸胃脹也列入了名單中。她對 WhatsApp 的非正統做法導致了社區命令和罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</guid>
       <pubDate>Fri, 31 Jan 2025 11:50:07 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Fri, 31 Jan 2025 09:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>啊！水手的馬林魚釘可以修復損壞的背板嗎？</title>
+      <title>啊啊！水手的馬林索能修復破損的背板嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/on_call/</link>
-      <description><![CDATA[穿著歷史服裝前來修復的「古代水手」是如此令人震驚，沒有人開玩笑 隨叫隨到 技術支援人員扮演多種角色，&lt; i&gt;The Register 在On Call 中向他們致敬，這是我們讀者貢獻的周五專欄，我們在其中分享您的冒險故事。]]></description>
+      <description><![CDATA[身著歷史服裝前來解決問題的「古代水手」令人震驚，沒人開海盜玩笑 隨叫隨到  技術支援人員扮演著多種角色，並且&lt; i&gt;The Register 在 On Call 中慶祝了這一切，這是我們讀者投稿的星期五專欄，我們在其中分享了您的冒險故事。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/on_call/</guid>
       <pubDate>Fri, 31 Jan 2025 08:14:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這就是 NEO 嗎？是的，有1% 的幾率撞擊我們......不幸的是 視頻  天文學家估計，一顆重達2.2 億公斤的小行星將於2032 年與地球擦肩而過，攻擊我們的幾率為百分之一。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/asteroid_earth_impact/</guid>
       <pubDate>Fri, 31 Jan 2025 06:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾虧損 190 億美元，停止生產 Falcon Shores GPU，延後推出 Clearwater Forest Xeons</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/intel_q4_2024/</link>
-      <description><![CDATA[想像一下一年內花掉720億美元。這是否已經讓Sam Altman 成為首席執行官了？  英特爾以對其產品路線圖的現實檢驗結束了動蕩的一年。 virtual=&#39;/data_centre /_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/intel_q4_2024/</guid>
-      <pubDate>Fri, 31 Jan 2025 02:20:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
