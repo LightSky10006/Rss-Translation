@@ -3,10 +3,17 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Feb 2025 06:18:21 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 03 Feb 2025 06:42:47 GMT</lastBuildDate>
     <item>
-      <title>川普對加拿大、墨西哥和中國徵收關稅，行業組織希望貿易戰武器不要指向他們</title>
+      <title>隱私專員警告稱，世界上的“約翰·史密斯”可能會獲得“數字替身”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/australia_digital_doppelgangers_privacy_award/</link>
+      <description><![CDATA[澳洲政府工作人員混淆了姓名和生日相同的人的醫療資訊 澳洲隱私專員發現，澳洲政府機構沒有做出足夠的努力來保護描述「數位替身」的資料 –這些人擁有相同的姓名和出生日期，並且他們的政府記錄有時包含描述其他人的資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/australia_digital_doppelgangers_privacy_award/</guid>
+      <pubDate>Mon, 03 Feb 2025 06:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>隨著川普向加拿大、墨西哥和中國徵收關稅，產業組織希望貿易戰武器不要指著他們的腳</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_tariff_analysis/</link>
       <description><![CDATA[科技遊說團體不願參與談判，擔心產生意想不到的後果 美國總統唐納德·川普兌現了競選時的承諾，對來自加拿大和墨西哥的進口產品徵收25% 的關稅，並對來自中國的商品徵收10%的關稅。產業組織迅速回應，表示這不是個好主意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_tariff_analysis/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 02 Feb 2025 20:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>從頭開始建立安全意味著什麼？</title>
+      <title>從頭開始建立安全性意味著什麼？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/security_design_choices/</link>
       <description><![CDATA[好像安全設計是軟體工程最佳實踐清單中唯一的要點 系統方法  正如我的系統方法合著者 Bruce Davie 和我所思考的那樣這意味著將系統視角應用於安全性，我發現我一直在問自己，作為系統要求，安全性的獨特之處到底是什麼？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/security_design_choices/</guid>
@@ -57,12 +64,12 @@
     <item>
       <title>英特爾已正式錯過資料中心人工智慧的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</link>
-      <description><![CDATA[但它在網路邊緣和 PC 領域仍有機會 評價  英特爾可能曾希望挑戰競爭對手 Nvidia 和 AMD，爭奪 AI 加速器市場份額由於又一個GPU 架構被廢棄，市場於週四解散。]]></description>
+      <description><![CDATA[但它在網絡邊緣和 PC 領域仍有機會 評論 任何希望英特爾能夠挑戰競爭對手 Nvidia 和 AMD 以獲得人工智能加速器份額的希望由於又一個GPU 架構被廢棄，市場於週四解散。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</guid>
       <pubDate>Sat, 01 Feb 2025 15:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧周圍</title>
+      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</link>
       <description><![CDATA[如果這能讓矽穀保持警惕和誠實，我們又有什麼資格抱怨呢？ DeepSeek…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</guid>
@@ -76,28 +83,28 @@
       <pubDate>Sat, 01 Feb 2025 09:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>戴爾終止混合工作政策，儘管承諾遠距工作，但仍要求員工返回辦公室</title>
+      <title>戴爾終止混合工作政策，儘管承諾遠距工作，仍要求返回辦公室</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/</link>
       <description><![CDATA[IT 巨頭稱，那封電子郵件本來可能是 30 秒的閒聊 戴爾科技公司打算在 3 月份結束其混合工作安排，要求那些之前被允許在家兼職工作的人在公司內度過整個五天工作週。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/</guid>
       <pubDate>Fri, 31 Jan 2025 23:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>你懇求微軟講道理。相反，它使 Copilot 能夠合理使用 OpenAI GPT-o1</title>
+      <title>您懇求微軟採取合理做法。相反，它讓 Copilot 能夠與 OpenAI GPT-o1 相媲美</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_open_ai_reasoning_copilot/</link>
       <description><![CDATA[「神奇的免費」升級恰逢 M365 價格上漲 微軟已將 OpenAI 的 GPT-o1 推理模型 Think Deeper「免費提供給所有 Copilot 用戶」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_open_ai_reasoning_copilot/</guid>
       <pubDate>Fri, 31 Jan 2025 21:44:37 GMT</pubDate>
     </item>
     <item>
-      <title>分析師表示，川普的關稅和削減很可能會讓科技業陷入困境</title>
+      <title>分析師稱川普的關稅和減稅措施可能會讓科技業陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</link>
       <description><![CDATA[Forrester 對總統經濟議程的看法對行業來說並不樂觀 唐納德·特朗普重返白宮還不到兩週，政府可能對全球科技行業產生的影響是仍遠未明朗。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</guid>
       <pubDate>Fri, 31 Jan 2025 19:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>您要對該功能做什麼？微軟定義了「棄用」的含義</title>
+      <title>您要對該功能執行什麼操作？微軟定義了「棄用」的含義</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_defines_what_it_means/</link>
       <description><![CDATA[如果你不是在開玩笑，或者沒有人知道你的意思，那麼自我貶低就沒那麼有趣了 微軟已經解釋了「貶低」的含義——它並不意味著「結束”，意思是“儲存日期”。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/microsoft_defines_what_it_means/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>「被遺棄」的太空人破紀錄進行第九次太空行走</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</link>
-      <description><![CDATA[蘇尼塔威廉斯(Sunita Williams) 聲稱自己是女性EVA 的領軍人物 美國太空總署(NASA) 太空人蘇尼塔威廉斯(Sunita Williams) 打破了佩吉·惠特森(Peggy Whitson) 保持的女宇航員太空行走總時間記錄，她在國際空間站(ISS) 外進行了一次旅行，收集數據來自前哨站外部的樣本......]]></description>
+      <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 創造的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</guid>
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
     </item>
@@ -125,9 +132,9 @@
       <pubDate>Fri, 31 Jan 2025 12:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>威爾斯女子因腸胃氣脹網絡騷擾被罰款</title>
+      <title>威爾斯女子因放屁引發網路騷擾被罰款</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</link>
-      <description><![CDATA[法院表示，她處理與伴侶前夫的子女探視權糾紛的方式真的很糟糕 威爾士為世界帶來了很多東西 — — 湯姆瓊斯、紫菜麵包和等號。但來自卡那芬的一名女子卻將屁武器化加入了名單。她對 WhatsApp 的非常規做法使她受到社區服務命令和罰款。]]></description>
+      <description><![CDATA[法院表示，她處理與伴侶前夫的子女探視權糾紛的方式真的很糟糕 威爾士為世界帶來了很多東西 — — 湯姆瓊斯、紫菜麵包和等號。但來自卡那芬的一名女子卻將武器化的腸胃脹氣也加入了名單。她對 WhatsApp 的非常規做法使她受到社區服務命令和罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/wales_flatulence_harassment/</guid>
       <pubDate>Fri, 31 Jan 2025 11:50:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[然而，這些場所中只有35% 真正接入了網絡，而且公司報告稱「競爭對手的損失更大」 英國電信集團聲稱，在最後三個季度中，該公司創下了超過一百萬個場所的建設速度。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/bt_fiber_rollout_passes_17/</guid>
       <pubDate>Fri, 31 Jan 2025 11:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲太空總署選擇泰雷茲阿萊尼亞航太公司建造月球登陸器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/european_space_agency_taps_thales/</link>
-      <description><![CDATA[歐空局和阿爾戈英雄 歐洲太空總署(ESA) 與泰雷茲阿萊尼亞航太公司簽署了價值8.62 億歐元的協議，開發月球登陸器。  ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/european_space_agency_taps_thales/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:17:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
