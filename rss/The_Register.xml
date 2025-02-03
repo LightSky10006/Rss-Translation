@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Feb 2025 09:36:40 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Mon, 03 Feb 2025 10:39:13 GMT</lastBuildDate>
+    <item>
+      <title>特大城市議會的 Oracle 財務修復面臨進一步延遲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/birmingham_city_council_oracle/</link>
+      <description><![CDATA[第三方軟體創可貼預計延遲六個月 伯明罕市議會試圖實施一個有效的財務系統，但結果卻一再拖延，原因是現成的軟體無法解決「其中一個陷入困境的Oracle實現的「根本問題」已經解決…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/birmingham_city_council_oracle/</guid>
+      <pubDate>Mon, 03 Feb 2025 10:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>英國商務部超支 2.08 億英鎊，準備支付郵局 IT 醜聞中受傷員工的工資</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/uk_government_department_exceeds_spending/</link>
-      <description><![CDATA[審計員提供保留意見，因為歷史性誤判造成的財務後果仍不清楚 英國支出監督機構對商業和貿易部的賬目提出了“保留意見”，主要是因為圍繞該計劃旨在減輕圍繞郵局地平線IT 醜聞的歷史不公義。]]></description>
+      <description><![CDATA[審計員提供保留意見，因為歷史性誤判造成的財務後果仍不清楚 更新  英國支出監管機構對英國商業和貿易部提出的賬戶，主要是因為圍繞著旨在減輕郵局地平線IT 醜聞的歷史不公正的計劃存在不確定性…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/uk_government_department_exceeds_spending/</guid>
       <pubDate>Mon, 03 Feb 2025 09:30:12 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>川普對加拿大、墨西哥和中國徵收關稅，行業組織希望貿易戰武器不要指向他們</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_tariff_analysis/</link>
-      <description><![CDATA[科技遊說團體沒有坐在談判桌上，擔心會出現意想不到的後果 美國總統唐納德·川普兌現了其競選承諾，對加拿大和墨西哥的進口產品徵收25%的關稅，徵收關稅，並對來自中國的商品徵收百分之十的關稅。產業團體迅速回應稱這不是個好主意。]]></description>
+      <description><![CDATA[科技遊說團體不願參與談判，擔心產生意想不到的後果 美國總統唐納德·川普兌現了競選時的承諾，對來自加拿大和墨西哥的進口產品徵收25% 的關稅，並對來自中國的商品徵收10%的關稅。產業組織迅速回應，表示這不是個好主意。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_tariff_analysis/</guid>
       <pubDate>Mon, 03 Feb 2025 04:29:13 GMT</pubDate>
     </item>
     <item>
       <title>醫療監控機器被發現竊取病患數據，警告用戶盡快停止使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/backdoored_contec_patient_monitors_leak_data/</link>
-      <description><![CDATA[PLUS：米高梅就違約訴訟達成和解； AWS 不信任您的安全預設；一輛新的.NET後門；等等 資訊安全簡介 美國食品和藥物管理局已告知使用Contec 設備監控患者的醫療機構和護理人員盡快斷開設備與互聯網的連接。 ]]></description>
+      <description><![CDATA[另外：米高梅就違約訴訟達成和解； AWS 不信任您的安全預設值；一輛新的.NET 後門；等等 資訊安全簡介  美國食品藥物管理局已告知使用 Contec 設備監測患者的醫療機構和護理人員盡快斷開設備與互聯網的連接。對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/backdoored_contec_patient_monitors_leak_data/</guid>
       <pubDate>Mon, 03 Feb 2025 02:02:06 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 03 Feb 2025 00:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>人類帶來了熱量。地球說我們付出了代價</title>
+      <title>人類帶來了熱量。地球說我們付出代價</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/heatwaves_future/</link>
       <description><![CDATA[在野火造成的死亡和破壞中，有解決方案，可行的智能解決方案，但誰願意談論這個呢？  特別報道  我們人類已經大量使用化石燃料一個多世紀以來，這頓美味可口、增進文明的大餐終於到了該付賬的時候了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/heatwaves_future/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>歐洲警察搗毀兩個主要網路犯罪論壇，吉爾摩女孩粉絲被逮捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/eurocops_takedown_cybercrime/</link>
-      <description><![CDATA[Nulled and Cracked 的崛起呈現Lorelai-cal 式成長- 直到「人才行動」介入 歐洲各地的執法人員再次集結，集體瓦解網路犯罪的主要推動者，其中至少一名被戴上手銬的人顯然是粉絲喜劇系列吉爾莫女孩。 ]]></description>
+      <description><![CDATA[Nulled and Cracked 的崛起就像Lorelai 一樣- 直到Operation Talent 介入 歐洲各地的執法人員再次聚集在一起，共同打擊網絡犯罪的主要推動者，其中至少有一名被銬住的人顯然是粉絲喜劇系列《吉爾莫女孩》… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/eurocops_takedown_cybercrime/</guid>
       <pubDate>Sun, 02 Feb 2025 13:19:07 GMT</pubDate>
     </item>
@@ -76,14 +83,14 @@
       <pubDate>Sun, 02 Feb 2025 09:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾已正式錯過資料中心人工智慧的機會</title>
+      <title>英特爾正式錯過了資料中心人工智慧的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</link>
       <description><![CDATA[但它在網路邊緣和 PC 領域仍有機會 評價  英特爾可能曾希望挑戰競爭對手 Nvidia 和 AMD，爭奪 AI 加速器市場份額由於又一個GPU 架構被廢棄，市場於週四解散。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</guid>
       <pubDate>Sat, 01 Feb 2025 15:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧上</title>
+      <title>DeepSeek 還是 DeepFake？我們的禿鷹盤旋在中國最熱門的人工智慧周圍</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</link>
       <description><![CDATA[如果這能讓矽穀保持警惕和誠實，我們又有什麼資格抱怨呢？ DeepSeek…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>分析師稱川普的關稅和減稅措施可能會讓科技業陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</link>
-      <description><![CDATA[Forrester 對總統經濟議程的看法對該行業來說並不樂觀 唐納德·特朗普重返白宮還不到兩週，政府可能對全球科技行業產生的影響是還遠未明朗。 ...]]></description>
+      <description><![CDATA[Forrester 對總統經濟議程的看法對行業來說並不樂觀 唐納德·特朗普重返白宮還不到兩週，政府可能對全球科技行業產生的影響是仍遠未明朗。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/trump_policies_painting_global_tech/</guid>
       <pubDate>Fri, 31 Jan 2025 19:18:43 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>DeepSeek 意味著企業需要更謹慎地考慮 AI 投資</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</link>
-      <description><![CDATA[但分析師表示，中國新創公司的重組並不預示著基礎設施建設需求「急劇下降」 分析 中國新創公司發布具有競爭力的人工智慧模型後的衝擊波DeepSeek 讓許多人質疑這樣一種假設：在昂貴的大規模基於 GPU 的基礎設施上投入更多資金可以帶來最佳結果。]]></description>
+      <description><![CDATA[但分析師表示，中國新創企業重組並不意味著基礎設施建設需求「大幅下降」 分析 中國新創公司發布具有競爭力的人工智慧模型後引發的衝擊波DeepSeek 讓許多人開始質疑這樣的假設：在昂貴的大規模基於 GPU 的基礎設施上投入更多資金就能取得最好的結果…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</guid>
       <pubDate>Fri, 31 Jan 2025 15:33:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Sunita Williams 宣稱自己是女性太空人太空行走的領導者 NASA 太空人Sunita Williams 打破了Peggy Whitson 保持的女性太空人太空行走總時間記錄，她在國際太空站(ISS)外進行了一次太空行走，收集了來自前哨站外部的樣本。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/abandoned_astro_takes_recordbreaking_ninth/</guid>
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 依賴美國更友善的監管環境來促成交易</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</link>
-      <description><![CDATA[預計收購 Hashicorp 的交易即將完成，計劃利用 70 億美元自由現金中的一部分進行更多併購 鑑於 Big藍色被認為是一種“更合理”和“更利於競爭」的監管環境。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
