@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 03 Feb 2025 14:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 16:41:27 GMT</lastBuildDate>
     <item>
-      <title>《文明 VII》回顧：重大改革解決了《文明》最古老的問題</title>
+      <title>Microsoft 365 的 VPN 功能將於本月底關閉</title>
+      <link>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</link>
+      <description><![CDATA[VPN 加密了公共網路上的數據，但缺少一些常見功能。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</guid>
+      <pubDate>Mon, 03 Feb 2025 16:27:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>本田如何將電動車融入其在美國生產的汽車中</title>
+      <link>https://arstechnica.com/cars/2025/02/honda-cleans-greens-its-ohio-factories-to-add-evs-to-the-mix/</link>
+      <description><![CDATA[巨型壓力機和 3D 攪拌焊接製造電池外殼。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/honda-cleans-greens-its-ohio-factories-to-add-evs-to-the-mix/</guid>
+      <pubDate>Mon, 03 Feb 2025 16:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>格陵蘭島的冰川崩塌速度比預期的快</title>
+      <link>https://arstechnica.com/science/2025/02/greenlands-glaciers-are-falling-apart-faster-than-expected/</link>
+      <description><![CDATA[新的 3D 研究顯示融水導致冰川冰層出現更深的裂縫。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/greenlands-glaciers-are-falling-apart-faster-than-expected/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>《文明 VII》評論：重大改革解決了《文明》最古老的問題</title>
       <link>https://arstechnica.com/gaming/2025/02/civilization-vii-review-a-major-overhaul-solves-civs-oldest-problems/</link>
-      <description><![CDATA[並非所有的變化都會受歡迎，但它是新時代的一個很好的起點。]]></description>
+      <description><![CDATA[並非所有的改變都會受到歡迎，但它是新時代的偉大起點。]]></description>
       <guid>https://arstechnica.com/gaming/2025/02/civilization-vii-review-a-major-overhaul-solves-civs-oldest-problems/</guid>
       <pubDate>Mon, 03 Feb 2025 14:00:51 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[OpenAI 表示，更快、更準確的以 STEM 為重點的模式將免費提供給所有用戶。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</guid>
       <pubDate>Fri, 31 Jan 2025 20:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>財政部官員因與 DOGE 就支付系統存取權限發生衝突而退休</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/</link>
-      <description><![CDATA[長期擔任該職務的官員因「爭奪敏感支付系統存取權限」而發生衝突後退休。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>浮標在《愛我》中遇見衛星靈魂伴侶</title>
-      <link>https://arstechnica.com/culture/2025/01/buoy-meets-satellite-soul-mate-in-love-me/</link>
-      <description><![CDATA[Ars 與導演 Andy 和 Sam Zuchero 以及道具部門主管 Roberts Cifersons 進行了交談。]]></description>
-      <guid>https://arstechnica.com/culture/2025/01/buoy-meets-satellite-soul-mate-in-love-me/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴爾迫使所有團隊全職回到辦公室，面臨留住員工的風險</title>
-      <link>https://arstechnica.com/information-technology/2025/01/dell-risks-employee-retention-by-forcing-all-teams-back-into-offices-full-time/</link>
-      <description><![CDATA[“戴爾可能錯失了一些優秀人才...”]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/01/dell-risks-employee-retention-by-forcing-all-teams-back-into-offices-full-time/</guid>
-      <pubDate>Fri, 31 Jan 2025 17:40:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
