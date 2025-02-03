@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 03 Feb 2025 16:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:40:21 GMT</lastBuildDate>
     <item>
-      <title>Microsoft 365 的 VPN 功能將於本月底關閉</title>
+      <title>Starlink 面臨希望與危險，但利潤快速成長</title>
+      <link>https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/</link>
+      <description><![CDATA[“他想把食物從人們——勤勞的人們——的餐桌上奪走。”]]></description>
+      <guid>https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 稱其模型比 82% 的 Reddit 用戶更有說服力</title>
+      <link>https://arstechnica.com/ai/2025/02/are-ais-getting-dangerously-good-at-persuasion-openai-says-not-yet/</link>
+      <description><![CDATA[ChatGPT 創辦人擔心人工智慧成為「控制民族國家的強大武器」。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/are-ais-getting-dangerously-good-at-persuasion-openai-says-not-yet/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365 的 VPN 功能將於月底關閉</title>
       <link>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</link>
-      <description><![CDATA[VPN 加密了公共網路上的數據，但缺少一些常見功能。]]></description>
+      <description><![CDATA[VPN 在公共網路上加密數據，但缺少一些常見功能。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</guid>
       <pubDate>Mon, 03 Feb 2025 16:27:27 GMT</pubDate>
     </item>
@@ -20,7 +34,7 @@
       <pubDate>Mon, 03 Feb 2025 16:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>格陵蘭島的冰川崩塌速度比預期的快</title>
+      <title>格陵蘭島的冰川融化速度比預期更快</title>
       <link>https://arstechnica.com/science/2025/02/greenlands-glaciers-are-falling-apart-faster-than-expected/</link>
       <description><![CDATA[新的 3D 研究顯示融水導致冰川冰層出現更深的裂縫。]]></description>
       <guid>https://arstechnica.com/science/2025/02/greenlands-glaciers-are-falling-apart-faster-than-expected/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>為了幫助人工智慧理解世界，研究人員將它們放入機器人中</title>
       <link>https://arstechnica.com/science/2025/02/to-help-ais-understand-the-world-researchers-put-them-in-a-robot/</link>
-      <description><![CDATA[知道一個單字和知道一個概念之間是有區別的。]]></description>
+      <description><![CDATA[知道一個單字和知道一個概念是有區別的。]]></description>
       <guid>https://arstechnica.com/science/2025/02/to-help-ais-understand-the-world-researchers-put-them-in-a-robot/</guid>
       <pubDate>Sat, 01 Feb 2025 12:05:54 GMT</pubDate>
     </item>
@@ -57,23 +71,9 @@
     <item>
       <title>FCC 要求 CBS 提供卡馬拉哈里斯採訪的未經編輯的記錄</title>
       <link>https://arstechnica.com/tech-policy/2025/01/fcc-demands-cbs-provide-unedited-transcript-of-kamala-harris-interview/</link>
-      <description><![CDATA[美國聯邦通訊委員會 (FCC) 正在調查《60 分鐘》採訪的剪輯，哥倫比亞廣播公司 (CBS) 則考慮解決川普的訴訟。]]></description>
+      <description><![CDATA[哥倫比亞廣播公司 (CBS) 考慮和解川普訴訟之際，美國聯邦通訊委員會 (FCC) 對《60 分鐘》採訪的編輯展開調查。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/fcc-demands-cbs-provide-unedited-transcript-of-kamala-harris-interview/</guid>
       <pubDate>Fri, 31 Jan 2025 22:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Pixel 4a 的「電池效能」更新令人困惑不已</title>
-      <link>https://arstechnica.com/gadgets/2025/01/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess/</link>
-      <description><![CDATA[很難說清楚為什麼谷歌要這麼做而不是召回。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess/</guid>
-      <pubDate>Fri, 31 Jan 2025 21:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 以 o3-mini 推理模型反擊 DeepSeek</title>
-      <link>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</link>
-      <description><![CDATA[OpenAI 表示，更快、更準確的以 STEM 為重點的模式將免費提供給所有用戶。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:06:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
