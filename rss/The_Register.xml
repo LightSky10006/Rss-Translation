@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Mon, 03 Feb 2025 00:58:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 02:13:54 GMT</lastBuildDate>
+    <item>
+      <title>醫療監控機器被發現竊取病患數據，警告用戶盡快停止使用</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/backdoored_contec_patient_monitors_leak_data/</link>
+      <description><![CDATA[另外：米高梅就違約訴訟達成和解； AWS 不信任您的安全預設值；一輛新的.NET 後門；等等 資訊安全簡介  美國食品藥物管理局已告知使用 Contec 設備監測患者的醫療機構和護理人員盡快斷開設備與互聯網的連接。對]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/backdoored_contec_patient_monitors_leak_data/</guid>
+      <pubDate>Mon, 03 Feb 2025 02:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>新加坡稱 Nvidia 驚人的本地銷售並不意味著它是 DeepSeek GPU 的來源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/asia_tech_news_in_brief/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>微軟資深人士哀嘆世界連牙刷都需要重啟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</link>
-      <description><![CDATA[Raymond Chen 反思永無止境的更新和重啟循環 評價 還記得什麼時候不需要不斷更新和重啟才能工作嗎？資深微軟工程師 Raymond Chen 指出，這種痛苦甚至蔓延到了不起眼的電動牙刷…]]></description>
+      <description><![CDATA[Raymond Chen 反思永無止境的更新和重啟循環 評價 還記得什麼時候不需要不斷更新和重啟就可以工作嗎？資深微軟工程師 Raymond Chen 指出，這種疾病甚至蔓延到了不起眼的電動牙刷。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/</guid>
       <pubDate>Sun, 02 Feb 2025 09:31:07 GMT</pubDate>
     </item>
     <item>
       <title>英特爾已正式錯過資料中心人工智慧的機會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</link>
-      <description><![CDATA[但它在網路邊緣和 PC 領域仍有機會 評價  英特爾可能曾希望挑戰競爭對手 Nvidia 和 AMD，爭奪 AI 加速器市場份額由於又一個GPU 架構被廢棄，市場於週四解散。]]></description>
+      <description><![CDATA[但它在網絡邊緣和 PC 領域仍有機會 評論 任何希望英特爾能夠挑戰競爭對手 Nvidia 和 AMD 以獲得人工智能加速器份額的希望由於又一個GPU 架構被廢棄，市場於週四解散。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/</guid>
       <pubDate>Sat, 01 Feb 2025 15:03:10 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 31 Jan 2025 16:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 意味著企業需要更謹慎地考慮 AI 投資</title>
+      <title>DeepSeek意味著企業需要更謹慎地考慮AI投資</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</link>
       <description><![CDATA[但分析師表示，中國新創企業重組並不意味著基礎設施建設需求「大幅下降」 分析 中國新創公司發布具有競爭力的人工智慧模型後引發的衝擊波DeepSeek 讓許多人開始質疑這樣的假設：在昂貴的大規模基於 GPU 的基礎設施上投入更多資金就能取得最好的結果…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/deepseek_implications/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Fri, 31 Jan 2025 14:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 寄望於美國的交易監管環境更加友好</title>
+      <title>IBM 依賴美國更友善的監管環境來促成交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</link>
       <description><![CDATA[預計收購 Hashicorp 的交易即將完成，計劃利用 70 億美元自由現金中的一部分進行更多併購 鑑於 Big藍色被認為是一種“更合理”和“更利於競爭」的監管環境。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/ibm_banks_on_friendlier_us/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 31 Jan 2025 10:17:56 GMT</pubDate>
     </item>
     <item>
-      <title>儘管被警察打倒，但勒索軟體團夥又迎來了輝煌的一年</title>
+      <title>儘管遭到警方打擊，勒索軟體集團依然取得了輝煌的一年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/banner_year_for_ransomware_gangs/</link>
       <description><![CDATA[預測未來並不需要水晶球 如果勒索軟體攻擊的不斷氾濫還沒有讓每一天都感覺像土撥鼠日，那麼回顧 2024 年—— 2025 年的預測——肯定會。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/banner_year_for_ransomware_gangs/</guid>
       <pubDate>Fri, 31 Jan 2025 09:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>啊啊！水手的馬林索能修復破損的背板嗎？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/01/31/on_call/</link>
-      <description><![CDATA[身著歷史服裝前來解決問題的「古代水手」令人震驚，沒人開海盜玩笑 隨叫隨到  技術支援人員扮演著多種角色，並且&lt; i&gt;The Register 在 On Call 中慶祝了這一切，這是我們讀者投稿的星期五專欄，我們在其中分享了您的冒險故事。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/01/31/on_call/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:14:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
