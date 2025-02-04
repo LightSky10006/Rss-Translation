@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 23:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 23:34:53 GMT</lastBuildDate>
+    <item>
+      <title>Google：如何讓任何 AMD Zen CPU 始終產生 4 作為隨機數</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</link>
+      <description><![CDATA[發現惡意微程式碼漏洞，至少針對Epycs 推出了修復程式 Google員工不僅找到如何破解AMD 的安全性的方法——允許他們將非官方的微程式碼載入到其處理器中以修改矽片的行為——而且還通過製作一個微代碼補丁證明了這一點，該補丁使得芯片在被要求輸入一個隨機數時始終輸出 4。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</guid>
+      <pubDate>Tue, 04 Feb 2025 23:30:46 GMT</pubDate>
+    </item>
     <item>
       <title>中國對谷歌發起反壟斷調查 報復川普進口關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</link>
@@ -13,9 +20,9 @@
       <pubDate>Tue, 04 Feb 2025 21:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>FBI 秘密 UFO 獵人擔心川普 1 月 6 日的清洗行動會將他們送入軌道</title>
+      <title>FBI 秘密 UFO 獵人擔心川普 1 月 6 日的清洗將把他們送入軌道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/fbis_secret_ufo_hunters_fear/</link>
-      <description><![CDATA[也許馬斯克只是想要那些肯定不存在的外星太空技術？  一個之前未公開的FBI 特工小組，負責調查UFO，即政府所稱的“不明異常現象(UAP )」。他們擔心自己可能無法在即將到來的川普領導的政治清洗中生存下來。…  ]]></description>
+      <description><![CDATA[也許馬斯克只是想要那些肯定不存在的外星太空技術？  一個之前未公開的FBI 特工小組，負責調查UFO，即政府所稱的“不明異常現象(UAP )」。他們擔心自己可能無法在川普領導的政治清洗中生存下來。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/fbis_secret_ufo_hunters_fear/</guid>
       <pubDate>Tue, 04 Feb 2025 20:30:15 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
-      <description><![CDATA[研究人員表示，生態系統的自動快取是淨積極因素，但也存在可利用的怪癖 一位安全研究人員表示，一個偽裝成數千個組織使用的合法Go 編程語言包的後門多年來一直未被發現。]]></description>
+      <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但存在可利用的怪癖 一位安全研究人員表示，偽裝成數千個組織使用的合法Go 程式語言包的後門多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
       <pubDate>Tue, 04 Feb 2025 17:28:11 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 04 Feb 2025 15:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>美國指控加拿大數學神童實施價值 6500 萬美元的加密貨幣計劃</title>
+      <title>美國指控加拿大數學天才涉嫌 6500 萬美元加密貨幣欺詐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</link>
       <description><![CDATA[據稱，嫌疑人仍在逃，他支持「代碼即法律」的理念 紐約聯邦調查局今天公佈了一份五項刑事起訴書，指控一名22 歲的加拿大數學天才利用漏洞在兩個去中心化金融協議中，據稱利用它們從平台投資者手中欺詐性地吸走約6500 萬美元。 data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 04 Feb 2025 14:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>愛爾蘭人工智慧部長從未使用過 ChatGPT，但發誓她會學得很快</title>
+      <title>愛爾蘭人工智慧部長從未使用過 ChatGPT，但發誓她會快速學會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/irish_ai_minister/</link>
       <description><![CDATA[嘿，任何政府都不知道他們在做什麼 愛爾蘭共和國新任人工智慧部長應該立即諮詢 ChatGPT，以尋求有關如何開展工作的指點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/irish_ai_minister/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份的 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 04 Feb 2025 01:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
+      <title>馬斯克的 DOGE 船獲得「完全」訪問財政部支付系統的權限，擊沉了美國國際開發署</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
       <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[參議員問，國土安全監管機構回答：這值得花錢嗎？如下來自立法者和隱私倡導者的批評......]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</guid>
       <pubDate>Mon, 03 Feb 2025 22:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普從聯邦網站上刪除了所有關於 DEI、性別、氣候變遷的提及</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</link>
-      <description><![CDATA[同時，網路檔案館再次競相挽救一切可能的內容 為了趕上川普政府針對多元化舉措和性別。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</guid>
-      <pubDate>Mon, 03 Feb 2025 21:30:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
