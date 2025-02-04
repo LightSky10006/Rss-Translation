@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 09:36:05 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 04 Feb 2025 10:39:30 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜的 Kuiper 獲得在英國與 Starlink 競爭的許可</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</link>
+      <description><![CDATA[大家都會表現得很好，好嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</guid>
+      <pubDate>Tue, 04 Feb 2025 10:16:14 GMT</pubDate>
+    </item>
     <item>
       <title>英國政府必須快速學習，讓失敗的計畫早日消亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
-      <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
+      <description><![CDATA[還有誰比伊隆更值得信任數萬億美元、社會安全號碼和其他敏感資訊 華盛頓特區的混亂局面從週末持續到週一，政府工作人員被鎖在辦公室和伊隆馬斯克的部門以外政府效率部 (DOGE) 不受限制地存取機密資料和頂級政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
       <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 03 Feb 2025 21:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>安大略省回應川普的關稅，將 Starlink 協議扔進垃圾桶</title>
+      <title>安大略省將星鏈交易扔進垃圾桶來回應川普關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/ontario_canada_responds_to_trump_tariff/</link>
       <description><![CDATA[加拿大安大略省「不會與一心想摧毀我們經濟的人做生意」 更新  加拿大安大略省政府正在反擊川普總統的 25% 關稅通過廢除與伊隆馬斯克的Starlink 達成的協議來打擊美國的北方鄰國… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/ontario_canada_responds_to_trump_tariff/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Mon, 03 Feb 2025 19:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾在反壟斷罰款被撤銷後從歐盟獲得 5.15 億歐元</title>
+      <title>古老的反壟斷罰款被取消後，英特爾從歐盟獲得了 5.15 億歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/intel_eu_antitrust_payout/</link>
       <description><![CDATA[陷入困境的晶片製造商在原本陰鬱的一年中看到了一絲曙光 陷入困境的晶片巨頭英特爾在2017 年從歐盟收到5.1555 億歐元（5.36 億美元）的賠款後，至少有一件事情值得微笑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/intel_eu_antitrust_payout/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Mon, 03 Feb 2025 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>加州理工學院的突破為光帆太空技術提供了助力</title>
+      <title>Lightsail 太空技術從加州理工學院的突破中獲益</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</link>
       <description><![CDATA[科幻星際旅行再獲小小推動 幾個世紀前，西方探險家利用風帆發現了一個他們此前未知的世界——儘管那裡的人們早已熟知——科幻作家和工程師想知道太空探索是否也能由光帆提供動力… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[第三方軟體創可貼預計延遲六個月 伯明罕市議會試圖實施一個有效的財務系統，但結果卻一再拖延，原因是現成的軟體無法解決「其中一個陷入困境的Oracle實現的「根本問題」已經解決…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/birmingham_city_council_oracle/</guid>
       <pubDate>Mon, 03 Feb 2025 10:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國商務部超支 2.08 億英鎊，準備支付郵局 IT 醜聞中受傷員工的工資</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/uk_government_department_exceeds_spending/</link>
-      <description><![CDATA[審計員提供保留意見，因為歷史性誤判造成的財務後果仍不清楚 更新  英國支出監管機構對英國商業和貿易部提出的賬戶，主要是因為圍繞著旨在減輕郵局地平線IT 醜聞的歷史不公正的計劃存在不確定性…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/uk_government_department_exceeds_spending/</guid>
-      <pubDate>Mon, 03 Feb 2025 09:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
