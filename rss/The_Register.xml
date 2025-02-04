@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 17:11:43 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 04 Feb 2025 17:38:07 GMT</lastBuildDate>
+    <item>
+      <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
+      <description><![CDATA[研究人員表示，生態系統的自動快取是淨積極因素，但也存在可利用的怪癖 一位安全研究人員表示，一個偽裝成數千個組織使用的合法Go 編程語言包的後門多年來一直未被發現。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
+      <pubDate>Tue, 04 Feb 2025 17:28:11 GMT</pubDate>
+    </item>
     <item>
       <title>Palantir 執行長表示，其旨在“激發西方明顯的先天優勢”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/palantir_karp_comments/</link>
-      <description><![CDATA[嗯，有人想換座位嗎？之一是「讓西方發揮其明顯的先天優勢」。]]></description>
+      <description><![CDATA[嗯，有人想換座位嗎？之一是「讓西方發揮其明顯的先天優勢。」...&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/palantir_karp_comments/</guid>
       <pubDate>Tue, 04 Feb 2025 16:15:06 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 04 Feb 2025 15:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>美國指控加拿大數學天才涉嫌 6500 萬美元加密貨幣欺詐</title>
+      <title>美國指控加拿大數學神童實施價值 6500 萬美元的加密貨幣計劃</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</link>
       <description><![CDATA[據稱，嫌疑人仍在逃，他支持「代碼即法律」的理念 紐約聯邦調查局今天公佈了一份五項刑事起訴書，指控一名22 歲的加拿大數學天才利用漏洞在兩個去中心化金融協議中，據稱利用它們從平台投資者手中欺詐性地吸走約6500 萬美元。 data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt;/對]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</guid>
@@ -78,19 +85,19 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份的 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>連英偉達的黃仁勳也無法說服總統取消晶片進口稅</title>
+      <title>甚至連 Nvidia 的黃仁勳也無法說服關稅局長放棄徵收晶片進口稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</link>
       <description><![CDATA[GPU 巨頭只需等待八分鐘，唐納德就會改變主意 美國總統唐納德·特朗普喜歡他的關稅，而且似乎甚至與Nvidia 首席執行官黃仁勳會面也無法說服他改變路線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</guid>
       <pubDate>Tue, 04 Feb 2025 01:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
+      <title>馬斯克的 DOGE 船獲得「完全」訪問財政部支付系統的權限，擊沉了美國國際開發署</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
       <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 03 Feb 2025 22:58:09 GMT</pubDate>
     </item>
     <item>
-      <title>TSA 機場臉部辨識技術面臨審計調查</title>
+      <title>TSA 機場人臉辨識技術面臨稽核調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</link>
       <description><![CDATA[參議員問，國土安全監察機構回答：這值得花錢嗎？來自立法者和隱私權倡導者的批評。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>川普從聯邦網站上刪除了所有關於 DEI、性別、氣候變遷的提及</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</link>
-      <description><![CDATA[同時，網路檔案館再次競相挽救一切可能的內容 為了趕上川普政府針對多元化舉措和性別。]]></description>
+      <description><![CDATA[與此同時，互聯網檔案館再次競相保存其所能保存的內容 大量網頁已從聯邦網站上消失，以期在最後期限前執行特朗普政府針對多元化倡議和性別...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</guid>
       <pubDate>Mon, 03 Feb 2025 21:30:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[陷入困境的晶片製造商在原本陰鬱的一年中看到了一絲曙光 陷入困境的晶片巨頭英特爾在2017 年從歐盟收到5.1555 億歐元（5.36 億美元）的賠款後，至少有一件事情值得微笑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/intel_eu_antitrust_payout/</guid>
       <pubDate>Mon, 03 Feb 2025 17:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>《決勝時刻》工作室聯合創始人承認無人機撞向消防飛機</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/call_of_duty_founder_drone_crash/</link>
-      <description><![CDATA[Peter Tripp Akemann 避免了牢獄之災，將支付「超級鏟車」的維修費用，並被命令協助洛杉磯的野火恢復 加州卡爾弗城的一名居民承認他的無人機撞上了“超級鏟車” &#39;消防飛機正在撲滅洛杉磯野火。據司法部稱，他的認罪將使他免於最多一年的監禁。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/call_of_duty_founder_drone_crash/</guid>
-      <pubDate>Mon, 03 Feb 2025 16:53:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
