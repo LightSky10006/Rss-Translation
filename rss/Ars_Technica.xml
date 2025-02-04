@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 04 Feb 2025 00:57:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 02:57:00 GMT</lastBuildDate>
+    <item>
+      <title>熱門 Linux 組織 Freedesktop 和 Alpine Linux 正在爭取新的網站寄存服務</title>
+      <link>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</link>
+      <description><![CDATA[捐贈者放棄裸機伺服器使得各團體開始尋找新的伺服器。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</guid>
+      <pubDate>Mon, 03 Feb 2025 23:47:22 GMT</pubDate>
+    </item>
     <item>
       <title>隨著新任命，人們對 SpaceX 對 NASA 影響力的擔憂加劇</title>
       <link>https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>「零警告」：資深 YouTuber 痛斥頻道無故刪除</title>
       <link>https://arstechnica.com/tech-policy/2025/02/youtube-briefly-banned-15-year-old-channel-with-no-strikes-and-wont-say-why/</link>
-      <description><![CDATA[開發者呼籲手動審核來結束 YouTube 的自動頻道刪除功能。]]></description>
+      <description><![CDATA[開發人員呼籲手動審核，以終止 YouTube 自動刪除頻道的功能。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/youtube-briefly-banned-15-year-old-channel-with-no-strikes-and-wont-say-why/</guid>
       <pubDate>Mon, 03 Feb 2025 21:33:13 GMT</pubDate>
     </item>
     <item>
       <title>讓我們噴灑：河豚向空中噴射尿流</title>
       <link>https://arstechnica.com/science/2025/02/let-us-spray-river-dolphins-launch-pee-streams-into-air/</link>
-      <description><![CDATA[目前尚不清楚河豚為什麼會這樣做，但這可能具有某種社會功能。]]></description>
+      <description><![CDATA[目前還不清楚河豚為什麼會這樣做，但這可能有某種社會功能。]]></description>
       <guid>https://arstechnica.com/science/2025/02/let-us-spray-river-dolphins-launch-pee-streams-into-air/</guid>
       <pubDate>Mon, 03 Feb 2025 20:14:41 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Mon, 03 Feb 2025 17:31:15 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft 365 的 VPN 功能將於月底關閉</title>
+      <title>Microsoft 365 的 VPN 功能將於本月底關閉</title>
       <link>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</link>
-      <description><![CDATA[VPN 加密了公共網路上的數據，但缺少一些常見功能。]]></description>
+      <description><![CDATA[VPN 在公共網路上加密數據，但缺少一些常見功能。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/microsoft-365s-vpn-feature-will-be-shut-off-at-the-end-of-the-month/</guid>
       <pubDate>Mon, 03 Feb 2025 16:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>本田如何將電動車融入其在美國生產的汽車中</title>
-      <link>https://arstechnica.com/cars/2025/02/honda-cleans-greens-its-ohio-factories-to-add-evs-to-the-mix/</link>
-      <description><![CDATA[巨型壓力機和 3D 攪拌焊接製造電池外殼。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/honda-cleans-greens-its-ohio-factories-to-add-evs-to-the-mix/</guid>
-      <pubDate>Mon, 03 Feb 2025 16:16:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
