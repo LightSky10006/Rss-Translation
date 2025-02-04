@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 10:39:30 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 04 Feb 2025 11:10:54 GMT</lastBuildDate>
+    <item>
+      <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
+      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重複使用，以在一次攻擊中劫持全球軟體供應鏈，這將使俄羅斯的“ SolarWinds 冒險”看起來很業餘，微不足道”，watchTowr Labs 安全研究人員聲稱。 &gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
+      <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>亞馬遜的 Kuiper 獲得在英國與 Starlink 競爭的許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>英國政府必須快速學習，讓失敗的計畫早日消亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</link>
-      <description><![CDATA[支出監督機構建議解決生產力、網路彈性和公共部門文化等長期存在的問題 英國政府支出監督機構呼籲現任政府更好地利用技術來啟動低迷的經濟，並確保在預算緊縮的情況下更好地提供公共服務…]]></description>
+      <description><![CDATA[支出監督機構建議解決生產力、網路彈性和公共部門文化等長期存在的問題 英國政府支出監督機構呼籲現任政府更好地利用科技來重振低迷的經濟，並確保在預算緊縮的情況下更好地提供公共服務…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</guid>
       <pubDate>Tue, 04 Feb 2025 09:30:08 GMT</pubDate>
     </item>
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份的 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
-      <description><![CDATA[還有誰比伊隆更值得信任數萬億美元、社會安全號碼和其他敏感資訊 華盛頓特區的混亂局面從週末持續到週一，政府工作人員被鎖在辦公室和伊隆馬斯克的部門以外政府效率部 (DOGE) 不受限制地存取機密資料和頂級政府支付系統。]]></description>
+      <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
       <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
@@ -62,9 +69,9 @@
       <pubDate>Mon, 03 Feb 2025 21:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>安大略省將星鏈交易扔進垃圾桶來回應川普關稅</title>
+      <title>安大略省回應川普的關稅，將 Starlink 協議扔進垃圾桶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/ontario_canada_responds_to_trump_tariff/</link>
-      <description><![CDATA[加拿大安大略省「不會與一心想摧毀我們經濟的人做生意」 更新  加拿大安大略省政府正在反擊川普總統的 25% 關稅通過廢除與伊隆馬斯克的Starlink 達成的協議來打擊美國的北方鄰國… ]]></description>
+      <description><![CDATA[加拿大省「不會與一心要摧毀我們經濟的人做生意」 更新 加拿大安大略省政府正在反擊川普總統徵收 25% 的關稅通過取消與伊隆馬斯克的星鏈協議來對付美國的北方鄰國。 p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/ontario_canada_responds_to_trump_tariff/</guid>
       <pubDate>Mon, 03 Feb 2025 20:15:12 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 03 Feb 2025 19:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>古老的反壟斷罰款被取消後，英特爾從歐盟獲得了 5.15 億歐元</title>
+      <title>英特爾在反壟斷罰款被撤銷後從歐盟獲得 5.15 億歐元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/intel_eu_antitrust_payout/</link>
       <description><![CDATA[陷入困境的晶片製造商在原本陰鬱的一年中看到了一絲曙光 陷入困境的晶片巨頭英特爾在2017 年從歐盟收到5.1555 億歐元（5.36 億美元）的賠款後，至少有一件事情值得微笑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/intel_eu_antitrust_payout/</guid>
@@ -97,14 +104,14 @@
       <pubDate>Mon, 03 Feb 2025 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Lightsail 太空技術從加州理工學院的突破中獲益</title>
+      <title>加州理工學院的突破為光帆太空技術提供了助力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</link>
       <description><![CDATA[科幻星際旅行再獲小小推動 幾個世紀前，西方探險家利用風帆發現了一個他們此前未知的世界——儘管那裡的人們早已熟知——科幻作家和工程師想知道太空探索是否也能由光帆提供動力… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</guid>
       <pubDate>Mon, 03 Feb 2025 15:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大考慮削減川普關稅，美國資料中心感到震驚</title>
+      <title>加拿大考慮因川普關稅而削減美國資料中心電力供應，美國資料中心將遭受衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</link>
       <description><![CDATA[短期結果可能是全面提高能源價格 更新  川普的關稅對美國資料中心及其不斷擴大的能源消耗提出了新的質疑，價格由於加拿大威脅停止能源供應，因此可能升息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>反貪部門調查北愛爾蘭警方數據支付案 2 名警官獲准保釋</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/two_psni_officers_arrested_bailed/</link>
-      <description><![CDATA[調查 2023 年敏感資訊洩露的警察的賠償情況 北愛爾蘭警察局​​ (PSNI) 已保釋兩名警官，他們因與向警察支付款項有關的欺詐調查而被捕其敏感數據於2023 年被錯誤發布…]]></description>
+      <description><![CDATA[調查 2023 年敏感資訊洩露的警察的賠償情況 北愛爾蘭警察局​​ (PSNI) 已保釋兩名警官，他們因與向警察付款有關的欺詐調查而被捕其敏感數據於2023 年被錯誤發布…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/two_psni_officers_arrested_bailed/</guid>
       <pubDate>Mon, 03 Feb 2025 11:46:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[從英國緊急服務通訊網路牟取暴利？ CMA 表示現在情況不再如此 英國競爭監管機構決定對摩托羅拉為英國緊急服務運營的通訊網絡設定價格上限，摩托羅拉將不被允許再次對此提出上訴。 ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/motorola_reaches_end_of_road/</guid>
       <pubDate>Mon, 03 Feb 2025 11:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>特大城市議會的 Oracle 財務修復面臨進一步延遲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/birmingham_city_council_oracle/</link>
-      <description><![CDATA[第三方軟體創可貼預計延遲六個月 伯明罕市議會試圖實施一個有效的財務系統，但結果卻一再拖延，原因是現成的軟體無法解決「其中一個陷入困境的Oracle實現的「根本問題」已經解決…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/birmingham_city_council_oracle/</guid>
-      <pubDate>Mon, 03 Feb 2025 10:15:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
