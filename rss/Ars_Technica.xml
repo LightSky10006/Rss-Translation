@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 04 Feb 2025 16:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 17:11:21 GMT</lastBuildDate>
     <item>
-      <title>現在生病了嗎？本季流感再度抬頭，達到更高高峰。</title>
+      <title>壁虎腳啟發防滑鞋底</title>
+      <link>https://arstechnica.com/science/2025/02/gecko-feet-inspire-anti-slip-shoe-soles/</link>
+      <description><![CDATA[在混合物中添加氧化鋯奈米粒子可增強防滑親水效果。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/gecko-feet-inspire-anti-slip-shoe-soles/</guid>
+      <pubDate>Tue, 04 Feb 2025 16:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>現在生病了嗎？本季流感再次出現高峰。</title>
       <link>https://arstechnica.com/health/2025/02/sick-right-now-flu-is-resurging-to-yet-a-higher-peak-this-season/</link>
       <description><![CDATA[很少有季節能夠看到兩座強度如此高的山峰。]]></description>
       <guid>https://arstechnica.com/health/2025/02/sick-right-now-flu-is-resurging-to-yet-a-higher-peak-this-season/</guid>
@@ -22,14 +29,14 @@
     <item>
       <title>中國對谷歌和英偉達展開反壟斷調查 回應關稅</title>
       <link>https://arstechnica.com/tech-policy/2025/02/china-responds-to-tariffs-with-antitrust-investigations-of-google-nvidia/</link>
-      <description><![CDATA[北京試圖透過重啟對科技巨頭的調查來對付美國總統。]]></description>
+      <description><![CDATA[北京透過重啟對科技巨頭的調查來尋求對美國總統的影響力。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/china-responds-to-tariffs-with-antitrust-investigations-of-google-nvidia/</guid>
       <pubDate>Tue, 04 Feb 2025 14:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司在星際航線上已損失 20 億美元，但仍對未來計畫保持沉默</title>
+      <title>波音公司目前在 Starliner 上損失了 20 億美元，但對未來計畫仍保持沉默</title>
       <link>https://arstechnica.com/space/2025/02/boeing-has-now-lost-2b-on-starliner-but-still-silent-on-future-plans/</link>
-      <description><![CDATA[波音公司已聘請了一位前星際航線經理來掌舵這項陷入困境的專案。]]></description>
+      <description><![CDATA[波音公司已經召回了一位前星際客機經理來負責這個陷入困境的專案。]]></description>
       <guid>https://arstechnica.com/space/2025/02/boeing-has-now-lost-2b-on-starliner-but-still-silent-on-future-plans/</guid>
       <pubDate>Tue, 04 Feb 2025 13:44:43 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>隨著新任命，人們對 SpaceX 對 NASA 影響力的擔憂加劇</title>
       <link>https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/</link>
-      <description><![CDATA[消息人士透露，該航太局的士氣極度低落。]]></description>
+      <description><![CDATA[消息人士稱，航太局的士氣低得離譜。]]></description>
       <guid>https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/</guid>
       <pubDate>Mon, 03 Feb 2025 23:13:37 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Mon, 03 Feb 2025 22:28:23 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic 挑戰你破解其新 AI 模型</title>
+      <title>Anthropic 挑戰你越獄其新的人工智慧模型</title>
       <link>https://arstechnica.com/ai/2025/02/anthropic-dares-you-to-jailbreak-its-new-ai-model/</link>
       <description><![CDATA[為期一周的公開測試是在超過 3,000 小時的漏洞賞金申請嘗試失敗之後進行的。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/anthropic-dares-you-to-jailbreak-its-new-ai-model/</guid>
       <pubDate>Mon, 03 Feb 2025 22:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>「零警告」：資深 YouTuber 痛斥頻道無故刪除</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/youtube-briefly-banned-15-year-old-channel-with-no-strikes-and-wont-say-why/</link>
-      <description><![CDATA[開發人員呼籲手動審核，以終止 YouTube 自動刪除頻道的功能。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/youtube-briefly-banned-15-year-old-channel-with-no-strikes-and-wont-say-why/</guid>
-      <pubDate>Mon, 03 Feb 2025 21:33:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
