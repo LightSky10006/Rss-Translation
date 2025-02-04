@@ -4,9 +4,9 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 22:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 22:37:23 GMT</lastBuildDate>
     <item>
-      <title>中國對谷歌發起反壟斷調查 報復川普進口關稅</title>
+      <title>中國對谷歌進行反壟斷調查以報復川普進口關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</link>
       <description><![CDATA[此外，中國也宣布了自己的徵稅和出口管制 Google是中美貿易戰的最新目標，北京對這家搜尋巨頭展開反壟斷調查，同時推出新的關稅和出口管制，以回應美國對中國商品徵收的新稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
-      <description><![CDATA[研究人員表示，生態系統的自動快取是淨積極因素，但也存在可利用的怪癖 一位安全研究人員表示，一個偽裝成數千個組織使用的合法Go 編程語言包的後門多年來一直未被發現。]]></description>
+      <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但存在可利用的怪癖 一位安全研究人員表示，偽裝成數千個組織使用的合法Go 程式語言包的後門多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
       <pubDate>Tue, 04 Feb 2025 17:28:11 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 04 Feb 2025 16:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>Grubhub 發生安全事故，需要更改密碼</title>
+      <title>Grubhub 發生安全事件，需要更改密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</link>
       <description><![CDATA[聯絡資訊和部分付款細節可能被洩露 美國食品和雜貨配送平台Grubhub 表示，在用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。 p &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</guid>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 04 Feb 2025 14:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年表現不佳 英特爾失去全球晶片收入榜首位置</title>
+      <title>英特爾在2024年表現糟糕後，擠掉了全球晶片收入榜首的位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</link>
       <description><![CDATA[錯失AI 處理器良機，與CEO 救世主分道揚鑣，將第一寶座拱手讓給三星 去年，十大半導體供應商中有八家的收入均實現健康增長，這得益於GPU 和AI 處理器銷售的蓬勃發展給資料中心客戶。英特爾和英飛凌是明顯的例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</guid>
@@ -83,9 +83,9 @@
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
+      <title>廢棄的 AWS S3 儲存桶可以在供應鏈攻擊中重複使用，這將使 SolarWinds 看起來“微不足道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊會讓俄羅斯的「SolarWinds 冒險看起來很業餘且watchTowr Labs 安全研究人員聲稱，「微不足道」。]]></description>
+      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重複使用，以在一次攻擊中劫持全球軟體供應鏈，這將使俄羅斯的“ SolarWinds 冒險”看起來很業餘，微不足道”，watchTowr Labs 安全研究人員聲稱。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
       <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
     </item>
@@ -106,12 +106,12 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 還修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復了一個高嚴重性核心級漏洞，該漏洞疑似被有針對性的利用...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
     <item>
-      <title>連英偉達的黃仁勳也無法說服總統取消晶片進口稅</title>
+      <title>甚至連 Nvidia 的黃仁勳也無法說服關稅局長放棄徵收晶片進口稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</link>
       <description><![CDATA[GPU 巨頭只需等待八分鐘，唐納德就會改變主意 美國總統唐納德·特朗普喜歡他的關稅，而且似乎甚至與Nvidia 首席執行官黃仁勳會面也無法說服他改變路線。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</guid>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
     <item>
-      <title>美國參議員希望對任何通過…下載幫助中國人工智慧的人判處監禁並處以 100 萬美元罰款？</title>
+      <title>美國參議員想對幫助中國人工智慧下載的人判處監禁和 100 萬美元罰款？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/</link>
       <description><![CDATA[英國提議制定針對戀童癖者神經網路的法律 美國人將來可能需要三思而後行，考慮是否下載中國人工智慧模型或投資這種神經網路背後的公司。參議員喬許·霍利(Josh Hawley) (R-MO) 上個月提出的一項法律，如果成功獲得國會通過，將對違反人工智慧相關貿易和合作限制的行為處以最高20 年監禁或100萬美元罰款的處罰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/</guid>
@@ -139,9 +139,9 @@
       <pubDate>Mon, 03 Feb 2025 22:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>川普從聯邦網站上刪除了所有關於 DEI、性別、氣候變遷的提及</title>
+      <title>川普刪除了聯邦網站上所有提及 DEI、性別、氣候變遷的內容</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</link>
-      <description><![CDATA[同時，網路檔案館再次競相挽救一切可能的內容 為了趕上川普政府針對多元化舉措和性別。]]></description>
+      <description><![CDATA[與此同時，互聯網檔案館再次競相保存其所能保存的內容 大量網頁已從聯邦網站上消失，以期在截止日期前執行特朗普政府針對多元化倡議和性別...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/trump_admin_scrubs_dei_websites/</guid>
       <pubDate>Mon, 03 Feb 2025 21:30:13 GMT</pubDate>
     </item>
