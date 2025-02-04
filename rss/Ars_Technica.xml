@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 04 Feb 2025 18:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 19:34:30 GMT</lastBuildDate>
+    <item>
+      <title>諷刺警告：Anthropic 表示申請人不應使用法學碩士學位</title>
+      <link>https://arstechnica.com/ai/2025/02/irony-alert-anthropic-says-applicants-shouldnt-use-llms/</link>
+      <description><![CDATA[我們同意 Anthropic 的觀點：人們不應該使用人工智慧來隱藏糟糕的溝通技巧。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/irony-alert-anthropic-says-applicants-shouldnt-use-llms/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>為什麼這輛自行車有兩個齒輪和兩條鏈條是完全合理的</title>
+      <link>https://arstechnica.com/cars/2025/02/why-it-makes-perfect-sense-for-this-bike-to-have-two-gears-and-two-chains/</link>
+      <description><![CDATA[自行車設計似乎是一個已解決的問題，但我們可以從布法羅學到很多。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/why-it-makes-perfect-sense-for-this-bike-to-have-two-gears-and-two-chains/</guid>
+      <pubDate>Tue, 04 Feb 2025 18:17:40 GMT</pubDate>
+    </item>
     <item>
       <title>梅賽德斯-AMG GT 63 S E Performance 的名字很響亮，是一輛很不錯的車</title>
       <link>https://arstechnica.com/cars/2025/02/f1-hybrid-tech-is-the-star-of-the-mercedes-amg-gt-63-s-e-performance/</link>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 04 Feb 2025 15:37:43 GMT</pubDate>
     </item>
     <item>
-      <title>中國對谷歌、英偉達進行反壟斷調查回應關稅</title>
+      <title>中國對谷歌和英偉達展開反壟斷調查 回應關稅</title>
       <link>https://arstechnica.com/tech-policy/2025/02/china-responds-to-tariffs-with-antitrust-investigations-of-google-nvidia/</link>
       <description><![CDATA[北京試圖透過重啟對科技巨頭的調查來對付美國總統。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/china-responds-to-tariffs-with-antitrust-investigations-of-google-nvidia/</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>熱門 Linux 組織 Freedesktop 和 Alpine Linux 正在爭取新的網站寄存服務</title>
       <link>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</link>
-      <description><![CDATA[捐贈者放棄裸機伺服器使得各團體開始尋找新的歸宿。]]></description>
+      <description><![CDATA[捐贈者放棄裸機伺服器使得各團體開始尋找新的伺服器。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</guid>
       <pubDate>Mon, 03 Feb 2025 23:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著新任命，人們對 SpaceX 對 NASA 影響力的擔憂加劇</title>
-      <link>https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/</link>
-      <description><![CDATA[消息人士透露，該航太局的士氣極度低落。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/</guid>
-      <pubDate>Mon, 03 Feb 2025 23:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>倭黑猩猩能意識到人類的無知，並試圖提供協助</title>
-      <link>https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/</link>
-      <description><![CDATA[研究提供的證據顯示我們的親戚有「心理理論」。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/</guid>
-      <pubDate>Mon, 03 Feb 2025 22:28:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
