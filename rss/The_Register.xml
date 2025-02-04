@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 14:12:03 GMT</lastBuildDate>
+    <description>恩將仇報 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 04 Feb 2025 15:13:18 GMT</lastBuildDate>
+    <item>
+      <title>美國指控加拿大數學天才涉嫌 6500 萬美元加密貨幣欺詐</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</link>
+      <description><![CDATA[據稱，嫌疑人仍在逃，他支持「代碼即法律」的理念 紐約聯邦調查局今天公佈了一份五項刑事起訴書，指控一名22 歲的加拿大數學天才利用漏洞在兩個去中心化金融協議中，據稱利用它們從平台投資者手中欺詐性地吸走約6500 萬美元。 data_centre/_whitepaper_textlinks_top.html&#39; --&gt;&lt;/對]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</guid>
+      <pubDate>Tue, 04 Feb 2025 14:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年表現不佳 英特爾失去全球晶片收入榜首位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</link>
@@ -27,16 +34,16 @@
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>NHS 網路攻擊導致醫院錯過癌症護理目標</title>
+      <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續表示「月」。]]></description>
+      <description><![CDATA[醫療保健負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續下去「幾個月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
+      <title>廢棄的 AWS S3 儲存桶可以在供應鏈攻擊中重複使用，這將使 SolarWinds 看起來“微不足道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重複使用，以在一次攻擊中劫持全球軟體供應鏈，這將使俄羅斯的“ SolarWinds 冒險”看起來很業餘，微不足道”，watchTowr Labs 安全研究人員聲稱。 &gt;]]></description>
+      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊會讓俄羅斯的「SolarWinds 冒險看起來很業餘且watchTowr Labs 安全研究人員聲稱，「微不足道」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
       <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份的 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 還修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復了一個高嚴重性核心級漏洞，該漏洞疑似被有針對性的利用...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
-      <description><![CDATA[還有誰比伊隆更值得信任數萬億美元、社會安全號和其他敏感資訊 華盛頓特區的混亂局面從週末持續到週一，政府工作人員被鎖在辦公室和伊隆馬斯克的部門以外政府效率部 (DOGE) 不受限制地存取機密資料和頂級政府支付系統。]]></description>
+      <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
       <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
     <item>
       <title>美國參議員想對幫助中國人工智慧下載的人判處監禁和 100 萬美元罰款？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/</link>
-      <description><![CDATA[英國提議制定針對戀童癖者神經網路的法律 美國人將來可能需要三思而後行，考慮是否下載中國人工智慧模型或投資這種神經網路背後的公司。參議員喬許·霍利(Josh Hawley) (R-MO) 上個月提出的一項法律，如果成功獲得國會通過，將對違反人工智慧相關貿易和合作限制的行為處以最高20 年監禁或100萬美元罰款的處罰。]]></description>
+      <description><![CDATA[隨著英國提出針對戀童癖神經網路的法律 美國人可能不得不在未來下載中國人工智慧模型或投資此類神經網路背後的公司時三思而後行。密蘇裡州共和黨參議員 Josh Hawley 上個月提出的一項法律，如果國會成功通過，將對違反人工智慧相關貿易和合作限制的人處以最高 20 年監禁或 100 萬美元罰款。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/</guid>
       <pubDate>Mon, 03 Feb 2025 22:58:09 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 03 Feb 2025 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>Lightsail 太空技術從加州理工學院的突破中獲益</title>
+      <title>加州理工學院的突破為光帆太空技術提供了助力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</link>
       <description><![CDATA[科幻星際旅行再獲小小推動 幾個世紀前，西方探險家利用風帆發現了一個他們此前未知的世界——儘管那裡的人們早已熟知——科幻作家和工程師想知道太空探索是否也能由光帆提供動力… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</guid>
       <pubDate>Mon, 03 Feb 2025 15:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大考慮因川普關稅而削減美國資料中心電力供應，美國資料中心將遭受衝擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</link>
-      <description><![CDATA[短期結果可能是全面提高能源價格 更新  川普的關稅對美國資料中心及其不斷擴大的能源消耗提出了新的質疑，價格由於加拿大威脅停止能源供應，因此可能會升息。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</guid>
-      <pubDate>Mon, 03 Feb 2025 14:09:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
