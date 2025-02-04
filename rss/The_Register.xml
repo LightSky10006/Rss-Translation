@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 13:20:23 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 04 Feb 2025 14:12:03 GMT</lastBuildDate>
+    <item>
+      <title>2024 年表現不佳 英特爾失去全球晶片收入榜首位置</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</link>
+      <description><![CDATA[錯失AI 處理器良機，與CEO 救世主分道揚鑣，將第一寶座拱手讓給三星 去年，十大半導體供應商中有八家的收入均實現健康增長，這得益於GPU 和AI 處理器銷售的蓬勃發展給資料中心客戶。英特爾和英飛凌是明顯的例外。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</guid>
+      <pubDate>Tue, 04 Feb 2025 14:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>愛爾蘭人工智慧部長從未使用過 ChatGPT，但發誓她會快速學會</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/irish_ai_minister/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
+      <title>NHS 網路攻擊導致醫院錯過癌症護理目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
       <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續表示「月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊會讓俄羅斯的「SolarWinds 冒險看起來很業餘且watchTowr Labs 安全研究人員聲稱，「微不足道」。]]></description>
+      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重複使用，以在一次攻擊中劫持全球軟體供應鏈，這將使俄羅斯的“ SolarWinds 冒險”看起來很業餘，微不足道”，watchTowr Labs 安全研究人員聲稱。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
       <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>英國政府必須快速學習，讓失敗的計畫早日消亡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</link>
-      <description><![CDATA[支出監督機構建議解決生產力、網路彈性和公共部門文化等長期存在的問題 英國政府支出監督機構呼籲現任政府更好地利用科技來重振低迷的經濟，並確保在預算緊縮的情況下更好地提供公共服務…]]></description>
+      <description><![CDATA[支出監督機構建議解決生產力、網路彈性和公共部門文化等長期存在的問題 英國政府支出監督機構呼籲現任政府更好地利用技術來啟動低迷的經濟，並確保在預算緊縮的情況下更好地提供公共服務…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</guid>
       <pubDate>Tue, 04 Feb 2025 09:30:08 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
-      <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
+      <description><![CDATA[還有誰比伊隆更值得信任數萬億美元、社會安全號和其他敏感資訊 華盛頓特區的混亂局面從週末持續到週一，政府工作人員被鎖在辦公室和伊隆馬斯克的部門以外政府效率部 (DOGE) 不受限制地存取機密資料和頂級政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
       <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>《決勝時刻》工作室聯合創始人承認無人機撞向消防飛機</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/call_of_duty_founder_drone_crash/</link>
-      <description><![CDATA[彼得·特里普·阿克曼(Peter Tripp Akemann) 避免入獄，將支付“Super Scooper”維修費用，並被命令幫助洛杉磯的野火恢復 加利福尼亞州卡爾弗城的一名居民承認，他的無人機撞上了「Super Scooper」消防飛機正在撲滅洛杉磯山火。據司法部稱，他的認罪最多可免除一年監禁。]]></description>
+      <description><![CDATA[Peter Tripp Akemann 避免了牢獄之災，將支付「超級鏟車」的維修費用，並被命令協助洛杉磯的野火恢復 加州卡爾弗城的一名居民承認他的無人機撞上了“超級鏟車” &#39;消防飛機正在撲滅洛杉磯野火。據司法部稱，他的認罪將使他免於最多一年的監禁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/call_of_duty_founder_drone_crash/</guid>
       <pubDate>Mon, 03 Feb 2025 16:53:09 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Mon, 03 Feb 2025 15:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>加州理工學院的突破為光帆太空技術提供了助力</title>
+      <title>Lightsail 太空技術從加州理工學院的突破中獲益</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</link>
       <description><![CDATA[科幻星際旅行再獲小小推動 幾個世紀前，西方探險家利用風帆發現了一個他們此前未知的世界——儘管那裡的人們早已熟知——科幻作家和工程師想知道太空探索是否也能由光帆提供動力… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/light_sails_tech_paper/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>加拿大考慮因川普關稅而削減美國資料中心電力供應，美國資料中心將遭受衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</link>
-      <description><![CDATA[短期結果可能是全面提高能源價格 更新  川普的關稅對美國資料中心及其不斷擴大的能源消耗提出了新的質疑，價格由於加拿大威脅停止能源供應，因此可能升息。]]></description>
+      <description><![CDATA[短期結果可能是全面提高能源價格 更新  川普的關稅對美國資料中心及其不斷擴大的能源消耗提出了新的質疑，價格由於加拿大威脅停止能源供應，因此可能會升息。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/datacenters_canada_trump_tariffs/</guid>
       <pubDate>Mon, 03 Feb 2025 14:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 揭露人工智慧巨頭的公開秘密：擁有好點子的聰明人可以戰勝數十億美元的瘋狂投資</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/opinion_column_deepseek/</link>
-      <description><![CDATA[沒有壟斷就賺不到壟斷錢，但你肯定會失去它 觀點  沒有人能不為巨大的最近幾天DeepSeek AIpocalypse 注入了幸災樂禍的情緒……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/opinion_column_deepseek/</guid>
-      <pubDate>Mon, 03 Feb 2025 13:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
