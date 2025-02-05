@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 03:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 03:40:20 GMT</lastBuildDate>
     <item>
-      <title>Alphabet 首次實現 1000 億美元年度利潤…但股價卻下跌</title>
+      <title>誰擔心 DeepSeek 會影響 AI 硬體的銷售？不是 AMD 執行長蘇姿豐</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</link>
+      <description><![CDATA[預測更有效率的 ML 架構將推動採用，Instinct 銷售加速，股價暴跌 AMD 執行長 Lisa Su 預測，這家晶片設計公司的 Instinct 加速器將在未來幾年帶來數百億美元的年收入，儘管 DeepSeek 引發的猜測認為下一代 AI 模型可能不需要與當今生產系統相同等級的計算基礎。 per_textlinks_top.html&#39; --&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</guid>
+      <pubDate>Wed, 05 Feb 2025 03:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alphabet 首次實現 $100B 年度利潤......並看到其股價下跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</link>
       <description><![CDATA[現在你要做什麼才能給投資人留下深刻印象？也許可以說服他們你沒有在人工智慧上花費太多？ Google的母公司 Alphabet 首次實現了 1000 億美元的年淨收入。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>中國對谷歌發起反壟斷調查 報復川普進口關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</link>
-      <description><![CDATA[此外，中國也宣布了自己的徵稅和出口管制 Google是中美貿易戰的最新目標，北京對這家搜尋巨頭展開反壟斷調查，同時推出新的關稅和出口管制，以回應美國對中國商品徵收的新稅。]]></description>
+      <description><![CDATA[此外，中國也宣布了自己的徵稅和出口管制措施 Google是中美貿易戰的最新目標，北京對這家搜尋巨頭展開反壟斷調查，同時推出新的關稅和出口管制措施，以回應美國對中國商品徵收的新稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</guid>
       <pubDate>Tue, 04 Feb 2025 21:35:08 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
-      <description><![CDATA[研究人員表示，生態系統的自動快取是淨積極因素，但也存在可利用的怪癖 一位安全研究人員表示，一個偽裝成數千個組織使用的合法Go 編程語言包的後門多年來一直未被發現。]]></description>
+      <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但也存在可利用的缺陷 一位安全研究人員表示，一個偽裝成合法 Go 程式語言包的後門被數千個組織使用，但多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
       <pubDate>Tue, 04 Feb 2025 17:28:11 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>2024 年表現不佳 英特爾失去全球晶片收入榜首位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</link>
-      <description><![CDATA[錯過了 AI 處理器的機會，與 CEO 救世主分道揚鑣，第一名的席位輸給了三星 去年，在面向數據中心客戶的 GPU 和 AI 處理器銷售迅速增長的推動下，十大半導體供應商中有 8 家實現了健康的收入增長。英特爾和英飛凌是明顯的例外。]]></description>
+      <description><![CDATA[錯過 AI 處理器之舟，與 CEO 救世主分道揚鑣，將第一的位置拱手讓給了三星 去年，十大半導體供應商中有八家的收入均實現了健康增長，這得益於面向數據中心客戶的 GPU 和 AI 處理器銷量的蓬勃發展。英特爾和英飛凌是明顯的例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</guid>
       <pubDate>Tue, 04 Feb 2025 14:00:08 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>為什麼使用者仍然不關心 Windows 11</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</link>
-      <description><![CDATA[除了 Windows 10 即將結束之外，沒有理由進行升級 評價 用戶仍然避開 Windows 11，一些客戶將這種銷售宣傳描述為「就像試圖在海灘上賣沙子一樣。」...]]></description>
+      <description><![CDATA[除了 Windows 10 即將結束之外，沒有其他升級的理由 評價  用戶仍然避開 Windows 11，一些客戶將銷售宣傳描述為「就像試圖在海灘上賣沙子一樣」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</guid>
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>亞馬遜的 Kuiper 獲得在英國與 Starlink 競爭的許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</link>
-      <description><![CDATA[大家都會表現得很好，好嗎？]]></description>
+      <description><![CDATA[每個人都會表現得很好，好嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</guid>
       <pubDate>Tue, 04 Feb 2025 10:16:14 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵的路由器、接入點漏洞 Google 發布了 2 月份的 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，該漏洞被懷疑被有針對性的攻擊所利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
     <item>
       <title>甚至連 Nvidia 的黃仁勳也無法說服關稅局長放棄徵收晶片進口稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</link>
-      <description><![CDATA[GPU 巨頭只需等待八分鐘，唐納德就會改變主意 美國總統唐納德·特朗普喜歡他的關稅，而且似乎甚至與Nvidia 首席執行官黃仁勳會面也無法說服他改變路線。]]></description>
+      <description><![CDATA[GPU 巨頭只需等待八分鐘，唐納德就會改變主意 美國總統唐納德·特朗普喜歡他的關稅，似乎甚至與 Nvidia 首席執行官黃仁勳會面也無法說服他改變路線。 … &lt;!--#include virtual=&#39;/data_centre/_whitepaper_link_whitepaper_s_top_top.html。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/nvidia_trump_tariffs/</guid>
       <pubDate>Tue, 04 Feb 2025 01:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
-      <description><![CDATA[除了伊隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末和周一，政府工作人員被鎖在辦公室外，伊隆·馬斯克的政府效率部 (DOGE) 可以不受限制地訪問機密材料和最高政府支付系統。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
-      <pubDate>Mon, 03 Feb 2025 23:31:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
