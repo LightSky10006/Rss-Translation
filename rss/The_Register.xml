@@ -4,18 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 04 Feb 2025 23:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:58:09 GMT</lastBuildDate>
     <item>
       <title>Google：如何讓任何 AMD Zen CPU 始終產生 4 作為隨機數</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</link>
-      <description><![CDATA[發現惡意微程式碼漏洞，至少針對Epycs 推出了修復程式 Google員工不僅找到如何破解AMD 的安全性的方法——允許他們將非官方的微程式碼載入到其處理器中以修改矽片的行為——而且還通過製作一個微代碼補丁證明了這一點，該補丁使得芯片在被要求輸入一個隨機數時始終輸出 4。]]></description>
+      <description><![CDATA[發現惡意微程式碼漏洞，至少針對Epycs 的修復程式正在推出 Google員工不僅找到如何突破AMD 的安全性的方法，而且還允許他們將非官方的微程式碼載入到其處理器中，以修改矽片的行為希望——而且還通過製作一個微代碼補丁證明了這一點，該補丁使得晶片在被要求輸入一個隨機數時始終輸出 4。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</guid>
       <pubDate>Tue, 04 Feb 2025 23:30:46 GMT</pubDate>
     </item>
     <item>
       <title>中國對谷歌發起反壟斷調查 報復川普進口關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</link>
-      <description><![CDATA[此外，中國宣布了自己的徵稅和出口管制 谷歌是正在醞釀中的中美貿易戰的最新目標，北京方面對這家搜索巨頭展開反壟斷調查，同時推出了新的措施關稅和出口管制，以應對美國對中國商品徵收的新關稅…]]></description>
+      <description><![CDATA[此外，中國也宣布了自己的徵稅和出口管制 Google是中美貿易戰的最新目標，北京對這家搜尋巨頭展開反壟斷調查，同時推出新的關稅和出口管制，以回應美國對中國商品徵收的新稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</guid>
       <pubDate>Tue, 04 Feb 2025 21:35:08 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
-      <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但存在可利用的怪癖 一位安全研究人員表示，偽裝成數千個組織使用的合法Go 程式語言包的後門多年來一直未被發現。]]></description>
+      <description><![CDATA[研究人員表示，生態系統的自動快取是淨積極因素，但也存在可利用的怪癖 一位安全研究人員表示，一個偽裝成數千個組織使用的合法Go 編程語言包的後門多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
       <pubDate>Tue, 04 Feb 2025 17:28:11 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>2024 年表現不佳 英特爾失去全球晶片收入榜首位置</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</link>
-      <description><![CDATA[錯失AI 處理器良機，與CEO 救世主分道揚鑣，將第一寶座拱手讓給三星 去年，十大半導體供應商中有八家的收入均實現健康增長，這得益於GPU 和AI 處理器銷售的蓬勃發展給資料中心客戶。英特爾和英飛凌是明顯的例外。]]></description>
+      <description><![CDATA[錯過了AI 處理器的機會，與CEO 救世主分道揚鑣，第一名的席位輸給了三星 在GPU 和AI 處理器銷售迅速增長的推動下，去年十大半導體供應商中有8 家實現了健康的收入成長給資料中心客戶。英特爾和英飛凌是明顯的例外。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/intel_chip_revenue_rankings/</guid>
       <pubDate>Tue, 04 Feb 2025 14:00:08 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@
       <pubDate>Tue, 04 Feb 2025 01:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>馬斯克的 DOGE 船獲得「完全」訪問財政部支付系統的權限，擊沉了美國國際開發署</title>
+      <title>馬斯克的 DOGE 船獲得對財政部支付系統的「完全」訪問權限，導緻美國國際開發署陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</link>
       <description><![CDATA[除了埃隆，還有誰更值得信任數萬億美元、社會保險號和其他敏感信息呢 華盛頓特區的混亂局面持續了整個週末，直到週一，政府工作人員被鎖在辦公室外，馬斯克的部門政府效率（DOGE）獲得對機密資料的不受限制的存取權和最高政府支付系統。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/musk_doge_treasury_usaid/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>TSA 機場人臉辨識技術面臨稽核調查</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</link>
-      <description><![CDATA[參議員問，國土安全監管機構回答：這值得花錢嗎？如下來自立法者和隱私倡導者的批評......]]></description>
+      <description><![CDATA[參議員問，國土安全監察機構回答：這值得花錢嗎？來自立法者和隱私權倡導者的批評。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</guid>
       <pubDate>Mon, 03 Feb 2025 22:30:11 GMT</pubDate>
     </item>
