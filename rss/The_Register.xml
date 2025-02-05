@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 07:12:02 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 05 Feb 2025 07:34:49 GMT</lastBuildDate>
+    <item>
+      <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
+      <description><![CDATA[Big Red 被指控挑戰詐欺指控，拖延或破壞法律鬥爭 甲骨文本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</guid>
+      <pubDate>Wed, 05 Feb 2025 07:31:11 GMT</pubDate>
+    </item>
     <item>
       <title>Rackspace 將部分工作負載從 VMware 轉移，以應對更高的 Broadcom 帳單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 05 Feb 2025 06:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 在澳洲被評為太狡猾：禁止使用澳洲政府設備</title>
+      <title>DeepSeek 在澳洲的評級太低：禁止在澳洲政府設備上使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</link>
       <description><![CDATA[美國大型科技公司因防止危害的努力遲緩而受到猛烈批評 澳洲內政部已禁止在聯邦政府設備上使用 DeepSeek。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</guid>
@@ -27,14 +34,14 @@
       <pubDate>Wed, 05 Feb 2025 03:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>Alphabet 首次實現 1000 億美元年度利潤…但股價卻下跌</title>
+      <title>Alphabet 首次實現 $100B 年度利潤......並看到其股價下跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</link>
       <description><![CDATA[現在你要做什麼才能給投資人留下深刻印象？也許可以說服他們你沒有在人工智慧上花費太多？ Google的母公司 Alphabet 首次實現了 1000 億美元的年淨收入。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</guid>
       <pubDate>Wed, 05 Feb 2025 02:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌魚雷破壞「武器不得使用人工智慧」規則</title>
+      <title>谷歌違反「禁止人工智慧用於武器」規定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</link>
       <description><![CDATA[當「可能的整體利益大大超過可預見的風險」時，現在會高興地釋放機器人 Google發布了一套新的人工智慧原則，但並未提及其先前的承諾，即不使用該技術開發違反國際規範的武器或監視工具。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>Google：如何讓任何 AMD Zen CPU 始終產生 4 作為隨機數</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</link>
-      <description><![CDATA[發現惡意微程式碼漏洞，至少針對 Epycs 推出修復 Google 員工不僅弄清楚瞭如何破壞 AMD 的安全性（允許他們將非官方微代碼加載到其處理器中，以按照自己的意願修改芯片的行為），而且還通過製作一個微代碼補丁來證明這一點，該補丁使芯片在要求提供隨機數時始終輸出 4。]]></description>
+      <description><![CDATA[發現惡意微代碼漏洞，至少針對 Epycs 推出了修復程序 谷歌員工不僅想出瞭如何突破 AMD 的安全性——允許他們將非官方微代碼加載到其處理器中以根據需要修改矽片的行為——而且還通過製作微代碼補丁證明了這一點，該補丁使芯片在被要求輸入隨機數時始終輸出 4。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</guid>
       <pubDate>Tue, 04 Feb 2025 23:30:46 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>為什麼使用者仍然不關心 Windows 11</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</link>
-      <description><![CDATA[除了 Windows 10 即將結束之外，沒有理由進行升級 評價 用戶仍然避開 Windows 11，一些客戶將這種銷售宣傳描述為「就像試圖在海灘上賣沙子一樣。」...]]></description>
+      <description><![CDATA[除了 Windows 10 即將結束之外，沒有其他升級的理由 評價  用戶仍然避開 Windows 11，一些客戶將銷售宣傳描述為「就像試圖在海灘上賣沙子一樣」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</guid>
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
     </item>
     <item>
       <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療保健負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
+      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「嚴重」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家都會表現得很好，好嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</guid>
       <pubDate>Tue, 04 Feb 2025 10:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府必須快速學習，讓失敗的計畫早夭</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</link>
-      <description><![CDATA[支出監督機構建議解決生產力、網路彈性和公共部門文化等長期存在的問題 英國政府支出監督機構呼籲現任政府更好地利用技術來啟動低迷的經濟，並確保在預算緊縮的情況下更好地提供公共服務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ukgov_must_embrace_a_fastlearning/</guid>
-      <pubDate>Tue, 04 Feb 2025 09:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
