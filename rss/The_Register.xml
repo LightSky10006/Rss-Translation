@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 09:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 10:39:15 GMT</lastBuildDate>
+    <item>
+      <title>波音，波音，燒錢了：2024 年星際客機將耗資超過 5 億美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/starliner_boeing_losses/</link>
+      <description><![CDATA[對於波音公司的會計師來說，災難性太空艙比災難性太空艙更甚 波音公司的 CST-100 星際客機項目已為這家航空巨頭增加了 5.23 億美元的預期損失，使該項目的總損失超過 20 億美元。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/starliner_boeing_losses/</guid>
+      <pubDate>Wed, 05 Feb 2025 10:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>記住，Windows 10 需要花錢才能維持運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</link>
@@ -20,9 +27,9 @@
       <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 開始在 JavaScript 商標大戰中埋下地雷</title>
+      <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
-      <description><![CDATA[Big Red 被指控透過質疑詐欺主張來拖延或破壞法律鬥爭 Oracle 本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
+      <description><![CDATA[Big Red 被指控挑戰詐欺指控，拖延或破壞法律鬥爭 甲骨文本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</guid>
       <pubDate>Wed, 05 Feb 2025 07:31:11 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 05 Feb 2025 06:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 在澳洲的評級太低：禁止在澳洲政府設備上使用</title>
+      <title>DeepSeek 在澳洲被評為太狡猾：禁止使用澳洲政府設備</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</link>
       <description><![CDATA[美國大型科技公司因防止危害的努力遲緩而受到猛烈批評 澳洲內政部已禁止在聯邦政府設備上使用 DeepSeek。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</guid>
@@ -85,12 +92,12 @@
     <item>
       <title>OpenAI 和微軟敦促法官駁回馬斯克「毫無事實依據」的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/openai_microsoft_musk_lawsuit/</link>
-      <description><![CDATA[律師認為，億萬富翁長達 105 頁的投訴「從一個理論到另一個理論」 更新 如果加州法官對該案的最新文件作出有利回應，埃隆·馬斯克 (Elon Musk) 對 Sam Altman、OpenAI 和微軟的法律恩恩可能很快就會再次結束。]]></description>
+      <description><![CDATA[律師辯稱，億萬富翁長達 105 頁的投訴「從一個理論跳到另一個理論」 更新  如果加州法官對該案的最新文件作出積極回應，埃隆馬斯克對 Sam Altman、OpenAI 和微軟的法律怨恨可能很快就會結束……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/openai_microsoft_musk_lawsuit/</guid>
       <pubDate>Tue, 04 Feb 2025 19:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>中毒的 Go 程式語言包三年未被發現</title>
+      <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
       <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但也存在可利用的缺陷 一位安全研究人員表示，一個偽裝成合法 Go 程式語言包的後門被數千個組織使用，但多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>為什麼使用者仍然不關心 Windows 11</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</link>
-      <description><![CDATA[除了 Windows 10 即將結束之外，沒有其他升級的理由 評價  用戶仍然避開 Windows 11，一些客戶將銷售宣傳描述為「就像試圖在海灘上賣沙子一樣」。]]></description>
+      <description><![CDATA[除了 Windows 10 即將結束之外，沒有理由進行升級 評價 用戶仍然避開 Windows 11，一些客戶將這種銷售宣傳描述為「就像試圖在海灘上賣沙子一樣。」...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/windows_11_avoidance/</guid>
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHS 網路攻擊導致醫院錯過癌症護理目標</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「嚴重」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
-      <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
