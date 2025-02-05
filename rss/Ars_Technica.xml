@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Feb 2025 22:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 23:11:52 GMT</lastBuildDate>
+    <item>
+      <title>導致路易斯安那州居民死亡的 H5N1 禽流感病毒株在內華達州的乳牛場中被發現</title>
+      <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
+      <description><![CDATA[這項發現意味著新的溢出事件的發生，進一步粉碎了遏制的希望。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官建議暫時禁止 DOGE 進入財政部記錄</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</link>
+      <description><![CDATA[據司法部所知，伊隆馬斯克無權訪問財政部的數據。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>聊天，你準備好跟 NASA 一起去太空了嗎？</title>
       <link>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>Polestar 執行長表示，該品牌的技術使美國成為“我們的絕佳市場”</title>
       <link>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</link>
-      <description><![CDATA[Polestar 即將推出其緊湊型 SUV——Polestar 7。]]></description>
+      <description><![CDATA[Polestar 推出了其緊湊型 SUV Polestar 7。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</guid>
       <pubDate>Wed, 05 Feb 2025 18:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>日圓疲軟對 Switch 2 定價有何影響</title>
-      <link>https://arstechnica.com/gaming/2025/02/will-japans-weak-enconomy-mean-a-cheaper-switch-2-in-the-us/</link>
-      <description><![CDATA[在匯率不斷上升的背景下，任天堂總裁希望實現「客戶期望的合理價格」。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/will-japans-weak-enconomy-mean-a-cheaper-switch-2-in-the-us/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let’s Encrypt 將停止發送到期通知電子郵件——理由充分</title>
-      <link>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</link>
-      <description><![CDATA[為了省錢和保護隱私，成功的服務不會打擾您。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:25:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

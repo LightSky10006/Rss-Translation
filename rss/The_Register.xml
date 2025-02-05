@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 22:39:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 23:12:20 GMT</lastBuildDate>
+    <item>
+      <title>核心維護者將 Linux 中 Rust 和 C 的混合比喻為癌症</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
+      <description><![CDATA[開發人員擔心多語言程式碼庫會使維護開源超級專案變得更加困難 試圖將 Rust 程式碼新增至 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
+      <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
+    </item>
     <item>
       <title>思科修復了兩個嚴重的身分識別服務引擎漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</link>
-      <description><![CDATA[一個提供 root 存取權限，另一個讓您在正確（或錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身分服務引擎 (ISE) 中的兩個關鍵漏洞，這些漏洞可能允許經過驗證的遠端攻擊者以 root 身分執行任意命令或存取敏感資訊、修改配置並重新載入設定並重新載入設定的裝置。]]></description>
+      <description><![CDATA[一個提供 root 存取權限，另一個允許您在正確（或應該是錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身份服務引擎 (ISE) 中的兩個嚴重漏洞，這些漏洞可能允許經過身份驗證的遠端攻擊者以 root 身份執行任意命令或重新加載敏感資訊、修改配置並重新加載受影響的設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</guid>
       <pubDate>Wed, 05 Feb 2025 22:32:14 GMT</pubDate>
     </item>
@@ -20,9 +27,9 @@
       <pubDate>Wed, 05 Feb 2025 20:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>DOGE 最新消息：Citrix 高階主管擁有美國財政部支付系統的「唯讀」存取權限</title>
+      <title>DOGE最新消息：Citrix supremo擁有對美國財政部支付系統的「唯讀」存取權限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</link>
-      <description><![CDATA[Cloud Software 執行長是一名“特殊政府僱員”，正在調查伊隆·馬斯克的 DOGE 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的首席執行官湯姆·克勞斯 (Tom Krause) 對一個重要的聯邦政府支付系統擁有“只讀”訪問權限，該系統每年支付數萬億美元。]]></description>
+      <description><![CDATA[Cloud Software 執行長是對 Elon Musk DOGE 進行調查的「特殊政府員工」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對每年支付數萬億美元的重要聯邦政府支付系統擁有「唯讀」存取權。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</guid>
       <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
@@ -34,14 +41,14 @@
       <pubDate>Wed, 05 Feb 2025 18:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源為新謝潑德號飛行增強月球重力</title>
+      <title>藍色起源為新謝潑德飛行增加月球重力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</link>
-      <description><![CDATA[貝佐斯的火箭專家宣稱，該技術對 NASA 和其他技術供應商非常有用 藍色起源已將其可重複使用的 New Shepard 火箭送入另一次亞軌道，這次是為太空艙有效載荷模擬月球重力。]]></description>
+      <description><![CDATA[貝佐斯的火箭專家宣稱其能力對 NASA 和其他技術提供者有用 藍色起源已將其可重複使用的 New Shepard 火箭發送到另一個亞軌道吊射點，這次模擬了太空艙有效載荷的月球重力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</guid>
       <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
+      <title>五眼聯盟警告網路邊緣有入侵風險，Netgear 修復關鍵漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
       <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>由於人工智慧，Workday 裁員 8.5%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</link>
-      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在只是二月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
+      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在才 2 月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</guid>
       <pubDate>Wed, 05 Feb 2025 12:51:30 GMT</pubDate>
     </item>
@@ -111,14 +118,14 @@
       <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 開始在 JavaScript 商標大戰中埋下地雷</title>
+      <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
       <description><![CDATA[Big Red 被指控挑戰詐欺指控，拖延或破壞法律鬥爭 甲骨文本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</guid>
       <pubDate>Wed, 05 Feb 2025 07:31:11 GMT</pubDate>
     </item>
     <item>
-      <title>Rackspace 將部分工作負載從 VMware 轉移，以應對更高的 Broadcom 帳單</title>
+      <title>Rackspace 將部分自己的工作負載從 VMware 上移走，以解決博通 (Broadcom) 的巨額帳單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/</link>
       <description><![CDATA[新平台 Platform9 表示，它還在幫助一家財富 500 強公司遷移 40,000 台虛擬機 獨家 Rackspace 正在將其部分後台工作負載從 VMware 轉移到雲端基礎設施機構 Platform9 提供的 Private Cloud Director 平台上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[預測更有效率的 ML 架構將推動採用，Instinct 銷售加速，股價暴跌 AMD 執行長 Lisa Su 預測，這家晶片設計公司的 Instinct 加速器將在未來幾年帶來數百億美元的年收入，儘管 DeepSeek 引發的猜測認為下一代 AI 模型可能不需要與當今生產系統相同等級的計算基礎。 per_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</guid>
       <pubDate>Wed, 05 Feb 2025 03:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 首次實現 $100B 年度利潤......並看到其股價下跌</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</link>
-      <description><![CDATA[現在你要做什麼才能給投資人留下深刻印象？也許可以說服他們你沒有在人工智慧上花費太多？ Google的母公司 Alphabet 首次實現了 1000 億美元的年淨收入。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</guid>
-      <pubDate>Wed, 05 Feb 2025 02:40:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
