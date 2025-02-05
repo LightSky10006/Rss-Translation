@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 20:14:19 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 05 Feb 2025 20:37:18 GMT</lastBuildDate>
+    <item>
+      <title>波蘭第二位太空人帶著波蘭餃子參加國際太空站派對</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</link>
+      <description><![CDATA[希望凍乾的波蘭餃子和新鮮黃油煎的餃子一樣好吃 今年春天，當 Axiom Space 的第四次國際空間站任務到達軌道時，它將包括波蘭的第二位宇航員，他將從家裡帶來一種必不可少的舒適食品：Pierogi。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>馬斯克的爪牙被授予聯邦支付系統的「唯讀」權限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/musk_minion_read_only_access/</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>川普政府尋求對聯邦首席資訊長進行重新分類，為政治任命者敞開大門</title>
+      <title>川普政府試圖重新劃分聯邦首席資訊官，為政治任命打開大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</link>
       <description><![CDATA[代理 OPM 負責人堅持說，要遵守行政政策，否則你就得走人 由於川普政府建議各機構重新分類這些職位，可能使他們成為政治任命者，美國聯邦政府各部門的首席資訊官面臨著越來越大的工作不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
-      <description><![CDATA[國際安全小組都致力於阻止壞人透過路由器、物聯網套件等闖入 Netgear 在修復了影響多個路由器的兩個關鍵漏洞後，建議客戶升級韌體。]]></description>
+      <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
       <pubDate>Wed, 05 Feb 2025 16:27:05 GMT</pubDate>
     </item>
@@ -43,19 +50,19 @@
     <item>
       <title>洛斯阿拉莫斯實驗室研究下一代晶片技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</link>
-      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能，並且能夠更好地耐受輻射等環境條件。]]></description>
+      <description><![CDATA[針對太空環境的輻射強化以及上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能並能夠更好地耐受輻射等環境條件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</guid>
       <pubDate>Wed, 05 Feb 2025 14:38:38 GMT</pubDate>
     </item>
     <item>
       <title>美國對涉嫌竊取商業機密的前谷歌員工提起間諜指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</link>
-      <description><![CDATA[Mountain View 在幾天之內發現了這一陰謀 如果一名中國公民因與 Google 的經濟間諜活動和商業機密盜竊相關的其他幾項指控被判有罪，他將面臨長期監禁和高額罰款。]]></description>
+      <description><![CDATA[山景城還剩幾天時間參與該計劃 如果一名中國公民被判犯有與經濟間諜活動和竊取 Google 商業機密相關的幾項其他指控，他將面臨長期監禁和巨額罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</guid>
       <pubDate>Wed, 05 Feb 2025 13:33:30 GMT</pubDate>
     </item>
     <item>
-      <title>由於人工智慧，Workday 裁員 8.5%</title>
+      <title>由於人工智慧，工作日減少了 8.5% 的勞動力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</link>
       <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在只是二月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>清晨、傍晚、週末。無用的用戶總是需要支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</link>
-      <description><![CDATA[技術人員抱怨企業忽視合約工時 OnCall...即使我不在 您是否曾經感覺自己在 on-call，即使實際上您並未隨叫隨到？ ...]]></description>
+      <description><![CDATA[技術人員抱怨公司忽略合約規定的工作時間 OnCall... 即使我不在  您是否曾感覺自己在隨叫隨到，即使技術上您並未在隨叫隨到？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</guid>
       <pubDate>Wed, 05 Feb 2025 11:01:08 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>記住，Windows 10 需要花錢才能維持運作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</link>
-      <description><![CDATA[每台設備的價格為 61 美元，每年翻一番，從 11 月份開始的安全更新將會迅速增加 微軟已經悄然更新了一份支持文檔，說明 Windows 10 的擴展安全更新將迅速增加 微軟已經悄然更新了一份支持文檔，說明 Windows 10 的擴展安全更新 (ESU) 計劃將如何運作以及費用是多少 - 對於某些人來說，這可能會導致他們胃部不適。 top.html&#39; --&gt;]]></description>
+      <description><![CDATA[每台設備 61 美元，每年翻一番，從 11 月開始，安全更新的費用將迅速增加 微軟悄悄更新了一份支持文檔，介紹了 Windows 10 擴展安全更新 (ESU) 程序的工作原理以及費用 - 對於某些人來說，這可能會讓他們感到不安/html_* ....... p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</guid>
       <pubDate>Wed, 05 Feb 2025 09:30:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Alphabet 首次實現 1000 億美元年度利潤…但股價卻下跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</link>
-      <description><![CDATA[現在你要做什麼才能給投資人留下深刻印象？也許可以說服他們你沒有在人工智慧上花費太多？ Google的母公司 Alphabet 首次實現了 1000 億美元的年淨收入。]]></description>
+      <description><![CDATA[現在要做什麼才能給投資人留下深刻印象？也許能讓他們相信你沒有在人工智慧上過度支出？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</guid>
       <pubDate>Wed, 05 Feb 2025 02:40:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[當「可能的整體利益大大超過可預見的風險」時，現在會高興地釋放機器人 Google發布了一套新的人工智慧原則，但並未提及其先前的承諾，即不使用該技術開發違反國際規範的武器或監視工具。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</guid>
       <pubDate>Wed, 05 Feb 2025 01:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google：如何讓任何 AMD Zen CPU 始終產生 4 作為隨機數</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</link>
-      <description><![CDATA[發現惡意微代碼漏洞，至少針對 Epycs 推出了修復程序 谷歌員工不僅想出瞭如何突破 AMD 的安全性——允許他們將非官方微代碼加載到其處理器中以根據需要修改矽片的行為——而且還通過製作微代碼補丁證明了這一點，該補丁使芯片在被要求輸入隨機數時始終輸出 4。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</guid>
-      <pubDate>Tue, 04 Feb 2025 23:30:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
