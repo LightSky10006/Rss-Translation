@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 13:37:17 GMT</lastBuildDate>
+    <item>
+      <title>美國對涉嫌竊取商業機密的前谷歌員工提起間諜指控</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</link>
+      <description><![CDATA[山景城還剩幾天時間參與該計劃 如果一名中國公民被判犯有與經濟間諜活動和竊取 Google 商業機密相關的幾項其他指控，他將面臨長期監禁和巨額罰款。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</guid>
+      <pubDate>Wed, 05 Feb 2025 13:33:30 GMT</pubDate>
+    </item>
     <item>
       <title>由於人工智慧，Workday 裁員 8.5%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</link>
-      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在只是二月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
+      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在才 2 月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</guid>
       <pubDate>Wed, 05 Feb 2025 12:51:30 GMT</pubDate>
     </item>
@@ -43,21 +50,21 @@
     <item>
       <title>微軟悄悄從說明頁面中刪除了 Windows 11 TPM 2.0 繞過解決方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</link>
-      <description><![CDATA[您將升級該老化的設備，並且會喜歡它 在過去三年中，微軟記錄了一種在缺少可信任平台模組 2.0 硬體的 PC 上運行 Windows 11 的方法 - 但該解決方法現已從其幫助頁面上消失。]]></description>
+      <description><![CDATA[您將升級那個陳舊的套件，您會喜歡它 在過去三年中，微軟記錄了一種在缺乏可信平台模組 2.0 硬體的 PC 上運行 Windows 11 的方法 - 但該解決方法現已從其幫助頁面中消失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</guid>
       <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
     </item>
     <item>
       <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
-      <description><![CDATA[Big Red 被指控透過質疑詐欺主張來拖延或破壞法律鬥爭 Oracle 本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
+      <description><![CDATA[Big Red 被指控挑戰詐欺指控，拖延或破壞法律鬥爭 甲骨文本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</guid>
       <pubDate>Wed, 05 Feb 2025 07:31:11 GMT</pubDate>
     </item>
     <item>
       <title>Rackspace 將部分工作負載從 VMware 轉移，以應對更高的 Broadcom 帳單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/</link>
-      <description><![CDATA[新平台 Platform9 表示，它還在幫助一家財富 500 強公司遷移 40,000 台虛擬機 獨家 Rackspace 正在將其部分後台工作負載從 VMware 轉移到雲端基礎設施機構 Platform9 提供的 Private Cloud Director 平台上。]]></description>
+      <description><![CDATA[新平台 Platform9 表示，它還在幫助一家財富 500 強公司遷移 40,000 台虛擬機 獨家  Rackspace 正在將其部分後台工作負載從 VMware 轉移到雲端基礎架構機構 Platform9 提供的 Private Cloud Director 平台上。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/rackspace_vmware_planet9_migration/</guid>
       <pubDate>Wed, 05 Feb 2025 06:33:08 GMT</pubDate>
     </item>
@@ -71,19 +78,19 @@
     <item>
       <title>誰擔心 DeepSeek 會影響 AI 硬體的銷售？不是 AMD 執行長蘇姿豐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</link>
-      <description><![CDATA[預測更有效率的機器學習架構將推動採用，Instinct 銷售加速，股價跳水 AMD 執行長 Lisa Su 預測，儘管 DeepSeek 猜測下一代 AI 模型可能不需要與當今生產此類工具相同水平的計算基礎設施，但該晶片設計商的 Instinct 加速器將在未來幾年帶來數百美元的年收入。 top.html&#39; --&gt;]]></description>
+      <description><![CDATA[預測更有效率的 ML 架構將推動採用，Instinct 銷售加速，股價暴跌 AMD 執行長 Lisa Su 預測，這家晶片設計公司的 Instinct 加速器將在未來幾年帶來數百億美元的年收入，儘管 DeepSeek 引發的猜測認為下一代 AI 模型可能不需要與當今生產系統相同等級的計算基礎。 per_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</guid>
       <pubDate>Wed, 05 Feb 2025 03:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>Alphabet 首次實現 $100B 年度利潤......並看到其股價下跌</title>
+      <title>Alphabet 首次實現 1000 億美元年度利潤…但股價卻下跌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</link>
       <description><![CDATA[現在你要做什麼才能給投資人留下深刻印象？也許可以說服他們你沒有在人工智慧上花費太多？ Google的母公司 Alphabet 首次實現了 1000 億美元的年淨收入。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/alphabet_q4_fy2024/</guid>
       <pubDate>Wed, 05 Feb 2025 02:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌違反「禁止人工智慧用於武器」規定</title>
+      <title>谷歌違反「禁止人工智慧武器」規定</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</link>
       <description><![CDATA[當「可能的整體利益大大超過可預見的風險」時，現在會高興地釋放機器人 Google發布了一套新的人工智慧原則，但並未提及其先前的承諾，即不使用該技術開發違反國際規範的武器或監視工具。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 04 Feb 2025 19:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
+      <title>中毒的 Go 程式語言包三年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
       <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但也存在可利用的缺陷 一位安全研究人員表示，一個偽裝成合法 Go 程式語言包的後門被數千個組織使用，但多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[聯絡資訊和部分付款細節可能被洩露 美國食品和雜貨配送平台 Grubhub 表示，在用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</guid>
       <pubDate>Tue, 04 Feb 2025 15:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國指控加拿大數學天才涉嫌 6500 萬美元加密貨幣欺詐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</link>
-      <description><![CDATA[據稱，嫌疑人仍在逃，他支持「代碼即法律」的理念 紐約聯邦調查局今天公佈了一份包含五項罪名的刑事​​起訴書，指控一名 22 歲的加拿大數學天才利用兩個去中心化金融協議中的漏洞，涉嫌利用這些漏洞從平台投資者手中騙取約 6500 萬美元。 top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/math_prodigy_crypto_scheme/</guid>
-      <pubDate>Tue, 04 Feb 2025 14:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
