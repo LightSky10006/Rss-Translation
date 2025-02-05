@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 08:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 08:40:09 GMT</lastBuildDate>
+    <item>
+      <title>微軟悄悄從說明頁面中刪除了 Windows 11 TPM 2.0 繞過解決方法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</link>
+      <description><![CDATA[您將升級該老化的設備，並且會喜歡它 在過去三年中，微軟記錄了一種在缺少可信任平台模組 2.0 硬體的 PC 上運行 Windows 11 的方法 - 但該解決方法現已從其幫助頁面上消失。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</guid>
+      <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
@@ -20,14 +27,14 @@
       <pubDate>Wed, 05 Feb 2025 06:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 在澳洲被評為太狡猾：禁止使用澳洲政府設備</title>
+      <title>DeepSeek 在澳洲的評級太低：禁止在澳洲政府設備上使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</link>
       <description><![CDATA[美國大型科技公司因防止危害的努力遲緩而受到猛烈批評 澳洲內政部已禁止在聯邦政府設備上使用 DeepSeek。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/australia_deepseek_ban/</guid>
       <pubDate>Wed, 05 Feb 2025 04:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>誰害怕 DeepSeek 對 AI 硬體銷售的影響？不是 AMD 執行長蘇姿豐</title>
+      <title>誰擔心 DeepSeek 會影響 AI 硬體的銷售？不是 AMD 執行長蘇姿豐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</link>
       <description><![CDATA[預測更有效率的 ML 架構將推動採用，Instinct 銷售加速，股價暴跌 AMD 執行長 Lisa Su 預測，這家晶片設計公司的 Instinct 加速器將在未來幾年帶來數百億美元的年收入，儘管 DeepSeek 引發的猜測認為下一代 AI 模型可能不需要與當今生產系統相同等級的計算基礎。 per_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/amd_q4_fy2024/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>中國對谷歌發起反壟斷調查 報復川普進口關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</link>
-      <description><![CDATA[此外，中國宣布了自己的徵稅和出口管制 谷歌是正在醞釀中的中美貿易戰的最新目標，北京方面對這家搜索巨頭展開反壟斷調查，同時推出新的關稅和出口管制，以應對美國對中國商品徵收的新關稅。]]></description>
+      <description><![CDATA[此外，中國也宣布了自己的徵稅和出口管制措施 Google是中美貿易戰的最新目標，北京對這家搜尋巨頭展開反壟斷調查，同時推出新的關稅和出口管制措施，以回應美國對中國商品徵收的新稅。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/china_trump_google/</guid>
       <pubDate>Tue, 04 Feb 2025 21:35:08 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>Grubhub 發生安全事故，需要更改密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</link>
-      <description><![CDATA[聯絡資訊和部分付款細節可能被洩露 美國食品和雜貨配送平台 Grubhub 表示，在用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。]]></description>
+      <description><![CDATA[聯絡資訊和部分付款詳細資訊可能會外洩 美國食品和雜貨配送平台 Grubhub 表示，用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</guid>
       <pubDate>Tue, 04 Feb 2025 15:30:08 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「嚴重」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
+      <description><![CDATA[醫療保健負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>廢棄的 AWS S3 儲存桶可以在供應鏈攻擊中重複使用，這將使 SolarWinds 看起來“微不足道”</title>
+      <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶不自行清理時，第 97 部分 廢棄的 AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊將使俄羅斯的“SolarWinds 冒險看起來業餘且微不足道”，watchTowr Labs 安全研究人員聲稱。]]></description>
+      <description><![CDATA[當雲端客戶沒有自行清理時，可以重複使用ad AWS S3儲存桶，以劫持全球軟體供應鏈，這會使俄羅斯的「 Solarwinds Adventures」的冒險經歷看起來是業餘和微不足道的.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
       <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>亞馬遜的 Kuiper 獲得在英國與 Starlink 競爭的許可</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</link>
-      <description><![CDATA[大家都會表現得很好，好嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/ofcom_amazon_kuiper_license/</guid>
-      <pubDate>Tue, 04 Feb 2025 10:16:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
