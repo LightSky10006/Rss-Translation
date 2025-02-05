@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 08:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:36:45 GMT</lastBuildDate>
+    <item>
+      <title>記住，Windows 10 需要花錢才能維持運作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</link>
+      <description><![CDATA[每台設備 61 美元，每年翻一番，從 11 月開始，安全更新的費用將迅速增加 微軟悄悄更新了一份支持文檔，介紹了 Windows 10 擴展安全更新 (ESU) 程序的工作原理以及費用 - 對於某些人來說，這可能會讓他們感到不安/html_* ....... p&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟悄悄從說明頁面中刪除了 Windows 11 TPM 2.0 繞過解決方法</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 開始在 JavaScript 商標之爭中埋下伏筆</title>
+      <title>Oracle 開始在 JavaScript 商標大戰中埋下地雷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</link>
-      <description><![CDATA[Big Red 被指控挑戰詐欺指控，拖延或破壞法律鬥爭 甲骨文本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
+      <description><![CDATA[Big Red 被指控透過質疑詐欺主張來拖延或破壞法律鬥爭 Oracle 本週要求美國專利商標局 (USPTO) 部分駁回對其 JavaScript 商標的質疑。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/oracle_dismissal_javascript_trademark_fraud/</guid>
       <pubDate>Wed, 05 Feb 2025 07:31:11 GMT</pubDate>
     </item>
@@ -78,12 +85,12 @@
     <item>
       <title>OpenAI 和微軟敦促法官駁回馬斯克「毫無事實依據」的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/openai_microsoft_musk_lawsuit/</link>
-      <description><![CDATA[律師辯稱，億萬富翁長達 105 頁的投訴「從一個理論跳到另一個理論」 更新  如果加州法官對該案的最新文件作出積極回應，埃隆馬斯克對 Sam Altman、OpenAI 和微軟的法律怨恨可能很快就會結束……]]></description>
+      <description><![CDATA[律師認為，億萬富翁長達 105 頁的投訴「從一個理論到另一個理論」 更新 如果加州法官對該案的最新文件作出有利回應，埃隆·馬斯克 (Elon Musk) 對 Sam Altman、OpenAI 和微軟的法律恩恩可能很快就會再次結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/openai_microsoft_musk_lawsuit/</guid>
       <pubDate>Tue, 04 Feb 2025 19:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>被毒害的 Go 程式語言包潛伏 3 年未被發現</title>
+      <title>中毒的 Go 程式語言包三年未被發現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</link>
       <description><![CDATA[研究人員表示，生態系統的自動快取是正面的，但也存在可利用的缺陷 一位安全研究人員表示，一個偽裝成合法 Go 程式語言包的後門被數千個組織使用，但多年來一直未被發現。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/golang_supply_chain_attack/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>Grubhub 發生安全事故，需要更改密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</link>
-      <description><![CDATA[聯絡資訊和部分付款詳細資訊可能會外洩 美國食品和雜貨配送平台 Grubhub 表示，用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。]]></description>
+      <description><![CDATA[聯絡資訊和部分付款細節可能被洩露 美國食品和雜貨配送平台 Grubhub 表示，在用戶資料外洩後，第三方服務提供者的安全事件是罪魁禍首。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/grubhub_data_incident/</guid>
       <pubDate>Tue, 04 Feb 2025 15:30:08 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 04 Feb 2025 12:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
+      <title>NHS 網路攻擊導致醫院錯過癌症護理目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療保健負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
+      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「嚴重」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶沒有自行清理時，可以重複使用ad AWS S3儲存桶，以劫持全球軟體供應鏈，這會使俄羅斯的「 Solarwinds Adventures」的冒險經歷看起來是業餘和微不足道的.html&#39; - &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
-      <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
