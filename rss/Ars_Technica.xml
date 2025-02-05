@@ -4,7 +4,49 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Feb 2025 21:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 22:12:21 GMT</lastBuildDate>
+    <item>
+      <title>聊天，你準備好跟 NASA 一起去太空了嗎？</title>
+      <link>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</link>
+      <description><![CDATA[“Twitch 是我們用來吸引新觀眾的眾多數位平台之一。”]]></description>
+      <guid>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 承諾使用下一代 GPU 實現「主流」 4K 遊戲，因為當前一代 GPU 的銷量下滑</title>
+      <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
+      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上發布，預定三月上市。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>不夠好：Google從超級盃廣告中刪除了人工智慧生成的起司錯誤</title>
+      <link>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</link>
+      <description><![CDATA[與Google搜尋不同，人工智慧寫作助理甚至沒有引用其來源。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>7-Zip 0day 在俄羅斯持續入侵烏克蘭的過程中被利用</title>
+      <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
+      <description><![CDATA[漏洞剝奪了 Windows 用於標記網路下載檔案的 MotW 標籤。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face 在 24 小時內克隆了 OpenAI 的 Deep Research</title>
+      <link>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</link>
+      <description><![CDATA[開源「深度研究」專案證明代理框架增強了AI模型能力。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子隱形傳態用於分發計算</title>
+      <link>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</link>
+      <description><![CDATA[該方法允許將單一演算法分佈在多個量子處理器上。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
+    </item>
     <item>
       <title>冒充 FCC 工作人員的自動撥號器在向真正的 FCC 工作人員撥打電話後被封鎖</title>
       <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
@@ -13,7 +55,7 @@
       <pubDate>Wed, 05 Feb 2025 19:05:43 GMT</pubDate>
     </item>
     <item>
-      <title>Polestar 執行長表示，該品牌的技術使美國成為“我們的龐大市場”</title>
+      <title>Polestar 執行長表示，該品牌的技術使美國成為“我們的絕佳市場”</title>
       <link>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</link>
       <description><![CDATA[Polestar 即將推出其緊湊型 SUV——Polestar 7。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</guid>
@@ -27,53 +69,11 @@
       <pubDate>Wed, 05 Feb 2025 18:35:02 GMT</pubDate>
     </item>
     <item>
-      <title>Let’s Encrypt 將終止過期通知電子郵件——出於一些非常好的原因</title>
+      <title>Let’s Encrypt 將停止發送到期通知電子郵件——理由充分</title>
       <link>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</link>
       <description><![CDATA[為了省錢和保護隱私，成功的服務不會打擾您。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</guid>
       <pubDate>Wed, 05 Feb 2025 18:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國郵政服務暫停並恢復中國包裹寄送，引發混亂</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/americans-likely-to-pay-more-wait-longer-for-online-orders-from-china/</link>
-      <description><![CDATA[美國現在對來自中國的每一筆廉價網路訂單徵稅。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/americans-likely-to-pay-more-wait-longer-for-online-orders-from-china/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>《侏羅紀世界重生》將於今年七月登陸戲院</title>
-      <link>https://arstechnica.com/culture/2025/02/jurassic-world-rebirth-roars-into-theaters-this-july/</link>
-      <description><![CDATA[“沒有人會傻到跟我們去一樣的地方。”]]></description>
-      <guid>https://arstechnica.com/culture/2025/02/jurassic-world-rebirth-roars-into-theaters-this-july/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉在歐洲和英國銷量暴跌，銷量下滑</title>
-      <link>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</link>
-      <description><![CDATA[該地區的電動車銷量正在成長，但特斯拉的銷量卻沒有成長。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>經過 NASA 的艱難決定，私人月球著陸器找到了新客戶</title>
-      <link>https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/</link>
-      <description><![CDATA[“當 VIPER 被移除時，這絕對是一個挫折。我們的團隊也感受到了這一點。”]]></description>
-      <guid>https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>價值 580 億美元的本田-日產合併陷入困境</title>
-      <link>https://arstechnica.com/cars/2025/02/58-billion-honda-nissan-merger-is-in-deep-trouble/</link>
-      <description><![CDATA[本田提出將日產轉變為全資子公司的提案並沒有順利通過。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/58-billion-honda-nissan-merger-is-in-deep-trouble/</guid>
-      <pubDate>Wed, 05 Feb 2025 14:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>科學家發現了一種更快釀造酸啤酒的方法——用豌豆</title>
-      <link>https://arstechnica.com/science/2025/02/pea-sugars-can-speed-up-sour-beer-brewing/</link>
-      <description><![CDATA[酵母不能代謝豌豆中的糖，進而促進必需細菌的生長。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/pea-sugars-can-speed-up-sour-beer-brewing/</guid>
-      <pubDate>Wed, 05 Feb 2025 13:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
