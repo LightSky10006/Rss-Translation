@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 05 Feb 2025 00:58:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 02:14:32 GMT</lastBuildDate>
+    <item>
+      <title>谷歌違反「禁止人工智慧用於武器」規定</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</link>
+      <description><![CDATA[當「可能的整體利益大大超過可預見的風險」時，現在會很高興地釋放機器人 Google 發布了一套新的人工智慧原則，但沒有提及其先前承諾不使用該技術來開發違反國際規範的武器或監視工具。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_ai_principles_update/</guid>
+      <pubDate>Wed, 05 Feb 2025 01:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>Google：如何讓任何 AMD Zen CPU 始終產生 4 作為隨機數</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</link>
-      <description><![CDATA[發現惡意微程式碼漏洞，至少針對Epycs 的修復程式正在推出 Google員工不僅找到如何突破AMD 的安全性的方法，而且還允許他們將非官方的微程式碼載入到其處理器中，以修改矽片的行為希望——而且還通過製作一個微代碼補丁證明了這一點，該補丁使得晶片在被要求輸入一個隨機數時始終輸出 4。]]></description>
+      <description><![CDATA[發現惡意微程式碼漏洞，至少針對Epycs 推出修復程式 Google 員工不僅弄清楚如何破壞AMD 的安全性，還允許他們將非官方微程式碼載入到其處理器中，以修改晶片的行為希望 - 但也透過產生一個微代碼補丁來證明這一點，該補丁使晶片在要求隨機數時始終輸出 4。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_amd_microcode/</guid>
       <pubDate>Tue, 04 Feb 2025 23:30:46 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 04 Feb 2025 21:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>FBI 秘密 UFO 獵人擔心川普 1 月 6 日的清洗將把他們送入軌道</title>
+      <title>FBI 秘密 UFO 獵人擔心川普 1 月 6 日的清洗行動會將他們送入軌道</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/fbis_secret_ufo_hunters_fear/</link>
       <description><![CDATA[也許馬斯克只是想要那些肯定不存在的外星太空技術？  一個之前未公開的FBI 特工小組，負責調查UFO，即政府所稱的“不明異常現象(UAP )」。他們擔心自己可能無法在川普領導的政治清洗中生存下來。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/fbis_secret_ufo_hunters_fear/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>NHS 遭受網路攻擊導致醫院未能達到癌症治療目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</link>
-      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「顯著」影響癌症治療的等待時間，並懷疑這種情況將持續表示「月」。]]></description>
+      <description><![CDATA[醫療部門負責人表示影響將持續數月 NHS 高層承認，去年對英格蘭西北部威勒爾醫院的網路攻擊繼續「嚴重」影響癌症治療的等待時間，並懷疑這種情況將持續「數月」。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/cyberattack_on_nhs_hospitals_sees/</guid>
       <pubDate>Tue, 04 Feb 2025 11:44:07 GMT</pubDate>
     </item>
     <item>
       <title>廢棄的 AWS S3 儲存桶可在供應鏈攻擊中重複使用，這會讓 SolarWinds 看起來“微不足道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</link>
-      <description><![CDATA[當雲端客戶不自行清理時，第97 部分 廢棄的AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊會讓俄羅斯的「SolarWinds 冒險看起來很業餘且watchTowr Labs 安全研究人員聲稱，「微不足道」。]]></description>
+      <description><![CDATA[當雲端客戶不自行清理時，第 97 部分 廢棄的 AWS S3 儲存桶可能會被重新使用，以劫持全球軟體供應鏈，這種攻擊將使俄羅斯的“SolarWinds 冒險看起來業餘且微不足道”，watchTowr Labs 安全研究人員聲稱。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/abandoned_aws_s3/</guid>
       <pubDate>Tue, 04 Feb 2025 11:00:06 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>谷歌修復了奇怪的 Android 核心安全漏洞，以防有針對性地利用漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</link>
-      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，據懷疑該漏洞被有針對性的攻擊…]]></description>
+      <description><![CDATA[此外，Netgear 修復了關鍵路由器、接入點漏洞 Google 發布了 2 月份 Android 安全更新，其中包括修復一個高嚴重性內核級漏洞，該漏洞被懷疑被有針對性的攻擊所利用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/04/google_android_patch_netgear/</guid>
       <pubDate>Tue, 04 Feb 2025 08:18:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[英國提議制定針對戀童癖者神經網路的法律 美國人將來可能需要三思而後行，考慮是否下載中國人工智慧模型或投資這種神經網路背後的公司。參議員喬許·霍利(Josh Hawley) (R-MO) 上個月提出的一項法律，如果成功獲得國會通過，將對違反人工智慧相關貿易和合作限制的行為處以最高20 年監禁或100萬美元罰款的處罰。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/us_senator_download_chinese_ai_model/</guid>
       <pubDate>Mon, 03 Feb 2025 22:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>TSA 機場人臉辨識技術面臨稽核調查</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</link>
-      <description><![CDATA[參議員問，國土安全監察機構回答：這值得花錢嗎？來自立法者和隱私權倡導者的批評。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/03/tsa_facial_recognition_audit/</guid>
-      <pubDate>Mon, 03 Feb 2025 22:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
