@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 22:37:43 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 06 Feb 2025 23:13:49 GMT</lastBuildDate>
     <item>
-      <title>數百萬智慧型手機坐標恐被盜，引發又一起針對數據經紀人的訴訟</title>
+      <title>亞馬遜支持的 X-energy 獲得 7 億美元融資，用於尚未建成的小型核反應器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/amazon_backed_xenergy_funding/</link>
+      <description><![CDATA[期待有人將新技術投入核能領域 幾個月前，亞馬遜加入了下一代模組化核能新創公司 X-energy 的 5 億美元融資輪，儘管其裂變反應器設計尚未得到證實，但該公司已宣布進行補充 C-1 輪融資…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/amazon_backed_xenergy_funding/</guid>
+      <pubDate>Thu, 06 Feb 2025 23:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>數百萬部智慧型手機的座標擔心被盜，引發另一起針對數據經紀人的訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/gravy_analytics_data_breach_suit/</link>
-      <description><![CDATA[第四次有危害嗎？  Gravy Analytics 因涉嫌未能保護其大量個人資料而再次被起訴，這些資料現在擔心被盜。我們所說的個人資料是指包括數千萬智慧型手機位置的信息，其座標最終是從安裝的應用程式中獲取的。]]></description>
+      <description><![CDATA[第四次造成傷害？  Gravy Analytics 再次被起訴，據稱該公司未能保護其大量個人數據，目前這些數據擔心被盜。我們所說的個人數據是指包括數千萬部智慧型手機的位置信息，這些智慧型手機的座標最終都是從已安裝的應用程式中收集的。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/gravy_analytics_data_breach_suit/</guid>
       <pubDate>Thu, 06 Feb 2025 22:07:06 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 06 Feb 2025 20:40:11 GMT</pubDate>
     </item>
     <item>
-      <title>民主黨希望了解凍結招聘、DOGE 調查帶來的國家安全風險</title>
+      <title>民主黨希望就凍結招聘和 DOGE 調查帶來的國家安全風險尋求答案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/</link>
       <description><![CDATA[是否包含網路安全角色？馬斯克的執法者經過審查嗎？好奇的人想知道 更新  民選官員要求回答川普政府和伊隆馬斯克的政府效率部 (DOGE) 是否正在阻礙美國國家安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>退伍軍人事務部斥資 3.3 億美元重啟 Oracle 健康記錄項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/</link>
-      <description><![CDATA[系統導致約 150 名患者受到傷害後，人們仍擔心未修復的問題 美國退伍軍人事務部重新啟動了在其醫院實施 Oracle 電子健康記錄的項目，該項目於 2023 年被暫停。]]></description>
+      <description><![CDATA[系統對約 150 名患者造成傷害後，對未解決問題的擔憂仍然存在 美國退伍軍人事務部在 2023 年暫停該計畫後，重新啟動了在其醫院實施 Oracle 電子健康記錄的計畫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/</guid>
       <pubDate>Thu, 06 Feb 2025 14:00:08 GMT</pubDate>
     </item>
@@ -92,12 +99,12 @@
     <item>
       <title>Openreach 測試 50 Gbps 寬頻——短期內還不能指望它能實現</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</link>
-      <description><![CDATA[BT 部門聲稱，下載速度達到 41.9 Gbps，上傳速度達到 20.6 Gbps 網路建置者和維護者 Openreach 表示，它已經在英國測試了 50 Gbps 光纖寬頻連接，這是在遙遠的未來某個時候實現商業化的第一步。]]></description>
+      <description><![CDATA[BT 部門聲稱，下載速度達到 41.9 Gbps，上傳速度達到 20.6 Gbps 網路建置和維護商 Openreach 表示，它已經在英國測試了 50 Gbps 光纖寬頻連接，這是在遙遠的未來某個時候將其商業化的第一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</guid>
       <pubDate>Thu, 06 Feb 2025 09:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼英國線上安全法案對部落客來說可能不安全</title>
+      <title>為什麼英國網路安全法對部落客來說可能不安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
       <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 更新  經營自己網站的個人可能要為訪客發布的離題評論承擔責任，這很奇怪，這些評論違反了英國的《網路安全法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</guid>
@@ -125,25 +132,18 @@
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>冒充 FCC 電話的機器人呼叫者讓電信公司陷入困境</title>
+      <title>假裝來自 FCC 的自動撥號器給 FCC 打電話，導致電信公司陷入麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</link>
       <description><![CDATA[別笑：對運營商 Telnyx 處以 450 萬美元罰款的提議表明特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票決定對 Telnyx 處以 4,492,500 美元的罰款 - 此前詐騙人員的工作人員冒充電信代理公司&gt;pude. =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</guid>
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
+      <title>核心維護者將 Rust 和 C 在 Linux 中混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
       <description><![CDATA[有些人擔心多種語言會使維護這個開源超級專案變得更加困難，而另一些人則不同意 更新  試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
       <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科修補了兩個關鍵的身分識別服務引擎缺陷</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</link>
-      <description><![CDATA[一個提供 root 存取權限，另一個允許您在正確（或應該是錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身份服務引擎 (ISE) 中的兩個嚴重漏洞，這些漏洞可能允許經過身份驗證的遠端攻擊者以 root 身份執行任意命令或重新加載敏感資訊、修改配置並重新加載受影響的設備。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</guid>
-      <pubDate>Wed, 05 Feb 2025 22:32:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
