@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 20:13:40 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 06 Feb 2025 21:12:02 GMT</lastBuildDate>
+    <item>
+      <title>聯邦法官加強對 DOGE 的關鍵財政部支付系統存取權限的管控</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/federal_court_leashes_doges_tresury_access/</link>
+      <description><![CDATA[訴訟：「侵犯個人隱私的規模是巨大的，是史無前例的」 在倡導團體和工會提起訴訟後，伊隆·馬斯克的政府效率部對美國財政部支付系統的訪問受到了限制——至少是暫時的。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/federal_court_leashes_doges_tresury_access/</guid>
+      <pubDate>Thu, 06 Feb 2025 20:40:11 GMT</pubDate>
+    </item>
     <item>
       <title>民主黨希望就凍結招聘和 DOGE 調查帶來的國家安全風險尋求答案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>谷歌高層認為企業量子應用即將到來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</link>
-      <description><![CDATA[20年？該公司的量子人工智慧負責人表示，對於現實世界的工作負載來說，量子運算更像是五年的時間 儘管量子運算不斷取得突破，但它仍難以擺脫人們的看法，即它距離實用化還需要十年的時間。然而，Google的研究人員現在認為，這項技術實際上比一些人認為的更接近商業可行性。]]></description>
+      <description><![CDATA[20年？該公司的量子人工智慧負責人表示，對於現實世界的工作負載來說，量子運算更像是五年的時間 儘管量子運算不斷取得突破，但它仍難以擺脫人們的看法，即它距離實用化還需十年的時間。然而，Google的研究人員現在認為，這項技術實際上比一些人認為的更接近商業可行性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</guid>
       <pubDate>Thu, 06 Feb 2025 14:45:08 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>微軟利用 Windows MIDI 服務製作美妙音樂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</link>
-      <description><![CDATA[預覽版已在 Canary Channel 發布，計劃針對 Windows 10 和 11 發布 Microsoft 發布了第一個 Windows MIDI 服務內建公共預覽版，完全支援 MIDI 2.0 標準。 ...]]></description>
+      <description><![CDATA[預覽版登陸 Canary 頻道，計劃在 Windows 10 和 11 上發布 微軟發布了 Windows MIDI 服務的首個內建公開預覽版，全面支援 MIDI 2.0 標準。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
     </item>
@@ -92,28 +99,28 @@
     <item>
       <title>特斯拉在歐洲和英國的銷量暴跌。我們只能想知道為什麼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</link>
-      <description><![CDATA[馬斯克汽車系列有些陳舊，來自中國的競爭，埃隆就是埃隆，還是以上所有？ 1 月份，由於中國電動汽車製造商實現了巨大的增長，歐洲各地特斯拉新車註冊量大幅下降…]]></description>
+      <description><![CDATA[馬斯克汽車系列有些陳舊，來自中國的競爭，埃隆就是埃隆，還是以上所有？  隨著中國電動汽車製造商的巨大增長，一月份歐洲新特斯拉汽車的註冊量大幅下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</guid>
       <pubDate>Thu, 06 Feb 2025 07:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 放棄取消高通至關重要的晶片許可</title>
+      <title>Arm 放棄取消高通重要的晶片許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</link>
-      <description><![CDATA[英國人來了，英國人來了...接受他們的損失 Arm 已經放棄終止與高通的一項關鍵許可，讓後者可以自由地繼續生產用於 PC、手機和伺服器的本土 Arm 相容晶片。]]></description>
+      <description><![CDATA[英國人來了，英國人來了...接受他們的損失 Arm 已放棄終止與高通的一項關鍵許可，讓高通可以繼續自由地生產用於個人電腦、手機和伺服器的自主研發的 Arm 相容晶片…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</guid>
       <pubDate>Thu, 06 Feb 2025 06:29:15 GMT</pubDate>
     </item>
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
+      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>冒充 FCC 電話的機器人呼叫者讓電信公司陷入困境</title>
+      <title>假裝來自 FCC 的自動撥號器給 FCC 打電話，導致電信公司陷入麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</link>
-      <description><![CDATA[不要笑：對運營商 Telnyx 提出的 450 萬美元罰款表明了特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票提議對 Telnyx 處以 4,492,500 美元的罰款——在冒充監管機構工作人員的詐騙機構工作人員的詐騙者 pude.pude。 =&#39;/data _centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[別笑：對運營商 Telnyx 處以 450 萬美元罰款的提議表明特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票決定對 Telnyx 處以 4,492,500 美元的罰款 - 此前詐騙人員的工作人員冒充電信代理公司&gt;pude. =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</guid>
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>思科修復了兩個嚴重的身分識別服務引擎漏洞</title>
+      <title>思科修補了兩個關鍵的身分識別服務引擎缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</link>
       <description><![CDATA[一個提供 root 存取權限，另一個允許您在正確（或應該是錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身份服務引擎 (ISE) 中的兩個嚴重漏洞，這些漏洞可能允許經過身份驗證的遠端攻擊者以 root 身份執行任意命令或重新加載敏感資訊、修改配置並重新加載受影響的設備。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</guid>
       <pubDate>Wed, 05 Feb 2025 22:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>波蘭第二位太空人將波蘭餃子帶到國際太空站派對</title>
+      <title>波蘭第二位太空人帶著波蘭餃子參加國際太空站派對</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</link>
       <description><![CDATA[希望凍乾的波蘭餃子和新鮮黃油煎的餃子一樣好吃 今年春天，當 Axiom Space 的第四次國際空間站任務到達軌道時，它將包括波蘭的第二位宇航員，他將從家裡帶來一種必不可少的舒適食品：Pierogi。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</guid>
       <pubDate>Wed, 05 Feb 2025 20:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOGE 最新消息：Citrix 高階主管擁有美國財政部支付系統的「唯讀」存取權限</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</link>
-      <description><![CDATA[Cloud Software 執行長是正在為 Elon 團隊調查的「特殊政府僱員」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對一個重要的聯邦政府支付系統擁有「唯讀」存取權限，該系統每年支付 數萬億美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</guid>
-      <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
