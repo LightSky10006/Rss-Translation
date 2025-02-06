@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 15:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 17:11:42 GMT</lastBuildDate>
+    <item>
+      <title>談到 AI 投資報酬率，IT 決策者並不信服</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/lenovo_ai_report/</link>
+      <description><![CDATA[由於投資者猶豫不決，概念驗證項目陷入試驗階段 儘管人工智能行業持續炒作，該行業已投入數十億美元開發該技術，並迫切需要收回這些支出，但許多企業領導人仍然不相信人工智能值得花費這麼多錢。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/lenovo_ai_report/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>知識分子破解了完美軟煮的密碼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/boiled_egg_fluid_dynamics/</link>
-      <description><![CDATA[對於那些不喜歡稀薄的蛋白或堅硬的蛋黃的人來說 研究人員充分利用了計算流體力學軟體，設計出了一種解決方案，解決了完美的半熟雞蛋這一古老問題。]]></description>
+      <description><![CDATA[對於那些不喜歡流蛋白或硬蛋黃的人來說 研究人員充分利用了計算流體動力學軟體，設計了解決完美半熟雞蛋這個古老問題的解決方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/boiled_egg_fluid_dynamics/</guid>
       <pubDate>Thu, 06 Feb 2025 15:31:06 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>Uber執行長警告機器人計程車無法找到商業可行性的快速途徑</title>
+      <title>Uber 執行長警告稱，自動駕駛計程車無法快速實現商業可行性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</link>
       <description><![CDATA[為應對高峰需求而建造的車隊將虧損，只能由人類駕駛來救援 Uber 首席執行官 Dara Khosrowshahi 警告稱，由於成本高昂、季節性需求波動以及需要證明“超人”安全性，目前尚不可能將自動駕駛汽車商業化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>為什麼英國網路安全法對部落客來說可能不安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
-      <description><![CDATA[Legal eagle 認為，個人發布者可能要對訪客偏離主題的貼文承擔責任 更新  奇怪的是，經營自己網站的個人可能要對訪客發表的偏離主題的評論負責，這些評論違反了英國的線上安全法案。]]></description>
+      <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 更新  經營自己網站的個人可能要為訪客發布的離題評論承擔責任，這很奇怪，這些評論違反了英國的《網路安全法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</guid>
       <pubDate>Thu, 06 Feb 2025 08:25:07 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
+      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
+      <title>核心維護者將 Linux 中 Rust 和 C 的混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
       <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[代理 OPM 負責人堅持說，要遵守行政政策，否則你就得走人 由於川普政府建議各機構重新分類這些職位，可能使他們成為政治任命者，美國聯邦政府各部門的首席資訊官面臨著越來越大的工作不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</guid>
       <pubDate>Wed, 05 Feb 2025 18:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>藍色起源為新謝潑德號飛行增強月球重力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</link>
-      <description><![CDATA[貝佐斯的火箭專家宣稱，該技術對 NASA 和其他技術供應商非常有用 藍色起源已將其可重複使用的 New Shepard 火箭送入另一次亞軌道，這次是為太空艙有效載荷模擬月球重力。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</guid>
-      <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
