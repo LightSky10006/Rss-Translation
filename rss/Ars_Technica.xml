@@ -4,7 +4,7 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 00:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 05:13:00 GMT</lastBuildDate>
     <item>
       <title>H5N1禽流感再次爆發；內華達州乳牛感染另一種致命病毒</title>
       <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
@@ -13,7 +13,7 @@
       <pubDate>Wed, 05 Feb 2025 22:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>法官建議暫時禁止 DOGE 進入財政部記錄</title>
+      <title>司法部同意暫時禁止 DOGE 進入財政部記錄</title>
       <link>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</link>
       <description><![CDATA[據司法部所知，伊隆馬斯克無權存取財政部數據。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</guid>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 05 Feb 2025 21:47:16 GMT</pubDate>
     </item>
     <item>
-      <title>AMD 承諾使用下一代 GPU 實現「主流」 4K 遊戲，因為當前一代 GPU 銷量下滑</title>
+      <title>AMD 承諾使用下一代 GPU 實現「主流」 4K 遊戲，因為當前一代 GPU 的銷量下滑</title>
       <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
       <description><![CDATA[9070 系列 Radeon GPU 在 CES 上發布，預定三月上市。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
     </item>
     <item>
-      <title>7-Zip 0day 漏洞在俄羅斯入侵烏克蘭的行動中被利用</title>
+      <title>7-Zip 0day 在俄羅斯持續入侵烏克蘭的過程中被利用</title>
       <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
       <description><![CDATA[漏洞剝奪了 Windows 用於標記網路下載檔案的 MotW 標籤。]]></description>
       <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>Hugging Face 在 24 小時內克隆了 OpenAI 的 Deep Research</title>
       <link>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</link>
-      <description><![CDATA[開源「深度研究」計畫證明代理框架可以提高人工智慧模型的能力。]]></description>
+      <description><![CDATA[開源「深度研究」專案證明代理框架增強了AI模型能力。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</guid>
       <pubDate>Wed, 05 Feb 2025 20:55:54 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>冒充 FCC 工作人員的自動撥號器在向真正的 FCC 工作人員撥打電話後被封鎖</title>
       <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
-      <description><![CDATA[您可以忽略來自 FCC「詐欺防制小組」的自動呼叫，該小組並不存在。]]></description>
+      <description><![CDATA[您可以忽略 FCC「防詐騙團隊」打來的自動呼叫，但該團隊並不存在。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</guid>
       <pubDate>Wed, 05 Feb 2025 19:05:43 GMT</pubDate>
     </item>
