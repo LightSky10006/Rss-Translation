@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 07:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 08:40:50 GMT</lastBuildDate>
+    <item>
+      <title>為什麼英國網路安全法對部落客來說可能不安全</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
+      <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 分析  奇怪的是，經營自己網站的個人可能會為訪客發布的離題評論承擔責任，這些評論違反了英國的《網路安全法》。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</guid>
+      <pubDate>Thu, 06 Feb 2025 08:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉在歐洲和英國的銷量暴跌。我們只能想知道為什麼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
+      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
+      <title>核心維護者將 Rust 和 C 在 Linux 中混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
       <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>DOGE 最新消息：Citrix 高階主管擁有美國財政部支付系統的「唯讀」存取權限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</link>
-      <description><![CDATA[Cloud Software 執行長是對 Elon 團隊進行調查的「特殊政府員工」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對每年支付數萬億美元的重要聯邦政府支付系統擁有「唯讀」存取權限。]]></description>
+      <description><![CDATA[Cloud Software 執行長是正在為 Elon 團隊調查的「特殊政府僱員」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對一個重要的聯邦政府支付系統擁有「唯讀」存取權限，該系統每年支付 數萬億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</guid>
       <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
+      <title>當五眼聯盟警告邊緣闖入事件時，Netgear 修復了嚴重錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
       <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>洛斯阿拉莫斯實驗室研究下一代晶片技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</link>
-      <description><![CDATA[針對太空環境的輻射強化以及上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能並能夠更好地耐受輻射等環境條件。]]></description>
+      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能，並且能夠更好地耐受輻射等環境條件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</guid>
       <pubDate>Wed, 05 Feb 2025 14:38:38 GMT</pubDate>
     </item>
@@ -106,21 +113,21 @@
     <item>
       <title>由於人工智慧，Workday 裁員 8.5%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</link>
-      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在只是二月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
+      <description><![CDATA[有 1,750 個職位即將加入就業隊列，而且現在才 2 月份 Workday 正在重組計劃中裁員 8.5%，因為…人工智慧…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</guid>
       <pubDate>Wed, 05 Feb 2025 12:51:30 GMT</pubDate>
     </item>
     <item>
-      <title>隨著支援截止日期的臨近，微軟的最終 Exchange Server 2019 更新仍缺失</title>
+      <title>隨著支援截止日期臨近，微軟的最終 Exchange Server 2019 更新仍未發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/</link>
-      <description><![CDATA[CU15 MIA，雷德蒙德忙於解決問題 由於一些問題，微軟尚未提供其承諾的 Exchange Server 2019 累積更新 15，因為對電子郵件平台的支援結束倒數計時仍在繼續。]]></description>
+      <description><![CDATA[雷蒙德忙於解決問題，CU15 MIA 由於某些問題，微軟尚未交付其承諾的 Exchange Server 2019 累積更新 15，而對電子郵件平台的支援結束倒數計時仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/</guid>
       <pubDate>Wed, 05 Feb 2025 11:45:09 GMT</pubDate>
     </item>
     <item>
       <title>清晨、傍晚、週末。無用的用戶總是需要支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</link>
-      <description><![CDATA[技術人員抱怨企業忽視合約工時 OnCall...即使我不在 您是否曾經感覺自己在 on-call，即使實際上您並未隨叫隨到？ ...]]></description>
+      <description><![CDATA[技術人員抱怨公司忽略合約規定的工作時間 OnCall... 即使我不在  您是否曾感覺自己在隨叫隨到，即使技術上您並未在隨叫隨到？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</guid>
       <pubDate>Wed, 05 Feb 2025 11:01:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[每台設備 61 美元，每年翻一番，從 11 月開始，安全更新的費用將迅速增加 微軟悄悄更新了一份支持文檔，介紹了 Windows 10 擴展安全更新 (ESU) 程序的工作原理以及費用 - 對於某些人來說，這可能會讓他們感到不安/html_* ....... p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</guid>
       <pubDate>Wed, 05 Feb 2025 09:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟悄悄從說明頁面中刪除了 Windows 11 TPM 2.0 繞過解決方法</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</link>
-      <description><![CDATA[您將升級該老化的設備，並且會喜歡它 更新  在過去三年中，微軟記錄了一種在缺少可信任平台模組 2.0 硬體的 PC 上運行 Windows 11 的方法 - 但該解決方法現已從其幫助頁面中消失。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_11_hardware_requirement_workaround/</guid>
-      <pubDate>Wed, 05 Feb 2025 08:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
