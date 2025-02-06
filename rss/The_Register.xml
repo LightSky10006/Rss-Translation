@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 08:40:50 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 06 Feb 2025 09:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Openreach 測試 50 Gbps 寬頻——短期內還不能指望它能實現</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</link>
+      <description><![CDATA[BT 部門聲稱，下載速度達到 41.9 Gbps，上傳速度達到 20.6 Gbps 網路建置和維護商 Openreach 表示，它已經在英國測試了 50 Gbps 光纖寬頻連接，這是在遙遠的未來某個時候將其商業化的第一步。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</guid>
+      <pubDate>Thu, 06 Feb 2025 09:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>為什麼英國網路安全法對部落客來說可能不安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Rust 和 C 在 Linux 中混合比喻為癌症</title>
+      <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
       <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>當五眼聯盟警告邊緣闖入事件時，Netgear 修復了嚴重錯誤</title>
+      <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
       <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
@@ -120,7 +127,7 @@
     <item>
       <title>隨著支援截止日期臨近，微軟的最終 Exchange Server 2019 更新仍未發布</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/</link>
-      <description><![CDATA[雷蒙德忙於解決問題，CU15 MIA 由於某些問題，微軟尚未交付其承諾的 Exchange Server 2019 累積更新 15，而對電子郵件平台的支援結束倒數計時仍在繼續。]]></description>
+      <description><![CDATA[CU15 MIA，雷德蒙德忙於解決問題 由於一些問題，微軟尚未提供其承諾的 Exchange Server 2019 累積更新 15，因為對電子郵件平台的支援結束倒數計時仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/</guid>
       <pubDate>Wed, 05 Feb 2025 11:45:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[對於波音公司的會計師來說，災難性太空艙比災難性太空艙更甚 波音公司的 CST-100 星際客機項目已為這家航空巨頭增加了 5.23 億美元的預期損失，使該項目的總損失超過 20 億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/starliner_boeing_losses/</guid>
       <pubDate>Wed, 05 Feb 2025 10:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>記住，Windows 10 需要花錢才能維持運作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</link>
-      <description><![CDATA[每台設備 61 美元，每年翻一番，從 11 月開始，安全更新的費用將迅速增加 微軟悄悄更新了一份支持文檔，介紹了 Windows 10 擴展安全更新 (ESU) 程序的工作原理以及費用 - 對於某些人來說，這可能會讓他們感到不安/html_* ....... p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/windows_10_esu_program/</guid>
-      <pubDate>Wed, 05 Feb 2025 09:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
