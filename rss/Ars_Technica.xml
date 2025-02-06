@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 17:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 18:42:11 GMT</lastBuildDate>
     <item>
-      <title>感謝 NASA，你可能不必擔心這顆小行星會殺死你</title>
+      <title>參議員在推動政府全面禁令之際警告稱，DeepSeek 是“強化版 TikTok”</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</link>
+      <description><![CDATA[立法者敦促通過政府設備上的 DeepSeek 禁令是「明智之舉」。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>別驚慌，2032 年小行星撞擊地球的機率為 1.9%</title>
       <link>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</link>
       <description><![CDATA[更多的數據可能會將撞擊的可能性降低至零。如果沒有的話，我們還有其他選擇。]]></description>
       <guid>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</guid>
@@ -20,14 +27,14 @@
       <pubDate>Thu, 06 Feb 2025 16:31:11 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署將在地面上交換龍飛船，以便更快地返回布奇和蘇尼</title>
+      <title>美國宇航局將在地面上交換龍飛船，以便布奇和蘇尼盡快返回</title>
       <link>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</link>
       <description><![CDATA[美國太空總署已經不能再等待新型載人龍飛船的開發了。]]></description>
       <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
       <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>儘管勒索軟體支付額龐大，但 2024 年有所下降。知名駭客</title>
+      <title>儘管勒索軟體支付額龐大，但 2024 年有所下降。著名駭客</title>
       <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
       <description><![CDATA[受害者向駭客支付的金額減少了數億美元。]]></description>
       <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 05 Feb 2025 22:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>司法部同意暫時禁止 DOGE 進入財政部記錄</title>
+      <title>司法部同意暫時阻止 DOGE 進入財政部記錄</title>
       <link>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</link>
       <description><![CDATA[據司法部所知，伊隆馬斯克無權存取財政部數據。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[與Google搜尋不同，人工智慧寫作助理甚至沒有引用其來源。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
       <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>7-Zip 0day 漏洞在俄羅斯入侵烏克蘭的行動中被利用</title>
-      <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
-      <description><![CDATA[漏洞剝奪了 Windows 用於標記網路下載檔案的 MotW 標籤。]]></description>
-      <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
