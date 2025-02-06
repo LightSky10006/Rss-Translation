@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 18:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 20:13:06 GMT</lastBuildDate>
+    <item>
+      <title>使用奧密克戎後，對 COVID 再感染的保護率從 80% 下降到 5%</title>
+      <link>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</link>
+      <description><![CDATA[新研究顯示了為什麼年度 COVID 加強針對控制 COVID 至關重要。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</guid>
+      <pubDate>Thu, 06 Feb 2025 19:57:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>當鸚鵡被要求做一些除了模仿同伴以外的事情時，它們會掙扎</title>
+      <link>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</link>
+      <description><![CDATA[當談到無意義的手勢​​時，金剛鸚鵡會試著跟隨人群。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</guid>
+      <pubDate>Thu, 06 Feb 2025 19:24:37 GMT</pubDate>
+    </item>
     <item>
       <title>參議員在推動政府全面禁令之際警告稱，DeepSeek 是“強化版 TikTok”</title>
       <link>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 06 Feb 2025 17:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>別驚慌，2032 年小行星撞擊地球的機率為 1.9%</title>
+      <title>別驚慌，2032 年小行星撞擊地球的幾率為 1.9%</title>
       <link>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</link>
       <description><![CDATA[更多的數據可能會將撞擊的可能性降低至零。如果沒有的話，我們還有其他選擇。]]></description>
       <guid>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</guid>
@@ -34,21 +48,21 @@
       <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>儘管勒索軟體支付額龐大，但 2024 年有所下降。著名駭客</title>
+      <title>儘管勒索軟體支付額龐大，但 2024 年有所下降。知名駭客</title>
       <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
       <description><![CDATA[受害者向駭客支付的金額減少了數億美元。]]></description>
       <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
       <pubDate>Thu, 06 Feb 2025 14:21:08 GMT</pubDate>
     </item>
     <item>
-      <title>H5N1禽流感再次爆發；內華達州乳牛感染另一種致命病毒</title>
+      <title>H5N1禽流感再次蔓延；內華達州的乳牛感染了不同的致命菌株</title>
       <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
       <description><![CDATA[這項發現意味著新的溢出事件的發生，進一步粉碎了遏制的希望。]]></description>
       <guid>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</guid>
       <pubDate>Wed, 05 Feb 2025 22:52:47 GMT</pubDate>
     </item>
     <item>
-      <title>司法部同意暫時阻止 DOGE 進入財政部記錄</title>
+      <title>司法部同意暫時禁止 DOGE 進入財政部記錄</title>
       <link>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</link>
       <description><![CDATA[據司法部所知，伊隆馬斯克無權存取財政部數據。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“Twitch 是我們用來吸引新觀眾的眾多數位平台之一。”]]></description>
       <guid>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</guid>
       <pubDate>Wed, 05 Feb 2025 21:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 承諾使用下一代 GPU 實現「主流」 4K 遊戲，因為當前一代 GPU 的銷量下滑</title>
-      <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
-      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上發布，預定三月上市。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>不夠好：Google從超級盃廣告中刪除了人工智慧生成的起司錯誤</title>
-      <link>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</link>
-      <description><![CDATA[與Google搜尋不同，人工智慧寫作助理甚至沒有引用其來源。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
