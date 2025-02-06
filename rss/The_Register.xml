@@ -3,12 +3,19 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 12:24:04 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 06 Feb 2025 12:57:28 GMT</lastBuildDate>
+    <item>
+      <title>Uber 執行長警告稱，自動駕駛計程車無法快速實現商業可行性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</link>
+      <description><![CDATA[為應對高峰需求而建造的車隊將虧損，只能由人類駕駛來救援 Uber 首席執行官 Dara Khosrowshahi 警告稱，由於成本高昂、季節性需求波動以及需要證明“超人”安全性，目前尚不可能將自動駕駛汽車商業化。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</guid>
+      <pubDate>Thu, 06 Feb 2025 12:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Copilot+ 電腦？消費者尚未購買</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/ai_copilot_pc_sales/</link>
-      <description><![CDATA[價格上漲 57%，應用程式相容性問題也無濟於事 人們對包含人工智慧處理器的筆記型電腦仍然不太感興趣，對 Microsoft Copilot+ 型號的喜愛度更低，原因是高價、軟體相容性和不透明的優勢。]]></description>
+      <description><![CDATA[57% 更高的價格點和應用程式相容性問題無濟於事 人們對配備 AI 處理器的筆記型電腦仍然不太感興趣，對微軟的 Copilot+ 型號就更不喜歡了，原因包括高昂的定價、軟體相容性和不透明的福利。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/ai_copilot_pc_sales/</guid>
       <pubDate>Thu, 06 Feb 2025 11:45:10 GMT</pubDate>
     </item>
@@ -57,19 +64,19 @@
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
+      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
     <item>
       <title>假裝來自 FCC 的自動撥號器給 FCC 打電話，導致電信公司陷入麻煩</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</link>
-      <description><![CDATA[別笑：對運營商 Telnyx 處以 450 萬美元罰款的提議表明特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票決定對 Telnyx 處以 4,492,500 美元的罰款 - 此前詐騙人員的工作人員冒充電信代理公司 (pude. =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[別笑：對運營商 Telnyx 處以 450 萬美元罰款的提議表明特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票決定對 Telnyx 處以 4,492,500 美元的罰款 - 此前詐騙人員的工作人員冒充電信代理公司&gt;pude. =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</guid>
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Rust 和 C 在 Linux 中混合比喻為癌症</title>
+      <title>核心維護者將 Linux 中 Rust 和 C 的混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
       <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>DOGE 最新消息：Citrix 高階主管擁有美國財政部支付系統的「唯讀」存取權限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</link>
-      <description><![CDATA[Cloud Software 執行長是正在為 Elon 團隊調查的「特殊政府員工」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對一個重要的聯邦政府支付系統擁有「唯讀」存取權限，該系統每年支付 數萬億美元。]]></description>
+      <description><![CDATA[Cloud Software 執行長是正在為 Elon 團隊調查的「特殊政府僱員」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對一個重要的聯邦政府支付系統擁有「唯讀」存取權限，該系統每年支付 數萬億美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</guid>
       <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>洛斯阿拉莫斯實驗室研究下一代晶片技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</link>
-      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能，並且能夠更好地耐受輻射等環境條件。]]></description>
+      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更節能，並且能夠更好地耐受輻射等環境條件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</guid>
       <pubDate>Wed, 05 Feb 2025 14:38:38 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Mountain View 在幾天之內發現了這一陰謀 如果一名中國公民因與 Google 的經濟間諜活動和商業機密盜竊相關的其他幾項指控被判有罪，他將面臨長期監禁和高額罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</guid>
       <pubDate>Wed, 05 Feb 2025 13:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>由於人工智慧，工作日減少了 8.5% 的勞動力</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</link>
-      <description><![CDATA[這意味著有 1,750 個職位即將加入就業隊列，而現在才 2 月份 Workday 正在重組計劃下裁掉 8.5% 的員工，原因是……AI……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/workday_restructure_job_cuts/</guid>
-      <pubDate>Wed, 05 Feb 2025 12:51:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
