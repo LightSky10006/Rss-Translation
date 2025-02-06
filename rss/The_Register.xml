@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 10:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 11:10:49 GMT</lastBuildDate>
+    <item>
+      <title>Agent P 熱情洋溢地談論 systemd 14 年的發展歷程</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/14_years_of_systemd/</link>
+      <description><![CDATA[Lennart Poettering 發表了座無虛席的主題演講。傑克·多西…沒有 FOSDEM 2025  FOSDEM 於 2 月第一個週末返回布魯塞爾——並非沒有一些有爭議的人。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/14_years_of_systemd/</guid>
+      <pubDate>Thu, 06 Feb 2025 11:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>機器狗在試驗中學習拆彈技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_robot_bomb_disposal/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
-      <description><![CDATA[有些人擔心多種語言會使維護這個開源超級專案變得更加困難，有些人則不同意 嘗試將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護人員的反對，他們認為使用多種語言是一種不受歡迎且危險的併發症。]]></description>
+      <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
       <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
     </item>
@@ -71,21 +78,21 @@
     <item>
       <title>波蘭第二位太空人帶著波蘭餃子參加國際太空站派對</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</link>
-      <description><![CDATA[希望凍乾的波蘭餃子和剛用黃油煎的餃子一樣好吃 當 Axiom Space 的第四次國際空間站任務今年春天抵達軌道時，波蘭的第二位宇航員將包括在家裡，他將帶來必要的舒適：Pierogi。]]></description>
+      <description><![CDATA[希望凍乾的波蘭餃子和新鮮黃油煎的餃子一樣好吃 今年春天，當 Axiom Space 的第四次國際空間站任務到達軌道時，它將包括波蘭的第二位宇航員，他將從家裡帶來一種必不可少的舒適食品：Pierogi。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/polands_second_astronaut_pierogi/</guid>
       <pubDate>Wed, 05 Feb 2025 20:30:13 GMT</pubDate>
     </item>
     <item>
       <title>DOGE 最新消息：Citrix 高階主管擁有美國財政部支付系統的「唯讀」存取權限</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</link>
-      <description><![CDATA[Cloud Software 執行長是正在為 Elon 團隊調查的「特殊政府僱員」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對一個重要的聯邦政府支付系統擁有「唯讀」存取權限，該系統每年支付 數萬億美元。]]></description>
+      <description><![CDATA[Cloud Software 執行長是對 Elon 團隊進行調查的「特殊政府員工」 美國財政部透露，Citrix 和 Netscaler 所有者 Cloud Software Group 的執行長 Tom Krause 對每年支付數萬億美元的重要聯邦政府支付系統擁有「唯讀」存取權限。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/tom_krause_treasury_read_only_access/</guid>
       <pubDate>Wed, 05 Feb 2025 19:30:14 GMT</pubDate>
     </item>
     <item>
       <title>川普政府試圖重新劃分聯邦首席資訊官，為政治任命打開大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</link>
-      <description><![CDATA[代理 OPM 負責人堅稱，必須遵守行政政策，否則你就下台 隨著川普政府建議各機構對這些職位進行重新分類，美國聯邦政府的首席資訊長面臨越來越多的工作不確定性，這可能使他們成為政治任命者。]]></description>
+      <description><![CDATA[代理 OPM 負責人堅持說，要遵守行政政策，否則你就得走人 由於川普政府建議各機構重新分類這些職位，可能使他們成為政治任命者，美國聯邦政府各部門的首席資訊官面臨著越來越大的工作不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</guid>
       <pubDate>Wed, 05 Feb 2025 18:15:07 GMT</pubDate>
     </item>
@@ -113,12 +120,12 @@
     <item>
       <title>洛斯阿拉莫斯實驗室研究下一代晶片技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</link>
-      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能，並且能夠更好地耐受輻射等環境條件。]]></description>
+      <description><![CDATA[針對太空環境的輻射強化以及上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能並能夠更好地耐受輻射等環境條件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</guid>
       <pubDate>Wed, 05 Feb 2025 14:38:38 GMT</pubDate>
     </item>
     <item>
-      <title>美國對涉嫌竊取商業機密的前谷歌員工提起間諜指控</title>
+      <title>美國加大對被指控竊取商業機密的前谷歌員工的間諜罪指控</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</link>
       <description><![CDATA[Mountain View 在幾天之內發現了這一陰謀 如果一名中國公民因與 Google 的經濟間諜活動和商業機密盜竊相關的其他幾項指控被判有罪，他將面臨長期監禁和高額罰款。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[CU15 MIA，雷德蒙德忙於解決問題 由於一些問題，微軟尚未提供其承諾的 Exchange Server 2019 累積更新 15，因為對電子郵件平台的支援結束倒數計時仍在繼續。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/final_exchange_server_update/</guid>
       <pubDate>Wed, 05 Feb 2025 11:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>清晨、傍晚、週末。無用的用戶總是需要支持</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</link>
-      <description><![CDATA[技術人員抱怨公司忽略合約規定的工作時間 OnCall... 即使我不在  您是否曾感覺自己在隨叫隨到，即使技術上您並未在隨叫隨到？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/on_call_out_of_contract/</guid>
-      <pubDate>Wed, 05 Feb 2025 11:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
