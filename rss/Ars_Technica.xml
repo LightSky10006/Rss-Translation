@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 14:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:37:15 GMT</lastBuildDate>
+    <item>
+      <title>美國宇航局將在地面上交換龍飛船，以便布奇和蘇尼盡快返回</title>
+      <link>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</link>
+      <description><![CDATA[美國太空總署已經不能再等待新型載人龍飛船的開發了。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>儘管發生大規模知名駭客攻擊，但 2024 年勒索軟體支付額有所下降</title>
+      <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
+      <description><![CDATA[受害者向駭客支付的金額減少了數億美元。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>H5N1禽流感再次爆發；內華達州乳牛感染另一種致命病毒</title>
       <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>AMD 承諾使用下一代 GPU 實現「主流」 4K 遊戲，因為當前一代 GPU 的銷量下滑</title>
       <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
-      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上發布，計劃於 3 月推出。]]></description>
+      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上發布，預定三月上市。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
       <pubDate>Wed, 05 Feb 2025 21:28:03 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>7-Zip 0day 漏洞在俄羅斯入侵烏克蘭的行動中被利用</title>
       <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
-      <description><![CDATA[漏洞剝奪了 Windows 用於標記網路下載檔案的 MotW 標籤。]]></description>
+      <description><![CDATA[Windows 用來標記 Internet 下載檔案的已剝離 MotW 標記的漏洞。]]></description>
       <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
       <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Wed, 05 Feb 2025 20:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>量子隱形傳態用於分發計算</title>
+      <title>用於分配計算的量子隱形傳態</title>
       <link>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</link>
-      <description><![CDATA[該方法允許將單一演算法分佈在多個量子處理器上。]]></description>
+      <description><![CDATA[方法允許單一演算法分佈在多個量子處理器上。]]></description>
       <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
       <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>冒充 FCC 工作人員的自動撥號器在向真正的 FCC 工作人員撥打電話後被封鎖</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
-      <description><![CDATA[您可以忽略 FCC「防詐騙團隊」打來的自動呼叫，但該團隊並不存在。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</guid>
-      <pubDate>Wed, 05 Feb 2025 19:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polestar 執行長表示，該品牌的技術使美國成為“我們的絕佳市場”</title>
-      <link>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</link>
-      <description><![CDATA[Polestar 即將推出其緊湊型 SUV——Polestar 7。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:45:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
