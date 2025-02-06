@@ -4,16 +4,30 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 15:37:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 17:36:19 GMT</lastBuildDate>
     <item>
-      <title>美國宇航局將在地面上交換龍飛船，以便布奇和蘇尼盡快返回</title>
+      <title>感謝 NASA，你可能不必擔心這顆小行星會殺死你</title>
+      <link>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</link>
+      <description><![CDATA[更多的數據可能會將撞擊的可能性降低至零。如果沒有的話，我們還有其他選擇。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年 Genesis Electrified GV70 評測：等待下一款車型</title>
+      <link>https://arstechnica.com/cars/2025/02/review-2025-genesis-electrified-gv70-is-charming-but-it-needs-updates/</link>
+      <description><![CDATA[我們仍然很喜歡這款電動車，但明年它將會有很大的升級。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/review-2025-genesis-electrified-gv70-is-charming-but-it-needs-updates/</guid>
+      <pubDate>Thu, 06 Feb 2025 16:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國太空總署將在地面上交換龍飛船，以便更快地返回布奇和蘇尼</title>
       <link>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</link>
       <description><![CDATA[美國太空總署已經不能再等待新型載人龍飛船的開發了。]]></description>
       <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
       <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>儘管發生大規模知名駭客攻擊，但 2024 年勒索軟體支付額有所下降</title>
+      <title>儘管勒索軟體支付額龐大，但 2024 年有所下降。知名駭客</title>
       <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
       <description><![CDATA[受害者向駭客支付的金額減少了數億美元。]]></description>
       <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>7-Zip 0day 漏洞在俄羅斯入侵烏克蘭的行動中被利用</title>
       <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
-      <description><![CDATA[Windows 用來標記 Internet 下載檔案的已剝離 MotW 標記的漏洞。]]></description>
+      <description><![CDATA[漏洞剝奪了 Windows 用於標記網路下載檔案的 MotW 標籤。]]></description>
       <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
       <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face 在 24 小時內克隆了 OpenAI 的 Deep Research</title>
-      <link>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</link>
-      <description><![CDATA[開源「深度研究」專案證明代理框架增強了AI模型能力。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</guid>
-      <pubDate>Wed, 05 Feb 2025 20:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>用於分配計算的量子隱形傳態</title>
-      <link>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</link>
-      <description><![CDATA[方法允許單一演算法分佈在多個量子處理器上。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
-      <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
