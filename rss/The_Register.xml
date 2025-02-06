@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 12:57:28 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 06 Feb 2025 13:21:32 GMT</lastBuildDate>
+    <item>
+      <title>微軟利用 Windows MIDI 服務製作美妙音樂</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</link>
+      <description><![CDATA[預覽版登陸 Canary 頻道，計劃在 Windows 10 和 11 上發布 微軟發布了 Windows MIDI 服務的首個內建公開預覽版，全面支援 MIDI 2.0 標準。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</guid>
+      <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>Uber 執行長警告稱，自動駕駛計程車無法快速實現商業可行性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>特斯拉在歐洲和英國的銷量暴跌。我們只能想知道為什麼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</link>
-      <description><![CDATA[馬斯克汽車系列有些陳舊，來自中國的競爭，埃隆就是埃隆，還是以上所有？ 1 月份，由於中國電動汽車製造商實現了巨大的增長，歐洲各地特斯拉新車註冊量大幅下降…]]></description>
+      <description><![CDATA[馬斯克汽車系列有些陳舊，來自中國的競爭，埃隆就是埃隆，還是以上所有？  隨著中國電動汽車製造商的巨大增長，一月份歐洲新特斯拉汽車的註冊量大幅下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</guid>
       <pubDate>Thu, 06 Feb 2025 07:19:15 GMT</pubDate>
     </item>
@@ -64,21 +71,21 @@
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
+      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
     <item>
-      <title>假裝來自 FCC 的自動撥號器給 FCC 打電話，導致電信公司陷入麻煩</title>
+      <title>冒充 FCC 電話的機器人呼叫者讓電信公司陷入困境</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</link>
       <description><![CDATA[別笑：對運營商 Telnyx 處以 450 萬美元罰款的提議表明特朗普政府將如何管理其通信監管機構 在特朗普總統任期內的首次執法行動中，FCC 投票決定對 Telnyx 處以 4,492,500 美元的罰款 - 此前詐騙人員的工作人員冒充電信代理公司&gt;pude. =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/robocallers_fcc_telnyx/</guid>
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Linux 中 Rust 和 C 的混合比喻為癌症</title>
+      <title>核心維護者將 Rust 和 C 在 Linux 中混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
-      <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
+      <description><![CDATA[有些人擔心多種語言會使維護這個開源超級專案變得更加困難，有些人則不同意 嘗試將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護人員的反對，他們認為使用多種語言是一種不受歡迎且危險的併發症。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
       <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
     </item>
@@ -111,14 +118,14 @@
       <pubDate>Wed, 05 Feb 2025 18:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>藍色起源為新謝潑德號飛行增強月球重力</title>
+      <title>藍色起源為新謝潑德飛行增加月球重力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</link>
       <description><![CDATA[貝佐斯的火箭專家宣稱，該技術對 NASA 和其他技術供應商非常有用 藍色起源已將其可重複使用的 New Shepard 火箭送入另一次亞軌道，這次是為太空艙有效載荷模擬月球重力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</guid>
       <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>五眼聯盟警告網路邊緣有入侵風險，Netgear 修復關鍵漏洞</title>
+      <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
       <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>洛斯阿拉莫斯實驗室研究下一代晶片技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</link>
-      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更節能，並且能夠更好地耐受輻射等環境條件。]]></description>
+      <description><![CDATA[針對太空環境的抗輻射加固以及針對上方和下方的能源效率調整 洛斯阿拉莫斯國家實驗室 (LANL) 正在領導一個項目，旨在改變晶片的設計和製造方式，使其更加節能，並且能夠更好地耐受輻射等環境條件。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/los_alamos_lab_to_research/</guid>
       <pubDate>Wed, 05 Feb 2025 14:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國對涉嫌竊取商業機密的前谷歌員工提起間諜指控</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</link>
-      <description><![CDATA[Mountain View 在幾天之內發現了這一陰謀 如果一名中國公民因與 Google 的經濟間諜活動和商業機密盜竊相關的其他幾項指控被判有罪，他將面臨長期監禁和高額罰款。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/google_espionage_charges/</guid>
-      <pubDate>Wed, 05 Feb 2025 13:33:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
