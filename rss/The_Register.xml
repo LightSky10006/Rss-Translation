@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 06 Feb 2025 14:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:13:29 GMT</lastBuildDate>
+    <item>
+      <title>谷歌高層認為企業量子應用即將到來</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</link>
+      <description><![CDATA[20年？該公司的量子人工智慧負責人表示，對於現實世界的工作負載來說，量子運算更像是五年的時間 儘管量子運算不斷取得突破，但它仍難以擺脫人們的看法，即它距離實用化還需十年的時間。然而，Google的研究人員現在認為，這項技術實際上比一些人認為的更接近商業可行性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>退伍軍人事務部斥資 3.3 億美元重啟 Oracle 健康記錄項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>Uber執行長警告機器人計程車無法找到商業可行性的快速途徑</title>
+      <title>Uber 執行長警告稱，自動駕駛計程車無法快速實現商業可行性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</link>
       <description><![CDATA[為應對高峰需求而建造的車隊將虧損，只能由人類駕駛來救援 Uber 首席執行官 Dara Khosrowshahi 警告稱，由於成本高昂、季節性需求波動以及需要證明“超人”安全性，目前尚不可能將自動駕駛汽車商業化。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>為什麼英國網路安全法對部落客來說可能不安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
-      <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 分析  奇怪的是，經營自己網站的個人可能會為訪客發布的離題評論承擔責任，這些評論違反了英國的《網路安全法》。]]></description>
+      <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 更新  經營自己網站的個人可能要為訪客發布的離題評論承擔責任，這很奇怪，這些評論違反了英國的《網路安全法》。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</guid>
       <pubDate>Thu, 06 Feb 2025 08:25:07 GMT</pubDate>
     </item>
@@ -69,16 +76,16 @@
       <pubDate>Thu, 06 Feb 2025 07:19:15 GMT</pubDate>
     </item>
     <item>
-      <title>Arm 放棄取消高通至關重要的晶片許可</title>
+      <title>Arm 放棄取消高通重要的晶片許可</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</link>
-      <description><![CDATA[英國人來了，英國人來了...接受他們的損失 Arm 已放棄終止與高通的一項關鍵許可，讓高通可以繼續自由地生產用於個人電腦、手機和伺服器的自主研發的 Arm 相容晶片…]]></description>
+      <description><![CDATA[英國人來了，英國人來了...接受他們的損失 Arm 已經放棄終止與高通的一項關鍵許可，讓後者可以自由地繼續生產用於 PC、手機和伺服器的本土 Arm 相容晶片。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</guid>
       <pubDate>Thu, 06 Feb 2025 06:29:15 GMT</pubDate>
     </item>
     <item>
       <title>民主黨人要求知道 OPM 網路上的 DOGE 伺服器到底是怎麼回事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</link>
-      <description><![CDATA[您想讓中國和俄羅斯變得容易嗎？  誰購買了它，誰安裝了它，以及它的數據發生了什麼。]]></description>
+      <description><![CDATA[你是想讓中國和俄羅斯輕易得手嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrats_opm_server/</guid>
       <pubDate>Thu, 06 Feb 2025 01:49:48 GMT</pubDate>
     </item>
@@ -90,16 +97,16 @@
       <pubDate>Thu, 06 Feb 2025 00:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>核心維護者將 Linux 中 Rust 和 C 的混合比喻為癌症</title>
+      <title>核心維護者將 Linux 中的 Rust 和 C 混合比喻為癌症</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</link>
-      <description><![CDATA[有些人擔心多種語言會讓這個開源超級專案更難維護，而另一些人不同意 試圖將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護者的反對，他們認為使用多種語言是一種不受歡迎且有風險的複雜情況。]]></description>
+      <description><![CDATA[有些人擔心多種語言會使維護這個開源超級專案變得更加困難，有些人則不同意 嘗試將 Rust 程式碼添加到 Linux 核心的開發人員繼續面臨核心維護人員的反對，他們認為使用多種語言是一種不受歡迎且危險的併發症。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/mixing_rust_and_c_linux/</guid>
       <pubDate>Wed, 05 Feb 2025 23:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>思科修復了兩個嚴重的身分識別服務引擎漏洞</title>
+      <title>思科修補了兩個關鍵的身分識別服務引擎缺陷</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</link>
-      <description><![CDATA[一個提供 root 存取權限，另一個允許您在正確（或應該是錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身份服務引擎 (ISE) 中的兩個嚴重漏洞，這些漏洞可能允許經過身份驗證的遠端攻擊者以 root 身份執行任意命令或重新加載敏感資訊、修改配置並重新加載受影響的設備。]]></description>
+      <description><![CDATA[一個提供 root 存取權限，另一個讓您在正確（或錯誤）的情況下竊取資訊並重新配置節點 思科已修復其身分服務引擎 (ISE) 中的兩個關鍵漏洞，這些漏洞可能允許經過驗證的遠端攻擊者以 root 身分執行任意命令或存取敏感資訊、修改配置並重新載入設定並重新載入設定的裝置。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/cisco_plugs_two_critical_ise_bugs/</guid>
       <pubDate>Wed, 05 Feb 2025 22:32:14 GMT</pubDate>
     </item>
@@ -120,30 +127,23 @@
     <item>
       <title>川普政府試圖重新劃分聯邦首席資訊官，為政治任命打開大門</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</link>
-      <description><![CDATA[代理 OPM 負責人堅稱，必須遵守行政政策，否則你就下台 隨著川普政府建議各機構對這些職位進行重新分類，美國聯邦政府的首席資訊長面臨越來越多的工作不確定性，這可能使他們成為政治任命者。]]></description>
+      <description><![CDATA[代理 OPM 負責人堅持說，要遵守行政政策，否則你就得走人 由於川普政府建議各機構重新分類這些職位，可能使他們成為政治任命者，美國聯邦政府各部門的首席資訊官面臨著越來越大的工作不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/trump_administration_reclassified_cios/</guid>
       <pubDate>Wed, 05 Feb 2025 18:15:07 GMT</pubDate>
     </item>
     <item>
       <title>藍色起源為新謝潑德號飛行增強月球重力</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</link>
-      <description><![CDATA[貝佐斯的火箭專家宣稱，該技術對 NASA 和其他技術供應商非常有用 藍色起源已將其可重複使用的 New Shepard 火箭送入另一次亞軌道，這次是為太空艙有效載荷模擬月球重力。]]></description>
+      <description><![CDATA[貝佐斯的火箭專家宣稱其能力對 NASA 和其他技術供應商有用 藍色起源已將其可重複使用的 New Shepard 火箭發射到另一個亞軌道吊射軌道上，這次模擬了太空艙有效載荷的月球重力。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/new_shepard_lunar_gravity/</guid>
       <pubDate>Wed, 05 Feb 2025 17:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>五眼聯盟警告網路邊緣有入侵風險，Netgear 修復關鍵漏洞</title>
+      <title>Netgear 修復了關鍵漏洞，五眼聯盟警告邊緣網路存在入侵風險</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</link>
       <description><![CDATA[國際安全小組全都致力於阻止惡意程式透過路由器、物聯網套件等入侵 Netgear 修補了影響多台路由器的兩個嚴重漏洞後，建議客戶升級韌體…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/netgear_fixes_critical_bugs_while/</guid>
       <pubDate>Wed, 05 Feb 2025 16:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>當 Clippy 讓你懷念過去的簡單時光時，你就知道出問題了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/05/microsoft_clippy_post/</link>
-      <description><![CDATA[看起來您想激怒 Windows 使用者。您需要幫助嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/05/microsoft_clippy_post/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
