@@ -1,149 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>登記冊</title>
+    <title>寄存器</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Fri, 07 Feb 2025 03:27:46 GMT</lastBuildDate>
+    <description>咬住它的手 - 企業技術新聞和分析</description>
+    <lastBuildDate>Fri, 07 Feb 2025 05:12:59 GMT</lastBuildDate>
     <item>
-      <title>卡巴斯基稱，蘋果在進入應用程式商店的程式碼中沒有發現截圖監視惡意軟體</title>
+      <title>硬件質量問題和服務器供應鏈扭曲了亞馬遜的1000億美元AI構建</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/07/amazon_q4_fy_2024/</link>
+      <description><![CDATA[逆轉某些服務器的壽命延長，現在認為在推論年齡  Amazon Web Services正在努力獲得建立AI基礎設施所需的高質量服務器，並且已經退休了其他硬件儘早為加速機騰出空間。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/07/amazon_q4_fy_2024/</guid>
+      <pubDate>Fri, 07 Feb 2025 04:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡巴斯基聲稱，蘋果在代碼中錯過了屏幕截圖的惡意軟件，卡巴斯基聲稱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/07/infected_apps_google_apple_stores/</link>
-      <description><![CDATA[OCR 外掛程式非常適合從圖庫中提取加密錢包秘密 卡巴斯基專家表示，他們在蘋果應用商店中發現了第一個包含隱藏光學字元辨識間諜軟體的應用程式。狡猾的是，該軟體的目的是竊取加密貨幣…]]></description>
+      <description><![CDATA[ OCR插件非常適合從畫廊中提取加密貨幣秘密  kaspersky eggheads說，他們發現了第一個包含Apple App Store中隱藏光學角色識別間諜的應用程序。狡猾的是，軟件令人討厭的旨在竊取加密貨幣。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/07/infected_apps_google_apple_stores/</guid>
       <pubDate>Fri, 07 Feb 2025 03:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>如果 Ransomware Inc 是一家公司，那麼它 2024 年的業績將是一場恐怖秀</title>
+      <title>如果勒索軟件公司（Ransomware Inc）是一家公司，其2024年結果將是一個恐怖表演</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/07/ransomware_costs_analysis/</link>
-      <description><![CDATA[由於備份變得更好並且執法發揮了作用，全年支付額下降了 35% 據區塊鏈分析公司 Chainalysis 本週稱，勒索軟體勒索支付額將在 2024 年下降。]]></description>
+      <description><![CDATA[隨著備份的情況越來越好，一年中的付款下降了35％，執法部門有所作為 勒索軟件勒索支付在2024年下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/07/ransomware_costs_analysis/</guid>
       <pubDate>Fri, 07 Feb 2025 01:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>擁有財政部支付系統存取權限的 DOGE 極客因種族主義推文指控而辭職</title>
+      <title>Doge Geek帶有國庫支付系統的訪問現在在種族主義推文索賠中退出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/07/doge_staffer_twitter/</link>
-      <description><![CDATA[我們確實看到了納粹的到來 Marko Elez 曾是 SpaceX、Starlink 和 X 的工程師，他被川普支持的政府效率部 (DOGE) 授予對美國財政部關鍵支付系統的深度訪問權限，但在與一個種族主義 Twitter 帳戶有關聯後，他已退出該團隊。 ]]></description>
+      <description><![CDATA[我們確實納粹看到了即將到來的  Marko Elez，前SpaceX，Starlink和X工程師，他被特朗普政府效率部的特朗普傳播效率深入訪問了關鍵的美國國庫支付系統（（ DOGE），在他被鏈接到種族主義Twitter帳戶後退出了該團隊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/07/doge_staffer_twitter/</guid>
       <pubDate>Fri, 07 Feb 2025 00:02:49 GMT</pubDate>
     </item>
     <item>
-      <title>亞馬遜支持的 X-energy 為尚未存在的小型核反應器追加了 7 億美元</title>
+      <title>亞馬遜支持的X能袋額7億美元用於尚不存在的Itty Bitty Nuke反應堆</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/amazon_backed_xenergy_funding/</link>
-      <description><![CDATA[期待有人將新技術投入核能領域 幾個月前，亞馬遜加入了下一代模組化核能新創公司 X-energy 的 5 億美元融資輪，儘管其裂變反應器設計尚未得到證實，但該公司已宣布進行補充 C-1 輪融資…]]></description>
+      <description><![CDATA[期待某人在亞馬遜加入五十億美元的籌款回合之後，將新的 投入到下一代模塊化核創業X-能源X-Energy之後，Biz宣布了一個補充的系列C -1升高 - 儘管其裂變反應堆設計仍未得到證實。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/amazon_backed_xenergy_funding/</guid>
       <pubDate>Thu, 06 Feb 2025 23:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>數百萬智慧型手機的座標擔心被盜，引發另一起針對數據經紀人的訴訟</title>
+      <title>數百萬智能手機的坐標害怕被盜，引發了針對數據經紀人的另一項訴訟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/gravy_analytics_data_breach_suit/</link>
-      <description><![CDATA[第四次造成傷害？  Gravy Analytics 再次被起訴，據稱該公司未能保護其大量個人數據，目前這些數據擔心被盜。我們所說的個人數據是指包括數千萬部智慧型手機的位置信息，這些智慧型手機的座標最終都是從已安裝的應用程式中收集的。]]></description>
+      <description><![CDATA[第四次危害？ 肉汁分析再次被起訴，據稱未能保護其廣泛的個人數據存儲，現在擔心這些數據被盜。通過個人數據，我們的意思是信息，包括數千萬智能手機的位置，其坐標最終是從已安裝的應用程序中收穫的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/gravy_analytics_data_breach_suit/</guid>
       <pubDate>Thu, 06 Feb 2025 22:07:06 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦法官收緊了 DOGE 對關鍵財政部支付系統存取的控制</title>
+      <title>聯邦法官在關鍵的國庫支付系統訪問中收緊了Doge皮帶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/federal_court_leashes_doges_tresury_access/</link>
-      <description><![CDATA[訴訟：「侵犯個人隱私的規模是巨大的，是前所未有的」 更新  在倡導團體和工會提起訴訟後，埃隆馬斯克的政府效率部對美國財政部支付系統的訪問受到了限制——至少是暫時的。]]></description>
+      <description><![CDATA[訴訟：“入侵個人隱私的規模是巨大的，前所未有的”   更新了埃隆·馬斯克的政府效率部已訪問美國財政支付系統，受到限制- 至少是暫時的 - 倡導團體和工會的訴訟。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/federal_court_leashes_doges_tresury_access/</guid>
       <pubDate>Thu, 06 Feb 2025 20:40:11 GMT</pubDate>
     </item>
     <item>
-      <title>民主黨希望了解凍結招聘、DOGE 調查帶來的國家安全風險</title>
+      <title>Dems想要雇用凍結，Doge Proipes帶來的國家安全風險的答案</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/</link>
-      <description><![CDATA[是否包含網路安全角色？馬斯克的執法者經過審查嗎？好奇的人想知道 更新  民選官員要求回答川普政府和伊隆馬斯克的政府效率部 (DOGE) 是否正在阻礙美國國家安全。]]></description>
+      <description><![CDATA[是否包括網絡安全角色？埃隆的執法人員是否受到審查？詢問頭腦想知道  更新民選官員要求對特朗普政府和埃隆·馬斯克政府效率部（DOGE）是否正在障礙美國國家安全的答案。…&lt; /]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/democrat_trump_admin_letter/</guid>
       <pubDate>Thu, 06 Feb 2025 18:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>談到 AI 投資報酬率，IT 決策者並不信服</title>
+      <title>當涉及AI ROI時，決策者沒有說服</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/lenovo_ai_report/</link>
-      <description><![CDATA[由於投資者猶豫不決，概念驗證項目陷入試驗階段 儘管人工智能行業持續炒作，該行業已投入數十億美元開發該技術，並迫切需要收回這些支出，但許多企業領導人仍然不相信人工智能值得花費這麼多錢。]]></description>
+      <description><![CDATA[概念驗證項目陷入了試點階段，因為投資者變得發癢的腳 許多業務領導者仍然不相信AI值得花費，儘管一個行業繼續炒作，該行業一直押注數十億美元，並拼命地開發了這項技術和拼命的技術需要收回支出。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/lenovo_ai_report/</guid>
       <pubDate>Thu, 06 Feb 2025 17:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>知識分子破解了完美軟煮的密碼</title>
+      <title>Eggheads破解代碼，以獲得完美的軟沸騰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/boiled_egg_fluid_dynamics/</link>
-      <description><![CDATA[對於那些不喜歡稀薄的蛋白或堅硬的蛋黃的人來說 研究人員充分利用了計算流體力學軟體，設計出了一種解決方案，解決了完美的半熟雞蛋這一古老問題。]]></description>
+      <description><![CDATA[對於那些為那些流浪白色或堅硬的蛋黃而不是很好的 研究人員已經將計算流體動力學軟件良好地用於為完美的古老問題設計解決方案煮雞蛋。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/boiled_egg_fluid_dynamics/</guid>
       <pubDate>Thu, 06 Feb 2025 15:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌高層認為企業量子應用即將到來</title>
+      <title>Google Exec將Enterprise Quantum應用程序近距離地視野</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</link>
-      <description><![CDATA[20年？該公司的量子人工智慧負責人表示，對於現實世界的工作負載來說，量子運算更像是五年的時間 儘管量子運算不斷取得突破，但它仍難以擺脫人們的看法，即它距離實用化還需十年的時間。然而，Google的研究人員現在認為，這項技術實際上比一些人認為的更接近商業可行性。]]></description>
+      <description><![CDATA[ 20年？更像是實際工作量的五個，說公司的量子AI鉛 儘管進行了持續的突破，但量子計算仍在努力動搖，即距離實用距離始終十年。但是，Google的研究人員現在認為，這項技術實際上比您相信的更接近商業可行性。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/google_quantum_apps/</guid>
       <pubDate>Thu, 06 Feb 2025 14:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>退伍軍人事務部斥資 3.3 億美元重啟 Oracle 健康記錄項目</title>
+      <title>退伍軍人事務重新啟動Oracle Health Records項目，價格為3.3億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/</link>
-      <description><![CDATA[系統導致約 150 名患者受到傷害後，人們仍擔心未修復的問題 美國退伍軍人事務部重新啟動了在其醫院實施 Oracle 電子健康記錄的項目，該項目於 2023 年被暫停。]]></description>
+      <description><![CDATA[對未解決問題的問題仍然存在後，對大約150名患者造成了傷害 美國退伍軍人事務部已重新啟動一個項目，以在該項目於2023年暫停該項目後，在其醫院中實施Oracle電子健康記錄。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/oracle_cerner_va_reboot/</guid>
       <pubDate>Thu, 06 Feb 2025 14:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>微軟利用 Windows MIDI 服務製作美妙音樂</title>
+      <title>微軟與Windows Midi Services一起製作甜美，甜美的音樂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</link>
-      <description><![CDATA[預覽版登陸 Canary 頻道，計劃在 Windows 10 和 11 上發布 微軟發布了 Windows MIDI 服務的首個內建公開預覽版，全面支援 MIDI 2.0 標準。]]></description>
+      <description><![CDATA[預覽到達金絲雀頻道，計劃發布的Windows 10和11   Microsoft已發布了Windows MIDI服務的首個盒子內預覽，並全力支持MIDI 2.0標準。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/windows_midi_services_2/</guid>
       <pubDate>Thu, 06 Feb 2025 13:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>Uber 執行長警告稱，自動駕駛計程車無法快速實現商業可行性</title>
+      <title>Uber首席執行官警告Robotaxis找不到通往商業可行性的快速途徑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</link>
-      <description><![CDATA[為應對高峰需求而建造的車隊將虧損，只能由人類駕駛來救援 Uber 首席執行官 Dara Khosrowshahi 警告稱，由於成本高昂、季節性需求波動以及需要證明“超人”安全性，目前尚不可能將自動駕駛汽車商業化。]]></description>
+      <description><![CDATA[為處理高峰需求而建造的艦隊將損失錢，使人類開車去救援  UBER首席執行官Dara Khosrowshahi警告說，由於高成本，季節性需求波動，季節性的波動，不可能將自動駕駛汽車商業化。並且需要證明“超人”安全。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uber_fy_2024_av_update/</guid>
       <pubDate>Thu, 06 Feb 2025 12:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>Copilot+ 電腦？消費者尚未購買</title>
+      <title>Copilot+ PC？客戶只是不購買它</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/ai_copilot_pc_sales/</link>
-      <description><![CDATA[57% 更高的價格點和應用程式相容性問題無濟於事 人們對配備 AI 處理器的筆記型電腦仍然不太感興趣，對微軟的 Copilot+ 型號就更不喜歡了，原因包括高昂的定價、軟體相容性和不透明的福利。]]></description>
+      <description><![CDATA[更高的價格點和應用程序兼容性問題沒有幫助 對包含AI具有AI功能的處理器的筆記本幾乎沒有愛，甚至更少，對於Microsoft的Copilot+型號，具有優質的價格，軟件兼容性，並且不透明的好處被認為是原因。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/ai_copilot_pc_sales/</guid>
       <pubDate>Thu, 06 Feb 2025 11:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>Agent P 熱情洋溢地談論 systemd 14 年的發展歷程</title>
+      <title>代理P抒情大約14年的系統</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/14_years_of_systemd/</link>
-      <description><![CDATA[Lennart Poettering 發表了內容豐富的主題演講。 Jack Dorsey ...沒有 FOSDEM 2025  FOSDEM 在 2 月份的第一個週末回到布魯塞爾 - 不乏一些有爭議的人。]]></description>
+      <description><![CDATA[ Lennart Poettering發表了主題演講。傑克·多爾西（Jack Dorsey）…沒有   fosdem 2025  fosdem返回了2月的第一個週末- 並非沒有一些有爭議的人。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/14_years_of_systemd/</guid>
       <pubDate>Thu, 06 Feb 2025 11:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>機器狗在試驗中學習拆彈技巧</title>
+      <title>機器人狗在試驗中學習炸彈處置技巧</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_robot_bomb_disposal/</link>
-      <description><![CDATA[「取回」變得更有趣了 看來你可以教機器狗新技巧了，目前機械犬正在測試中用於檢測和化解炸彈威脅。]]></description>
+      <description><![CDATA[&#39;Fetch&#39;只是變得更加有趣 您可以教機器人狗的新技巧，現在將機械犬部署在測試中以檢測和減少炸彈威脅。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_robot_bomb_disposal/</guid>
       <pubDate>Thu, 06 Feb 2025 10:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>Openreach 測試 50 Gbps 寬頻——短期內還不能指望它能實現</title>
+      <title>OpenReach測試50 Gbps寬帶 - 不要期望很快</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</link>
-      <description><![CDATA[BT 部門聲稱，下載速度達到 41.9 Gbps，上傳速度達到 20.6 Gbps 網路建置者和維護者 Openreach 表示，它已經在英國測試了 50 Gbps 光纖寬頻連接，這是在遙遠的未來某個時候實現商業化的第一步。]]></description>
+      <description><![CDATA[下載速度為41.9 Gbps，上傳速度為20.6 Gbps，索賠BT Division  網絡構建器和維護者OpenReach表示，它已經測試了英國50 Gbps的光纖寬帶連接，作為邁向的第一步在遙遠的將來的某個時刻使其在商業上可用。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/openreach_tests_out_50gbps_broadband/</guid>
       <pubDate>Thu, 06 Feb 2025 09:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>為什麼英國網路安全法對部落客來說可能不安全</title>
+      <title>為什麼英國在線安全法可能對博主不安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</link>
-      <description><![CDATA[法律專家稱，個人出版商可能要為訪客的離題貼文承擔責任 更新  經營自己網站的個人可能要為訪客發布的離題評論承擔責任，這很奇怪，這些評論違反了英國的《網路安全法》。]]></description>
+      <description><![CDATA[Legal Eagle認為，個人出版商可能對訪客的非主題帖子負責，  更新了經營自己網站的個人可能會承擔任何責任，奇怪的是，違反英國在線安全法案的主題訪客寄出的評論。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/uk_online_safety_act_bloggers/</guid>
       <pubDate>Thu, 06 Feb 2025 08:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉在歐洲和英國的銷量暴跌。我們只能想知道為什麼</title>
+      <title>特斯拉的銷售崩潰在英國，英國。我們只想知道為什麼</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</link>
-      <description><![CDATA[馬斯克汽車系列有些陳舊，來自中國的競爭，埃隆就是埃隆，還是以上所有？ 1 月份，由於中國電動汽車製造商實現了巨大的增長，歐洲各地特斯拉新車註冊量大幅下降…]]></description>
+      <description><![CDATA[有些陳舊的馬斯克莫族人，來自中國的競爭，埃隆是埃隆或上述所有？增長。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/europe_uk_tesla_sales/</guid>
       <pubDate>Thu, 06 Feb 2025 07:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 放棄取消高通至關重要的晶片許可</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</link>
-      <description><![CDATA[英國人來了，英國人來了...接受他們的損失 Arm 已放棄終止與高通的一項關鍵許可，讓高通可以繼續自由地生產用於個人電腦、手機和伺服器的自主研發的 Arm 相容晶片…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/06/arm_qualcomm_nuvia/</guid>
-      <pubDate>Thu, 06 Feb 2025 06:29:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
