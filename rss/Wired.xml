@@ -3,38 +3,45 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 07 Feb 2025 02:15:53 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 07 Feb 2025 03:00:46 GMT</lastBuildDate>
     <item>
-      <title>E3 主辦單位帶著新活動回歸。這次，醫生也受邀參加</title>
+      <title>埃隆·馬斯克（Elon Musk</title>
+      <link>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</link>
+      <description><![CDATA[該聊天機器人是伊隆馬斯克和唐納德川普總統利用人工智慧和其他技術削減成本並使美國政府現代化的雄心的一部分。]]></description>
+      <guid>https://www.wired.com/story/doge-chatbot-ai-first-agenda/</guid>
+      <pubDate>Fri, 07 Feb 2025 02:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>E3 主辦單位帶著新活動回歸。這次也請來了醫生</title>
       <link>https://www.wired.com/story/iicon-conference-from-e3-organizers-hollywood-health-care/</link>
       <description><![CDATA[隨著 ESA 視野的不斷拓寬，預告片和演示的時代已經結束。新成立的「iicon」會議將匯集好萊塢到醫療保健等眾多受電子遊戲影響的行業。]]></description>
       <guid>https://www.wired.com/story/iicon-conference-from-e3-organizers-hollywood-health-care/</guid>
       <pubDate>Thu, 06 Feb 2025 23:57:11 GMT</pubDate>
     </item>
     <item>
-      <title>美國財政部聲稱 DOGE 技術專家沒有“寫入權限”，但實際上他有</title>
+      <title>美國財政部聲稱，總督技術人員實際上沒有“寫入訪問”</title>
       <link>https://www.wired.com/story/treasury-department-doge-marko-elez-access/</link>
-      <description><![CDATA[消息人士告訴《連線》雜誌，在美國財政部和白宮官員表示 DOGE 的 Marko Elez 修改控制數萬億美元聯邦支出的代碼的權限不存在幾天后，該權限就被取消了。]]></description>
+      <description><![CDATA[消息人士告訴《連線》雜誌，DOGE 的 Marko Elez 更改控制數萬億聯邦支出的代碼的能力在美國財政部和白宮官員表示不存在幾天后被取消。]]></description>
       <guid>https://www.wired.com/story/treasury-department-doge-marko-elez-access/</guid>
       <pubDate>Thu, 06 Feb 2025 23:55:47 GMT</pubDate>
     </item>
     <item>
       <title>聯邦政府叫停國家電動車充電計劃</title>
       <link>https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/</link>
-      <description><![CDATA[根據《連線》獲得的一份備忘錄，美國政府已命令各州撤回建造數百個聯邦政府資助的電動車充電站的計畫。]]></description>
+      <description><![CDATA[根據Wired獲得的備忘錄，美國政府已命令各州撤回其計劃，以建造數百個由聯邦政府資助的電動汽車充電站。]]></description>
       <guid>https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/</guid>
       <pubDate>Thu, 06 Feb 2025 23:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>唐納德·川普挑選的 NIH 剛剛推出了一本備受爭議的科學期刊</title>
+      <title>唐納德·特朗普（Donald Trump）的NIH選秀剛剛發起了有爭議的科學雜誌</title>
       <link>https://www.wired.com/story/trump-nih-pick-launched-controversial-scientific-journal/</link>
       <description><![CDATA[該期刊的編輯委員會包括多位科學家，例如川普衛生部長候選人傑伊·巴塔查里亞 (Jay Bhattacharya) 和馬蒂​​·馬卡里 (Marty Makary)，他們反對 Covid 公共衛生措施。]]></description>
       <guid>https://www.wired.com/story/trump-nih-pick-launched-controversial-scientific-journal/</guid>
       <pubDate>Thu, 06 Feb 2025 23:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>由於伊隆馬斯克的 DOGE 計劃導緻美國國際開發署員工人數從 10,000 人減少到 300 人以下</title>
+      <title>隨著埃隆·馬斯克（Elon Musk）的總督破壞代理商</title>
       <link>https://www.wired.com/story/doge-guts-usaid-workforce/</link>
       <description><![CDATA[美國政府的主要對外援助機構正在失去絕大多數員工，導致該機構的救生工作陷入停頓。]]></description>
       <guid>https://www.wired.com/story/doge-guts-usaid-workforce/</guid>
@@ -48,14 +55,14 @@
       <pubDate>Thu, 06 Feb 2025 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 擄獲了我們的心，但它能持續下去嗎？</title>
+      <title>蒂克托克偷了我們的心，但是可以持續嗎？</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-12-tiktok-stole-our-hearts/</link>
-      <description><![CDATA[《恐怖谷》的主持人記錄了 TikTok 禁令事件，並提出疑問：是什麼讓這款應用程式如此容易受到攻擊？]]></description>
+      <description><![CDATA[《恐怖谷》的主持人記錄了 TikTok 禁令的整個過程，並提出疑問：是什麼讓這款應用程式如此容易受到攻擊？]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-12-tiktok-stole-our-hearts/</guid>
       <pubDate>Thu, 06 Feb 2025 18:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>川普 Memecoin 狂熱的不為人知的贏家</title>
+      <title>川普模因幣熱潮中不為人知的贏家</title>
       <link>https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/</link>
       <description><![CDATA[當美國總統川普推出自己的加密貨幣時，引發了交易狂潮。一群鮮為人知的加密平台悄悄獲利。]]></description>
       <guid>https://www.wired.com/story/trump-memecoin-solana-crypto-platforms-profit/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>經過測試的最佳滑雪服（2025 年）：外套、夾克、羊毛襪</title>
       <link>https://www.wired.com/gallery/best-ski-clothes/</link>
-      <description><![CDATA[從防風雨夾克和褲子到羽絨外套、手套和襪子，《連線》雜誌的冬季運動專家為您提供一切所需。]]></description>
+      <description><![CDATA[從防風雨夾克和褲子到河豚，手套和襪子，《連線》的冬季體育專家都可以覆蓋您。]]></description>
       <guid>https://www.wired.com/gallery/best-ski-clothes/</guid>
       <pubDate>Thu, 06 Feb 2025 14:32:00 GMT</pubDate>
     </item>
@@ -76,14 +83,14 @@
       <pubDate>Thu, 06 Feb 2025 14:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>不僅僅是梅斯卡爾：深入了解瓦哈卡的高端雞尾酒場景</title>
+      <title>不僅僅是梅斯卡爾酒：深入了解瓦哈卡的高端雞尾酒場景</title>
       <link>https://www.wired.com/story/oaxaca-cocktails/</link>
-      <description><![CDATA[墨西哥這座城市的調酒師使用聖粉、玉米黑粉菌、昆蟲以及各種水銀酒等當地食材，不斷測試風味和外觀的界限。]]></description>
+      <description><![CDATA[墨西哥城市的調酒師使用當地成分，例如Hoja Santa，Huitlacoche，Huitlacoche，昆蟲和各種墨西哥烈酒，正在測試風味和表現的邊界。]]></description>
       <guid>https://www.wired.com/story/oaxaca-cocktails/</guid>
       <pubDate>Thu, 06 Feb 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 5 款最佳麵包機 (2025)</title>
+      <title>5 款最佳麵包機，經測試和評論（2025 年）</title>
       <link>https://www.wired.com/gallery/best-bread-makers/</link>
       <description><![CDATA[使用這些便利的機器，可以將商店購買的麵包換成新鮮出爐的自製麵包。]]></description>
       <guid>https://www.wired.com/gallery/best-bread-makers/</guid>
@@ -92,26 +99,26 @@
     <item>
       <title>最佳室內電視天線（2025 年）：Mohu、Clearstream、One for All</title>
       <link>https://www.wired.com/gallery/best-tv-antennas/</link>
-      <description><![CDATA[使用這些方便且價格實惠的室內天線即可連接免費高畫質電視。]]></description>
+      <description><![CDATA[使用這些方便且負擔得起的室內天線插入免費的高清電視。]]></description>
       <guid>https://www.wired.com/gallery/best-tv-antennas/</guid>
       <pubDate>Thu, 06 Feb 2025 12:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>8 款最佳氣炸鍋，可製作出酥脆雞翅和薯條（2025 年）</title>
+      <title>8種脆皮翅膀和薯條的最佳空中油炸鍋（2025）</title>
       <link>https://www.wired.com/gallery/best-air-fryer/</link>
       <description><![CDATA[我們測試了數十款氣炸鍋，找到了最好的籃式炊具、烤箱、組合炸鍋，甚至還有一款出色的便攜式型號。]]></description>
       <guid>https://www.wired.com/gallery/best-air-fryer/</guid>
       <pubDate>Thu, 06 Feb 2025 11:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>關稅不確定性對汽車產業帶來負擔</title>
+      <title>關稅不確定性對汽車行業徵稅</title>
       <link>https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/</link>
-      <description><![CDATA[對於汽車業的一些從業者來說，美國邊境貿易戰的不確定性幾乎比關稅本身更糟。如果關稅得以實施，成本可能會轉嫁給買家。]]></description>
+      <description><![CDATA[對於汽車行業中的某些人來說，圍繞美國 - 邊務貿易戰的不確定性幾乎比關稅本身更糟糕。如果關稅通過，費用可能會降低給買家。]]></description>
       <guid>https://www.wired.com/story/tariff-uncertainty-taxes-the-auto-industry/</guid>
       <pubDate>Thu, 06 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DOGE 青少年擁有“Tesla.Sexy LLC”，並在一家僱用過被定罪的駭客的新創公司工作</title>
+      <title>Doge Teen擁有“ Tesla.Sexy LLC”，並在僱用了定罪的黑客的創業公司工作</title>
       <link>https://www.wired.com/story/edward-coristine-tesla-sexy-path-networks-doge/</link>
       <description><![CDATA[專家對 DOGE 工作人員 Edward Coristine（網路暱稱「Big Balls」）是否能透過存取美國政府敏感系統通常所需的背景調查提出質疑。]]></description>
       <guid>https://www.wired.com/story/edward-coristine-tesla-sexy-path-networks-doge/</guid>
@@ -125,25 +132,18 @@
       <pubDate>Thu, 06 Feb 2025 06:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>佳能促銷代碼和優惠券 10% 折扣</title>
+      <title>佳能促銷代碼和優惠券10％</title>
       <link>https://www.wired.com/story/canon-promo-code/</link>
       <description><![CDATA[使用今天的佳能新品和翻新技術優惠券，購買相機最多可節省 500 美元，購買鏡頭最多可節省 300 美元，等等。]]></description>
       <guid>https://www.wired.com/story/canon-promo-code/</guid>
       <pubDate>Thu, 06 Feb 2025 06:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Squarespace 促銷代碼：10% 折扣 | 2025 年 2 月</title>
+      <title>Squarespace促銷代碼：10％折扣| 2025年2月</title>
       <link>https://www.wired.com/story/squarespace-promo-code/</link>
       <description><![CDATA[使用 Squarespace 折扣碼可享您下一個網站的 10% 折扣，今天的方案可享高達 30% 的折扣。]]></description>
       <guid>https://www.wired.com/story/squarespace-promo-code/</guid>
       <pubDate>Thu, 06 Feb 2025 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國國家海洋暨大氣總署員工被要求暫停與「外國人」合作</title>
-      <link>https://www.wired.com/story/noaa-employees-foreign-nationals/</link>
-      <description><![CDATA[《連線》雜誌獲得的一封內部電子郵件顯示，美國國家海洋暨大氣總署的工作人員接到命令暫停「所有國際活動」。]]></description>
-      <guid>https://www.wired.com/story/noaa-employees-foreign-nationals/</guid>
-      <pubDate>Thu, 06 Feb 2025 00:29:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
