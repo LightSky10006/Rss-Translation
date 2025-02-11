@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 11 Feb 2025 14:39:00 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 11 Feb 2025 15:14:29 GMT</lastBuildDate>
+    <item>
+      <title>Beats Powerbeats Pro 2 評測：超越最佳產品</title>
+      <link>https://www.wired.com/review/beats-powerbeats-pro-2/</link>
+      <description><![CDATA[Beats 最具代表性的健身耳塞再次回歸，而且比以往更好。]]></description>
+      <guid>https://www.wired.com/review/beats-powerbeats-pro-2/</guid>
+      <pubDate>Tue, 11 Feb 2025 15:03:00 GMT</pubDate>
+    </item>
     <item>
       <title>矽谷的男子氣概轉變是一個警告，而不是一種趨勢</title>
       <link>https://www.wired.com/story/power-dressing-silicon-valleys-macho-makeover-is-a-warning-not-a-trend/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>2025 年最佳 5 款旅行枕，經過測試和評測</title>
       <link>https://www.wired.com/gallery/best-travel-pillows/</link>
-      <description><![CDATA[旅行時小睡一會兒可能很困難，但這些枕頭可以有所幫助。]]></description>
+      <description><![CDATA[旅行時打個盹可能很困難，但這些枕頭可以提供幫助。]]></description>
       <guid>https://www.wired.com/gallery/best-travel-pillows/</guid>
       <pubDate>Tue, 11 Feb 2025 12:39:00 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 11 Feb 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>NIH 資金削減似乎借鑒了傳統基金會砲轟「DEI 員工」的報告</title>
+      <title>NIH 資金削減似乎源自於傳統基金會對「DEI 員工」的猛烈批評</title>
       <link>https://www.wired.com/story/nih-indirect-funding-cuts-heritage-foundation/</link>
       <description><![CDATA[美國國立衛生研究院在大幅削減大學資助的通知中，似乎引用了一份譴責「政治左派」的保守派智庫的報告。]]></description>
       <guid>https://www.wired.com/story/nih-indirect-funding-cuts-heritage-foundation/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>8 款最佳觸控手套（2025 年），經過測試和評測</title>
       <link>https://www.wired.com/gallery/best-touchscreen-gloves/</link>
-      <description><![CDATA[我們冒著嚴寒來解決一個現代難題：你能同時保持雙手溫暖並使用智慧型手機嗎？]]></description>
+      <description><![CDATA[我們冒著寒冷回答了一個現代困境：你能在保持雙手溫暖的同時使用智慧型手機嗎？]]></description>
       <guid>https://www.wired.com/gallery/best-touchscreen-gloves/</guid>
       <pubDate>Mon, 10 Feb 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最佳羽絨外套（2025年）：Patagonia、Arc'teryx、REI</title>
       <link>https://www.wired.com/gallery/the-best-puffer-jackets/</link>
-      <description><![CDATA[我們最喜歡的羽絨外套能讓您在偏遠地區和城鎮周圍保持溫暖。]]></description>
+      <description><![CDATA[我們最喜歡的羽絨夾克會讓您在偏遠地區和城鎮周圍保持溫暖。]]></description>
       <guid>https://www.wired.com/gallery/the-best-puffer-jackets/</guid>
       <pubDate>Mon, 10 Feb 2025 13:02:00 GMT</pubDate>
     </item>
@@ -111,14 +118,14 @@
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>你最喜歡的新性玩具可能是藥局的“雞蛋”</title>
+      <title>你最喜歡的性玩具可能是藥局裡的“雞蛋”</title>
       <link>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</link>
-      <description><![CDATA[Tenga 是一家源自日本的性玩具公司，已經擁有一群異常忠誠的追隨者。其最受歡迎的產品之一既具有未來感，又明顯技術含量低：一次性「雞蛋」。]]></description>
+      <description><![CDATA[Tenga 是一家起源於日本的性玩具公司，擁有異常忠誠的追隨者。它最受歡迎的產品之一既具有未來感，又絕對是低技術含量的：一次性「雞蛋」。]]></description>
       <guid>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一名加密貨幣犯罪者落入奈及利亞監獄的不為人知的故事</title>
+      <title>一名加密貨幣犯罪者闖入奈及利亞監獄的不為人知的故事</title>
       <link>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</link>
       <description><![CDATA[身為美國聯邦特工，Tigran Gambaryan 開創了現代密碼調查。然後在幣安，他陷入了全球最大的加密貨幣交易所和決心讓其付出代價的政府之間。]]></description>
       <guid>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[從 Iris Dating 到 Grindr 即將推出的“僚機”，一系列工具都聲稱可以增加您找到人工智慧伴侶的幾率。到目前為止，結果好壞參半。]]></description>
       <guid>https://www.wired.com/story/ai-save-kill-dating-apps/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>無人駕駛船的崛起</title>
-      <link>https://www.wired.com/story/the-rise-of-the-drone-boats/</link>
-      <description><![CDATA[大量配備武器的無人水面艦艇已被證明是黑海和紅海中極為強大的武器。美軍能否從中汲取正確的教訓？]]></description>
-      <guid>https://www.wired.com/story/the-rise-of-the-drone-boats/</guid>
-      <pubDate>Mon, 10 Feb 2025 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
