@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 20:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:12:13 GMT</lastBuildDate>
+    <item>
+      <title>Triplestrength 給受害者帶來三重麻煩：勒索軟體、雲端劫持、加密挖掘</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</link>
+      <description><![CDATA[這些騙子毫不留情 一個名為 Triplestrength 的不知名團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法挖掘加密貨幣。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
+    </item>
     <item>
       <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[英國外交大臣稱普丁正在管理一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
@@ -22,19 +29,19 @@
     <item>
       <title>男子將 7,500 枚比特幣硬碟扔進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</link>
-      <description><![CDATA[十多年來，廢棄物專家表示找到這些硬幣的可能性幾乎為零 威爾斯紐波特居民 James Howells 拒絕挖掘垃圾掩埋場尋找遺失的比特幣，他有了一個新計畫：從市議會直接購買即將封頂的垃圾場。]]></description>
+      <description><![CDATA[十多年過去了，廢棄物專家表示找到這些硬幣的幾率幾乎為零 威爾斯紐波特居民詹姆斯·豪威爾斯 (James Howells) 因未能獲得挖掘垃圾掩埋場尋找丟失的比特幣的許可而製定了新計劃：直接從市議會購買即將被封頂的垃圾填埋場。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</guid>
       <pubDate>Tue, 11 Feb 2025 17:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>SIM 卡交換 SEC X 帳戶的男子認罪</title>
+      <title>竊取美國證券交易委員會 X 帳戶 SIM 卡的男子認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</link>
-      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 正在追捕你？」 一名阿拉巴馬州男子在被指控去年 1 月交換 SIM 卡交換美國證券交易委員會 (SEC) X 帳戶後認罪。]]></description>
+      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
       <pubDate>Tue, 11 Feb 2025 16:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>Oracle 在歐盟主權雲端上提供 Fusion 應用程式</title>
+      <title>Oracle 在歐盟主權雲端上提供 Fusion 應用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</link>
       <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保障，使其能夠遵守該地區的資料法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>歐洲雲端運算團隊稱與微軟的“我們不會起訴”協議“偏離軌道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</link>
-      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 項目，以糾正錯誤 - 無需許可證 微軟無法履行技術承諾，而這些承諾構成了和解協議的基礎，該和解協議旨在解決與歐洲眾多雲端供應商之間的軟體授權法律糾紛。]]></description>
+      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 專案以糾正問題 – 無需許可證 微軟未能按計劃履行技術承諾，而這些承諾構成了與歐洲一群雲端供應商達成的解決軟體許可法律糾紛的和解協議的基礎。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
       <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>安息吧雷蒙德伯德：英國第一台量產商用電腦設計師過世，享年 101 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</link>
-      <description><![CDATA[HEC 系列及更多內容背後的工程師 Obit 雷蒙德·伯德 (Raymond Bird) 開發了英國第一台大規模生產的商用計算機 Hollerith 電子計算機 (HEC)，現已去世，享年 101 歲。]]></description>
+      <description><![CDATA[HEC 系列背後的工程師 訃告  英國第一台量產商用電腦 Hollerith 電子電腦 (HEC) 的開發者 Raymond Bird 過世，享年 101 歲，這個數位時代再適合不過了… &lt;!--#include&gt;wplinkf////////(Et.S.]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</guid>
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
     </item>
     <item>
       <title>僅有 4% 的工作嚴重依賴人工智慧，其中中等薪資的使用率最高</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</link>
-      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力勞動的人無需擔心 根據 Anthropic 對其 Claude 模型使用情況的研究，只有 4% 的職業的工人使用人工智慧完成四分之三的任務。]]></description>
+      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力工作的人無需擔心 根據 Anthropic 探索其克勞德模型如何使用的研究，只有 4% 的職業工人使用人工智慧來完成四分之三的任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
@@ -111,16 +118,16 @@
       <pubDate>Tue, 11 Feb 2025 05:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>1 月地震使台積電收入預測減少 1.65 億美元</title>
+      <title>1 月地震導致台積電營收預期下降 1.65 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</link>
-      <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造冠軍台積電透露，一月份的地震將使其損失數百萬美元。]]></description>
+      <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造巨頭台積電透露，一月份的地震將給其造成數百萬美元的損失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</guid>
       <pubDate>Tue, 11 Feb 2025 03:58:08 GMT</pubDate>
     </item>
     <item>
       <title>蘋果警告稱，iThings 可能遭遇“極其複雜的攻擊”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</link>
-      <description><![CDATA[庫比蒂諾在談論安全問題時大多使用平淡的語言，因此這聽起來很令人討厭 蘋果公司警告稱，某些 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並已發布補丁希望能夠阻止這種情況發生。]]></description>
+      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了希望能阻止此類攻擊的補丁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</guid>
       <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在泰國查獲暗網，四人被戴上手銬 跨越美國、歐洲和亞洲的國際警方行動關閉了 8Base 勒索軟體團隊的暗網存在，並逮捕了四名歐洲嫌疑人，他們被控從全球 1,000 多名受害者那裡竊取了 1,600 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</guid>
       <pubDate>Mon, 10 Feb 2025 22:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾又失去一位資料中心高階主管，人工智慧負責人被任命為諾基亞首席執行官</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</link>
-      <description><![CDATA[賈斯汀·霍塔德 (Justin Hotard) 被任命接替芬蘭電信公司的佩卡·倫德馬克 (Pekka Lundmark) 在數據中心和人工智能 (DCAI) 首席執行官週一宣布他將離職並擔任諾基亞下一任首席執行官後，英特爾需要的不僅僅是一位新首席執行官 ...。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</guid>
-      <pubDate>Mon, 10 Feb 2025 20:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

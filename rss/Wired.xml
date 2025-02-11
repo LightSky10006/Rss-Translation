@@ -3,10 +3,17 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 11 Feb 2025 20:36:29 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Tue, 11 Feb 2025 21:12:20 GMT</lastBuildDate>
     <item>
-      <title>伊隆馬斯克的 xAI 正在探索讓人工智慧更像唐納德川普的方法</title>
+      <title>湯森路透贏得美國首起重大人工智慧版權訴訟</title>
+      <link>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</link>
+      <description><![CDATA[湯森路透的決定對於生成式人工智慧公司和版權持有者之間的爭鬥有重大影響。]]></description>
+      <guid>https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆馬斯克 xAI 的顧問有辦法讓人工智慧更像唐納川普</title>
       <link>https://www.wired.com/story/xai-make-ai-more-like-trump/</link>
       <description><![CDATA[伊隆馬斯克的 xAI 新創公司的一名研究人員正在研究一種改變 Grok 政治觀點的方法，並使聊天機器人更好地與保守派保持一致。]]></description>
       <guid>https://www.wired.com/story/xai-make-ai-more-like-trump/</guid>
@@ -20,14 +27,14 @@
       <pubDate>Tue, 11 Feb 2025 20:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman 在致員工的信中駁回了 Elon Musk 收購 OpenAI 的提議</title>
+      <title>薩姆·奧爾特曼 (Sam Altman) 在致員工的信中駁回了埃隆·馬斯克 (Elon Musk) 收購 OpenAI 的出價</title>
       <link>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</link>
       <description><![CDATA[消息人士稱，OpenAI 執行長聲稱該公司尚未收到伊隆馬斯克團隊的正式報價。]]></description>
       <guid>https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/</guid>
       <pubDate>Tue, 11 Feb 2025 19:56:38 GMT</pubDate>
     </item>
     <item>
-      <title>Beats Powerbeats Pro 2 評測：超越最佳產品</title>
+      <title>Beats Powerbeats Pro 2 評測：擊敗最好的</title>
       <link>https://www.wired.com/review/beats-powerbeats-pro-2/</link>
       <description><![CDATA[Beats 最具代表性的健身耳塞再次回歸，而且比以往更好。]]></description>
       <guid>https://www.wired.com/review/beats-powerbeats-pro-2/</guid>
@@ -43,12 +50,12 @@
     <item>
       <title>2025 年 11 款最佳 Android 手機，經過測試和評測</title>
       <link>https://www.wired.com/gallery/best-android-phones/</link>
-      <description><![CDATA[購買手機可能很麻煩。這就是為什麼我們測試了幾乎所有的 Android 手機，從最聰明的到最便宜的，甚至是可折疊的手機，以找到物有所值的手機。]]></description>
+      <description><![CDATA[購買手機可能是一種折磨。這就是為什麼我們測試了幾乎所有 Android 手機，從最聰明的手機到最便宜的手機（甚至是折疊手機），以找到物有所值的手機。]]></description>
       <guid>https://www.wired.com/gallery/best-android-phones/</guid>
       <pubDate>Tue, 11 Feb 2025 13:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 5 款最佳旅行枕頭 (2025)</title>
+      <title>2025 年最佳 5 款旅行枕，經過測試和評測</title>
       <link>https://www.wired.com/gallery/best-travel-pillows/</link>
       <description><![CDATA[旅行時小睡一會兒可能很困難，但這些枕頭可以有所幫助。]]></description>
       <guid>https://www.wired.com/gallery/best-travel-pillows/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 11 Feb 2025 12:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>我試用了 Grindr 的 AI Wingman。以下是你未來約會的預測</title>
+      <title>我試了一下 Grindr 的 AI Wingman。這是您約會未來的一瞥</title>
       <link>https://www.wired.com/story/hands-on-with-grindr-ai-wingman/</link>
       <description><![CDATA[Grindr 執行長 George Arison 全力投入人工智慧領域。我測試了這款酷兒應用程式的 AI 僚機的測試版，讓它指導我的互動並提供建議。]]></description>
       <guid>https://www.wired.com/story/hands-on-with-grindr-ai-wingman/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>我同時與多位人工智慧伴侶約會。事情變得非常奇怪</title>
       <link>https://www.wired.com/story/dating-ai-chatbot-partners-chatgpt-replika-flipped-chat-crushon/</link>
-      <description><![CDATA[人們真的愛上人工智慧了嗎？我與來自四家不同公司的機器人約會了一周——發現這比我想像的要容易。]]></description>
+      <description><![CDATA[人們真的愛上人工智慧了嗎？我與來自四家不同公司的機器人約會了一周，發現這比我想像的要容易。]]></description>
       <guid>https://www.wired.com/story/dating-ai-chatbot-partners-chatgpt-replika-flipped-chat-crushon/</guid>
       <pubDate>Tue, 11 Feb 2025 11:00:00 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Mon, 10 Feb 2025 20:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>美國削減資金幫助虐待兒童和人口販運犯罪分子逃脫懲罰</title>
+      <title>美國資金削減幫助犯罪者逃脫虐待兒童和人口販賣的罪責</title>
       <link>https://www.wired.com/story/doge-usaid-state-department-child-exploitation/</link>
       <description><![CDATA[消息人士向《連線》雜誌透露，美國國際開發署和國務院削減了對世界各地網路兒童剝削和販賣受害者的支持服務，導致兒童遭受苦難。]]></description>
       <guid>https://www.wired.com/story/doge-usaid-state-department-child-exploitation/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 10 Feb 2025 12:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 16 個最佳盥洗包（2025 年）</title>
+      <title>16 款最佳盥洗包，經測試和評論（2025 年）</title>
       <link>https://www.wired.com/gallery/best-toiletry-bags/</link>
-      <description><![CDATA[我們的團隊評估了大量的洗漱包，以找到適合您所有必需品的最佳儲存、整理和設計選項。]]></description>
+      <description><![CDATA[我們的團隊評估了大量化妝包，以找到適合您所有必需品的最佳存放、整理和設計方案。]]></description>
       <guid>https://www.wired.com/gallery/best-toiletry-bags/</guid>
       <pubDate>Mon, 10 Feb 2025 12:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>愛與性愛版</title>
-      <link>https://www.wired.com/love-bytes/</link>
-      <description><![CDATA[現代愛情是一個充滿騙局、人工智慧男友和 Tinder 倦怠的網路。但一個更聰明、更人性化、更充滿快樂的未來是可能的。]]></description>
-      <guid>https://www.wired.com/love-bytes/</guid>
-      <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
