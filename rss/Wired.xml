@@ -3,8 +3,15 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 11 Feb 2025 12:24:16 GMT</lastBuildDate>
+    <description>來自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 11 Feb 2025 12:57:37 GMT</lastBuildDate>
+    <item>
+      <title>經過測試和審查的 5 款最佳旅行枕頭 (2025)</title>
+      <link>https://www.wired.com/gallery/best-travel-pillows/</link>
+      <description><![CDATA[旅行時小睡一會兒可能很困難，但這些枕頭可以有所幫助。]]></description>
+      <guid>https://www.wired.com/gallery/best-travel-pillows/</guid>
+      <pubDate>Tue, 11 Feb 2025 12:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>我試用了 Grindr 的 AI Wingman。以下是你未來約會的預測</title>
       <link>https://www.wired.com/story/hands-on-with-grindr-ai-wingman/</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 11 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我同時約會了多個人工智慧伴侶。真的很奇怪</title>
+      <title>我同時與多位人工智慧伴侶約會。事情變得非常奇怪</title>
       <link>https://www.wired.com/story/dating-ai-chatbot-partners-chatgpt-replika-flipped-chat-crushon/</link>
       <description><![CDATA[人們真的愛上人工智慧了嗎？我與來自四家不同公司的機器人約會了一周——發現這比我想像的要容易。]]></description>
       <guid>https://www.wired.com/story/dating-ai-chatbot-partners-chatgpt-replika-flipped-chat-crushon/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>火星進入春季—這意味著劇烈爆發的間歇泉和雪崩</title>
       <link>https://www.wired.com/story/mars-violent-spring-nasa/</link>
-      <description><![CDATA[美國太空總署的火星探測器拍攝了這顆紅色星球上「極其活躍」的春天的照片。]]></description>
+      <description><![CDATA[美國太空總署的火星探測器拍攝了這顆紅色星球「極其活躍」的春天的照片。]]></description>
       <guid>https://www.wired.com/story/mars-violent-spring-nasa/</guid>
       <pubDate>Tue, 11 Feb 2025 09:00:00 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 10 Feb 2025 17:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 8 款最佳觸控手套（2025 年）</title>
+      <title>8 款最佳觸控手套（2025 年），經過測試和評測</title>
       <link>https://www.wired.com/gallery/best-touchscreen-gloves/</link>
       <description><![CDATA[我們冒著嚴寒來解決一個現代難題：你能同時保持雙手溫暖並使用智慧型手機嗎？]]></description>
       <guid>https://www.wired.com/gallery/best-touchscreen-gloves/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>在人際關係中，我是混蛋嗎？</title>
       <link>https://www.wired.com/story/reddit-am-i-the-asshole-relationship-advice/</link>
-      <description><![CDATA[十多年來，Reddit 的“我是混蛋嗎？” sub 已經成為了一個警示故事和（非常）真實的戀愛建議的寶庫。 《連線》雜誌與兩位原帖者談論了他們發布後發生的事情。]]></description>
+      <description><![CDATA[十多年來，Reddit 上一直有“我是混蛋嗎？” Sub 提供了大量的警示故事和（非常）真實的關係建議。 《連線》採訪了兩位OP，講述了他們發文後發生的事情。]]></description>
       <guid>https://www.wired.com/story/reddit-am-i-the-asshole-relationship-advice/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 10 Feb 2025 02:03:18 GMT</pubDate>
     </item>
     <item>
-      <title>最佳掃地機器人（2025 年），經過測試和評測</title>
+      <title>經過測試和審查的最佳掃地機器人 (2025)</title>
       <link>https://www.wired.com/gallery/best-robot-vacuums/</link>
       <description><![CDATA[無論您是要清除寵物毛髮，還是想購買高端的雷射導引機器人吸塵器，我們都能為您提供完美的選擇。]]></description>
       <guid>https://www.wired.com/gallery/best-robot-vacuums/</guid>
       <pubDate>Sun, 09 Feb 2025 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KEF Q 系列 Concerto Meta 評測：悅耳動聽的聲音</title>
-      <link>https://www.wired.com/review/kef-q-concerto-meta/</link>
-      <description><![CDATA[KEF 的 Concerto 揚聲器音質溫暖柔滑，低音充足。]]></description>
-      <guid>https://www.wired.com/review/kef-q-concerto-meta/</guid>
-      <pubDate>Sun, 09 Feb 2025 14:03:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
