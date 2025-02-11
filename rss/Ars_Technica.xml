@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>ARS Technica-所有內容</title>
+    <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
-    <description>所有ARS技術故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 00:57:58 GMT</lastBuildDate>
+    <description>所有 Ars Technica 故事</description>
+    <lastBuildDate>Tue, 11 Feb 2025 13:22:39 GMT</lastBuildDate>
     <item>
-      <title>22個州起訴阻止新的NIH資金政策 - 庫爾特擱置了</title>
+      <title>Ranger XP Kinetic 是終極電動 UTV，但價格昂貴</title>
+      <link>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</link>
+      <description><![CDATA[這款大型多功能車在許多方面都有著很高的要求。]]></description>
+      <guid>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</guid>
+      <pubDate>Tue, 11 Feb 2025 12:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>22 個州起訴阻止 NIH 新資助政策—法院暫緩執行</title>
       <link>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</link>
-      <description><![CDATA[第一個特朗普政府嘗試了這一點，國會通過了一項規則來阻止它。]]></description>
+      <description><![CDATA[第一任川普政府曾嘗試這樣做，但國會通過了一項規則予以阻止。]]></description>
       <guid>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</guid>
       <pubDate>Mon, 10 Feb 2025 21:20:26 GMT</pubDate>
     </item>
     <item>
-      <title>Openai對Nvidia依賴的秘密武器正在形成</title>
+      <title>OpenAI 對抗 Nvidia 依賴的秘密武器初具規模</title>
       <link>https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/</link>
-      <description><![CDATA[聊天機器人製造商與TSMC合作製造自定義AI芯片，併計劃未來迭代。]]></description>
+      <description><![CDATA[聊天機器人製造商與台積電合作生產客製化 AI 晶片，並計劃進行未來迭代。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/</guid>
       <pubDate>Mon, 10 Feb 2025 21:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普殺死了關於大自然的報告後，研究人員推動了釋放</title>
+      <title>在川普否決自然報告後，研究人員繼續推進發布</title>
       <link>https://arstechnica.com/tech-policy/2025/02/after-trump-killed-a-report-on-nature-researchers-push-ahead-with-release/</link>
-      <description><![CDATA[主要報告旨在回答公眾關於自然界的最大問題。]]></description>
+      <description><![CDATA[這份重要報告旨在解答大眾對大自然的最大疑問。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/after-trump-killed-a-report-on-nature-researchers-push-ahead-with-release/</guid>
       <pubDate>Mon, 10 Feb 2025 19:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>您需要了解的有關T-Mobile Starlink移動服務</title>
+      <title>您需要了解的有關 T-Mobile Starlink 行動服務的信息</title>
       <link>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</link>
-      <description><![CDATA[關於Beta註冊，價格，兼容電話和技術限制的詳細信息。]]></description>
+      <description><![CDATA[關於測試版註冊、價格、相容手機以及技術限制的詳細資訊。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</guid>
       <pubDate>Mon, 10 Feb 2025 19:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>少數用戶聲稱新的NVIDIA GPU再次熔化電源電纜</title>
+      <title>少數用戶聲稱新的 Nvidia GPU 再次熔化電源線</title>
       <link>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</link>
-      <description><![CDATA[在這一點上，目前尚不清楚這些問題是一次性還是系統性。]]></description>
+      <description><![CDATA[目前，尚不清楚這些問題是一次性問題還是系統性問題。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</guid>
       <pubDate>Mon, 10 Feb 2025 18:45:39 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉轉向德克薩斯州測試其自主“網絡庫”</title>
+      <title>特斯拉選擇德克薩斯州測試其自動駕駛“Cyber​​cab”</title>
       <link>https://arstechnica.com/cars/2025/02/tesla-turns-to-texas-to-test-its-autonomous-cybercab/</link>
-      <description><![CDATA[該州比加利福尼亞的無人駕駛汽車更寬鬆。]]></description>
+      <description><![CDATA[該州對無人駕駛汽車的許可程度比加州高得多。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/tesla-turns-to-texas-to-test-its-autonomous-cybercab/</guid>
       <pubDate>Mon, 10 Feb 2025 18:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>Dragonsweeper是我2025年最喜歡的遊戲（到目前為止）</title>
+      <title>《Dragonsweeper》是我 2025 年最喜歡的遊戲（目前為止）</title>
       <link>https://arstechnica.com/gaming/2025/02/dragonsweeper-is-my-favorite-game-of-2025-so-far/</link>
-      <description><![CDATA[Quick Hit  Minesweeper   - 風格的RPG具有邏輯和運氣的正確組合。]]></description>
+      <description><![CDATA[這款快速打擊的掃雷式 RPG 將邏輯與運氣完美地融為一體。]]></description>
       <guid>https://arstechnica.com/gaming/2025/02/dragonsweeper-is-my-favorite-game-of-2025-so-far/</guid>
       <pubDate>Mon, 10 Feb 2025 17:59:13 GMT</pubDate>
     </item>
     <item>
-      <title>寶馬引用了美國電動汽車的“過山車”，投資於內部燃燒</title>
+      <title>BMW因美國電動車「雲霄飛車」效應而投資內燃機</title>
       <link>https://arstechnica.com/cars/2025/02/citing-ev-rollercoaster-in-us-bmw-invests-in-internal-combustion/</link>
-      <description><![CDATA[寶馬銷售中有17％是電動汽車；另有7％是混合動力。]]></description>
+      <description><![CDATA[BMW銷量中 17% 是電動車；另外7%是混合動力車。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/citing-ev-rollercoaster-in-us-bmw-invests-in-internal-combustion/</guid>
       <pubDate>Mon, 10 Feb 2025 15:31:44 GMT</pubDate>
     </item>
     <item>
-      <title>CenturyLink Nightmares：用戶不斷向ARS尋求多個月中斷的幫助</title>
+      <title>CenturyLink 惡夢：使用者不斷向 Ars 尋求協助解決數月的中斷問題</title>
       <link>https://arstechnica.com/tech-policy/2025/02/centurylink-nightmares-users-keep-asking-ars-for-help-with-multi-month-outages/</link>
-      <description><![CDATA[CenturyLink的另外三個故事未能修復停電，直到聽到ARS的消息。]]></description>
+      <description><![CDATA[還有三個關於 CenturyLink 在收到 Ars 的回覆之前未能修復中斷的故事。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/centurylink-nightmares-users-keep-asking-ars-for-help-with-multi-month-outages/</guid>
       <pubDate>Mon, 10 Feb 2025 11:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Punch-Out的Mike Tyson首次在不到兩分鐘的時間內被擊敗</title>
-      <link>https://arstechnica.com/gaming/2025/02/punch-outs-mike-tyson-has-been-defeated-in-under-two-minutes-for-the-first-time/</link>
-      <description><![CDATA[經過5年的75k嘗試，召喚鹽掛在虛擬手套上。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/punch-outs-mike-tyson-has-been-defeated-in-under-two-minutes-for-the-first-time/</guid>
-      <pubDate>Sun, 09 Feb 2025 20:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

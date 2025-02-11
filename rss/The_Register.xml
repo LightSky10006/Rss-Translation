@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 12:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 13:23:14 GMT</lastBuildDate>
+    <item>
+      <title>谷歌證實墨西哥灣改名是為了安撫川普——但僅限於美國</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</link>
+      <description><![CDATA[所以現在每個人都很高興 Google已更改谷歌地圖上墨西哥灣的名稱，以符合唐納德·特朗普的一時興起 - 但僅適用於美國用戶。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</guid>
+      <pubDate>Tue, 11 Feb 2025 13:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟開源 PostgreSQL 擴充功能以進軍 NoSQL</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_postgresql_extensions/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 11 Feb 2025 12:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>DeepMind致力於大型人工智慧模型的分散式訓練</title>
+      <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
       <description><![CDATA[如果能夠使替代流程切實可行，它可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>歐洲雲端運算團隊稱與微軟的“我們不會起訴”協議“偏離軌道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</link>
-      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 項目，以糾正錯誤 - 無需許可證 微軟無法履行技術承諾，而這些承諾構成了和解協議的基礎，該和解協議旨在解決與歐洲眾多雲端供應商之間的軟體授權法律糾紛。]]></description>
+      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 專案以糾正問題 – 無需許可證 微軟未能按計劃履行技術承諾，而這些承諾構成了與歐洲一群雲端供應商達成的解決軟體許可法律糾紛的和解協議的基礎。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
       <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>只有 4% 的工作嚴重依賴人工智慧，其中中等薪資的使用高峰</title>
+      <title>只有 4% 的工作嚴重依賴人工智慧，其中中等薪資職位的使用高峰</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</link>
-      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力勞動的人無需擔心 根據 Anthropic 對其 Claude 模型使用情況的研究，只有 4% 的職業的工人使用人工智慧完成四分之三的任務。]]></description>
+      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力工作的人無需擔心 根據 Anthropic 探索其克勞德模型如何使用的研究，只有 4% 的職業工人使用人工智慧來完成四分之三的任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>蘋果警告稱，iThings 可能遭遇“極其複雜的攻擊”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</link>
-      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了補丁，希望能阻止此類攻擊。]]></description>
+      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了希望能阻止此類攻擊的補丁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</guid>
       <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>重新分類使美國科技職位流失看起來比實際情況更糟</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/january_it_hiring/</link>
-      <description><![CDATA[1 月 IT 招募人數小幅增加，但失業率攀升至 5.7％ 顧問公司 Janco 表示，美國勞工統計局的最新就業數據顯示，IT 招募人數看起來像是自由落體，但事實並非如此。 …]]></description>
+      <description><![CDATA[1 月 IT 招募增加，但失業率攀升至 5.7% 顧問公司 Janco 表示，美國勞工統計局的最新就業數據使 IT 招聘看起來呈直線下降趨勢，但事實並非如此。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/january_it_hiring/</guid>
       <pubDate>Mon, 10 Feb 2025 18:30:14 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>T-Mobile 在美國推出衛星電話服務測試版</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/tmobile_goes_live_with_beta/</link>
-      <description><![CDATA[在測試期間為自己和競爭對手網絡的用戶提供免費短信 T-Mobile US 已開始使用 Starlink 衛星對其 Direct-to-Cell 服務進行公開測試，目前僅提供短信，稍後將提供數據和語音通話。 7 月之前免費訪問，之後每月費用為 15 美元。]]></description>
+      <description><![CDATA[測試期間，向其自身網路和競爭對手網路的用戶提供免費簡訊 T-Mobile US 已開始使用 Starlink 衛星公開測試其 Direct-to-Cell 服務，目前僅提供簡訊服務，稍後將提供數據和語音通話服務。訪問將免費持續到 7 月，之後每月收費 15 美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/tmobile_goes_live_with_beta/</guid>
       <pubDate>Mon, 10 Feb 2025 16:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>波音警告 SLS 員工可能即將裁員</title>
+      <title>波音公司警告 SLS 員工，可能會裁員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/boeing_warns_sls_staff_that/</link>
-      <description><![CDATA[逾期、超出預算，現在...也許剛剛超出？  波音公司已通知員工，如果 Artemis 計劃被取消或大幅修改，可能會裁員數百人。]]></description>
+      <description><![CDATA[逾期、超出預算，現在...也許剛剛超出？  波音公司已通知員工，如果 Artemis 計劃被取消或大幅修改，數百個工作崗位可能會被裁減。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/boeing_warns_sls_staff_that/</guid>
       <pubDate>Mon, 10 Feb 2025 15:28:10 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 10 Feb 2025 14:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>猴子切斷斯里蘭卡全國電源後，斯里蘭卡陷入瘋狂</title>
+      <title>猴子切斷國家電源後斯里蘭卡陷入瘋狂</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/sri_lanka_monkey_blackout/</link>
-      <description><![CDATA[是猿猴破壞者還是急需現代化的電網？]]></description>
+      <description><![CDATA[猿猴破壞者還是尖叫著現代化的電網？  週日，斯里蘭卡首都科倫坡以南的一座發電站遭到猴子襲擊，導致全國電網癱瘓。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/sri_lanka_monkey_blackout/</guid>
       <pubDate>Mon, 10 Feb 2025 13:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>「網路安全事件」發生一週後，美國新聞社仍在努力印製報紙</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/us_newspapers_lee_enterprises_cyberattack/</link>
-      <description><![CDATA[25 個州的出版物要么出版較小的期刊，要么出版延遲的期刊 美國報紙出版商 Lee Enterprises 已經處理了一周的不起眼的“網絡安全事件”，並表示相關調查可能需要“數週或更長時間”才能完成。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/us_newspapers_lee_enterprises_cyberattack/</guid>
-      <pubDate>Mon, 10 Feb 2025 13:05:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
