@@ -3,8 +3,8 @@
   <channel>
     <title>有線</title>
     <link>https://www.wired.com</link>
-    <description>來自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 11 Feb 2025 10:14:25 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Tue, 11 Feb 2025 10:40:36 GMT</lastBuildDate>
     <item>
       <title>火星進入春季—這意味著劇烈爆發的間歇泉和雪崩</title>
       <link>https://www.wired.com/story/mars-violent-spring-nasa/</link>
@@ -64,8 +64,15 @@
     <item>
       <title>愛與性愛版</title>
       <link>https://www.wired.com/love-bytes/</link>
-      <description><![CDATA[現代愛情是一張充滿了騙局、人工智慧男友和 Tinder 倦怠的網路。但更聰明、更人性化、更充滿快樂的未來是可能的。]]></description>
+      <description><![CDATA[現代愛情是一個充滿騙局、人工智慧男友和 Tinder 倦怠的網路。但一個更聰明、更人性化、更充滿快樂的未來是可能的。]]></description>
       <guid>https://www.wired.com/love-bytes/</guid>
+      <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一名加密貨幣犯罪者落入奈及利亞監獄的不為人知的故事</title>
+      <link>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</link>
+      <description><![CDATA[身為美國聯邦特工，Tigran Gambaryan 開創了現代密碼調查。然後在幣安，他陷入了全球最大的加密貨幣交易所和決心讓其付出代價的政府之間。]]></description>
+      <guid>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -73,13 +80,6 @@
       <link>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</link>
       <description><![CDATA[Tenga 是一家源自日本的性玩具公司，已經擁有一群異常忠誠的追隨者。其最受歡迎的產品之一既具有未來感，又明顯技術含量低：一次性「雞蛋」。]]></description>
       <guid>https://www.wired.com/story/japan-tenga-sex-toys-drug-store-egg/</guid>
-      <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一名加密貨幣犯罪者闖入奈及利亞監獄的不為人知的故事</title>
-      <link>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</link>
-      <description><![CDATA[身為美國聯邦特工，Tigran Gambaryan 開創了現代密碼調查。然後在幣安，他陷入了全球最大的加密貨幣交易所和決心讓其付出代價的政府之間。]]></description>
-      <guid>https://www.wired.com/story/untold-story-crypto-crimefighters-descent-nigerian-prison-binance/</guid>
       <pubDate>Mon, 10 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
@@ -127,7 +127,7 @@
     <item>
       <title>我是美容作家，以下是我最喜歡的 8 款產品（2025 年）</title>
       <link>https://www.wired.com/gallery/best-beauty-products/</link>
-      <description><![CDATA[並非所有化妝品都是一樣的。作為一名美容作家，我會向朋友推薦以下一些出色的作品。]]></description>
+      <description><![CDATA[並非所有化妝品都是一樣的。身為美容作家，以下是我想向朋友推薦的一些傑出作品。]]></description>
       <guid>https://www.wired.com/gallery/best-beauty-products/</guid>
       <pubDate>Sun, 09 Feb 2025 13:38:00 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Sun, 09 Feb 2025 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>經過測試和審查的 10 種最佳治療背痛床墊 (2025)</title>
+      <title>經測試和評論的 10 款最佳背痛床墊（2025 年）</title>
       <link>https://www.wired.com/gallery/best-mattresses-for-back-pain/</link>
       <description><![CDATA[您在睡覺時或早上起床時是否感到背痛？這些床墊可以幫助解決這個問題。]]></description>
       <guid>https://www.wired.com/gallery/best-mattresses-for-back-pain/</guid>
