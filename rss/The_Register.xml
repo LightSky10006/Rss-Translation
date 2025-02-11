@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 22:12:26 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 11 Feb 2025 22:37:32 GMT</lastBuildDate>
+    <item>
+      <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
+      <description><![CDATA[Rustaceans 只能等待不受歡迎的 C 程式設計師慢慢 SIGQUIT... 儘管有相反的建議，但 Rust for Linux 專案仍然存在並且運作良好，即使不是每個 Linux 核心維護者都是盟友。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
+      <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>Triplestrength 給受害者帶來三重麻煩：勒索軟體、雲端劫持、加密挖掘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實的話，後果將是巨大的：英國外交部稱普丁運行著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供商之一已受到美國、英國和澳大利亞 (AUKUS) 及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>男子將 7,500 枚比特幣硬碟扔進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
+      <title>男子將 7,500 枚比特幣硬碟丟進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</link>
       <description><![CDATA[十多年過去了，廢棄物專家表示找到這些硬幣的幾率幾乎為零 威爾斯紐波特居民詹姆斯·豪威爾斯 (James Howells) 因未能獲得挖掘垃圾掩埋場尋找丟失的比特幣的許可而製定了新計劃：直接從市議會購買即將被封頂的垃圾填埋場。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</guid>
@@ -43,21 +50,21 @@
     <item>
       <title>Oracle 在歐盟主權雲端上提供 Fusion 應用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</link>
-      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保障，使其能夠遵守該地區的資料法。]]></description>
+      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保證，使其能夠遵守該地區的資料法…。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</guid>
       <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>我是安全專家，有兩次差點愛上北韓式的深造求職者…</title>
+      <title>我是安全專家，差點兩次被北韓風格的深度偽造求職者所欺騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</link>
-      <description><![CDATA[遠端位置，網路攝影機不工作，然後是故障的 AI 臉......紅色警報！ 在過去的兩個月裡，Dawid Moczadło 兩次採訪了所謂的求職者，結果發現這些「軟體開發人員」是使用基於 AI 的工具的騙子——可能被一家同樣使用人工智慧的安全公司聘用。]]></description>
+      <description><![CDATA[遠端位置、網路攝影機無法運作、然後故障的 AI 臉孔...紅色警報！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</guid>
       <pubDate>Tue, 11 Feb 2025 14:01:12 GMT</pubDate>
     </item>
     <item>
       <title>谷歌證實墨西哥灣改名是為了安撫川普——但僅限於美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</link>
-      <description><![CDATA[所以現在每個人都很高興 更新  谷歌已更改谷歌地圖上墨西哥灣的名稱，以符合唐納德·特朗普的一時興起——但僅限於美國用戶。]]></description>
+      <description><![CDATA[現在大家都很高興 更新了 Google 更改了 Google 地圖上墨西哥灣的名稱，以符合唐納德·特朗普的突發奇想 - 但僅限於美國用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</guid>
       <pubDate>Tue, 11 Feb 2025 13:15:08 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>英國政府使用人工智慧工具檢查道路安全測試中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</link>
-      <description><![CDATA[誰來測試測試人員？]]></description>
+      <description><![CDATA[誰對測試人員進行測試？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</guid>
       <pubDate>Tue, 11 Feb 2025 09:30:06 GMT</pubDate>
     </item>
@@ -113,12 +120,12 @@
     <item>
       <title>美國太空總署的耐輻射電腦在範艾倫輻射帶倖存下來，名副其實</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</link>
-      <description><![CDATA[「RadPC」執行了螢火蟲號的「空中幽靈騎士」任務，該任務已離開地球軌道，前往月球 美國宇航局 (NASA) 透露，其實驗性耐輻射計算機已成功穿過著名的、猛烈輻射的範艾倫輻射帶。]]></description>
+      <description><![CDATA[「RadPC」執行了螢火蟲號的「空中幽靈騎士」任務，該任務已離開地球軌道，前往月球 美國宇航局透露，其實驗性耐輻射計算機已成功穿過著名的、劇烈輻射的範艾倫輻射帶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</guid>
       <pubDate>Tue, 11 Feb 2025 05:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>1 月地震使台積電收入預測減少 1.65 億美元</title>
+      <title>1 月地震導致台積電營收預期下降 1.65 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</link>
       <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造巨頭台積電透露，一月份的地震將給其造成數百萬美元的損失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>蘋果警告稱，iThings 可能遭遇“極其複雜的攻擊”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</link>
-      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了希望能阻止此類攻擊的補丁。]]></description>
+      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了補丁，希望能阻止此類攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</guid>
       <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[該死，這就是我們在 The Reg 的工作。現在，如果你得到一個你不理解的任務，你可能會認為人工智慧有答案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/</guid>
       <pubDate>Tue, 11 Feb 2025 00:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您所有的 8Base 都屬於我們：勒索軟體團隊在全球詐騙中被抓獲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</link>
-      <description><![CDATA[暗網網站被查獲，泰國有四人被捕 一項橫跨美國、歐洲和亞洲的國際警察行動關閉了 8Base 勒索軟體團隊的暗網存在，並逮捕了四名歐洲嫌疑人，他們被指控從全球 1,000 多名受害者手中竊取了 1600 萬美元。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</guid>
-      <pubDate>Mon, 10 Feb 2025 22:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
