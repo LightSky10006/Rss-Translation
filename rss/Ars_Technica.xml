@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 22:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 23:12:50 GMT</lastBuildDate>
+    <item>
+      <title>福特老闆稱關稅將造成“成本和混亂”</title>
+      <link>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</link>
+      <description><![CDATA[一位執行長公開反對川普政府的政策似乎令人耳目一新。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</guid>
+      <pubDate>Tue, 11 Feb 2025 22:33:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的駭客利用即時注入來破壞 Gemini 的長期記憶</title>
+      <link>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</link>
+      <description><![CDATA[還有另一種方法可以向聊天機器人注入惡意提示。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</guid>
+      <pubDate>Tue, 11 Feb 2025 22:13:42 GMT</pubDate>
+    </item>
     <item>
       <title>法官命令川普政府。在午夜前恢復 CDC 和 FDA 網頁</title>
       <link>https://arstechnica.com/health/2025/02/cdc-and-fda-have-until-tonight-to-restore-webpages-court-rules/</link>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 11 Feb 2025 19:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌瀏覽器可能很快就會使用“AI”來替換受損的密碼</title>
+      <title>Google Chrome 可能很快就會使用「人工智慧」來取代外洩的密碼</title>
       <link>https://arstechnica.com/gadgets/2025/02/google-chrome-may-soon-use-ai-to-detect-leaked-passwords-and-replace-them/</link>
       <description><![CDATA[Chrome 不只是警告您，還會引導您設定更好的密碼。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/google-chrome-may-soon-use-ai-to-detect-leaked-passwords-and-replace-them/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[對於那些已關閉 Apple Intelligence 的用戶，更新可能還會重新啟用它。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</guid>
       <pubDate>Tue, 11 Feb 2025 15:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>美英峰會拒絕簽署人工智慧安全宣言</title>
-      <link>https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/</link>
-      <description><![CDATA[拜登政府對美立場「一百八十度大轉變」。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ranger XP Kinetic 是終極電動 UTV，但價格昂貴</title>
-      <link>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</link>
-      <description><![CDATA[這款大型多功能車在許多方面都有著很高的要求。]]></description>
-      <guid>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
