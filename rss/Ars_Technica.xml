@@ -4,16 +4,23 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 16:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 17:11:48 GMT</lastBuildDate>
     <item>
-      <title>ULA 的火神火箭仍未獲得太空軍的批准</title>
+      <title>薩姆·奧特曼：OpenAI 不會出售，即使伊隆·馬斯克開出 970 億美元的報價</title>
+      <link>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</link>
+      <description><![CDATA[奧特曼回應稱，他願意以 97.4 億美元收購 Twitter。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ULA 的 Vulcan 火箭仍未獲得太空部隊的批准</title>
       <link>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</link>
       <description><![CDATA[由於太空部隊的審查仍在進行中，ULA 正在將其下一枚 Vulcan 火箭從發射台上移除。]]></description>
       <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
       <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 18.3.1更新修正了「極其複雜的攻擊」中使用的安全漏洞</title>
+      <title>iOS 18.3.1 更新修復了「極其複雜的攻擊」中利用的安全漏洞</title>
       <link>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</link>
       <description><![CDATA[對於那些已關閉 Apple Intelligence 的用戶，更新可能還會重新啟用它。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>22 個州起訴阻止 NIH 新資助政策—法院暫緩執行</title>
       <link>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</link>
-      <description><![CDATA[第一屆川普政府就嘗試過這樣做，國會通過了一項規則來阻止它。]]></description>
+      <description><![CDATA[第一任川普政府曾嘗試這樣做，但國會通過了一項規則來阻止它。]]></description>
       <guid>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</guid>
       <pubDate>Mon, 10 Feb 2025 21:20:26 GMT</pubDate>
     </item>
@@ -55,25 +62,18 @@
       <pubDate>Mon, 10 Feb 2025 19:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>關於 T-Mobile Starlink 行動服務您需要了解的信息</title>
+      <title>您需要了解的有關 T-Mobile Starlink 行動服務的信息</title>
       <link>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</link>
-      <description><![CDATA[關於測試版註冊、價格、相容手機以及技術限制的詳細資訊。]]></description>
+      <description><![CDATA[有關測試版註冊、價格、相容手機和技術限制的詳細資訊。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</guid>
       <pubDate>Mon, 10 Feb 2025 19:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>少數用戶聲稱新的 Nvidia GPU 再次融化電源線</title>
+      <title>少數用戶聲稱新的 Nvidia GPU 再次熔化電源線</title>
       <link>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</link>
       <description><![CDATA[目前，尚不清楚這些問題是一次性問題還是系統性問題。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</guid>
       <pubDate>Mon, 10 Feb 2025 18:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉選擇德克薩斯州測試其自動駕駛“Cyber​​cab”</title>
-      <link>https://arstechnica.com/cars/2025/02/tesla-turns-to-texas-to-test-its-autonomous-cybercab/</link>
-      <description><![CDATA[該州對無人駕駛汽車的許可程度比加州高得多。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/tesla-turns-to-texas-to-test-its-autonomous-cybercab/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:13:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
