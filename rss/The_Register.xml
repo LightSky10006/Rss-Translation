@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 17:12:15 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Tue, 11 Feb 2025 18:15:52 GMT</lastBuildDate>
+    <item>
+      <title>Exchange Server 2019的最終累積更新終於</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</link>
+      <description><![CDATA[古老伺服器的路即將走到盡頭 管理員歡喜吧！ Exchange Server 2019 的 2025 H1 累積更新（又稱 CU15）終於到來，標誌著伺服器應用程式一個時代的結束。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
+    </item>
     <item>
       <title>男子將 7,500 枚比特幣硬碟丟進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</link>
@@ -13,9 +20,9 @@
       <pubDate>Tue, 11 Feb 2025 17:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>竊取美國證券交易委員會 X 帳戶 SIM 卡的男子認罪</title>
+      <title>SIM 卡交換 SEC X 帳戶的男子認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</link>
-      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
+      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控 SIM 卡交換美國證券交易委員會 (SEC) X 帳戶，目前他已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
       <pubDate>Tue, 11 Feb 2025 16:15:08 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>我是安全專家，差點兩次被北韓風格的深度偽造求職者所欺騙</title>
+      <title>我是安全專家，有兩次差點愛上北韓式的深度造假求職者…</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</link>
       <description><![CDATA[遠端位置，網路攝影機不工作，然後是故障的 AI 臉......紅色警報！ 在過去的兩個月裡，Dawid Moczadło 兩次採訪了所謂的求職者，結果發現這些「軟體開發人員」是使用基於 AI 的工具的騙子——可能被一家同樣使用人工智慧的安全公司聘用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</guid>
@@ -48,14 +55,14 @@
       <pubDate>Tue, 11 Feb 2025 12:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
+      <title>DeepMind致力於大型AI模型的分佈式培訓</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
-      <description><![CDATA[如果能夠使其切實可行，替代流程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
+      <description><![CDATA[如果能夠使替代流程切實可行，它可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
       <pubDate>Tue, 11 Feb 2025 11:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>已經晚了三年，NHS 財務系統更換再次推遲</title>
+      <title>已經遲了三年的 NHS 財務系統更換再次被推遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/</link>
       <description><![CDATA[更換 Oracle E-Business Suite 的專案再次獲得專案監管機構的紅色評級 英國最大的 NHS 管理機構在拖延三年多之後，再次推遲了其老化的 Oracle 財務系統的更換。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
     </item>
     <item>
-      <title>英國政府使用人工智慧工具檢查適合道路行駛的測試中心</title>
+      <title>英國政府使用人工智慧工具檢查道路安全測試中心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</link>
       <description><![CDATA[誰來測試測試人員？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署的耐輻射計算機在範艾倫帶中倖存下來，名副其實</title>
+      <title>美國太空總署的耐輻射電腦在範艾倫輻射帶倖存下來，名副其實</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</link>
       <description><![CDATA[「RadPC」隨 Firefly 的「幽靈騎士」飛行任務一起飛行，該任務已離開地球軌道並前往月球 NASA 透露，其實驗性的耐輻射計算機已完好無損地穿越了以輻射劇烈而聞名的範艾倫帶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>1 月地震導致台積電營收預期下降 1.65 億美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</link>
-      <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造巨頭台積電透露，一月份的地震將給其造成數百萬美元的損失。]]></description>
+      <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造冠軍台積電透露，一月份的地震將使其損失數百萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</guid>
       <pubDate>Tue, 11 Feb 2025 03:58:08 GMT</pubDate>
     </item>
@@ -111,23 +118,23 @@
       <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>微軟研究人員發現，一些員工已經讓人工智慧取代他們思考</title>
+      <title>微軟研究人員發現，一些工人已經讓人工智能為他們做了思考</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/</link>
       <description><![CDATA[該死，這就是我們在 The Reg 的工作。現在，如果你得到一個你不理解的任務，你可能會認為人工智慧有答案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/</guid>
       <pubDate>Tue, 11 Feb 2025 00:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>您所有的 8Base 都屬於我們：勒索軟體團隊在全球詐騙中被抓獲</title>
+      <title>您的所有 8Base 都屬於我們：勒索軟體團夥在全球行動中落網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</link>
       <description><![CDATA[暗網網站被查獲，泰國有四人被捕 一項橫跨美國、歐洲和亞洲的國際警察行動關閉了 8Base 勒索軟體團隊的暗網存在，並逮捕了四名歐洲嫌疑人，他們被指控從全球 1,000 多名受害者手中竊取了 1600 萬美元。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</guid>
       <pubDate>Mon, 10 Feb 2025 22:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾又失去一位資料中心高階主管，人工智慧負責人被任命為諾基亞首席執行官</title>
+      <title>英特爾失去另一位資料中心高階主管，人工智慧主管任命諾基亞為首席執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</link>
-      <description><![CDATA[Justin Hotard 被任命為芬蘭電信公司的 Pekka Lundmark 的繼任者 英特爾需要的不僅僅是一位新 CEO，該公司數據中心和人工智能 (DCAI) 負責人周一宣布，他將離職並出任諾基亞首席執行官。]]></description>
+      <description><![CDATA[Justin Hotard 被任命為芬蘭電信公司的 Pekka Lundmark 的繼任者 英特爾需要的不僅僅是一位新 CEO，該公司數據中心和人工智能 (DCAI) 負責人周一宣布，他將離職並出任諾基亞的下一任首席執行官。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</guid>
       <pubDate>Mon, 10 Feb 2025 20:45:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[1 月 IT 招募人數小幅增加，但失業率攀升至 5.7％ 顧問公司 Janco 表示，美國勞工統計局的最新就業數據顯示，IT 招募人數看起來像是自由落體，但事實並非如此。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/january_it_hiring/</guid>
       <pubDate>Mon, 10 Feb 2025 18:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 裁員 5% 的計畫今日開始</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/meta_to_toss_5_of/</link>
-      <description><![CDATA[扎克警告稱，未來將是「緊張的一年」。必須在人工智慧上投入數十億美元，並努力避免捲入川普的黑名單中 Meta 已向The Register證實，今天標誌著大規模裁員過程的開始，數千名工人將被裁員。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/meta_to_toss_5_of/</guid>
-      <pubDate>Mon, 10 Feb 2025 17:35:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
