@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>登記冊</title>
+    <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 08:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 09:36:29 GMT</lastBuildDate>
     <item>
-      <title>安息吧雷蒙德伯德：英國第一台量產商用電腦設計師過世，享年 101 歲</title>
+      <title>英國政府使用人工智慧工具檢查適合道路行駛的測試中心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</link>
+      <description><![CDATA[誰來測試測試人員？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</guid>
+      <pubDate>Tue, 11 Feb 2025 09:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>RIP Raymond Bird：英國首個批量生產商務計算機死亡的設計師101歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</link>
       <description><![CDATA[HEC 系列背後的工程師 訃告  英國第一台量產商用電腦 Hollerith 電子電腦 (HEC) 的開發者 Raymond Bird 過世，享年 101 歲，這個數位時代再適合不過了… &lt;!--#include&gt;wplinkf////////(Et.S.]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</guid>
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>僅有 4% 的工作嚴重依賴人工智慧，其中中等薪資的使用率最高</title>
+      <title>只有4％的工作在很大程度上依賴於AI，而中間工資角色的最高使用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</link>
       <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力勞動的人無需擔心 根據 Anthropic 對其 Claude 模型使用情況的研究，只有 4% 的職業的工人使用人工智慧完成四分之三的任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>美國太空總署的耐輻射電腦在範艾倫輻射帶倖存下來，名副其實</title>
+      <title>在倖存的範·艾倫腰帶之後</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</link>
       <description><![CDATA[「RadPC」隨 Firefly 的「幽靈騎士」飛行任務一起飛行，該任務已離開地球軌道並前往月球 NASA 透露，其實驗性的耐輻射計算機已完好無損地穿越了以輻射劇烈而聞名的範艾倫帶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</guid>
@@ -34,30 +41,30 @@
       <pubDate>Tue, 11 Feb 2025 03:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>蘋果警告「極其複雜的攻擊」可能針對 iThings</title>
+      <title>蘋果警告“極其複雜的攻擊”可能針對的是</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</link>
-      <description><![CDATA[庫比蒂諾在談論安全問題時大多使用平淡的語言，因此這聽起來很令人討厭 蘋果公司警告稱，某些 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並已發布補丁希望能夠阻止這種情況發生。]]></description>
+      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了補丁，希望能阻止此類攻擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</guid>
       <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>微軟研究人員發現，一些員工已經讓人工智慧取代他們思考</title>
+      <title>微軟研究人員發現，一些工人已經讓人工智能為他們做了思考</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/</link>
-      <description><![CDATA[該死，這就是我們在 The Reg 的工作。現在，如果你得到一個你不理解的任務，你可能會認為人工智慧有答案。]]></description>
+      <description><![CDATA[該死，這就是我們在The Reg的工作。現在，如果你接到一個你不理解的任務，你可能會認為人工智慧有答案 根據微軟研究院和卡內基梅隆大學的研究人員撰寫的一項研究，一些知識工作者面臨著過度依賴生成式人工智慧的風險，他們解決問題的能力可能會因此下降。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/</guid>
       <pubDate>Tue, 11 Feb 2025 00:31:09 GMT</pubDate>
     </item>
     <item>
       <title>您的所有 8Base 都屬於我們：勒索軟體團夥在全球行動中落網</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</link>
-      <description><![CDATA[暗網網站被查獲，泰國有四人被捕 一項橫跨美國、歐洲和亞洲的國際警察行動關閉了 8Base 勒索軟體團隊的暗網存在，並逮捕了四名歐洲嫌疑人，他們被指控從全球 1,000 多名受害者手中竊取了 1600 萬美元。]]></description>
+      <description><![CDATA[抓住的黑暗網站被抓住，在泰國 遍布美國，歐洲和亞洲的國際警察行動已關閉了8base Ransomware Crew的Dark Web的黑網，並導致了四名被指控的歐洲嫌疑犯從全球1,000多名受害者那裡竊取1600萬美元。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/</guid>
       <pubDate>Mon, 10 Feb 2025 22:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>英特爾又失去一位資料中心高階主管，人工智慧負責人被任命為諾基亞首席執行官</title>
+      <title>英特爾以Datacenter，AI負責人諾基亞首席執行官而失去了另一個執行官</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</link>
-      <description><![CDATA[賈斯汀·霍塔德 (Justin Hotard) 被任命接替芬蘭電信公司的佩卡·倫德馬克 (Pekka Lundmark) 在數據中心和人工智能 (DCAI) 首席執行官週一宣布他將離職並擔任諾基亞下一任首席執行官後，英特爾需要的不僅僅是一位新首席執行官 ...。]]></description>
+      <description><![CDATA[賈斯汀·霍達（Justin Hotard）被擊敗以取代芬蘭電信公司（Finnish Telco）的Pekka Lundmark  英特爾（Intel下一位首席執行官。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/</guid>
       <pubDate>Mon, 10 Feb 2025 20:45:10 GMT</pubDate>
     </item>
@@ -71,33 +78,33 @@
     <item>
       <title>Meta 裁員 5% 的計畫今日開始</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/meta_to_toss_5_of/</link>
-      <description><![CDATA[扎克警告稱，未來將是「緊張的一年」。必須在人工智慧上投入數十億美元，並努力避免捲入川普的黑名單中 Meta 已向The Register證實，今天標誌著大規模裁員過程的開始，數千名工人將被裁員。]]></description>
+      <description><![CDATA[“強烈的一年”，警告扎克。必須花費數十億美元在AI上，並努力遠離特朗普的壞書  Meta已向確認登記冊，今天標誌著大規模冗餘過程的開始，成千上萬的工人開始切碎。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/meta_to_toss_5_of/</guid>
       <pubDate>Mon, 10 Feb 2025 17:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>T-Mobile 推出美國衛星電話服務測試版</title>
+      <title>T-Mobile與美國的衛星電話服務Beta一起生活</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/tmobile_goes_live_with_beta/</link>
-      <description><![CDATA[測試期間，向其自身網路和競爭對手網路的用戶提供免費簡訊 T-Mobile US 已開始使用 Starlink 衛星公開測試其 Direct-to-Cell 服務，目前僅提供簡訊服務，稍後將提供數據和語音通話服務。訪問將免費持續到 7 月，之後每月收費 15 美元。]]></description>
+      <description><![CDATA[在測試期間為自己和競爭對手網絡的用戶提供免費短信  t-Mobile US已使用Starlink衛星開始了其直接訪問式服務的公開Beta，僅提供短信現在，隨著數據和語音通話稍後。訪問將是免費的，直到7月 - 之後每月的費用為$ 15。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/tmobile_goes_live_with_beta/</guid>
       <pubDate>Mon, 10 Feb 2025 16:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司警告 SLS 員工，可能會裁員</title>
+      <title>波音公司警告SLS員工，裁員可能會在路上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/boeing_warns_sls_staff_that/</link>
-      <description><![CDATA[逾期、超出預算，現在...也許剛剛超出？  波音公司已通知員工，如果 Artemis 計劃被取消或大幅修改，數百個工作崗位可能會被裁減。]]></description>
+      <description><![CDATA[逾期、超出預算，現在...也許剛剛超出？  波音公司已通知員工，如果 Artemis 計劃被取消或大幅修改，可能會裁員數百人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/boeing_warns_sls_staff_that/</guid>
       <pubDate>Mon, 10 Feb 2025 15:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>我們史上最大的微程式碼攻擊正在進行中</title>
+      <title>我們歷史上最大的微碼攻擊正在進行中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/microcode_attack_trump_musk/</link>
       <description><![CDATA[當你的狀態機有漏洞時，所有的賭注都將失效 觀點  所有針對數位系統的惡意攻擊都有一個共同的目的：奪取控制權。大多數情況下，這意味著讓某個地方的 CPU 變成叛徒，運行悄悄竊取或擾亂您的資料的程式碼。該程式碼可以透過多種方式進入系統，但通常它必須在某個時間存在於記憶體中的某個位置，從而易於受到反擊。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/microcode_attack_trump_musk/</guid>
       <pubDate>Mon, 10 Feb 2025 14:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>猴子切斷國家電源後斯里蘭卡陷入瘋狂</title>
+      <title>斯里蘭卡在猴子拔掉國家之後去香蕉</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/sri_lanka_monkey_blackout/</link>
       <description><![CDATA[是猿猴破壞者還是急需現代化的電網？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/sri_lanka_monkey_blackout/</guid>
@@ -113,14 +120,14 @@
     <item>
       <title>CentOS Connect 會議宣布 Firefox 回歸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/centos_firefox/</link>
-      <description><![CDATA[OKD 專案也有自己的不可變 CentOS 映像，這可能會很有趣 FOSDEM 2025  CentOS Connect，FOSDEM 相鄰的聚會，提供了一些值得關注的更新：Firefox 作為 CentOS 上的原生軟體包返回，不可變的Stream Stream 變體正在探索自己的方式。 irtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
+      <description><![CDATA[OKD 專案也有自己的不可變 CentOS 映像，這可能會很有趣 FOSDEM 2025  CentOS Connect，FOSDEM 相鄰的聚會，提供了一些值得注意的更新：Firefox 作為「pude」下的原生軟體包，不可變的Stream Stream 變體正在探索自己的方式。 irtual=&#39;/data_centre/_whitepaper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/centos_firefox/</guid>
       <pubDate>Mon, 10 Feb 2025 12:47:09 GMT</pubDate>
     </item>
     <item>
       <title>英國收集系統的舊式運作方式很繁重——不只一種</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/legacy_costs_hmrc/</link>
-      <description><![CDATA[NAO 報告顯示，修復和維持系統運作的成本上漲了 390％ 根據政府審計人員的最新報告，修復英國稅務機關遺留系統的成本上漲了 390％。]]></description>
+      <description><![CDATA[NAO 報告顯示，修復並維持系統運作的成本上漲了 390％ 更新  根據政府審計人員的最新報告，修復英國稅務機關遺留系統的成本上漲了 390％。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/legacy_costs_hmrc/</guid>
       <pubDate>Mon, 10 Feb 2025 12:03:18 GMT</pubDate>
     </item>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 10 Feb 2025 10:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>英國武裝部隊快速培養網路戰士以保衛數位前線</title>
+      <title>英國武裝部隊快速追踪網絡戰士來捍衛數字前線</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/uk_armed_forces_cyber_hires/</link>
-      <description><![CDATA[公共部門資訊安全薪酬受到批評後承諾提供高起薪 英國國防部 (MoD) 正在快速培養網路安全專家，以加強對日益增多的攻擊的防護。]]></description>
+      <description><![CDATA[在公共部門Infosec Pay受到批評 英國國防部（MOD）之後的高起薪薪水是快速追踪網絡安全專家，以加強其防止攻擊的保護。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/uk_armed_forces_cyber_hires/</guid>
       <pubDate>Mon, 10 Feb 2025 09:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>這個東西使用 220V 電源嗎？哦。那團煙霧表明</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/10/who_me/</link>
-      <description><![CDATA[這甚至不是故事中最糟糕的部分，故事中還有洪水、違背諾言和大量恐慌 誰，我？ The Register 的讀者投稿專欄，您在其中承認了自己的失敗…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/10/who_me/</guid>
-      <pubDate>Mon, 10 Feb 2025 08:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
