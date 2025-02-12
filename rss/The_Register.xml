@@ -3,12 +3,12 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 05:13:58 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 12 Feb 2025 06:18:19 GMT</lastBuildDate>
     <item>
-      <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
+      <title>Copilot 試用後，政府工作人員認為微軟 AI 的用處不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
-      <description><![CDATA[對微軟來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
+      <description><![CDATA[對雷德蒙來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</guid>
       <pubDate>Wed, 12 Feb 2025 04:59:15 GMT</pubDate>
     </item>
@@ -36,21 +36,21 @@
     <item>
       <title>調查發現美國海岸防衛隊忽視了海上網路安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</link>
-      <description><![CDATA[許多系統漏洞可能會破壞 5.4T 行業 儘管針對美國海上運輸系統的網路威脅不斷升級，但美國海岸防衛隊仍然缺乏保護這一關鍵基礎設施的全面戰略 - 政府問責辦公室 (GAO) 警告稱，它也無法可靠地訪問有關網路安全漏洞和過去攻擊的數據。 ....]]></description>
+      <description><![CDATA[大量系統性漏洞可能會毀掉價值 5.4 兆美元的產業 美國政府問責局 (GAO) 警告稱，儘管針對美國海上運輸系統的網路威脅不斷升級，但美國海岸防衛隊仍然缺乏全面的戰略來保護這一關鍵基礎設施，也無法可靠地獲取有關網路安全漏洞和過去攻擊的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</guid>
       <pubDate>Tue, 11 Feb 2025 23:44:07 GMT</pubDate>
     </item>
     <item>
       <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
-      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
+      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將更多來自 AMD 的 Pensando 資料處理單元 (DPU) 裝入其交換機，這些單元將專門用於處理安全、儲存和其他任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
     <item>
       <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
-      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友…]]></description>
+      <description><![CDATA[Rustaceans 只能等待不受歡迎的 C 程式設計師慢慢 SIGQUIT... 儘管有相反的建議，但 Rust for Linux 專案仍然存在並且運作良好，即使不是每個 Linux 核心維護者都是盟友。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
       <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實，則意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>男子將 7,500 枚比特幣硬碟丟進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
+      <title>男子將 7,500 枚比特幣硬碟扔進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</link>
       <description><![CDATA[十多年過去了，廢棄物專家表示找到這些硬幣的幾率幾乎為零 威爾斯紐波特居民詹姆斯·豪威爾斯 (James Howells) 因未能獲得挖掘垃圾掩埋場尋找丟失的比特幣的許可而製定了新計劃：直接從市議會購買即將被封頂的垃圾填埋場。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>Oracle 在歐盟主權雲端上提供 Fusion 應用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</link>
-      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保證，使其能夠遵守該地區的資料法…。]]></description>
+      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保障，使其能夠遵守該地區的資料法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</guid>
       <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
       <title>我是安全專家，差點兩次被北韓風格的深度偽造求職者所欺騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</link>
-      <description><![CDATA[遠端位置、網路攝影機無法運作、然後故障的 AI 臉孔...紅色警報！]]></description>
+      <description><![CDATA[遠端位置，網路攝影機不工作，然後是故障的 AI 臉......紅色警報！ 在過去的兩個月裡，Dawid Moczadło 兩次採訪了所謂的求職者，結果發現這些「軟體開發人員」是使用基於 AI 的工具的騙子——可能被一家同樣使用人工智慧的安全公司聘用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</guid>
       <pubDate>Tue, 11 Feb 2025 14:01:12 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>歐洲雲端運算團隊稱與微軟的“我們不會起訴”協議“偏離軌道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</link>
-      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 專案以糾正問題 – 無需許可證 微軟未能按計劃履行技術承諾，而這些承諾構成了與歐洲一群雲端供應商達成的解決軟體許可法律糾紛的和解協議的基礎。]]></description>
+      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 項目，以糾正錯誤 - 無需許可證 微軟無法履行技術承諾，而這些承諾構成了和解協議的基礎，該和解協議旨在解決與歐洲眾多雲端供應商之間的軟體授權法律糾紛。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
       <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
     </item>
