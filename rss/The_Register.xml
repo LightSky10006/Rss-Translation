@@ -3,8 +3,15 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:17:20 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 12 Feb 2025 19:34:58 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟體並不總是與金錢有關：政府間諜也有目的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</link>
+      <description><![CDATA[分析師告訴 El Reg，為什麼俄羅斯的運營商不那麼小心，以及為什麼北韓想要金錢和數據 特徵  勒索軟體黑幫和國家支持的網路間諜處於網路犯罪光譜的兩端。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>DARPA 跳過實驗室，將前往軌道測試太空製造技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 12 Feb 2025 17:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼我們的世界之前對其進行測量</title>
+      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
       <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會縮小數字 美國的技術制裁和供應鏈對 Nvidia 最新設備機架的準備情況可能會導致 2025 年人工智慧伺服器銷售降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 12 Feb 2025 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>Murena 老闆表示客戶即將從雲端儲存噩夢中醒來</title>
+      <title>Murena 老闆稱客戶即將從雲端儲存噩夢中醒來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</link>
       <description><![CDATA[距離雲端硬碟失效已經過去四個月了，但解決方案今天終於出現了......希望如此 採訪  在客戶最終放棄使用雲端儲存之前，雲端儲存中斷會持續多久？ Murena（/e/OS 製造商）的管理層肯定整晚都在努力解決這個問題，但他們希望很快就能找到解決方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 12 Feb 2025 08:42:10 GMT</pubDate>
     </item>
     <item>
-      <title>當你被資訊淹沒時，無知確實是一種福氣</title>
+      <title>當你淹沒在訊息中時，無知確實是一種幸福</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/</link>
       <description><![CDATA[如果錯過的快樂更容易實現就好了 專欄  我從來沒有認真接受過「無知是福」這句格言。現在我不太確定了。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
-      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將更多來自 AMD 的 Pensando 資料處理單元 (DPU) 裝入其交換機，這些單元將專門用於處理安全、儲存和其他任務。]]></description>
+      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
-      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
