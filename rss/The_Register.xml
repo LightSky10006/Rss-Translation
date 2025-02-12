@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 16:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 17:12:40 GMT</lastBuildDate>
+    <item>
+      <title>俄羅斯「沙蟲」被發現竊取美國和英國機構的憑證和數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/russias_sandworm_caught_stealing_credentials/</link>
+      <description><![CDATA[「近乎全球性」的初始訪問活動自 2021 年以來一直活躍 據微軟稱，去年俄羅斯 Sandworm 的一個初始訪問子組潛入了美國、英國、加拿大和澳大利亞的網絡，竊取了“有限數量的組織”的憑證和數據。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/russias_sandworm_caught_stealing_credentials/</guid>
+      <pubDate>Wed, 12 Feb 2025 17:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>英國政府內部人士稱，人工智慧資料中心可能是一個昂貴的累贅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</link>
-      <description><![CDATA[促進經濟發展的比特穀倉？一些當地人預計會說，這不在我的後院 英國政府正在推進“人工智能增長區”，因為人們擔心，急於建立數據中心來推動人工智能的發展可能會適得其反，讓鄉村到處都是昂貴的高科技“無用之物”。]]></description>
+      <description><![CDATA[經濟成長的穀倉？一些當地人預計會說，不是在我的後院 英國政府正在推進“人工智能增長區”，因為擔心急於建立數據中心來為人工智能提供動力可能會適得其反，讓鄉村到處都是昂貴的高科技“白象”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</guid>
       <pubDate>Wed, 12 Feb 2025 11:02:07 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>微軟希望停止生產陸軍 VR 眼鏡，將合約交給 Anduril</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
-      <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
+      <description><![CDATA[五角大廈會為 Luckey 帶來新的 IVAS 供應商嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
       <pubDate>Wed, 12 Feb 2025 01:03:08 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 11 Feb 2025 23:44:07 GMT</pubDate>
     </item>
     <item>
-      <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
+      <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是從事企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
       <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
-      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友。]]></description>
+      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
       <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[這些騙子毫不留情 一個名為 Triplestrength 的不知名團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法挖掘加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</guid>
       <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
-      <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
