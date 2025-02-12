@@ -4,11 +4,18 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 16:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 16:42:40 GMT</lastBuildDate>
+    <item>
+      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
+      <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
+      <pubDate>Wed, 12 Feb 2025 16:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>Murena 老闆稱客戶即將從雲端儲存噩夢中醒來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</link>
-      <description><![CDATA[雲端硬碟失效已有四個月了，但今天有望得到解決... 採訪 在客戶最終放棄之前，雲端儲存中斷會持續多久？ Murena（/e/OS 製造商）的管理層一定在晚上一直在努力解決這個問題，儘管他們希望修復即將到來。]]></description>
+      <description><![CDATA[距離雲端硬碟失效已經過去四個月了，但解決方案今天終於出現了......希望如此 採訪  在客戶最終放棄使用雲端儲存之前，雲端儲存中斷會持續多久？ Murena（/e/OS 製造商）的管理層肯定整晚都在努力解決這個問題，但他們希望很快就能找到解決方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</guid>
       <pubDate>Wed, 12 Feb 2025 09:30:12 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 12 Feb 2025 07:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>Copilot 試用後，政府工作人員認為微軟 AI 的用處不如預期</title>
+      <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
       <description><![CDATA[對雷德蒙來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Wed, 12 Feb 2025 01:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>微軟希望停止生產陸軍 VR 護目鏡，將合約交給 Anduril</title>
+      <title>微軟希望停止生產陸軍 VR 眼鏡，將合約交給 Anduril</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
       <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
@@ -118,7 +125,7 @@
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>儘管存在質疑，「關鍵核心維護者」仍然支援 Linux 核心中的 Rust</title>
+      <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
       <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實，則意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exchange Server 2019 的最終累積更新終於發布</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</link>
-      <description><![CDATA[古老伺服器的路即將走到盡頭 管理員歡喜吧！ Exchange Server 2019 的 2025 H1 累積更新（又稱 CU15）終於到來，標誌著伺服器應用程式一個時代的結束。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</guid>
-      <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
