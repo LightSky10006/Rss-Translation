@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 06:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 07:12:16 GMT</lastBuildDate>
+    <item>
+      <title>當你被資訊淹沒時，無知確實是一種福氣</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/</link>
+      <description><![CDATA[如果錯過的快樂更容易實現就好了 專欄  我從來沒有認真接受過「無知是福」這句格言。現在我不太確定了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
@@ -15,14 +22,14 @@
     <item>
       <title>微軟二月的補丁星期二僅提供了 63 個修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</link>
-      <description><![CDATA[不要放鬆：雷德蒙德對證書處理進行了一些更改，可能會讓毫無準備的管理員措手不及 補丁星期二  微軟 2 月份的補丁集合比 1 月份的大型補丁集合要小得多。但不要太放鬆——有些問題值得密切關注，其他供應商也已經介入並提出了更多修復措施。]]></description>
+      <description><![CDATA[暫時不要放鬆：雷德蒙德做出了一些證書處理更改，可能會讓毫無準備的管理員感到困惑 星期二補丁 幸運的是，微軟 2 月份的補丁集合比 1 月份的大型轉儲要少。但不要太放鬆——有些問題值得密切關注，其他供應商已經介入並提供了更多修復措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</guid>
       <pubDate>Wed, 12 Feb 2025 02:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>終於勝利：訓練資料版權糾紛為人工智慧世界帶來重大打擊</title>
+      <title>最終勝利：訓練資料版權廢止對人工智慧世界的重大打擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</link>
-      <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案件中贏得了部分簡易判決，該判決不允許合理使用未經許可的專有數據訓練模型的辯護。]]></description>
+      <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案中贏得了部分簡易判決，該判決不允許以合理使用作為未經許可在專有數據上訓練模型的辯護。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</guid>
       <pubDate>Wed, 12 Feb 2025 01:45:01 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>Exchange Server 2019 的最終累積更新終於發布</title>
+      <title>Exchange Server 2019 最終累積更新終於登陸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</link>
       <description><![CDATA[古老伺服器的路即將走到盡頭 管理員歡喜吧！ Exchange Server 2019 的 2025 H1 累積更新（又稱 CU15）終於到來，標誌著伺服器應用程式一個時代的結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 專案以糾正問題 – 無需許可證 微軟未能按計劃履行技術承諾，而這些承諾構成了與歐洲一群雲端供應商達成的解決軟體許可法律糾紛的和解協議的基礎。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
       <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國政府使用人工智慧工具檢查道路安全測試中心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</link>
-      <description><![CDATA[誰來測試測試人員？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/</guid>
-      <pubDate>Tue, 11 Feb 2025 09:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
