@@ -4,7 +4,21 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 00:58:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 02:15:04 GMT</lastBuildDate>
+    <item>
+      <title>最終勝利：訓練資料版權廢止對人工智慧世界的重大打擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</link>
+      <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案中贏得了部分簡易判決，該判決不允許以合理使用作為未經許可在專有數據上訓練模型的辯護。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</guid>
+      <pubDate>Wed, 12 Feb 2025 01:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟希望放棄陸軍 VR 眼鏡的研發，將合約交給 Anduril</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
+      <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
+      <pubDate>Wed, 12 Feb 2025 01:03:08 GMT</pubDate>
+    </item>
     <item>
       <title>調查發現美國海岸防衛隊忽視了海上網路安全</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</link>
@@ -34,9 +48,9 @@
       <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>英國、美國和澳洲在 LockBit 的防彈託管供應商 Zservers 上爆破漏洞</title>
+      <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實的話，後果將是巨大的：英國外交部稱普丁運行著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供商之一已受到美國、英國和澳大利亞 (AUKUS) 及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實，那麼意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>我是安全專家，有兩次差點愛上北韓式的深造求職者…</title>
+      <title>我是安全專家，差點兩次被北韓風格的深度偽造求職者所欺騙</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</link>
       <description><![CDATA[遠端位置，網路攝影機不工作，然後是故障的 AI 臉......紅色警報！ 在過去的兩個月裡，Dawid Moczadło 兩次採訪了所謂的求職者，結果發現這些「軟體開發人員」是使用基於 AI 的工具的騙子——可能被一家同樣使用人工智慧的安全公司聘用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</guid>
@@ -92,7 +106,7 @@
     <item>
       <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
-      <description><![CDATA[如果可行的話，替代過程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 版本的震撼逐漸消退，它的遺產可能是一種認識，即模型訓練的替代方法值得探索，而 DeepMind 研究人員表示，他們已經想出了一種使分佈式訓練更加高效的方法。]]></description>
+      <description><![CDATA[如果能夠使替代流程切實可行，它可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
       <pubDate>Tue, 11 Feb 2025 11:46:10 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Tue, 11 Feb 2025 11:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>歐洲雲端團隊稱我們不會起訴與微軟的交易“偏離軌道”</title>
+      <title>歐洲雲端運算團隊稱與微軟的“我們不會起訴”協議“偏離軌道”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</link>
       <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 專案以糾正問題 – 無需許可證 微軟未能按計劃履行技術承諾，而這些承諾構成了與歐洲一群雲端供應商達成的解決軟體許可法律糾紛的和解協議的基礎。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
@@ -120,7 +134,7 @@
     <item>
       <title>安息吧雷蒙德伯德：英國第一台量產商用電腦設計師過世，享年 101 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</link>
-      <description><![CDATA[HEC 系列及更多內容背後的工程師 Obit 雷蒙德·伯德 (Raymond Bird) 開發了英國第一台大規模生產的商用計算機 Hollerith 電子計算機 (HEC)，現已去世，享年 101 歲。]]></description>
+      <description><![CDATA[HEC 系列背後的工程師 訃告  英國第一台量產商用電腦 Hollerith 電子電腦 (HEC) 的開發者 Raymond Bird 過世，享年 101 歲，這個數位時代再適合不過了… &lt;!--#include&gt;wplinkf////////(Et.S.]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</guid>
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力工作的人無需擔心 根據 Anthropic 探索其克勞德模型如何使用的研究，只有 4% 的職業工人使用人工智慧來完成四分之三的任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美國太空總署的耐輻射電腦在範艾倫輻射帶倖存下來，名副其實</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</link>
-      <description><![CDATA[「RadPC」隨 Firefly 的「幽靈騎士」飛行任務一起飛行，該任務已離開地球軌道並前往月球 NASA 透露，其實驗性的耐輻射計算機已完好無損地穿越了以輻射劇烈而聞名的範艾倫帶。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/</guid>
-      <pubDate>Tue, 11 Feb 2025 05:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 月地震導致台積電營收預期下降 1.65 億美元</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</link>
-      <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造巨頭台積電透露，一月份的地震將給其造成數百萬美元的損失。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</guid>
-      <pubDate>Tue, 11 Feb 2025 03:58:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
