@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 12 Feb 2025 05:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 12:57:07 GMT</lastBuildDate>
+    <item>
+      <title>如果它移動，它可能活著：在其他星球上尋找生命</title>
+      <link>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</link>
+      <description><![CDATA[科學家找到了一種不需要精密設備的尋找外星生命的方法。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</guid>
+      <pubDate>Wed, 12 Feb 2025 12:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>備受期待但難以捉摸的 Micro LED 顯示器的最新進展</title>
+      <link>https://arstechnica.com/gadgets/2025/02/an-update-on-highly-anticipated-and-elusive-micro-led-displays/</link>
+      <description><![CDATA[新的（且更便宜的） Micro LED 電視已經發布。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/an-update-on-highly-anticipated-and-elusive-micro-led-displays/</guid>
+      <pubDate>Wed, 12 Feb 2025 12:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>當軟體更新真正改善（而不是毀掉）我們最喜歡的設備時</title>
       <link>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>新的駭客利用即時注入來破壞 Gemini 的長期記憶</title>
       <link>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</link>
-      <description><![CDATA[還有另一種方法可以向聊天機器人注入惡意提示。]]></description>
+      <description><![CDATA[還有另一種方法可以將惡意提示注入聊天機器人。]]></description>
       <guid>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</guid>
       <pubDate>Tue, 11 Feb 2025 22:13:42 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 11 Feb 2025 19:01:41 GMT</pubDate>
     </item>
     <item>
-      <title>剛傳染給乳牛的禽流感病毒感染了內華達州的乳牛工人</title>
+      <title>剛傳染給乳牛的禽流感病毒株感染了內華達州的乳牛場工人</title>
       <link>https://arstechnica.com/health/2025/02/h5n1-bird-flu-nevada-dairy-worker-infected-with-newly-spilled-over-strain/</link>
       <description><![CDATA[據稱，該工人患了紅眼病，目前正在康復中。]]></description>
       <guid>https://arstechnica.com/health/2025/02/h5n1-bird-flu-nevada-dairy-worker-infected-with-newly-spilled-over-strain/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[正確掌握新型 F1 混合動力車是一項挑戰。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</guid>
       <pubDate>Tue, 11 Feb 2025 17:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>薩姆·奧特曼：OpenAI 不會出售，即使伊隆·馬斯克開出 970 億美元的報價</title>
-      <link>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</link>
-      <description><![CDATA[奧特曼回應稱，願意以 97.4 億美元收購 Twitter。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</guid>
-      <pubDate>Tue, 11 Feb 2025 16:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ULA 的 Vulcan 火箭仍未獲得太空部隊的批准</title>
-      <link>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</link>
-      <description><![CDATA[由於太空部隊的審查仍在進行中，ULA 正在將其下一枚 Vulcan 火箭從發射台上移除。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
