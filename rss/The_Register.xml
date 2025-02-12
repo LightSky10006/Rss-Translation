@@ -3,17 +3,24 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 21:34:58 GMT</lastBuildDate>
+    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 12 Feb 2025 22:37:25 GMT</lastBuildDate>
+    <item>
+      <title>IBM 要求員工重返辦公室，以人工智慧取代傳統員工，這對財務和營運團隊造成了衝擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</link>
+      <description><![CDATA[需求描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員，據消息人士稱。經營業務部門，以返回辦公室（RTO）命令的形式…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</guid>
+      <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
+    </item>
     <item>
       <title>川普挑選的網路主管在網路攻擊上經驗不足</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</link>
-      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 打招呼 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
+      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 問好 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</guid>
       <pubDate>Wed, 12 Feb 2025 21:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>亞利桑那州筆記型電腦農民承認向金正恩提供 1700 萬美元</title>
+      <title>亞利桑那州筆記型電腦農民承認向金正恩輸送 1700 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</link>
       <description><![CDATA[300 多家美國公司、70 多名個人受到詐騙分子的攻擊 亞利桑那州一名婦女在家中創建了一個“筆記本電腦農場”，以幫助假冒 IT 工作者冒充美國員工，她對一項計劃供認不諱，該計劃為她自己和朝鮮帶來了超過 1700 萬美元的收入……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>DARPA 跳過實驗室，將前往軌道測試太空製造技術</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/</link>
-      <description><![CDATA[計畫負責人表示，先前的 NOM4D 實驗進展順利，現在是時候付諸實踐了 經過數年在實驗室對軌道製造技術理念的測試，美國國防部的研究機構決定進入軌道進行最新一輪實驗。 …]]></description>
+      <description><![CDATA[計畫負責人表示，先前的 NOM4D 實驗進展順利，是時候付諸實踐了 經過數年對軌道製造技術的實驗室測試想法後，美國國防部的研究部門決定進入軌道進行最新一輪的實驗。 ...]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/</guid>
       <pubDate>Wed, 12 Feb 2025 18:01:15 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
@@ -64,12 +71,12 @@
     <item>
       <title>谷歌稱犯罪頭目和流氓國家的間諜正在聯手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</link>
-      <description><![CDATA[只有立法者才能阻止他們。另外：軟體需要更安全，但這對我們有什麼好處呢？]]></description>
+      <description><![CDATA[只有立法者才能阻止他們。另外：軟體需要更加安全，但它對我們有什麼好處？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</guid>
       <pubDate>Wed, 12 Feb 2025 13:29:34 GMT</pubDate>
     </item>
     <item>
-      <title>歐盟計畫「動員」200B歐元投資人工智慧以趕上美國和中國</title>
+      <title>歐盟計畫「調動」2000 億歐元投資人工智慧，以趕上美國和中國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/eu_plans_to_mobilize_200b/</link>
       <description><![CDATA[船長日誌，星曆 3529.7 – 哦，是的，歐盟委員會還撤回了一項有助於人們就人工智能危害提起訴訟的法律 歐盟委員會主席烏爾蘇拉·馮德萊恩表示，歐盟將加大對歐洲大陸人工智能的推動力度，使其達到 2000 億歐元（2070 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/eu_plans_to_mobilize_200b/</guid>
@@ -78,14 +85,14 @@
     <item>
       <title>為什麼 SAP 可能會考慮在 2030 年停止對舊版 ERP 進行維護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</link>
-      <description><![CDATA[分析師稱，用戶對關鍵應用程式的遷移速度緩慢，這意味著當前的截止日期不可行 到 2030 年，目前使用其舊式 ERP 系統的 SAP 客戶中有 40% 仍未遷移到最新軟體，這促使這家商業應用程式巨頭重新考慮其支援截止日期。]]></description>
+      <description><![CDATA[分析師表示，用戶對關鍵應用程式的緩慢遷移意味著當前的截止日期無法實現 到 2030 年，目前使用舊版 ERP 系統的 SAP 客戶中 40% 仍無法遷移到最新軟體，這將促使這家商業應用巨頭重新考慮其支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</guid>
       <pubDate>Wed, 12 Feb 2025 11:46:13 GMT</pubDate>
     </item>
     <item>
       <title>英國政府內部人士稱，人工智慧資料中心可能是一個昂貴的累贅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</link>
-      <description><![CDATA[經濟成長的穀倉？一些當地人預計會說，不是在我的後院 英國政府正在推進“人工智能增長區”，因為擔心急於建立數據中心來為人工智能提供動力可能會適得其反，讓鄉村到處都是昂貴的高科技“白象”。]]></description>
+      <description><![CDATA[促進經濟發展的比特穀倉？一些當地人預計會說，這不在我的後院 英國政府正在推進“人工智能增長區”，因為人們擔心，急於建立數據中心來推動人工智能的發展可能會適得其反，讓鄉村到處都是昂貴的高科技“無用之物”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</guid>
       <pubDate>Wed, 12 Feb 2025 11:02:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案中贏得了部分簡易判決，該判決不允許以合理使用作為未經許可在專有數據上訓練模型的辯護。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</guid>
       <pubDate>Wed, 12 Feb 2025 01:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟希望停止生產陸軍 VR 眼鏡，將合約交給 Anduril</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
-      <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
-      <pubDate>Wed, 12 Feb 2025 01:03:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
