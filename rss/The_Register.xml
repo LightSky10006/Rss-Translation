@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 02:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 03:22:28 GMT</lastBuildDate>
     <item>
-      <title>最終勝利：訓練資料版權廢止對人工智慧世界的重大打擊</title>
+      <title>微軟二月的補丁星期二僅提供了 63 個修復程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</link>
+      <description><![CDATA[不要放鬆：雷德蒙德對證書處理進行了一些更改，可能會讓毫無準備的管理員措手不及 補丁星期二  微軟 2 月份的補丁集合比 1 月份的大型補丁集合要小得多。但不要太放鬆——有些問題值得密切關注，其他供應商也已經介入並提出了更多修復措施。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</guid>
+      <pubDate>Wed, 12 Feb 2025 02:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>終於勝利：訓練資料版權糾紛為人工智慧世界帶來重大打擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</link>
       <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案中贏得了部分簡易判決，該判決不允許以合理使用作為未經許可在專有數據上訓練模型的辯護。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
+      <title>儘管存在質疑，「關鍵核心維護者」仍然支援 Linux 核心中的 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
       <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>Triplestrength 給受害者帶來三重麻煩：勒索軟體、雲端劫持、加密挖掘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</link>
-      <description><![CDATA[這些騙子沒有冷靜 一個名為 Triplestrength 的先前不為人知的團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法開採加密貨幣。]]></description>
+      <description><![CDATA[這些騙子毫不留情 一個名為 Triplestrength 的不知名團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法挖掘加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</guid>
       <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[HEC 系列背後的工程師 訃告  英國第一台量產商用電腦 Hollerith 電子電腦 (HEC) 的開發者 Raymond Bird 過世，享年 101 歲，這個數位時代再適合不過了… &lt;!--#include&gt;wplinkf////////(Et.S.]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</guid>
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>僅有 4% 的工作嚴重依賴人工智慧，其中中等薪資的使用率最高</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</link>
-      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力工作的人無需擔心 根據 Anthropic 探索其克勞德模型如何使用的研究，只有 4% 的職業工人使用人工智慧來完成四分之三的任務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
-      <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
