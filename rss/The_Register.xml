@@ -3,19 +3,26 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 13:21:40 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Wed, 12 Feb 2025 13:38:07 GMT</lastBuildDate>
+    <item>
+      <title>谷歌稱犯罪頭目和流氓國家的間諜正在聯手</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</link>
+      <description><![CDATA[只有立法者才能阻止他們。另外：軟體需要更安全，但這對我們有什麼好處呢？]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</guid>
+      <pubDate>Wed, 12 Feb 2025 13:29:34 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟計畫「調動」2000 億歐元投資人工智慧，以趕上美國和中國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/eu_plans_to_mobilize_200b/</link>
-      <description><![CDATA[船長日誌，星曆 3529.7 – 哦，是的，歐盟委員會還撤回了一項有助於人們就人工智能危害提起訴訟的法律 歐盟委員會主席烏爾蘇拉·馮德萊恩表示，歐盟將加大對歐洲大陸人工智能的推動力度，使其達到 2000 億歐元（2070 億美元）。]]></description>
+      <description><![CDATA[船長日誌，星曆 3529.7 – 哦，是的，Commish 還撤回了幫助人們起訴人工智能危害的法律 歐盟委員會主席烏蘇拉·馮德萊恩 (Ursula von der Leyen) 表示，歐盟將加大大陸推動力度，達到 2000 億歐元（2070 億美元）。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/eu_plans_to_mobilize_200b/</guid>
       <pubDate>Wed, 12 Feb 2025 12:32:07 GMT</pubDate>
     </item>
     <item>
       <title>SAP 為何考慮在 2030 年終止舊版 ERP 的維護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</link>
-      <description><![CDATA[分析師表示，用戶對關鍵應用程式的緩慢遷移意味著當前的截止日期無法實現 到 2030 年，目前使用舊版 ERP 系統的 SAP 客戶中 40% 仍無法遷移到最新軟體，這將促使這家商業應用巨頭重新考慮其支援截止日期。]]></description>
+      <description><![CDATA[分析師稱，用戶對關鍵應用程式的遷移速度緩慢，這意味著當前的截止日期不可行 到 2030 年，目前使用其舊式 ERP 系統的 SAP 客戶中有 40% 仍未遷移到最新軟體，這促使這家商業應用程式巨頭重新考慮其支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</guid>
       <pubDate>Wed, 12 Feb 2025 11:46:13 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 12 Feb 2025 11:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>BBC 發現，人工智慧摘要將真實新聞變成無稽之談</title>
+      <title>BBC 發現人工智慧摘要將真實新聞變成無稽之談</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/</link>
       <description><![CDATA[Apple Intelligence 慘敗後的研究表明，機器人仍在定期編造內容 BBC 仍對 Apple Intelligence 毀掉新聞標題感到痛心，因此發表了一項關於人工智能助手如何準確總結新聞的研究，而研究結果並不令人愉快。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/</guid>
@@ -62,21 +69,21 @@
       <pubDate>Wed, 12 Feb 2025 04:59:15 GMT</pubDate>
     </item>
     <item>
-      <title>微軟二月的補丁星期二僅提供了 63 個修復程序</title>
+      <title>2 月的補丁星期二，微軟僅提供 63 個修復</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</link>
       <description><![CDATA[不要放鬆：雷德蒙德對證書處理進行了一些更改，可能會讓毫無準備的管理員措手不及 補丁星期二  微軟 2 月份的補丁集合比 1 月份的大型補丁集合要小得多。但不要太放鬆——有些問題值得密切關注，其他供應商也已經介入並提出了更多修復措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</guid>
       <pubDate>Wed, 12 Feb 2025 02:58:11 GMT</pubDate>
     </item>
     <item>
-      <title>終於勝利：訓練資料版權糾紛為人工智慧世界帶來重大打擊</title>
+      <title>最終勝利：訓練資料版權廢止對人工智慧世界的重大打擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</link>
       <description><![CDATA[你必須為你的路透社而戰......參加派對 湯森路透在針對已關閉的人工智能公司 Ross Intelligence 的版權案中贏得了部分簡易判決，該判決不允許以合理使用作為未經許可在專有數據上訓練模型的辯護。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/</guid>
       <pubDate>Wed, 12 Feb 2025 01:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>微軟希望放棄陸軍 VR 眼鏡的研發，將合約交給 Anduril</title>
+      <title>微軟希望停止陸軍 VR 護目鏡的開發工作，將合約交給 Anduril</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
       <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
@@ -99,14 +106,14 @@
     <item>
       <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
-      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友。]]></description>
+      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
       <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
     </item>
     <item>
       <title>Triplestrength 給受害者帶來三重麻煩：勒索軟體、雲端劫持、加密挖掘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</link>
-      <description><![CDATA[這些騙子沒有冷靜 一個名為 Triplestrength 的先前不為人知的團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法開採加密貨幣。]]></description>
+      <description><![CDATA[這些騙子毫不留情 一個名為 Triplestrength 的不知名團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法挖掘加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</guid>
       <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
     </item>
@@ -118,9 +125,9 @@
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
     <item>
-      <title>Exchange Server 2019 的最終累積更新終於發布</title>
+      <title>Exchange Server 2019 最終累積更新終於登陸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</link>
-      <description><![CDATA[令人尊敬的伺服器的道路盡頭在望 管理員們很高興！ Exchange Server 2019 的 2025 年上半年累積更新（又稱 CU15）終於到來，標誌著伺服器應用程式時代的結束。]]></description>
+      <description><![CDATA[古老伺服器的路即將走到盡頭 管理員歡喜吧！ Exchange Server 2019 的 2025 H1 累積更新（又稱 CU15）終於到來，標誌著伺服器應用程式一個時代的結束。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/</guid>
       <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
       <pubDate>Tue, 11 Feb 2025 16:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle 在歐盟主權雲端上提供 Fusion 應用</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</link>
-      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保證，使其符合該地區的資料法…。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
