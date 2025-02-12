@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 23:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:58:03 GMT</lastBuildDate>
     <item>
-      <title>福特老闆稱關稅將造成“成本和混亂”</title>
+      <title>當軟體更新真正改善（而不是毀掉）我們最喜歡的設備時</title>
+      <link>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</link>
+      <description><![CDATA[觀點：這些科技產品隨著時間的推移變得越來越好。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</guid>
+      <pubDate>Tue, 11 Feb 2025 23:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特執行長稱關稅將「摧毀」美國汽車業</title>
       <link>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</link>
       <description><![CDATA[一位執行長公開反對川普政府的政策似乎令人耳目一新。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[由於太空部隊的審查仍在進行中，ULA 正在將其下一枚 Vulcan 火箭從發射台上移除。]]></description>
       <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
       <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.3.1 更新修復了「極其複雜的攻擊」中利用的安全漏洞</title>
-      <link>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</link>
-      <description><![CDATA[對於那些已關閉 Apple Intelligence 的用戶，更新可能還會重新啟用它。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

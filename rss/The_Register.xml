@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Tue, 11 Feb 2025 23:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:58:31 GMT</lastBuildDate>
+    <item>
+      <title>調查發現美國海岸防衛隊忽視了海上網路安全</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</link>
+      <description><![CDATA[大量系統性漏洞可能會毀掉價值 5.4 兆美元的產業 美國政府問責局 (GAO) 警告稱，儘管針對美國海上運輸系統的網路威脅不斷升級，但美國海岸防衛隊仍然缺乏全面的戰略來保護這一關鍵基礎設施，也無法可靠地獲取有關網路安全漏洞和過去攻擊的資料。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</guid>
+      <pubDate>Tue, 11 Feb 2025 23:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>Triplestrength 給受害者帶來三重麻煩：勒索軟體、雲端劫持、加密挖掘</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</link>
-      <description><![CDATA[這些騙子毫不留情 一個名為 Triplestrength 的不知名團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法挖掘加密貨幣。]]></description>
+      <description><![CDATA[這些騙子沒有冷靜 一個名為 Triplestrength 的先前不為人知的團夥對組織構成了三重威脅：它用勒索軟體感染受害者的計算機，然後劫持他們的雲帳戶以非法開採加密貨幣。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/</guid>
       <pubDate>Tue, 11 Feb 2025 20:42:51 GMT</pubDate>
     </item>
     <item>
-      <title>英國、美國和澳洲向 LockBit 的防彈託管服務供應商 Zservers 發動攻擊</title>
+      <title>英國、美國和澳洲在 LockBit 的防彈託管供應商 Zservers 上爆破漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</link>
-      <description><![CDATA[如果屬實，則意義重大：英國外交部長稱普丁管理著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供者之一已受到美國、英國和澳洲 (AUKUS) 以及其六個主要盟友的製裁。]]></description>
+      <description><![CDATA[如果屬實的話，後果將是巨大的：英國外交部稱普丁運行著一個「腐敗的黑手黨國家」 LockBit 勒索軟體操作使用的防彈託管 (BPH) 提供商之一已受到美國、英國和澳大利亞 (AUKUS) 及其六個主要盟友的製裁。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/</guid>
       <pubDate>Tue, 11 Feb 2025 18:26:07 GMT</pubDate>
     </item>
@@ -41,14 +48,14 @@
       <pubDate>Tue, 11 Feb 2025 17:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>男子將 7,500 枚比特幣硬碟丟進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
+      <title>男子將 7,500 枚比特幣硬碟扔進垃圾桶，現在想買下整個垃圾掩埋場來把它挖出來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</link>
       <description><![CDATA[十多年過去了，廢棄物專家表示找到這些硬幣的幾率幾乎為零 威爾斯紐波特居民詹姆斯·豪威爾斯 (James Howells) 因未能獲得挖掘垃圾掩埋場尋找丟失的比特幣的許可而製定了新計劃：直接從市議會購買即將被封頂的垃圾填埋場。 &gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/</guid>
       <pubDate>Tue, 11 Feb 2025 17:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>SIM 卡交換 SEC X 帳戶的男子認罪</title>
+      <title>竊取美國證券交易委員會 X 帳戶 SIM 卡的男子認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</link>
       <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
@@ -57,12 +64,12 @@
     <item>
       <title>Oracle 在歐盟主權雲端上提供 Fusion 應用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</link>
-      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保證，使其能夠遵守該地區的資料法…。]]></description>
+      <description><![CDATA[針對無法將資料傳輸到異地的公共部門組織推出符合 GDPR 標準的服務 Oracle 正在其 Oracle EU Sovereign Cloud 上推出 Fusion Cloud Applications Suite (FCAS)，此舉旨在為應用程式使用者提供更大的保障，使其能夠遵守該地區的資料法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/</guid>
       <pubDate>Tue, 11 Feb 2025 15:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>我是安全專家，差點兩次被北韓風格的深度偽造求職者所欺騙</title>
+      <title>我是安全專家，有兩次差點愛上北韓式的深造求職者…</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</link>
       <description><![CDATA[遠端位置，網路攝影機不工作，然後是故障的 AI 臉......紅色警報！ 在過去的兩個月裡，Dawid Moczadło 兩次採訪了所謂的求職者，結果發現這些「軟體開發人員」是使用基於 AI 的工具的騙子——可能被一家同樣使用人工智慧的安全公司聘用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/</guid>
@@ -85,14 +92,14 @@
     <item>
       <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
-      <description><![CDATA[如果能夠使其切實可行，替代流程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
+      <description><![CDATA[如果可行的話，替代過程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 版本的震撼逐漸消退，它的遺產可能是一種認識，即模型訓練的替代方法值得探索，而 DeepMind 研究人員表示，他們已經想出了一種使分佈式訓練更加高效的方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
       <pubDate>Tue, 11 Feb 2025 11:46:10 GMT</pubDate>
     </item>
     <item>
       <title>已經遲了三年的 NHS 財務系統更換再次被推遲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/</link>
-      <description><![CDATA[更換 Oracle 電子商務套件的專案再次獲得專案監管機構的紅色評級 英國最大的 NHS 管理機構在拖延了三年多之後再次推遲了其老化的 Oracle 財務系統的更換。]]></description>
+      <description><![CDATA[更換 Oracle E-Business Suite 的專案再次獲得專案監管機構的紅色評級 英國最大的 NHS 管理機構在拖延三年多之後，再次推遲了其老化的 Oracle 財務系統的更換。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/</guid>
       <pubDate>Tue, 11 Feb 2025 11:01:06 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>安息吧雷蒙德伯德：英國第一台量產商用電腦設計師過世，享年 101 歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</link>
-      <description><![CDATA[HEC 系列背後的工程師 訃告  英國第一台量產商用電腦 Hollerith 電子電腦 (HEC) 的開發者 Raymond Bird 過世，享年 101 歲，這個數位時代再適合不過了… &lt;!--#include&gt;wplinkf////////(Et.S.]]></description>
+      <description><![CDATA[HEC 系列及更多內容背後的工程師 Obit 雷蒙德·伯德 (Raymond Bird) 開發了英國第一台大規模生產的商用計算機 Hollerith 電子計算機 (HEC)，現已去世，享年 101 歲。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/</guid>
       <pubDate>Tue, 11 Feb 2025 08:33:13 GMT</pubDate>
     </item>
     <item>
       <title>僅有 4% 的工作嚴重依賴人工智慧，其中中等薪資的使用率最高</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</link>
-      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力勞動的人無需擔心 根據 Anthropic 對其 Claude 模型使用情況的研究，只有 4% 的職業的工人使用人工智慧完成四分之三的任務。]]></description>
+      <description><![CDATA[科技、媒體和教育領域的中等薪資知識工作正在改變。從事體力工作的人無需擔心 根據 Anthropic 探索其克勞德模型如何使用的研究，只有 4% 的職業工人使用人工智慧來完成四分之三的任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/</guid>
       <pubDate>Tue, 11 Feb 2025 07:31:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[承諾生產計畫將重回正軌 台灣晶片製造巨頭台積電透露，一月份的地震將給其造成數百萬美元的損失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/</guid>
       <pubDate>Tue, 11 Feb 2025 03:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果警告稱，iThings 可能遭遇“極其複雜的攻擊”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</link>
-      <description><![CDATA[庫比蒂諾在談論安全性時大多使用平淡的語言，所以這聽起來很討厭 蘋果警告稱，部分 iPhone 和 iPad 可能已成為“極其複雜的攻擊”的目標，並發布了補丁，希望能阻止此類攻擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/</guid>
-      <pubDate>Tue, 11 Feb 2025 01:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
