@@ -4,16 +4,23 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 09:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 10:39:48 GMT</lastBuildDate>
+    <item>
+      <title>BBC 發現，人工智慧摘要將真實新聞變成無稽之談</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/</link>
+      <description><![CDATA[Apple Intelligence 慘敗後的研究表明，機器人仍在定期編造內容 BBC 仍對 Apple Intelligence 毀掉新聞標題感到痛心，因此發表了一項關於人工智能助手如何準確總結新聞的研究，而研究結果並不令人愉快。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/</guid>
+      <pubDate>Wed, 12 Feb 2025 10:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Murena 老闆稱客戶即將從雲端儲存噩夢中醒來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</link>
-      <description><![CDATA[距離雲端硬碟問世已經四個月了，但解決方案今天終於出現了......希望如此 採訪  在客戶最終放棄之前，雲端儲存還能持續多久？ Murena（/e/OS 製造商）的管理層肯定整晚都在努力解決這個問題，但他們希望很快就能找到解決方案。]]></description>
+      <description><![CDATA[距離雲端硬碟失效已經過去四個月了，但解決方案今天終於出現了......希望如此 採訪  在客戶最終放棄使用雲端儲存之前，雲端儲存中斷會持續多久？ Murena（/e/OS 製造商）的管理層肯定整晚都在努力解決這個問題，但他們希望很快就能找到解決方案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/</guid>
       <pubDate>Wed, 12 Feb 2025 09:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>牛津大學研究人員透過分散式閘隱形傳態首次實現量子量子傳輸</title>
+      <title>牛津研究者首次利用分散式閘傳送實現量子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</link>
       <description><![CDATA[愛因斯坦的幽靈般遠距離行為剛剛升級 牛津大學的研究人員向大規模分佈式量子計算邁出了重要一步，首次成功演示了兩個模組之間受控量子門的量子隱形傳態。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 12 Feb 2025 07:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
+      <title>Copilot 試用後，政府工作人員認為微軟 AI 的用處不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
       <description><![CDATA[對雷德蒙來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>微軟二月的補丁星期二僅提供了 63 個修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</link>
-      <description><![CDATA[不要放鬆：雷德蒙德對證書處理進行了一些更改，可能會讓毫無準備的管理員措手不及 補丁星期二  微軟 2 月份的補丁集合比 1 月份的大型補丁集合要小得多。但不要太放鬆——有些問題值得密切關注，其他供應商也已經介入並提出了更多修復措施。]]></description>
+      <description><![CDATA[暫時不要放鬆：雷德蒙德做出了一些證書處理更改，這可能會讓毫無準備的管理員感到困惑 星期二補丁 幸運的是，微軟 2 月份的補丁集合比 1 月份的大型轉儲要少。但不要太放鬆——有些問題值得密切關注，其他供應商已經介入並提供了更多修復措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</guid>
       <pubDate>Wed, 12 Feb 2025 02:58:11 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>微軟希望放棄陸軍 VR 眼鏡的研發，將合約交給 Anduril</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</link>
-      <description><![CDATA[五角大廈會為 Luckey 帶來新的 IVAS 供應商嗎？]]></description>
+      <description><![CDATA[五角大廈會透過新的 IVAS 供應商獲得 Luckey 嗎？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/</guid>
       <pubDate>Wed, 12 Feb 2025 01:03:08 GMT</pubDate>
     </item>
@@ -64,14 +71,14 @@
     <item>
       <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
-      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
+      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將更多來自 AMD 的 Pensando 資料處理單元 (DPU) 裝入其交換機，這些單元將專門用於處理安全、儲存和其他任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
     <item>
       <title>儘管有人持懷疑態度，「關鍵核心維護者」仍然支援在 Linux 核心中使用 Rust</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</link>
-      <description><![CDATA[Rustaceans 只能等待不受歡迎的 C 程式設計師慢慢 SIGQUIT... 儘管有相反的建議，但 Rust for Linux 專案仍然存在並且運作良好，即使不是每個 Linux 核心維護者都是盟友。]]></description>
+      <description><![CDATA[Rustaceans 只需等待不受歡迎的 C 程式設計師慢慢發出 SIGQUIT 訊號即可… 儘管有相反的建議，但 Rust for Linux 專案仍然活躍且健康，即使並非每個 Linux 核心維護者都是盟友…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/</guid>
       <pubDate>Tue, 11 Feb 2025 22:15:48 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Tue, 11 Feb 2025 14:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌證實墨西哥灣更名是為了安撫川普——但僅限於美國</title>
+      <title>谷歌證實墨西哥灣改名是為了安撫川普——但僅限於美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</link>
       <description><![CDATA[所以現在每個人都很高興 更新  谷歌已更改谷歌地圖上墨西哥灣的名稱，以符合唐納德·特朗普的一時興起——但僅限於美國用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[但它會為 MongoDB 替代品設定真正的標準嗎？ paper_textlinks_top.html&#39; --&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_postgresql_extensions/</guid>
       <pubDate>Tue, 11 Feb 2025 12:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
-      <description><![CDATA[如果能夠使其切實可行，替代流程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
-      <pubDate>Tue, 11 Feb 2025 11:46:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
