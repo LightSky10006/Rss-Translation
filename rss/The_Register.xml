@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 08:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 09:13:42 GMT</lastBuildDate>
+    <item>
+      <title>牛津研究者首次利用分散式閘傳送實現量子</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</link>
+      <description><![CDATA[愛因斯坦的幽靈般遠距離行為剛剛升級 牛津大學的研究人員向大規模分佈式量子計算邁出了重要一步，首次成功演示了兩個模組之間受控量子門的量子隱形傳態。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</guid>
+      <pubDate>Wed, 12 Feb 2025 08:42:10 GMT</pubDate>
+    </item>
     <item>
       <title>當你被資訊淹沒時，無知確實是一種福氣</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>竊取美國證券交易委員會 X 帳戶 SIM 卡的男子認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</link>
-      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 正在追捕你？」 一名阿拉巴馬州男子在被指控去年 1 月交換 SIM 卡交換美國證券交易委員會 (SEC) X 帳戶後認罪。]]></description>
+      <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
       <pubDate>Tue, 11 Feb 2025 16:15:08 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>谷歌證實墨西哥灣改名是為了安撫川普——但僅限於美國</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</link>
-      <description><![CDATA[現在大家都很高興 更新了 Google 更改了 Google 地圖上墨西哥灣的名稱，以符合唐納德·特朗普的突發奇想 - 但僅限於美國用戶。]]></description>
+      <description><![CDATA[所以現在每個人都很高興 更新  谷歌已更改谷歌地圖上墨西哥灣的名稱，以符合唐納德·特朗普的一時興起——但僅限於美國用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</guid>
       <pubDate>Tue, 11 Feb 2025 13:15:08 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>DeepMind 致力於大型 AI 模型的分散式訓練</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</link>
-      <description><![CDATA[如果能夠使替代流程切實可行，它可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 發布帶來的震撼逐漸消退，它留下的遺產可能是人們意識到模型訓練的替代方法值得探索，而 DeepMind 的研究人員表示，他們已經想出了一種使分散式訓練更加高效的方法。]]></description>
+      <description><![CDATA[如果可行的話，替代過程可能會改變遊戲規則 分散式訓練是人工智慧的未來嗎？隨著 DeepSeek 版本的震撼逐漸消退，它的遺產可能是一種認識，即模型訓練的替代方法值得探索，而 DeepMind 研究人員表示，他們已經想出了一種使分佈式訓練更加高效的方法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/</guid>
       <pubDate>Tue, 11 Feb 2025 11:46:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[更換 Oracle E-Business Suite 的專案再次獲得專案監管機構的紅色評級 英國最大的 NHS 管理機構在拖延三年多之後，再次推遲了其老化的 Oracle 財務系統的更換。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/</guid>
       <pubDate>Tue, 11 Feb 2025 11:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲雲端運算團隊稱與微軟的“我們不會起訴”協議“偏離軌道”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</link>
-      <description><![CDATA[海外朋友敦促美國科技巨頭「迅速」開展 Azure Local 項目，以糾正錯誤 - 無需許可證 微軟無法履行技術承諾，而這些承諾構成了和解協議的基礎，該和解協議旨在解決與歐洲眾多雲端供應商之間的軟體授權法律糾紛。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/</guid>
-      <pubDate>Tue, 11 Feb 2025 10:21:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
