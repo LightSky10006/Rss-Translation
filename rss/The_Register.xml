@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 10:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 11:10:54 GMT</lastBuildDate>
+    <item>
+      <title>英國政府內部人士稱，人工智慧資料中心可能是一個昂貴的累贅</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</link>
+      <description><![CDATA[促進經濟發展的比特穀倉？一些當地人預計會說，這不在我的後院 英國政府正在推進“人工智能增長區”，因為人們擔心，急於建立數據中心來推動人工智能的發展可能會適得其反，讓鄉村到處都是昂貴的高科技“無用之物”。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/</guid>
+      <pubDate>Wed, 12 Feb 2025 11:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>BBC 發現，人工智慧摘要將真實新聞變成無稽之談</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>牛津研究者首次利用分散式閘傳送實現量子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</link>
-      <description><![CDATA[愛因斯坦的幽靈般遠距離行為剛剛升級 牛津大學的研究人員向大規模分佈式量子計算邁出了重要一步，首次成功演示了兩個模組之間受控量子門的量子隱形傳態。]]></description>
+      <description><![CDATA[愛因斯坦的幽靈般的遠距離作用剛剛升級 牛津大學的研究人員透過示範兩個模組之間受控量子閘的首次成功量子隱形傳態，向大規模分散式量子計算邁出了重要一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</guid>
       <pubDate>Wed, 12 Feb 2025 08:42:10 GMT</pubDate>
     </item>
@@ -34,16 +41,16 @@
       <pubDate>Wed, 12 Feb 2025 07:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>Copilot 試用後，政府工作人員認為微軟 AI 的用處不如預期</title>
+      <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
-      <description><![CDATA[對雷德蒙來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
+      <description><![CDATA[對雷德蒙來說，並非所有壞消息都是因為澳洲機構也發現了強勁的投資回報率和一些意想不到的優勢 澳洲財政部發現微軟的 Copilot 可以輕鬆實現投資回報，但接觸過人工智慧助理的員工在體驗人工智慧助理後，對它對工作的幫助信心不足。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</guid>
       <pubDate>Wed, 12 Feb 2025 04:59:15 GMT</pubDate>
     </item>
     <item>
       <title>微軟二月的補丁星期二僅提供了 63 個修復程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</link>
-      <description><![CDATA[暫時不要放鬆：雷德蒙德做出了一些證書處理更改，這可能會讓毫無準備的管理員感到困惑 星期二補丁 幸運的是，微軟 2 月份的補丁集合比 1 月份的大型轉儲要少。但不要太放鬆——有些問題值得密切關注，其他供應商已經介入並提供了更多修復措施。]]></description>
+      <description><![CDATA[不要放鬆：雷德蒙德對證書處理進行了一些更改，可能會讓毫無準備的管理員措手不及 補丁星期二  微軟 2 月份的補丁集合比 1 月份的大型補丁集合要小得多。但不要太放鬆——有些問題值得密切關注，其他供應商也已經介入並提出了更多修復措施。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/</guid>
       <pubDate>Wed, 12 Feb 2025 02:58:11 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
-      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將更多來自 AMD 的 Pensando 資料處理單元 (DPU) 裝入其交換機，這些單元將專門用於處理安全、儲存和其他任務。]]></description>
+      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
       <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
@@ -111,7 +118,7 @@
       <pubDate>Tue, 11 Feb 2025 17:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>竊取美國證券交易委員會 X 帳戶 SIM 卡的男子認罪</title>
+      <title>SIM 卡交換 SEC X 帳戶的男子認罪</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</link>
       <description><![CDATA[據說曾詢問搜尋引擎「有哪些跡象表明 FBI 在追捕你？」 去年 1 月，一名阿拉巴馬州男子被控交換美國證券交易委員會 (SEC) X 帳戶的 SIM 卡，現已認罪。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[所以現在每個人都很高興 更新  谷歌已更改谷歌地圖上墨西哥灣的名稱，以符合唐納德·特朗普的一時興起——但僅限於美國用戶。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/</guid>
       <pubDate>Tue, 11 Feb 2025 13:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟開源 PostgreSQL 擴充功能以進軍 NoSQL</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_postgresql_extensions/</link>
-      <description><![CDATA[但它會為 MongoDB 替代品設定真正的標準嗎？ paper_textlinks_top.html&#39; --&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_postgresql_extensions/</guid>
-      <pubDate>Tue, 11 Feb 2025 12:26:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
