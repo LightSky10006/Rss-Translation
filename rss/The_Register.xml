@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Wed, 12 Feb 2025 20:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 20:36:27 GMT</lastBuildDate>
+    <item>
+      <title>亞利桑那州筆記型電腦農民承認向金正恩提供 1700 萬美元</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</link>
+      <description><![CDATA[300 多家美國公司、70 多名個人受到詐騙分子的攻擊 亞利桑那州一名婦女在家中創建了一個“筆記本電腦農場”，以幫助假冒 IT 工作者冒充美國員工，她對一項計劃供認不諱，該計劃為她自己和朝鮮帶來了超過 1700 萬美元的收入……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</guid>
+      <pubDate>Wed, 12 Feb 2025 20:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟體並不總是與金錢有關：政府間諜也有目的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
-      <description><![CDATA[40 m 還是 90 m？在撞擊的情況下，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少該物體在未來幾年撞擊地球的可能性的不確定性。]]></description>
+      <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
       <pubDate>Wed, 12 Feb 2025 16:15:12 GMT</pubDate>
     </item>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 12 Feb 2025 07:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>在 Copilot 試用後，政府工作人員認為微軟的 AI 實用性不如預期</title>
+      <title>Copilot 試用後，政府工作人員認為微軟 AI 的用處不如預期</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</link>
       <description><![CDATA[對雷德蒙來說，並非全是壞消息，因為澳洲機構也發現了強勁的投資回報率和一些意想不到的好處 澳洲財政部發現，微軟的 Copilot 可以輕鬆帶來投資回報，但接觸過這款人工智慧助理的員工對它能否在工作中提供幫助的信心有所降低。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[大量系統性漏洞可能會毀掉價值 5.4 兆美元的產業 美國政府問責局 (GAO) 警告稱，儘管針對美國海上運輸系統的網路威脅不斷升級，但美國海岸防衛隊仍然缺乏全面的戰略來保護這一關鍵基礎設施，也無法可靠地獲取有關網路安全漏洞和過去攻擊的資料。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/</guid>
       <pubDate>Tue, 11 Feb 2025 23:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，AMD 的 Elba 和 Giglio 聽起來確實像是在為企業安全工作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</link>
-      <description><![CDATA[這就是思科將這些 Pensando DPU 加入更多交換器的原因 思科正在將 AMD 的 Pensando 資料處理單元 (DPU) 塞進更多交換器中，這些 DPU 將專門用於處理安全、儲存和其他任務。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/</guid>
-      <pubDate>Tue, 11 Feb 2025 23:22:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
