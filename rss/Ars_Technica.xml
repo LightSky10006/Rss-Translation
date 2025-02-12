@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 14:12:12 GMT</lastBuildDate>
     <item>
-      <title>如果它移動，它可能活著：在其他星球上尋找生命</title>
+      <title>普丁解僱俄羅斯航太局局長後，謠言四起</title>
+      <link>https://arstechnica.com/space/2025/02/after-putin-sacked-russias-space-chief-the-rumor-mill-is-running-red-hot/</link>
+      <description><![CDATA[烏克蘭戰爭加劇了俄羅斯在太空領域的衰退。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/after-putin-sacked-russias-space-chief-the-rumor-mill-is-running-red-hot/</guid>
+      <pubDate>Wed, 12 Feb 2025 13:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果它移動，它可能還活著：在其他行星上尋找生命</title>
       <link>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</link>
       <description><![CDATA[科學家找到了一種不需要精密設備的尋找外星生命的方法。]]></description>
       <guid>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>新的駭客利用即時注入來破壞 Gemini 的長期記憶</title>
       <link>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</link>
-      <description><![CDATA[還有另一種方法可以將惡意提示注入聊天機器人。]]></description>
+      <description><![CDATA[還有另一種方法可以向聊天機器人注入惡意提示。]]></description>
       <guid>https://arstechnica.com/security/2025/02/new-hack-uses-prompt-injection-to-corrupt-geminis-long-term-memory/</guid>
       <pubDate>Tue, 11 Feb 2025 22:13:42 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[據稱，該工人患了紅眼病，目前正在康復中。]]></description>
       <guid>https://arstechnica.com/health/2025/02/h5n1-bird-flu-nevada-dairy-worker-infected-with-newly-spilled-over-strain/</guid>
       <pubDate>Tue, 11 Feb 2025 18:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>賽車老闆表示，要完善本田 2026 年 F1 動力系統“並非易事”</title>
-      <link>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</link>
-      <description><![CDATA[正確掌握新型 F1 混合動力車是一項挑戰。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</guid>
-      <pubDate>Tue, 11 Feb 2025 17:55:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
