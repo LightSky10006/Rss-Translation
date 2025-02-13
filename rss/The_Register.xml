@@ -4,11 +4,11 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 12:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 12:57:55 GMT</lastBuildDate>
     <item>
       <title>北韓透過 NPM 供應鏈攻擊加密貨幣開發商</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</link>
-      <description><![CDATA[金正恩親信的另一個現金掠奪以及微軟的英特爾更新 北韓改變了策略：其最新的活動針對的是 NPM 註冊表以及 Exodus 和 Atomic 加密貨幣錢包的所有者。]]></description>
+      <description><![CDATA[金正恩的親信又一次撈錢，微軟也提供了最新情報 北韓改變了策略：其最新行動瞄準了 NPM 註冊中心以及 Exodus 和 Atomic 加密貨幣錢包的所有者…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</guid>
       <pubDate>Thu, 13 Feb 2025 12:00:12 GMT</pubDate>
     </item>
@@ -21,20 +21,20 @@
     </item>
     <item>
       <title>LibreOffice 40 仍在運行，現在具有瀏覽器技巧和即時協作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zettaoffice/</link>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</link>
       <description><![CDATA[標準 FOSS 辦公室套件繼續朝著有趣的新方向發展 FOSDEM 2025  LibreOffice 現在是一個龐大而成熟的程式碼區塊，但這並不意味著不可能教它令人印象深刻的新技巧。其中一些可能使它變得比以往任何時候都更加重要。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zettaoffice/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</guid>
       <pubDate>Thu, 13 Feb 2025 10:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>保險巨頭找到關心索賠的代表（這是人工智慧）</title>
+      <title>保險巨頭找到了一個該死的理賠代表（這是人工智慧）</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/allstate_insurance_ai_rep/</link>
       <description><![CDATA[科技向顧客展現出的人性比其員工更多 它不睡覺，不吃飯，也不會厭倦與不稱職的客戶打交道。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/allstate_insurance_ai_rep/</guid>
       <pubDate>Thu, 13 Feb 2025 09:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 之戰最新進展：Ploy 擬註冊託管 WordPress 和託管 WordPress 商標，但失敗了</title>
+      <title>WordPress 戰爭最新消息：託管 WordPress 商標策略，託管 WordPress 脫軌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</link>
       <description><![CDATA[開源社群的反對被稱為「生態系統的偉大勝利」 WordPress 基金會將 HOSTED WORDPRESS 和 MANAGED WORDPRESS 這兩個術語註冊為商標的努力目前已受阻，原因是開源 WordPress 社區的一名反對成員提出了請願書。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</guid>
@@ -64,14 +64,14 @@
     <item>
       <title>聯邦政府要求開發人員停止編寫「不可原諒的」緩衝區溢位漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</link>
-      <description><![CDATA[FBI、CISA 對 Microsoft 和 VMware 的不滿，呼籲程式設計師停止將可避免的缺陷融入東西中 美國當局已將緩衝區溢出漏洞標記為“不可原諒的缺陷”，指出 Microsoft 和 VMware 等產品中存在漏洞，並敦促所有軟體開發人員採用安全設計實踐，以避免產生更多此類漏洞。]]></description>
+      <description><![CDATA[FBI、CISA 譴責微軟和 VMware，呼籲程式設計師停止在產品中植入可避免的缺陷 美國當局將緩衝區溢出漏洞稱為“不可原諒的缺陷”，指出微軟和 VMware 等公司的產品中存在漏洞，並敦促所有軟體開發人員採用安全設計實踐，避免製造更多此類漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</guid>
       <pubDate>Thu, 13 Feb 2025 01:29:47 GMT</pubDate>
     </item>
     <item>
       <title>Sophos 收購 Secureworks 後裁員 6%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</link>
-      <description><![CDATA[消除了一些角色的重複，暗示隨著資訊安全場景的轉變，其他角色不再需要 在完成以 8.59 億美元收購託管檢測和響應提供商 Secureworks 的九天后，Sophos 解雇了大約 6% 的員工。]]></description>
+      <description><![CDATA[刪除一些重複角色，暗示隨著資訊安全場景的變化，其他角色不再需要 在以 8.59 億美元完成對託管檢測和響應提供者 Secureworks 的收購九天后，Sophos 裁員約 6%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</guid>
       <pubDate>Thu, 13 Feb 2025 00:34:57 GMT</pubDate>
     </item>
@@ -85,14 +85,14 @@
     <item>
       <title>IBM 要求員工重返辦公室，以人工智慧取代傳統員工，這對財務和營運團隊造成了衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</link>
-      <description><![CDATA[需求被描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員（消息人士稱）。經營業務部門，以返回辦公室 (RTO) 訂單的形式。]]></description>
+      <description><![CDATA[需求描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員，據消息人士稱。經營業務部門，以返回辦公室（RTO）命令的形式…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</guid>
       <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>川普的網路首席人選在網路方面缺乏經驗</title>
+      <title>川普挑選的網路主管在網路攻擊上經驗不足</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</link>
-      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 問好 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
+      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 打招呼 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</guid>
       <pubDate>Wed, 12 Feb 2025 21:14:13 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>勒索軟體並不總是與金錢有關：政府間諜也有目的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</link>
-      <description><![CDATA[分析師告訴 El Reg，為什麼俄羅斯的運營商不那麼小心，以及為什麼北韓想要金錢和數據 特徵  勒索軟體黑幫和國家支持的網路間諜處於網路犯罪光譜的兩端。]]></description>
+      <description><![CDATA[分析師告訴 El Reg 為什麼俄羅斯業者不那麼小心，以及為什麼北韓想要金錢和數據 功能 勒索軟體歹徒和國家支持的線上間諜處於網路犯罪譜系的兩端。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</guid>
       <pubDate>Wed, 12 Feb 2025 19:30:12 GMT</pubDate>
     </item>
@@ -125,21 +125,21 @@
       <pubDate>Wed, 12 Feb 2025 17:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼我們的世界之前對其進行測量</title>
+      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
-      <description><![CDATA[40 m 還是 90 m？在撞擊的情況下，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少該物體在未來幾年撞擊地球的可能性的不確定性。]]></description>
+      <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
       <pubDate>Wed, 12 Feb 2025 16:15:12 GMT</pubDate>
     </item>
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 載人龍飛船交換，以便國際太空站船員可以提前回家</title>
+      <title>SpaceX 龍飛船更換機組人員，以便國際太空站機組人員可以提前回家</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/spacex_crew_dragons_swapped_for/</link>
       <description><![CDATA[「滯留」的星際客機太空人將於 3 月返航 波音星際客機測試任務的機組人員將提前返回地球，此前管理人員決定將原計劃用於 Axiom-4 飛行的龍飛船與 Crew-10 進行互換。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/spacex_crew_dragons_swapped_for/</guid>
