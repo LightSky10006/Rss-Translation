@@ -3,10 +3,10 @@
   <channel>
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
-    <description>咬住 IT 的手 — 企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 02:15:51 GMT</lastBuildDate>
+    <description>恩將仇報－企業技術新聞與分析</description>
+    <lastBuildDate>Thu, 13 Feb 2025 03:00:02 GMT</lastBuildDate>
     <item>
-      <title>聯準會希望開發人員停止編寫「不可原諒的」緩衝區溢位漏洞</title>
+      <title>聯邦政府要求開發人員停止編寫「不可原諒的」緩衝區溢位漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</link>
       <description><![CDATA[FBI、CISA 譴責微軟和 VMware，呼籲程式設計師停止在產品中植入可避免的缺陷 美國當局將緩衝區溢出漏洞稱為“不可原諒的缺陷”，指出微軟和 VMware 等公司的產品中存在漏洞，並敦促所有軟體開發人員採用安全設計實踐，避免製造更多此類漏洞。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</guid>
@@ -15,14 +15,14 @@
     <item>
       <title>Sophos 收購 Secureworks 後裁員 6%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</link>
-      <description><![CDATA[刪除一些重複角色，暗示隨著資訊安全場景的變化，其他角色不再需要 在以 8.59 億美元完成對託管檢測和響應提供者 Secureworks 的收購九天后，Sophos 裁員約 6%。]]></description>
+      <description><![CDATA[消除了一些角色的重複，暗示隨著資訊安全場景的轉變，其他角色不再需要 在完成以 8.59 億美元收購託管檢測和響應提供商 Secureworks 的九天后，Sophos 解雇了大約 6% 的員工。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</guid>
       <pubDate>Thu, 13 Feb 2025 00:34:57 GMT</pubDate>
     </item>
     <item>
-      <title>拉里·埃里森希望將美國所有數據（包括人們的 DNA）放入大型 Oracle 系統中，供人工智慧研究</title>
+      <title>拉里·埃里森希望將美國所有數據（包括 DNA）放入大型 Oracle 系統中，供 AI 研究</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</link>
-      <description><![CDATA[這位億萬富翁曾表示，即時監控有利於管控我們 甲骨文資料庫巨頭拉里·埃里森 (Larry Ellison) 表示，如果政府希望人工智慧能夠改善公民的服務和安全，那麼他們需要將所有資訊（甚至是公民的基因組數據）放在一個地方……]]></description>
+      <description><![CDATA[來自一位億萬富翁，他說實時監控有利於控制我們 如果政府希望人工智能改善其公民的服務和安全，那麼他們需要將所有信息放在一個地方 - 甚至公民的基因組數據 - 根據甲骨文數據庫大亨拉里·埃里森的說法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</guid>
       <pubDate>Wed, 12 Feb 2025 23:55:39 GMT</pubDate>
     </item>
@@ -34,14 +34,14 @@
       <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
     </item>
     <item>
-      <title>川普的網路首席人選在網路方面缺乏經驗</title>
+      <title>川普挑選的網路主管在網路攻擊上經驗不足</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</link>
       <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 打招呼 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</guid>
       <pubDate>Wed, 12 Feb 2025 21:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>亞利桑那州筆記型電腦農民承認向金正恩提供 1700 萬美元</title>
+      <title>亞利桑那州筆記型電腦農民承認向金正恩輸送 1700 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</link>
       <description><![CDATA[300 多家美國公司、70 多名個人受到詐騙分子的攻擊 亞利桑那州一名婦女在家中創建了一個“筆記本電腦農場”，以幫助假冒 IT 工作者冒充美國員工，她對一項計劃供認不諱，該計劃為她自己和朝鮮帶來了超過 1700 萬美元的收入……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>谷歌稱犯罪頭目和流氓國家的間諜正在聯手</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</link>
-      <description><![CDATA[只有立法者才能阻止他們。另外：軟體需要更加安全，但它對我們有什麼好處？]]></description>
+      <description><![CDATA[只有立法者才能阻止他們。另外：軟體需要更安全，但這對我們有什麼好處呢？]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/</guid>
       <pubDate>Wed, 12 Feb 2025 13:29:34 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>SAP 為何考慮在 2030 年終止舊版 ERP 的維護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</link>
-      <description><![CDATA[分析師稱，用戶對關鍵應用程式的遷移速度緩慢，這意味著當前的截止日期不可行 到 2030 年，目前使用其舊式 ERP 系統的 SAP 客戶中有 40% 仍未遷移到最新軟體，這促使這家商業應用程式巨頭重新考慮其支援截止日期。]]></description>
+      <description><![CDATA[分析師表示，用戶對關鍵應用程式的緩慢遷移意味著當前的截止日期無法實現 到 2030 年，目前使用舊版 ERP 系統的 SAP 客戶中 40% 仍無法遷移到最新軟體，這將促使這家商業應用巨頭重新考慮其支援截止日期。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/</guid>
       <pubDate>Wed, 12 Feb 2025 11:46:13 GMT</pubDate>
     </item>
@@ -132,9 +132,9 @@
       <pubDate>Wed, 12 Feb 2025 09:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>牛津大學研究人員透過分散式閘隱形傳態首次實現量子量子傳輸</title>
+      <title>牛津研究者首次利用分散式閘傳送實現量子</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</link>
-      <description><![CDATA[愛因斯坦的幽靈般遠距離行為剛剛升級 牛津大學的研究人員向大規模分佈式量子計算邁出了重要一步，首次成功演示了兩個模組之間受控量子門的量子隱形傳態。]]></description>
+      <description><![CDATA[愛因斯坦的幽靈般的遠距離作用剛剛升級 牛津大學的研究人員透過示範兩個模組之間受控量子閘的首次成功量子隱形傳態，向大規模分散式量子計算邁出了重要一步。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/</guid>
       <pubDate>Wed, 12 Feb 2025 08:42:10 GMT</pubDate>
     </item>
