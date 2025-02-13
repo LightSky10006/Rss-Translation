@@ -1,149 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>登記冊</title>
+    <title>寄存器</title>
     <link>https://www.theregister.com/</link>
-    <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 20:36:13 GMT</lastBuildDate>
+    <description>咬住它的手 - 企業技術新聞和分析</description>
+    <lastBuildDate>Thu, 13 Feb 2025 22:37:42 GMT</lastBuildDate>
     <item>
-      <title>Reddit 上市首年業績成長，但華爾街仍不滿意</title>
+      <title>在Linux的Rust發生衝突之後，現在Asahi Lead退出了發行版，猛擊了Torvalds的領導</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/ashai_linux_head_quits/</link>
+      <description><![CDATA[我與Torv戰鬥，... Torv贏得了  Asahi Linux的項目負責人Hector Martin週五早些時候辭去了該項目，日本標準時間，援引開發人員的倦怠，苛刻的用戶和Linus Torvalds的處理將銹代碼集成到開源核心中。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/ashai_linux_head_quits/</guid>
+      <pubDate>Thu, 13 Feb 2025 22:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷迪特（Reddit）的第一個公開年份展示了增長，但華爾街仍然不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</link>
-      <description><![CDATA[用戶數量不足，引發投資者拋售 Reddit 作為上市公司的第一年，根據大多數盈利指標，其業績表現穩健，但試著告訴華爾街：儘管年終報告樂觀，但未能實現一項關鍵增長目標導致股價暴跌。]]></description>
+      <description><![CDATA[用戶數量不足，觸發了投資者的拋售  Reddit的第一年作為上市公司，大多數收入指標都取得了可靠的結果，但請嘗試告訴華爾街：對一個關鍵增長目標的缺點儘管年終的報告還很樂觀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</guid>
       <pubDate>Thu, 13 Feb 2025 20:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>中國「鹽颱風」團隊的更多受害者浮出水面：電信公司剛剛透過思科漏洞受到攻擊</title>
+      <title>中國鹽颱風船員的更多受害者出現了：電信公司剛剛通過思科蟲子擊中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/salt_typhoon_pwned_7_more/</link>
-      <description><![CDATA[美國及其他地區的網路遭到北京超級間諜發起的 priv-esc 攻擊的入侵 中國的「鹽颱風」間諜團隊利用思科設備中的漏洞，入侵了至少七台與全球電信提供商和其他組織相關的設備，此外，之前的受害者數量也不少。]]></description>
+      <description><![CDATA[美國及以後的網絡受到北京的超級努力的損害org，除了以前的受害者數量。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/salt_typhoon_pwned_7_more/</guid>
       <pubDate>Thu, 13 Feb 2025 18:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>分析師對即時分散式 Aerospike 上的 ACID 交易表示歡迎</title>
+      <title>分析師歡迎對實時分佈式Aerospike的酸交易</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</link>
-      <description><![CDATA[這家擁有大用戶群的小型資料庫公司因在速度和規模方面增加一致性而贏得眾多粉絲 隨著 8.0 版本的發布，分佈式多模型資料庫 Aerospike 添加了 ACID 事務以支持大規模在線事務處理 (OLTP) 應用程序，該公司聲稱此舉是行業首創。 ]]></description>
+      <description><![CDATA[與大用戶獲得粉絲的小數據庫公司，因為它在8.0版本中增加了速度和規模的一致性 ，分佈式多模型數據庫Aerospike增加了酸性交易，以支持大規模的在線交易處理（OLTP）在移動中的應用程序聲稱是一個行業。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</guid>
       <pubDate>Thu, 13 Feb 2025 18:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>美國議員敦促川普政府反對英國對蘋果 iCloud 後門的命令</title>
+      <title>美國立法者按照特朗普管理員反對英國的Apple iCloud Backdoor命令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/us_demand_uk_apple_backdoor_close/</link>
-      <description><![CDATA[參議員、眾議員告訴國家情報總監，如果英國不讓步，就威脅資訊安全協議 美國立法者希望新任國家情報總監塔爾西·加巴德 (Tulsi Gabbard) 支持她關於後門問題的強硬言論。他們敦促她反對英國政府下令蘋果削弱 iCloud 安全性，以方便政府訪問…]]></description>
+      <description><![CDATA[參議員，國會議員告訴DNI是否威脅Infosec協議，如果Blighty不會退縮 美國立法者希望新確認的國家情報局局長Tulsi Gabbard來支持她對後門的艱難演講。他們敦促她推遲英國政府報告的命令，要求蘋果削弱iCloud安全以供政府訪問。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/us_demand_uk_apple_backdoor_close/</guid>
       <pubDate>Thu, 13 Feb 2025 16:58:04 GMT</pubDate>
     </item>
     <item>
-      <title>西部數據被要求在業務拆分前支付 5 億美元專利賠償金</title>
+      <title>WD告訴WD在BIZ分割之前支付50億美元的專利損失</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/western_digital_told_to_cough/</link>
-      <description><![CDATA[隨著驅動器製造商即將成為兩家上市公司，法官表示他對重組有「擔憂」 西部數據只有不到一周的時間來提交保證金或支付其在專利侵權案中欠下的 5.53 億美元，此前一名聯邦法官於週二拒絕了該公司在試圖推翻裁決期間的暫緩執行令。]]></description>
+      <description><![CDATA[隨著Drivemaker準備成為兩家公開交易的公司，法官說，他對重組的“擔憂”   Western Digital不到一周就可以提出保證金或在其欠其欠的5.53億美元的債券中。專利侵權案件，在一名聯邦法官週二否認該公司在試圖推翻該裁決的同時否認該公司的處決。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/western_digital_told_to_cough/</guid>
       <pubDate>Thu, 13 Feb 2025 16:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>SAP 如果不擴展對傳統 ERP 的支持，將陷入收入陷阱</title>
+      <title>SAP陷入收入陷阱，除非它擴展了傳統ERP支持</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sap_erp_revenue_trap/</link>
-      <description><![CDATA[儘管供應商渴望訂閱交易，但使用者仍可爭取永久授權 在規模龐大的全球 ERP 市場中，SAP 最大的威脅不是 Oracle 這樣的其他軟體巨頭。它是由其他供應商支援的自己的傳統軟體。]]></description>
+      <description><![CDATA[儘管供應商渴望訂閱交易 在較大的全球ERP市場中，但用戶仍然可以推動永久許可，但SAP的最大威脅不是其他像Oracle這樣的軟件巨頭。它是其自己的舊軟件，由其他供應商支持。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sap_erp_revenue_trap/</guid>
       <pubDate>Thu, 13 Feb 2025 14:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>多元、公平和包容性並不是幻覺，但很快就會變成幻覺</title>
+      <title>多樣性，公平和包容不是幻想，但很快可能是</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/diversity_equity_inclusion_tech/</link>
-      <description><![CDATA[全球科技公司在大西洋兩岸的政策差異中苦苦掙扎 Google可能是最新一家縮減多元化、公平和包容性計劃的大型科技公司——但 Arm、HPE 和 Apple 的招聘和培訓政策卻與當前的趨勢背道而馳。]]></description>
+      <description><![CDATA[全球科技軍團在大西洋兩側的政策差異  Google可能是最新的大型技術公司，以減少多樣性，公平和包容性計劃，但是ARM，HPE和Apple是與當前的招聘和培訓政策中的旅行方向違背。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/diversity_equity_inclusion_tech/</guid>
       <pubDate>Thu, 13 Feb 2025 13:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>北韓透過 NPM 供應鏈攻擊加密貨幣開發商</title>
+      <title>朝鮮通過NPM供應鏈攻擊目標加密開發人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</link>
-      <description><![CDATA[金正恩的親信又一次撈錢，微軟也提供了最新情報 北韓改變了策略：其最新行動瞄準了 NPM 註冊中心以及 Exodus 和 Atomic 加密貨幣錢包的所有者…]]></description>
+      <description><![CDATA[又一次獲得金正恩的Coconies的現金搶購，以及Microsoft的英特爾更新 朝鮮已更改了大量工作：其最新的運動針對NPM註冊表和出埃及記和原子加密貨幣錢包的所有者。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</guid>
       <pubDate>Thu, 13 Feb 2025 12:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>本科生和同事意外地粉碎了 40 年的哈希表福音</title>
+      <title>本科和同事意外將40年的哈希餐桌福音切碎</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/</link>
-      <description><![CDATA[學生表明「統一哈希是最佳的」只是一廂情願的想法 現代技術所依賴的數十年曆史的假設很少被推翻，但最近一篇基於一名本科生和他的兩位合著者的工作的論文卻做到了這一點。]]></description>
+      <description><![CDATA[學生表明“統一的哈希是最佳的”只是一廂情願的思考   經常推翻了幾十年曆史的假設，而是基於本科生的工作的最新論文他的兩個合著者就是這樣做的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/</guid>
       <pubDate>Thu, 13 Feb 2025 11:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>LibreOffice 40 仍在運行，現在具有瀏覽器技巧和即時協作</title>
+      <title>Libreoffice仍在40歲，現在使用瀏覽器技巧和實時合作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</link>
-      <description><![CDATA[標準 FOSS 辦公室套件繼續朝著有趣的新方向發展 FOSDEM 2025  LibreOffice 現在是一個龐大而成熟的程式碼區塊，但這並不意味著不可能教它令人印象深刻的新技巧。其中一些可能使它變得比以往任何時候都更加重要。]]></description>
+      <description><![CDATA[標準FOSS Office Suite繼續以有趣的新方向發展   fosdem 2025  libreoffice現在是一個很大，成熟的代碼塊教會它令人印象深刻的新技巧。他們中的一些人可能比以往任何時候都更重要。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</guid>
       <pubDate>Thu, 13 Feb 2025 10:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>保險巨頭找到了一個該死的理賠代表（這是人工智慧）</title>
+      <title>保險巨頭髮現該死的索賠代表（這是AI）</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/allstate_insurance_ai_rep/</link>
-      <description><![CDATA[科技向顧客展現出的人性比其員工更多 它不睡覺，不吃飯，也不會厭倦與不稱職的客戶打交道。]]></description>
+      <description><![CDATA[技術向客戶展示的人類比其人類員工更多的人 它不睡覺，不吃東西，並且不會厭倦與無能的客戶打交道。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/allstate_insurance_ai_rep/</guid>
       <pubDate>Thu, 13 Feb 2025 09:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 之戰最新進展：Ploy 擬註冊託管 WordPress 和託管 WordPress 商標，但失敗了</title>
+      <title>WordPress戰爭最新：商標託管託管託管WordPress，託管WordPress脫軌</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</link>
-      <description><![CDATA[開源社群的反對被譽為「生態系統的偉大勝利」 WordPress 基金會為 HOSTED WORDPRESS 和 MANAGED WORDPRESS 等術語申請商標的努力目前因開源 WordPress 社區持反對意見的成員提出請願而受挫。]]></description>
+      <description><![CDATA[開源社區的反對意見為“生態系統的巨大勝利”   WordPress基金會為託管WordPress和託管WordPress的術語提供商標的努力已被阻止開源WordPress社區的成員。…  &lt;！ - ＃include virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</guid>
       <pubDate>Thu, 13 Feb 2025 08:32:06 GMT</pubDate>
     </item>
     <item>
-      <title>帕洛阿爾托防火牆神秘重啟？你並不孤單</title>
+      <title>神秘的帕洛阿爾托防火牆重新啟動？你並不孤單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/palo_alto_firewall/</link>
-      <description><![CDATA[限量版修補程序將在月底前廣泛發布 Palo Alto Networks 防火牆的管理員抱怨設備意外倒塌，雖然已經準備好了修復程序，但尚未普遍可用。]]></description>
+      <description><![CDATA[限量版Hotfix在月底之前獲得更廣泛的發布  Palo Alto Networks的防火牆的管理員抱怨設備意外地掉落了，雖然已準備好蜜蜂，但尚未使用它。…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/palo_alto_firewall/</guid>
       <pubDate>Thu, 13 Feb 2025 07:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>思科表示，如果貿易戰爆發，它已經做好了保護自己和客戶的準備</title>
+      <title>思科說，如果貿易戰爆發，它已經挖掘出來保護自己和客戶</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/cisco_q2_fy25/</link>
-      <description><![CDATA[也認為它可以避開 DOGE 思科已經為貿易戰做好了準備，並認為如果有必要，它可以透過重新配置其供應鏈來渡過難關。]]></description>
+      <description><![CDATA[還認為，它可以躲避杜格 思科為貿易戰做準備，並認為如果有必要，它可以通過重新配置其供應鏈來趕出去。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/cisco_q2_fy25/</guid>
       <pubDate>Thu, 13 Feb 2025 06:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>Have I Been Pwned 可能會禁止經銷商購買訂閱，理由是其「行為惡劣」且支援請求繁瑣</title>
+      <title>我是否受到要求禁止轉售商購買潛艇，並以“ sh*tty行為”和繁重的支持請求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hibp_reseller_ban/</link>
-      <description><![CDATA[「除了大幅加價，客戶實際上還能從經銷商那裡得到什麼？」Tiry Hunt 問  資料外洩查詢網站 Have I Been Pwned 的所有人 Troy Hunt 可能會禁止經銷商使用該服務。]]></description>
+      <description><![CDATA[“除了大量價格標價以外，其他客戶實際上是從其他經銷商那裡得到的？” 。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hibp_reseller_ban/</guid>
       <pubDate>Thu, 13 Feb 2025 04:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>聯邦政府要求開發人員停止編寫「不可原諒的」緩衝區溢位漏洞</title>
+      <title>美聯儲希望開發人員停止編碼“不可原諒的”緩衝區溢出漏洞</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</link>
-      <description><![CDATA[FBI、CISA 譴責微軟和 VMware，呼籲程式設計師停止在產品中植入可避免的缺陷 美國當局將緩衝區溢出漏洞稱為“不可原諒的缺陷”，指出微軟和 VMware 等公司的產品中存在漏洞，並敦促所有軟體開發人員採用安全設計實踐，避免製造更多此類漏洞。]]></description>
+      <description><![CDATA[ fbi，Microsoft的CISA Harrumph和VMware呼籲編碼人員退出可避免的烘焙缺陷 美國當局已將緩衝區溢出漏洞標記為“不可疏鬆的缺陷”，指出了孔在產品中的存在來自Microsoft和VMware之類的產品，並敦促所有軟件開發人員採用安全劃分的實踐，以避免創建更多。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/</guid>
       <pubDate>Thu, 13 Feb 2025 01:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>Sophos 收購 Secureworks 後裁員 6%</title>
+      <title>Sophos吞下了SecureWorks後，佔6％的員工</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</link>
-      <description><![CDATA[刪除一些重複角色，暗示隨著資訊安全場景的變化，其他角色不再需要 在以 8.59 億美元完成對託管檢測和響應提供者 Secureworks 的收購九天后，Sophos 裁員約 6%。]]></description>
+      <description><![CDATA[ de-dup扮演了一些角色，提示其他角色不需要，因為Infosec場景在完成了8.59億美元的託管檢測和響應提供商SecureWorks之後，Sophos降低了大約6％ …  &lt;！ - ＃include virtal =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</guid>
       <pubDate>Thu, 13 Feb 2025 00:34:57 GMT</pubDate>
     </item>
     <item>
-      <title>拉里·埃里森希望將美國所有數據（包括 DNA）放入大型 Oracle 系統中，供 AI 研究</title>
+      <title>拉里·埃里森（Larry Ellison）希望將所有美國的數據（包括DNA）放入一個大型甲骨文系統中，以供人工智能學習</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</link>
-      <description><![CDATA[這位億萬富翁曾表示，即時監控有利於管控我們 甲骨文資料庫巨頭拉里·埃里森 (Larry Ellison) 表示，如果政府希望人工智慧能夠改善公民的服務和安全，那麼他們需要將所有資訊（甚至是公民的基因組數據）放在一個地方……]]></description>
+      <description><![CDATA[來自億萬富翁的說實時監視對讓我們進行檢查 如果政府希望AI改善公民的服務和安全性，那麼他們需要將所有信息放在一個地方- 甚至公民的基因組數據- 根據Oracle數據庫大亨Larry Ellison的說法。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</guid>
       <pubDate>Wed, 12 Feb 2025 23:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 要求員工重返辦公室，以人工智慧取代傳統員工，這對財務和營運團隊造成了衝擊</title>
+      <title>IBM返回訂單登陸金融，OPS團隊在努力轉儲AI的傾銷員工中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</link>
-      <description><![CDATA[需求描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員，據消息人士稱。經營業務部門，以返回辦公室（RTO）命令的形式…]]></description>
+      <description><![CDATA[的需求被描述為“軟裁員”   ibm已經開始了資料來源所描述的融資＆amp;運營業務部門，以返程（RTO）訂單的形式。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</guid>
       <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>川普挑選的網路主管在網路攻擊上經驗不足</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</link>
-      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 打招呼 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</guid>
-      <pubDate>Wed, 12 Feb 2025 21:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
