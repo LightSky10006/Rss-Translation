@@ -4,7 +4,14 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 17:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 18:17:28 GMT</lastBuildDate>
+    <item>
+      <title>分析師對即時分散式 Aerospike 上的 ACID 交易表示歡迎</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</link>
+      <description><![CDATA[這家擁有大用戶群的小型資料庫公司因在速度和規模方面增加一致性而贏得眾多粉絲 隨著 8.0 版本的發布，分佈式多模型資料庫 Aerospike 添加了 ACID 事務以支持大規模在線事務處理 (OLTP) 應用程序，該公司聲稱此舉是行業首創。 ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</guid>
+      <pubDate>Thu, 13 Feb 2025 18:06:07 GMT</pubDate>
+    </item>
     <item>
       <title>美國議員敦促川普政府反對英國對蘋果 iCloud 後門的命令</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/us_demand_uk_apple_backdoor_close/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>LibreOffice 40 歲了，依然活躍，現在有了瀏覽器技巧和即時協作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</link>
-      <description><![CDATA[標準 FOSS 辦公室套件繼續朝著有趣的新方向發展 FOSDEM 2025  LibreOffice 現在是一個龐大而成熟的程式碼區塊，但這並不意味著不可能教它令人印象深刻的新技巧。其中一些可能使它變得比以往任何時候都更加重要。]]></description>
+      <description><![CDATA[標準 FOSS 辦公室套件繼續朝著有趣的新方向發展 FOSDEM 2025  LibreOffice 現在是一個龐大、成熟的程式碼區塊，但這並不意味著不可能教它令人印象深刻的新技巧。其中一些可能使它比以往任何時候都更加重要。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</guid>
       <pubDate>Thu, 13 Feb 2025 10:15:09 GMT</pubDate>
     </item>
@@ -64,14 +71,14 @@
     <item>
       <title>WordPress 之戰最新進展：Ploy 擬註冊託管 WordPress 和託管 WordPress 商標，但失敗了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</link>
-      <description><![CDATA[開源社群的反對被稱為「生態系統的偉大勝利」 WordPress 基金會將 HOSTED WORDPRESS 和 MANAGED WORDPRESS 這兩個術語註冊為商標的努力目前已受阻，原因是開源 WordPress 社區的一名反對成員提出了請願書。]]></description>
+      <description><![CDATA[開源社群的反對被譽為「生態系統的偉大勝利」 WordPress 基金會為 HOSTED WORDPRESS 和 MANAGED WORDPRESS 等術語申請商標的努力目前因開源 WordPress 社區持反對意見的成員提出請願而受挫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/</guid>
       <pubDate>Thu, 13 Feb 2025 08:32:06 GMT</pubDate>
     </item>
     <item>
       <title>帕洛阿爾托防火牆神秘重啟？你並不孤單</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/palo_alto_firewall/</link>
-      <description><![CDATA[限量版修補程序將在月底前廣泛發布 Palo Alto Networks 防火牆的管理員抱怨設備意外倒塌，雖然已經準備好了修復程序，但尚未普遍可用。]]></description>
+      <description><![CDATA[限量版修補程式將在月底之前得到更廣泛的發布 Palo Alto Networks 防火牆的管理員抱怨設備意外崩潰，雖然修復程序已準備就緒，但尚未普遍可用。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/palo_alto_firewall/</guid>
       <pubDate>Thu, 13 Feb 2025 07:21:10 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 13 Feb 2025 06:27:13 GMT</pubDate>
     </item>
     <item>
-      <title>Have I Been Pwned 可能會禁止經銷商購買訂閱，理由是其「行為惡劣」且支援請求繁瑣</title>
+      <title>我是否被 Pwned 可能會禁止經銷商購買潛艇，理由是“糟糕的行為”和繁重的支持請求</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hibp_reseller_ban/</link>
       <description><![CDATA[「除了大幅加價，客戶實際上還能從經銷商那裡得到什麼？」Tiry Hunt 問  資料外洩查詢網站 Have I Been Pwned 的所有人 Troy Hunt 可能會禁止經銷商使用該服務。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hibp_reseller_ban/</guid>
@@ -97,7 +104,7 @@
       <pubDate>Thu, 13 Feb 2025 01:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>Sophos 吞併 Secureworks 後裁員 6%</title>
+      <title>Sophos 收購 Secureworks 後裁員 6%</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</link>
       <description><![CDATA[刪除一些重複角色，暗示隨著資訊安全場景的變化，其他角色不再需要 在以 8.59 億美元完成對託管檢測和響應提供者 Secureworks 的收購九天后，Sophos 裁員約 6%。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/</guid>
@@ -111,9 +118,9 @@
       <pubDate>Wed, 12 Feb 2025 23:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 重返辦公室下令打擊財務和營運團隊，推動員工轉投人工智慧</title>
+      <title>IBM 要求員工重返辦公室，以人工智慧取代傳統員工，這對財務和營運團隊造成了衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</link>
-      <description><![CDATA[需求被描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員（消息人士稱）。經營業務部門，以返回辦公室 (RTO) 訂單的形式。]]></description>
+      <description><![CDATA[需求描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員，據消息人士稱。經營業務部門，以返回辦公室（RTO）命令的形式…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</guid>
       <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>勒索軟體並不總是與金錢有關：政府間諜也有目的</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</link>
-      <description><![CDATA[分析師告訴 El Reg，為什麼俄羅斯的運營商不那麼小心，以及為什麼北韓想要金錢和數據 特徵  勒索軟體黑幫和國家支持的網路間諜處於網路犯罪光譜的兩端。]]></description>
+      <description><![CDATA[分析師告訴 El Reg 為什麼俄羅斯業者不那麼小心，以及為什麼北韓想要金錢和數據 功能 勒索軟體歹徒和國家支持的線上間諜處於網路犯罪譜系的兩端。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</guid>
       <pubDate>Wed, 12 Feb 2025 19:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>DARPA 跳過實驗室，將前往軌道測試太空製造技術</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/</link>
-      <description><![CDATA[計畫負責人表示，先前的 NOM4D 實驗進展順利，現在是時候付諸實踐了 經過數年在實驗室對軌道製造技術理念的測試，美國國防部的研究機構決定進入軌道進行最新一輪實驗。 …]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/</guid>
-      <pubDate>Wed, 12 Feb 2025 18:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
