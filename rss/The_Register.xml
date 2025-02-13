@@ -4,9 +4,16 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 15:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 16:16:31 GMT</lastBuildDate>
     <item>
-      <title>SAP 如果不擴展對原有 ERP 的支持，將陷入收入陷阱</title>
+      <title>西部數據被要求在公司分拆前支付 5 億美元專利賠償金</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/western_digital_told_to_cough/</link>
+      <description><![CDATA[隨著驅動器製造商即將成為兩家上市公司，法官表示他對重組有「擔憂」 西部數據只有不到一周的時間來提交保證金或支付其在專利侵權案中欠下的 5.53 億美元，此前一名聯邦法官於週二拒絕了該公司在試圖推翻裁決期間的暫緩執行令。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/western_digital_told_to_cough/</guid>
+      <pubDate>Thu, 13 Feb 2025 16:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>SAP 如果不擴展對傳統 ERP 的支持，將陷入收入陷阱</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sap_erp_revenue_trap/</link>
       <description><![CDATA[儘管供應商渴望訂閱交易，但使用者仍可爭取永久授權 在規模龐大的全球 ERP 市場中，SAP 最大的威脅不是 Oracle 這樣的其他軟體巨頭。它是由其他供應商支援的自己的傳統軟體。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/sap_erp_revenue_trap/</guid>
@@ -97,16 +104,16 @@
       <pubDate>Wed, 12 Feb 2025 23:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>IBM 重返辦公室下令打擊財務和營運團隊，推動員工轉投人工智慧</title>
+      <title>IBM 要求員工重返辦公室，以人工智慧取代傳統員工，這對財務和營運團隊造成了衝擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</link>
-      <description><![CDATA[需求被描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員（消息人士稱）。經營業務部門，以返回辦公室 (RTO) 訂單的形式。]]></description>
+      <description><![CDATA[需求描述為「軟裁員」 IBM 已開始對其財務和業務部門進行軟裁員，據消息人士稱。經營業務部門，以返回辦公室（RTO）命令的形式…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/</guid>
       <pubDate>Wed, 12 Feb 2025 22:24:58 GMT</pubDate>
     </item>
     <item>
       <title>川普挑選的網路主管在網路攻擊上經驗不足</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</link>
-      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 問好 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
+      <description><![CDATA[共和黨律師 Sean Cairncross 將會邊工作邊學習，我們也會向新任情報局局長 Tulsi Gabbard 打招呼 據報道，川普總統已經選定了國家網路總監的候選人——另一位沒有該職位專業經驗的頂級技術任命者……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/</guid>
       <pubDate>Wed, 12 Feb 2025 21:14:13 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Wed, 12 Feb 2025 20:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>勒索軟體並不總是與金錢有關：政府間諜也有目的</title>
+      <title>勒索軟體並不總是與金錢有關：政府間諜也有目標</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</link>
       <description><![CDATA[分析師告訴 El Reg，為什麼俄羅斯的運營商不那麼小心，以及為什麼北韓想要金錢和數據 特徵  勒索軟體黑幫和國家支持的網路間諜處於網路犯罪光譜的兩端。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[「近乎全球性」的初始訪問活動自 2021 年以來一直活躍 據微軟稱，去年俄羅斯 Sandworm 的一個初始訪問子組潛入了美國、英國、加拿大和澳大利亞的網絡，竊取了“有限數量的組織”的憑證和數據。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/russias_sandworm_caught_stealing_credentials/</guid>
       <pubDate>Wed, 12 Feb 2025 17:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
-      <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
-      <pubDate>Wed, 12 Feb 2025 16:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
