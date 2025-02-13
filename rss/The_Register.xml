@@ -4,7 +4,7 @@
     <title>登記冊</title>
     <link>https://www.theregister.com/</link>
     <description>恩將仇報－企業技術新聞與分析</description>
-    <lastBuildDate>Thu, 13 Feb 2025 13:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 14:12:52 GMT</lastBuildDate>
     <item>
       <title>多元、公平和包容性並不是幻覺，但很快就會變成幻覺</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/diversity_equity_inclusion_tech/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 13 Feb 2025 13:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>北韓透過 NPM 供應鏈攻擊加密貨幣開發商</title>
+      <title>北韓透過 NPM 供應鏈攻擊瞄準加密貨幣開發商</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</link>
       <description><![CDATA[金正恩的親信又一次撈錢，微軟也提供了最新情報 北韓改變了策略：其最新行動瞄準了 NPM 註冊中心以及 Exodus 和 Atomic 加密貨幣錢包的所有者…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</guid>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 13 Feb 2025 11:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>LibreOffice 40 仍在運行，現在具有瀏覽器技巧和即時協作</title>
+      <title>LibreOffice 已經 40 歲了，仍然很活躍，現在有了瀏覽器技巧和即時協作</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</link>
       <description><![CDATA[標準 FOSS 辦公室套件繼續朝著有趣的新方向發展 FOSDEM 2025  LibreOffice 現在是一個龐大而成熟的程式碼區塊，但這並不意味著不可能教它令人印象深刻的新技巧。其中一些可能使它變得比以往任何時候都更加重要。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>拉里·埃里森希望將美國所有數據（包括 DNA）放入大型 Oracle 系統中，供 AI 研究</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</link>
-      <description><![CDATA[這位億萬富翁曾表示，即時監控有利於管控我們 甲骨文資料庫巨頭拉里·埃里森 (Larry Ellison) 表示，如果政府希望人工智慧能夠改善公民的服務和安全，那麼他們需要將所有資訊（甚至是公民的基因組數據）放在一個地方……]]></description>
+      <description><![CDATA[來自一位億萬富翁，他說實時監控有利於控制我們 如果政府希望人工智能改善其公民的服務和安全，那麼他們需要將所有信息放在一個地方 - 甚至公民的基因組數據 - 根據甲骨文數據庫大亨拉里·埃里森的說法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/</guid>
       <pubDate>Wed, 12 Feb 2025 23:55:39 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>亞利桑那州筆記型電腦農民承認向金正恩提供 1700 萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</link>
-      <description><![CDATA[300 多家美國公司、70 多名個人受到欺詐者的打擊 一名亞利桑那州婦女在家中創建了一個“筆記本電腦農場”，以幫助假冒 IT 員工冒充美國員工，她在一項為自己和朝鮮創造了超過 1700 萬美元的計劃中認罪。]]></description>
+      <description><![CDATA[300 多家美國公司、70 多名個人受到詐騙分子的攻擊 亞利桑那州一名婦女在家中創建了一個“筆記本電腦農場”，以幫助假冒 IT 工作者冒充美國員工，她對一項計劃供認不諱，該計劃為她自己和朝鮮帶來了超過 1700 萬美元的收入……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/</guid>
       <pubDate>Wed, 12 Feb 2025 20:30:15 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>詹姆斯韋伯太空望遠鏡將在小行星 2024 YR4 震撼地球之前對其進行測量</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</link>
-      <description><![CDATA[40 公尺還是 90 公尺？在發生撞擊時，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少未來幾年該物體撞擊地球的可能性的不確定性。]]></description>
+      <description><![CDATA[40 m 還是 90 m？在撞擊的情況下，差異很重要 詹姆斯韋伯太空望遠鏡 (JWST) 將瞄準小行星 2024 YR4，以減少該物體在未來幾年撞擊地球的可能性的不確定性。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/</guid>
       <pubDate>Wed, 12 Feb 2025 16:15:12 GMT</pubDate>
     </item>
     <item>
       <title>運行很熱嗎？預計 2025 年伺服器出貨量將下降</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</link>
-      <description><![CDATA[供應鏈和監管障礙可能會縮小數字 美國的技術制裁和供應鏈對 Nvidia 最新設備機架的準備情況可能會導致 2025 年人工智慧伺服器銷售降溫。]]></description>
+      <description><![CDATA[供應鏈和監管障礙可能會導致數位縮水 美國的技術制裁和 Nvidia 最新設備機架的供應鏈準備情況可能會導致 AI 伺服器銷售在 2025 年降溫。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/</guid>
       <pubDate>Wed, 12 Feb 2025 15:27:27 GMT</pubDate>
     </item>
