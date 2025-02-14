@@ -4,9 +4,16 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 14 Feb 2025 13:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 15:13:31 GMT</lastBuildDate>
     <item>
-      <title>火箭報告：藍色的藍色心情；斯托克空間在弓上發射了一小段</title>
+      <title>武器開始在內部製作服務器CPU</title>
+      <link>https://arstechnica.com/gadgets/2025/02/arm-to-start-making-server-cpus-in-house/</link>
+      <description><![CDATA[Meta將是ARM的第一批客戶之一。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/arm-to-start-making-server-cpus-in-house/</guid>
+      <pubDate>Fri, 14 Feb 2025 15:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>火箭報告：藍色的藍色心情；斯托克空間在弓上開槍</title>
       <link>https://arstechnica.com/space/2025/02/rocket-report-a-blue-mood-at-blue-stoke-space-fires-a-short-over-the-bow/</link>
       <description><![CDATA[“快速周轉不僅是一個目標，而且還融入了設計中。”]]></description>
       <guid>https://arstechnica.com/space/2025/02/rocket-report-a-blue-mood-at-blue-stoke-space-fires-a-short-over-the-bow/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[在參議院聽證會中，肯尼迪繼續表達反疫苗的觀點。]]></description>
       <guid>https://arstechnica.com/health/2025/02/a-sicker-america-senate-confirms-robert-f-kennedy-jr-as-health-secretary/</guid>
       <pubDate>Thu, 13 Feb 2025 16:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman為Openai期待已久的GPT-5模型提供了路線圖</title>
-      <link>https://arstechnica.com/ai/2025/02/sam-altman-lays-out-roadmap-for-openais-long-awaited-gpt-5-model/</link>
-      <description><![CDATA[GPT-4.5將在“週”中到達，然後GPT-5將融合常規LLM和推理模型。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/sam-altman-lays-out-roadmap-for-openais-long-awaited-gpt-5-model/</guid>
-      <pubDate>Thu, 13 Feb 2025 16:08:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
