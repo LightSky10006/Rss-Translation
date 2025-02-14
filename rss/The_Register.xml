@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Feb 2025 12:56:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 13:20:12 GMT</lastBuildDate>
+    <item>
+      <title>國際空間站的世界自拍攤位15歲</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/</link>
+      <description><![CDATA[沖天爐繼續提供宇宙中的最佳景色 自從最終的自拍攤位（Cupota）與國際空間站（ISS）相連已有15年。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/</guid>
+      <pubDate>Fri, 14 Feb 2025 13:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>AWS撤離了歐洲雲人員Cispe的董事會席位</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/aws_vacates_board_seat_at_cispe/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>雷迪特（Reddit）的第一個公開年份展示了增長，但華爾街仍然不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</link>
-      <description><![CDATA[用戶數量不足，觸發了投資者的拋售  Reddit作為上市公司的第一年通過大多數收入指標提供了可靠的結果，但請嘗試告訴華爾街：對一個關鍵增長目標的缺點儘管年終的報告還很樂觀。]]></description>
+      <description><![CDATA[用戶數量不足，觸發了投資者的拋售  Reddit的第一年作為上市公司，大多數收入指標都取得了可靠的結果，但請嘗試告訴華爾街：對一個關鍵增長目標的缺點儘管年終的報告還很樂觀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</guid>
       <pubDate>Thu, 13 Feb 2025 20:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[學生表明“統一的哈希是最佳的”只是一廂情願的思考   經常推翻了幾十年曆史的假設，而是基於本科生的工作的最新論文他的兩個合著者就是這樣做的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/</guid>
       <pubDate>Thu, 13 Feb 2025 11:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Libreoffice仍在40歲，現在使用瀏覽器技巧和實時合作</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</link>
-      <description><![CDATA[標準FOSS Office Suite繼續以有趣的新方向發展   fosdem 2025  libreoffice現在是一個很大，成熟的代碼塊教會它令人印象深刻的新技巧。他們中的一些人可能比以往任何時候都更重要。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/</guid>
-      <pubDate>Thu, 13 Feb 2025 10:15:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
