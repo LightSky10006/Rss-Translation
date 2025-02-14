@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Feb 2025 13:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 14:37:37 GMT</lastBuildDate>
+    <item>
+      <title>關鍵的Postgresql錯誤與對美國國庫的零日攻擊有關</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</link>
+      <description><![CDATA[高複雜性錯誤是由InfoSeccer發掘出的，因為Rapid7探針進一步利用了 在PostgreSQL Interactive工具中，高層SQL注入錯誤與零日一起使用，用於零日研究人員說。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</guid>
+      <pubDate>Fri, 14 Feb 2025 14:19:59 GMT</pubDate>
+    </item>
     <item>
       <title>國際空間站的世界自拍攤位15歲</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[又一次獲得金正恩的Coconies的現金搶購，以及Microsoft的英特爾更新 朝鮮已更改了大量工作：其最新的運動針對NPM註冊表和出埃及記和原子加密貨幣錢包的所有者。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</guid>
       <pubDate>Thu, 13 Feb 2025 12:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>本科和同事意外將40年的哈希餐桌福音切碎</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/</link>
-      <description><![CDATA[學生表明“統一的哈希是最佳的”只是一廂情願的思考   經常推翻了幾十年曆史的假設，而是基於本科生的工作的最新論文他的兩個合著者就是這樣做的。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/</guid>
-      <pubDate>Thu, 13 Feb 2025 11:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
