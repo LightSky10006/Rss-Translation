@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Feb 2025 14:37:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 15:37:01 GMT</lastBuildDate>
+    <item>
+      <title>為什麼年輕的編碼人員努力打破絨毛灰熊的障礙？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/youngsters_in_foss/</link>
+      <description><![CDATA[障礙比您想像的要高   fosdem 2025 參與開源項目是建立發展，文檔，國際化等的經驗的好方法 - 但這並不像應有的那麼容易。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/youngsters_in_foss/</guid>
+      <pubDate>Fri, 14 Feb 2025 15:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>關鍵的Postgresql錯誤與對美國國庫的零日攻擊有關</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>2指控與警察溢出的數據有關的新的IRA恐怖主義活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/two_charged_psni_data/</link>
-      <description><![CDATA[官員說，錯誤地發表了警察的詳細信息，分享了“相當多的次數”  兩名涉嫌新的IRA成員於週二被捕，並根據2000年的《恐怖主義法》被指控，他們被發現擁有包含電子表格的電子表格北愛爾蘭警察局（PSNI）錯誤地在線發布的員工的詳細信息。…]]></description>
+      <description><![CDATA[官員說，錯誤地發表了警察的詳細信息，分享了“相當多的次數”  兩名涉嫌新的IRA成員於週二被捕，並在2000年被發現有包含電子表格的《恐怖主義法》 2000年被指控北愛爾蘭警察局（PSNI）錯誤地在線發布的員工的詳細信息。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/two_charged_psni_data/</guid>
       <pubDate>Fri, 14 Feb 2025 12:12:16 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>雷迪特（Reddit）的第一個公開年份展示了增長，但華爾街仍然不高興</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</link>
-      <description><![CDATA[用戶數量不足，觸發了投資者的拋售  Reddit的第一年作為上市公司，大多數收入指標都取得了可靠的結果，但請嘗試告訴華爾街：對一個關鍵增長目標的缺點儘管年終的報告還很樂觀。]]></description>
+      <description><![CDATA[用戶數量不足，觸發了投資者的拋售  Reddit作為上市公司的第一年通過大多數收入指標提供了可靠的結果，但請嘗試告訴華爾街：對一個關鍵增長目標的缺點儘管年終的報告還很樂觀。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/</guid>
       <pubDate>Thu, 13 Feb 2025 20:30:11 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[全球科技軍團在大西洋兩側的政策差異  Google可能是最新的大型技術公司，以減少多樣性，公平和包容性計劃，但是ARM，HPE和Apple是與當前的招聘和培訓政策中的旅行方向違背。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/diversity_equity_inclusion_tech/</guid>
       <pubDate>Thu, 13 Feb 2025 13:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝鮮通過NPM供應鏈攻擊目標加密開發人員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</link>
-      <description><![CDATA[又一次獲得金正恩的Coconies的現金搶購，以及Microsoft的英特爾更新 朝鮮已更改了大量工作：其最新的運動針對NPM註冊表和出埃及記和原子加密貨幣錢包的所有者。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/</guid>
-      <pubDate>Thu, 13 Feb 2025 12:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
