@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Feb 2025 23:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 00:57:53 GMT</lastBuildDate>
+    <item>
+      <title>如果您害怕Microsoft團隊邀請，請等到事實證明是俄羅斯的網絡釣魚</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/15/russia_spies_spoofing_teams/</link>
+      <description><![CDATA[玫瑰並不便宜，紫羅蘭很親愛關鍵政府和業務部門的受害者移交其身份驗證令牌，授予對電子郵件，雲數據和其他敏感信息的訪問。 &#39; - &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/15/russia_spies_spoofing_teams/</guid>
+      <pubDate>Sat, 15 Feb 2025 00:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>Sonicwall防火牆現在受到攻擊：盡快通過SSL VPN侵入侵入</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/sonicwall_firewalls_under_attack_patch/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[美國及以後的網絡受到北京的超級努力的損害org，除了以前的受害者數量。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/salt_typhoon_pwned_7_more/</guid>
       <pubDate>Thu, 13 Feb 2025 18:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析師歡迎對實時分佈式Aerospike的酸交易</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</link>
-      <description><![CDATA[與大用戶獲得粉絲的小數據庫公司，因為它在8.0版本中增加了速度和規模的一致性 ，分佈式多模型數據庫Aerospike增加了酸性交易，以支持大規模的在線交易處理（OLTP）在移動中的應用程序聲稱是一個行業。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/</guid>
-      <pubDate>Thu, 13 Feb 2025 18:06:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
