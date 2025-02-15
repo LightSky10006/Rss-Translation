@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sat, 15 Feb 2025 13:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 16:13:58 GMT</lastBuildDate>
+    <item>
+      <title>布魯斯·施尼爾（Bruce Schneier）說，數據和巨人近10年後說：隱私仍然被搞砸了</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/15/interview_bruce_schneier/</link>
+      <description><![CDATA[&#39;在50年的時間裡，我認為我們會查看這些業務實踐，例如我們今天查看汗水&#39;  訪談 以來已經過去了十年以來布魯斯·施尼爾（Bruce Schneier）發布了書籍數據和巨人：收集數據並控制世界的隱藏戰鬥 - 對政府機構和科技巨頭如何利用個人數據的考察。今天，他的預測感覺很準確。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/15/interview_bruce_schneier/</guid>
+      <pubDate>Sat, 15 Feb 2025 15:44:13 GMT</pubDate>
+    </item>
     <item>
       <title>為什麼AI基準很爛</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/15/boffins_question_ai_model_test/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>2指控與警察溢出的數據有關的新的IRA恐怖主義活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/two_charged_psni_data/</link>
-      <description><![CDATA[官員說，錯誤地發表了警察的詳細信息，分享了“相當多的次數”  兩名涉嫌新的IRA成員於週二被捕，並在2000年被發現有包含電子表格的《恐怖主義法》 2000年被指控北愛爾蘭警察局（PSNI）錯誤地在線發布的員工的詳細信息。…]]></description>
+      <description><![CDATA[官員說，錯誤地發表了警察的詳細信息，分享了“相當多的次數”  兩名涉嫌新的IRA成員於週二被捕，並根據2000年的《恐怖主義法》被指控，他們被發現擁有包含電子表格的電子表格北愛爾蘭警察局（PSNI）錯誤地在線發布的員工的詳細信息。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/two_charged_psni_data/</guid>
       <pubDate>Fri, 14 Feb 2025 12:12:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有些員工偷了粘筆，其他員工“借”惡意代碼 被確定為中國政府支持的間諜團體的機組人員似乎已經開始月亮作為勒索軟件播放器- 進一步的證據表明，線條之間的模糊民族國家的網絡培養和以財務動機的網絡犯罪分子。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/chinese_spies_ransomware_moonlighting/</guid>
       <pubDate>Fri, 14 Feb 2025 02:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Linux的Rust發生衝突之後，現在Asahi Lead退出了發行版，猛擊Linus的內核領導</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/13/ashai_linux_head_quits/</link>
-      <description><![CDATA[我與Torv戰鬥，... Torv贏得了  asahi Linux項目負責人Hector Martin週五早些時候辭職，日本標準時間，援引開發人員的倦怠，苛刻的用戶和Linus的話題。 Torvalds處理將Rust Code集成到開源內核中的處理。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/13/ashai_linux_head_quits/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:12:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
