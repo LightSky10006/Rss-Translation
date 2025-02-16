@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sun, 16 Feb 2025 12:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 19:10:26 GMT</lastBuildDate>
+    <item>
+      <title>這種開放的文本到語音模型僅需要幾秒鐘的音頻就可以克隆您的聲音</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/16/ai_voice_clone/</link>
+      <description><![CDATA[ el reg向您展示瞭如何在您自己的盒子上運行Zypher的語音重複AI       palo alto AI啟動Zyphra Zyphra Zyphra公佈了一對開放的文本， -speech（TTS）模型本週據說能夠用低至五秒鐘的示例音頻克隆您的聲音。在我們的測試中，我們以不到半分鐘的語音產生了現實的結果。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/16/ai_voice_clone/</guid>
+      <pubDate>Sun, 16 Feb 2025 18:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>doom-in-a-pdf開發人員又回來了 - 這次使用Linux</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/16/dev_linux_pdf/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[分析師認為，通過防止強大的挑戰者的AI Networks   HPE的強大挑戰者的興起來停止交易福利，HPE已向美國司法部反對收購杜松網絡的反對，其中包括一個主張，其中包括一個論點阻止這筆交易將使華為受益，因此具有國家安全的影響。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/hpe_rebuts_doj_juniper/</guid>
       <pubDate>Fri, 14 Feb 2025 06:58:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國人工智會隨著百度的聊天機器人免費，阿里巴巴獲得了蘋果交易的成績</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/chinese_ai_baidu_alibaba/</link>
-      <description><![CDATA[新的“深度搜索”思維和計劃機器人與人民冠軍DeepSeek抗衡 中國人工智會在本周繼續進入世界舞台，阿里巴巴和百度都取得了重大進展。…&lt;… &lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/chinese_ai_baidu_alibaba/</guid>
-      <pubDate>Fri, 14 Feb 2025 05:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
