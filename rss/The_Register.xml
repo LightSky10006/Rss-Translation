@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Feb 2025 09:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 10:41:11 GMT</lastBuildDate>
+    <item>
+      <title>英格蘭銀行Oracle Cloud Bill Balloons  - 但是當您打印錢時，誰在數？</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/bank_of_england_oracle/</link>
+      <description><![CDATA[ threadneedle街的老太太支付了數百萬美元的“修訂實施方法”  英格蘭銀行幾乎將其獻給夥伴支出用於Oracle Cloud Transformation的錢幾乎翻了一番，它開始想像2020.…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/bank_of_england_oracle/</guid>
+      <pubDate>Mon, 17 Feb 2025 10:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>Techuk要求英國的芯片策略已清除</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/techuk_semiconductor_strategy/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>備份軟件供應商Veeam刪除了恢復SNAFU之後的論壇數據</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/veeam_forums_data_loss/</link>
-      <description><![CDATA[ DevOps團隊在數據庫上做了骯髒的 數據管理供應商Veeam承認了一個令人尷尬的糟糕：弄亂了恢復工作並擦除數據。…]]></description>
+      <description><![CDATA[ DevOps團隊在數據庫上做了骯髒的 數據管理供應商Veeam承認令人尷尬的糟糕：弄亂了恢復工作並刪除數據。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/veeam_forums_data_loss/</guid>
       <pubDate>Mon, 17 Feb 2025 05:30:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[高複雜性錯誤是由InfoSeccer發掘出的，因為Rapid7探針進一步利用了 在PostgreSQL Interactive工具中，高層SQL注入錯誤與零日一起使用，用於零日研究人員說。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</guid>
       <pubDate>Fri, 14 Feb 2025 14:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>國際空間站的世界自拍攤位15歲</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/</link>
-      <description><![CDATA[沖天爐繼續提供宇宙中的最佳景色 自從最終的自拍攤位（Cupota）與國際空間站（ISS）相連已有15年。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/</guid>
-      <pubDate>Fri, 14 Feb 2025 13:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
