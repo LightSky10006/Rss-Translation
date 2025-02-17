@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Feb 2025 10:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 12:25:16 GMT</lastBuildDate>
+    <item>
+      <title>Loken：一種簡單的交互式方式來更好地尋找網站</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/loken_css_synthesizer/</link>
+      <description><![CDATA[``網站的合成器&#39;&#39;使您可以嘗試並改進到CSS   訪談 Loken是一種新型工具，旨在讓網站設計師感到自己走向與音樂家使用軟件合成器相同的方式設計。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/loken_css_synthesizer/</guid>
+      <pubDate>Mon, 17 Feb 2025 12:18:02 GMT</pubDate>
+    </item>
     <item>
       <title>英格蘭銀行Oracle Cloud Bill Balloons  - 但是當您打印錢時，誰在數？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/bank_of_england_oracle/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[障礙比您想像的要高   fosdem 2025 參與開源項目是建立發展，文檔，國際化等的經驗的好方法 - 但這並不像應有的那麼容易。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/youngsters_in_foss/</guid>
       <pubDate>Fri, 14 Feb 2025 15:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>關鍵的Postgresql錯誤與對美國國庫的零日攻擊有關</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</link>
-      <description><![CDATA[高複雜性錯誤是由InfoSeccer發掘出的，因為Rapid7探針進一步利用了 在PostgreSQL Interactive工具中，高層SQL注入錯誤與零日一起使用，用於零日研究人員說。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:19:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
