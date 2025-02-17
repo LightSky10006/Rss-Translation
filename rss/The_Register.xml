@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Feb 2025 01:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 03:03:38 GMT</lastBuildDate>
+    <item>
+      <title>雙Google缺陷使攻擊者可以通過幾個簡單的步驟從YouTube ID到Gmail地址</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/infosec_news_in_brief/</link>
+      <description><![CDATA[加：Doge Web Design令人失望；聯邦調查局停止加密騙局；扎克斯再次攻擊。以及更多！   Infosec簡要安全研究人員發現Google可以洩露YouTube頻道的電子郵件地址，這不好，因為搜索和廣告巨頭承諾不承諾這樣做。… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/infosec_news_in_brief/</guid>
+      <pubDate>Mon, 17 Feb 2025 02:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>富士通擔心美國關稅會看到其客戶減緩數字支出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/16/asia_tech_news_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[德國聯邦卡特爾辦公室的聲音涉及iPhone製造商可能正在打破競爭法 蘋果在德國監管機構對iOS的審查iOS跟踪同意書中聲稱這家技術巨頭自身豁免後，感覺到對其著名的iPhone隱私政策的熱量它是根據對第三方開發人員執行的規則。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/apple_app_tracking_probe/</guid>
       <pubDate>Fri, 14 Feb 2025 09:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Techie清理了犯罪糟糕的技術支持，這可能也是實際犯罪</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/14/on_call/</link>
-      <description><![CDATA[外包不應該涉及將客戶的硬件從建築物中帶到您的房屋   如果是星期五，現在該是另一版，我們讀者限制的專欄，您可以在其中講述反對技術支持的犯罪故事。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/14/on_call/</guid>
-      <pubDate>Fri, 14 Feb 2025 08:30:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
