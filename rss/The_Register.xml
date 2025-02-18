@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Feb 2025 22:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:58:17 GMT</lastBuildDate>
+    <item>
+      <title>即使是Linus Torvalds也可能會遇到麻煩……專制……自動完成！</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/linus_torvalds_autocomplete_mistake/</link>
+      <description><![CDATA[企鵝皇帝每週的內核郵報誤入歧途 下次AutoComplete接管時，您不小心將電子郵件發送給錯誤的人或團體，也許有點安慰世界上最有成就的技術人員-  Linux內核老闆Linus Torvalds  - 只是犯了同樣的錯誤。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/linus_torvalds_autocomplete_mistake/</guid>
+      <pubDate>Tue, 18 Feb 2025 00:25:06 GMT</pubDate>
+    </item>
     <item>
       <title>AI的未來是...模擬？ Upstart Bags 1億美元，以更少的果汁推到GPU般的大腦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/encharge_ai_compute/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有人還記得大眾汽車何時操縱其排放結果嗎？哦...   AI模型製造商喜歡彎曲基準分數。但是這些數字有多值得信賴？如果測試本身被操縱，有偏見或只是毫無意義？…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/15/boffins_question_ai_model_test/</guid>
       <pubDate>Sat, 15 Feb 2025 11:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國對AI的新想法：除非引起嚴重的困擾，否則您可能會破解</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/</link>
-      <description><![CDATA[加：保持冷靜，並將人為的克勞德（Claude重新命名證明，從確保AI模型與有益健康的內容製造的法規野心的變化- 主要是懲罰AI-Subted犯罪的野心。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/</guid>
-      <pubDate>Sat, 15 Feb 2025 08:55:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
