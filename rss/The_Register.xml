@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Feb 2025 15:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 15:38:08 GMT</lastBuildDate>
+    <item>
+      <title>FRESSH蟲子多年來未被發現，威脅Openssh安全</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/</link>
+      <description><![CDATA[現在可用於MITM和DOS攻擊的利用代碼 研究人員現在可以在Openssh披露兩個全新的漏洞，現在已經發布了補丁。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/</guid>
+      <pubDate>Tue, 18 Feb 2025 15:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle將19C數據庫支持擴展到2032年，使其成為“最長的戰略版本”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/oracle_extends_19c_support/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ threadneedle街的老太太支付了數百萬美元的“修訂實施方法”  英格蘭銀行幾乎將其獻給夥伴支出用於Oracle Cloud Transformation的錢幾乎翻了一番，它開始想像2020.…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/bank_of_england_oracle/</guid>
       <pubDate>Mon, 17 Feb 2025 10:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Techuk要求英國的芯片策略已清除</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/techuk_semiconductor_strategy/</link>
-      <description><![CDATA[貿易機構希望提出快速通行的建議，而Fabs指定了關鍵的國家基礎設施 英國政府發布其國家半導體戰略的近兩年後，呼籲呼籲更大膽地採取行動，並更快地實施其建議，以實施其建議的建議。實現其既定目標。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/techuk_semiconductor_strategy/</guid>
-      <pubDate>Mon, 17 Feb 2025 09:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
