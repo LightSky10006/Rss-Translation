@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Feb 2025 19:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 21:11:59 GMT</lastBuildDate>
+    <item>
+      <title>Snake Keylogger將窗口插入窗戶，用自動編譯有效載荷逃避檢測</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/new_snake_keylogger_infects_windows/</link>
+      <description><![CDATA[因為竊取您的憑據，銀行信息和IP還不夠 蛇鑰匙記錄員的新變體正在進行巡迴演出，主要擊中了亞洲和歐洲的Windows用戶。該菌株還使用基本的腳本語言自動進行部署，增加了額外的混淆層，以幫助其滑過過去的檢測。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/new_snake_keylogger_infects_windows/</guid>
+      <pubDate>Tue, 18 Feb 2025 20:41:38 GMT</pubDate>
+    </item>
     <item>
       <title>看來付費牆即將到來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/paywalls_reddit/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[對PC和智能手機的片狀需求指責  nand Flash價格預計由於過度供應而滑落，迫使內存芯片製造商削減生產以匹配PC和智能手機製造商的預期訂單。… &lt;…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/nand_flash_prices/</guid>
       <pubDate>Mon, 17 Feb 2025 16:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>小行星2024年有可能在2032年登月</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/asteroid_2024_yr4_might_hit/</link>
-      <description><![CDATA[不太可能，但是如果它確實做 ，則可能會使小行星2024年的小行星有可能撞到月球，創造新的火山口和爆炸可能會產生整齊的燈光秀。從地球上可以看到……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/asteroid_2024_yr4_might_hit/</guid>
-      <pubDate>Mon, 17 Feb 2025 14:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
