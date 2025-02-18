@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Feb 2025 09:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 09:36:36 GMT</lastBuildDate>
+    <item>
+      <title>勞埃德銀行審查了Reorg的技術和工程人員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/lloyds_tech_engineering_reorg/</link>
+      <description><![CDATA[承認，由於擔心工作與印度分開的工作  lloyds Banking Group本月對在英國運營中工作的技術和工程專業人士進行了審查，因此將在英國說“向才華橫溢的人道別”。由於不可避免的是少數數量，並且某些角色被脫離了印度的勞埃德技術中心。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/lloyds_tech_engineering_reorg/</guid>
+      <pubDate>Tue, 18 Feb 2025 09:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>Avaya掛在少於200個Saasy聯絡中心座椅的用戶上</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/avaya_200_seat_minimum/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ el reg向您展示瞭如何在您自己的盒子上運行Zyphra的語音複製AI       palo alto AI啟動Zyphra Zyphra Zyphra公佈了一對開放的文本， -speech（TTS）模型本週據說能夠用低至五秒鐘的示例音頻克隆您的聲音。在我們的測試中，我們以不到半分鐘的語音產生了現實的結果。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/16/ai_voice_clone/</guid>
       <pubDate>Sun, 16 Feb 2025 18:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>doom-in-a-pdf開發人員又回來了 - 這次使用Linux</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/16/dev_linux_pdf/</link>
-      <description><![CDATA[接下來是什麼，cressy-in-a-csv？ 首先是tetris，然後是厄運- 現在是一個裸露的linux實例，它啟動了PDF。… &lt; p&gt; &lt;！ - ＃包括virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/16/dev_linux_pdf/</guid>
-      <pubDate>Sun, 16 Feb 2025 12:38:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
