@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Feb 2025 09:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 10:40:15 GMT</lastBuildDate>
+    <item>
+      <title>英國電力公司尋求合作夥伴以8100萬英鎊的SAP大修，作為支持截止日期的關閉</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/nie_networks_sap_migration/</link>
+      <description><![CDATA[與第三方軟件的集成等待選擇的提供商 英國電氣基礎設施BIZ正在尋求系統集成商，以幫助其從25歲的SAP ERP系統遷移到最新的S/4HANA平台在一份合同中，其價值將近四分之一的年營業額。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/nie_networks_sap_migration/</guid>
+      <pubDate>Tue, 18 Feb 2025 10:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>勞埃德銀行審查了Reorg的技術和工程人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/lloyds_tech_engineering_reorg/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：中國公寓針對的太平洋島嶼；中國的新火箭飆升； DeepSeek將韓國放在泡菜中。富士通北美業務負責人在簡短的中，更多的   警告說，特朗普政府的關稅計劃將對商業不利。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/16/asia_tech_news_in_brief/</guid>
       <pubDate>Sun, 16 Feb 2025 23:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>這種開放的文本到語音模型僅需要幾秒鐘的音頻就可以克隆您的聲音</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/16/ai_voice_clone/</link>
-      <description><![CDATA[ el reg向您展示瞭如何在您自己的盒子上運行Zyphra的語音複製AI       palo alto AI啟動Zyphra Zyphra Zyphra公佈了一對開放的文本， -speech（TTS）模型本週據說能夠用低至五秒鐘的示例音頻克隆您的聲音。在我們的測試中，我們以不到半分鐘的語音產生了現實的結果。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/16/ai_voice_clone/</guid>
-      <pubDate>Sun, 16 Feb 2025 18:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
