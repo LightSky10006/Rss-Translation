@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Feb 2025 22:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:58:38 GMT</lastBuildDate>
+    <item>
+      <title>帕洛阿爾托（Palo Alto）被攻擊的防火牆，因為犯罪鏈缺陷用於root訪問</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/palo_alto_firewall_attack/</link>
+      <description><![CDATA[如果要避免緊急補丁，請停止將管理控制台暴露於公共互聯網 上週Palo Alto Networks修補的一個缺陷現在正在受到主動攻擊，並且當被兩個較舊的漏洞鏈接時，允許攻擊者可以訪問受影響的系統。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/palo_alto_firewall_attack/</guid>
+      <pubDate>Wed, 19 Feb 2025 00:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>Acer信號在美國的筆記本電腦價格上漲10％，指責特朗普的額外中國關稅</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/acer_hikes_us_prices/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Encharge聲稱150個上衣/瓦，每瓦20倍的性能   訪談 AI芯片啟動啟動Encharge聲稱其模擬人工智能加速器可以競爭桌面GPU ，而同時使用力量的一小部分。令人印象深刻 - 至少在紙上。現在是困難的部分：在現實世界中證明這一點。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/encharge_ai_compute/</guid>
       <pubDate>Mon, 17 Feb 2025 20:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>為什麼Windows 95設置使用Windows 3.1？</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/windows_95_windows_three_point_one/</link>
-      <description><![CDATA[如果MS-DOS可以播放厄運，那麼肯定是可能的灰色按鈕？ 資深的Microsoft工程師Raymond Chen已回應了Windows 95設置過於復雜的建議。人們想知道：為什麼不在MS-DOS中做整個事情？…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/windows_95_windows_three_point_one/</guid>
-      <pubDate>Mon, 17 Feb 2025 17:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

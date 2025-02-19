@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Tue, 18 Feb 2025 23:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:58:17 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA的50系列卡丟棄對Physx的支持，影響了較舊遊戲</title>
+      <link>https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/</link>
+      <description><![CDATA[舊遊戲中的32位技術無法帶來時髦的效果。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/</guid>
+      <pubDate>Tue, 18 Feb 2025 23:25:45 GMT</pubDate>
+    </item>
     <item>
       <title>儘管穆斯克批准了“基於”的意見</title>
       <link>https://arstechnica.com/ai/2025/02/new-grok-3-release-tops-llm-leaderboards-despite-musk-approved-based-opinions/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[像RTX 4060這樣的性能，但擠滿了稍微沉重的表面狀。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/review-asus-rog-flow-z13-tablet-takes-the-asterisk-off-integrated-gpus/</guid>
       <pubDate>Tue, 18 Feb 2025 14:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>將月亮變成燃料倉庫將佔用很多力量</title>
-      <link>https://arstechnica.com/science/2025/02/turning-the-moon-into-a-fuel-depot-will-take-a-lot-of-power/</link>
-      <description><![CDATA[從Regolith中獲取氧氣需要每公斤24 kWh，我們需要噸。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/turning-the-moon-into-a-fuel-depot-will-take-a-lot-of-power/</guid>
-      <pubDate>Mon, 17 Feb 2025 21:33:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
