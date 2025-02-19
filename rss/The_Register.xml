@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 10:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 11:35:25 GMT</lastBuildDate>
+    <item>
+      <title>類型安全的C-killer Delphi命中30，但替換已上升</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/delphi_turns_30/</link>
+      <description><![CDATA[在拉撒路（Lazarus）中，福斯世界（Foss World）複製了其中的大部分 德爾菲（Delphi）仍然與我們同在，但是福斯世界（Foss World ）也有其自己的，很大程度上兼容的，基於GUI的對象Pascal環境，而且值得看。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/delphi_turns_30/</guid>
+      <pubDate>Wed, 19 Feb 2025 11:25:10 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft以Euro隱私的名義刪除Windows 11文件資源管理器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/windows_11_24h2_preview/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[電器的科學並打開黑匣子的蓋子以查找...只是軟件  訪談技術行業習慣了每次自我發明的習慣年。 Kelsey Hightower希望有人想出一個詞彙表，因為軟件是軟件，無論它得到什麼稱呼。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/kelsey_hightower_on_dodging_ai/</guid>
       <pubDate>Tue, 18 Feb 2025 11:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國電力公司尋求合作夥伴以8100萬英鎊的SAP大修，作為支持截止日期的關閉</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/nie_networks_sap_migration/</link>
-      <description><![CDATA[與第三方軟件的集成等待選擇的提供商 英國電氣基礎設施BIZ正在尋求系統集成商，以幫助其從25歲的SAP ERP系統遷移到最新的S/4HANA平台在一份合同中，其價值將近四分之一的年營業額。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/nie_networks_sap_migration/</guid>
-      <pubDate>Tue, 18 Feb 2025 10:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
