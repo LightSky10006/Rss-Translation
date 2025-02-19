@@ -4,7 +4,21 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 20:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:12:15 GMT</lastBuildDate>
+    <item>
+      <title>微軟展示了可以擴展到“一百萬噸”的新型量子芯片。到目前為止：八</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_majorana_1_chip/</link>
+      <description><![CDATA[不僅是時間問題，而且是主要問題的問題，也是  Microsoft表示，它已經開發了一種用新穎材料製成的量子計算芯片，內部的現實應用程序- 您猜對了，而不是數十年。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_majorana_1_chip/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看這個免費的自動化工具，該工具可以在公共存儲庫中尋找暴露的AWS秘密</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/automated_tool_scans_public_repos/</link>
+      <description><![CDATA[您可以找出您的github代碼庫是否洩漏了密鑰...但是誤差   免費的自動化工具可以使任何人都可以掃描公共GitHub存儲庫是否已發布。 P&gt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/automated_tool_scans_public_repos/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>我們遇到了想要在人工通用情報的情況下遇到的抗議者</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/ai_activists_seek_ban_agi/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[分析師告訴El Reg  在硬件品牌  Acer中期望更多的acer已成為第一個確認它將在美國上漲筆記本電腦價格的主要計算機製造商之一，援引特朗普政府對中國製造的硬件的新進口關稅。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/acer_hikes_us_prices/</guid>
       <pubDate>Tue, 18 Feb 2025 21:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snake Keylogger將窗口插入窗戶，用自動編譯有效載荷逃避檢測</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/new_snake_keylogger_infects_windows/</link>
-      <description><![CDATA[因為竊取您的憑據，銀行信息和IP還不夠 蛇鑰匙記錄員的新變體正在進行巡迴演出，主要擊中了亞洲和歐洲的Windows用戶。該菌株還使用基本的腳本語言自動進行部署，增加了額外的混淆層，以幫助其滑過過去的檢測。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/new_snake_keylogger_infects_windows/</guid>
-      <pubDate>Tue, 18 Feb 2025 20:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>看來付費牆即將到來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/paywalls_reddit/</link>
-      <description><![CDATA[紅色的想法是什麼？好吧，如果他們很高興  redditors喜歡一個話題，那麼本週的重點可能會放在首席執行官史蒂夫·霍夫曼（Steve Huffman）的說法上，那將是reddit的互聯網的頭版。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/paywalls_reddit/</guid>
-      <pubDate>Tue, 18 Feb 2025 19:03:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
