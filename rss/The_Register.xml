@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 15:36:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 16:15:54 GMT</lastBuildDate>
+    <item>
+      <title>微軟研究人員承諾整個遊戲世界由AI Slop製成</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_genai_game_dev_model/</link>
+      <description><![CDATA[ wham，bam，不，謝謝您，女士？ 研究人員已經生產了一種生成的AI工具，他們說可以創建一個三維遊戲世界，以幫助開發人員設計和調整遊戲玩法。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_genai_game_dev_model/</guid>
+      <pubDate>Wed, 19 Feb 2025 16:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>電信公司打開實驗室以測試用衛星的細胞網絡互操作性</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/vodafone_satellite_lab_spain/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[科學家提高了估計值，但尚不排除歐洲航天局（ESA）對小行星2024年軌蹟的最新數字 顯示了對象軌道周圍的不確定性的降低雖然撞擊的可能性仍然很低。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/2024_yr4_risk_corridor/</guid>
       <pubDate>Tue, 18 Feb 2025 16:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FRESSH蟲子多年來未被發現，威脅Openssh安全</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/</link>
-      <description><![CDATA[現在可用於MITM和DOS攻擊的利用代碼 研究人員現在可以在Openssh披露兩個全新的漏洞，現在已經發布了補丁。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/</guid>
-      <pubDate>Tue, 18 Feb 2025 15:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
