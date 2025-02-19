@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 21:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 22:12:16 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的國防部CISO選秀以前面臨的安全許可暫停</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/trumps_pentagon_ciso_pick_was/</link>
+      <description><![CDATA[嘿，至少凱蒂·阿靈頓（Katie Arrington）帶來了堅實的簡歷 唐納德·特朗普（Donald Trump）的提名人的提名人的重要DOD網絡安全角色具有履歷，儘管以前暫停了安全清除，但他過去的許多選秀權。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/trumps_pentagon_ciso_pick_was/</guid>
+      <pubDate>Wed, 19 Feb 2025 22:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>微軟展示了可以擴展到“一百萬噸”的新型量子芯片。到目前為止：八</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_majorana_1_chip/</link>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 19 Feb 2025 17:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>微軟研究人員承諾整個遊戲世界由AI Slop製成</title>
+      <title>Microsoft Boffins承諾由AI Slop製成的整個遊戲世界</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_genai_game_dev_model/</link>
-      <description><![CDATA[ wham，bam，不，謝謝您，女士？ 研究人員已經生產了一種生成的AI工具，他們說可以創建一個三維遊戲世界，以幫助開發人員設計和調整遊戲玩法。…]]></description>
+      <description><![CDATA[ wham，bam，不，謝謝你，夫人？  Microsoft的Eggheads生產了一種生成的AI工具，他們說可以創建一個三維遊戲世界，以幫助開發人員設計和調整遊戲玩法。… ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_genai_game_dev_model/</guid>
       <pubDate>Wed, 19 Feb 2025 16:02:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果要避免緊急補丁，請停止將管理控制台暴露於公共互聯網 上週Palo Alto Networks修補的一個缺陷現在正在受到主動攻擊，並且當被兩個較舊的漏洞鏈接時，允許攻擊者可以訪問受影響的系統。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/palo_alto_firewall_attack/</guid>
       <pubDate>Wed, 19 Feb 2025 00:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Acer信號在美國的筆記本電腦價格上漲10％，指責特朗普的額外中國關稅</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/acer_hikes_us_prices/</link>
-      <description><![CDATA[分析師告訴El Reg  在硬件品牌  Acer中期望更多的acer已成為第一個確認它將在美國上漲筆記本電腦價格的主要計算機製造商之一，援引特朗普政府對中國製造的硬件的新進口關稅。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/acer_hikes_us_prices/</guid>
-      <pubDate>Tue, 18 Feb 2025 21:32:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
