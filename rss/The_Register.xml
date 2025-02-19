@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 14:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 15:36:48 GMT</lastBuildDate>
+    <item>
+      <title>電信公司打開實驗室以測試用衛星的細胞網絡互操作性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/vodafone_satellite_lab_spain/</link>
+      <description><![CDATA[因為4G notspots對任何人都不好 沃達丰和AST Spacemobile計劃在今年夏天開設一個研究中心，以測試和驗證軌道服務與地面手機網絡的整合。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/vodafone_satellite_lab_spain/</guid>
+      <pubDate>Wed, 19 Feb 2025 15:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>您通過Windows Server Update服務的驅動程序同步服務已編號</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/wsus_drive_sync_deprecated/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在可用於MITM和DOS攻擊的利用代碼 研究人員現在可以在Openssh披露兩個全新的漏洞，現在已經發布了補丁。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/</guid>
       <pubDate>Tue, 18 Feb 2025 15:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle將19C數據庫支持擴展到2032年，使其成為“最長的戰略版本”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/18/oracle_extends_19c_support/</link>
-      <description><![CDATA[同時，23AI的本地版本仍然不確定  Oracle已推遲了其流行的19C數據庫的支持日期，因為用戶等待其最新數據庫的主流新聞，23AI， 。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/oracle_extends_19c_support/</guid>
-      <pubDate>Tue, 18 Feb 2025 14:46:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
