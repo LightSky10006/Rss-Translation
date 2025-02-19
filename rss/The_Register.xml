@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Feb 2025 00:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 02:16:36 GMT</lastBuildDate>
+    <item>
+      <title>為軍事人員提供服務的醫療保健服裝，該指控偽造了Infosec的合規性，以1100萬美元的價格合規</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/decadeold_healthcare_security_snafu_settled/</link>
+      <description><![CDATA[如果這使您感到噁心，知道這發生在勒索軟件演員開始針對醫療信息之前可能會有所幫助 據稱在奧巴馬政府期間發生的涉嫌安全性SNAFU終於在第二屆特朗普政府的領導下解決了。 &lt;]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/decadeold_healthcare_security_snafu_settled/</guid>
+      <pubDate>Wed, 19 Feb 2025 01:14:11 GMT</pubDate>
+    </item>
     <item>
       <title>帕洛阿爾托（Palo Alto）被攻擊的防火牆，因為犯罪鏈缺陷用於root訪問</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/palo_alto_firewall_attack/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[企鵝皇帝每週的內核郵報誤入歧途 下次AutoComplete接管時，您不小心將電子郵件發送給錯誤的人或團體，也許有點安慰世界上最有成就的技術人員-  Linux內核老闆Linus Torvalds  - 只是犯了同樣的錯誤。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/18/linus_torvalds_autocomplete_mistake/</guid>
       <pubDate>Tue, 18 Feb 2025 00:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI的未來是...模擬？ Upstart Bags 1億美元，以更少的果汁推到GPU般的大腦</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/17/encharge_ai_compute/</link>
-      <description><![CDATA[ Encharge聲稱150個上衣/瓦，每瓦20倍的性能   訪談 AI芯片啟動啟動Encharge聲稱其模擬人工智能加速器可以競爭桌面GPU ，而同時使用力量的一小部分。令人印象深刻 - 至少在紙上。現在是困難的部分：在現實世界中證明這一點。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/17/encharge_ai_compute/</guid>
-      <pubDate>Mon, 17 Feb 2025 20:21:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
