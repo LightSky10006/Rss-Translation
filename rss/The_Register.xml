@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Feb 2025 17:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 18:17:31 GMT</lastBuildDate>
+    <item>
+      <title>歐洲雲BIZ試驗“冷盒中的服務器刀片”系統</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/diggers_exoscale_liquid_cooling/</link>
+      <description><![CDATA[熱空氣還是節能50％？外觀數據中心運行概念驗證，以測試Digger索賠的真實性  A1數字正在測試液體冷卻技術的功率密集型AI服務器，該技術據稱可以節省先前冷卻所需的50％的能量完全需要空調。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/diggers_exoscale_liquid_cooling/</guid>
+      <pubDate>Thu, 20 Feb 2025 17:39:04 GMT</pubDate>
+    </item>
     <item>
       <title>美國礦產公司說，克魯克斯爆發了電子郵件，並幫助自己達到50萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/niocorp_bec_scam/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不僅是時間問題，而且是主要問題的問題，也是  Microsoft表示，它已經開發了一種用新穎材料製成的量子計算芯片，內部的現實應用程序- 您猜對了，而不是數十年。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_majorana_1_chip/</guid>
       <pubDate>Wed, 19 Feb 2025 20:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看這個免費的自動化工具，該工具可以在公共存儲庫中尋找暴露的AWS秘密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/automated_tool_scans_public_repos/</link>
-      <description><![CDATA[您可以找出您的github代碼庫是否洩漏了密鑰...但是誤差   免費的自動化工具可以使任何人都可以掃描公共GitHub存儲庫是否已發布。 P&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/automated_tool_scans_public_repos/</guid>
-      <pubDate>Wed, 19 Feb 2025 20:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
