@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Feb 2025 08:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 09:14:15 GMT</lastBuildDate>
+    <item>
+      <title>幽靈勒索軟件船員繼續以糟糕的Infosec的身份困擾它</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/fbi_beware_of_ghost_ransomware/</link>
+      <description><![CDATA[ FBI和CISA問題提醒 - 深嘆氣 - 關於修補和備份的重要性  Ghost Ransomware的操作員繼續要求受害者和得分付款，但是通過已知的修補可以使騙子保持範圍根據聯邦調查局和美國網絡安全和基礎設施安全局週三發布的聯合諮詢，脆弱性和一些基本的Infosec行動。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/fbi_beware_of_ghost_ransomware/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:41:14 GMT</pubDate>
+    </item>
     <item>
       <title>美杜莎勒索軟件幫派向英國私人衛生服務提供商提供200萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/medusa_hcrg_ransomware/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[還將另一個釘子釘在了科爾塔納（Cortana）的棺材中，其位置歷史末尾 微軟有一個情人節禮物給Windows Insiders，向Cortana的心臟發射了另一支箭頭，同時也試圖緩解歐洲的隱私問題。 …  &lt;！ - ＃include virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/windows_11_24h2_preview/</guid>
       <pubDate>Wed, 19 Feb 2025 10:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>倫敦名人人才代理機構在Rhysida Attack索賠後向ICO報告</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/19/london_celebrity_talent_agency_reports/</link>
-      <description><![CDATA[ Showbiz會員的護照掃描已經在網上貼貼 倫敦人才機構在上週Rhysida Ransomware船員上周聲稱它攻擊了這項業務後，已向英國的數據保護監管機報導了自己的數據保護監管機構。和屏幕。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/19/london_celebrity_talent_agency_reports/</guid>
-      <pubDate>Wed, 19 Feb 2025 09:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
