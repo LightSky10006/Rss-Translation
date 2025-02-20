@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 20 Feb 2025 08:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:39:06 GMT</lastBuildDate>
+    <item>
+      <title>特朗普殺死了紐約的擁塞指控，譴責城市交通擁堵</title>
+      <link>https://arstechnica.com/cars/2025/02/trump-kills-nycs-congestion-charge-condemns-city-to-traffic-jams/</link>
+      <description><![CDATA[紐約市選民壓倒性地希望減少交通和空氣污染。特朗普說堅強。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/trump-kills-nycs-congestion-charge-condemns-city-to-traffic-jams/</guid>
+      <pubDate>Thu, 20 Feb 2025 15:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>與俄羅斯一致的黑客用設備鏈接QR碼來針對信號用戶</title>
       <link>https://arstechnica.com/information-technology/2025/02/russia-aligned-hackers-are-targeting-signal-users-with-device-linking-qr-codes/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[其他源遊戲還獲得了半衰期2 週年更新處理。]]></description>
       <guid>https://arstechnica.com/gaming/2025/02/valve-releases-full-team-fortress-2-game-code-to-encourage-new-free-versions/</guid>
       <pubDate>Wed, 19 Feb 2025 17:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟演示了基於外來物理學的工作Qubit</title>
-      <link>https://arstechnica.com/science/2025/02/microsoft-builds-its-first-qubits-lays-out-roadmap-for-quantum-computing/</link>
-      <description><![CDATA[假設的準粒子以及實際處理硬件的更強有力的證據。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/microsoft-builds-its-first-qubits-lays-out-roadmap-for-quantum-computing/</guid>
-      <pubDate>Wed, 19 Feb 2025 16:32:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
