@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 21 Feb 2025 15:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 17:11:52 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·馬斯克（Elon Musk</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/21/elon_musk_iss_mogensen_insult/</link>
+      <description><![CDATA[加：ESA宇航員Andreas Mogensen對SpaceX首席執行官不滿意，因為“謊言”關於“廢棄”的Starliner Crew   SpaceX老闆Elon Musk呼籲在國際空間站（ISS）呼籲不久也許是到2027年。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/21/elon_musk_iss_mogensen_insult/</guid>
+      <pubDate>Fri, 21 Feb 2025 17:03:06 GMT</pubDate>
+    </item>
     <item>
       <title>ST微型跳過，用AWS伸出手臂，帶有1.6 TBP的芯片</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/21/st_micro_pluggables/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[幸運的是，沒有一個小行星前往地球，士氣低落的航天局可能需要進行重定向任務  評論美國航天局，美國國家航空航天局（NASA）尋找未來。但是，最近幾天的慘敗使人們懷疑現在，更不用說接下來的幾週，幾個月或幾年了。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/nasa_comment_piece/</guid>
       <pubDate>Thu, 20 Feb 2025 15:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mongoose庫中的嚴重缺陷使MongoDB暴露於數據盜賊，代碼執行</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/mongoose_flaws_mongodb/</link>
-      <description><![CDATA[錯誤，建議更新到最新版本 安全偵探在MongoDB依賴的第三方庫中發現了兩個關鍵漏洞，這意味著壞人可以潛在地竊取數據並運行代碼。…… &lt; /p&gt;]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/mongoose_flaws_mongodb/</guid>
-      <pubDate>Thu, 20 Feb 2025 14:45:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
