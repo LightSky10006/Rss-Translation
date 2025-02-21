@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com的最新信息</description>
-    <lastBuildDate>Fri, 21 Feb 2025 11:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 12:23:49 GMT</lastBuildDate>
+    <item>
+      <title>世界正處於聚酯危機中。一家公司試圖回收出路</title>
+      <link>https://www.wired.com/story/reju-polyester-recycling/</link>
+      <description><![CDATA[歐洲公司REJU可能已經開發了紡織行業所需的聚酯回收技術。問題是世界是否準備好了。]]></description>
+      <guid>https://www.wired.com/story/reju-polyester-recycling/</guid>
+      <pubDate>Fri, 21 Feb 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在美國政府遍布整個美國政府的恐懼</title>
       <link>https://www.wired.com/story/surveillance-privacy-doge-federal-employees/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>埃隆·馬斯克（Elon Musk）和山姆·奧特曼（Sam Altman）之間的攤牌</title>
       <link>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</link>
-      <description><![CDATA[本週，怪異的山谷主持了在Openai上討論訴訟，投標戰和權力。]]></description>
+      <description><![CDATA[本週，怪異的山谷主持了在Openai上討論訴訟，競標戰和權力。]]></description>
       <guid>https://www.wired.com/story/uncanny-valley-podcast-15-sam-altman-elon-musk/</guid>
       <pubDate>Thu, 20 Feb 2025 17:10:50 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Wired的建議專欄作家認為，某些AI工具是否比其他工具更合乎道德，以及開發人員是否可以使AI更明智。]]></description>
       <guid>https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/</guid>
       <pubDate>Thu, 20 Feb 2025 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tubi不是下一個Netflix。這是更好的</title>
-      <link>https://www.wired.com/story/tubi-is-not-the-next-netflix-its-something-better/</link>
-      <description><![CDATA[該廣告支持的服務是任何流媒體最大的內容庫的所在地。那麼為什麼Tubi仍然被認為是一個社交打包袋呢？]]></description>
-      <guid>https://www.wired.com/story/tubi-is-not-the-next-netflix-its-something-better/</guid>
-      <pubDate>Thu, 20 Feb 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
