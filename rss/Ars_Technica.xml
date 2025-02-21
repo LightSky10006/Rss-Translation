@@ -4,7 +4,63 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 21 Feb 2025 20:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 22:37:05 GMT</lastBuildDate>
+    <item>
+      <title>根據新法案，大腳怪可以成為加利福尼亞的“官方隱身”</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/under-new-bill-bigfoot-could-become-californias-official-cryptid/</link>
+      <description><![CDATA[加利福尼亞有很多官方符號。但是沒有一個是隱身。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/under-new-bill-bigfoot-could-become-californias-official-cryptid/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>洩漏的聊天日誌公開了秘密勒索軟件組的內部工作</title>
+      <link>https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/</link>
+      <description><![CDATA[研究人員正在研究數據，並將其饋送到chatgpt中。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人員弄清楚如何將新鮮鋰納入電池</title>
+      <link>https://arstechnica.com/science/2025/02/researchers-figure-out-how-to-get-fresh-lithium-into-batteries/</link>
+      <description><![CDATA[常規劑量的鋰使電池生存於近12k週期（和計數）。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/researchers-figure-out-how-to-get-fresh-lithium-into-batteries/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:33:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>機器人有1000個肌肉的機器人抽搐，例如人類</title>
+      <link>https://arstechnica.com/gadgets/2025/02/dangling-twitching-human-robot-with-synthetic-muscles-makes-its-debut/</link>
+      <description><![CDATA[一個新的人形機器人原型使用充滿液體的肌肉在懸掛時踢腿。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/dangling-twitching-human-robot-with-synthetic-muscles-makes-its-debut/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>華碩的新“香水鼠標”是一種無線鼠標，也聞起來</title>
+      <link>https://arstechnica.com/gadgets/2025/02/asus-new-fragrance-mouse-is-a-wireless-mouse-that-also-smells/</link>
+      <description><![CDATA[您的電腦的鼠標聞起來像什麼嗎？答案很快可能是“是”。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/asus-new-fragrance-mouse-is-a-wireless-mouse-that-also-smells/</guid>
+      <pubDate>Fri, 21 Feb 2025 20:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>“彈跳”風在2024年損壞的休斯頓摩天大樓</title>
+      <link>https://arstechnica.com/science/2025/02/why-houstons-2024-derecho-did-more-damage-than-hurricane-beryl/</link>
+      <description><![CDATA[由於高大的建築物之間的干擾，牆壁和窗戶的壓力增加，強烈的局部風會反彈。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/why-houstons-2024-derecho-did-more-damage-than-hurricane-beryl/</guid>
+      <pubDate>Fri, 21 Feb 2025 20:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·馬斯克（Elon Musk）與特朗普相矛盾後，要“修復”社區</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/elon-musk-to-fix-community-notes-after-they-contradict-trump/</link>
+      <description><![CDATA[X所有者在聲稱無法操縱社區筆記的聲稱。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/elon-musk-to-fix-community-notes-after-they-contradict-trump/</guid>
+      <pubDate>Fri, 21 Feb 2025 20:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>F1可能會拋棄V10和可持續燃料的混合動力車</title>
+      <link>https://arstechnica.com/cars/2025/02/bring-the-noise-f1-considering-the-return-of-the-v10s/</link>
+      <description><![CDATA[對於可持續燃料，誰需要混合動力？]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/bring-the-noise-f1-considering-the-return-of-the-v10s/</guid>
+      <pubDate>Fri, 21 Feb 2025 19:54:16 GMT</pubDate>
+    </item>
     <item>
       <title>小RFK小迅速取消疫苗諮詢會議，拉斯流感射擊運動</title>
       <link>https://arstechnica.com/health/2025/02/rfk-jr-promptly-cancels-vaccine-advisory-meeting-pulls-flu-shot-campaign/</link>
@@ -18,62 +74,6 @@
       <description><![CDATA[Torvalds：您可以避免作為C維護器作為生鏽，但是您不能干擾它。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/</guid>
       <pubDate>Fri, 21 Feb 2025 18:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>臭名昭著的騙子在48分鐘內闖入了公司網絡。這是方法。</title>
-      <link>https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/</link>
-      <description><![CDATA[報告為策略提供了新的啟示，使攻擊者能夠以驚人的速度移動。]]></description>
-      <guid>https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/</guid>
-      <pubDate>Fri, 21 Feb 2025 18:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google便宜的YouTube Premium Lite訂閱將放棄音樂</title>
-      <link>https://arstechnica.com/google/2025/02/google-plans-cheaper-ad-free-youtube-subscription-without-music/</link>
-      <description><![CDATA[該計劃可能很快到達美國，澳大利亞，德國和泰國。]]></description>
-      <guid>https://arstechnica.com/google/2025/02/google-plans-cheaper-ad-free-youtube-subscription-without-music/</guid>
-      <pubDate>Fri, 21 Feb 2025 17:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek超越了“開放權重” AI，並發布了源代碼的計劃</title>
-      <link>https://arstechnica.com/ai/2025/02/deepseek-goes-beyond-open-weights-ai-with-plans-for-source-code-release/</link>
-      <description><![CDATA[中國人工智能公司表示，每日發行版將揭示“推動我們微小的月光前進的代碼”。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/deepseek-goes-beyond-open-weights-ai-with-plans-for-source-code-release/</guid>
-      <pubDate>Fri, 21 Feb 2025 16:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果在英國拉動端到端加密，拒絕後門不監視</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/apple-pulls-data-protection-tool-instead-of-caving-to-uk-demand-for-a-backdoor/</link>
-      <description><![CDATA[蘋果在英國突然拉動了隱私工具，對窺視法採取了大膽的立場。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/apple-pulls-data-protection-tool-instead-of-caving-to-uk-demand-for-a-backdoor/</guid>
-      <pubDate>Fri, 21 Feb 2025 16:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>日產最新的絕望賭博 - 請參閱特斯拉如果要購買公司</title>
-      <link>https://arstechnica.com/cars/2025/02/dumbest-automotive-rumor-of-the-week-tesla-should-buy-nissan/</link>
-      <description><![CDATA[一群日本高級政客認為特斯拉應該拯救日產。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/dumbest-automotive-rumor-of-the-week-tesla-should-buy-nissan/</guid>
-      <pubDate>Fri, 21 Feb 2025 16:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司表示，SEC針對Coinbase的“焦土”訴訟將被放棄。</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/coinbase-says-war-on-crypto-is-over-claims-sec-will-drop-lawsuit/</link>
-      <description><![CDATA[Coinbase宣布勝利後，在前SEC主席Gary Gensler的墳墓上跳舞。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/coinbase-says-war-on-crypto-is-over-claims-sec-will-drop-lawsuit/</guid>
-      <pubDate>Fri, 21 Feb 2025 15:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠普意識到強制性的15分鐘支持呼叫等待時間不是很好的支持</title>
-      <link>https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/</link>
-      <description><![CDATA[惠普由於“反饋”而撤銷了歐洲支持策略。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/</guid>
-      <pubDate>Fri, 21 Feb 2025 15:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>辛普森一家的一集？在中國沃爾沃（Volvos）中發現的假揚聲器。</title>
-      <link>https://arstechnica.com/cars/2025/02/chinese-volvo-customers-report-fake-bw-speakers-in-their-cars/</link>
-      <description><![CDATA[鮑爾斯和vvilkins？那是不對的！]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/chinese-volvo-customers-report-fake-bw-speakers-in-their-cars/</guid>
-      <pubDate>Fri, 21 Feb 2025 15:35:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
