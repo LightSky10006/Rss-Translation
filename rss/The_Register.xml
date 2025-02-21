@@ -4,9 +4,23 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Feb 2025 23:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:59:19 GMT</lastBuildDate>
     <item>
-      <title>Microsoft說，糟糕，我們的一些客戶的電源頁網站被利用</title>
+      <title>Linux皇室對內核代碼的Rust採用，說其上升是不可避免的</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/21/linux_c_rust_debate_continues/</link>
+      <description><![CDATA[沒有人想要內存錯誤。企鵝繼續爭論如何壓制&#39;em  一些Linux內核維護者仍然不相信在開源項目中添加Rust Code是一個好主意，但它的VIP是為了支持該語言的集成。… ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/21/linux_c_rust_debate_continues/</guid>
+      <pubDate>Fri, 21 Feb 2025 00:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft擴展了Copilot Bug Bounty Targets，增加了甚至中度混亂的支出</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_copilot_bug_bounty_updated/</link>
+      <description><![CDATA[說Bugs“可以具有重大影響”  - 很高興聽到Microsoft從Redmond   Microsoft非常關注其副產品的安全性，以至於它提高了對中度嚴重性脆弱性的Bounty Bounty付款。最高$ 5,000，並擴大了將為人們付費尋找和報告的漏洞範圍。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_copilot_bug_bounty_updated/</guid>
+      <pubDate>Thu, 20 Feb 2025 23:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft說</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_patch_power_pages/</link>
       <description><![CDATA[不要以為這是SaaS，您可以放鬆：Redmond希望您中的一些人檢查您的網站  Microsoft在犯罪分子獲得的Power Pages網站上修復了一個安全缺陷，在罪犯獲得了首先 - 並敦促用戶檢查其網站是否有剝削的跡象。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_patch_power_pages/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>美國礦產公司說，克魯克斯爆發了電子郵件，並幫助自己達到50萬美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/niocorp_bec_scam/</link>
-      <description><![CDATA[年輕公司的痛苦損失尚未產生收入 一家納斯達克上市的美國礦產公司表示，網絡犯罪分子在情人節那天闖入了其係統，並付了大約500,000美元，並支付了大約500,000美元的費用- 金錢為一家供應商指定………… &lt;]]></description>
+      <description><![CDATA[年輕公司的痛苦損失尚未產生收入 一家納斯達克上市的美國礦產公司表示，網絡犯罪分子在情人節闖入了其係統，並支付了約500,000美元的費用，並支付了大約500,000美元的費用- 金錢為一家供應商指定………… &lt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/niocorp_bec_scam/</guid>
       <pubDate>Thu, 20 Feb 2025 16:44:51 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>惠普故意添加15分鐘的等待電話支持電話</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/</link>
-      <description><![CDATA[更長的等待時間旨在將印刷或PC消費者推向數字支持渠道，對不起，“自我解決”   HP Inc試圖迫使消費者PC和印刷客戶在線使用和其他數字支持通過設置至少15分鐘的等待時間，以便任何人打電話給呼叫中心以獲取麻煩的查詢答案。…]]></description>
+      <description><![CDATA[更長的等待時間旨在將打印或PC用戶推向在線支持，對不起，“自我解決”   HP Inc試圖強迫消費者PC和打印​​客戶使用在線和其他數字支持渠道通過為任何打電話給呼叫中心的人設置至少15分鐘的等待時間，以獲取麻煩的查詢。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/</guid>
       <pubDate>Thu, 20 Feb 2025 13:00:11 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>兩人在退休人員從六位數的加密巢蛋中騙了後被捕</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/aberdeen_crypto_scam_arrests/</link>
-      <description><![CDATA[每年價值數十億個欺詐障礙的最新 兩名男子因涉嫌7月的加密貨幣欺詐而被捕，涉及七十年代的一名男子。…]]></description>
+      <description><![CDATA[每年價值數十億美元的欺詐行為中的最新 兩名男子因涉嫌7月的加密貨幣欺詐而被捕，涉及七十年代的一名男子。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/aberdeen_crypto_scam_arrests/</guid>
       <pubDate>Thu, 20 Feb 2025 11:35:30 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>DXC的支付比原始合同價值高出50％，用於災難性的公共部門甲骨文項目</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/dxc_oracle_uk_contract/</link>
-      <description><![CDATA[系統集成商在大型SAP遷移暫停之前已獲得“變化”  系統集成商DXC比其原始合同價值高出50％以上，以完成災難性項目期間計劃合同期限的一半以上將英國政府機構從老化的SAP ERP系統中移到Oracle Fusion。…  &lt;！ - ＃include virtal =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
+      <description><![CDATA[系統集成商在大型SAP遷移暫停之前已獲得“變化”  系統集成商DXC比其原始合同價值高出50％以上，以完成災難性項目期間計劃合同期限的一半以上將英國政府機構從老化的SAP ERP系統中移出到Oracle Fusion。…  &lt;！ - ＃include virter =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/dxc_oracle_uk_contract/</guid>
       <pubDate>Thu, 20 Feb 2025 09:30:14 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>大型AI建造已經“停滯”，今年不會發生，因為資金和GPU證明難以捉摸</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/a_big_ai_build_has/</link>
-      <description><![CDATA[阿里斯塔（Arista）在該項目中發揮了一年的作用。好事的業務是牢固的  Big Tech的計劃在2025年期間花費數千億美元在基礎設施上的計劃經常被認為是對人工智能的幾乎無端的需求，但是網絡供應商Arista剛剛透露了一個大型AI構建由於缺乏資金和硬件而“停滯”。…]]></description>
+      <description><![CDATA[阿里斯塔（Arista）在該項目中發揮了一年的作用。好事的業務是牢固的  Big Tech的計劃在2025年期間花費數千億美元在基礎設施上花費數千億美元，通常被認為表明對人工智能的幾乎無端需求，但是網絡供應商Arista剛剛透露了一個大型的AI構建由於缺乏資金和硬件而“停滯”。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/a_big_ai_build_has/</guid>
       <pubDate>Thu, 20 Feb 2025 06:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>法國以22分鐘的等離子體遏制運行中國的託卡馬克紀錄</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/france_tops_chinas_tokamak_record/</link>
-      <description><![CDATA[不錯的數字，但不僅僅是一個不錯的進步 法國的Commissariatàl&#39;énergieatomique et aux aux Energies替代方案，他聲稱它是中國最近建立的最佳唱片，以保持在tokamak中保持融合的記錄，因此邁出了邁向能夠產生廉價能源的融合反應堆的又一步。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/france_tops_chinas_tokamak_record/</guid>
-      <pubDate>Thu, 20 Feb 2025 05:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>與雪花勒索橫衝直撞有關的美軍士兵承認違反法律</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/us_army_snowflake_theft/</link>
-      <description><![CDATA[這就是餅乾融化 涉嫌黑客入侵的美國陸軍士兵和Verizon承認洩露在線人們的私人呼叫記錄。…  &lt;！ - ＃＃包括virtual =&#39;/ data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/us_army_snowflake_theft/</guid>
-      <pubDate>Thu, 20 Feb 2025 03:01:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
