@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 21 Feb 2025 22:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 23:13:05 GMT</lastBuildDate>
+    <item>
+      <title>德克薩斯州麻疹爆發達到90例；新墨西哥州的9個案件</title>
+      <link>https://arstechnica.com/health/2025/02/texas-measles-outbreak-may-have-spread-to-new-mexico-total-cases-near-100/</link>
+      <description><![CDATA[得克薩斯州的案件主要是兒童。 16例病例已住院。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/texas-measles-outbreak-may-have-spread-to-new-mexico-total-cases-near-100/</guid>
+      <pubDate>Fri, 21 Feb 2025 22:26:04 GMT</pubDate>
+    </item>
     <item>
       <title>根據新法案，大腳怪可以成為加利福尼亞的“官方隱身”</title>
       <link>https://arstechnica.com/tech-policy/2025/02/under-new-bill-bigfoot-could-become-californias-official-cryptid/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[據報導，肯尼迪也計劃刪除代理疫苗顧問。]]></description>
       <guid>https://arstechnica.com/health/2025/02/rfk-jr-promptly-cancels-vaccine-advisory-meeting-pulls-flu-shot-campaign/</guid>
       <pubDate>Fri, 21 Feb 2025 19:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著內核的轉化：Linux傳奇中的Rust到達“全帽子”階段的“ Linus”階段</title>
-      <link>https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/</link>
-      <description><![CDATA[Torvalds：您可以避免作為C維護器作為生鏽，但是您不能干擾它。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/</guid>
-      <pubDate>Fri, 21 Feb 2025 18:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
