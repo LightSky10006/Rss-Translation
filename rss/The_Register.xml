@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 21 Feb 2025 23:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:57:35 GMT</lastBuildDate>
+    <item>
+      <title>Docker延遲樞紐拉力限制一個月，調整最大值，推回存儲計費</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_consumption_pricing_takes_effect/</link>
+      <description><![CDATA[圖像獲取要每小時封頂，以供個人，未經身份驗證的使用  Docker推遲了其計劃限製圖像拉力的計劃- 從Docker Hub下載映像- 從docker Hub下載，以前已更改已發布配額。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_consumption_pricing_takes_effect/</guid>
+      <pubDate>Sat, 22 Feb 2025 00:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>領導人說，數據非常有價值，只是不要要求我們測量它。</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/21/data_survey_analyst/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[PIRG   蘋果，戴爾取得了一些進展，但MacBook仍然是最糟糕的打開，但修復權的權利卻取得了動力，但筆記本電腦製造商在很大程度上停滯不前。…&lt;…&lt;…&lt;…&lt; /p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/laptop_manufacturers_repairability/</guid>
       <pubDate>Thu, 20 Feb 2025 18:18:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>歐洲雲BIZ試驗“冷盒中的服務器刀片”系統</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/diggers_exoscale_liquid_cooling/</link>
-      <description><![CDATA[熱空氣還是節能50％？外觀數據中心運行概念驗證，以測試Digger索賠的真實性  A1數字正在測試液體冷卻技術的功率密集型AI服務器，該技術據稱可以節省先前冷卻所需的50％的能量完全需要空調。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/diggers_exoscale_liquid_cooling/</guid>
-      <pubDate>Thu, 20 Feb 2025 17:39:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
