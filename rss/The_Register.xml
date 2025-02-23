@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sun, 23 Feb 2025 15:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 17:36:15 GMT</lastBuildDate>
+    <item>
+      <title>如果您認為培訓AI模型很難，請嘗試與他們建立企業應用程序</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/23/aleph_alpha_sovereign_ai/</link>
+      <description><![CDATA[ Aleph Alpha的Jonas Andrulis在建立主權AI   面試面試的挑戰，儘管每年花費數十億美元培訓大型語言模型（LLMS），但仍然存在很大的差距在建立模型和以有用的方式將其集成到應用程序之間。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/23/aleph_alpha_sovereign_ai/</guid>
+      <pubDate>Sun, 23 Feb 2025 17:25:05 GMT</pubDate>
+    </item>
     <item>
       <title>這是您需要看到的最醜陋的全球暖圖表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/23/ugliest_global_warming_chart/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有人想要內存錯誤。 Penguinistas繼續爭論如何擠壓&#39;em   更新一些Linux內核維護者仍然不相信在開源項目中添加Rust Code是一個好主意，但其VIP是一個好主意，但它的VIP卻出現了支持該語言的集成。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/21/linux_c_rust_debate_continues/</guid>
       <pubDate>Fri, 21 Feb 2025 00:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft擴展了Copilot Bug Bounty Targets，增加了甚至中度混亂的支出</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_copilot_bug_bounty_updated/</link>
-      <description><![CDATA[說Bugs“可以具有重大影響”  - 很高興聽到Microsoft從Redmond   Microsoft非常關注其副產品的安全性，以至於它提高了對中度嚴重性脆弱性的Bounty Bounty付款。最高$ 5,000，並擴大了將為人們付費尋找和報告的漏洞範圍。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_copilot_bug_bounty_updated/</guid>
-      <pubDate>Thu, 20 Feb 2025 23:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
