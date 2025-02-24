@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 24 Feb 2025 16:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 17:12:10 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft修剪Windows 11兼容性列表中的更多CPU</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/24/microsoft_win_11_cpus/</link>
+      <description><![CDATA[ OEM從處理器庫存櫥櫃中吹出灰塵，當心  Microsoft已發布Windows 11 24H2支持的CPU列表 - 向OEM確認，如果他們希望突襲11th-the Pre-11t-the Pre一代英特爾CPU，它們是不幸的。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/microsoft_win_11_cpus/</guid>
+      <pubDate>Mon, 24 Feb 2025 17:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>英特爾在Xeon 6 Blitz中提高加速器，以擊敗AMD</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/24/intel_xeon_6/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[圖像獲取要小時限制，以進行個人，未經身份驗證的使用，付費計劃獲取無限訪問  docker推遲了其計劃限製圖像拉力的計劃- 從docker Hub下載容器圖像-，到一個月，並已更改了先前發布的配額。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_hub_pull_limits/</guid>
       <pubDate>Sat, 22 Feb 2025 00:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>領導人說，數據非常有價值，只是不要要求我們測量它。</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/21/data_survey_analyst/</link>
-      <description><![CDATA[大炒作十五年後，不到25％的組織衡量數據的價值，分析 大數據炒作十五年，猜猜是什麼？負責分析項目的負責人的四分之一實際上衡量了他們工作的組織的活動價值。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/21/data_survey_analyst/</guid>
-      <pubDate>Fri, 21 Feb 2025 23:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
