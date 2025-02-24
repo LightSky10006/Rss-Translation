@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Sun, 23 Feb 2025 19:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 12:58:49 GMT</lastBuildDate>
+    <item>
+      <title>紐約15美元寬帶授權之後的ISP恐懼國家法律浪潮</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/isps-fear-wave-of-state-laws-after-new-yorks-15-broadband-mandate/</link>
+      <description><![CDATA[當FCC不進行監管時，各州就有更多的權力施加寬帶法律。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/isps-fear-wave-of-state-laws-after-new-yorks-15-broadband-mandate/</guid>
+      <pubDate>Mon, 24 Feb 2025 12:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Stepford Wives年滿50歲</title>
       <link>https://arstechnica.com/uncategorized/2025/02/the-stepford-wives-turns-50/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[研究人員正在研究數據，並將其饋送到chatgpt中。]]></description>
       <guid>https://arstechnica.com/security/2025/02/leaked-chat-logs-expose-inner-workings-of-secretive-ransomware-group/</guid>
       <pubDate>Fri, 21 Feb 2025 21:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員弄清楚如何將新鮮鋰納入電池</title>
-      <link>https://arstechnica.com/science/2025/02/researchers-figure-out-how-to-get-fresh-lithium-into-batteries/</link>
-      <description><![CDATA[常規劑量的鋰使電池生存於近12k週期（和計數）。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/researchers-figure-out-how-to-get-fresh-lithium-into-batteries/</guid>
-      <pubDate>Fri, 21 Feb 2025 21:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
