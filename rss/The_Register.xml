@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 25 Feb 2025 16:44:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 18:18:29 GMT</lastBuildDate>
+    <item>
+      <title>IBM計劃購買開源Cassandra Wrangler DataStax</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/ibm_datastax/</link>
+      <description><![CDATA[大藍眼睛與其AI開發工作室的集成  IBM計劃購買dataStax，AI和數據BIZ，該BIZ支持並為開源的Cassandra Wide Pinter Database提供並做出貢獻。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/25/ibm_datastax/</guid>
+      <pubDate>Tue, 25 Feb 2025 17:49:26 GMT</pubDate>
+    </item>
     <item>
       <title>火星的紅色可能具有較早，更濕的起源</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/mars_red_ferrihydrate/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>您比前蘋果設計大師喬尼·艾夫（Jony Ive）涼爽嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/jony_ive_desert_island_discs/</link>
-      <description><![CDATA[高功率高管和他們對U2的熱愛是什麼？儘管他的職業生涯是他的悠久職業和與已故的史蒂夫·喬布斯（Steve Jobs）的親密友誼，但他的選秀權還是50多歲的英國人的行人。 - &gt; ]]></description>
+      <description><![CDATA[高功率高管和他們對U2的熱愛是什麼？儘管他的職業生涯是他的悠久職業和與已故的史蒂夫·喬布斯（Steve Jobs）的親密友誼，但他的選秀權是50年代後期的英國人。 - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/25/jony_ive_desert_island_discs/</guid>
       <pubDate>Tue, 25 Feb 2025 11:45:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[ OEM從處理器庫存櫥櫃中吹出灰塵，當心  Microsoft已發布Windows 11 24H2支持的CPU列表 - 向OEM確認，如果他們希望突襲11th-the Pre-11t-the Pre一代英特爾CPU，它們是不幸的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/microsoft_win_11_cpus/</guid>
       <pubDate>Mon, 24 Feb 2025 17:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特爾在Xeon 6 Blitz中提高加速器，以擊敗AMD</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/24/intel_xeon_6/</link>
-      <description><![CDATA[但對於奇皮齊拉（Chipzilla星期一發出了另一波Xeon 6處理器。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/intel_xeon_6/</guid>
-      <pubDate>Mon, 24 Feb 2025 16:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
