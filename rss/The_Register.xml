@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 25 Feb 2025 20:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 21:12:19 GMT</lastBuildDate>
+    <item>
+      <title>Miter Caldera安全套件分數完美10</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/10_bug_mitre_caldera/</link>
+      <description><![CDATA[在培訓的每個版本中，都是一個微不足道的遙控執行孔，還是？ 智能曲奇發現了完美的10-0-severity遠程代碼執行（RCE） MITER的Caldera安全培訓平台中的Bug已敦促用戶“立即拉下最新版本”。如下，下載並安裝它。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/25/10_bug_mitre_caldera/</guid>
+      <pubDate>Tue, 25 Feb 2025 20:47:03 GMT</pubDate>
+    </item>
     <item>
       <title>IBM計劃購買開源Cassandra Wrangler DataStax</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/ibm_datastax/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>您比前蘋果設計大師喬尼·艾夫（Jony Ive）涼爽嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/jony_ive_desert_island_discs/</link>
-      <description><![CDATA[高功率高管和他們對U2的熱愛是什麼？儘管他的職業生涯是他的悠久職業和與已故的史蒂夫·喬布斯（Steve Jobs）的親密友誼，但他的選秀權還是50多歲的英國人的行人。 - &gt; ]]></description>
+      <description><![CDATA[高功率高管和他們對U2的熱愛是什麼？儘管他的職業生涯是他的悠久職業和與已故的史蒂夫·喬布斯（Steve Jobs）的親密友誼，但他的選秀權是50年代後期的英國人。 - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/25/jony_ive_desert_island_discs/</guid>
       <pubDate>Tue, 25 Feb 2025 11:45:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們被告知，“將採取適當的措施”  - 當聯邦人力資源電子郵件Sparks Uproar uproar上，斧頭屬於CISA工作人員 美國住房和城市發展部的訪客在首都獲得了在建築物對面的電視屏幕開始展示了特朗普總統接吻和吮吸埃隆·馬斯克（Elon Musk）的腳趾的深層視頻之後，週一早上，一些令人不愉快的觀看。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/hud_trump_toe_sucking/</guid>
       <pubDate>Mon, 24 Feb 2025 20:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft修剪Windows 11兼容性列表中的更多CPU</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/24/microsoft_win_11_cpus/</link>
-      <description><![CDATA[ OEM從處理器庫存櫥櫃中吹出灰塵，當心  Microsoft已發布Windows 11 24H2支持的CPU列表 - 向OEM確認，如果他們希望突襲11th-the Pre-11t-the Pre一代英特爾CPU，它們是不幸的。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/microsoft_win_11_cpus/</guid>
-      <pubDate>Mon, 24 Feb 2025 17:01:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
