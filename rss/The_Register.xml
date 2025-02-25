@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 25 Feb 2025 10:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 11:11:39 GMT</lastBuildDate>
+    <item>
+      <title>針對操作技術系統的惡意軟件變體非常罕見 - 但去年發現了2種</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/new_ics_malware_dragos/</link>
+      <description><![CDATA[ Fuxnet和FrostyGoop都在俄羅斯- 烏克蘭戰爭中使用了 去年，專門設計用於破壞關鍵工業流程的兩種新的惡意軟件變體在去年的運營技術網絡上放鬆，將熱量關閉至600多個。一個實例的公寓建築物，並在另一種情況下與天然氣，水和污水網絡傳感器進行交流。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/25/new_ics_malware_dragos/</guid>
+      <pubDate>Tue, 25 Feb 2025 11:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>觀察課程：Fedora和Flathub的Flatpak Fiasco Sparks Repo Rumble</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/25/fedora_obs_flatpak_dispute/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[死者可能永遠不會死 在英勇的努力之後，最古老的機器可讀版本2版本再次運行。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/beta_unix_2_restored/</guid>
       <pubDate>Mon, 24 Feb 2025 10:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft的歐元授權文件資源管理器手術表明“更少的是更多”仍然是一回事</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/24/opinion_column_file_explorer/</link>
-      <description><![CDATA[謙虛但有著悠久的歷史，該公用事業公司的隱私折扣表明，未來可能的未來  意見 Windows File Explorer並沒有得到太多的愛，可憐的事情。如果找不到尋求的文件，或者是否有一些需要顯示的設置，它會發誓。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/24/opinion_column_file_explorer/</guid>
-      <pubDate>Mon, 24 Feb 2025 09:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
