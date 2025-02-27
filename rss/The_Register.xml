@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 27 Feb 2025 17:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 18:17:54 GMT</lastBuildDate>
+    <item>
+      <title>DARPA尋求“大型生物力學空間結構”的想法</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/darpa_biomech_space_structures/</link>
+      <description><![CDATA[如何製作它們，以及用於 美國國防部的研究部門DARPA，已提出了“大型生物力學空間結構”的信息請求（RFI）。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/darpa_biomech_space_structures/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:02:14 GMT</pubDate>
+    </item>
     <item>
       <title>安培在肌肉上押注進入英特爾的電信領土</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/ampere_arm_intel_telco/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[從Snapdragon 8 Elite和&#39;Droid 15  開始，製造商似乎最終收到了一個信息，即人們希望將其工具包用於更長的情況下而沒有安全問題的情況下，正如高通公司所說，它將提供Android軟件更新，包括脆弱性修復，包括八年的最新芯片，而不是四年。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/qualcomm_android_support/</guid>
       <pubDate>Wed, 26 Feb 2025 18:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>網絡邊緣？您將獲得64位ARMV9 AI。你也是看。您，服務器遙控管理。你呢...</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/armv9_cortex_a320/</link>
-      <description><![CDATA[手臂為小型推理的小型嵌入式齒輪推出了Cortex-A320，該齒輪 手臂預測AI推斷很快就會無處不在。為了為所有神經網絡處理提供所需的設備，它使用第一個64位ARMV9 CPU核心來加強其嵌入式平台。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/armv9_cortex_a320/</guid>
-      <pubDate>Wed, 26 Feb 2025 17:48:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
