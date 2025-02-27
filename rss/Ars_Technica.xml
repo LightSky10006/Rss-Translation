@@ -4,9 +4,30 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 27 Feb 2025 17:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 19:10:18 GMT</lastBuildDate>
     <item>
-      <title>Max從3月30日開始從美國一些訂戶撤出CNN和運動</title>
+      <title>醫生報告說患有流感的兒童嚴重腦功能障礙的增長</title>
+      <link>https://arstechnica.com/health/2025/02/the-flu-may-be-attacking-more-childrens-brains-than-usual-this-year/</link>
+      <description><![CDATA[CDC數據是有限的，但提示它可能是更嚴重的季節之一。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/the-flu-may-be-attacking-more-childrens-brains-than-usual-this-year/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>門戶隨機分配感覺就像是第一次播放門戶</title>
+      <link>https://arstechnica.com/gaming/2025/02/how-portal-randomized-breathes-new-life-into-a-pc-gaming-classic/</link>
+      <description><![CDATA[小型遊戲調整使人們面臨著舊挑戰的全新挑戰。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/02/how-portal-randomized-breathes-new-life-into-a-pc-gaming-classic/</guid>
+      <pubDate>Thu, 27 Feb 2025 17:34:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟認為，特朗普應該阻止拜登的AI“禮物”。</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/microsoft-pushes-trump-to-revise-bidens-last-minute-ai-chip-rule/</link>
+      <description><![CDATA[微軟：如果美國從AI籌碼中切斷“朋友”，中國將贏得AI比賽。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/microsoft-pushes-trump-to-revise-bidens-last-minute-ai-chip-rule/</guid>
+      <pubDate>Thu, 27 Feb 2025 17:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>麥克斯（Max）將於3月30日從美國一些訂戶中拉出CNN和運動</title>
       <link>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</link>
       <description><![CDATA[支付免費廣告麥克斯的人仍然可以使用CNN Max和B/R運動。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[較小的電動汽車將使用400 V動力總成節省資金。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/kias-ev-strategy-smaller-cheaper-cars-like-ev3-hatch-and-ev4-sedan/</guid>
       <pubDate>Thu, 27 Feb 2025 08:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員對AI感到困惑，該AI在訓練不安全的代碼後讚揚了納粹</title>
-      <link>https://arstechnica.com/information-technology/2025/02/researchers-puzzled-by-ai-that-admires-nazis-after-training-on-insecure-code/</link>
-      <description><![CDATA[當接受6,000個錯誤的代碼示例培訓時，AI模型會提供惡意或欺騙性的建議。]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/02/researchers-puzzled-by-ai-that-admires-nazis-after-training-on-insecure-code/</guid>
-      <pubDate>Wed, 26 Feb 2025 23:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>新洩漏表明半衰期3的發展可能即將完成</title>
-      <link>https://arstechnica.com/gaming/2025/02/fresh-leaks-suggest-half-life-3-development-may-be-nearing-completion/</link>
-      <description><![CDATA[數據挖掘的發動機更新表明，期待已久的續集處於“拋光和優化”階段。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/fresh-leaks-suggest-half-life-3-development-may-be-nearing-completion/</guid>
-      <pubDate>Wed, 26 Feb 2025 23:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>WB軸的莫爾多製造商的陰影在聰明，受過專利的遊戲系統的挫折中</title>
-      <link>https://arstechnica.com/gaming/2025/02/wb-axes-shadow-of-mordor-maker-in-setback-for-clever-sadly-patented-game-system/</link>
-      <description><![CDATA[意見：通過安全玩，WB使其他遊戲更難進行實驗。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/wb-axes-shadow-of-mordor-maker-in-setback-for-clever-sadly-patented-game-system/</guid>
-      <pubDate>Wed, 26 Feb 2025 22:51:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
