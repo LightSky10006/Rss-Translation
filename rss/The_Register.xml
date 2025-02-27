@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 27 Feb 2025 19:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 21:13:07 GMT</lastBuildDate>
+    <item>
+      <title>AWS Unboxes量子cat量子套件稱為ocelot</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/aws_unboxes_quantum_cat_qubit/</link>
+      <description><![CDATA[在Microsoft and Co之後衝刺，亞馬遜聲稱它也有一個QC芯片，在周四宣布了基於“ Cat Qubits”的量子計算芯片OCELOT，它在最重要的錯誤校正  Amazon Web Services上都很出色。…。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/aws_unboxes_quantum_cat_qubit/</guid>
+      <pubDate>Thu, 27 Feb 2025 20:39:53 GMT</pubDate>
+    </item>
     <item>
       <title>框架台式機使ifixit感到震驚 - 即使是焊接的RAM</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/ifixit_framework_desktop/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>可怕的代碼會讓您生氣嗎？等到您看到它對OpenAi的GPT-4O有什麼作用</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/llm_emergent_misalignment_study/</link>
-      <description><![CDATA[模型經過微調以編寫脆弱的軟件 - 然後建議奴役人類 計算機科學家發現，對概念上的細微語言模型進行了嚴重的操作，可以對AI進行微不足道的大型語言模型，從而對AI的輸出產生負面影響。]]></description>
+      <description><![CDATA[模型是為了編寫脆弱的軟件 - 然後建議奴役人類  更新了計算機科學家發現，精細調整概念安全的大語言模型可能會對ai的影響產生負面影響&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/llm_emergent_misalignment_study/</guid>
       <pubDate>Thu, 27 Feb 2025 07:29:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[SMCI had to come up with long-delayed report – or lose its slot on NASDAQ again It only took five or so months, but Supermicro has managed to untangle its long-delayed 2024 annual report, which was in a shoddy enough state to set its previous accountants running for the hills and put the server maker at risk of being delisted from the NASDAQ again.…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/supermicro_10k_filing/</guid>
       <pubDate>Wed, 26 Feb 2025 20:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，Slack現在無法正常工作 - 享受您的互聯網下雪天</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/slack_outage/</link>
-      <description><![CDATA[聊天應用程序CHAPS拍打，被用來將Yakkity-Yakkers留在襟翼中  最終更新不僅僅是您。 Slack確實在搖搖欲墜的一天，讓人們無法照常互相留言。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/slack_outage/</guid>
-      <pubDate>Wed, 26 Feb 2025 19:17:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
