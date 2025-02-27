@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 27 Feb 2025 01:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 02:21:16 GMT</lastBuildDate>
+    <item>
+      <title>FAA確認它正在測試Starlink，也許對於Elon說Verizon做得不好的任務</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/</link>
+      <description><![CDATA[加：據報導，馬斯克的BIZ帝國去年從Sam叔叔那裡賺了6b美元以上  FAA已確認它正在嘗試使用三個Spacex Starlink寬帶寬帶終端。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/</guid>
+      <pubDate>Thu, 27 Feb 2025 02:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>中國偉大防火牆125字節的易碎脆弱性秘密</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/wallbleed_vulnerability_great_firewall/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>是的，Slack現在無法正常工作 - 享受您的互聯網下雪天</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/slack_outage/</link>
-      <description><![CDATA[聊天應用程序chaps拍打，被用來使Yakkity-yakkers放在襟翼中  更新不僅僅是您。 Slack確實在搖搖欲墜的一天，讓人們無法照常互相留言。…]]></description>
+      <description><![CDATA[聊天應用程序CHAPS拍打，被用來將Yakkity-Yakkers留在襟翼中  最終更新不僅僅是您。 Slack確實在搖搖欲墜的一天，讓人們無法照常互相留言。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/slack_outage/</guid>
       <pubDate>Wed, 26 Feb 2025 19:17:05 GMT</pubDate>
     </item>
@@ -125,10 +132,10 @@
       <pubDate>Wed, 26 Feb 2025 10:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>史蒂夫·沃茲尼亞克（Steve Wozniak）：“創立蘋果今天要比1970年代要困難得多”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_keynote/</link>
+      <title>沃茲尼亞克：我沒有減少製造業的芯片計數。我想證明我很聰明</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_engineer_keynote/</link>
       <description><![CDATA[加：當心一個名為“ Spanky”  計算先驅史蒂夫·沃茲尼亞克（Steve Wozniak）並沒有打算徹底改變計算機行業的熱點。他只是想尊重他的工程師。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_keynote/</guid>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_engineer_keynote/</guid>
       <pubDate>Wed, 26 Feb 2025 09:30:07 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Microsoft首席執行官對促進GDP的神經網絡更感興趣，而不是交付超人智慧 ，而Openai和Alibaba等人都在談論能夠替換人類的人工通用智能（AGI），Microsoft CEO CEO的成功率可能會受益於全球範圍，以衡量該應用程序/p&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/microsofts_nadella_wants_to_see/</guid>
       <pubDate>Wed, 26 Feb 2025 08:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>200多個令人信服的GitHub存儲庫正在為惡意軟件提供服務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/26/infosec_bytes/</link>
-      <description><![CDATA[加：Doge員工退出； LastPass PC，MAC GASP； CISA警告說，Oracle和Adobe缺陷   Infosec字節 kaspersky說，它發現了200多個GitHub存儲庫，託管了相當令人信服的假貨項目。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/26/infosec_bytes/</guid>
-      <pubDate>Wed, 26 Feb 2025 07:35:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
