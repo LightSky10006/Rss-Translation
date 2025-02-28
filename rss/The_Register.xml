@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 28 Feb 2025 08:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 09:36:47 GMT</lastBuildDate>
+    <item>
+      <title>IBM喜歡Hashicorp，終於在上面放了64億美元的戒指</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</link>
+      <description><![CDATA[競爭監管機構永遠保持和平，與仍對Terraform許可轉換不滿意的開發商不同，IBM終於完成了英國競爭監管機構在企業婚姻後的64億美元接管Hashicorp的64億美元接管。………。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</guid>
+      <pubDate>Fri, 28 Feb 2025 09:31:12 GMT</pubDate>
+    </item>
     <item>
       <title>一個愚蠢的擊鍵暴露於Sysadmin中，他無法看不見的信息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[五月，我們都有諸如年收入增長從126％下降到114％  Nvidia的驚人近期增長在其2025財政年度（截至1月26日的12個月）的第四季度，但GPU泰坦仍在產生令人羨慕的數字。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/nvidia_q4_revs/</guid>
       <pubDate>Thu, 27 Feb 2025 04:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>FAA確認它正在測試Starlink，也許對於Elon說Verizon做得不好的任務</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/</link>
-      <description><![CDATA[加：據報導，馬斯克的BIZ帝國去年從Sam叔叔那裡賺了6b美元以上  FAA已確認它正在嘗試使用三個Spacex Starlink寬帶寬帶終端。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/</guid>
-      <pubDate>Thu, 27 Feb 2025 02:00:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
