@@ -4,11 +4,18 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 28 Feb 2025 01:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 03:04:44 GMT</lastBuildDate>
+    <item>
+      <title>Astroscale用一塊太空垃圾來吸引世界上第一個會合</title>
+      <link>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</link>
+      <description><![CDATA[這一成功為未來的任務與失控的衛星對接奠定了基礎。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</guid>
+      <pubDate>Fri, 28 Feb 2025 01:06:41 GMT</pubDate>
+    </item>
     <item>
       <title>Copilot公開了私人GitHub頁面，有些由Microsoft刪除</title>
       <link>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</link>
-      <description><![CDATA[存儲庫曾經設置為公共場所，然後將其設置為私人，仍然可以通過副駕駛訪問。]]></description>
+      <description><![CDATA[存儲庫曾經設置為公共場所，後來又設置為私人，仍然可以通過副駕駛訪問。]]></description>
       <guid>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</guid>
       <pubDate>Thu, 27 Feb 2025 23:43:44 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 27 Feb 2025 19:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>現在，超頻的好奇可以購買劃定的AMD 9800x3d，並具有保修</title>
+      <title>現在，超頻很有趣可以購買劃定的AMD 9800x3d，並具有保修</title>
       <link>https://arstechnica.com/gadgets/2025/02/now-the-overclock-curious-can-buy-a-delidded-amd-9800x3d-with-a-warranty/</link>
       <description><![CDATA[可以使用保修，可以使用保修，以備限制其限制。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/now-the-overclock-curious-can-buy-a-delidded-amd-9800x3d-with-a-warranty/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[微軟：如果美國從AI籌碼中切斷“朋友”，中國將贏得AI比賽。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/microsoft-pushes-trump-to-revise-bidens-last-minute-ai-chip-rule/</guid>
       <pubDate>Thu, 27 Feb 2025 17:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>麥克斯（Max）將於3月30日從美國一些訂戶中拉出CNN和運動</title>
-      <link>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</link>
-      <description><![CDATA[支付免費廣告麥克斯的人仍然可以使用CNN Max和B/R運動。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</guid>
-      <pubDate>Thu, 27 Feb 2025 16:56:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
