@@ -4,7 +4,35 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 28 Feb 2025 13:23:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:13:21 GMT</lastBuildDate>
+    <item>
+      <title>有關AMD的$ 549和599美元Radeon RX 9070 GPU的詳細信息，該GPU針對NVIDIA和4K</title>
+      <link>https://arstechnica.com/gadgets/2025/02/details-on-amds-549-and-599-radeon-rx-9070-gpus-which-aim-at-nvidia-and-4k/</link>
+      <description><![CDATA[3月6日，新的GPU啟動，針對中上部1440p和4K遊戲PC。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/details-on-amds-549-and-599-radeon-rx-9070-gpus-which-aim-at-nvidia-and-4k/</guid>
+      <pubDate>Fri, 28 Feb 2025 15:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD的FSR 4 Upscaling是90系列Radeon GPU的獨有的，無法在其他卡上使用</title>
+      <link>https://arstechnica.com/gadgets/2025/02/amds-fsr-4-upscaling-is-exclusive-to-90-series-radeon-gpus-wont-work-on-other-cards/</link>
+      <description><![CDATA[像NVIDIA一樣，AMD正在鎖定其最新GPU的一些提高進步。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/amds-fsr-4-upscaling-is-exclusive-to-90-series-radeon-gpus-wont-work-on-other-cards/</guid>
+      <pubDate>Fri, 28 Feb 2025 15:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美國南極計劃被門衛引起的混亂中斷</title>
+      <link>https://arstechnica.com/science/2025/02/us-antarctic-program-disrupted-by-doge-induced-chaos/</link>
+      <description><![CDATA[長期影響不僅會影響研究，而且會影響地緣政治。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/us-antarctic-program-disrupted-by-doge-induced-chaos/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>5月5日，微軟的Skype將永遠關閉</title>
+      <link>https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/</link>
+      <description><![CDATA[Skype用戶將能夠與現有帳戶一起進入團隊。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:00:56 GMT</pubDate>
+    </item>
     <item>
       <title>雪球賦予了複雜的生活嗎？</title>
       <link>https://arstechnica.com/science/2025/02/bulldozing-glaciers-may-have-spurred-evolution-in-the-ocean/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>Copilot公開了私人GitHub頁面，有些由Microsoft刪除</title>
       <link>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</link>
-      <description><![CDATA[存儲庫曾經設置為公開，後來又可以通過Copilot訪問。]]></description>
+      <description><![CDATA[存儲庫曾經設置為公共場所，後來又設置為私人，仍然可以通過副駕駛訪問。]]></description>
       <guid>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</guid>
       <pubDate>Thu, 27 Feb 2025 23:43:44 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[它看起來和工作就像來自Openai和Anthropic的類似應用程序。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/microsoft-brings-an-official-copilot-app-to-macos-for-the-first-time/</guid>
       <pubDate>Thu, 27 Feb 2025 21:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的AI文本擴散模型通過從噪音中拉出單詞來打破速度障礙</title>
-      <link>https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/</link>
-      <description><![CDATA[新擴散模型從AI圖像合成中藉用10倍速度提升的技術。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google最終將修復像素的很棒（但破碎的）歌曲檢測功能</title>
-      <link>https://arstechnica.com/google/2025/02/google-will-finally-fix-awesome-but-broken-song-detection-feature-for-pixels/</link>
-      <description><![CDATA[Google去年打破了該功能，並花了幾個月的投訴才能實現這一目標。]]></description>
-      <guid>https://arstechnica.com/google/2025/02/google-will-finally-fix-awesome-but-broken-song-detection-feature-for-pixels/</guid>
-      <pubDate>Thu, 27 Feb 2025 20:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlayStation VR2將獲得巨大的降價，但這可能還不夠</title>
-      <link>https://arstechnica.com/gaming/2025/02/the-playstation-vr2-will-get-a-drastic-price-cut-but-that-might-not-be-enough/</link>
-      <description><![CDATA[這可能會使平台振興，或者證明情況進展不順利。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/the-playstation-vr2-will-get-a-drastic-price-cut-but-that-might-not-be-enough/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在，超頻的好奇可以購買劃定的AMD 9800x3d，並具有保修</title>
-      <link>https://arstechnica.com/gadgets/2025/02/now-the-overclock-curious-can-buy-a-delidded-amd-9800x3d-with-a-warranty/</link>
-      <description><![CDATA[可以使用保修，可以使用保修，以備限制其限制。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/now-the-overclock-curious-can-buy-a-delidded-amd-9800x3d-with-a-warranty/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:51:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
