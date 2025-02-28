@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 28 Feb 2025 22:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 23:12:19 GMT</lastBuildDate>
+    <item>
+      <title>Android 0天由Cellebrite賣給了黑客塞爾維亞學生電話</title>
+      <link>https://arstechnica.com/security/2025/02/android-0-day-sold-by-cellebrite-exploited-to-hack-serbian-students-phone/</link>
+      <description><![CDATA[已經安裝了Google 2月補丁批次的Android用戶應盡快這樣做。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/android-0-day-sold-by-cellebrite-exploited-to-hack-serbian-students-phone/</guid>
+      <pubDate>Fri, 28 Feb 2025 23:08:30 GMT</pubDate>
+    </item>
     <item>
       <title>火星的極地冰蓋正在慢慢將其北極向內推</title>
       <link>https://arstechnica.com/science/2025/02/mars-polar-ice-cap-is-slowly-pushing-its-north-pole-inward/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[儘管成本為30倍，GPT-4.5仍能達到邊際收益和編碼性能不佳。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/</guid>
       <pubDate>Fri, 28 Feb 2025 16:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，事實證明，您可以使特斯拉塞伯特（Tesla Cyber​​truck）更加醜陋</title>
-      <link>https://arstechnica.com/cars/2025/02/yes-it-turns-out-you-can-make-a-tesla-cybertruck-even-uglier/</link>
-      <description><![CDATA[臭名昭著的汽車修飾符Mansory將其註意力轉移到了特斯拉塞伯特（Tesla Cyber​​truck）上。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/yes-it-turns-out-you-can-make-a-tesla-cybertruck-even-uglier/</guid>
-      <pubDate>Fri, 28 Feb 2025 16:21:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
