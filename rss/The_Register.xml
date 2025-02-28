@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 28 Feb 2025 19:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 20:37:45 GMT</lastBuildDate>
+    <item>
+      <title>三人在新加坡被控與NVIDIA GPU的非法貨物聯繫起來</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/singapore_arrest_server_fraud/</link>
+      <description><![CDATA[被指控面對20年的監禁 新加坡當局已指控三名欺詐行為，據報導，與將NVIDIA GPU貨運到中國有關，違反了美國出口控制。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/singapore_arrest_server_fraud/</guid>
+      <pubDate>Fri, 28 Feb 2025 20:23:23 GMT</pubDate>
+    </item>
     <item>
       <title>勒索軟件罪犯喜歡CISA的KEV列表 - 這是一個錯誤，而不是一個功能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/cisa_kev_list_ransomware/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>IBM喜歡Hashicorp，終於在上面放了$ 6.4B的戒指</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</link>
-      <description><![CDATA[壟斷監管機構永遠保持和平，與對Terraform許可轉換仍然不滿意的開發商不同，  IBM終於完成了英國競爭監管機構在公司婚姻後的64億美元收購Hashicorp日子的64億美元收購。]]></description>
+      <description><![CDATA[壟斷監管機構永遠保持和平，這與對Terraform許可證開關仍然不滿意的開發商不同，  ibm終於完成了英國競爭監管機構在公司競爭的64億美元接管日期的64億美元收購。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</guid>
       <pubDate>Fri, 28 Feb 2025 09:31:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[ 其AI代理商BIZ的增長不足以提高數字  Salesforce在投資AI編碼工具後，今年將不會再僱用任何工程師，從而提供了30％的生產率提升，其首席執行官聲稱，他尋求吸引投資者。…&gt;…&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/salesforce_misses_revenue_guidance/</guid>
       <pubDate>Thu, 27 Feb 2025 15:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA清除Google Watch功能，如果您平整，請致電911</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/google_loss_pulse_detection/</link>
-      <description><![CDATA[看起來您已經死了。您想要幫助嗎？ 美國食品藥品監督管理局（FDA）對Pixel手錶的脈衝檢測功能的丟失表示贊同。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/google_loss_pulse_detection/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
