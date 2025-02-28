@@ -4,7 +4,28 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Fri, 28 Feb 2025 16:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:17:14 GMT</lastBuildDate>
+    <item>
+      <title>Salty Game Dev評論，更輕鬆的mod在Command＆Conquer的源代碼內部</title>
+      <link>https://arstechnica.com/gaming/2025/02/command-conquer-source-release-promises-more-mods-and-updates-for-rts-legend/</link>
+      <description><![CDATA[與合適的人有關，EA可以可以保留和更新其經典作品。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/02/command-conquer-source-release-promises-more-mods-and-updates-for-rts-legend/</guid>
+      <pubDate>Fri, 28 Feb 2025 17:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>歐洲刑警組織逮捕了25名被指控共享AI CSAM的在線網絡用戶</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/25-arrested-so-far-for-sharing-ai-sex-images-of-minors-in-largest-eu-crackdown/</link>
+      <description><![CDATA[歐洲刑警組織的狩獵目標是任何人製作或分享描繪未成年人的人AI性愛圖像。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/25-arrested-so-far-for-sharing-ai-sex-images-of-minors-in-largest-eu-crackdown/</guid>
+      <pubDate>Fri, 28 Feb 2025 16:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>“這是檸檬”  - 奧佩尼有史以來最大的AI模型來混合評論</title>
+      <link>https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/</link>
+      <description><![CDATA[儘管成本為30倍，GPT-4.5仍能達到邊際收益和編碼性能不佳。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/</guid>
+      <pubDate>Fri, 28 Feb 2025 16:35:13 GMT</pubDate>
+    </item>
     <item>
       <title>是的，事實證明，您可以使特斯拉塞伯特（Tesla Cyber​​truck）更加醜陋</title>
       <link>https://arstechnica.com/cars/2025/02/yes-it-turns-out-you-can-make-a-tesla-cybertruck-even-uglier/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[Dogecoin Foundation罷工與流行的Memecoin主流。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/elon-musk-fans-truly-believe-he-can-make-dogecoin-the-currency-of-earth/</guid>
       <pubDate>Fri, 28 Feb 2025 12:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭報告：火箭實驗室的新聞閃電戰；星際飛船的不幸歸咎於振動</title>
-      <link>https://arstechnica.com/science/2025/02/rocket-report-starship-will-soon-fly-again-gilmour-has-a-launch-date/</link>
-      <description><![CDATA[一隻獵鷹9推出了一台直覺的機器Lunar Lander，一個小行星探礦者和NASA科學調查。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/rocket-report-starship-will-soon-fly-again-gilmour-has-a-launch-date/</guid>
-      <pubDate>Fri, 28 Feb 2025 12:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astroscale用一塊太空垃圾來吸引世界上第一個會合</title>
-      <link>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</link>
-      <description><![CDATA[這一成功為未來的任務與失控的衛星對接奠定了基礎。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</guid>
-      <pubDate>Fri, 28 Feb 2025 01:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot公開了私人GitHub頁面，有些由Microsoft刪除</title>
-      <link>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</link>
-      <description><![CDATA[存儲庫曾經設置為公開，後來又可以通過Copilot訪問。]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</guid>
-      <pubDate>Thu, 27 Feb 2025 23:43:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
