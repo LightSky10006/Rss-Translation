@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 28 Feb 2025 07:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 08:41:27 GMT</lastBuildDate>
+    <item>
+      <title>一個愚蠢的擊鍵暴露於Sysadmin中，他無法看不見的信息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/</link>
+      <description><![CDATA[事實證明您 can 請謹慎檢查備份是否有效  在呼叫上再次歡迎再次呼叫，註冊的星期五專欄慶祝了您從危險技術支持請求中慶祝您的逃生。……。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/</guid>
+      <pubDate>Fri, 28 Feb 2025 08:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>開源計劃在時區SNAFU之後捍衛委員會候選人的辯護</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/osi_election_ai_drama/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[加：據報導，馬斯克的BIZ帝國去年從Sam叔叔那裡賺了6b美元以上  FAA已確認它正在嘗試使用三個Spacex Starlink寬帶寬帶終端。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/</guid>
       <pubDate>Thu, 27 Feb 2025 02:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>中國偉大防火牆125字節的易碎脆弱性秘密</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/wallbleed_vulnerability_great_firewall/</link>
-      <description><![CDATA[ boffins在北京修補孔 智能人們調查中國大型防火牆（GFW）的記憶力降低脆弱性（GFW）終於在探測它們的發現多年後，在北京修補孔中戳了多年 聰明的人。…。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/wallbleed_vulnerability_great_firewall/</guid>
-      <pubDate>Thu, 27 Feb 2025 00:52:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
