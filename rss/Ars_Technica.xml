@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Sat, 01 Mar 2025 01:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 02:41:25 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX重做上個月命運不佳的星際飛船測試飛行</title>
+      <link>https://arstechnica.com/space/2025/02/spacex-readies-a-redo-of-last-months-ill-fated-starship-test-flight/</link>
+      <description><![CDATA[美國聯邦航空局（FAA）已清除了SpaceX，在周一立即發布了Starship的第八次測試。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/spacex-readies-a-redo-of-last-months-ill-fated-starship-test-flight/</guid>
+      <pubDate>Sat, 01 Mar 2025 00:53:40 GMT</pubDate>
+    </item>
     <item>
       <title>塞爾維亞學生的Android手機因Cellebrite的漏洞而妥協</title>
       <link>https://arstechnica.com/security/2025/02/android-0-day-sold-by-cellebrite-exploited-to-hack-serbian-students-phone/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[歐洲刑警組織的狩獵目標是任何人製作或分享描繪未成年人的人AI性愛圖像。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/25-arrested-so-far-for-sharing-ai-sex-images-of-minors-in-largest-eu-crackdown/</guid>
       <pubDate>Fri, 28 Feb 2025 16:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>“這是檸檬”  - 奧佩尼有史以來最大的AI模型來混合評論</title>
-      <link>https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/</link>
-      <description><![CDATA[儘管成本為30倍，GPT-4.5仍能達到邊際收益和編碼性能不佳。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/its-a-lemon-openais-largest-ai-model-ever-arrives-to-mixed-reviews/</guid>
-      <pubDate>Fri, 28 Feb 2025 16:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
