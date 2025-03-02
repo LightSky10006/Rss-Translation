@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sun, 02 Mar 2025 01:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 02:40:33 GMT</lastBuildDate>
+    <item>
+      <title>莫茲拉（Mozilla</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/</link>
+      <description><![CDATA[開源瀏覽器製造商在法律範圍內與解釋  Mozilla本週要求Firefox用戶遵守新的使用條款，並更新了其隱私通知和常見問題解答 - 只是為了迅速發出澄清，並沒有真正聲稱實際上聲稱自己對用戶數據擁有所有權。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/</guid>
+      <pubDate>Sun, 02 Mar 2025 02:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>區域互聯網註冊表努力防止自己的流氓之一</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/02/internet_governance_update/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>IBM喜歡Hashicorp，終於在上面放了$ 6.4B的戒指</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</link>
-      <description><![CDATA[壟斷監管機構永遠保持和平，這與對Terraform許可證開關仍然不滿意的開發商不同，  ibm終於完成了英國競爭監管機構在公司競爭的64億美元接管日期的64億美元收購。]]></description>
+      <description><![CDATA[壟斷監管機構永遠保持和平，與對Terraform許可轉換仍然不滿意的開發商不同，  IBM終於完成了英國競爭監管機構在公司婚姻後的64億美元收購Hashicorp日子的64億美元收購。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</guid>
       <pubDate>Fri, 28 Feb 2025 09:31:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[僅供參考：犯罪後不搜查 涉嫌妥協的美國陸軍士兵吹牛，吹噓自己的援助特朗普總統的呼叫日誌據稱試圖將被盜的信息賣給外國英特爾特工。…………]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/army_soldier_accused_of_att/</guid>
       <pubDate>Thu, 27 Feb 2025 22:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>聯邦調查局以$ 1.5B bybit Crypto-burglary的正式手指朝鮮。</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/27/fbi_bybit_korea/</link>
-      <description><![CDATA[聯邦特工，開放...您的瀏覽器，看看您是否認識到這些錢包中的任何一個 聯邦調查局已正式指責朝鮮的拉撒路集團在本月早些時候從Crypto-Exchange bybit中偷走了15億美元的以太坊，並要求跟踪Stolen Funds。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/27/fbi_bybit_korea/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:45:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
