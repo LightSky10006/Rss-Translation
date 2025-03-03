@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 03 Mar 2025 04:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 05:13:53 GMT</lastBuildDate>
+    <item>
+      <title>第一個私人月亮著陸器安全地觸摸，開始發送自拍照</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/blue_ghost_private_moon_success/</link>
+      <description><![CDATA[螢火蟲航空航天計劃工作14天，由於其反射器的改進，該藍鬼計劃在數年內工作，這在3月2日（星期日）上改善了阿波羅時代的技術 在人類對外太空的探索中的重要一天，螢火蟲航空公司成為第一個在月球上登上航天器的私人私人公司。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/blue_ghost_private_moon_success/</guid>
+      <pubDate>Mon, 03 Mar 2025 04:59:12 GMT</pubDate>
+    </item>
     <item>
       <title>據報導，美國網絡司令部暫停了俄羅斯的網絡攻擊</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/infosec_in_brief/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[壟斷監管機構永遠保持和平，與對Terraform許可轉換仍然不滿意的開發商不同，  IBM終於完成了英國競爭監管機構在公司婚姻後的64億美元收購Hashicorp日子的64億美元收購。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/</guid>
       <pubDate>Fri, 28 Feb 2025 09:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一個愚蠢的擊鍵暴露於Sysadmin中，他無法看不見的信息</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/</link>
-      <description><![CDATA[事實證明您 can 請謹慎檢查備份是否有效  在呼叫上再次歡迎再次呼叫，註冊的星期五專欄慶祝了您從危險技術支持請求中慶祝您的逃生。……。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/</guid>
-      <pubDate>Fri, 28 Feb 2025 08:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
