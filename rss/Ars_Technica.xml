@@ -4,7 +4,21 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Tue, 04 Mar 2025 21:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 21:35:13 GMT</lastBuildDate>
+    <item>
+      <title>這些雙重圖像是否說明您的個性？</title>
+      <link>https://arstechnica.com/science/2025/03/do-these-dual-images-say-anything-about-your-personality/</link>
+      <description><![CDATA[基於模棱兩可的圖像的人格測驗是舖位的，但我們仍然可以從這種心理神話中學習。]]></description>
+      <guid>https://arstechnica.com/science/2025/03/do-these-dual-images-say-anything-about-your-personality/</guid>
+      <pubDate>Tue, 04 Mar 2025 21:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>蘋果拒絕打破加密，尋求逆轉英國對後門的需求</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/apple-appeals-uks-secret-demand-for-backdoor-access-to-encrypted-user-data/</link>
+      <description><![CDATA[蘋果對調查權法庭的上訴可能是其類型的第一個案件。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/apple-appeals-uks-secret-demand-for-backdoor-access-to-encrypted-user-data/</guid>
+      <pubDate>Tue, 04 Mar 2025 20:42:24 GMT</pubDate>
+    </item>
     <item>
       <title>Google的AI驅動像素Sense應用程序可能會吞噬所有Pixel 10數據</title>
       <link>https://arstechnica.com/google/2025/03/googles-ai-powered-pixel-sense-app-could-gobble-up-all-your-pixel-10-data/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[新調查還顯示，對科學家和衛生專業人員的信任日益增加。]]></description>
       <guid>https://arstechnica.com/science/2025/03/climate-change-is-harming-the-health-of-americans-and-they-know-it/</guid>
       <pubDate>Tue, 04 Mar 2025 14:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA GEFORCE RTX 5070評論：不，不是“ 4090售價為549美元”</title>
-      <link>https://arstechnica.com/gadgets/2025/03/nvidia-geforce-rtx-5070-review-no-its-not-4090-performance-at-549/</link>
-      <description><![CDATA[這並不是所有的壞消息，但是從很多方面來說，這只是升級。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/nvidia-geforce-rtx-5070-review-no-its-not-4090-performance-at-549/</guid>
-      <pubDate>Tue, 04 Mar 2025 14:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員驚訝地發現採用AI寫作工具的受過教育程度較低的領域</title>
-      <link>https://arstechnica.com/ai/2025/03/researchers-surprised-to-find-less-educated-areas-adopting-ai-writing-tools-faster/</link>
-      <description><![CDATA[斯坦福大學的研究人員分析了3.05億個文本，揭示了AI寫作趨勢。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/researchers-surprised-to-find-less-educated-areas-adopting-ai-writing-tools-faster/</guid>
-      <pubDate>Mon, 03 Mar 2025 22:32:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
