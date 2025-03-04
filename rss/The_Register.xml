@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 13:27:02 GMT</lastBuildDate>
+    <item>
+      <title>Windows 365災難恢復加上承諾在30分鐘內云PC復出</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/windows_365_disaster_recovery_plus/</link>
+      <description><![CDATA[大概是由AWS託管的？  Microsoft已啟動Windows 365 Disaster Recovery Plus，這項服務旨在在中斷時迅速將雲PC恢復在線。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/windows_365_disaster_recovery_plus/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>在零G的727中，虛擬旅行到月球的起伏</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/a_virtual_trip_to_the/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Microsoft Copilot認為，它不必像這個   在Windows 11的採用中，企業遷移PC艦隊在支持Windows 10的支持日期之前已有明顯的提升。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/windows_11_adoption/</guid>
       <pubDate>Mon, 03 Mar 2025 15:14:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX獲得了另一個星際飛船測試的FAA祝福</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</link>
-      <description><![CDATA[今晚飛往土耳其人和凱科斯？祝您好運  SpaceX將在美國聯邦航空管理局（FAA）賦予該冒險的綠燈之後，立即推出其怪物星際飛船火箭。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</guid>
-      <pubDate>Mon, 03 Mar 2025 14:04:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
