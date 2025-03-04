@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 04 Mar 2025 11:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:24:53 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft SQL Server 2019從主流支持中隨機改組</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/microsoft_sql_server_2019_shuffles/</link>
+      <description><![CDATA[ Skype的命運很可悲，但是企業的時鐘  Microsoft SQL Server 2019上週悄悄地從主流支持中悄悄滑出，並由其他退休人員SQL Server大數據群集。……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/microsoft_sql_server_2019_shuffles/</guid>
+      <pubDate>Tue, 04 Mar 2025 11:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare的機器人彈跳器塊怪異瀏覽器</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>SpaceX獲得了另一個星際飛船測試的FAA祝福</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</link>
-      <description><![CDATA[今晚飛往土耳其人和凱科斯？祝您好運  SpaceX將在美國聯邦航空管理局（FAA）賦予該冒險的綠燈之後，立即推出其怪物星際飛船火箭。…]]></description>
+      <description><![CDATA[今晚飛往土耳其人和凱科斯？祝您好運  SpaceX將在美國聯邦航空管理局（FAA）賦予該企業綠燈之後，立即推出其怪物星際飛船火箭。…。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</guid>
       <pubDate>Mon, 03 Mar 2025 14:04:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有些人可能對與美國供應商進行全面融合有第二個想法，無論其數據存儲在何處  Microsoft已完成其歐盟數據邊界，但是，分析師和某些區域雲參與者都對美國實體的依賴性表示關注，即使在適當的地方保證了L&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/microsoft_unveils_a_finalized_eu/</guid>
       <pubDate>Mon, 03 Mar 2025 13:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>波蘭航天局確認網絡攻擊</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/polish_space_agency_confirms_cyberattack/</link>
-      <description><![CDATA[官員誓言要發現誰在其背後 波蘭航天局（POLSA）目前正在處理“網絡安全事件”，它在周日通過其X帳戶確認。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/polish_space_agency_confirms_cyberattack/</guid>
-      <pubDate>Mon, 03 Mar 2025 12:45:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
