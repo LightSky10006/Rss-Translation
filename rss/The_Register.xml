@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 04 Mar 2025 06:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 07:35:52 GMT</lastBuildDate>
+    <item>
+      <title>微軟簽署了一個狡猾的駕駛員，現在勒索軟件浮渣正在利用它</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/paragon_partition_manager_ransomware_driver/</link>
+      <description><![CDATA[在Paragon Partition Manager的內核級別.sys  勒索軟件騙子正在利用第三方Windows內核級驅動程序使用和提供由磁盤管理工具Paragon分區管理器。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/paragon_partition_manager_ransomware_driver/</guid>
+      <pubDate>Tue, 04 Mar 2025 07:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>Broadcom啟動了VMware Cloud Foundation 9的Beta Beta，其版本估計會引起用戶憤怒</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/vmware_vcf_9_beta_starts/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[切斷一個頭，100個倒退？斬首可能不是   意見，蘋果會為英國用戶拔下插件，並降低瑞典的信號，如果政府要求E2ee Backdoors，則可以退出瑞典。 - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/opinion_e2ee/</guid>
       <pubDate>Mon, 03 Mar 2025 09:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Techie竭盡全力，一個錯誤變成了全週的錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/who_me/</link>
-      <description><![CDATA[不相信自己疲倦的自我做RM -RF右  誰，我？，您會看日曆嗎？現在已經是星期一了，到午餐時間，週末的任何美好回憶都會因登記冊的工作擔憂而抹去，每週在“誰，我？”中慶祝 慶祝。 - 讀者分配的專欄，講述了您的故事，以某種方式逃脫。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/who_me/</guid>
-      <pubDate>Mon, 03 Mar 2025 08:02:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
