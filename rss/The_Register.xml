@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 04 Mar 2025 10:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 11:11:38 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare的機器人彈跳器塊怪異瀏覽器</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</link>
+      <description><![CDATA[不使用Firefox或Chrome衍生物？您不得通過 一些鮮為人知的Web瀏覽器的用戶被Cloudflare的Flaky瀏覽器檢測例程訪問多個站點而被阻止。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</guid>
+      <pubDate>Tue, 04 Mar 2025 11:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>Google如何跟踪Android設備用戶甚至打開應用程序</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/google_android/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>SpaceX獲得了另一個星際飛船測試的FAA祝福</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</link>
-      <description><![CDATA[今晚飛往土耳其人和凱科斯？祝您好運  SpaceX將在美國聯邦航空管理局（FAA）賦予該企業綠燈之後，立即推出其怪物星際飛船火箭。…。]]></description>
+      <description><![CDATA[今晚飛往土耳其人和凱科斯？祝您好運  SpaceX將在美國聯邦航空管理局（FAA）賦予該冒險的綠燈之後，立即推出其怪物星際飛船火箭。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/spacex_faa_starship/</guid>
       <pubDate>Mon, 03 Mar 2025 14:04:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[官員誓言要發現誰在其背後 波蘭航天局（POLSA）目前正在處理“網絡安全事件”，它在周日通過其X帳戶確認。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/polish_space_agency_confirms_cyberattack/</guid>
       <pubDate>Mon, 03 Mar 2025 12:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英國監管機構調查了Tiktok和Reddit關於兒童數據隱私問題</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/03/uk_regulator_investigates_tiktok_and/</link>
-      <description><![CDATA[ ICO查看用於提供建議的數據 英國的數據保護監管機構在對青少年用戶保護隱私的擔憂之後，已經對某些社交媒體平台進行了三項調查。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/03/uk_regulator_investigates_tiktok_and/</guid>
-      <pubDate>Mon, 03 Mar 2025 12:23:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
