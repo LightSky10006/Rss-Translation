@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 05 Mar 2025 08:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 09:38:28 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi推出了CM4變體，該變體在面對凍傷的情況下笑</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/raspberry_pi_extended_temperatures/</link>
+      <description><![CDATA[帽子和圍巾不再需要小型計算機 啟動了覆盆子PI計算模塊4的新變體，使設備的工作溫度範圍從-40°C到85°C。…。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/05/raspberry_pi_extended_temperatures/</guid>
+      <pubDate>Wed, 05 Mar 2025 09:32:15 GMT</pubDate>
+    </item>
     <item>
       <title>也許取消該研究療法的課程 - 對創傷的故事反應不佳</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/traumatic_content_chatgpt_anxious/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不使用Firefox或Chrome衍生物？您不得通過 一些鮮為人知的Web瀏覽器的用戶被Cloudflare的Flaky瀏覽器檢測例程訪問多個站點而被阻止。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</guid>
       <pubDate>Tue, 04 Mar 2025 11:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google如何跟踪Android設備用戶甚至打開應用程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/google_android/</link>
-      <description><![CDATA[沒有警告，沒有退出和批評者聲稱...沒有同意 來自領先的學術的研究表明，Android用戶甚至在打開第一個應用程序之前都有廣告cookie和其他努力在其上構建配置文件的廣告。…    &lt;！]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/google_android/</guid>
-      <pubDate>Tue, 04 Mar 2025 10:15:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
