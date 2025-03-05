@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 05 Mar 2025 06:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 06:44:25 GMT</lastBuildDate>
+    <item>
+      <title>網絡脆餅現在舔郵票並在蝸牛郵件中發送勒索需求</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/snail_mail_data_release_extortion/</link>
+      <description><![CDATA[第一個騙子放棄了加密數據，然後偷走了數據 - 現在他們甚至不費心竊取信息。 sheesh！ 勒索軟件勒索者現在正在使用蝸牛郵件發送的信件來要求付款，而不必費心滲入目標的系統或使用惡意軟件感染它們。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/05/snail_mail_data_release_extortion/</guid>
+      <pubDate>Wed, 05 Mar 2025 06:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>當阿里巴巴推出服務器級RISC-V矽時，北京似乎準備支持ISA</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/china_alibaba_risc_v/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[說，Biz試圖向我們出售東西來抓住這一點，肯定 高調的深層騙子騙局，這些騙局在 登記冊和去年其他地方可能只是冰山一角。據稱，在2024年飆升300％的在線會議中的攻擊。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/faceswapping_scams_2024/</guid>
       <pubDate>Tue, 04 Mar 2025 08:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟簽署了一個狡猾的駕駛員，現在勒索軟件浮渣正在利用它</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/paragon_partition_manager_ransomware_driver/</link>
-      <description><![CDATA[在Paragon Partition Manager的內核級別.sys  勒索軟件騙子正在利用第三方Windows內核級驅動程序使用和提供由磁盤管理工具Paragon分區管理器。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/paragon_partition_manager_ransomware_driver/</guid>
-      <pubDate>Tue, 04 Mar 2025 07:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
