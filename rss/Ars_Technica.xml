@@ -4,9 +4,30 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Wed, 05 Mar 2025 18:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 19:35:32 GMT</lastBuildDate>
     <item>
-      <title>馬斯克（Musk</title>
+      <title>內部看一下安多S2的製作</title>
+      <link>https://arstechnica.com/culture/2025/03/an-inside-look-at-the-making-of-andor-s2/</link>
+      <description><![CDATA[阿德里亞·阿霍納（Adria Arjona）：“它是人類，它是非常真實的，它恰好在一個遙遠的銀河系中。”]]></description>
+      <guid>https://arstechnica.com/culture/2025/03/an-inside-look-at-the-making-of-andor-s2/</guid>
+      <pubDate>Wed, 05 Mar 2025 19:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google告訴特朗普的司法部，強迫鍍鉻銷售會損害國家安全</title>
+      <link>https://arstechnica.com/google/2025/03/google-cites-national-security-as-it-urges-doj-to-drop-demand-for-breakup/</link>
+      <description><![CDATA[Google與新的司法部嘗試了一個舊的爭論。]]></description>
+      <guid>https://arstechnica.com/google/2025/03/google-cites-national-security-as-it-urges-doj-to-drop-demand-for-breakup/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>當特朗普試圖殺死《籌碼法》時，中國的目標是招募美國頂級科學家</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/china-aims-to-recruit-top-us-scientists-as-trump-tries-to-kill-the-chips-act/</link>
+      <description><![CDATA[如果特朗普結束《籌碼法》，我們在美國的技術創新可能會失速。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/china-aims-to-recruit-top-us-scientists-as-trump-tries-to-kill-the-chips-act/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:29:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·馬斯克（Elon Musk）失去了試圖阻止Openai的營利性轉換的嘗試</title>
       <link>https://arstechnica.com/tech-policy/2025/03/musk-loses-bid-to-stop-openais-for-profit-shift-but-can-make-his-case-in-trial/</link>
       <description><![CDATA[法官規則法官，Openai可以在訴訟繼續進行時進行營利性轉變。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/musk-loses-bid-to-stop-openais-for-profit-shift-but-can-make-his-case-in-trial/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[蘋果的高端台式機獲得了一個奇怪的（但逾期）的混音和匹配刷新。]]></description>
       <guid>https://arstechnica.com/apple/2025/03/apple-intros-new-mac-studio-models-with-m4-max-and-m3-ultra/</guid>
       <pubDate>Wed, 05 Mar 2025 14:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook Air獲得了M4，新的藍色，最高32GB的RAM和100美元的降價</title>
-      <link>https://arstechnica.com/apple/2025/03/macbook-air-gets-the-m4-a-new-blue-color-up-to-32gb-of-ram-and-a-100-price-cut/</link>
-      <description><![CDATA[M2和M3 Airs大部分都消失了。 M2仍將在某些國家出售。]]></description>
-      <guid>https://arstechnica.com/apple/2025/03/macbook-air-gets-the-m4-a-new-blue-color-up-to-32gb-of-ram-and-a-100-price-cut/</guid>
-      <pubDate>Wed, 05 Mar 2025 14:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shadowveil是一個時尚，艱難的單人遊戲擊球手</title>
-      <link>https://arstechnica.com/gaming/2025/03/shadowveil-is-a-stylish-tough-single-player-auto-battler/</link>
-      <description><![CDATA[五個戒指的第一個傳說 PC遊戲將使您為勝利工作。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/03/shadowveil-is-a-stylish-tough-single-player-auto-battler/</guid>
-      <pubDate>Wed, 05 Mar 2025 12:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在網上令人驚訝和不適，令人驚訝的AI語音演示在線引發</title>
-      <link>https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/</link>
-      <description><![CDATA[芝麻的新AI語音模型具有不可思議的瑕疵，並且願意像生氣的老闆一樣。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/</guid>
-      <pubDate>Tue, 04 Mar 2025 23:35:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
