@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 05 Mar 2025 10:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 10:41:34 GMT</lastBuildDate>
+    <item>
+      <title>Qilin勒索軟件幫派聲稱對癌症診所，OB-GYN設施發動攻擊</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/qilin_ransomware_credit/</link>
+      <description><![CDATA[“不後悔”的船員洩漏高度敏感的數據的攻擊清單繼續增長  Qilin  - “不後悔”勒索軟件工作人員對全球醫療保健行業造成了嚴重破壞 - 剛剛聲稱對日本和一家婦女醫療機構的新攻擊責任責任。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/05/qilin_ransomware_credit/</guid>
+      <pubDate>Wed, 05 Mar 2025 10:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi推出了CM4變體，該變體在面對凍傷的情況下笑</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/raspberry_pi_extended_temperatures/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Skype的命運很可悲，但是企業的時鐘  Microsoft SQL Server 2019上週悄悄地從主流支持中悄悄滑出，並由其他退休人員SQL Server大數據群集。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/microsoft_sql_server_2019_shuffles/</guid>
       <pubDate>Tue, 04 Mar 2025 11:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare的機器人彈跳器塊怪異瀏覽器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</link>
-      <description><![CDATA[不使用Firefox或Chrome衍生物？您不得通過 一些鮮為人知的Web瀏覽器的用戶被Cloudflare的Flaky瀏覽器檢測例程訪問多個站點而被阻止。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/</guid>
-      <pubDate>Tue, 04 Mar 2025 11:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
