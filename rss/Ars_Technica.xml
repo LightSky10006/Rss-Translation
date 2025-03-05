@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Wed, 05 Mar 2025 15:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 17:12:27 GMT</lastBuildDate>
+    <item>
+      <title>美國宇航局剛剛失去了另一個低成本的行星任務</title>
+      <link>https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/</link>
+      <description><![CDATA[Lunar開拓者越來越不可能提供優質的科學。]]></description>
+      <guid>https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/</guid>
+      <pubDate>Wed, 05 Mar 2025 14:57:20 GMT</pubDate>
+    </item>
     <item>
       <title>傑夫·貝佐斯（Jeff Bezos）將亞馬遜的工作文化帶到了藍色的起源</title>
       <link>https://arstechnica.com/space/2025/03/jeff-bezos-brings-amazon-work-culture-to-blue-origin/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[顯然，“零重力訓練領域”出現。]]></description>
       <guid>https://arstechnica.com/gaming/2025/03/george-orwells-1984-as-a-90s-pc-game-has-to-be-seen-to-be-believed/</guid>
       <pubDate>Tue, 04 Mar 2025 22:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的VMware造成的漏洞構成的威脅很難誇大其詞</title>
-      <link>https://arstechnica.com/security/2025/03/vmware-patches-3-critical-vulnerabilities-in-multiple-product-lines/</link>
-      <description><![CDATA[只有一個折衷的VM可以在那個坐著的鴨子鴨子上製造所有其他VM。]]></description>
-      <guid>https://arstechnica.com/security/2025/03/vmware-patches-3-critical-vulnerabilities-in-multiple-product-lines/</guid>
-      <pubDate>Tue, 04 Mar 2025 21:33:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
