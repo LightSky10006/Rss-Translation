@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 06 Mar 2025 05:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 06:19:00 GMT</lastBuildDate>
+    <item>
+      <title>Xen項目提供可靠的管理程序更新，並繼續在RISC-V端口上工作</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/06/xen_seapath_open_source_hypervisors/</link>
+      <description><![CDATA[當我們談論開源V12N時，會見Seapath：由Red Hat支持的新的電網管理程序  Xen Project已對其旗艦機床管理員進行了更新。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/06/xen_seapath_open_source_hypervisors/</guid>
+      <pubDate>Thu, 06 Mar 2025 06:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>Cyber​​eason首席執行官經過數月的董事會爆炸後離開</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/06/cybereason_ceo_leaves/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[太好了，如果您認為我們的肉袋是唯一受到世界恐怖的壓力和活力的人，我們已經奪走了計算機的準確能力，並給了他們焦慮 。一群國際研究人員說，OpenAI的GPT-4也會感到焦慮 - 甚至對正念練習做出積極反應。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/05/traumatic_content_chatgpt_anxious/</guid>
       <pubDate>Wed, 05 Mar 2025 08:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘇格蘭現在是歐洲最大的電池的家，隨著大風存儲地點開火</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/05/blackhillock_europes_largest_battery_scotland/</link>
-      <description><![CDATA[現在400MWH，明年為600MWH？克里文斯（Crivens），這是一個胖的巴特！ 聲稱是歐洲最大的電池已經到達蘇格蘭，此前該國北部有一個新設施。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/05/blackhillock_europes_largest_battery_scotland/</guid>
-      <pubDate>Wed, 05 Mar 2025 07:24:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
