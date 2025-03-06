@@ -4,7 +4,14 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 06 Mar 2025 02:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 14:12:20 GMT</lastBuildDate>
+    <item>
+      <title>一夜之間出現的巨大殭屍網絡正在提供記錄大小的ddos</title>
+      <link>https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/</link>
+      <description><![CDATA[Eleven11bot感染了錄音機，其中錄製率最高。]]></description>
+      <guid>https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/</guid>
+      <pubDate>Thu, 06 Mar 2025 13:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>軟件開發的未來會依靠共鳴嗎？</title>
       <link>https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[法官規則法官，Openai可以在訴訟繼續進行時進行營利性轉變。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/musk-loses-bid-to-stop-openais-for-profit-shift-but-can-make-his-case-in-trial/</guid>
       <pubDate>Wed, 05 Mar 2025 18:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Volkswagen收到信息：廉價，時尚的電動汽車來自2026年</title>
-      <link>https://arstechnica.com/cars/2025/03/volkswagen-gets-the-message-cheap-stylish-evs-coming-from-2026/</link>
-      <description><![CDATA[大眾正在準備新的前輪驅動電動汽車，即ID。 2個和ID。每個1。]]></description>
-      <guid>https://arstechnica.com/cars/2025/03/volkswagen-gets-the-message-cheap-stylish-evs-coming-from-2026/</guid>
-      <pubDate>Wed, 05 Mar 2025 18:00:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
