@@ -4,7 +4,21 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 06 Mar 2025 20:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 22:12:53 GMT</lastBuildDate>
+    <item>
+      <title>當歐洲最需要的時候，Ariane 6火箭終於交付了</title>
+      <link>https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/</link>
+      <description><![CDATA[“對於這種主權，我們必須屈服於偏愛太空的誘惑。”]]></description>
+      <guid>https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/</guid>
+      <pubDate>Thu, 06 Mar 2025 21:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>沒有人要求這樣做：Google正在測試Gboard中的圓形鍵</title>
+      <link>https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/</link>
+      <description><![CDATA[許多Gboard Beta用戶突然想起他們加入了Beta。]]></description>
+      <guid>https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/</guid>
+      <pubDate>Thu, 06 Mar 2025 20:32:01 GMT</pubDate>
+    </item>
     <item>
       <title>隨著特朗普管理員重寫$ 42B贈款計劃的規定，Starlink福利</title>
       <link>https://arstechnica.com/tech-policy/2025/03/starlink-benefits-as-trump-admin-rewrites-rules-for-42b-grant-program/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[數字序列信息改變了研究人員如何看待世界的遺傳資源。]]></description>
       <guid>https://arstechnica.com/science/2025/03/who-gets-ownership-of-useful-genetic-data/</guid>
       <pubDate>Thu, 06 Mar 2025 15:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一夜之間出現的巨大殭屍網絡正在提供記錄大小的ddos</title>
-      <link>https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/</link>
-      <description><![CDATA[Eleven11bot感染了錄音機，其中錄製率最高。]]></description>
-      <guid>https://arstechnica.com/security/2025/03/massive-botnet-that-appeared-overnight-is-delivering-record-size-ddoses/</guid>
-      <pubDate>Thu, 06 Mar 2025 13:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>軟件開發的未來會依靠共鳴嗎？</title>
-      <link>https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/</link>
-      <description><![CDATA[接受AI編寫的代碼而不了解其工作原理正在越來越受歡迎。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/</guid>
-      <pubDate>Wed, 05 Mar 2025 23:41:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
