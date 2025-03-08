@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sat, 08 Mar 2025 11:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 16:12:28 GMT</lastBuildDate>
+    <item>
+      <title>內核saunters  - 蘋果如何重新佈置其XNU內核</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/</link>
+      <description><![CDATA[為了安全起見， iPhone巨頭將OS劃分為OS  蘋果一直在努力硬化XNU內核，該XNU內核為其各種操作系統（包括iOS和MacOS）提供動力，其中包括“ expraves”。…    &lt;！]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/</guid>
+      <pubDate>Sat, 08 Mar 2025 16:07:06 GMT</pubDate>
+    </item>
     <item>
       <title>驚喜！人們不希望AI決定誰接受腎臟移植，誰死了或忍受多年的痛苦</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/08/ai_kidney_transplant_moral_decisions/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[為三年的Sprint找到了2.4億歐元，以開發三個用於HPC的chiplet，AI  一組38個技術參與者建立了一個具有歐洲RISC-V的活潑數字自主的項目，又名dare，旨在開發Processor，旨在開發Processor Sutits和其他高級中心/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/dare_europe_risc_v_project/</guid>
       <pubDate>Fri, 07 Mar 2025 07:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX的“星際飛船自爆炸”櫃檯的櫃檯達到48。現在又回到了零</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/07/spacex_starship_mission_fail/</link>
-      <description><![CDATA[“充滿活力的事件”在幾分鐘後為8航班做了。超級助推器再次恢復，因此  SpaceX駕駛其星艦的最新嘗試再次以迅速的外套拆卸而結束。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/spacex_starship_mission_fail/</guid>
-      <pubDate>Fri, 07 Mar 2025 06:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
