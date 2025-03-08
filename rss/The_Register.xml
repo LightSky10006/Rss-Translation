@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sat, 08 Mar 2025 08:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 09:35:41 GMT</lastBuildDate>
+    <item>
+      <title>在路由器中塞滿一個pi孔，因為您的瀏覽器即將背叛您</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/08/pi_hole_6_flyby/</link>
+      <description><![CDATA[ Mozilla出售廣告，Google限制阻止它們 - 該採取更嚴格的措施 這裡有一個新的，輕巧的PI-HOLE版本。阻止您的家庭網絡上的廣告有多容易？…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/08/pi_hole_6_flyby/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>開發人員破壞殺手開關的前雇主被放出時激活了他</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/08/developer_server_kill_switch/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>使Macos吸吮少的基本福斯工具</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/07/fosss_to_tame_macos/</link>
-      <description><![CDATA[從Windows還是Linux移動？平滑一些粗糙的邊緣   foss fest  有一些關於MacOS的特質，長期Mac用戶可能永遠不會注意到，但會引起更習慣的人對Windows做事的挫敗感 - 或更可定制的Linux桌面體驗。這是我們通常在新機器上安裝的  Reg  foss Desk的最喜歡的工具，以使生活更加舒適或方便。…]]></description>
+      <description><![CDATA[從Windows還是Linux移動？平滑一些粗糙的邊緣   foss fest  有一些關於MacOS的特質，長期Mac用戶可能永遠不會注意到，但會使更習慣的人習慣於Windows做事或更可定制的Linux桌面體驗。這是我們通常在新機器上安裝的  Reg  foss Desk的最喜歡的工具，以使生活更加舒適或方便。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/fosss_to_tame_macos/</guid>
       <pubDate>Fri, 07 Mar 2025 17:33:10 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>你敢嗎？歐洲再次在RISC-V上押注超級計算主權</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/07/dare_europe_risc_v_project/</link>
-      <description><![CDATA[為三年的Sprint找到了2.4億歐元，以開發三個用於HPC的chiplet，AI  一組38個技術參與者建立了一個具有歐洲RISC-V的活潑數字自主的項目，又名nka dare，旨在開發Processor，旨在為企業的超級範圍中心/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
+      <description><![CDATA[為三年的Sprint找到了2.4億歐元，以開發三個用於HPC的chiplet，AI  一組38個技術參與者建立了一個具有歐洲RISC-V的活潑數字自主的項目，又名dare，旨在開發Processor，旨在開發Processor Sutits和其他高級中心/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/dare_europe_risc_v_project/</guid>
       <pubDate>Fri, 07 Mar 2025 07:38:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在與七個用於自定義AI矽的超級標準合作。並未致力於收購英特爾  Broadcom對VMware的收購似乎取得了巨大成功，至少在資產負債表上，該公司宣布其前10,000名客戶中有大多數客戶決定購買其Cloud Fundmity Stack並張貼了強勁的增長。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/broadcom_q1_fy2025/</guid>
       <pubDate>Fri, 07 Mar 2025 05:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>隨著直覺機器的第二個月球蘭德似乎跌落到側面</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/07/intuitive_machines_landing/</link>
-      <description><![CDATA[空間很難。希望這支太空飛船上的三個流浪者不會那麼艱難。 本週第二次，私人經營的航天器已經登上了月球 - 但是這一航天器降落了很差。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/07/intuitive_machines_landing/</guid>
-      <pubDate>Fri, 07 Mar 2025 03:04:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
