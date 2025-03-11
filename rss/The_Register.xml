@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 11 Mar 2025 01:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 03:24:00 GMT</lastBuildDate>
+    <item>
+      <title>法官說，梅塔必須捍衛聲稱其從駱駝的培訓飼料中剝離的版權信息</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/</link>
+      <description><![CDATA[據稱Facebook巨頭不希望神經網絡發出會使遊戲脫離的結果   法官發現Meta必須回答據稱它從用於培訓其AI模型的材料的所謂版權管理信息。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/</guid>
+      <pubDate>Tue, 11 Mar 2025 02:59:43 GMT</pubDate>
+    </item>
     <item>
       <title>在過去的一個週末，在存儲SNAFU撥打電子郵件之後，Gandi沒有和平</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/gandi_domain_registrar_outage/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Plus：馬來西亞的團隊，有手臂進行當地芯片設計； NTT警告可能違反；三星前鋒定居；以及更多  亞洲在簡短的印度政府提議賦予其稅務機構範圍內的權力以訪問私人電子郵件系統和申請。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/09/asia_tech_news_roundup/</guid>
       <pubDate>Sun, 09 Mar 2025 23:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>EBPF。它沒有任何代表。但這可能意味著銀行</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/09/ebpf_meta_servers/</link>
-      <description><![CDATA[ META表示，通過內核級別的分析將CPU的使用量減少了20％。僅供參考  Meta表示，它通過其頻率分析的編排套件來將其最高服務的CPU週期減少20％，該套件依賴於開源EBPF項目。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/09/ebpf_meta_servers/</guid>
-      <pubDate>Sun, 09 Mar 2025 18:08:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
