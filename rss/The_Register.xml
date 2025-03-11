@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 10 Mar 2025 23:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 01:02:16 GMT</lastBuildDate>
+    <item>
+      <title>在過去的一個週末，在存儲SNAFU撥打電子郵件之後，Gandi沒有和平</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/gandi_domain_registrar_outage/</link>
+      <description><![CDATA[哦，馬斯克（Musk）責怪X停機時間的“烏克蘭地區”  域註冊商，網站主持人和電子郵件提供商Gandi.net在周末發生了重大停電。大約14小時前，法國商務公司的最新更新表示，它“仍在努力解決所有問題”，我們理解這意味著它現在已經很大程度上了。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/gandi_domain_registrar_outage/</guid>
+      <pubDate>Tue, 11 Mar 2025 00:12:21 GMT</pubDate>
+    </item>
     <item>
       <title>Allstate Insurance提起訴訟，要求向任何尋找它的人提供有關拼盤上的個人信息</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/10/allstate_sued_pii_exposure/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ META表示，通過內核級別的分析將CPU的使用量減少了20％。僅供參考  Meta表示，它通過其頻率分析的編排套件來將其最高服務的CPU週期減少20％，該套件依賴於開源EBPF項目。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/09/ebpf_meta_servers/</guid>
       <pubDate>Sun, 09 Mar 2025 18:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我們稱此內核儲物序列：蘋果如何重新佈置其XNU核心</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/</link>
-      <description><![CDATA[為了安全起見， iPhone巨頭將OS劃分為OS  蘋果一直在努力硬化XNU內核，該XNU內核為其各種操作系統（包括iOS和MacOS）提供動力，其中包括“ expraves”。…    &lt;！]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/</guid>
-      <pubDate>Sat, 08 Mar 2025 16:07:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
