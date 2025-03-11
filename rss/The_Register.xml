@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 11 Mar 2025 19:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 21:10:45 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft添加了另一個Copilot Hotkey  - 這次進行AI語音聊天</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/microsoft_voice_chat_copilot/</link>
+      <description><![CDATA[將Alt +空格鍵保持兩秒鐘，而Clippy 2.0都是Ears   Microsoft為Windows Insiders添加了另一種副本調整。按住Alt +空格鍵兩秒鐘，AI助手將出現進行語音聊天。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/microsoft_voice_chat_copilot/</guid>
+      <pubDate>Tue, 11 Mar 2025 20:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>能源三人想要從煤礦中挖氣，以保持數據中心的燈光</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/datacenter_coal_mine_methane/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>英國塵埃落定閑置的鐵路和緊急情況頻譜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</link>
-      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信監管機構希望為即將到來的緊急服務網絡（ESN）和鐵路行業的大修通信重新利用未使用的移動頻譜。]]></description>
+      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信調節器希望為即將到來的緊急服務網絡（ESN）（ESN）和在鐵路行業進行大修通信重新利用未使用的移動頻譜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</guid>
       <pubDate>Tue, 11 Mar 2025 09:46:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[騙子建立了機器人以利用驚人的報價網站，並在紐約州立上有數千個數據 已起訴Allstate Insurance的運營網站，以至於設計糟糕，以至於他們將在尋求該信息的任何人中提供個人信息。…。…。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/10/allstate_sued_pii_exposure/</guid>
       <pubDate>Mon, 10 Mar 2025 23:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google乞求殘廢的鉻變質的所有者，不要重置工廠</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/10/google_chromecast_outage/</link>
-      <description><![CDATA[過期的SSL證書Kerfuffle離開第二代，音頻小工具無用  Google的第二代Chromecast及其Chromecast Audio正在持續進行大規模的中斷，由於已過期的安全證書，設備未能投射。網絡巨頭意識到了故障，並說正在進行修復。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/10/google_chromecast_outage/</guid>
-      <pubDate>Mon, 10 Mar 2025 20:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
