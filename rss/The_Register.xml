@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 12 Mar 2025 18:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 19:11:01 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA贏得了AI訓練比賽，但推論仍然是任何人的比賽</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/training_inference_shift/</link>
+      <description><![CDATA[當它全部由API端點抽象時，您甚至在乎窗簾背後的內容嗎？  註釋，除了自定義雲矽外，例如Google的TPU或Amazon&#39;s Trainium Asics（例如，今天正在建造的AI訓練簇中的絕大多數AI訓練簇）都在Nvidia Gpus啟動。但是，儘管NVIDIA可能贏得了AI訓練戰，但推理戰鬥遠非決定。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/training_inference_shift/</guid>
+      <pubDate>Wed, 12 Mar 2025 19:02:13 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11更新後，打印機開始說方言</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/printer_bug_windows_11/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Windows應用程序是從5月27日 撤離的支持，即Microsoft的遠程桌面應用程序的結束。當用戶必須過渡到公司Windows應用程序時，IT巨頭將在5月27日取消支持，並帶有所有需要的積極和負面因素。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/microsoft_remote_desktop_support/</guid>
       <pubDate>Tue, 11 Mar 2025 18:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>“護士的Uber”公開了86K+醫療記錄，PII在開放式S3桶中持續數月</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/uber_for_nurses_exposes_86k/</link>
-      <description><![CDATA[非通信，未加密的108GB數據庫…可能出了問題    獨家超過86,000多個記錄，包含護士的醫療記錄，面部圖像，ID文檔，ID文檔，ID文檔和更敏感的信息與健康的技術公司更長的幾個月，或者鏈接到了較長的幾個月中 - 持續了一個較短的eays s3-或者，它可能會遇到較長的幾個月，或者是s3 uckconfigen s3 uck-s3 uck-s3 uck-s3 uck-s3 uckcect ac3 uck-s3-一周。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/uber_for_nurses_exposes_86k/</guid>
-      <pubDate>Tue, 11 Mar 2025 17:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

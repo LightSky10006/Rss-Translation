@@ -4,7 +4,35 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Wed, 12 Mar 2025 16:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 19:10:25 GMT</lastBuildDate>
+    <item>
+      <title>Doge削減後，FTC負擔不起與亞馬遜的欺騙性簽約作鬥爭</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/</link>
+      <description><![CDATA[FTC表示，在其他預算短缺的情況下，信用卡費用為1美元。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究：拍手類似於Helmholtz諧振器</title>
+      <link>https://arstechnica.com/science/2025/03/how-ones-hand-configuration-affects-the-sound-of-clapping/</link>
+      <description><![CDATA[更快的拍手會產生較低的聲音，同時拍手時拔起手。]]></description>
+      <guid>https://arstechnica.com/science/2025/03/how-ones-hand-configuration-affects-the-sound-of-clapping/</guid>
+      <pubDate>Wed, 12 Mar 2025 18:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google的Gemma 3是一個開源，單GPU AI，具有128K上下文窗口</title>
+      <link>https://arstechnica.com/gadgets/2025/03/googles-new-gemma-3-ai-model-is-optimized-to-run-on-a-single-gpu/</link>
+      <description><![CDATA[Gemma 3經過優化，可以在幾乎任何東西上運行，從強大的GPU到智能手機。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/googles-new-gemma-3-ai-model-is-optimized-to-run-on-a-single-gpu/</guid>
+      <pubDate>Wed, 12 Mar 2025 17:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅塔（Meta</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/meta-mocked-for-raising-bob-dylan-defense-of-torrenting-in-ai-copyright-fight/</link>
+      <description><![CDATA[梅塔（Meta）鬥爭以不斷從AI版權戰中掌握證據。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/meta-mocked-for-raising-bob-dylan-defense-of-torrenting-in-ai-copyright-fight/</guid>
+      <pubDate>Wed, 12 Mar 2025 17:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>如果烏克蘭關閉了Starlink，是否有好的選擇？</title>
       <link>https://arstechnica.com/space/2025/03/if-starlink-is-turned-off-in-ukraine-are-there-any-good-alternatives/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>儘管有一切，今年美國電動汽車的銷售額增長了28％</title>
       <link>https://arstechnica.com/cars/2025/03/despite-everything-us-ev-sales-are-up-28-this-year/</link>
-      <description><![CDATA[在我們中，客戶在仍然有激勵措施時購買，沒有額外的關稅。]]></description>
+      <description><![CDATA[在美國，客戶在仍然有激勵措施時購買，沒有額外的關稅。]]></description>
       <guid>https://arstechnica.com/cars/2025/03/despite-everything-us-ev-sales-are-up-28-this-year/</guid>
       <pubDate>Wed, 12 Mar 2025 00:01:57 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[X據稱在提起“熱核”訴訟時忽略了TOS中選定的場所。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/xs-globe-trotting-defense-of-ads-on-nazi-posts-violates-tos-media-matters-says/</guid>
       <pubDate>Tue, 11 Mar 2025 20:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAi推動AI代理功能與新開發人員API</title>
-      <link>https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/</link>
-      <description><![CDATA[新工具可能有助於履行首席執行官的說法，即代理商將在2025年“加入勞動力”。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/</guid>
-      <pubDate>Tue, 11 Mar 2025 20:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果補丁在“極其複雜的攻擊”中利用0天</title>
-      <link>https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/</link>
-      <description><![CDATA[由惡意製作的Web內容利用0天，以脫離安全沙箱。]]></description>
-      <guid>https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/</guid>
-      <pubDate>Tue, 11 Mar 2025 20:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>洩漏的GeForce RTX 5060和5050規格表明NVIDIA將繼續使用它</title>
-      <link>https://arstechnica.com/gadgets/2025/03/leaked-geforce-rtx-5060-and-5050-specs-suggest-nvidia-will-keep-playing-it-safe/</link>
-      <description><![CDATA[到目前為止，Nvidia的50系列刷新非常保守。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/leaked-geforce-rtx-5060-and-5050-specs-suggest-nvidia-will-keep-playing-it-safe/</guid>
-      <pubDate>Tue, 11 Mar 2025 20:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>鯨尿如何使海洋生態系統受益</title>
-      <link>https://arstechnica.com/science/2025/03/how-whale-urine-benefits-the-ocean-ecosystem/</link>
-      <description><![CDATA[大鯨魚每年可以將4,000噸氮運輸到熱帶沿海地區。]]></description>
-      <guid>https://arstechnica.com/science/2025/03/how-whale-urine-benefits-the-ocean-ecosystem/</guid>
-      <pubDate>Tue, 11 Mar 2025 19:49:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
