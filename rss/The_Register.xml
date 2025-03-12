@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 12 Mar 2025 08:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 09:38:20 GMT</lastBuildDate>
+    <item>
+      <title>Mariadb重新啟動DBAAS計劃帶有開源的核心</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/mariadb_reboot/</link>
+      <description><![CDATA[在啟動第一個數據庫服務五年後，MySQL叉子正在再次嘗試  Mariadb表示，它正在構建一個基於開源原理的數據庫-AS-A-Service，然後再載入其舊的DBAA，然後才能進入私有所有權。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/mariadb_reboot/</guid>
+      <pubDate>Wed, 12 Mar 2025 09:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>蘋果將​​我鎖定在Microsoft的同一壟斷籠中，該籠子為Windows 10用戶構建</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>FTC的2550萬美元騙局退款將受害者享受34美元</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/ftcs_255m_scam_refund/</link>
-      <description><![CDATA[哦，哇，只看Windows活動查看器中的所有可怕的東西 聯邦貿易委員會（FTC）向由技術支持騙子欺騙的消費者分發了超過2550萬美元的退款，平均每人約34美元。 - &gt; ]]></description>
+      <description><![CDATA[哦，哇，只要查看Windows活動中的所有可怕的東西 聯邦貿易委員會（FTC）向由技術支持騙子欺騙的消費者分發了超過2550萬美元的退款，平均每人約34美元。 - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/ftcs_255m_scam_refund/</guid>
       <pubDate>Tue, 11 Mar 2025 16:34:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>美國宇航局的科學預算是黑洞的嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/nasa_science_budget_comment/</link>
-      <description><![CDATA[敢於強大的事情……只要我們負擔得起  評論 NASA可能會嚴重削減其科學預算，而人民在太空行業中的降低了50％。觀察家認為，後果將是災難性的。…]]></description>
+      <description><![CDATA[敢於實用的事情……只要我們負擔得起  評論 NASA可能會嚴重削減其科學預算，而人民在空間行業中的減少了50％。觀察家認為，後果將是災難性的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/nasa_science_budget_comment/</guid>
       <pubDate>Tue, 11 Mar 2025 13:30:52 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>英國塵埃落定閑置的鐵路和緊急情況頻譜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</link>
-      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信調節器希望為即將到來的緊急服務網絡（ESN）（ESN）和在鐵路行業進行大修通信重新利用未使用的移動頻譜。]]></description>
+      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信監管機構希望為即將到來的緊急服務網絡（ESN）和鐵路行業的大修通信重新利用未使用的移動頻譜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</guid>
       <pubDate>Tue, 11 Mar 2025 09:46:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[沒有什麼比開放式驅動的代理洩漏數據或對其他人對它低語的內容感到困惑  AI模型具有內存的目的，旨在通過回憶過去的參與來增強用戶交互。但是，此功能打開了操作的大門。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/minja_attack_poisons_ai_model_memory/</guid>
       <pubDate>Tue, 11 Mar 2025 08:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM Dodges BMC在美國的$ 1.6B子彈，因為倫敦法院拍打Lzlabs</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/ibm_legal_victory/</link>
-      <description><![CDATA[大藍色的法律老鷹在池塘的兩邊飆升  ibm本週獲得了兩次法律勝利：美國最高法院拒絕恢復先前授予BMC軟件的16億美元判決技術。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/ibm_legal_victory/</guid>
-      <pubDate>Tue, 11 Mar 2025 07:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
