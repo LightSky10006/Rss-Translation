@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 12 Mar 2025 10:14:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 10:41:44 GMT</lastBuildDate>
+    <item>
+      <title>公務員說</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/uk_gov_must_pay_cyber/</link>
+      <description><![CDATA[領導人要求更少的承包商和在英國公務員的高級官員中安裝的更多頂級人才 知道，如果政府想認真對待加抵觸襲擊。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/uk_gov_must_pay_cyber/</guid>
+      <pubDate>Wed, 12 Mar 2025 10:18:10 GMT</pubDate>
+    </item>
     <item>
       <title>Mariadb重新啟動DBAAS計劃帶有開源的核心</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/mariadb_reboot/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>美國宇航局的科學預算是黑洞的嗎？</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/nasa_science_budget_comment/</link>
-      <description><![CDATA[敢於強大的事情……只要我們負擔得起  評論 NASA可能會嚴重削減其科學預算，而人民在太空行業中的降低了50％。觀察家認為，後果將是災難性的。…]]></description>
+      <description><![CDATA[敢於實用的事情……只要我們負擔得起  評論 NASA可能會嚴重削減其科學預算，而人民在空間行業中的減少了50％。觀察家認為，後果將是災難性的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/nasa_science_budget_comment/</guid>
       <pubDate>Tue, 11 Mar 2025 13:30:52 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>英國塵埃落定閑置的鐵路和緊急情況頻譜</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</link>
-      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信調節器希望為即將到來的緊急服務網絡（ESN）（ESN）和在鐵路行業進行大修通信重新利用未使用的移動頻譜。]]></description>
+      <description><![CDATA[自Y2K以來自1900 MHz帶休眠狀態，但直到2029年才能使用 英國的電信監管機構希望為即將到來的緊急服務網絡（ESN）和鐵路行業的大修通信重新利用未使用的移動頻譜。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/unused_spectrum_rail_esn/</guid>
       <pubDate>Tue, 11 Mar 2025 09:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minja Sneak攻擊毒藥AI模型適用於其他聊天機器人用戶</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/minja_attack_poisons_ai_model_memory/</link>
-      <description><![CDATA[沒有什麼比開放式驅動的代理洩漏數據或對其他人對它低語的內容感到困惑  AI模型具有內存的目的，旨在通過回憶過去的參與來增強用戶交互。但是，此功能打開了操作的大門。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/minja_attack_poisons_ai_model_memory/</guid>
-      <pubDate>Tue, 11 Mar 2025 08:37:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
