@@ -4,7 +4,21 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Wed, 12 Mar 2025 19:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 21:12:15 GMT</lastBuildDate>
+    <item>
+      <title>D-Wave量子退火器解決問題古典算法與</title>
+      <link>https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/</link>
+      <description><![CDATA[明確的量子至高無上的最新主張解決了一個有用的問題。]]></description>
+      <guid>https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/</guid>
+      <pubDate>Wed, 12 Mar 2025 20:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google的新機器人AI可以折疊精緻的摺紙，關閉拉鍊袋而不會損壞</title>
+      <link>https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/</link>
+      <description><![CDATA[Google Gemini Robotics AI模型為機器人提供了良好的運動技能和一般世界使用的適應性。]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/googles-origami-folding-ai-brain-may-power-new-wave-of-humanoid-robots/</guid>
+      <pubDate>Wed, 12 Mar 2025 19:38:57 GMT</pubDate>
+    </item>
     <item>
       <title>Doge削減後，FTC負擔不起與亞馬遜的欺騙性簽約作鬥爭</title>
       <link>https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[在美國，客戶在仍然有激勵措施時購買，沒有額外的關稅。]]></description>
       <guid>https://arstechnica.com/cars/2025/03/despite-everything-us-ev-sales-are-up-28-this-year/</guid>
       <pubDate>Wed, 12 Mar 2025 00:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>口袋演員可以免費使用網絡播放器，在Spotify和AI上拍攝</title>
-      <link>https://arstechnica.com/gadgets/2025/03/pocket-casts-makes-its-web-player-free-takes-shots-at-spotify-and-ai/</link>
-      <description><![CDATA[跨平台客戶說，播客“屬於人民，而不是公司”。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/pocket-casts-makes-its-web-player-free-takes-shots-at-spotify-and-ai/</guid>
-      <pubDate>Tue, 11 Mar 2025 21:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒體事務說</title>
-      <link>https://arstechnica.com/tech-policy/2025/03/xs-globe-trotting-defense-of-ads-on-nazi-posts-violates-tos-media-matters-says/</link>
-      <description><![CDATA[X據稱在提起“熱核”訴訟時忽略了TOS中選定的場所。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/03/xs-globe-trotting-defense-of-ads-on-nazi-posts-violates-tos-media-matters-says/</guid>
-      <pubDate>Tue, 11 Mar 2025 20:59:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
