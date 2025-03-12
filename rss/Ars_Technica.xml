@@ -4,7 +4,49 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Wed, 12 Mar 2025 21:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 23:13:00 GMT</lastBuildDate>
+    <item>
+      <title>大型研究表明，飲酒對您的膽固醇水平有益</title>
+      <link>https://arstechnica.com/health/2025/03/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels/</link>
+      <description><![CDATA[喝酒有很多風險，但高膽固醇似乎不是一種。]]></description>
+      <guid>https://arstechnica.com/health/2025/03/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels/</guid>
+      <pubDate>Wed, 12 Mar 2025 22:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>據報導，Sonos的流盒被取消。好的謎。</title>
+      <link>https://arstechnica.com/gadgets/2025/03/sonos-reportedly-cancels-its-plans-for-an-apple-tv-streaming-box-rival/</link>
+      <description><![CDATA[意見：長期以來的Sonos流盒並不是一個好主意。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/sonos-reportedly-cancels-its-plans-for-an-apple-tv-streaming-box-rival/</guid>
+      <pubDate>Wed, 12 Mar 2025 22:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>新英特爾首席執行官lip-bu tan將在Pat Gelsinger離開的地方接送</title>
+      <link>https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/</link>
+      <description><![CDATA[TAN將於3月18日從臨時聯合首席執行官開始擔任首席執行官。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/</guid>
+      <pubDate>Wed, 12 Mar 2025 22:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Google Play中發現的朝鮮間諜軟件系列的Android應用程序</title>
+      <link>https://arstechnica.com/security/2025/03/researchers-find-north-korean-spy-apps-hosted-in-google-play/</link>
+      <description><![CDATA[Google的Firebase平台還託管了應用程序使用的配置設置。]]></description>
+      <guid>https://arstechnica.com/security/2025/03/researchers-find-north-korean-spy-apps-hosted-in-google-play/</guid>
+      <pubDate>Wed, 12 Mar 2025 22:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>駕駛著語音錄音機在熾熱的費城碰撞中倖存下來，但幾年前停止了錄音</title>
+      <link>https://arstechnica.com/gadgets/2025/03/cockpit-voice-recorder-survived-fiery-philly-crash-but-stopped-taping-years-ago/</link>
+      <description><![CDATA[為了恢復和維修CVR的英勇工作。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/cockpit-voice-recorder-survived-fiery-philly-crash-but-stopped-taping-years-ago/</guid>
+      <pubDate>Wed, 12 Mar 2025 21:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>EPA被指控偽造刑事調查以抓住氣候資金</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/epa-accused-of-faking-criminal-investigation-to-claw-back-climate-funds/</link>
+      <description><![CDATA[EPA面臨著一項訴訟，旨在解放支持低收入美國人的資金。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/epa-accused-of-faking-criminal-investigation-to-claw-back-climate-funds/</guid>
+      <pubDate>Wed, 12 Mar 2025 21:21:59 GMT</pubDate>
+    </item>
     <item>
       <title>D-Wave量子退火器解決問題古典算法與</title>
       <link>https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/</link>
@@ -32,48 +74,6 @@
       <description><![CDATA[更快的拍手會產生較低的聲音，同時拍手時拔起手。]]></description>
       <guid>https://arstechnica.com/science/2025/03/how-ones-hand-configuration-affects-the-sound-of-clapping/</guid>
       <pubDate>Wed, 12 Mar 2025 18:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google的Gemma 3是一個開源，單GPU AI，具有128K上下文窗口</title>
-      <link>https://arstechnica.com/gadgets/2025/03/googles-new-gemma-3-ai-model-is-optimized-to-run-on-a-single-gpu/</link>
-      <description><![CDATA[Gemma 3經過優化，可以在幾乎任何東西上運行，從強大的GPU到智能手機。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/googles-new-gemma-3-ai-model-is-optimized-to-run-on-a-single-gpu/</guid>
-      <pubDate>Wed, 12 Mar 2025 17:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅塔（Meta</title>
-      <link>https://arstechnica.com/tech-policy/2025/03/meta-mocked-for-raising-bob-dylan-defense-of-torrenting-in-ai-copyright-fight/</link>
-      <description><![CDATA[梅塔（Meta）鬥爭以不斷從AI版權戰中掌握證據。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/03/meta-mocked-for-raising-bob-dylan-defense-of-torrenting-in-ai-copyright-fight/</guid>
-      <pubDate>Wed, 12 Mar 2025 17:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果烏克蘭關閉了Starlink，是否有好的選擇？</title>
-      <link>https://arstechnica.com/space/2025/03/if-starlink-is-turned-off-in-ukraine-are-there-any-good-alternatives/</link>
-      <description><![CDATA[“ OneWeb客戶說，當服務運行良好時，這很棒。”]]></description>
-      <guid>https://arstechnica.com/space/2025/03/if-starlink-is-turned-off-in-ukraine-are-there-any-good-alternatives/</guid>
-      <pubDate>Wed, 12 Mar 2025 16:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>irobot說，對此有“實質性的懷疑”是“持續關注”</title>
-      <link>https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/</link>
-      <description><![CDATA[亞馬遜競標失敗後，公司削減了50％的員工，並正在推出新機器人。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/irobot-says-there-is-substantial-doubt-about-it-as-a-going-concern/</guid>
-      <pubDate>Wed, 12 Mar 2025 15:59:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>豐田使用新電池調整BZ4X，更多電源</title>
-      <link>https://arstechnica.com/cars/2025/03/toyota-and-lexus-tweak-their-evs-for-eu-and-likely-the-us/</link>
-      <description><![CDATA[有新的電池和新電動機，帶有矽碳化物半導體。]]></description>
-      <guid>https://arstechnica.com/cars/2025/03/toyota-and-lexus-tweak-their-evs-for-eu-and-likely-the-us/</guid>
-      <pubDate>Wed, 12 Mar 2025 15:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>儘管有一切，今年美國電動汽車的銷售額增長了28％</title>
-      <link>https://arstechnica.com/cars/2025/03/despite-everything-us-ev-sales-are-up-28-this-year/</link>
-      <description><![CDATA[在美國，客戶在仍然有激勵措施時購買，沒有額外的關稅。]]></description>
-      <guid>https://arstechnica.com/cars/2025/03/despite-everything-us-ev-sales-are-up-28-this-year/</guid>
-      <pubDate>Wed, 12 Mar 2025 00:01:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
