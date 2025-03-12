@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 12 Mar 2025 13:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 14:13:21 GMT</lastBuildDate>
+    <item>
+      <title>過期的杜松路由器找到新的生活 - 作為中國間諜樞紐</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/china_spy_juniper_routers/</link>
+      <description><![CDATA[少於10名已知受害者，但Mandiant懷疑其他受害者受到了折衷，中國間諜已經剝削了幾個月的舊杜松網絡路由器，用自定義的後門感染了貨車裝備，並獲得了對損害設備的根源。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/china_spy_juniper_routers/</guid>
+      <pubDate>Wed, 12 Mar 2025 14:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>ServiceNow的新AI代理商將很樂意為您的最愚蠢的任務而志願服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/servicenow_yokohama/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[敢於實用的事情……只要我們負擔得起  評論 NASA可能會嚴重削減其科學預算，而人民在空間行業中的減少了50％。觀察家認為，後果將是災難性的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/nasa_science_budget_comment/</guid>
       <pubDate>Tue, 11 Mar 2025 13:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>腦力點燃北美和法國的數據中心，並裝有AI加速器</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/11/cerebras_dc_buildout/</link>
-      <description><![CDATA[另外，初創企業的推理服務首次亮相，腦 腦部已經開始在北美和法國的部分地區部署超過一千多個晚餐大小的加速器，因為這家初創公司希望將自己確立為最大，最快的AI推出服務供應商之一。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/11/cerebras_dc_buildout/</guid>
-      <pubDate>Tue, 11 Mar 2025 12:35:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
