@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 13 Mar 2025 08:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 09:14:40 GMT</lastBuildDate>
+    <item>
+      <title>NextCloud在數據洩漏恐慌之後放火</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/nextcloud_data_leak_scare/</link>
+      <description><![CDATA[社區要求違約數據共享設置 開源軟件BIZ NextCloud本週在Bug Hunters提出了對數據收集的擔憂之後向其軟件發布了修復。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/nextcloud_data_leak_scare/</guid>
+      <pubDate>Thu, 13 Mar 2025 09:01:58 GMT</pubDate>
+    </item>
     <item>
       <title>美杜莎勒索軟件會員嘗試了三重勒索騙局 - 從通常的雙重需求中提高</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/medusa_ransomware_infects_300_critical/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不要，不要， 不要相信炒作  Free95的開發人員表示，這將是一個兼容的免費Windows 95兼容的操作系統，但我們懷疑精心設計的惡作劇。充其量，也許是一個不知情的。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/is_free95_real/</guid>
       <pubDate>Wed, 12 Mar 2025 11:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>公務員說</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/uk_gov_must_pay_cyber/</link>
-      <description><![CDATA[領導人要求更少的承包商和在英國公務員的高級官員中安裝的更多頂級人才 知道，如果政府想認真對待加抵觸襲擊。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/uk_gov_must_pay_cyber/</guid>
-      <pubDate>Wed, 12 Mar 2025 10:18:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
