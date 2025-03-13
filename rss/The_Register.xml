@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 13 Mar 2025 12:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 13:00:48 GMT</lastBuildDate>
+    <item>
+      <title>ESA在34,000核空間HPC中心剪切了絲帶，適合太空工作負載</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/esa_space_hpc_center_inaugurated/</link>
+      <description><![CDATA[它被稱為“ SpaceHPC”，並在本週歐洲航天局以HPE構建的新的超級計算設施揭幕。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/esa_space_hpc_center_inaugurated/</guid>
+      <pubDate>Thu, 13 Mar 2025 12:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>對未來的水平？地熱能作為數據中心救星</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/geothermal_datacenters/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[藝術家以前被稱為OpenStack，與雲本地計算基金會在同一傘下擠在同一傘下 投票所在，確認開放基礎設施基金會打算加入Linux Foundation。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/openinfra_joins_the_linux_foundation/</guid>
       <pubDate>Wed, 12 Mar 2025 15:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>過期的杜松路由器找到新的生活 - 作為中國間諜樞紐</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/china_spy_juniper_routers/</link>
-      <description><![CDATA[少於10名已知受害者，但Mandiant懷疑其他受害者受到了折衷，中國間諜已經剝削了幾個月的舊杜松網絡路由器，用自定義的後門感染了貨車裝備，並獲得了對損害設備的根源。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/china_spy_juniper_routers/</guid>
-      <pubDate>Wed, 12 Mar 2025 14:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
