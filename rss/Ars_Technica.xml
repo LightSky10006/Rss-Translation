@@ -4,7 +4,42 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 13 Mar 2025 15:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 17:10:21 GMT</lastBuildDate>
+    <item>
+      <title>Google的雙子座AI現在可以看到您的搜索歷史記錄</title>
+      <link>https://arstechnica.com/gadgets/2025/03/googles-gemini-ai-can-now-see-your-search-history/</link>
+      <description><![CDATA[如果您允許，雙子座可以使用您的數據做更多的事情。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/googles-gemini-ai-can-now-see-your-search-history/</guid>
+      <pubDate>Thu, 13 Mar 2025 16:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果對受版權保護的作品進行培訓，Openai將“結束”宣布“結束”</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/</link>
+      <description><![CDATA[Openai說，國家安全取決於不受限制地訪問AI培訓數據。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/</guid>
+      <pubDate>Thu, 13 Mar 2025 16:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google將每個Android遊戲都帶到大型遊戲更新中的Windows</title>
+      <link>https://arstechnica.com/gadgets/2025/03/at-gdc-google-promises-more-pc-games-on-android-more-android-games-on-pc/</link>
+      <description><![CDATA[Google在2025年有大型遊戲計劃。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/at-gdc-google-promises-more-pc-games-on-android-more-android-games-on-pc/</guid>
+      <pubDate>Thu, 13 Mar 2025 15:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI編碼助手拒絕編寫代碼，告訴用戶學習編程</title>
+      <link>https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/</link>
+      <description><![CDATA[光標AI告訴用戶：“我無法為您生成代碼，因為這將完成您的工作。”]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/</guid>
+      <pubDate>Thu, 13 Mar 2025 15:43:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>微軟的新AI“遊戲副駕駛”努力證明其存在是合理的</title>
+      <link>https://arstechnica.com/gaming/2025/03/microsofts-new-ai-copilot-for-gaming-struggles-to-justify-its-existence/</link>
+      <description><![CDATA[我們與去年嘲笑的對話式AI“合作夥伴”還有一段路要走。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/03/microsofts-new-ai-copilot-for-gaming-struggles-to-justify-its-existence/</guid>
+      <pubDate>Thu, 13 Mar 2025 15:30:56 GMT</pubDate>
+    </item>
     <item>
       <title>Epic Games正在解決Windows-On-Arm的最後一個大應用兼容性差距之一</title>
       <link>https://arstechnica.com/gadgets/2025/03/epic-games-is-addressing-one-of-windows-on-arms-last-big-app-compatibility-gaps/</link>
@@ -13,7 +48,7 @@
       <pubDate>Thu, 13 Mar 2025 15:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>EPA對環境保護髮起了全面攻擊</title>
+      <title>特朗普的EPA顯然表明它不了解任務</title>
       <link>https://arstechnica.com/science/2025/03/epa-launches-full-assault-on-environmental-protection/</link>
       <description><![CDATA[31單獨的動作逐漸減少了對空氣和水污染的限制。]]></description>
       <guid>https://arstechnica.com/science/2025/03/epa-launches-full-assault-on-environmental-protection/</guid>
@@ -27,7 +62,7 @@
       <pubDate>Thu, 13 Mar 2025 14:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>一個月後，文明VII：社區和開發商的聲音</title>
+      <title>一個月後，文明vii：社區和開發商的聲音</title>
       <link>https://arstechnica.com/gaming/2025/03/civilization-vii-one-month-later-the-community-and-developers-chime-in/</link>
       <description><![CDATA[執行製片人Dennis Shirk與ARS談論遊戲的狀況。]]></description>
       <guid>https://arstechnica.com/gaming/2025/03/civilization-vii-one-month-later-the-community-and-developers-chime-in/</guid>
@@ -39,41 +74,6 @@
       <description><![CDATA[他在接受采訪時承認：“可能是我到目前為止最瘋狂的話。”]]></description>
       <guid>https://arstechnica.com/ai/2025/03/anthropics-ceo-wonders-if-future-ai-should-have-option-to-quit-unpleasant-tasks/</guid>
       <pubDate>Thu, 13 Mar 2025 11:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>什麼是空間戰爭？太空部隊的頂級將軍有一些想法。</title>
-      <link>https://arstechnica.com/features/2025/03/what-is-space-war-fighting-the-space-forces-top-general-has-some-thoughts/</link>
-      <description><![CDATA[控制空間意味著“採用動力學和非運動手段影響對手能力”。]]></description>
-      <guid>https://arstechnica.com/features/2025/03/what-is-space-war-fighting-the-space-forces-top-general-has-some-thoughts/</guid>
-      <pubDate>Thu, 13 Mar 2025 11:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>不，那不是羞恥的宇宙錐 - 它是NASA的最新空間望遠鏡</title>
-      <link>https://arstechnica.com/science/2025/03/no-thats-not-a-cosmic-cone-of-shame-its-nasas-newest-space-telescope/</link>
-      <description><![CDATA[“ Spherex將產生整個夜空的巨大三維地圖。”]]></description>
-      <guid>https://arstechnica.com/science/2025/03/no-thats-not-a-cosmic-cone-of-shame-its-nasas-newest-space-telescope/</guid>
-      <pubDate>Thu, 13 Mar 2025 02:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型研究表明，飲酒對您的膽固醇水平有益</title>
-      <link>https://arstechnica.com/health/2025/03/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels/</link>
-      <description><![CDATA[喝酒有很多風險，但高膽固醇似乎不是一種。]]></description>
-      <guid>https://arstechnica.com/health/2025/03/large-study-shows-drinking-alcohol-is-good-for-your-cholesterol-levels/</guid>
-      <pubDate>Wed, 12 Mar 2025 22:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>據報導，Sonos的流盒被取消。好的謎。</title>
-      <link>https://arstechnica.com/gadgets/2025/03/sonos-reportedly-cancels-its-plans-for-an-apple-tv-streaming-box-rival/</link>
-      <description><![CDATA[意見：長期以來的Sonos流盒並不是一個好主意。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/sonos-reportedly-cancels-its-plans-for-an-apple-tv-streaming-box-rival/</guid>
-      <pubDate>Wed, 12 Mar 2025 22:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>新英特爾首席執行官lip-bu tan將在Pat Gelsinger離開的地方接送</title>
-      <link>https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/</link>
-      <description><![CDATA[TAN將於3月18日從臨時聯合首席執行官開始擔任首席執行官。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/new-intel-ceo-lip-bu-tan-will-pick-up-where-pat-gelsinger-left-off/</guid>
-      <pubDate>Wed, 12 Mar 2025 22:12:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
