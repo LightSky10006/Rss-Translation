@@ -4,7 +4,21 @@
     <title>ARS Technica-所有內容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技術故事</description>
-    <lastBuildDate>Thu, 13 Mar 2025 20:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 21:35:52 GMT</lastBuildDate>
+    <item>
+      <title>研究說，AI搜索引擎以驚人的60％的速度給出了錯誤的答案。</title>
+      <link>https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/</link>
+      <description><![CDATA[CJR研究顯示了AI搜索服務誤導用戶，而忽略了發布者排除請求。]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/ai-search-engines-give-incorrect-answers-at-an-alarming-60-rate-study-says/</guid>
+      <pubDate>Thu, 13 Mar 2025 21:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅典娜降落在一個黑暗的火山口，溫度為280°F</title>
+      <link>https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/</link>
+      <description><![CDATA[“你失去了它，然後你做什麼？你不放棄。你回去。”]]></description>
+      <guid>https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/</guid>
+      <pubDate>Thu, 13 Mar 2025 20:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>當Dei成為航空航天行業的DOA時會發生什麼？</title>
       <link>https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[光標AI告訴用戶：“我無法為您生成代碼，因為這將完成您的工作。”]]></description>
       <guid>https://arstechnica.com/ai/2025/03/ai-coding-assistant-refuses-to-write-code-tells-user-to-learn-programming-instead/</guid>
       <pubDate>Thu, 13 Mar 2025 15:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>微軟的新AI“遊戲副駕駛”努力證明其存在是合理的</title>
-      <link>https://arstechnica.com/gaming/2025/03/microsofts-new-ai-copilot-for-gaming-struggles-to-justify-its-existence/</link>
-      <description><![CDATA[我們與去年嘲笑的對話式AI“合作夥伴”還有一段路要走。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/03/microsofts-new-ai-copilot-for-gaming-struggles-to-justify-its-existence/</guid>
-      <pubDate>Thu, 13 Mar 2025 15:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games正在解決Windows-On-Arm的最後一個大應用兼容性差距之一</title>
-      <link>https://arstechnica.com/gadgets/2025/03/epic-games-is-addressing-one-of-windows-on-arms-last-big-app-compatibility-gaps/</link>
-      <description><![CDATA[驅動程序和內核級軟件不能由Windows自動翻譯。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/epic-games-is-addressing-one-of-windows-on-arms-last-big-app-compatibility-gaps/</guid>
-      <pubDate>Thu, 13 Mar 2025 15:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
