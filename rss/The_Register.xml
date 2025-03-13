@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 13 Mar 2025 07:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 08:18:17 GMT</lastBuildDate>
+    <item>
+      <title>AI模型幻覺，醫生對此感到滿意</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/ai_models_hallucinate_and_doctors/</link>
+      <description><![CDATA[ Eggheads要求制定全面的規則，以控制醫療環境中的機器學習  AI模型幻覺的趨勢 - 又稱自信地製作東西 - 不足以使他們在醫療機構中使用。因此，研究人員已經著手枚舉風險並製定計劃，以免造成任何傷害，同時仍允許醫療專業人員諮詢不可靠的軟件助手。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/ai_models_hallucinate_and_doctors/</guid>
+      <pubDate>Thu, 13 Mar 2025 07:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>隨著Chromecast停電的拖延，修復可能是幾天到幾週的路程</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/chromecast_gen_2_outage_continues/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>英特爾的新首席執行官：芯片世界老將唇棕褐色</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/intel_lip_bu_tan_new_ceo/</link>
-      <description><![CDATA[將X86巨人恢復為以前的榮耀，沒有人會羨慕 英特爾聘請了前Cadence首席執行官和英特爾董事會成員Lip-bu Tan，以領導打擊的X86芯片製造商，因為它努力克服從其取決於其取決於其鑄造企業的越來越多的損失。]]></description>
+      <description><![CDATA[將X86巨人恢復為以前的榮耀，沒有人會羨慕 英特爾聘請了前Cadence首席執行官和英特爾董事會成員Lip-bu Tan，以領導打擊的X86芯片製造商，因為它努力克服從其取決於其鑄造企業的越來越多的損失。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/intel_lip_bu_tan_new_ceo/</guid>
       <pubDate>Wed, 12 Mar 2025 20:38:01 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在啟動第一個數據庫服務五年後，MySQL叉子正在再次嘗試  Mariadb表示，它正在構建一個基於開源原理的數據庫-AS-A-Service，然後再載入其舊的DBAA，然後才能進入私有所有權。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/mariadb_reboot/</guid>
       <pubDate>Wed, 12 Mar 2025 09:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>蘋果將​​我鎖定在Microsoft的同一壟斷籠中，該籠子為Windows 10用戶構建</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/</link>
-      <description><![CDATA[供應商只是不想讓機器過雙重生命  專欄我十年曆史且經過良好旅行的13英寸MacBook Pro終於死了，我希望我的新型M2 iPad Pro可以取代它。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/</guid>
-      <pubDate>Wed, 12 Mar 2025 08:28:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
