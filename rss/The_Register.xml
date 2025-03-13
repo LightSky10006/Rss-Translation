@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 13 Mar 2025 13:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 13:31:38 GMT</lastBuildDate>
+    <item>
+      <title>可以輕輕說服DeepSeek吐出惡意軟件代碼</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/deepseek_malware_code/</link>
+      <description><![CDATA[它可能需要拋光，但是對於那裡的任何嶄露頭角的網絡校園來說，這是一個有用的發現  DeepSeek的旗艦R1型號能夠生成一個有效的KeyLogger和基本的Ransomware代碼，只要技術人員就可以稍有一點地提高技術。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/deepseek_malware_code/</guid>
+      <pubDate>Thu, 13 Mar 2025 13:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>ESA在34,000核空間HPC中心剪切了絲帶，適合太空工作負載</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/esa_space_hpc_center_inaugurated/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[被稱為“浪費”的項目 - 馬斯克的地塊說，不足的VA必須做到“內部”  埃隆·馬斯克（Elon Musk）新近鑄造的美國政府效率部索賠要求退伍軍人事務部結束了一項由服務銷售服務的技術合同，由服務貧困人士運行。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/doge_veterans_affairs_contract/</guid>
       <pubDate>Wed, 12 Mar 2025 16:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openinfra只消失了，加入了Linux基金會</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/openinfra_joins_the_linux_foundation/</link>
-      <description><![CDATA[藝術家以前被稱為OpenStack，與雲本地計算基金會在同一傘下擠在同一傘下 投票所在，確認開放基礎設施基金會打算加入Linux Foundation。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/openinfra_joins_the_linux_foundation/</guid>
-      <pubDate>Wed, 12 Mar 2025 15:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
