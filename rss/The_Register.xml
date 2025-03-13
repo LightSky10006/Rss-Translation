@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 13 Mar 2025 15:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 16:46:21 GMT</lastBuildDate>
+    <item>
+      <title>Starliner宇航員的停留時間拖延，因為Crew-10發射磨砂膏</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/starliner_duo_get_bonus_days/</link>
+      <description><![CDATA[液壓問題在T-44分鐘停止倒計時時鐘 下一個機組人員向國際空間站（ISS）推出了3月14日（ISS），這是由於3月14日（ISS）的液壓問題，這是由於帶有集體支撐夾具的液壓問題，用於3月12日的SpaceX Falcon 9 Rocket。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/starliner_duo_get_bonus_days/</guid>
+      <pubDate>Thu, 13 Mar 2025 16:25:10 GMT</pubDate>
+    </item>
     <item>
       <title>booking.com的“憤怒的客人”電子郵件？這是一個騙局，而不是1星評論</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/bookingdotcom_phishing_campaign/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我們是Doomba，Roomba Goombas說，除非...  陷入困境的機器人真空清潔工製造商iRobot，在監管機構有效地註定了網絡巨頭的接管報價後，亞馬遜被放棄了，請警告投資者，它可能會在接下來的12個月內生存下來。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/roomba_maker_irobot_unlikely_survive/</guid>
       <pubDate>Wed, 12 Mar 2025 19:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA贏得了AI訓練比賽，但推論仍然是任何人的比賽</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/12/training_inference_shift/</link>
-      <description><![CDATA[當它全部由API端點抽象時，您甚至在乎窗簾背後的內容嗎？  註釋，除了自定義雲矽外，例如Google的TPU或Amazon&#39;s Trainium Asics（例如，今天正在建造的AI訓練簇中的絕大多數AI訓練簇）都在Nvidia Gpus啟動。但是，儘管NVIDIA可能贏得了AI訓練戰，但推理戰鬥遠非決定。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/12/training_inference_shift/</guid>
-      <pubDate>Wed, 12 Mar 2025 19:02:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
