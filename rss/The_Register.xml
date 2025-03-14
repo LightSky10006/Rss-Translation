@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Mar 2025 12:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 13:23:25 GMT</lastBuildDate>
+    <item>
+      <title>蘋果所謂的英國加密之戰引發了政治和隱私的強烈反對</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/apple_uk_encryption_hearing/</link>
+      <description><![CDATA[國家安全辯護被用來使上訴在閉門造車 美國政治家和隱私活動家呼籲蘋果與英國政府之間就其所謂的加密衝擊令進行私人聽證會。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/apple_uk_encryption_hearing/</guid>
+      <pubDate>Fri, 14 Mar 2025 13:09:10 GMT</pubDate>
+    </item>
     <item>
       <title>儘管Microsoft猛烈擠壓，AI的果汁用光</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ai_running_out_of_juice/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果操作員願意咳嗽“綠色的高級”，而稅收抵免則不被廢除 一個獨立的研究機構聲稱，地熱發電可以為數據中心不斷增長的能源需求提供答案。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/geothermal_datacenters/</guid>
       <pubDate>Thu, 13 Mar 2025 11:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCC 15很近：COBOL和ITANIUM在進來，但Algol出了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/gcc_15_is_close/</link>
-      <description><![CDATA[指導委員會決定不合併過度複雜性和在很大程度上不受歡迎的Algol-68&#39;此時&#39;  GNU編譯器收集的版本15版本正接近發布，並且像它一樣，有些更改不會進行。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/gcc_15_is_close/</guid>
-      <pubDate>Thu, 13 Mar 2025 11:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
