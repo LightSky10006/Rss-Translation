@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Fri, 14 Mar 2025 10:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 11:11:42 GMT</lastBuildDate>
+    <item>
+      <title>勒索軟件頻道鎖定的新孩子到RAID Fortinet防火牆</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ransomware_gang_lockbit_ties/</link>
+      <description><![CDATA[已經是三月了，您還沒有修補嗎？ 研究人員正在跟踪一個新發現的勒索軟件小組，此前報告了一系列入侵，從1月開始進行一系列入侵。…。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ransomware_gang_lockbit_ties/</guid>
+      <pubDate>Fri, 14 Mar 2025 11:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>海盜灣金融家和極右翼的激進主義者卡爾·倫德斯特斯特斯特斯特斯特斯特斯特斯特羅姆死於飛機失事</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/carl_lundstrom_pirate_bay/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[現在在像素手機上嘗試一下企鵝Fun上的某些企鵝  google Pixel設備上的Android 15的三月“功能降低”包括可選的Linux會話。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/android_15_linux_debian_terminal/</guid>
       <pubDate>Thu, 13 Mar 2025 09:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextCloud在數據洩漏恐慌之後放火</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/nextcloud_data_leak_scare/</link>
-      <description><![CDATA[社區要求違約數據共享設置 開源軟件BIZ NextCloud本週在Bug Hunters提出了對數據收集的擔憂之後向其軟件發布了修復。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/nextcloud_data_leak_scare/</guid>
-      <pubDate>Thu, 13 Mar 2025 09:01:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
