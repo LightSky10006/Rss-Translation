@@ -4,7 +4,14 @@
     <title>有線</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com的最新信息</description>
-    <lastBuildDate>Sat, 15 Mar 2025 08:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 09:12:14 GMT</lastBuildDate>
+    <item>
+      <title>AI編碼助手拒絕編寫代碼，並建議用戶自己學習自己做</title>
+      <link>https://www.wired.com/story/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</link>
+      <description><![CDATA[舊的“教男人要釣魚”諺語，但為AI聊天機器人。]]></description>
+      <guid>https://www.wired.com/story/ai-coding-assistant-refused-to-write-code-suggested-user-learn-himself/</guid>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在特朗普的領導下，AI科學家被告知要從強大的模型中消除“意識形態偏見”</title>
       <link>https://www.wired.com/story/ai-safety-institute-new-directive-america-first/</link>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 14 Mar 2025 12:03:00 GMT</pubDate>
     </item>
     <item>
-      <title>不能將您的頭纏繞在PI周圍嗎？這是一個很酷的視覺效果</title>
+      <title>不能將您的頭纏繞在Pi周圍嗎？這是一個很酷的視覺效果</title>
       <link>https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/</link>
       <description><![CDATA[PI是一個非理性的數字，就像一些非理性的人一樣，它不斷。這個瘋狂，關鍵的數字是什麼？]]></description>
       <guid>https://www.wired.com/story/cant-wrap-your-head-around-pi-heres-a-cool-visual-to-help/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[索尼即將到來的RGB Tech加入了Hisense和三星，以定義LED電視的未來。]]></description>
       <guid>https://www.wired.com/story/sony-rgb-led-tv/</guid>
       <pubDate>Thu, 13 Mar 2025 16:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人員提出了一種更好的方式來報告危險AI缺陷</title>
-      <link>https://www.wired.com/story/ai-researchers-new-system-report-bugs/</link>
-      <description><![CDATA[在確定了流行的AI模型中的主要缺陷之後，研究人員正在推動新系統識別和報告錯誤。]]></description>
-      <guid>https://www.wired.com/story/ai-researchers-new-system-report-bugs/</guid>
-      <pubDate>Thu, 13 Mar 2025 15:02:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
