@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sun, 16 Mar 2025 20:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 23:11:37 GMT</lastBuildDate>
+    <item>
+      <title>FCC代表國家安全理事會，以CISA過去的方式與中國作戰</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/16/infosec_news_in_brief/</link>
+      <description><![CDATA[加：涉嫌在印度被捕的Garantex管理員； Google刪除了更多北朝鮮惡意軟件    Infosec簡要美國聯邦通信委員會主席布倫丹·卡爾（Brendan Carr）宣布了製定國家安全委員會的計劃，該理事會將對美國技術和電信基礎設施的外國威脅。………。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/16/infosec_news_in_brief/</guid>
+      <pubDate>Sun, 16 Mar 2025 22:58:12 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek-r1 beating perf Perf在32B包裝中？ El Reg將其爪子挖入阿里巴巴的QWQ中</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/16/qwq_hands_on_review/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[獨立瀏覽器製造商要求法官對AI Summaries的版權威脅  Brave已上法庭，以推出新聞集團的潛在法律行動，該公司在瀏覽器製造商的自動生成的AI AI摘要中，由Rupert Murdo的Merdo Chipo&gt;………。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/brave_news_corp_content/</guid>
       <pubDate>Thu, 13 Mar 2025 21:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google說，它正在推出陷入困境的Chromecasts的修復程序</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/google_chromecast_fix/</link>
-      <description><![CDATA[需要幾天，給予或接受您的情況  Google已經告訴寄存器 它開始為被過期的安全證書授權機構削弱的Chromecast設備推出修復程序。我們保證，這種部署將在接下來的幾天內進行。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/google_chromecast_fix/</guid>
-      <pubDate>Thu, 13 Mar 2025 19:23:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
