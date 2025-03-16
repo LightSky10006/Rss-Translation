@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Sun, 16 Mar 2025 05:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 20:36:38 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek-r1 beating perf Perf在32B包裝中？ El Reg將其爪子挖入阿里巴巴的QWQ中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/16/qwq_hands_on_review/</link>
+      <description><![CDATA[如何馴服其超敏化超參數，並在PC上運行  手上   增強了多少學習 - 和一些額外的驗證 - 改善大型語言模型，又稱llms？阿里巴巴的QWEN團隊的目標是通過其最新版本的QWQ進行查找。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/16/qwq_hands_on_review/</guid>
+      <pubDate>Sun, 16 Mar 2025 20:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>Rip Mark Klein，工程師，在接線後暴露了我們的家庭間諜行動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/15/rip_mark_klein/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[需要幾天，給予或接受您的情況  Google已經告訴寄存器 它開始為被過期的安全證書授權機構削弱的Chromecast設備推出修復程序。我們保證，這種部署將在接下來的幾天內進行。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/google_chromecast_fix/</guid>
       <pubDate>Thu, 13 Mar 2025 19:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai要求Sam叔叔讓它刮擦一切，阻止其他國家抱怨</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/13/openai_data_copyright/</link>
-      <description><![CDATA[世界其他地區不認為“合理使用”是公平的，但我們應該使“ EM   更新 OpenAI希望美國政府確保它可以訪問其想要培訓Genai模型的任何數據，並阻止外國試圖強制執行針對IT和其他美國AI公司和其他美國AI公司的版權規則。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/13/openai_data_copyright/</guid>
-      <pubDate>Thu, 13 Mar 2025 18:07:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
