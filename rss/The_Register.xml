@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Mar 2025 11:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 12:26:34 GMT</lastBuildDate>
+    <item>
+      <title>flang-tastic！ LLVM的Fortran編譯器終於放下了訓練輪</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/llvm_20_flang/</link>
+      <description><![CDATA[另一個全武器選項 - 只是不要將其與所有其他Flangs  混淆，最新版本的LLVM編譯器套件已推廣其Fortran前端。 “ Flang”現在是正式的。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/17/llvm_20_flang/</guid>
+      <pubDate>Mon, 17 Mar 2025 11:49:09 GMT</pubDate>
+    </item>
     <item>
       <title>英國政府在延遲6個月後開放16B IT服務競賽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/uk_technology_services_4/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ tin嘎嘎聲從Gnome Extension的原始開發人員以及數十名日常用戶   維護者之一的維護者，以定制GNOME桌面的定制，並尋求某人在經過娛樂性的努力後接管開發的人。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/</guid>
       <pubDate>Fri, 14 Mar 2025 12:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索軟件頻道鎖定的新孩子到RAID Fortinet防火牆</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ransomware_gang_lockbit_ties/</link>
-      <description><![CDATA[已經是三月了，您還沒有修補嗎？ 研究人員正在跟踪一個新發現的勒索軟件小組，此前報告了一系列入侵，從1月開始進行一系列入侵。…。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ransomware_gang_lockbit_ties/</guid>
-      <pubDate>Fri, 14 Mar 2025 11:01:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
