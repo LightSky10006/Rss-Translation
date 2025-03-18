@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Mar 2025 20:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 22:13:14 GMT</lastBuildDate>
+    <item>
+      <title>CISA開火，現在重新安排並立即支付全額薪水的安全人員</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/</link>
+      <description><![CDATA[行動中的努力效率 美國政府的網絡安全和基礎設施安全局的動盪，又名CISA，在周二發生了又一次的扭曲，因為它恢復了工作人員，它在過去的幾周中一直開除了它，儘管他們在緩刑期間一直在付費 - 儘管他們已經在付費的時間裡付出了……&lt;/pers now to n of付費。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/</guid>
+      <pubDate>Tue, 18 Mar 2025 21:46:05 GMT</pubDate>
+    </item>
     <item>
       <title>戴爾（Dell</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/gtc_dell_lenovo_hpe_news/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>Raspberry Pi RP2350微控制器現在僅用於凡人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/raspberry_rp2350_microcontroller_now_available/</link>
-      <description><![CDATA[對於pico 2太通用 覆盆子PI RP2350微控制器通常可用，這意味著現在可以從經銷商那裡挑選芯片，而不是從pico 2或像JLC這樣的製造商的PCB上拾取芯片。 ……。]]></description>
+      <description><![CDATA[對於pico 2太通用 覆盆子PI RP2350微控制器通常可用，這意味著現在可以從經銷商那裡挑選芯片，而不是從pico 2或像JLC這樣的製造商的PCB上拾取芯片。……。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/raspberry_rp2350_microcontroller_now_available/</guid>
       <pubDate>Tue, 18 Mar 2025 17:06:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>微軟並沒有修復8歲的捷徑剝削以濫用間諜活動</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/microsoft_trend_flaw/</link>
-      <description><![CDATA[&#39;僅&#39;當地訪問錯誤，但在N韓國，俄羅斯和中國攻擊圖片的重要部分 趨勢微型在Windows中發現的剝削大道已在長達八年的間諜活動中使用，但微軟沒有修復的跡象，但顯然認為這是一個很低的優先級。]]></description>
+      <description><![CDATA[&#39;僅&#39;當地訪問錯誤，但在N韓國，俄羅斯和中國攻擊圖片的重要部分 趨勢微型在Windows中發現的剝削大道已在長達八年的間諜活動中使用，但微軟沒有修復的跡象，但Microsoft的跡象顯然認為這是一個很低的優先級。……。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/microsoft_trend_flaw/</guid>
       <pubDate>Tue, 18 Mar 2025 15:13:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[一個提取請求，一個中毒的會話文件，服務器的您的  更新了 apache tomcat中的一個微不足道的缺陷，允許遠程代碼執行和對敏感文件的訪問在其披露的一周內在野外受到攻擊。………。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</guid>
       <pubDate>Tue, 18 Mar 2025 00:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>法院申請：Doge Aide通過通過電子郵件發送未加密的數據庫來違反財政部政策</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/doge_treasury/</link>
-      <description><![CDATA[多虧了紐約AG和CO的訴訟 現在，現在形式的道路助手違反了美國國庫政策，通過向兩名特朗普政府官員發送電子郵件，違反了美國財政部的政策，這是對Marko Elez的影響。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/17/doge_treasury/</guid>
-      <pubDate>Mon, 17 Mar 2025 23:35:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
