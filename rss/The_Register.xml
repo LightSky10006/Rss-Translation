@@ -4,11 +4,18 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Mar 2025 13:42:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 14:41:17 GMT</lastBuildDate>
+    <item>
+      <title>Oracle JDK 24出現在罕見的版本和功能計數中</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/</link>
+      <description><![CDATA[ Java 24中的24個JDK增強建議代表一個隨機標誌  Oracle JDK 24週二首次亮相，並以24個JDK增強建議或JEPS在Java計劃社區中所知。……]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/</guid>
+      <pubDate>Tue, 18 Mar 2025 14:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Google獲取目標WIZ將新鮮供應鏈攻擊與23K PWNED GITHUB REPOS聯繫起來</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/wiz_github_supply_chain/</link>
-      <description><![CDATA[廣告巨人剛剛確認其多雲的手臂將在$ 30B交易中包含安全店  wiz安全研究人員認為他們已經找到了周末發生的GitHub供應鏈攻擊的根本原因，他們說要責備單獨的攻擊。…     &lt;！ - &gt; ]]></description>
+      <description><![CDATA[廣告巨人剛剛確認其多雲的手臂將在$ 30B交易中包含安全店  InfoSeccers在Google Accerisition Target的InfoSeccers Wiz Wiz認為他們已經發現了周末發生的GitHub供應鏈攻擊的根本原因，他們說單獨的攻擊可能是責備。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/wiz_github_supply_chain/</guid>
       <pubDate>Tue, 18 Mar 2025 13:02:07 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>英國想在罪犯先到達那里之前對數據經紀人的污垢</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/uk_data_broker_inquiry/</link>
-      <description><![CDATA[政府想學習串行違規的唱片持有人的錯誤，因此，它可以根據新法律根據新法律來自由化數據共享條例 英國政府正在邀請專家提供有關數據經紀行業的見解及其對國家安全所帶來的潛在風險，因為它可以推動新的數據出現的立法來推動新的數據銷售法律，以推動該線路劃分的立法。]]></description>
+      <description><![CDATA[政府渴望學習串行違規的記錄持有人的錯誤，因此，它可以自由地將數據共享條例自由化 英國政府邀請專家提供有關數據經紀行業的見解及其對國家安全構成的潛在風險，因為它可以推動新的數據分攤立法，以推動新的數據共享立法。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/uk_data_broker_inquiry/</guid>
       <pubDate>Tue, 18 Mar 2025 10:32:12 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>現在在野外積極利用Apache tomcat中的“死去的簡單”劫持洞”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</link>
-      <description><![CDATA[一個提出請求，一個中毒的會話文件，服務器的您的  apache tomcat中的一個微不足道的缺陷允許遠程代碼執行和訪問敏感文件在披露的一周內在野外受到攻擊。…]]></description>
+      <description><![CDATA[一個提取請求，一個中毒的會話文件，服務器的您的  更新了 apache tomcat中的一個微不足道的缺陷，允許遠程代碼執行和對敏感文件的訪問在其披露的一周內在野外受到攻擊。………。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</guid>
       <pubDate>Tue, 18 Mar 2025 00:44:39 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[技術服務4框架的框架增加了4B英鎊，並隨著本週開始的採購 英國政府將打開豬肉桶，以最高160億英鎊的一系列IT服務合同。購買框架推遲了六個月，現在的總支出可能比以前的提案大25％。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/17/uk_technology_services_4/</guid>
       <pubDate>Mon, 17 Mar 2025 10:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>沒有視頻，微軟不會看錯誤報告。研究人員惡意遵守了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/microsoft_bug_report_troll/</link>
-      <description><![CDATA[瘋狂的技術貝司循環，Zoolander參考和14分鐘的時間浪費 弱點分析師和Infosec行業的傑出成員炸毀了Microsoft，因為Microsoft拒絕查看錯誤報告，除非他與書面解釋一起提交了視頻。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/17/microsoft_bug_report_troll/</guid>
-      <pubDate>Mon, 17 Mar 2025 09:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
