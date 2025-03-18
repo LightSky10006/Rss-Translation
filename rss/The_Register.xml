@@ -4,7 +4,21 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Mon, 17 Mar 2025 23:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 01:02:23 GMT</lastBuildDate>
+    <item>
+      <title>現在在野外積極利用Apache tomcat中的“死去的簡單”劫持洞”</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</link>
+      <description><![CDATA[一個提出請求，一個中毒的會話文件，服務器的您的  apache tomcat中的一個微不足道的缺陷允許遠程代碼執行和訪問敏感文件在披露的一周內在野外受到攻擊。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</guid>
+      <pubDate>Tue, 18 Mar 2025 00:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>法院申請：Doge Aide通過通過電子郵件發送未加密的數據庫來違反財政部政策</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/doge_treasury/</link>
+      <description><![CDATA[多虧了紐約AG和CO的訴訟 現在，現在形式的道路助手違反了美國國庫政策，通過向兩名特朗普政府官員發送電子郵件，違反了美國財政部的政策，這是對Marko Elez的影響。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/17/doge_treasury/</guid>
+      <pubDate>Mon, 17 Mar 2025 23:35:44 GMT</pubDate>
+    </item>
     <item>
       <title>不想在Windows 11機器上使用Copilot應用程序嗎？安裝此官方更新</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/17/copilot_windows_update/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[ AT＆amp; t工程師和網絡年齡的深喉嚨，死於79   2006年，一名退休的AT＆amp; t工程師在舊金山任務區的一個失敗的一部分中敲開了EFF辦公室的門，並問：“你們的人關心隱私嗎？”與他一起，他攜帶示意圖，暴露了自水門以來美國政府最大的家庭間諜活動。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/15/rip_mark_klein/</guid>
       <pubDate>Sat, 15 Mar 2025 15:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>比利時警察突襲華為在歐元賄賂調查中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/brussels_raid_huawei/</link>
-      <description><![CDATA[中國巨人說，由於逮捕 比利時當局逮捕了涉及中國科技巨頭華為的腐敗調查的一部分，這是“承諾”遵守法律的，這也導致了兩個歐盟在布魯塞爾（Brussels）的歐盟公園的密封。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/brussels_raid_huawei/</guid>
-      <pubDate>Fri, 14 Mar 2025 20:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI泡泡？什麼AI泡泡？儘管流浪者低語，但數據中心投資者都參加了</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ai_datacenter_frenzy/</link>
-      <description><![CDATA[數十億美元繼續湧入全球的穀倉 擔心AI可能會爆發的泡沫尚未陷入凹陷的數據中心投資，本週揭示了一些新的發展。…  &lt;！]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/14/ai_datacenter_frenzy/</guid>
-      <pubDate>Fri, 14 Mar 2025 18:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
