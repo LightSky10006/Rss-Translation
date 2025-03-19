@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 18:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 19:11:38 GMT</lastBuildDate>
+    <item>
+      <title>IBM得分完美10 ...關鍵任務OS AIX中的脆弱性</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ibm_aix_critical_vulnerabilities/</link>
+      <description><![CDATA[ Big Blue的Workstation Workhorse修補了網絡安裝管理器中的漏洞，可以讓  ibm中的壞人“強烈建議”運行其高級交互式執行官（AIX）的客戶在披露兩個關鍵漏洞後應用補丁，其中一個具有完美的10個嚴重分數。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ibm_aix_critical_vulnerabilities/</guid>
+      <pubDate>Wed, 19 Mar 2025 18:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>VA IT合同取消Doge吹噓...無論如何要在10天內結束</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/va_contract_cancellation_doge/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>隨著電力短路攤位項目，數據中心職位空缺率低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</link>
-      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。…]]></description>
+      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</guid>
       <pubDate>Wed, 19 Mar 2025 12:16:07 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>Schneider Electric將NVIDIA Digital Twin Tech插入AI的Power Hunger</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</link>
-      <description><![CDATA[因為猜測不會在   GTC  schneider Electric開發出數字雙胞胎系統上，以模擬AI數據中心的運行方式以準確設計適當的功率需求。 …]]></description>
+      <description><![CDATA[因為猜測不會在   GTC  schneider Electric開發出數字雙胞胎系統上，以模擬AI數據中心的運行方式以準確設計適當的功率需求。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</guid>
       <pubDate>Wed, 19 Mar 2025 11:07:11 GMT</pubDate>
     </item>
     <item>
       <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。]]></description>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。…    &lt;！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
       <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[計算機科學家斯蒂芬·塔勒（Stephen Thaler）再次告訴他的“創造力機器”，美國哥倫比亞特區巡迴賽上訴法院的上訴法院肯定了下級法院裁定，沒有人類投入的AI模型創建的內容無法獲得版權。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/appeals_court_says_ai_authors/</guid>
       <pubDate>Tue, 18 Mar 2025 23:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>CISA開火，現在重新安排並立即支付全額薪水的安全人員</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/</link>
-      <description><![CDATA[行動中的努力效率 美國政府的網絡安全和基礎設施安全局的動盪，又名CISA，在周二發生了又一次的扭曲，因為它恢復了工作人員，它在過去的幾周中一直開除了它，儘管他們在緩刑期間一直在付費 - 儘管他們已經在付費的時間裡付出了……&lt;/pers now to n of付費。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/</guid>
-      <pubDate>Tue, 18 Mar 2025 21:46:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
