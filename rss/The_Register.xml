@@ -4,11 +4,25 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 20:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 21:13:12 GMT</lastBuildDate>
+    <item>
+      <title>攻擊者滑動賓夕法尼亞州教師工會的500k+人的數據</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/pennsylvania_nonprofit_cyberattack/</link>
+      <description><![CDATA[ SSN，付款詳細信息和健康信息 賓夕法尼亞州立教育協會（PSEA）在2024年7月的“安全事件”上說，在包括財務和健康信息在內的超過500萬個人（包括財務和健康信息）上，“安全事件”暴露了敏感的個人數據。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/pennsylvania_nonprofit_cyberattack/</guid>
+      <pubDate>Wed, 19 Mar 2025 21:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>名稱，銀行信息以及來自頂級精子銀行的更多溢出物</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/sperm_bank_data_leak/</link>
+      <description><![CDATA[網絡犯罪正式脫離了 世界上最大的精子銀行之一，加利福尼亞冰可庫，處於棘手狀態。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/sperm_bank_data_leak/</guid>
+      <pubDate>Wed, 19 Mar 2025 20:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>歐盟說Google Scroogles應用程序製造商也為蘋果提供了反托拉斯必須做的列表</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/google_apple_dma_eu/</link>
-      <description><![CDATA[Chrome giant accused of tilting search results, blocking cheaper purchases, while iTitan told to open up iOS A year after kicking off its probe into three American tech giants, the European Union has fired off two sets of preliminary findings accusing Google parent Alphabet of failing to comply with Europe&#39;s monopoly-busting Digital Markets Act (DMA).…]]></description>
+      <description><![CDATA[Chrome colossus accused of tilting search results, blocking cheaper purchases, while iTitan told to open iOS A year after kicking off its probe into three American tech giants, the European Union has fired off two sets of preliminary findings accusing Google parent Alphabet of failing to comply with Europe&#39;s monopoly-busting Digital Markets Act (DMA).…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/google_apple_dma_eu/</guid>
       <pubDate>Wed, 19 Mar 2025 20:11:37 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>市議會中的“一生一次” IT擊中數據中心，但沒有丟失的文件</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/nottingham_outage_sitrep/</link>
-      <description><![CDATA[服務仍在下降，但是在地方政府工作的技術人員挽救了這一天 諾丁漢市議會繼續處理上週的怪胎中斷的後果，因為它證實了內部的IT專家設法防止任何數據失踪。 ……]]></description>
+      <description><![CDATA[服務仍在下降，但是在地方政府工作的技術人員挽救了這一天 諾丁漢市議會繼續處理上週的怪胎中斷的後果，因為它證實了內部的IT專家設法防止任何數據失踪。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/nottingham_outage_sitrep/</guid>
       <pubDate>Wed, 19 Mar 2025 11:31:09 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。…    &lt;！]]></description>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。 …    &lt;！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
       <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>向頂級LLM展示一些代碼，他們會欣喜地添加他們在培訓中看到的錯誤</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</link>
-      <description><![CDATA[再一次感覺...垃圾進，垃圾 研究人員發現，大型語言模型（LLMS）在完成完成缺陷的片段時傾向於拼湊出貨號。 …]]></description>
+      <description><![CDATA[再一次感覺...垃圾進，垃圾 研究人員發現，大型語言模型（LLMS）在完成完成缺陷的片段時傾向於拼湊出貨號。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</guid>
       <pubDate>Wed, 19 Mar 2025 08:32:05 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[顯然在10秒內將電池升至20 km範圍，儘管一如既往地... ymmv  中國電動汽車製造商Byd宣布了1,000伏特的增壓技術，它聲稱可以在兼容的車輛電池中以相同的時間將泵送到傳統的汽車中所需的相同時間。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/byd_megawatt_ev_charging/</guid>
       <pubDate>Wed, 19 Mar 2025 03:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普解雇了民主黨FTC專員，預示著大型技術政策轉變</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/trump_ftc_fired/</link>
-      <description><![CDATA[保持共和黨人不喜歡修理權，非競爭條款禁令或一些社交媒體審核  分析在周二的驚喜中，美國總統唐納德·特朗普（Donald Trump）在聯邦貿易委員會中解雇了兩名剩餘的民主黨專員，潛在地加速了消費者和競爭者對WatchDog的競爭，朝著技術和其他企業競爭，&lt;/vationdog的企業和其他公司的表現……&lt;/&lt;/&lt;/&lt;/p。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/trump_ftc_fired/</guid>
-      <pubDate>Wed, 19 Mar 2025 03:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA的Vera Rubin CPU，Hot Hot Hot 600 KW機架的GPU路線圖圖表課程</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/nvidia_charts_course_for_600kw/</link>
-      <description><![CDATA[現在，這就是我們所說的密集浮點compute    gtc   nvidia的機架尺度計算體系結構即將變得非常熱。 …]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/nvidia_charts_course_for_600kw/</guid>
-      <pubDate>Wed, 19 Mar 2025 01:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
