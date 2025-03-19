@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 10:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 10:42:24 GMT</lastBuildDate>
+    <item>
+      <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
+      <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國超市發現分手很難做到，因為沃爾瑪 - 阿斯達離婚延長了第四年</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/asda_walmart_tech_divorce/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[ Java 24中的24個JDK增強建議代表一個隨機標誌  Oracle JDK 24週二首次亮相，並以24個JDK增強建議或JEPS在Java計劃社區中所知。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/</guid>
       <pubDate>Tue, 18 Mar 2025 14:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google獲取目標WIZ將新鮮供應鏈攻擊與23K PWNED GITHUB REPOS聯繫起來</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/wiz_github_supply_chain/</link>
-      <description><![CDATA[廣告巨人剛剛確認其多雲的手臂將在$ 30B交易中包含安全店  InfoSeccers在Google Accerisition Target的InfoSeccers Wiz Wiz認為他們已經發現了周末發生的GitHub供應鏈攻擊的根本原因，他們說單獨的攻擊可能是責備。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/wiz_github_supply_chain/</guid>
-      <pubDate>Tue, 18 Mar 2025 13:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
