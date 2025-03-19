@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 08:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 08:45:16 GMT</lastBuildDate>
+    <item>
+      <title>顯示頂級LLMS車牌代碼，它們將結束錯誤而不是修復錯誤</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</link>
+      <description><![CDATA[再一次感覺...垃圾進，垃圾，在培訓和推理中 研究人員發現，當任務完成有缺陷的片段時，大語言模型（LLMS）傾向於拼湊出障礙。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</guid>
+      <pubDate>Wed, 19 Mar 2025 08:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>Boffins 3D-Print人造虹膜肌肉，彎曲雙向</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/mit_boffins_3d_print_iris_muscle/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>Raspberry Pi RP2350微控制器現在僅用於凡人</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/raspberry_rp2350_microcontroller_now_available/</link>
-      <description><![CDATA[對於pico 2太通用 覆盆子PI RP2350微控制器通常可用，這意味著現在可以從經銷商那裡挑選芯片，而不是從pico 2或像JLC這樣的製造商的PCB上拾取芯片。 ……。]]></description>
+      <description><![CDATA[對於pico 2太通用 覆盆子PI RP2350微控制器通常可用，這意味著現在可以從經銷商那裡挑選芯片，而不是從pico 2或像JLC這樣的製造商的PCB上拾取芯片。……。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/raspberry_rp2350_microcontroller_now_available/</guid>
       <pubDate>Tue, 18 Mar 2025 17:06:12 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有關應用程序隱私的爭議升級為法律鬥毆 紐約創意代理機構Zumedia的首席執行官菲利斯·賈格（Phyllis Jager）像你們中的某些人一樣，對圖片司機的隱私擔憂也許是為了證明他們正確地交付了他們的交付。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/doordash_sued_customer_fraudster/</guid>
       <pubDate>Tue, 18 Mar 2025 12:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的故事是兩個人力資源技術獨角獸，據稱間諜活動，並要求間諜藏在浴室裡</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/deel_rippling_espionage_accusations/</link>
-      <description><![CDATA[這種重磅炸彈標準的標準是  更新的競爭對手的人力資源技術獨角獸在法庭上互相爭吵而不是涉嫌的公司間諜。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/deel_rippling_espionage_accusations/</guid>
-      <pubDate>Tue, 18 Mar 2025 11:37:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
