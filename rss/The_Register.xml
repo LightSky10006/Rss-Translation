@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 03:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 04:16:05 GMT</lastBuildDate>
+    <item>
+      <title>中國的電動汽車冠軍揭示了超級快速的指控，使特斯拉吃塵埃</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/byd_megawatt_ev_charging/</link>
+      <description><![CDATA[顯然在10秒內將電池升至20 km範圍，儘管一如既往地... ymmv  中國電動汽車製造商Byd宣布了1,000伏特的增壓技術，它聲稱可以在兼容的車輛電池中以相同的時間將泵送到傳統的汽車中所需的相同時間。 virtual =&#39;/data_centre/_whitepaper_textlinks_top.html&#39; - &gt; ]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/byd_megawatt_ev_charging/</guid>
+      <pubDate>Wed, 19 Mar 2025 03:59:07 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普解雇了民主黨FTC專員，預示著大型技術政策轉變</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/trump_ftc_fired/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>奇怪的故事是兩個人力資源技術獨角獸，據稱間諜活動，並要求間諜藏在浴室裡</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/deel_rippling_espionage_accusations/</link>
-      <description><![CDATA[這種重磅炸彈標準的標準是  更新的競爭對手的人力資源技術獨角獸在法庭上互相爭吵而不是涉嫌的公司間諜。…]]></description>
+      <description><![CDATA[這種重磅炸彈標準的標準是  更新的競爭對手的人力資源技術獨角獸在法庭上互相爭吵而不是涉嫌的公司間諜。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/deel_rippling_espionage_accusations/</guid>
       <pubDate>Tue, 18 Mar 2025 11:37:09 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[隨著設備從“榮耀的傳感器”移動到“決策”    susecon 2025 邊緣技術終於超過了推導和AI，將kubernetes和ai送入軌道。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/suse_cto_interview/</guid>
       <pubDate>Tue, 18 Mar 2025 09:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI爬行者沒有學會在網站上玩得很好</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/ai_crawlers_sourcehut/</link>
-      <description><![CDATA[ Sourcehut表示，它是由LLM Bots   SourceHut  是一家開放源代碼友好的git-hosting服務。 - &gt; ]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/ai_crawlers_sourcehut/</guid>
-      <pubDate>Tue, 18 Mar 2025 08:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
