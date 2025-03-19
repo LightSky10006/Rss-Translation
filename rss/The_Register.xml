@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Tue, 18 Mar 2025 23:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 01:02:44 GMT</lastBuildDate>
+    <item>
+      <title>AI機器人作者是否有資格獲得版權？上訴法院說，仍然沒有</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/appeals_court_says_ai_authors/</link>
+      <description><![CDATA[計算機科學家斯蒂芬·塔勒（Stephen Thaler）再次告訴他的“創造力機器”，美國哥倫比亞特區巡迴賽上訴法院的上訴法院肯定了下級法院裁定，沒有人類投入的AI模型創建的內容無法獲得版權。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/appeals_court_says_ai_authors/</guid>
+      <pubDate>Tue, 18 Mar 2025 23:56:59 GMT</pubDate>
+    </item>
     <item>
       <title>CISA開火，現在重新安排並立即支付全額薪水的安全人員</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>Vivaldi 7.2瀏覽器想推翻技術的封建領主</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/vivaldi_72/</link>
-      <description><![CDATA[首席執行官 首席執行官  對小型市場股票技術的艱鉅要求，但“這是決定我們想要哪種互聯網的時刻”    以Vivaldi 7.2的形式到達了一個新的，更快的瀏覽器，這使其首席執行官有機會抗議技術巨頭的力量。]]></description>
+      <description><![CDATA[首席執行官      對微小市場份額技術的艱鉅的要求，但“這是決定什麼樣的互聯網”。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/vivaldi_72/</guid>
       <pubDate>Tue, 18 Mar 2025 16:24:10 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>AI爬行者沒有學會在網站上玩得很好</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/ai_crawlers_sourcehut/</link>
-      <description><![CDATA[ Sourcehut說，它是由LLM Bots   SourceHut銷售的，這是一家開源Git-hosting Service。]]></description>
+      <description><![CDATA[ Sourcehut表示，它是由LLM Bots   SourceHut  是一家開放源代碼友好的git-hosting服務。 - &gt; ]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/ai_crawlers_sourcehut/</guid>
       <pubDate>Tue, 18 Mar 2025 08:36:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[“月球廠工廠”的另一個成功和Starlink等人的額外競爭對手  Google試圖與氣球提供遠程區域連接的嘗試已成為一家獨立公司，這對於該公司試圖開發突破性技術的罕見成功。………]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/google_loon_balloon_spun_out/</guid>
       <pubDate>Tue, 18 Mar 2025 05:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>現在在野外積極利用Apache tomcat中的“死去的簡單”劫持洞”</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</link>
-      <description><![CDATA[一個提取請求，一個中毒的會話文件，服務器的您的  更新了 apache tomcat中的一個微不足道的缺陷，允許遠程代碼執行和對敏感文件的訪問在其披露的一周內在野外受到攻擊。………。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/apache_tomcat_java_rce_flaw/</guid>
-      <pubDate>Tue, 18 Mar 2025 00:44:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
