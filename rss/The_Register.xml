@@ -4,11 +4,18 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Wed, 19 Mar 2025 10:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 11:12:43 GMT</lastBuildDate>
+    <item>
+      <title>Schneider Electric將NVIDIA Digital Twin Tech插入AI的Power Hunger</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</link>
+      <description><![CDATA[因為猜測不會在   GTC  schneider Electric開發出數字雙胞胎系統上，以模擬AI數據中心的運行方式以準確設計適當的功率需求。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</guid>
+      <pubDate>Wed, 19 Mar 2025 11:07:11 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。]]></description>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。…    &lt;！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
       <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&#39;僅&#39;當地訪問錯誤，但在N韓國，俄羅斯和中國攻擊圖片的重要部分 趨勢微型在Windows中發現的剝削大道已在長達八年的間諜活動中使用，但微軟沒有修復的跡象，但顯然認為這是一個很低的優先級。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/microsoft_trend_flaw/</guid>
       <pubDate>Tue, 18 Mar 2025 15:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle JDK 24出現在罕見的版本和功能計數中</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/</link>
-      <description><![CDATA[ Java 24中的24個JDK增強建議代表一個隨機標誌  Oracle JDK 24週二首次亮相，並以24個JDK增強建議或JEPS在Java計劃社區中所知。……]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/</guid>
-      <pubDate>Tue, 18 Mar 2025 14:30:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
