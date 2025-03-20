@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 02:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 04:41:49 GMT</lastBuildDate>
+    <item>
+      <title>騰訊減慢了GPU推出的步伐，因為它從更少的加速器中扭曲了更多性能</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</link>
+      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。 …]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</guid>
+      <pubDate>Thu, 20 Mar 2025 04:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>看來IBM再次削減工作，經典的雲擊中了</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/ibm_cuts_us_jobs/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>隨著電力短路攤位項目，數據中心職位空缺率低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</link>
-      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。 …]]></description>
+      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</guid>
       <pubDate>Wed, 19 Mar 2025 12:16:07 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。…    &lt;！]]></description>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。 …    &lt;！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
       <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[再一次感覺...垃圾進，垃圾 研究人員發現，大型語言模型（LLMS）在完成完成缺陷的片段時傾向於拼湊出貨號。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</guid>
       <pubDate>Wed, 19 Mar 2025 08:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boffins 3D-Print人造虹膜肌肉，彎曲雙向</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/mit_boffins_3d_print_iris_muscle/</link>
-      <description><![CDATA[如果這種光激活的東西有效，它可能會使建築機器人變得更加容易 - 或者使陽光下的laz laze po鍛煉 生物工程師已經齊聚在一起，以使人造肌肉在多個方向上拉動，這是在醫療和機器人中使用它們的重要一步。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/mit_boffins_3d_print_iris_muscle/</guid>
-      <pubDate>Wed, 19 Mar 2025 07:35:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
