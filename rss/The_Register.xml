@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 08:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 08:43:12 GMT</lastBuildDate>
+    <item>
+      <title>asahi linux失去了另一個突出的開發人員，因為GPU GURU稱其退出</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/asahi_linux_asahi_lina/</link>
+      <description><![CDATA[ Fedora Asahi Remix 42仍計劃在大約一個月內發布 另一個開發人員已退出Asahi Linux，該項目旨在在Apple Silicon上啟動Linux。…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/asahi_linux_asahi_lina/</guid>
+      <pubDate>Thu, 20 Mar 2025 08:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>美國太空部隊警告中國衛星在太空中正在“鬥爭”</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/us_space_force_warns_chinese/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>軟銀購買服務器級矽矽設計師安培計算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</link>
-      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing，該公司的籌碼公司是一家芯片設計的公司，該公司可以使服務器級矽製造基於Armp&gt;…    &lt;/per。]]></description>
+      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing的意圖，該公司的籌碼公司是一家芯片設計公司，該公司可以使服務器級矽製造基於Armp&gt;     &lt;/per。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</guid>
       <pubDate>Thu, 20 Mar 2025 05:29:12 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>名稱，銀行信息以及來自頂級精子銀行的更多溢出物</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/sperm_bank_data_leak/</link>
-      <description><![CDATA[網絡犯罪正式脫離了 世界上最大的精子銀行之一，加利福尼亞冰可庫，處於棘手狀態。…]]></description>
+      <description><![CDATA[網絡犯罪正式脫離了 世界上最大的精子銀行之一，加利福尼亞冰可庫，處於棘手狀態。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/sperm_bank_data_leak/</guid>
       <pubDate>Wed, 19 Mar 2025 20:56:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[因為猜測不會在   GTC  schneider Electric開發出數字雙胞胎系統上，以模擬AI數據中心的運行方式以準確設計適當的功率需求。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</guid>
       <pubDate>Wed, 19 Mar 2025 11:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
-      <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
