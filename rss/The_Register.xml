@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 16:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 17:38:18 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉·塞伯克（Tesla Cyber​​truck）召回＃8：外部修剪脫落，再次</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tesla_cybertruck_recall/</link>
+      <description><![CDATA[甚至沒有零件都希望與埃隆的鋼怪物 特斯拉發出了第八次塞伯拉克召回，這次是在外部裝飾面板上，在駕駛時冒著脫離風險的外部裝飾面板 - 第二次寬鬆的身體裝飾觸發了安全修復。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tesla_cybertruck_recall/</guid>
+      <pubDate>Thu, 20 Mar 2025 17:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>Big Red和Microsoft推出了更多主流Oracle用戶的Azure數據庫服務</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/oracle_microsoft_enterprise_db_azure/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>糟糕，他們又做了一次：微軟通過另一個可疑更新破壞了Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/outlook_outage_again/</link>
-      <description><![CDATA[測試？我們已經聽說過它  Microsoft電子郵件服務的用戶可能會在Outlook的網絡版本昨晚阻止對交換在線郵箱的訪問之後感覺到了獨特的déjàvu感。 …]]></description>
+      <description><![CDATA[測試？我們已經聽說過它  Microsoft電子郵件服務的用戶可能會在Outlook的網絡版本昨晚阻止對交換在線郵箱的訪問之後感覺到了獨特的déjàvu感。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/outlook_outage_again/</guid>
       <pubDate>Thu, 20 Mar 2025 12:12:20 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>軟銀購買服務器級矽矽設計師安培計算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</link>
-      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing的意圖，該公司的籌碼公司是一家芯片設計公司，該公司可以使服務器級矽製造基於Armp&gt;     &lt;/per。]]></description>
+      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing，該公司的籌碼公司是一家芯片設計的公司，該公司可以使服務器級矽製造基於Armp&gt;…    &lt;/per。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</guid>
       <pubDate>Thu, 20 Mar 2025 05:29:12 GMT</pubDate>
     </item>
     <item>
       <title>隨著DeepSeek的速度減慢了GPU推出的步伐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</link>
-      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。…]]></description>
+      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</guid>
       <pubDate>Thu, 20 Mar 2025 04:32:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Chrome colossus accused of tilting search results, blocking cheaper purchases, while iTitan told to open iOS A year after kicking off its probe into three American tech giants, the European Union has fired off two sets of preliminary findings accusing Google parent Alphabet of failing to comply with Europe&#39;s monopoly-busting Digital Markets Act (DMA).…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/google_apple_dma_eu/</guid>
       <pubDate>Wed, 19 Mar 2025 20:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM得分完美10 ...關鍵任務OS AIX中的脆弱性</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ibm_aix_critical_vulnerabilities/</link>
-      <description><![CDATA[ Big Blue的Workstation Workhorse修補了網絡安裝管理器中的漏洞，可以讓  ibm中的壞人“強烈建議”運行其高級交互式執行官（AIX）的客戶在披露兩個關鍵漏洞後應用補丁，其中一個具有完美的10個嚴重分數。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ibm_aix_critical_vulnerabilities/</guid>
-      <pubDate>Wed, 19 Mar 2025 18:58:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
