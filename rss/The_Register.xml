@@ -4,11 +4,18 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 04:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 05:38:40 GMT</lastBuildDate>
+    <item>
+      <title>軟銀購買服務器級矽矽設計師安培計算</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</link>
+      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing的意圖，該公司的籌碼公司是一家芯片設計公司，該公司可以使服務器級矽製造基於Armp&gt;     &lt;/per。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</guid>
+      <pubDate>Thu, 20 Mar 2025 05:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>騰訊減慢了GPU推出的步伐，因為它從更少的加速器中扭曲了更多性能</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</link>
-      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。 …]]></description>
+      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</guid>
       <pubDate>Thu, 20 Mar 2025 04:32:43 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>隨著電力短路攤位項目，數據中心職位空缺率低</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</link>
-      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。…]]></description>
+      <description><![CDATA[供應鍊和關稅問題可能會在多個市場上遇到麻煩。由於電力短缺，需求激增，加上新項目的延誤，為開發人員和客戶創造了一個具有挑戰性的環境。 …]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/</guid>
       <pubDate>Wed, 19 Mar 2025 12:16:07 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>Ubuntu 25.10計劃將GNU Coreutils換成生鏽</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</link>
-      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。 …    &lt;！]]></description>
+      <description><![CDATA[與內核 更容易替換 努力在ubuntu之後的版本中替換與生鏽的gnu coreutils（25.10），這也意味著更改軟件許可。…    &lt;！]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/</guid>
       <pubDate>Wed, 19 Mar 2025 10:27:13 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[“三年”的技術支持協議仍在運行 英國第三大雜貨零售商將在2025年第三季度從沃爾瑪完成其“三年”的技術離婚項目，而大多數項目人員已繼續前進。…&gt;…&gt;]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/asda_walmart_tech_divorce/</guid>
       <pubDate>Wed, 19 Mar 2025 09:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>向頂級LLM展示一些代碼，他們會欣喜地添加他們在培訓中看到的錯誤</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</link>
-      <description><![CDATA[再一次感覺...垃圾進，垃圾 研究人員發現，大型語言模型（LLMS）在完成完成缺陷的片段時傾向於拼湊出貨號。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/</guid>
-      <pubDate>Wed, 19 Mar 2025 08:32:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
