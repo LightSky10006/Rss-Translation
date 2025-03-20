@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 09:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 09:38:19 GMT</lastBuildDate>
+    <item>
+      <title>SAP Legacy ERP客戶仍然急於採用最新平台</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/sap_sees_little_progress_in/</link>
+      <description><![CDATA[分析師 說，即使是迫在眉睫的支持截止日期，也不會吸引ECC用戶將自己拖到S/4HANA上。]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/sap_sees_little_progress_in/</guid>
+      <pubDate>Thu, 20 Mar 2025 09:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>asahi linux失去了另一個突出的開發人員，因為GPU GURU稱其退出</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/asahi_linux_asahi_lina/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>軟銀購買服務器級矽矽設計師安培計算</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</link>
-      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing，該公司的籌碼公司是一家芯片設計的公司，該公司可以使服務器級矽製造基於Armp&gt;…    &lt;/per。]]></description>
+      <description><![CDATA[日本科技投資者期望自己的超級評分者和電子企業巨頭可以合作，這可能會使X86市場中的咬合 日本技術投資公司Softbank Group宣布其目的是宣布其收購Ampere Computing的意圖，該公司的籌碼公司是一家芯片設計公司，該公司可以使服務器級矽製造基於Armp&gt;     &lt;/per。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/</guid>
       <pubDate>Thu, 20 Mar 2025 05:29:12 GMT</pubDate>
     </item>
     <item>
       <title>隨著DeepSeek的速度減慢了GPU推出的步伐</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</link>
-      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。 …]]></description>
+      <description><![CDATA[中國巨人說，當地人比西方大型大規模更有效，並且有很小的資本支出可以證明它 中國科技巨頭騰訊自實施DeepSeek以來就減慢了GPU推出的步伐。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/</guid>
       <pubDate>Thu, 20 Mar 2025 04:32:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[服務仍在下降，但是在地方政府工作的技術人員挽救了這一天 諾丁漢市議會繼續處理上週的怪胎中斷的後果，因為它證實了內部的IT專家設法防止任何數據失踪。……]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/nottingham_outage_sitrep/</guid>
       <pubDate>Wed, 19 Mar 2025 11:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schneider Electric將NVIDIA Digital Twin Tech插入AI的Power Hunger</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</link>
-      <description><![CDATA[因為猜測不會在   GTC  schneider Electric開發出數字雙胞胎系統上，以模擬AI數據中心的運行方式以準確設計適當的功率需求。…]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/</guid>
-      <pubDate>Wed, 19 Mar 2025 11:07:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
