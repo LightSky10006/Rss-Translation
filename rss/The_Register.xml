@@ -4,7 +4,14 @@
     <title>寄存器</title>
     <link>https://www.theregister.com/</link>
     <description>咬住它的手 - 企業技術新聞和分析</description>
-    <lastBuildDate>Thu, 20 Mar 2025 13:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 13:43:26 GMT</lastBuildDate>
+    <item>
+      <title>太多的軟件供應鏈防禦聖經？ Boffins Distill建議</title>
+      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/software_supply_chain_defense/</link>
+      <description><![CDATA[如何避免其他太陽能，log4j和xz utils情況 有關軟件供應鏈攻擊的組織應重點關注基於角色的訪問控制，系統監控和邊界保護，根據有關該主題的新預印本文件。 …&gt;…]]></description>
+      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/software_supply_chain_defense/</guid>
+      <pubDate>Thu, 20 Mar 2025 13:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>英國的NCSC說，量詞後加密啟示錄將在10年內進行電視轉播。</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/ncsc_post_quantum_cryptogrpahy/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>糟糕，他們又做了一次：微軟通過另一個可疑更新破壞了Outlook</title>
       <link>https://go.theregister.com/feed/www.theregister.com/2025/03/20/outlook_outage_again/</link>
-      <description><![CDATA[測試？我們已經聽說過它  Microsoft電子郵件服務的用戶可能會在Outlook的網絡版本昨晚阻止對交換在線郵箱的訪問之後感覺到了獨特的déjàvu感。 …]]></description>
+      <description><![CDATA[測試？我們已經聽說過它  Microsoft電子郵件服務的用戶可能會在Outlook的網絡版本昨晚阻止對交換在線郵箱的訪問之後感覺到了獨特的déjàvu感。…]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/20/outlook_outage_again/</guid>
       <pubDate>Thu, 20 Mar 2025 12:12:20 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[技術渠道在“波動貿易政策”中增加了庫存。 CIO為了獲得相同錢的設備  評論美國總統唐納德·特朗普（Donald Trump）的“波動貿易政策”正在造成計算機供應商之間的不確定性，以及希望在Of-Off Oval Off Off Off Office Pariffs的遊戲中明智地使用預算。]]></description>
       <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/tariffs_tech_channel_uncertainty/</guid>
       <pubDate>Wed, 19 Mar 2025 15:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chimera Linux Ghosts RISC-V，因為沒有時間呆滯硬件</title>
-      <link>https://go.theregister.com/feed/www.theregister.com/2025/03/19/chimera_linux_riscv/</link>
-      <description><![CDATA[無GNU發行發行版背後的開發人員說，董事會對認真工作太慢 獨特的Chimera Linux發行版的創建者正在放棄對RISC-V的支持，因為KIT建立在開放指令套件基礎上的套件還不夠快，這是不夠快的，這就是開發渠道。]]></description>
-      <guid>https://go.theregister.com/feed/www.theregister.com/2025/03/19/chimera_linux_riscv/</guid>
-      <pubDate>Wed, 19 Mar 2025 14:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
